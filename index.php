@@ -4,12 +4,20 @@ error_reporting(-1);
 include (dirname(__FILE__).'/../teipot/Teipot.php');
 $teipot = Web::basehref() . '../teipot/';
 $theme =  Web::basehref() . '../theme/';
+
+$pot=new Teipot(dirname(__FILE__).'/gongora.sqlite', 'fr');
+$pot->file($pot->path);
+$doc=$pot->doc($pot->path);
+if (!isset($doc['body'])) $pot->search();
+
+
 ?><!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8" />
     <?php 
-echo '
+if(isset($doc['head'])) echo $doc['head']; 
+else echo '
 <title>Gongora, OBVIL</title>
 ';
     ?>
@@ -30,14 +38,61 @@ echo '
         <div id="main">
           <nav id="toolbar">
             <?php
+if (isset($doc['prevnext'])) echo $doc['prevnext'];
             ?>
           </nav>
           <div id="article">
-            <p>Bientôt ici, l’œuvre de Gongora.</p>
+          <?php
+if (isset($doc['bookrowid'])) { // bookfound
+  if(isset($doc['body'])) echo $doc['body'];
+  else; // ???
+  if ($pot->q && (!isset($doc['artname']) || $doc['artname']=='index')) echo $pot->concBook($doc['bookrowid']);
+}
+else { // searching
+  echo $pot->report();
+  echo $pot->biblio(array('date', 'title', 'occs'));
+  echo $pot->concByBook();
+}
+          ?>
           </div>
         </div>
         <aside id="aside">
           <?php
+if (isset($doc['bookname'])) {
+  if(isset($doc['download'])) echo "\n".'<nav id="download">' . $doc['download'] . '</nav>';
+  // auteur, titre, date
+  echo "\n".'<header>';
+  if ($doc['end']) echo "\n".'<div class="date">'.$doc['end'] .'</div>';
+  if ($doc['byline']) echo "\n".'<div class="byline">'.$doc['byline'] .'</div>';
+  echo "\n".'<a class="title" href="' . $pot->basehref() . $doc['bookname'] . '/">'.$doc['title'].'</a>';
+  echo "\n".'</header>';
+  // rechercher dans ce livre
+  echo '
+  <form action=".#conc" name="searchbook" id="searchbook">
+    <input name="q" id="q" onclick="this.select()" class="search" size="20" placeholder="Dans ce volume" title="Dans ce volume" value="'. str_replace('"', '&quot;', $pot->q) .'"/>
+    <input type="image" id="go" alt="&gt;" value="&gt;" name="go" src="'. $theme . 'img/loupe.png"/>
+  </form>
+  ';
+  // table des matières
+  echo '
+          <div id="toolpan" class="toc">
+            <div class="toc">
+              '.$doc['toc'].'
+            </div>
+          </div>
+  ';
+}
+// accueil ? formulaire de recherche général
+else {
+  echo'
+    <form action="">
+      <input name="q" class="text" placeholder="Rechercher" value="'.str_replace('"', '&quot;', $pot->q).'"/>
+      <button type="reset" onclick="return Form.reset(this.form)">Effacer</button>
+      <button type="submit">Rechercher</button>
+    </form>
+  ';
+}
+
           ?>
         </aside>
 

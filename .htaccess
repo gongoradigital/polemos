@@ -1,0 +1,6 @@
+# pour install sur serveur
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{THE_REQUEST} ^[^/]*(.*/gongora/)?
+RewriteRule  ^(.*)$ %1index.php/$1 [QSA]
