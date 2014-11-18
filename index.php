@@ -2,8 +2,8 @@
 ini_set('display_errors', '1');
 error_reporting(-1);
 include (dirname(__FILE__).'/../teipot/Teipot.php');
-$teipot=$pot->basehref().'../teipot/';
-$theme=$pot->basehref().'../theme/';
+$teipot = Web::basehref() . '../teipot/';
+$theme =  Web::basehref() . '../theme/';
 ?><!DOCTYPE html>
 <html>
   <head>
@@ -22,7 +22,7 @@ echo '
     <div id="center">
       <header id="header">
         <h1>
-          <a href="<?php echo $pot->basehref(); ?>">OBVIL, polémique gongorine</a>
+          <a href="<?php echo Web::basehref(); ?>">OBVIL, polémique gongorine</a>
         </h1>
         <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $theme; ?>img/logo-obvil.png" alt="OBVIL"></a>
       </header>
@@ -33,7 +33,7 @@ echo '
             ?>
           </nav>
           <div id="article">
-            <p>Bientôt ici, l’œuvre de Gongora</p>
+            <p>Bientôt ici, l’œuvre de Gongora.</p>
           </div>
         </div>
         <aside id="aside">
