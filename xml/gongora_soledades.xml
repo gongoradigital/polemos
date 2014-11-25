@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--<?xml-stylesheet type="text/xsl" href="http://svn.code.sf.net/p/algone/code/teipub/xsl/tei2html.xsl"?>-->
-<!--odt2tei: 2014-11-18T14:36:12+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<!--odt2tei: 2014-11-25T22:43:50+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,32 +10,34 @@
         <author>Góngora, Luis de (1561-1627)</author>
       </titleStmt>
       <editionStmt>
-        <respStmt>Jaime Galbarro</respStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Jaime Galbarro</name>
+          <resp>Édition TEI</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date>2014</date>
-        <idno>[later, will be the official Internet link]</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>[YOUR allowed bibliographic reference, for us, usually last edition during author life] </bibl>
+        <bibl>[source bibliographique ?]</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date>[creation date, 1613 ?]</date>
+        <date>[date de création ?]</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="es"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <pb/>
       <div>
         <head>AL DUQUE DE BÉJAR</head>
         <l>Pasos de un peregrino son, errante,</l>
@@ -914,7 +916,7 @@
         <l>mientras coronan pámpanos a Alcides,</l>
         <l>clava empuñe Liëo.</l>
         <l>Ven, Himeneo, ven; ven, Himeneo ».</l>
-        <l>CORO II</l>
+        <label>CORO II</label>
         <l>« Ven, Himeneo, y tantas le dé a Pales</l>
         <l>cuantas a Palas dulces prendas esta,</l>
         <l>apenas hija hoy, madre mañana.</l>
@@ -1175,6 +1177,997 @@
         <l>que, siendo Amor una deidad alada,</l>
         <l>bien previno la hija de la espuma</l>
         <l>a batallas de amor campo de pluma.</l>
+      </div>
+      <div>
+        <head>SOLEDAD SEGUNDA</head>
+        <l>Éntrase el mar por un arroyo breve</l>
+        <l>que a recebillo con sediento paso</l>
+        <l>de su roca natal se precipita,</l>
+        <l>y mucha sal no solo en poco vaso,</l>
+        <l>mas su rüina bebe,</l>
+        <l>y su fin (cristalina mariposa,</l>
+        <l>no alada, sino undosa)</l>
+        <l>en el farol de Tetis solicita.</l>
+        <l>Muros desmantelando, pues, de arena,</l>
+        <l>centauro ya espumoso el Oceano,</l>
+        <l>medio mar, medio ría,</l>
+        <l>dos veces huella la campaña al día,</l>
+        <l>escalar pretendiendo el monte en vano,</l>
+        <l>de quien es dulce vena</l>
+        <l>el tarde ya torrente</l>
+        <l>arrepentido, y aun retrocedente.</l>
+        <l>Eral lozano así, novillo tierno,</l>
+        <l>de bien nacido cuerno</l>
+        <l>mal lunada la frente,</l>
+        <l>retrógrado cedió en desigual lucha</l>
+        <l>a duro toro, aun contra el viento armado:</l>
+        <l>no, pues, de otra manera</l>
+        <l>a la violencia mucha</l>
+        <l>del padre de las aguas, coronado</l>
+        <l>de blancas ovas y de espuma verde,</l>
+        <l>resiste obedeciendo, y tierra pierde.</l>
+        <l>En la incierta ribera,</l>
+        <l>guarnición desigual a tanto espejo,</l>
+        <l>descubrió la Alba a nuestro peregrino</l>
+        <l>con todo el villanaje ultramarino,</l>
+        <l>que a la fiesta nupcial, de verde tejo</l>
+        <l>toldado, ya capaz tradujo pino.</l>
+        <l>Los escollos el Sol rayaba, cuando</l>
+        <l>con remos gemidores</l>
+        <l>dos pobres se aparecen pescadores,</l>
+        <l>nudos al mar, de cáñamo, fiando.</l>
+        <l>Ruiseñor en los bosques, no, más blando</l>
+        <l>el verde robre, que es barquillo ahora,</l>
+        <l>saludar vio la Aurora,</l>
+        <l>que al uno en dulces quejas, y no pocas,</l>
+        <l>ondas endurecer, liquidar rocas.</l>
+        <l>Señas mudas la dulce voz doliente</l>
+        <l>permitió solamente</l>
+        <l>a la turba, que dar quisiera voces</l>
+        <l>a la que de un ancón segunda haya,</l>
+        <l>cristal pisando azul con pies veloces,</l>
+        <l>salió improvisa, de una y otra playa</l>
+        <l>vínculo desatado, instable puente.</l>
+        <l>La prora diligente</l>
+        <l>no solo dirigió a la opuesta orilla,</l>
+        <l>mas redujo la música barquilla,</l>
+        <l>que en dos cuernos del mar caló no breves</l>
+        <l>sus plomos graves y sus corchos leves.</l>
+        <l>Los senos ocupó del mayor leño</l>
+        <l>la marítima tropa,</l>
+        <l>usando al entrar, todos,</l>
+        <l>cuantos les enseñó corteses modos</l>
+        <l>en la lengua del agua ruda escuela</l>
+        <l>con nuestro forastero, que la popa</l>
+        <l>del canoro escogió bajel pequeño.</l>
+        <l>Aquél, las ondas escarchando, vuela;</l>
+        <l>éste, con perezoso movimiento,</l>
+        <l>el mar encuentra, cuya espuma cana</l>
+        <l>su parda aguda prora</l>
+        <l>resplandeciente cuello</l>
+        <l>hace de augusta Coya peruana,</l>
+        <l>a quien hilos el sur tributó ciento</l>
+        <l>de perlas cada hora.</l>
+        <l>Lágrimas no enjugó más de la Aurora</l>
+        <l>sobre violas negras la mañana,</l>
+        <l>que arrolló su espolón con pompa vana</l>
+        <l>caduco aljófar, pero aljófar bello.</l>
+        <l>Dando el huésped licencia para ello,</l>
+        <l>recurren no a las redes que, mayores,</l>
+        <l>mucho océano y pocas aguas prenden,</l>
+        <l>sino a las que ambiciosas menos penden,</l>
+        <l>laberinto nudoso, de marino</l>
+        <l>Dédalo, si de leño no, de lino</l>
+        <l>fábrica escrupulosa, y aunque incierta,</l>
+        <l>siempre murada, pero siempre abierta.</l>
+        <l>Liberalmente de los pescadores</l>
+        <l>al deseo el estero corresponde,</l>
+        <l>sin valelle al lascivo ostión el justo</l>
+        <l>arnés de hueso, donde</l>
+        <l>lisonja breve al gusto,</l>
+        <l>mas incentiva, esconde:</l>
+        <l>contagio original quizá de aquella</l>
+        <l>que (siempre hija bella</l>
+        <l>de los cristales) una</l>
+        <l>venera fue su cuna.</l>
+        <l>Mallas visten de cáñamo al lenguado,</l>
+        <l>mientras, en su piel lúbrica fiado,</l>
+        <l>el congrio, que viscosamente liso</l>
+        <l>las telas burlar quiso,</l>
+        <l>tejido en ellas se quedó burlado.</l>
+        <l>Las redes califica menos gruesas,</l>
+        <l>sin romper hilo alguno,</l>
+        <l>pompa, el salmón, de las reales mesas,</l>
+        <l>cuando no de los campos de Neptuno,</l>
+        <l>y el travieso robalo,</l>
+        <l>guloso de los cónsules regalo.</l>
+        <l>Estos y muchos más, unos desnudos,</l>
+        <l>otros de escamas fáciles armados,</l>
+        <l>dio la ría pescados,</l>
+        <l>que, nadando en un piélago de nudos,</l>
+        <l>no agravan poco el negligente robre</l>
+        <l>espacïosamente dirigido</l>
+        <l>al bienaventurado albergue pobre,</l>
+        <l>que, de carrizos frágiles tejido,</l>
+        <l>si fabricado no de gruesas cañas,</l>
+        <l>bóvedas lo coronan de espadañas.</l>
+        <l>El peregrino, pues, haciendo en tanto</l>
+        <l>instrumento el bajel, cuerdas los remos,</l>
+        <l>al céfiro encomienda los extremos</l>
+        <l>deste métrico llanto:</l>
+        <l>« Si de aire articulado</l>
+        <l>no son dolientes lágrimas süaves</l>
+        <l>estas mis quejas graves,</l>
+        <l>voces de sangre, y sangre son, del alma.</l>
+        <l>Fíelas de tu calma,</l>
+        <l>¡oh mar !, quien otra vez las ha fiado</l>
+        <l>de tu fortuna aun más que de su hado.</l>
+        <l>¡Oh mar, oh tú, supremo</l>
+        <l>moderador piadoso de mis daños ! :</l>
+        <l>tuyos serán mis años,</l>
+        <l>en tabla redimidos, poco fuerte,</l>
+        <l>de la bebida Muerte,</l>
+        <l>que ser quiso, en aquel peligro extremo,</l>
+        <l>ella, el forzado, y su guadaña, el remo.</l>
+        <l>Regiones pise ajenas,</l>
+        <l>o clima proprio, planta mía perdida,</l>
+        <l>tuya será mi vida,</l>
+        <l>si vida me ha dejado que sea tuya</l>
+        <l>quien me fuerza a que huya</l>
+        <l>de su prisión, dejando mis cadenas</l>
+        <l>rastro en tus ondas más que en tus arenas.</l>
+        <l>Audaz mi pensamiento</l>
+        <l>el cenit escaló, plumas vestido,</l>
+        <l>cuyo vuelo atrevido,</l>
+        <l>si no ha dado su nombre a tus espumas,</l>
+        <l>de sus vestidas plumas</l>
+        <l>conservarán el desvanecimiento</l>
+        <l>los anales dïáfanos del viento.</l>
+        <l>Esta, pues, culpa mía</l>
+        <l>el timón alternar, menos seguro,</l>
+        <l>y el báculo más duro</l>
+        <l>un lustro ha hecho a mi dudosa mano,</l>
+        <l>solicitando en vano</l>
+        <l>las alas sepultar de mi osadía</l>
+        <l>donde el Sol nace o donde muere el día.</l>
+        <l>Muera, enemiga amada,</l>
+        <l>muera mi culpa, y tu desdén le guarde,</l>
+        <l>arrepentido tarde,</l>
+        <l>suspiro que mi muerte haga leda,</l>
+        <l>cuando no lo suceda,</l>
+        <l>o por breve, o por tibia, o por cansada,</l>
+        <l>lágrima antes enjuta que llorada.</l>
+        <l>Naufragio ya segundo,</l>
+        <l>o filos pongan, de homicida hierro,</l>
+        <l>fin duro a mi destierro,</l>
+        <l>tan generosa fe, no fácil onda,</l>
+        <l>no poca tierra esconda:</l>
+        <l>urna suya el océano profundo,</l>
+        <l>y obeliscos los montes sean, del mundo.</l>
+        <l>Túmulo tanto debe,</l>
+        <l>agradecido, Amor, a mi pie errante;</l>
+        <l>líquido, pues, diamante</l>
+        <l>calle mis huesos, y elevada cima</l>
+        <l>selle sí, mas no oprima</l>
+        <l>esta, que le fiaré, ceniza breve,</l>
+        <l>si hay ondas mudas y si hay tierra leve ».</l>
+        <l>No es sordo el mar (la erudición engaña),</l>
+        <l>bien que tal vez, sañudo,</l>
+        <l>no oya al piloto, o le responda fiero:</l>
+        <l>sereno, disimula más orejas</l>
+        <l>que sembró dulces quejas,</l>
+        <l>canoro labrador, el forastero</l>
+        <l>en su undosa campaña.</l>
+        <l>Espongïoso, pues, se bebió y mudo</l>
+        <l>el lagrimoso reconocimiento,</l>
+        <l>de cuyos dulces números no poca</l>
+        <l>concentüosa suma,</l>
+        <l>en los dos giros de invisible pluma</l>
+        <l>que fingen sus dos alas, hurtó el viento;</l>
+        <l>Eco, vestida una cavada roca,</l>
+        <l>solicitó curiosa y guardó avara</l>
+        <l>la más dulce, si no la menos clara</l>
+        <l>sílaba, siendo en tanto</l>
+        <l>la vista de las chozas fin del canto.</l>
+        <l>Yace en el mar, si no continüada,</l>
+        <l>isla mal de la tierra dividida,</l>
+        <l>cuya forma tortuga es, perezosa:</l>
+        <l>díganlo cuantos siglos ha que nada,</l>
+        <l>sin besar de la playa espacïosa</l>
+        <l>la arena, de las ondas repetida.</l>
+        <l>A pesar, pues, del agua que la oculta,</l>
+        <l>concha, si mucha no, capaz ostenta</l>
+        <l>de albergues, donde la humildad contenta</l>
+        <l>mora, y Pomona se venera culta.</l>
+        <l>Dos son las chozas, pobre su artificio</l>
+        <l>más aún que caduca su materia:</l>
+        <l>de los mancebos dos, la mayor, cuna,</l>
+        <l>de las redes la otra, y su ejercicio,</l>
+        <l>competente oficina.</l>
+        <l>Lo que agradable más se determina</l>
+        <l>del breve islote ocupa su fortuna,</l>
+        <l>los extremos de fausto y de miseria</l>
+        <l>moderando. En la plancha los recibe</l>
+        <l>el padre de los dos, émulo cano</l>
+        <l>del sagrado Nereo, no ya tanto</l>
+        <l>porque a la par de los escollos vive,</l>
+        <l>porque en el mar preside, comarcano,</l>
+        <l>al ejercicio piscatorio, cuanto</l>
+        <l>por seis hijas, por seis deidades bellas,</l>
+        <l>del cielo espumas y del mar estrellas.</l>
+        <l>Acogió al huésped con urbano estilo,</l>
+        <l>y a su voz, que los juncos obedecen,</l>
+        <l>tres hijas suyas cándidas se ofrecen,</l>
+        <l>que engaños construyendo están, de hilo.</l>
+        <l>El huerto le da esotras, a quien debe,</l>
+        <l>si púrpura la rosa, el lilio nieve.</l>
+        <l>De jardín culto así en fingida gruta</l>
+        <l>salteó al labrador pluvia improvisa</l>
+        <l>de cristales inciertos, a la seña,</l>
+        <l>o a la que torció llave el fontanero:</l>
+        <l>urna de Acuario la imitada peña,</l>
+        <l>lo embiste incauto, y si con pie grosero</l>
+        <l>para la fuga apela, nubes pisa,</l>
+        <l>burlándolo aun la parte más enjuta.</l>
+        <l>La vista saltearon poco menos</l>
+        <l>del huésped admirado</l>
+        <l>las no líquidas perlas, que al momento</l>
+        <l>a los corteses juncos (por que el viento</l>
+        <l>nudos les halle un día, bien que ajenos)</l>
+        <l>el cáñamo remiten, anudado,</l>
+        <l>y de Vertumno al término labrado</l>
+        <l>el breve hierro, cuyo corvo diente</l>
+        <l>las plantas le mordía cultamente.</l>
+        <l>Ponderador saluda afectüoso</l>
+        <l>del esplendor que admira, el extranjero,</l>
+        <l>al Sol en seis luceros dividido;</l>
+        <l>y, honestamente al fin correspondido</l>
+        <l>del coro vergonzoso,</l>
+        <l>al viejo sigue, que prudente ordena</l>
+        <l>los términos confunda de la cena</l>
+        <l>la comida prolija de pescados,</l>
+        <l>raros muchos, y todos no comprados.</l>
+        <l>Impidiéndole el día al forastero</l>
+        <l>con dilaciones sordas, lo divierte</l>
+        <l>entre unos verdes carrizales, donde</l>
+        <l>armonïoso número se esconde</l>
+        <l>de blancos cisnes, de la misma suerte</l>
+        <l>que gallinas domésticas al grano,</l>
+        <l>a la voz concurrientes del anciano.</l>
+        <l>En la más seca, en la más limpia anea</l>
+        <l>vivificando están muchos sus huevos,</l>
+        <l>y mientras dulce aquél su muerte anuncia</l>
+        <l>entre la verde juncia,</l>
+        <l>sus pollos éste al mar conduce nuevos,</l>
+        <l>de Espío y de Nesea</l>
+        <l>(cuando más escurecen las espumas)</l>
+        <l>nevada invidia sus nevadas plumas.</l>
+        <l>Hermana de Faetón, verde el cabello,</l>
+        <l>les ofrece el que joven ya gallardo</l>
+        <l>de flexüosas mimbres garbín pardo</l>
+        <l>tosco le ha encordonado, pero bello.</l>
+        <l>Lo más liso trepó, lo más sublime</l>
+        <l>venció su agilidad, y artificiosa</l>
+        <l>tejió en sus ramas inconstantes nidos,</l>
+        <l>donde celosa arrulla y ronca gime</l>
+        <l>la ave lasciva de la cipria diosa.</l>
+        <l>Mástiles coronó menos crecidos</l>
+        <l>gavia no tan capaz: extraño todo,</l>
+        <l>el designio, la fábrica y el modo.</l>
+        <l>A pocos pasos lo admiró no menos</l>
+        <l>montecillo, las sienes laureado,</l>
+        <l>traviesos despidiendo moradores</l>
+        <l>de sus confusos senos,</l>
+        <l>conejuelos que, el viento consultado,</l>
+        <l>salieron retozando a pisar flores,</l>
+        <l>el más tímido al fin más ignorante</l>
+        <l>del plomo fulminante.</l>
+        <l>Cóncavo fresno, a quien gracioso indulto</l>
+        <l>de su caduco natural permite</l>
+        <l>que a la encina vivaz robusto imite,</l>
+        <l>y hueco exceda al alcornoque inculto,</l>
+        <l>verde era pompa de un vallete oculto,</l>
+        <l>cuando frondoso alcázar no de aquella,</l>
+        <l>que sin corona vuela y sin espada,</l>
+        <l>susurrante Amazona, Dido alada,</l>
+        <l>de ejército más casto, de más bella</l>
+        <l>república, ceñida en vez de muros</l>
+        <l>de cortezas: en esta, pues, Cartago</l>
+        <l>reina la abeja, oro brillando vago,</l>
+        <l>o el jugo beba de los aires puros,</l>
+        <l>o el sudor de los cielos, cuando liba</l>
+        <l>de las mudas estrellas la saliva;</l>
+        <l>burgo eran suyo el tronco informe, el breve</l>
+        <l>corcho, y moradas pobres sus vacíos</l>
+        <l>del, que más solicita los desvíos</l>
+        <l>de la isla, plebeyo enjambre leve.</l>
+        <l>Llegaron luego donde al mar se atreve,</l>
+        <l>si promontorio no, un cerro elevado,</l>
+        <l>de cabras estrellado,</l>
+        <l>iguales, aunque pocas,</l>
+        <l>a la que, imagen décima del cielo,</l>
+        <l>flores su cuerno es, rayos su pelo.</l>
+        <l>« Estas —dijo el isleño venerable—</l>
+        <l>y aquellas que, pendientes de las rocas,</l>
+        <l>tres o cuatro desean para ciento</l>
+        <l> (redil las ondas y pastor el viento)</l>
+        <l>libres discurren, su nocivo diente</l>
+        <l>paz hecha con las plantas inviolable ».</l>
+        <l>Estimando seguía el peregrino,</l>
+        <l>al venerable isleño,</l>
+        <l>de muchos pocos numeroso dueño,</l>
+        <l>cuando los suyos enfrenó de un pino</l>
+        <l>el pie villano, que groseramente</l>
+        <l>los cristales pisaba de una fuente.</l>
+        <l>Ella, pues, sierpe, y sierpe al fin pisada</l>
+        <l>(aljófar vomitando fugitivo</l>
+        <l>en lugar de veneno),</l>
+        <l>torcida esconde, ya que no enroscada,</l>
+        <l>las flores que de un parto dio, lascivo,</l>
+        <l>aura fecunda al matizado seno</l>
+        <l>del huerto, en cuyos troncos se desata</l>
+        <l>de las escamas que vistió, de plata.</l>
+        <l>Seis chopos, de seis hiedras abrazados,</l>
+        <l>tirsos eran del griego dios, nacido</l>
+        <l>segunda vez, que en pámpanos desmiente</l>
+        <l>los cuernos de su frente;</l>
+        <l>y cual mancebos tejen anudados</l>
+        <l>festivos corros en alegre ejido,</l>
+        <l>coronan ellos el encanecido</l>
+        <l>suelo, de lilios, que en fragrantes copos</l>
+        <l>nevó el mayo, a pesar de los seis chopos.</l>
+        <l>Este sitio las bellas seis hermanas</l>
+        <l>escogen, agraviando</l>
+        <l>en breve espacio mucha primavera</l>
+        <l>con las mesas, cortezas ya livianas</l>
+        <l>del árbol que ofreció a la edad primera</l>
+        <l>duro alimento, pero sueño blando.</l>
+        <l>Nieve hilada, y por sus manos bellas</l>
+        <l>caseramente a telas reducida,</l>
+        <l>manteles blancos fueron.</l>
+        <l>Sentados, pues, sin ceremonias, ellas</l>
+        <l>en torneado fresno la comida</l>
+        <l>con silencio sirvieron.</l>
+        <l>Rompida el agua en las menudas piedras,</l>
+        <l>cristalina sonante era tïorba,</l>
+        <l>y las confusamente acordes aves,</l>
+        <l>entre las verdes roscas de las hiedras,</l>
+        <l>muchas eran, y muchas veces nueve</l>
+        <l>aladas musas, que, de pluma leve</l>
+        <l>engañada su culta lira corva,</l>
+        <l>metros inciertos sí, pero süaves,</l>
+        <l>en idïomas cantan diferentes,</l>
+        <l>mientras, cenando en pórfidos lucientes,</l>
+        <l>lisonjean apenas</l>
+        <l>al Júpiter marino tres sirenas.</l>
+        <l>Comieron, pues, y rudamente dadas</l>
+        <l>gracias el pescador a la divina</l>
+        <l>próvida mano, « ¡Oh bien vividos años,</l>
+        <l>oh canas —dijo el huésped— no peinadas</l>
+        <l>con boj dentado o con rayada espina,</l>
+        <l>sino con verdaderos desengaños !</l>
+        <l>Pisad dichoso esta esmeralda bruta</l>
+        <l>en mármol engastada siempre undoso,</l>
+        <l>jubilando la red en los, que os restan,</l>
+        <l>felices años, y la humedecida,</l>
+        <l>o poco rato enjuta,</l>
+        <l>próxima arena de esa opuesta playa</l>
+        <l>la remota Cambaya</l>
+        <l>sea de hoy más a vuestro leño ocioso;</l>
+        <l>y el mar que os la divide, cuanto cuestan</l>
+        <l>océano importuno</l>
+        <l>a las quinas (del viento aun veneradas)</l>
+        <l>sus ardientes veneros,</l>
+        <l>su esfera lapidosa de luceros.<seg type="tab">    </seg><seg type="tab">    </seg></l>
+        <l>Del pobre albergue a la barquilla pobre,</l>
+        <l>geómetra prudente, el orbe mida</l>
+        <l>vuestra planta, impedida,</l>
+        <l>si de purpúreas conchas no istriadas,</l>
+        <l>de trágicas rüinas de alto robre,</l>
+        <l>que, el tridente acusando de Neptuno,</l>
+        <l>menos quizá dio astillas</l>
+        <l>que ejemplos de dolor a estas orillas ».</l>
+        <l>« Días ha muchos, oh mancebo —dijo</l>
+        <l>el pescador anciano—,</l>
+        <l>que en el uno cedí y el otro hermano</l>
+        <l>el duro remo, el cáñamo prolijo;</l>
+        <l>muchos ha dulces días</l>
+        <l>que cisnes me recuerdan a la hora</l>
+        <l>que, huyendo la Aurora</l>
+        <l>las canas de Titón, halla las mías,</l>
+        <l>a pesar de mi edad, no en la alta cumbre</l>
+        <l>de aquel morro difícil (cuyas rocas</l>
+        <l>tarde o nunca pisaron cabras pocas,</l>
+        <l>y milano venció con pesadumbre),</l>
+        <l>sino desotro escollo al mar pendiente,</l>
+        <l>de donde ese teatro de Fortuna</l>
+        <l>descubro, ese voraz, ese profundo</l>
+        <l>campo ya de sepulcros, que, sediento,</l>
+        <l>cuanto en vasos de abeto Nuevo Mundo,</l>
+        <l>tributos, digo, américos, se bebe</l>
+        <l>en túmulos de espuma paga breve.</l>
+        <l>Bárbaro observador, mas diligente,</l>
+        <l>de las inciertas formas de la Luna,</l>
+        <l>a cada conjunción su pesquería,</l>
+        <l>y a cada pesquería su instrumento,</l>
+        <l>más o menos nudoso, atribüido,</l>
+        <l>mis hijos dos en un batel despido,</l>
+        <l>que, el mar cribando en redes no comunes,</l>
+        <l>vieras intempestivos algún día</l>
+        <l>(entre un vulgo nadante, digno apenas</l>
+        <l>de escama, cuanto más de nombre) atunes</l>
+        <l>vomitar ondas y azotar arenas.</l>
+        <l>Tal vez desde los muros destas rocas</l>
+        <l>cazar a Tetis veo</l>
+        <l>y pescar a Dïana en dos barquillas:</l>
+        <l>náuticas venatorias maravillas</l>
+        <l>de mis hijas oirás, ambiguo coro</l>
+        <l>menos de aljaba que de red armado,</l>
+        <l>de cuyo, si no alado,</l>
+        <l>arpón vibrante supo mal Proteo</l>
+        <l>en globos de agua redimir sus focas.</l>
+        <l>Torpe la más veloz, marino toro,</l>
+        <l>torpe, mas toro al fin, que, el mar violado</l>
+        <l>de la púrpura viendo de sus venas,</l>
+        <l>bufando mide el campo de las ondas</l>
+        <l>con la animosa cuerda, que prolija</l>
+        <l>al hierro sigue que en la foca huye,</l>
+        <l>o grutas ya la privilegien, hondas,</l>
+        <l>o escollos desta isla divididos.</l>
+        <l>Láquesis nueva mi gallarda hija,</l>
+        <l>si Cloto no de la escamada fiera,</l>
+        <l>ya hila, ya devana su carrera,</l>
+        <l>cuando desatinada pide, o cuando</l>
+        <l>vencida restituye</l>
+        <l>los términos de cáñamo pedidos.</l>
+        <l>Rindióse al fin la bestia, y las almenas</l>
+        <l>de las sublimes rocas salpicando,</l>
+        <l>las peñas embistió, peña escamada,</l>
+        <l>en ríos de agua y sangre desatada.</l>
+        <l>Éfire luego, la que en el torcido</l>
+        <l>luciente nácar te sirvió no poca</l>
+        <l>risueña parte de la dulce fuente</l>
+        <l>(de Filódoces émula valiente,</l>
+        <l>cuya asta breve desangró la foca),</l>
+        <l>el cabello en estambre azul cogido,</l>
+        <l>celoso alcaide de sus trenzas de oro,</l>
+        <l>en segundo bajel se engolfó sola.</l>
+        <l>¡Cuántas voces le di ! ¡Cuántas en vano</l>
+        <l>tiernas derramé lágrimas !, temiendo</l>
+        <l>no al fiero tiburón, verdugo horrendo</l>
+        <l>del náufrago ambicioso mercadante,</l>
+        <l>ni al otro cuyo nombre</l>
+        <l>espada es tantas veces esgrimida</l>
+        <l>contra mis redes ya, contra mi vida,</l>
+        <l>sino algún siempre verde, siempre cano</l>
+        <l>sátiro de las aguas, petulante</l>
+        <l>vïolador del virginal decoro,</l>
+        <l>marino dios que, el vulto feroz hombre,</l>
+        <l>corvo es delfín la cola.</l>
+        <l>Sorda a mis voces, pues, ciega a mi llanto,</l>
+        <l>abrazado, si bien de fácil cuerda,</l>
+        <l>un plomo fió grave a un corcho leve,</l>
+        <l>que algunas veces despedido cuanto,</l>
+        <l>penda o nade, la vista no lo pierda,</l>
+        <l>el golpe solicita, el bulto mueve</l>
+        <l>prodigïosos moradores ciento</l>
+        <l>del líquido elemento.</l>
+        <l>Láminas uno de viscoso acero,</l>
+        <l>rebelde aun al diamante, el duro lomo</l>
+        <l>hasta el luciente bipartido extremo</l>
+        <l>de la cola vestido,</l>
+        <l>solicitado sale del rüido,</l>
+        <l>y, al cebarse en el cómplice ligero</l>
+        <l>del suspendido plomo,</l>
+        <l>Éfire, en cuya mano al flaco remo</l>
+        <l>un fuerte dardo había sucedido,</l>
+        <l>de la mano a las ondas gemir hizo</l>
+        <l>el aire con el fresno arrojadizo;</l>
+        <l>de las ondas al pez, con vuelo mudo,</l>
+        <l>deidad dirigió amante el hierro agudo:</l>
+        <l>entre una y otra lámina, salida</l>
+        <l>la sangre halló por do la muerte entrada.</l>
+        <l>Onda, pues, sobre onda levantada,</l>
+        <l>montes de espuma concitó herida</l>
+        <l>la fiera, horror del agua, cometiendo</l>
+        <l>ya a la violencia, ya a la fuga el modo</l>
+        <l>de sacudir el asta,</l>
+        <l>que, alterando el abismo o discurriendo</l>
+        <l>el océano todo,</l>
+        <l>no perdona al acero que la engasta.</l>
+        <l>Éfire en tanto al cáñamo torcido</l>
+        <l>el cabo rompió, y bien, que al ciervo herido</l>
+        <l>el can sobra, siguiéndolo la flecha.</l>
+        <l>Volvíase, mas no muy satisfecha,</l>
+        <l>cuando cerca de aquel peinado escollo</l>
+        <l>hervir las olas vio templadamente,</l>
+        <l>bien que haciendo círculos perfetos;</l>
+        <l>escogió, pues, de cuatro o cinco abetos,</l>
+        <l>el de cuchilla más resplandeciente,</l>
+        <l>que atravesado remolcó un gran sollo.</l>
+        <l>Desembarcó triunfando,</l>
+        <l>y aun el siguiente Sol no vimos, cuando</l>
+        <l>en la ribera vimos, convecina,</l>
+        <l>dado al través el monstro, donde apenas</l>
+        <l>su género noticia, pías arenas</l>
+        <l>en tanta playa halló tanta rüina ».</l>
+        <l>Aura, en esto, marina</l>
+        <l>el discurso y el día juntamente</l>
+        <l>(trémula, si veloz) les arrebata,</l>
+        <l>alas batiendo líquidas, y en ellas</l>
+        <l>dulcísimas querellas</l>
+        <l>de pescadores dos, de dos amantes</l>
+        <l>en redes ambos y en edad iguales.</l>
+        <l>Dividiendo cristales,</l>
+        <l>en la mitad de un óvalo de plata,</l>
+        <l>venía al tiempo, el nieto de la espuma,</l>
+        <l>que los mancebos daban alternantes</l>
+        <l>al viento quejas. Órganos de pluma,</l>
+        <l>aves, digo, de Leda,</l>
+        <l>tales no oyó el Caístro en su arboleda,</l>
+        <l>tales no vio el Meandro en su corriente.</l>
+        <l>Inficionando, pues, süavemente</l>
+        <l>las ondas el Amor, sus flechas remos,</l>
+        <l>hasta donde se besan los extremos</l>
+        <l>de la isla y del agua, no los deja.</l>
+        <l>Lícidas gloria, en tanto,</l>
+        <l>de la playa, Micón de sus arenas,</l>
+        <l>invidia de sirenas,</l>
+        <l>convocación su canto</l>
+        <l>de músicos delfines, aunque mudos,</l>
+        <l>en números no rudos</l>
+        <l>el primero se queja</l>
+        <l>de la culta Leusipe,</l>
+        <l>décimo esplendor bello de Aganipe,</l>
+        <l>de Cloris el segundo,</l>
+        <l>escollo de cristal, meta del mundo.</l>
+        <l>LÍCIDAS</l>
+        <l>« ¿A qué piensas, barquilla,</l>
+        <l>pobre ya cuna de mi edad primera,</l>
+        <l>que cisne te conduzgo a esta ribera ?</l>
+        <l>A cantar dulce, y a morirme luego:</l>
+        <l>si te perdona el fuego</l>
+        <l>que mis huesos vinculan, en su orilla</l>
+        <l>tumba te bese el mar, vuelta la quilla ».</l>
+        <label>MICÓN </label>
+        <l>« Cansado leño mío,</l>
+        <l>hijo del bosque y padre de mi vida,</l>
+        <l>de tus remos ahora conducida</l>
+        <l>el doliente, si blando,</l>
+        <l>curso del llanto métrico te fío,</l>
+        <l>nadante urna de canoro río ».</l>
+        <label>LÍCIDAS </label>
+        <l>« Las rugosas veneras,</l>
+        <l>fecundas no de aljófar blanco el seno,</l>
+        <l>ni del, que enciende el mar, tirio veneno,</l>
+        <l>entre crespos buscaba, caracoles,</l>
+        <l>cuando de tus dos soles</l>
+        <l>fulminado ya, señas no ligeras</l>
+        <l>de mis cenizas dieron tus riberas ».</l>
+        <label>MICÓN </label>
+        <l>« Distinguir sabía apenas</l>
+        <l>el menor leño de la mayor urca</l>
+        <l>que velera un Neptuno y otro surca,</l>
+        <l>y tus prisiones ya arrastraba graves;</l>
+        <l>si dudas lo que sabes,</l>
+        <l>lee cuanto han impreso en tus arenas,</l>
+        <l>a pesar de los vientos, mis cadenas ».</l>
+        <label>LÍCIDAS</label>
+        <l>« Las que el cielo mercedes</l>
+        <l>hizo a mi forma, ¡oh dulce mi enemiga !,</l>
+        <l>lisonja no, serenidad lo diga</l>
+        <l>de limpia, consultada ya, laguna,</l>
+        <l>y los de mi fortuna</l>
+        <l>privilegios, el mar, a quien di redes</l>
+        <l>más que a la selva lazos Ganimedes ».</l>
+        <label>MICÓN</label>
+        <l>« No ondas, no luciente</l>
+        <l>cristal, agua al fin dulcemente dura,</l>
+        <l>invidia califique mi figura,</l>
+        <l>de musculosos jóvenes desnudos.</l>
+        <l>Menos dio al bosque nudos</l>
+        <l>que yo al mar, el que a un dios hizo, valiente,</l>
+        <l>mentir cerdas, celoso espumar diente ».</l>
+        <label>LÍCIDAS</label>
+        <l>« Cuantos pedernal duro</l>
+        <l>bruñe nácares boto, agudo raya</l>
+        <l>en la oficina undosa desta playa,</l>
+        <l>tantos Palemo a su Licote bella</l>
+        <l>suspende, y tantos ella</l>
+        <l>al flaco da, que me construyen, muro,</l>
+        <l>junco frágil, carrizo mal seguro ».</l>
+        <label>MICÓN </label>
+        <l>« Las siempre desiguales</l>
+        <l>blancas primero ramas, después rojas,</l>
+        <l>de árbol que nadante ignoró hojas,</l>
+        <l>trompa Tritón del agua a la alta gruta</l>
+        <l>de Nísida tributa,</l>
+        <l>ninfa por quien lucientes son corales</l>
+        <l>los rudos troncos hoy de mis umbrales ».</l>
+        <label>LÍCIDAS</label>
+        <l>« Esta en plantas no escrita,</l>
+        <l>en piedras sí, firmeza honre Himeneo,</l>
+        <l>calzándole talares mi deseo,</l>
+        <l>que el tiempo vuela. Goza, pues, ahora</l>
+        <l>los lilios de tu aurora,</l>
+        <l>que al tramontar del Sol mal solicita</l>
+        <l>abeja aun negligente flor marchita ».</l>
+        <label>MICÓN </label>
+        <l>« Si fe tanta no en vano</l>
+        <l>desafía las rocas donde impresa</l>
+        <l>con labio alterno mucho mar la besa,</l>
+        <l>nupcial la califique tea luciente.</l>
+        <l>Mira que la edad miente,</l>
+        <l>mira que del almendro más lozano</l>
+        <l>parca es interïor breve gusano ».</l>
+        <l>Invidia convocaba, si no celo,</l>
+        <l>al balcón de safiro</l>
+        <l>las claras, aunque etíopes, estrellas</l>
+        <l>y las Osas dos bellas,</l>
+        <l>sediento siempre tiro</l>
+        <l>del carro, perezoso honor del cielo;</l>
+        <l>mas ¡ay !, que del rüido</l>
+        <l>de la sonante esfera</l>
+        <l>a la una luciente y otra fiera</l>
+        <l>el piscatorio cántico impedido,</l>
+        <l>con las prendas bajaran de Cefeo</l>
+        <l>a las vedadas ondas,</l>
+        <l>si Tetis no (desde sus grutas hondas)</l>
+        <l>enfrenara el deseo.</l>
+        <l>¡Oh, cuánta al peregrino el amebeo</l>
+        <l>alterno canto dulce fue lisonja !</l>
+        <l>¿Qué mucho, si avarienta ha sido esponja</l>
+        <l>del néctar numeroso</l>
+        <l>el escollo más duro ?</l>
+        <l>¿Qué mucho, si el candor bebió ya puro</l>
+        <l>de la virginal copia, en la armonía,</l>
+        <l>el veneno del ciego ingenïoso</l>
+        <l>que dictaba los números que oía ?</l>
+        <l>Generosos afectos de una pía</l>
+        <l>doliente afinidad, bien que amorosa</l>
+        <l>por bella más, por más divina parte,</l>
+        <l>solicitan su pecho a que (sin arte</l>
+        <l>de colores prolijos)</l>
+        <l>en oración impetre oficïosa</l>
+        <l>del venerable isleño</l>
+        <l>que admita yernos los que el trato hijos</l>
+        <l>litoral hizo, aun antes</l>
+        <l>que el convecino ardor dulces amantes.</l>
+        <l>Concediólo risueño,</l>
+        <l>del forastero agradecidamente</l>
+        <l>y de sus propios hijos abrazado.</l>
+        <l>Mercurio destas nuevas diligente,</l>
+        <l>coronados traslada de favores</l>
+        <l>de sus barcas Amor los pescadores</l>
+        <l>al flaco pie del suegro deseado.</l>
+        <l>¡Oh del ave de Júpiter vendado</l>
+        <l>pollo, si alado no lince sin vista,</l>
+        <l>político rapaz, cuya prudente</l>
+        <l>disposición especuló estadista</l>
+        <l>clarísimo ninguno</l>
+        <l>de los que el reino muran de Neptuno !</l>
+        <l>¡Cuán dulces te adjudicas ocasiones</l>
+        <l>para favorecer, no a dos supremos</l>
+        <l>de los volubles polos ciudadanos,</l>
+        <l>sino a dos entre cáñamo garzones !</l>
+        <l>¿Por qué ? Por escultores quizá vanos</l>
+        <l>de tantos de tu madre bultos canos</l>
+        <l>cuantas al mar espumas dan sus remos.</l>
+        <l>Al peregrino por tu causa vemos</l>
+        <l>alcázares dejar, donde, excedida</l>
+        <l>de la sublimidad la vista, apela</l>
+        <l>para su hermosura,</l>
+        <l>en que la arquitectura</l>
+        <l>a la geometría se rebela,</l>
+        <l>jaspes calzada y pórfidos vestida;</l>
+        <l>pobre choza, de redes impedida,</l>
+        <l>entra ahora, ¡y lo dejas !</l>
+        <l>¡Vuela, rapaz, y, plumas dando a quejas,</l>
+        <l>los dos reduce al uno y otro leño,</l>
+        <l>mientras perdona tu rigor al sueño !</l>
+        <l>Las Horas ya, de números vestidas,</l>
+        <l>al bayo, cuando no esplendor overo</l>
+        <l>del luminoso tiro, las pendientes</l>
+        <l>ponían de crisólitos lucientes</l>
+        <l>coyundas impedidas,</l>
+        <l>mientras de su barraca el extranjero</l>
+        <l>dulcemente salía despedido</l>
+        <l>a la barquilla, donde lo esperaban</l>
+        <l>a un remo cada joven ofrecido.</l>
+        <l>Dejaron, pues, las azotadas rocas,</l>
+        <l>que mal las ondas lavan</l>
+        <l>del livor aun purpúreo de las focas,</l>
+        <l>y, de la firme tierra el heno blando</l>
+        <l>con las palas segando,</l>
+        <l>en la cumbre modesta</l>
+        <l>de una desigualdad del horizonte,</l>
+        <l>que deja de ser monte</l>
+        <l>por ser culta floresta,</l>
+        <l>antiguo descubrieron blanco muro,</l>
+        <l>por sus piedras no menos</l>
+        <l>que por su edad majestüosa cano;</l>
+        <l>mármol, al fin, tan por lo pario puro,</l>
+        <l>que al peregrino sus ocultos senos</l>
+        <l>negar pudiera en vano.</l>
+        <l>Cuantas del oceano</l>
+        <l>el Sol trenzas desata</l>
+        <l>contaba en los rayados capiteles,</l>
+        <l>que, espejos, aunque esféricos, fieles,</l>
+        <l>bruñidos eran óvalos de plata.</l>
+        <l>La admiración que al arte se le debe</l>
+        <l>áncora del batel fue, perdonando</l>
+        <l>poco a lo fuerte, y a lo bello nada</l>
+        <l>del edificio, cuando</l>
+        <l>ronca los salteó trompa sonante,</l>
+        <l>al principio distante,</l>
+        <l>vecina luego, pero siempre incierta.</l>
+        <l>Llave de la alta puerta</l>
+        <l>el duro son, vencido el foso breve,</l>
+        <l>levadiza ofreció puente no leve</l>
+        <l>tropa inquïeta contra el aire armada,</l>
+        <l>lisonja, si confusa, regulada</l>
+        <l>su orden de la vista, y del oído</l>
+        <l>su agradable rüido:</l>
+        <l>verde no mudo coro</l>
+        <l>de cazadores era,</l>
+        <l>cuyo número indigna la ribera.</l>
+        <l>Al Sol levantó apenas la ancha frente</l>
+        <l>el veloz hijo ardiente</l>
+        <l>del céfiro lascivo,</l>
+        <l>cuya fecunda madre al genitivo</l>
+        <l>soplo vistiendo miembros, Guadalete</l>
+        <l>florida ambrosia al viento dio, jinete,</l>
+        <l>que a mucho humo abriendo</l>
+        <l>la fogosa nariz, en un sonoro</l>
+        <l>relincho y otro saludó sus rayos.</l>
+        <l>Los overos, si no esplendores bayos,</l>
+        <l>que conducen el día,</l>
+        <l>les responden, la eclíptica ascendiendo.</l>
+        <l>Entre el confuso, pues, celoso estruendo</l>
+        <l>de los caballos, ruda hace armonía</l>
+        <l>cuanta la generosa cetrería,</l>
+        <l>desde la Mauritania a la Noruega,</l>
+        <l>insidia ceba alada,</l>
+        <l>sin luz, no siempre ciega,</l>
+        <l>sin libertad, no siempre aprisionada,</l>
+        <l>que a ver el día vuelve</l>
+        <l>las veces que, en fiado al viento dada,</l>
+        <l>repite su prisión y al viento absuelve:</l>
+        <l>el neblí que, relámpago su pluma,</l>
+        <l>rayo su garra, su ignorado nido</l>
+        <l>o lo esconde el Olimpo, o densa es nube</l>
+        <l>que pisa, cuando sube</l>
+        <l>tras la garza, argentada el pie de espuma;</l>
+        <l>el sacre, las del noto alas vestido,</l>
+        <l>sangriento chiprïota, aunque nacido</l>
+        <l>con las palomas, Venus, de tu carro;</l>
+        <l>el girifalte, escándalo bizarro</l>
+        <l>del aire, honor robusto de Gelanda,</l>
+        <l>si bien jayán de cuanto rapaz vuela,</l>
+        <l>corvo acero su pie, flaca pihuela</l>
+        <l>de piel lo impide blanda;</l>
+        <l>el baharí, a quien fue en España cuna</l>
+        <l>del Pirineo la ceniza verde,</l>
+        <l>o la alta basa que el oceano muerde</l>
+        <l>de la egipcia coluna;</l>
+        <l>la delicia volante</l>
+        <l>de cuantos ciñen líbico turbante,</l>
+        <l>el borní, cuya ala</l>
+        <l>en los campos tal vez de Melïona</l>
+        <l>galán siguió valiente, fatigando</l>
+        <l>tímida liebre, cuando</l>
+        <l>intempestiva salteó leona</l>
+        <l>la melionesa gala,</l>
+        <l>que de trágica escena</l>
+        <l>mucho teatro hizo poca arena.</l>
+        <l>Tú, infestador en nuestra Europa nuevo<seg type="tab">    </seg></l>
+        <l>de las aves, nacido, aleto, donde</l>
+        <l>entre las conchas hoy del sur esconde</l>
+        <l>sus muchos años Febo,</l>
+        <l>¿debes por dicha cebo ?</l>
+        <l>¿Templarte supo, di, bárbara mano</l>
+        <l>al insultar los aires ? Yo lo dudo,</l>
+        <l>que al precïosamente inca desnudo</l>
+        <l>y al de plumas vestido mejicano,</l>
+        <l>fraude vulgar, no industria generosa,</l>
+        <l>del águila les dio, a la mariposa.</l>
+        <l>De un mancebo serrano</l>
+        <l>el duro brazo débil hace junco,</l>
+        <l>examinando con el pico adunco</l>
+        <l>sus pardas plumas, el azor britano,</l>
+        <l>tardo mas generoso</l>
+        <l>terror de tu sobrino ingenïoso,</l>
+        <l>ya invidia tuya, Dédalo, ave ahora,</l>
+        <l>cuyo pie tiria púrpura colora.</l>
+        <l>Grave de perezosas plumas globo,</l>
+        <l>que a luz lo condenó incierta la ira</l>
+        <l>del bello de la estigia deidad robo,</l>
+        <l>desde el guante hasta el hombro a un joven cela:</l>
+        <l>esta emulación, pues, de cuanto vuela</l>
+        <l>por dos topacios bellos con que mira,</l>
+        <l>término torpe era</l>
+        <l>de pompa tan ligera.</l>
+        <l>Can de lanas prolijo, que animoso</l>
+        <l>buzo será, bien de profunda ría,</l>
+        <l>bien de serena playa,</l>
+        <l>cuando la fulminada prisión caya</l>
+        <l>del neblí, a cuyo vuelo,</l>
+        <l>tan vecino a su cielo,</l>
+        <l>el cisne perdonara luminoso,</l>
+        <l>número y confusión gimiendo hacía</l>
+        <l>en la vistosa laja, para él grave,</l>
+        <l>que aun de seda no hay vínculo süave.</l>
+        <l>En sangre claro y en persona augusto,</l>
+        <l>si en miembros no robusto,</l>
+        <l>príncipe les sucede, abrevïada</l>
+        <l>en modestia civil real grandeza.</l>
+        <l>La espumosa del Betis ligereza</l>
+        <l>bebió no solo, mas la desatada</l>
+        <l>majestad en sus ondas el luciente</l>
+        <l>caballo, que colérico mordía</l>
+        <l>el oro que süave lo enfrenaba,</l>
+        <l>arrogante, y no ya por las, que daba,</l>
+        <l>estrellas, su cerúlea piel al día,</l>
+        <l>sino por lo que siente</l>
+        <l>de esclarecido, y aun de soberano,</l>
+        <l>en la rienda que besa la alta mano</l>
+        <l>de cetro digna. Lúbrica no tanto</l>
+        <l>culebra se desliza tortüosa</l>
+        <l>por el pendiente calvo escollo, cuanto</l>
+        <l>la escuadra descendía presurosa</l>
+        <l>por el peinado cerro a la campaña,</l>
+        <l>que al mar debe, con término prescripto,</l>
+        <l>más sabandijas de cristal que a Egipto</l>
+        <l>horrores deja el Nilo que lo baña.</l>
+        <l>Rebelde ninfa, humilde ahora caña,</l>
+        <l>las márgenes oculta</l>
+        <l>de una laguna breve,</l>
+        <l>a quien doral consulta</l>
+        <l>aun el copo más leve</l>
+        <l>de su volante nieve:</l>
+        <l>ocioso, pues, o de su fin presago,</l>
+        <l>los filos con el pico prevenía</l>
+        <l>de cuanto sus dos alas aquel día</l>
+        <l>al viento esgremirán cuchillo vago.</l>
+        <l>La turba aun no del apacible lago</l>
+        <l>las orlas inquïeta,</l>
+        <l>que tímido perdona a sus cristales</l>
+        <l>el doral. Despedida no saeta</l>
+        <l>de nervios partos igualar presuma</l>
+        <l>sus puntas desiguales,</l>
+        <l>que en vano podrá pluma</l>
+        <l>vestir un leño como viste un ala.</l>
+        <l>Puesto en tiempo, corona, si no escala,</l>
+        <l>las nubes, desmintiendo</l>
+        <l>su libertad el grillo torneado</l>
+        <l>que en sonoro metal lo va siguiendo,</l>
+        <l>un baharí templado,</l>
+        <l>a quien el mismo escollo,</l>
+        <l>a pesar de sus pinos, eminente,</l>
+        <l>el primer vello le concedió pollo,</l>
+        <l>que al Betis las primeras ondas fuente.</l>
+        <l>No sólo, no, del pájaro pendiente</l>
+        <l>las caladas registra el peregrino,</l>
+        <l>mas del terreno cuenta cristalino</l>
+        <l>los juncos más pequeños,</l>
+        <l>verdes hilos de aljófares risueños.</l>
+        <l>Rápido al español alado mira</l>
+        <l>peinar el aire por cardar el vuelo,</l>
+        <l>cuya vestida nieve anima un hielo</l>
+        <l>que torpe a unos carrizos lo retira,</l>
+        <l>infieles por raros,</l>
+        <l>si firmes no por trémulos reparos.</l>
+        <l>Penetra, pues, sus inconstantes senos,</l>
+        <l>estimándolos menos</l>
+        <l>entredichos que el viento;</l>
+        <l>mas a su daño el escuadrón atento</l>
+        <l>expulso lo remite a quien en suma</l>
+        <l>un grillo y otro enmudeció en su pluma.</l>
+        <l>Cobrado el baharí, en su propio luto</l>
+        <l>o el insulto acusaba precedente,</l>
+        <l>o entre la verde hierba</l>
+        <l>avara escondía cuerva</l>
+        <l>purpúreo caracol, émulo bruto</l>
+        <l>del rubí más ardiente,</l>
+        <l>cuando, solicitada del rüido,</l>
+        <l>el nácar a las flores fía torcido,</l>
+        <l>y con siniestra voz convoca cuanta</l>
+        <l>negra de cuervas suma</l>
+        <l>infamó la verdura con su pluma,</l>
+        <l>con su número el Sol. En sombra tanta</l>
+        <l>alas desplegó Ascálafo prolijas,</l>
+        <l>verde poso ocupando,</l>
+        <l>que de césped ya blando</l>
+        <l>jaspe lo han hecho duro blancas guijas.</l>
+        <l>Más tardó en desplegar sus plumas graves</l>
+        <l>el deforme fiscal de Proserpina,</l>
+        <l>que en desatarse, al polo ya vecina,</l>
+        <l>la disonante niebla de las aves:</l>
+        <l>diez a diez se calaron, ciento a ciento,</l>
+        <l>al oro intüitivo, invidïado</l>
+        <l>deste género alado,</l>
+        <l>si como ingrato no, como avariento,</l>
+        <l>que a las estrellas hoy del firmamento</l>
+        <l>se atreviera su vuelo,</l>
+        <l>en cuanto ojos del cielo.</l>
+        <l>Poca palestra la región vacía</l>
+        <l>de tanta invidia era,</l>
+        <l>mientras, desenlazado la cimera,</l>
+        <l>restituyen el día</l>
+        <l>a un girifalte, boreal harpía</l>
+        <l>que, despreciando la mentida nube,</l>
+        <l>a luz más cierta sube,</l>
+        <l>cenit ya de la turba fugitiva.</l>
+        <l>Auxilïar taladra el aire luego</l>
+        <l>un duro sacre, en globos no, de fuego,</l>
+        <l>en oblicuos sí engaños</l>
+        <l>mintiendo remisión a las que huyen,</l>
+        <l>si la distancia es mucha,</l>
+        <l>griego al fin. Una en tanto, que de arriba</l>
+        <l>descendió fulminada en poco humo,</l>
+        <l>apenas el latón segundo escucha,</l>
+        <l>que del inferïor peligro al sumo</l>
+        <l>apela, entre los trópicos grifaños</l>
+        <l>que su eclíptica incluyen,</l>
+        <l>repitiendo confusa</l>
+        <l>lo que tímida excusa.</l>
+        <l>Breve esfera de viento,</l>
+        <l>negra circunvestida piel, al duro</l>
+        <l>alterno impulso de valientes palas,</l>
+        <l>la avecilla parece,</l>
+        <l>en el de muros líquidos, que ofrece,</l>
+        <l>corredor, el diáfano elemento</l>
+        <l>al gémino rigor, en cuyas alas</l>
+        <l>su vista libra toda el extranjero.</l>
+        <l>Tirano el sacre de lo menos puro</l>
+        <l>desta primer región, sañudo espera</l>
+        <l>la desplumada ya, la breve esfera,</l>
+        <l>que, a un bote corvo del fatal acero,</l>
+        <l>dejó al viento, si no restitüido,</l>
+        <l>heredado en el último graznido.</l>
+        <l>Destos pendientes agradables casos</l>
+        <l>vencida se apeó la vista apenas,</l>
+        <l>que del batel, cosido con la playa,</l>
+        <l>cuantos da la cansada turba pasos,</l>
+        <l>tantos en las arenas</l>
+        <l>el remo perezosamente raya,</l>
+        <l>a la solicitud de una atalaya</l>
+        <l>atento, a quien doctrina ya cetrera</l>
+        <l>llamó catarribera.</l>
+        <l>Ruda en esto política agregados</l>
+        <l>tan mal ofrece, como construidos,</l>
+        <l>bucólicos albergues, si no flacas</l>
+        <l>piscatorias barracas,</l>
+        <l>que pacen campos, que penetran senos,</l>
+        <l>de las ondas no menos</l>
+        <l>aquéllos perdonados</l>
+        <l>que de la tierra éstos admitidos.</l>
+        <l>Pollos, si de las propias no vestidos,</l>
+        <l>de las maternas plumas abrigados,</l>
+        <l>vecinos eran destas alquerías,</l>
+        <l>mientras ocupan a sus naturales</l>
+        <l>Glauco en las aguas, en las hierbas Pales.</l>
+        <l> ! Oh cuántas cometer piraterías</l>
+        <l>un cosario intentó, y otro, volante !,</l>
+        <l>uno y otro rapaz, digo, milano,</l>
+        <l>bien que todas en vano,</l>
+        <l>contra la infantería, que pïante</l>
+        <l>en su madre se esconde, donde halla</l>
+        <l>voz que es trompeta, pluma que es muralla.</l>
+        <l>A media rienda en tanto el anhelante</l>
+        <l>caballo, que el ardiente sudor niega</l>
+        <l>en cuantas le densó nieblas su aliento,</l>
+        <l>a los indignos de ser muros llega</l>
+        <l>céspedes, de las ovas mal atados.</l>
+        <l>Aunque ociosos, no menos fatigados,</l>
+        <l>quejándose venían sobre el guante</l>
+        <l>los raudos torbellinos de Noruega.</l>
+        <l>Con sordo luego estrépito despliega,</l>
+        <l>injurias de la luz, horror del viento,</l>
+        <l>sus alas el testigo que en prolija</l>
+        <l>desconfianza a la sicana diosa</l>
+        <l>dejó sin dulce hija,</l>
+        <l>y a la estigia deidad con bella esposa.</l>
       </div>
     </body>
   </text>
