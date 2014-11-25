@@ -37,6 +37,7 @@
   </teiHeader>
   <text>
     <body>
+      <div>
       <head>DE LA TOMA DE LARACHE</head>
       <l>En roscas de cristal serpiente breve,</l>
       <l>por la arena desnuda el Luco yerra,</l>
@@ -128,6 +129,7 @@
       <l>hacer de Atlante en la silvosa cumbre,</l>
       <l>a las purpúreas cruces de sus señas,</l>
       <l>nuevos calvarios sus antiguas peñas.</l>
+        </div>
     </body>
   </text>
 </TEI>

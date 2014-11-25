@@ -34,6 +34,7 @@
   </teiHeader>
   <text>
     <body>
+      <div>
       <head>FÁBULA DE POLIFEMO Y GALATEA</head>
       <l>Estas, que me dictó, rimas sonoras,</l>
       <l>culta sí, aunque bucólica, Talía,</l>
@@ -539,6 +540,7 @@
       <l>lamiendo flores y argentando arenas,</l>
       <l>a Doris llega, que con llanto pío,</l>
       <l>yerno lo saludó, lo aclamó río.</l>
+      </div>
     </body>
   </text>
 </TEI>

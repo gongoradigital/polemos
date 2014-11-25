@@ -33,7 +33,8 @@
   </teiHeader>
   <text>
     <body>
-      <head>FÁBULA DE PÍRAMO Y TISBE</head>
+      <div>
+        <head>FÁBULA DE PÍRAMO Y TISBE</head>
       <l>La ciudad de Babilonia,</l>
       <l>famosa, no por sus muros</l>
       <l>(fuesen de tierra cocidos</l>
@@ -542,6 +543,7 @@
       <l>individuamente juntos,</l>
       <l>a pesar del amor; dos,</l>
       <l>a pesar del número, uno.</l>
+      </div>
     </body>
   </text>
 </TEI>
