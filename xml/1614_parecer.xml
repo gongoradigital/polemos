@@ -2,7 +2,7 @@
 <?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
 <!--odt2tei: 2015-04-15T16:27:18+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,9 +10,15 @@
         <author>Fernández de Córdoba, Francisco</author>
         <editor>Muriel Elvira</editor>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>OBVIL</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>BFBM, B106-V1-36, f. 131r-145v [antigua referencia cuando el manuscrito estaba en Madrid: Registro 6454, signatura: 18/10/11]</bibl>
@@ -23,7 +29,7 @@
         <date when="1614"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="es"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -82,7 +88,7 @@
         <div>
           <head>1. [Título]
             <lb/>El parecer, un género de la literatura polémica</head>
-          <p>El <hi rend="i">Parecer</hi> es una carta escrita por Francisco Fernández de Córdoba, abad de Rute, a su amigo Góngora para darle su opinión sobre las e<hi rend="i">Soledades</hi>. Góngora, consciente de la novedad de su poema, quiso conocer la valoración de algunos de los mejores lectores de su tiempo, antes de difundirlo en la Corte. Mandó primero las <hi rend="i">Soledades</hi> al humanista Pedro de Valencia para solicitar su juicio y éste redactó dos cartas censorias para responderle: una que sirvió de borrador y que probablemente nunca envió, de junio de 1613, y la carta que debió de ser remitida a Góngora con fecha de 30 de junio de 1613<note place="bottom">Véase Pérez López (1988). Este libro contiene la edición de las dos cartas y un estudio preliminar.</note>. El segundo lector seleccionado del que nos queda constancia fue el abad de Rute. Góngora le hizo llegar las <hi rend="i">Soledades</hi> entre finales de 1613 y principios de 1614<note place="bottom">Emilio Orozco, que descubrió y editó el texto, propuso la fecha de febrero de 1614 y, hasta donde me alcanza, nadie la puso en tela de juicio después. Lo único seguro en realidad es que el <hi rend="i">Parecer</hi> fue compuesto entre el invierno de 1613-1614 y el verano de 1614, pues el abad de Rute habla de la carta del Pedro de Valencia que vio «el verano pasado», es decir durante el verano de 1613, en casa de un amigo común (Orozco 1969b: 57, n. 4).</note>, a través de un amigo común, Francisco de Gálvez, nombrado al principio del <hi rend="i">Parecer</hi>. El abad de Rute le contestó mediante la carta erudita que editamos a continuación.</p>
+          <p>El <hi rend="i">Parecer</hi> es una carta escrita por Francisco Fernández de Córdoba, abad de Rute, a su amigo Góngora para darle su opinión sobre las <hi rend="i">Soledades</hi>. Góngora, consciente de la novedad de su poema, quiso conocer la valoración de algunos de los mejores lectores de su tiempo, antes de difundirlo en la Corte. Mandó primero las <hi rend="i">Soledades</hi> al humanista Pedro de Valencia para solicitar su juicio y éste redactó dos cartas censorias para responderle: una que sirvió de borrador y que probablemente nunca envió, de junio de 1613, y la carta que debió de ser remitida a Góngora con fecha de 30 de junio de 1613<note place="bottom">Véase Pérez López (1988). Este libro contiene la edición de las dos cartas y un estudio preliminar.</note>. El segundo lector seleccionado del que nos queda constancia fue el abad de Rute. Góngora le hizo llegar las <hi rend="i">Soledades</hi> entre finales de 1613 y principios de 1614<note place="bottom">Emilio Orozco, que descubrió y editó el texto, propuso la fecha de febrero de 1614 y, hasta donde me alcanza, nadie la puso en tela de juicio después. Lo único seguro en realidad es que el <hi rend="i">Parecer</hi> fue compuesto entre el invierno de 1613-1614 y el verano de 1614, pues el abad de Rute habla de la carta del Pedro de Valencia que vio «el verano pasado», es decir durante el verano de 1613, en casa de un amigo común (Orozco 1969b: 57, n. 4).</note>, a través de un amigo común, Francisco de Gálvez, nombrado al principio del <hi rend="i">Parecer</hi>. El abad de Rute le contestó mediante la carta erudita que editamos a continuación.</p>
           <p>Estas son las más conocidas, aunque no las únicas contribuciones que conservamos de la primera etapa de la polémica gongorina, en la cual Góngora reunió opiniones autorizadas sobre su poema. También conservamos otro «parecer» anónimo, editado por Antonio Carreira en fecha reciente<note place="bottom">Carreira (1998).</note>, y tenemos constancia de la posible existencia de un tercero, hoy perdido, firmado por Tomás Tamayo de Vargas, así como de la promesa que Baltasar Elisio de Medinilla le hizo a Góngora de darle su opinión por escrito<note place="bottom">Góngora escribe a Juan de Villegas el 4 de septiembre de 1614: «Baltasar de Medinilla, [1585-1620] grande amigo un tiempo de Lope de Vega, ingenio toledano que, si cumple lo que promete por su carta, será digno de toda estimación» (Alonso 1982c: 402 y 414). La posible existencia de un parecer escrito por Tomás Tamayo de Vargas se deduce de la carta del 18 de junio de 1614 que Góngora remitió al famoso historiado: «mas ya con lo que vuesa merced me ha escrito de lo que me ha favorecido y patrocinado, se ha hecho deuda el afecto; reconoceréla siempre y muy firmada de mi nombre, suplicándole a vuesa merced me tenga muy en su gracia, me honre, me enseñe y, enseñado, me defienda de tanto crítico, de tanto pedante, como ha dejado la inundación gramática en este Egipto moderno» (Góngora 2008: 299). No está claro si Góngora se refiere a un parecer escrito por Tamayo de Vargas o a unas palabras pronunciadas por el historiador para favorecer a Góngora.</note>. Es posible que en los próximos años aparezcan más cartas censorias o pareceres, si se siguen explorando archivos y fondos antiguos de bibliotecas particulares.</p>
           <p>El título de <hi rend="i">Parecer</hi> es pues una categoría genérica y no el nombre que dio voluntariamente el abad de Rute a su primera intervención en la polémica gongorina. Este título le fue dado por el compilador del llamado «manuscrito Gor», único testimonio que recoge la carta de Fernández de Córdoba, en el que se introduce el texto de la siguiente manera: «Parecer de don Francisco de Córdoba acerca de las <hi rend="i">Soledades</hi> a instancia de su autor». Nombre genérico, decimos, porque los pareceres son una categoría tradicional de la literatura polémica, como lo atestiguan por ejemplo el <hi rend="i">Parere in difesa dell’ Ariosto</hi> de Francesco Patrizi, de 1584, escrito a raíz de la polémica entre los partidarios de Tasso y los de Ariosto; o también, esta vez entre las piezas de la polémica de Dante, el <hi rend="i">Parere del Dubbioso intorno alla riposta del primer argomento del Castravilla</hi>, escrito por Francesco Bonciani, en una fecha desconocida<note place="bottom">Véase al respecto Weinberg (1961), especialmente los capítulos titulados «The quarrel over Ariosto and Tasso» (1961: 2, 954-1073) y «The quarrel over Dante» (1961: 2, 819-876).</note>.</p>
           <p>Como su propio nombre indica, el <hi rend="i">Parecer</hi> es una opinión personal, una valoración de las obras de Góngora contenida en una carta íntima, aunque pensada para ser leída por un grupo de personas alrededor del poeta. Que el abad de Rute esperaba ser leído por un grupo de personas, y no sólo por Góngora, es evidente, porque la lectura pública de cartas de temas literarios era una práctica común en aquel entonces y, sobre todo, porque el autor del <hi rend="i">Parecer</hi> escribe que leyó la correspondencia semi-privada, semi-pública entre Pedro de Valencia y Góngora, lo cual indica que sabía que su propia epístola era susceptible de conocer la misma difusión. En efecto, un estudio atento de la documentación disponible demuestra que alguien como Juan de Villegas, alcalde de Luque, coleccionaba las cartas de Pedro de Valencia (y quizás de otros admiradores de Góngora), seguramente para organizar la defensa del poeta<note place="bottom">Juan de Villegas era un amigo de Góngora, como lo prueba el soneto que Góngora le dedicó («En villa humilde sí, no en vida ociosa») y el mensaje que Góngora le remitió el 4 de septiembre de 1614, para hablarle de cómo estaba organizando su propia defensa (Alonso1982c). En este documento, Góngora pide a Villegas que devuelva «la carta de Pedro de Valencia», para entregarla a Pedro Díaz de Rivas que la quiere ver. Lo más probable es que la carta aludida por Góngora sea diferente del parecer de Pedro de Valencia antes presentado. En efecto, Pedro Díaz de Rivas publicó un corto fragmento de otra epístola de Pedro de Valencia, fechada el 6 de mayo de 1614, al final de los <hi rend="i">Discursos apologéticos.</hi> Se puede leer en (Góngora 2008: II, 518). Sería lógico que Góngora hablara de la carta publicada por Díaz de Rivas, porque corresponde con la utilización que ese amigo de Góngora efectivamente hizo de ella. También coincide con la cronología que conocemos: la misiva publicada por Díaz de Rivas le llegó a Góngora en mayo, se la pasó a Juan de Villegas durante el verano y el 4 de septiembre el alcalde de Luque todavía la tenía. En cambio cuesta imaginar que Juan de Villegas haya podido conservar la carta censoria de Pedro de Valencia desde 1613 y que solo en septiembre de 1614 Góngora se la reclame. Coincidimos pues con Dámaso Alonso (1982c), pese a las objeciones de Joaquín Roses (1994: 13).</note>. El abad de Rute sabía que las cartas eruditas acerca de la poesía de Góngora se leían y discutían en casa del alcalde de Luque, pues a él acudió antes de redactar su parecer, y bien podía pensar que su carta también se difundiría y comentaría, ya fuera en esta tertulia, ya en otras, como de hecho se produjo<note place="bottom">Véase más adelante el estudio de la difusión del <hi rend="i">Parecer</hi>. </note>.</p>
@@ -200,404 +206,399 @@
           <p>La «bibliografía hipotéticamente consultada por el polemista» que logramos reconstruir a partir de las particularidades de la traducciones al latín de unos textos inicialmente escritos en griego (Diodoro de Sicilia, Eliano, Diogenio Laercio, Luciano de Samosata, Máximo de Tiro…) nos permitió corregir numerosos errores de transcripción del copista.</p>
           <p>Decidimos ofrecer una traducción al español de todas las citas que utiliza el abad de Rute en su texto. En la mayoría de los casos, las traducciones son nuestras, salvo en aquellos casos en que utilizamos alguna traducción publicada, y así lo mencionamos.</p>
         </div>
+              <div>
+        <head>10. [Bibliografía]</head>
         <div>
-          <head>10. [Bibliografía]</head>
-          <div>
-            <head>10.1 Obras hipotéticamente citadas o consultadas por el polemista</head>
-            <p rend="noindent">ALEMANNI, Luigi, (o Luigi Alamanni):</p>
-            <p rend="noindent">——, <hi rend="i">La Coltivazione di Luigi Alamanni al christianissimo re Francesco primo</hi>, stampata in Parigi: da Roberto Stephano, regio stampatore, 1546.</p>
-            <p rend="noindent">ARISTÓTELES:</p>
-            <p rend="noindent">——, <hi rend="i">Aristotelis Poetica per Alexandrum Paccium, patritium florentinum, in latinum conversa</hi>, Venetiis: in aedibus Aldi et Andreae Asulani soceri, 1536.</p>
-            <p rend="noindent">——, <hi rend="i">Rhetoricorum Aristotelis ad Theodecten libri tres, Georgio Trapezuntio interprete</hi>, Lugduni: apud Seb. Gryphium, 1545.</p>
-            <p rend="noindent">CALEPINO, Ambrosio:</p>
-            <p rend="noindent">——, <hi rend="i">Ambrosii Calepini dictionarium, in quo restituendo atque exornando haec praestitimus</hi>, Venetiis: in aedibus Manutianis, 1573.</p>
-            <p rend="noindent">CALPURNIO (Titus Calpurnius Siculus):</p>
-            <p rend="noindent">——, <hi rend="i">Calpurnii Eclogae VII. Nemesiani Eclogae IV</hi>, Romae: typis Conradi Sweynheym et Arnoldi Pannartz, 1471.</p>
-            <p rend="noindent">Cerda, Juan Luis de la:</p>
-            <p rend="noindent">——, <hi rend="i">Publii Virgilii Maronis Bucolica et Georgica argumentis, explicationibus et notis illustrata a Joanne Ludovico de la Cerda</hi>, [Francofurti]: e nobilis Francorum vadi collegio Paltheniano, 1608.</p>
-            <p rend="noindent">——, <hi rend="i">Publii Virgilii Maronis priores sex libri Aeneidos argumentis, explicationibus, notis illustrati, auctore Joanne Ludovico de la Cerda</hi> […], Lugduni: sumptibus Horatii Cardon, 1612.</p>
-            <p rend="noindent">——, <hi rend="i">Publii Virgilii Maronis posteriores sex libri Aeneidos argumentis, explicationibus, notis illustrati, auctore Joanne Ludovico de la Cerda</hi> […], Lugduni: sumptibus Horatii Cardon, 1617.</p>
-            <p rend="noindent">CONTI, Natale, (Natale Comitis):</p>
-            <p rend="noindent">——, <hi rend="i">Natalis</hi> <emph>Comitis Mythologiae</emph>, <hi rend="i">sive explicationis fabularum libri decem</hi>, Parisiis: apud Arnoldum Sittart, 1583.</p>
-            <p rend="noindent">DENORES, Giasone:</p>
-            <p rend="noindent">——, <hi rend="i">Discorso intorno a que' principii, cause et accrescimenti che la comedia, la tragedia et il poema eroico ricevono dalla filosofia morale e civile e da'governatori delle republiche</hi>, in Padova: appresso Paolo Meieto, 1586.</p>
-            <p rend="noindent">——, <hi rend="i">Apologia contra l’auttor del Verato di Iason De Nores. Di quanto ha egli detto in un suo discorso delle tragicomedie et delle pastorali</hi>, in Padova: appresso Paolo Meietti, 1590.</p>
-            <p rend="noindent">DIODORO DE SICILIA (también llamado Diodoro Sículo):</p>
-            <p rend="noindent">——, <hi rend="i">Bibliotheca historica, sive historiae priscae, libri I-VI</hi> (<hi rend="i">i. e.</hi> I-IV) <hi rend="i">a Poggio Florentino conversae</hi>, Venetiis: Philippus Pincius, 1493.</p>
-            <p rend="noindent">ELIANO, Claudio:</p>
-            <p rend="noindent">——, <hi rend="i">Aeliani variae historiae libri XIIII editio postrema multo quam antehac emendatior</hi>, Lugduni: apud Joan Tornaesium, 1601. (Edición bilingüe griego-latín con capítulos).</p>
-            <p rend="noindent">ENDELEQUIO, Severo Santo (Severus Sanctus Endelechius, también llamado Severus Retor):</p>
-            <p rend="noindent">——, <hi rend="i">Epigrammata et poematia vetera. Quorum pleraque nunc primum ex antiquis codicibus et lapidibus, alia sparsim antehac errantia, jam undecunque collecta emendatiora eduntur</hi>, Parisiis: excudebat Dionysius Duvallius, 1590.</p>
-            <p rend="noindent">——, <hi rend="i">Severi Endeleichi carmen bucolicum de mortibus boum cum notis M. Johannis Weitzii</hi>, Francoforti: apud Egenolphum Emmelium, 1612.</p>
-            <p rend="noindent">ESCALÍGERO, Julio César:</p>
-            <p rend="noindent">——, <hi rend="i">Poetices libri VII</hi>, Lugduni: apud Joannem Crispinum, 1561.</p>
-            <p rend="noindent">FERNÁNDEZ DE CÓRDOBA, Francisco:</p>
-            <p rend="noindent">——, <hi rend="i">Didascalia multiplex</hi>, Lugduni: Sumptibus Horatii Cardon, 1615.</p>
-            <p rend="noindent">FRACASTORO, Girolamo:</p>
-            <p rend="noindent">——, <hi rend="i">Hieronymi Fracastorii veronensis opera omnia</hi>, Venetiis: apud haeredes Lucaeantonii Juntae, 1555.</p>
-            <p rend="noindent">GILIO da Fabriano, Giovanni Andrea:</p>
-            <p rend="noindent">——, <hi rend="i">Topica poetica di M. Giovanni Andrea Gilio da Fabriano, Nella quale con bell’ordine, si dimostrano le parti principali, che debbono havere tutti quelli, che poetar disegnano. Et oltre di questo, se insegna à conoscere, il genere, i luochi topici, e con bel modo, ancora le figure</hi>, in Venetia: appresso Oratio de’ Gobbi, 1580.</p>
-            <p rend="noindent">GUARINI, Gianbattista:</p>
-            <p rend="noindent">——, <hi rend="i">Il Verrato, ovvero difesa di quanto ha scritto M. Giason Denores, contra le tragicomedie et le pastorali, in uno suo discorso di poesia</hi>, in Ferrara: ad instanza di Alfonso Caraffa, 1588.</p>
-            <p rend="noindent">——, <hi rend="i">Il Verato secondo overo replica dell’ Attizzato accademico ferrarese in difesa del Pastor Fido</hi>, in Firenze: Per Filippo Giunti, 1593.</p>
-            <p rend="noindent">——, <hi rend="i">Compendio della poesia tragicomica</hi>, Venecia: appresso Gio. Battista Ciotti, 1601.</p>
-            <p rend="noindent">LAERCIO, Diogenes:</p>
-            <p rend="noindent">——, <hi rend="i">Laertiou Diogenous Peri bion dogmaton kai apophthegmaton ton en philosophia eudokimesanton Biblia I' = Laertii Diogenis de vitis dogmatis et apophthegmatis eorum qui in philosophia claruerunt libri X / Thoma Aldobrandino interprete. Cum adnotationibus ejusdem</hi>, Romae: apud Aloysium Zanettum, 1594.</p>
-            <p rend="noindent">Luciano de SAMOSATA:</p>
-            <p rend="noindent">——, <hi rend="i">Elegantissima aliquot Luciani opuscula, jam recens per Vincentium Opsopoeum latinitate donata</hi> […], Haganoae: per Joan. Sec, 1529.</p>
-            <p rend="noindent">——, <hi rend="i">Luciani Samosatensis opera quae quidem extant omnia cum argumentis et annotationibus ejusdem passim adjectis, e graeco sermone in latinum, partim jam olim diversis autoribus, partim nunc demum per Jacobum Micyllum, quaecunque reliqua fuere translata</hi>, Francoforti: apud Christianum Egenolphum, 1538.</p>
-            <p rend="noindent">——, <hi rend="i">Luciani Samosatensis Opera, quae quidem extant, omnia a graeco sermone in latinum conversa, nunc postremum multo diligentius et melius quam ante, ad graecum exemplar correcta et emendata</hi>, Parisiis: ex officina Michaelis Vascosani, 1546.</p>
-            <p rend="noindent">——, <hi rend="i">Loukianou Hapanta. Luciani Samosatensis opera, quae extant omnia Graece et Latine, in quatuor tomos divisa quorum elenchos post aliquot paginas reperies. Una cum Gilberti Cognati Nozereni et Joannis Sambuci annotationibus utilissimis</hi> […], Basileae: per Henricum Petri, 1563.</p>
-            <p rend="noindent">LUISIO, Francesco (también llamado Francesco Luigini o Franciscus Luisinus Utinensi o también Franciscus Lovisini):</p>
-            <p rend="noindent">——, <hi rend="i">Francisci Luisini Utinensis in librum Quinti Horatii Flacci de arte poetica commentarius</hi>, [1554] en <hi rend="i">Opera Q. Horatii Flacci Venusini, grammaticorum antiquiss. Helenii Acronis, et Porphirionis commentariis illustrata</hi>, Basileae: apud Henrichum Petri, 1555, vol. 2. Disponible en: &lt; http://www.univ-paris3.fr/html/horace/Horace%20BALE/Lovisini%20Ars.pdf&gt;.</p>
-            <p rend="noindent">LICÓSTENES, Conrado:</p>
-            <p rend="noindent">——, <hi rend="i">Apophthegmata ex probatis graecae latinaeque linguae scriptoribus a Conrado Lycosthene collecta</hi>, [Genavae]: excudebat Jacobus Stoer, 1609.</p>
-            <p rend="noindent">MAJOR, Georg:</p>
-            <p rend="noindent">——, <hi rend="i">Sententiae veterum poetarum per locos communes digestae</hi>, Lipsiae: Johannes Rhamba excudebat, 1564.</p>
-            <p rend="noindent">MÁXIMO DE TIRO:</p>
-            <p rend="noindent">——, <hi rend="i">Maximi tyrii philosophi Platonici Sermones sive Disputationes XLI. Ex Cosmi Paccii Archiepiscopi Florentini interpretatione. Ab Henrico Stephano</hi> […] <hi rend="i">enmendata</hi>. Ex oficina Henrici Stephani Parisiensis typographi, 1547.</p>
-            <p rend="noindent">MINTURNO, Antonio:</p>
-            <p rend="noindent">——, <hi rend="i">Antonii Sebastiani Minturni de poeta, ad Hectorem Pignatellum, Vibonensium ducem, libri sex</hi>, Venetiis: [apud Franciscum Rampazetum], 1559.</p>
-            <p rend="noindent">POLICIANO, Ángel:</p>
-            <p rend="noindent">——, <hi rend="i">Angeli Politiani Sylvae, nutricia, manto, rusticus, ambra illustratum per Franciscum Sanctium Brocensem</hi>, Salmanticae: excudebat Andreas a Portonariis, 1554.</p>
-            <p rend="noindent">QUINTILIANO, Marco Fabio:</p>
-            <p rend="noindent">——, <hi rend="i">M. Fabii Quintiliani, oratoris eloquentissimi, De institutione oratoria libri XII</hi>, Parisiis: apud Audoënum Parvum, in via quae est ad D. Iacobum, sub insigni Lilii, 1549.</p>
-            <p rend="noindent">Rosiglia, Marco:</p>
-            <p rend="noindent">—— <hi rend="i">Miscelanee</hi> [sic] <hi rend="i">nova del p[re]clarissimo poeta maestro Marcho Rasilia da Foligno et altri auctori</hi> […] Sta[m]pata i[n] Venetia: p[er] Nicolo dicto Zopino, [c. 1510-1515].</p>
-            <p rend="noindent">SALVIATI, Lionardo:</p>
-            <p rend="noindent">——, <hi rend="i">Degli accademici della Crusca difesa dell’ Orlando furioso dell’ Ariosto contra’l dialogo dell’epica poesia di Cammillo Pellegrino. Stacciata prima</hi>, in Firenze: per Domenico Manzani, stampator della Crusca, 1584.</p>
-            <p rend="noindent">SIMPOSIO:</p>
-            <p rend="noindent">——, <hi rend="i">Aenigmata Symposii poetae cum scholiis Josephi Castalionis Anconitani</hi>, Romae: apud Franciscum Zannettum, 1581.</p>
-            <p rend="noindent">TASSO, Torcuato:</p>
-            <p rend="noindent">——, <hi rend="i">Discorsi del poema heroico del signor Torquato Tasso</hi>, Napoli: nella Stamparia dello Stigliota, [1594?].</p>
-            <p rend="noindent">TEÓCRITO:</p>
-            <p rend="noindent">——, <hi rend="i">Theocriti Syracusani Idyllia triginta sex, latino carmine reddita Helio Eobano Hesso interprete</hi>, Haganoae: Per Joan. Secerium, 1530.</p>
-            <p rend="noindent">TEOFRASTO:</p>
-            <p rend="noindent">——, <hi rend="i">Theophrasti sparse de plantis sententiae in continuatam seriem ad propria capita revocatae</hi>, Boloniae: apud Alexandrum Benaccium 1561</p>
-            <p rend="noindent">VIDA, Marco Girolamo:</p>
-            <p rend="noindent">——, <hi rend="i">Marci Hieronymi Vidae cremonensis de arte poetica libri III</hi>, Romae: apud Ludovicum Vicentinum, 1527.</p>
-          </div>
-          <div>
-            <head>10.2.1 Otras referencias bibliográficas del editor (manuscritos e impresos anteriores a 1800)</head>
-            <p rend="noindent">Antonio, Nicolás:</p>
-            <p rend="noindent">——, <hi rend="i">Bibliotheca Hispana Nova</hi>, Matriti: apud Joachimum de Ibarra, 1783-1788.</p>
-            <p rend="noindent">BENIVIENI, Girolamo en:</p>
-            <p rend="noindent">——, <hi rend="i">Bucolica (Tr: Bernardo Pulci). Add: Francesco de Arsocchi: Bucolica. Girolamo Benivieni: Bucolica. Jacopo Fiorino de Boninsegni: Bucolica</hi>, Firenze: Antonio Miscomini, 1481/82.</p>
-            <p rend="noindent">Covarrubias, Sebastián:</p>
-            <p rend="noindent">——, <hi rend="i">Tesoro de la lengua castellana o española</hi>, en Madrid: por Luis Sánchez, impresor del rey, 1611.</p>
-            <p rend="noindent">DENORES, Giasone:</p>
-            <p rend="noindent">——, en GUARINI, Batista, <hi rend="i">Delle opere del cavalier Battista Guarini</hi>, in Verona: per Giovanni Alberto Tumermani, 1737, II, p. 313-375. (Esta edición de las obras de Guarini incluye la <hi rend="i">Apologia di Jason</hi> [sic] <hi rend="i">Denores contra l’autor del</hi> Verato).</p>
-            <p rend="noindent">DIOGENIANO:</p>
-            <p rend="noindent">——, «<hi rend="i">Diogeniani vulgaria proverbia</hi>» en <hi rend="i">Adagia sive proverbia graecorum ex Zenobio, seu Zenodoto, Diogeniano et Suidae partim edita nunc primum, scholiisque parallelis illustrata, ab Andrea Schotto</hi>, Antuerpiae: ex officina Plantiniana, apud viduam et filios Joannis Moreti, 1612.</p>
-            <p rend="noindent">ELIANO, Claudio:</p>
-            <p rend="noindent">——, <hi rend="i">Aeliani De varia historia libros XIIII Jacobus Laureus Venetus e graeco in latinum vertebat</hi>, in Venetia: appresso Gabriel Giolito di Ferrari, 1550.</p>
-            <p rend="noindent">——, <hi rend="i">Aeliani De varia historia libri XIIII, nunc primum et latinate donati et in lucem editi, Justo Vulteio Veterano interprete</hi>, Lugduni: apud Joan Tornaesium et Guil Gazeium, 1553.</p>
-            <p rend="noindent">EURÍPIDES:</p>
-            <p rend="noindent">——, <hi rend="i">Euripides poeta tragicorum princeps in latinum sermonem conversus</hi> […], <hi rend="i">autore Gasgaro Stiblino</hi>, Basileae: apud Oporinum, 1562a.</p>
-            <p rend="noindent">——, <hi rend="i">Tragoediae quae hodie extant, omnes latine soluta oratione redditae</hi> […]. <hi rend="i">E praelectionibus Philippi Melanthonis</hi>, Francofurti: apud L. Lucium, 1562b.</p>
-            <p rend="noindent">——, <hi rend="i">Euripidis Tragoediæ XIX / Euripidou Tragodion tmema deuterou: Euripidis Tragoediarum pars altera, latinam interpretationem M. Aemilius Portus F.P.C.F. passim ita correxit et expolvit ut nova facie nitidoq[ue] cultu nunc primum in lucem prodeat; carminum ratio ex Gul. Cantero diligenter observata; additis ejusdem in totum Euripidem notis</hi>, Heidelbergæ: typis Hieronymi Commelini[is], 1597.</p>
-            <p rend="noindent">——, <hi rend="i">Euripides tragoediae quae extant, cum latina Gulielmi Canteri interpretatione</hi>, Ginebra: excudebat Paulus Stephanus, 1602.</p>
-            <p rend="noindent">FERNÁNDEZ DE CÓRDOBA, Francisco:</p>
-            <p rend="noindent">——, BNE, ms. 3271, <hi rend="i">Historia de la casa de Córdoba</hi>.</p>
-            <p rend="noindent">——, BNE, ms. 2077, <hi rend="i">Historia de la ciudad de Córdoba y origen de la casa de Alcaudete por el racionero don Francisco de Córdoba</hi>.</p>
-            <p rend="noindent">GUARINI, Gianbattista:</p>
-            <p rend="noindent">——, <hi rend="i">Delle opere del cavalier Battista Guarini</hi>, in Verona: per Giovanni Alberto Tumermani, 1737, 4 vol.</p>
-            <p rend="noindent">LOPE DE VEGA:</p>
-            <p rend="noindent">——, <hi rend="i">La Filomena</hi>, Barcelona: por Sebastián de Cormellas, 1621.</p>
-            <p rend="noindent">MINTURNO, Antonio:</p>
-            <p rend="noindent">——, <hi rend="i">L’arte poetica di Antonio Minturno, della quale si contengono i precetti eroici, tragici, comici e d’ogn’altra poesía, con le postille del dottor Valvassori</hi>, in Venetia: per Gio. Andrea Valvassori, 1564.</p>
-            <p rend="noindent">QUINTILIANO, Marco Fabio:</p>
-            <p rend="noindent">——, <hi rend="i">Institutiones oratoriae</hi>, Tarvisii: [Paulus de Ferraria], Dionysius [Bertochus] Bononiensis et Pereginus [de Pasqualibus], 22 octubre 1482.</p>
-            <p rend="noindent">Rosiglia, Marco:</p>
-            <p rend="noindent">——, <hi rend="i">La conversione de sancta Maria Magdalena e la vita de Lazaro e Martha in octava rima hystoriata. Composta pel dignissimo poeta maestro Marcho Rosiglia da Foligno. Opera nova &amp; devotissima</hi>, stampata in Venetia: per Nicolo dicto Zopino &amp; Vincentio compagni, 1513 adi XIIII de marzo.</p>
-            <p rend="noindent">TASSO, Bernardo:</p>
-            <p rend="noindent">——, <hi rend="i">Libro primo de gli amori di Bernardo Tasso</hi>, in Vinegia: G. Antonio e fratelli da Sabbio, 1531.</p>
-            <p rend="noindent">——, <hi rend="i">Libro primo</hi> [<hi rend="i">secondo</hi>] <hi rend="i">de gli amori</hi>, in Vinegia: per Joan. Ant. da Sabio, XXXIV del mese di settembre, 1534.</p>
-            <p rend="noindent">——, <hi rend="i">Libro terzo de gli amori di Bernardo Tasso</hi>, in Vinegia: per Bernardino Stagnino, 1537.</p>
-            <p rend="noindent">——, <hi rend="i">Rime di messer Bernardo Tasso divise in cinque libri nuovamente stampate</hi>, in Vinegia: appresso Gabriel Giolito de’ Ferrari, 1560.</p>
-            <p rend="noindent">TASSO, Torcuato:</p>
-            <p rend="noindent">——, <hi rend="i">Discorsi del signor Torquato Tasso dell’ Arte poetica et in particolare del Poema heroico</hi>, in Venetia: ad instanza di GiulioVassalini libraro a Ferrara, 1587</p>
-            <p rend="noindent">VACA DE ALFARO, Enrique:</p>
-            <p rend="noindent">——, <hi rend="i">Justa poética a la pureza de la Virgen Nuestra Señora, celebrada en la parroquia de San Andrés de la ciudad de Córdoba, en quinze de enero, de 1617</hi>, impreso en Sevilla: por Gabriel Ramos Bejarano en la calle de Génova, [1617].</p>
-            <p rend="noindent">Vulgata:</p>
-            <p rend="noindent">——, <hi rend="i">La Biblia vulgata latina traducida en español y anotada conforme al sentido de los santos padres y expositores católicos por el padre Felipe Scio de San Miguel</hi>, en Valencia: en la oficina de Joseph y Thomas de Orga, 1790-1793.</p>
-          </div>
-          <div>
-            <head>10.2.2 Otras referencias bibliográficas del editor (impresos posteriores a 1800)</head>
-            <p rend="noindent">Alatorre, Antonio:</p>
-            <p rend="noindent">―«Notas sobre las <hi rend="i">Soledades</hi> (A propósito de la edición de Robert Jammes)», <hi rend="i">Nueva Revista de Filología Hispánica</hi>, 44, n.º 1, 1996, p. 57-98.</p>
-            <p rend="noindent">Alonso, Dámaso:</p>
-            <p rend="noindent">——, «Góngora y la censura de Pedro de Valencia», <hi rend="i">Temas gongorinos, Revista de filología española</hi>, XIV, 1927, p. 347-368.</p>
-            <p rend="noindent">——, «Todos contra Pellicer», <hi rend="i">Revista de filología española</hi>, XXIV, 1937, p. 320-342.</p>
-            <p rend="noindent">——, «La lengua poética de Góngora» (1ª ed. 1932), <hi rend="i">Obras completas</hi>, t. V, Madrid, Gredos, 1978, p. 9-240.</p>
-            <p rend="noindent">——, «Sobre el Abad de Rute: algunas noticias biográficas», <hi rend="i">Obras completas</hi>, t. VI, Madrid, Gredos, 1982a, p. 203-218. (1ª ed. en E. de Bustos (dir.), <hi rend="i">Studia Hispanica in honorem R. Lapesa</hi>, I, Madrid, Cátedra-Seminario Menéndez Pidal, 1972, p. 93-104).</p>
-            <p rend="noindent">——, «Góngora en las cartas del Abad de Rute», <hi rend="i">Obras completas</hi>, t. VI, Madrid, Gredos, 1982b, p. 219-260. (1ª ed. <hi rend="i">Homenaje a la memoria de D. Antonio Rodríguez-Moñino (1910-1970)</hi>, Madrid, Castalia, 1975, p. 27-58).</p>
-            <p rend="noindent">——, «La carta autógrafa más antigua que conservamos de Góngora», <hi rend="i">Obras completas</hi>, t. VI, Madrid, Gredos, 1982c, p. 399-421.</p>
-            <p rend="noindent">Amo Lozano, Milagros del:</p>
-            <p rend="noindent">——, «Tres capítulos de teoría literaria en F. F. de Córdoba», A. M. Aldama Roy (dir.), <hi rend="i">De Roma al siglo XX. La cultura occidental ante el mundo latino</hi>, Madrid, Universidad Nacional de Educación a Distancia, 1996, t. II, p. 647-654.</p>
-            <p rend="noindent">ARISTÓTELES:</p>
-            <p rend="noindent">——, <hi rend="i">Poética</hi>, Valentín García Yebra (trad.), Madrid, Gredos, 1974.</p>
-            <p rend="noindent">——, <hi rend="i">Ethique de Nicomaque</hi>, Jean Voilquin (ed. y trad.), Paris, GF-Flammarion, 1992.</p>
-            <p rend="noindent">——, <hi rend="i">Retórica</hi>, Quintín Racionero (trad.), Madrid, Gredos, 1994.</p>
-            <p rend="noindent">ARTIGAS, Miguel:</p>
-            <p rend="noindent">——, (ed.), Fernández de Córdoba, Francisco, <hi rend="i">Examen del Antídoto o Apología por las Soledades de don Luis de Góngora contra el autor del Antídoto</hi> en <hi rend="i">Don Luis de Góngora y Argote. Biografía y estudio crítico</hi>, Madrid, Real Academia Española, Tip. de Revista de Archivos, 1925, Apéndice VII, p. 400-467.</p>
-            <p rend="noindent">AULO GELIO:</p>
-            <p rend="noindent">——, <hi rend="i">Noches áticas. Noctes atticae</hi>, libros 1-10, Manuel-Antonio Marcos Casquero y Avelino Domínguez García (trad.), León, Universidad de León, 2006.</p>
-            <p rend="noindent">Azaustre Galiana, Antonio:</p>
-            <p rend="noindent">——, «Citas de autoridades y argumentación retórica en las polémicas literarias sobre el estilo culto», <hi rend="i">Revista de la Asociación Española de Semiótica</hi>, n°14, 2005, p. 37-72.</p>
-            <p rend="noindent">BALAVOINE, Claudie y Laurens, Pierre:</p>
-            <p rend="noindent">——, (dirs.), <hi rend="i">La statue et l’empreinte. La poétique de Scaliger</hi>, Paris, Vrin, 1986.</p>
-            <p rend="noindent">Balsamo, Jean:</p>
-            <p rend="noindent">——, (dir.), <hi rend="i">De Dante a Chiabrera, Poètes italiens de la Renaissance dans la bibliothèque de Fondation Barbier-Mueller</hi>, Genève, Droz, 2007.</p>
-            <p rend="noindent">BESSIERE, Jean, Kushner, Eva y Mortier, Roland:</p>
-            <p rend="noindent">——, (dirs.), <hi rend="i">Histoire des poétiques</hi>, Paris, Presses universitaires de France, 1997.</p>
-            <p rend="noindent">Blanco, Mercedes:</p>
-            <p rend="noindent">——, «Lienzo de Flandes: las <hi rend="i">Soledades</hi> y el paisaje pictórico», <hi rend="i">Actas del IV Congreso Internacional de la Asociación Internacional Siglo de Oro</hi>, Alcalá de Henares, Servicio de Publicaciones de la Universidad de Alcalá, t. 1, 1996, p. 263-274.</p>
-            <p rend="noindent">——, «Góngora y el humanista Pedro de Valencia», en Joaquín Roses (dir.), <hi rend="i">Góngora Hoy VI. Góngora y sus contemporáneos: de Cervantes a Quevedo</hi>, Córdoba, Diputación y Universidad, 2005, p. 199-221.</p>
-            <p rend="noindent">——, «La polémica como fermento creativo en el Lope de la vejez», <hi rend="i">Anuario Lope de Vega</hi>, 14, 2008, p. 25-55.</p>
-            <p rend="noindent">——, <hi rend="i">Góngora heroico. Las Soledades y la tradición épica</hi>, Madrid, Centro de Estudios Europa Hispánica, 2012a.</p>
-            <p rend="noindent">——, <hi rend="i">Góngora o la invención de una lengua</hi>, León, Universidad, 2012b.</p>
-            <p rend="noindent">——, «Las <hi rend="i">Soledades</hi> a la luz de la polémica», en Begoña Capllonch, Sara Pezzini, Giulia Poggi y Jesús Ponce Cárdenas, (dir.), <hi rend="i">La Edad del Genio: España e Italia en tiempos de Góngora</hi>, Pisa, edizioni ETS, 2013, p. 7-40.</p>
-            <p rend="noindent">CALPURNIO:</p>
-            <p rend="noindent">——, <hi rend="i">Poetae minores: Sabinus, Calpurnius, Gratius Faliscus, Nemenianus, Valerius Cato, Verstritius Spurina, Lupercus Servatus, Arborius, Pentadius, Eucheria, Pervigilium veneris</hi>, M. Cabaret-Dupaty (trad.), Paris, Panckoucke, 1842.</p>
-            <p rend="noindent">Carreira, Antonio:</p>
-            <p rend="noindent">——, «La controversia en torno a las <hi rend="i">Soledades</hi>. Un parecer desconocido y edición crítica de las primeras cartas», <hi rend="i">Gongoremas</hi>, Barcelona, Ediciones Península, 1998, p. 239-266. (1ª ed. en Francis Cerdan (dir.), <hi rend="i">Hommage à Robert Jammes</hi>, Toulouse, Presses universitaires du Mirail, 1994, I, p. 151-171).</p>
-            <p rend="noindent">——, (ed.), Luis de Góngora, <hi rend="i">Obras completas</hi>, Madrid, Biblioteca Castro, 2008, 2ª ed. corregida, 2 vol. (1ª ed. 2000). (Ofrece una edición del <hi rend="i">Parecer</hi> en el vol. II, 493-513).</p>
-            <p rend="noindent">——, «Difusión y transmisión de la poesía gongorina», en Antonio Carreira (dir.), <hi rend="i">Góngora: la estrella inextinguible. Magnitud estética y universo contemporáneo</hi>, Madrid, Sociedad Estatal de Acción Cultural, 2012, p. 87-99.</p>
-            <p rend="noindent">CATULO, Gayo Valerio:</p>
-            <p rend="noindent">——, <hi rend="i">Poésies</hi>, George Lafaye (ed.), Paris, Les Belles Lettres, 1989.</p>
-            <p rend="noindent">CERVANTES y SAAVEDRA, Miguel de:</p>
-            <p rend="noindent">——, <hi rend="i">Obra completa, II: Galatea. Novelas ejemplares. Persiles y Sigismunda</hi>, Florencio Sevilla y Antonio Rey Hazas (eds.), Madrid, Centro de Estudios Cervantinos, 1994.</p>
-            <p rend="noindent">CHEVROLET, Teresa:</p>
-            <p rend="noindent">——, <hi rend="i">L’idée de fable. Théories de la fiction poétique à la Renaissance</hi>, Genève, Droz, 2007.</p>
-            <p rend="noindent">CICERÓN:</p>
-            <p rend="noindent">——, <hi rend="i">Cuestiones académicas</hi> (<hi rend="i">Academicorum posteriorum liber primus</hi>), Julio Pimentel Álvarez (trad.), México, D.F., Universidad Nacional Autónoma de México, 1980.</p>
-            <p rend="noindent">——, <hi rend="i">Sobre los límites del bien y del mal</hi> (<hi rend="i">De finibus</hi>), Víctor-José Herrero Llorente (trad.), Madrid, Gredos, 1987.</p>
-            <p rend="noindent">——, <hi rend="i">De la naturaleza de los dioses</hi> (<hi rend="i">De Natura deorum</hi>), Ángel Escobar (trad.), Madrid, Gredos, 1999.</p>
-            <p rend="noindent">——, <hi rend="i">Tusculanes</hi> (<hi rend="i">Tusculanae disputationes</hi>), Gustave Fohlen (ed.), Jules Humbert (trad. al francés), Paris, Les Belles Lettres, 1960.</p>
-            <p rend="noindent">CONTI, Natale:</p>
-            <p rend="noindent">——, <hi rend="i">Mitologías</hi>, Rosa María Montiel y María Consuelo Álvarez Morán (trad.), Murcia, Universidad, 1988.</p>
-            <p rend="noindent">CORREAS, Gonzalo:</p>
-            <p rend="noindent">——, <hi rend="i">Vocabulario de refranes y frases proverbiales y otras fórmulas comunes de la lengua castellana, en que van todos los impresos antes y otra gran copia</hi>, Madrid, Tip. de la «Rev. de Archivos, Bibliotecas y Museos», 1924.</p>
-            <p rend="noindent">Cruz Casado, Antonio:</p>
-            <p rend="noindent">——, «'Tanto por plumas…' Góngora y los poetas cordobeses del Siglo de Oro», <hi rend="i">Arbor: Ciencia, pensamiento y cultura</hi>, 654, 2000, (ejemplar dedicado a <hi rend="i">Córdoba ciudad trimilenaria</hi>), p. 277-296.</p>
-            <p rend="noindent">Daza Somoano, Juan Manuel:</p>
-            <p rend="noindent">——, «Apuntes acerca de la <hi rend="i">Apología por una décima del autor de las Soledades</hi> del Abad de Rute», <hi rend="i">Etiópicas</hi>, 4, 2008, p. 77-88.</p>
-            <p rend="noindent">——, «Los testimonios de la polémica epistolar Lope-Góngora (1615-1616), con edición de la respuesta de Góngora», en Begoña López Bueno (dir.), <hi rend="i">El poeta Soledad. Góngora (1609-1615)</hi>, Zaragoza, Prensas universitarias de Zaragoza, 2011, p. 271-287.</p>
-            <p rend="noindent">DI MONTI, Michele:</p>
-            <p rend="noindent">——, «Andrea Giovanni GILIO», <hi rend="i">Dizionario biográfico degli Italiani</hi>, volumen 54, 2000. Disponible en: &lt;http://www.treccani.it/enciclopedia/giovanni-andrea-gilio_%28Dizionario-Biografico%29/&gt;.</p>
-            <p rend="noindent">DIODORO DE SICILIA:</p>
-            <p rend="noindent">——, <hi rend="i">Biblioteca histórica</hi>, Juan José Torres Esbarranch (trad.), Madrid, Gredos, 2004.</p>
-            <p rend="noindent">Diomedes:</p>
-            <p rend="noindent">——, <hi rend="i">Diomedis artis grammaticae libri III</hi>, consultado en Heinrich Keil, <hi rend="i">Grammatici Latini</hi>, Leipzig, Teubner, 1857, vol. 1, p. 297-529.</p>
-            <p rend="noindent">DONATO, Elio:</p>
-            <p rend="noindent">——, <hi rend="i">Ars grammatica</hi>, consultado en la edición digital siguiente: &lt;http://www.intratext.com/IXT/LAT0365/_P1.HTM&gt;, IntraText Edition CT, Èulogos, 2007.</p>
-            <p rend="noindent">ELIANO, Claudio:</p>
-            <p rend="noindent">——, <hi rend="i">Historias curiosas</hi>, Juan Manuel Cortés Copete (trad.), Madrid, Gredos, 2006.</p>
-            <p rend="noindent">Elvira, Muriel:</p>
-            <p rend="noindent">——, «Del <hi rend="i">Parecer</hi> al <hi rend="i">Examen</hi>. Circunstancias de escritura de las dos intervenciones del abad de Rute en la polémica gongorina», <hi rend="i">e-Spania</hi>, 18, junio de 2014 (2014a). Disponible en: &lt;http://e-spania.revues.org/23621&gt;.</p>
-            <p rend="noindent">——, «Lope de Vega, lector del abad de Rute», ponencia leída en el X Congreso Internacional de la Asociación Internacional Siglo de Oro, Venecia, 14 de julio de 2014 (2014b).</p>
-            <p rend="noindent">——, «Ricardo de Turia ¿seudónimo de Lope de Vega en el <hi rend="i">Apologético de las comedias españolas</hi>?», <hi rend="i">Criticón</hi>, diciembre de 2015 (2015a), en prensa.</p>
-            <p rend="noindent">——, «Des polémiques italiennes aux polémiques espagnoles. L’abbé de Rute lecteur de Guarini», <emph>D’une péninsule l’autre: rivalités de plumes entre Espagne et Italie (XV<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> siècles</emph>), 2015b, en prensa.</p>
-            <p rend="noindent">ENDELEQUIO, Severo Santo:</p>
-            <p rend="noindent">——, <hi rend="i">Poesía latina pastoril, de caza y pesca</hi>, José A. Correa Rodríguez (ed. y trad al español), Madrid, Gredos, 1984. (En esta edición el poema de Severo Santo Endelequio se titula «De la mortandad de bueyes»).</p>
-            <p rend="noindent">ENTRAMBASAGUAS, Joaquín de:</p>
-            <p rend="noindent">——, <hi rend="i">Una guerra literaria del siglo de oro. Lope de Vega y los preceptitas aristotélicos, Estudios sobre Lope de Vega</hi>, 2 vol., Madrid, Consejo Superior de Investigaciones Científicas, 1967 (1ª edición 1932).</p>
-            <p rend="noindent">ERASMO DE RÓTERDAM:</p>
-            <p rend="noindent">——, <hi rend="i">Les Adages</hi>, Jean-Christophe Saladin (dir.), Paris, Les Belles Lettres, 2011, 5 vol. El texto en latín está disponible en: &lt;http://sites.univ-lyon2.fr/lesmondeshumanistes/category/adages-erasme/&gt;.</p>
-            <p rend="noindent">ESCALÍGERO, Julius Caesar:</p>
-            <p rend="noindent">——, <hi rend="i">Poetices libri VII</hi>, ed. facsímil al cuidado de August Buck, Stuttgart-Bad Cannstatt: Friedrich Frommann, 1964.</p>
-            <p rend="noindent">ESTACIO:</p>
-            <p rend="noindent">——, <hi rend="i">P. Papini Stati Silvae</hi>, Joannes S. Phillimore (ed.), Oxonii, 1905.</p>
-            <p rend="noindent">——, <hi rend="i">Silvas</hi>, Francisco Torrent Rodríguez (ed. y trad.), Madrid, Gredos, 1995.</p>
-            <p rend="noindent">Fernández Ariza, Carmen:</p>
-            <p rend="noindent">——, «Justas poéticas celebradas en Córdoba en el siglo XVII en honor de la Inmaculada Concepción», <hi rend="i">Boletín de la Real Academia de Córdoba</hi>, 148, 2005, p. 39-45.</p>
-            <p rend="noindent">FERNÁNDEZ DE AVELLANEDA, Alonso:</p>
-            <p rend="noindent">——, <hi rend="i">Segundo tomo del ingenioso hidalgo don Quijote de la Mancha</hi>, Florencio Sevilla Arroyo (ed.), Alicante, Biblioteca Virtual Miguel de Cervantes, 2001.</p>
-            <p rend="noindent">FERNÁNDEZ DE CÓRDOBA, Francisco:</p>
-            <p rend="noindent">——, «Historia de la casa de Córdoba», <hi rend="i">Boletín de la Real Academia de Córdoba</hi>, 1954-1972, vol. 71-92, con paginación separata. (La historia de los quinto y sexto duques de Sessa está en el número 77, enero-junio 1958, p. 140 y siguientes. La historia de los descendientes del III conde de Cabra está en el número 83 de 1962).</p>
-            <p rend="noindent">FRACASTORO, Girolamo:</p>
-            <p rend="noindent">——, <hi rend="i">Navagero. Della poética</hi>, ed. moderna facsímil, con traducción al inglés de Ruth Kelso e introducción de Murray W. Bundy, <hi rend="i">University of Illinois studies in Language and Literature</hi>, vol. IX, agosto 1984.</p>
-            <p rend="noindent">——, <hi rend="i">Navagero. Della poética</hi>, Enrico Peruzzi, (ed. y trad. al italiano), Firenze, Alinea editrice, 2005.</p>
-            <p rend="noindent">GALAND, Perrine y HALLYN, Fernand:</p>
-            <p rend="noindent">——, (dir.), <hi rend="i">Poétiques de la Renaissance: le modèle italien, le monde franco-bourguignon et leur héritage en France au XVIe siècle</hi>, Genève, Droz, 2001.</p>
-            <p rend="noindent">GAtes, Eunice Joiner:</p>
-            <p rend="noindent">——, «Don Francisco Fernández of Córdoba, defender of Góngora», <hi rend="i">The Romanic Review</hi>, XLII, 1951, p. 18-26.</p>
-            <p rend="noindent">——, (ed.), Francisco Fernández de Córdoba, <hi rend="i">Apología</hi>, Apéndice 1, <hi rend="i">Documentos gongorinos</hi>, México, D.F., El Colegio de México, 1960, p. 144-151.</p>
-            <p rend="noindent">Góngora, luis de, <hi rend="i">Epistolario completo</hi>, Antonio Carreira (ed.), Zaragoza, Libros Pórtico, 2000.</p>
-            <p rend="noindent">——, <hi rend="i">Obras completas</hi>, Antonio Carreira (ed.), Madrid, Fundación José Antonio de Castro, 2008 (1ª ed. 2000).</p>
-            <p rend="noindent">González de Amezúa y Mayo, Agustín:</p>
-            <p rend="noindent">——, <hi rend="i">Lope de Vega en sus cartas</hi>, Madrid, Tipografía de Archivos, t. 1, 1935.</p>
-            <p rend="noindent">GRACIÁN, Baltasar:</p>
-            <p rend="noindent">——, <hi rend="i">Agudeza y arte de ingenio</hi>, Evaristo Correa Calderón (ed.), Madrid, Clásicos Castalia, 1969.</p>
-            <p rend="noindent">GUARINI, Gianbattista:</p>
-            <p rend="noindent">——, <hi rend="i">Il Compendio della poesia tragicomica</hi> / <hi rend="i">De la poésie tragi-comique</hi>, Laurence Giavarini (ed. bilingüe y trad.), Paris-Genève, Honoré Champion-Slatkine, 2008.</p>
-            <p rend="noindent">Guzmán Arias, Carmen:</p>
-            <p rend="noindent">——, «¿Existió un río Lete en la Bética?, Aportaciones de F. F. de Córdoba a una cuestión geográfica», <hi rend="i">Los humanistas españoles y el humanismo europeo</hi>, Murcia, Universidad de Murcia, 1990, p. 165-169.</p>
-            <p rend="noindent">——, y Pérez MOLINA, Miguel Emilio, «La presencia de Plutarco en la <hi rend="i">Didascalia multiplex</hi> de F. F. de Córdoba», <hi rend="i">Actas del II simposio sobre Plutarco</hi>, Murcia, Universidad de Murcia, 1991, p. 191-200.</p>
-            <p rend="noindent">HEINECCIUS, Johann Gottlieb y Vicente y Caravantes, josé de:</p>
-            <p rend="noindent">——, <hi rend="i">Elementos del derecho romano según el orden de las instituciones</hi>, Madrid, Imprenta de don Pedro Sanz y Sanz, 1842.</p>
-            <p rend="noindent">Horacio:</p>
-            <p rend="noindent">——, <hi rend="i">Épitres</hi>, François Villeneuve (ed. y trad.), Paris, Les Belles Lettres, 1961.</p>
-            <p rend="noindent">——, <hi rend="i">Arte poética, Sátiras. Epístolas</hi>, José-Luis Moralejo (trad.), Madrid, Gredos, 2008.</p>
-            <p rend="noindent">HUARD, Emmanuelle:</p>
-            <p rend="noindent">——, «En torno a las Soledades. El Abad de Rute y los lienzos de Flandes», <hi rend="i">Criticón</hi>, n.º 114, 2012, p. 139-178.</p>
-            <p rend="noindent">HUARTE DE SAN JUAN:</p>
-            <p rend="noindent">——, <hi rend="i">Examen de ingenios</hi>, Guillermo Serés (ed.), Madrid, Cátedra, 1989.</p>
-            <p rend="noindent">Jammes, Robert:</p>
-            <p rend="noindent">——, «Elementos burlescos en las <hi rend="i">Soledades</hi>», <hi rend="i">Edad de Oro</hi>, 1963, II, p. 99-117.</p>
-            <p rend="noindent">____, «Apuntes sobre la génesis textual de las <hi rend="i">Soledades</hi>», en Jacques Issorel (dir.), <hi rend="i">Once estudios sobre las Soledades de Góngora</hi>, Perpignan, Presses Universitaires, 1995, p. 125-139.</p>
-            <p rend="noindent">——, (ed.), Luis de Góngora, <hi rend="i">Soledades</hi>, Madrid, Castalia, 1996.</p>
-            <p rend="noindent">Jerónimo, San:</p>
-            <p rend="noindent">——, <hi rend="i">Obras completas</hi>, t. III b, <hi rend="i">Comentarios a los Profetas menores</hi>, Avelino Domínguez García (ed. bilingüe), Madrid, Biblioteca de Autores Cristianos, 2003.</p>
-            <p rend="noindent">——, <hi rend="i">Obras completas</hi>, t. Vb, Hipólito-B. Riesco Álvarez (ed. bilingüe), Madrid, Biblioteca de Autores Cristianos, 2006.</p>
-            <p rend="noindent">LARGAIOLLI, Matteo:</p>
-            <p rend="noindent">——, «Le Egloghe di Marco Rosiglia (1460?-1508?)», <hi rend="i">Bollettino della Deputazione di Storia Patria per l’Umbria</hi>, 107, I-II, 2010, p. 137-190.</p>
-            <p rend="noindent">LÓpez bueno, Begoña:</p>
-            <p rend="noindent">——, «El cruce epistolar entre Lope y Góngora de 1615-1616. Revisión de fechas», en Begoña López Bueno (dir.), <hi rend="i">El poeta Soledad. Góngora (1609-1615)</hi>, Zaragoza, Prensas universitarias de Zaragoza, 2011, p. 239-270.</p>
-            <p rend="noindent">____, «Las Advertencias de Almansa y Mendoza y el “apócrifo correspondiente” de Góngora», <hi rend="i">Criticón</hi>, 116, 2012, p. 5-27.</p>
-            <p rend="noindent">——, «Con poca luz y menos disciplina. Góngora contra Jáuregui en 1615 o los antídotos al Antídoto», en Antonio Gargano (dir.), <hi rend="i">Difícil cosa el no escribir sátiras. La sátira en verso en la España de los Siglos de Oro</hi>, Vigo, Editorial Academia del Hispanismo, 2012, p. 205-226.</p>
-            <p rend="noindent">Lucano:</p>
-            <p rend="noindent">——, <hi rend="i">Farsalia</hi>, Antonio Holgado Redondo (ed. y trad.), Madrid, Gredos, 1984.</p>
-            <p rend="noindent">LUCIANO DE SAMOSATA:</p>
-            <p rend="noindent">——, <hi rend="i">Obras</hi>, t. I, Andrés Espinosa Alarcón (ed. y trad.), Madrid, Gredos, 1996.</p>
-            <p rend="noindent">——, <hi rend="i">Œuvres</hi>, Jacques Bompaire (ed. y trad.), 4 vol., Paris, Les Belles Lettres, 2003-2008.</p>
-            <p rend="noindent">MAGNIEN, Michel:</p>
-            <p rend="noindent">——, (introducción y ed.) de ARISTÓTELES, <hi rend="i">Poétique</hi>, Paris, Le livre de Poche, 1990.</p>
-            <p rend="noindent">Marcial:</p>
-            <p rend="noindent">——, <hi rend="i">Epigramas</hi>, José Guillén (trad.), Zaragoza, Institución Fernando el Católico, 2003.</p>
-            <p rend="noindent">Marín López, Nicolás:</p>
-            <p rend="noindent">——, «El Abad de Rute y una carta de Lope», <hi rend="i">Revista de Filología española</hi>, 55, 3-4, 1972, p. 303-308.</p>
-            <p rend="noindent">——, «La blanca Filomela: un lugar de Garcilaso comentado por el Abad de Rute», <hi rend="i">Estudios literarios sobre el Siglo de Oro</hi>, 2ª ed. al cuidado de Agustín de la Granja, Granada, Universidad de Granada, 1994a, p. 33-40 (1ª ed. 1974).</p>
-            <p rend="noindent">——, «El humanista don Francisco Fernández de Córdoba y sus ideas dramáticas», <hi rend="i">Estudios literarios sobre el Siglo de Oro</hi>, 2ª ed. al cuidado de Agustín de la Granja, Granada, Universidad de Granada, 1994b, p. 41-63. (1ª ed. 1974).</p>
-            <p rend="noindent">——, «Las ideas poéticas del Abad de Rute» <hi rend="i">Estudios literarios sobre el Siglo de Oro</hi>, 2ª ed. al cuidado de Agustín de la Granja, Granada, Universidad de Granada, 1994c, p. 65-91. (1ª ed. 1985).</p>
-            <p rend="noindent">Martínez Arancón, Ana:</p>
-            <p rend="noindent">——, <hi rend="i">La batalla en torno a Góngora</hi>, Barcelona, A. Bosch, 1978. (Reproduce la edición del <hi rend="i">Parecer</hi> de Emilio Orozco, p. 13-28).</p>
-            <p rend="noindent">MATAS CABALLERO, Juan:</p>
-            <p rend="noindent">——, «La presencia de los poetas españoles en la polémica en torno a las Soledades», <hi rend="i">Criticón</hi>, 55, 1992, p. 131-140.</p>
-            <p rend="noindent">MÁXIMO DE TIRO:</p>
-            <p rend="noindent">——, <hi rend="i">Disertaciones filosóficas</hi>, t. IV, Juan Luis López Cruces (ed. y trad.), Madrid, Gredos, 2005.</p>
-            <p rend="noindent">MIGUEL MORA, Carlos de:</p>
-            <p rend="noindent">——, «La comparación oratoria/poesía en el <hi rend="i">De poeta</hi> de Minturno», <hi rend="i">Humanismo y Pervivencia del Mundo Clásico II. Homenaje al Profesor Luis Gil</hi>, J. M. Maestre Maestre, J. Pascual Barea y L. Charlo Brea (dirs.), Cádiz, Servicio de Publicaciones de la Universidad, 1997, vol. 2, p. 855-864.</p>
-            <p rend="noindent">——, «El <hi rend="i">De oratore</hi> de Cicerón como fuente del <hi rend="i">De poeta</hi> de Minturno», J. Ribeiro Ferreira (dir.), <hi rend="i">A Retórica Greco-Latina e a sua Perenidade</hi>, Coimbra, Fundação Eng. António de Almeida, 2000, p. 645-654.</p>
-            <p rend="noindent">MINTURNO, Antonio:</p>
-            <p rend="noindent">——, <hi rend="i">De poeta</hi>, ed. facsímil de Bernhard Fabian, Munich, Wilhelm Finkn 1970.</p>
-            <p rend="noindent">——, <hi rend="i">Arte Poética de Antonio Sebastiano Minturno</hi>, María del Carmen Bobes Naves (ed. y trad.), Madrid, Arco/Libros, DL, 2009.</p>
-            <p rend="noindent">MOLINA RECIO, Raúl:</p>
-            <p rend="noindent">——, «Fernández de Córdoba», en <hi rend="i">Diccionario biográfico español</hi>, Madrid, Real Academia de la Historia, vol. XVIII, 2011, p. 761-762.</p>
-            <p rend="noindent">Moya del Baño, Francisca:</p>
-            <p rend="noindent">——, «<hi rend="i">La Didascalia multiplex</hi> de Francisco Fernández de Córdoba: sus aportaciones a la filología clásica», <hi rend="i">Homenaje a Pedro Sáinz Rodríguez</hi>, vol. II: Estudios de Lengua y Literatura, Madrid, FUE, 1986, p. 437-459.</p>
-            <p rend="noindent">Orozco, Emilio:</p>
-            <p rend="noindent">——, «Espíritu y vida en la creación de las <hi rend="i">Soledades</hi> gongorinas. (Por qué se escribieron y por qué no se terminaron)», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969a, p. 21-50.</p>
-            <p rend="noindent">——, «El Abad de Rute y el gongorismo. Breve anotación a sus escritos sobre las <hi rend="i">Soledades</hi>», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969b, p. 51-94.</p>
-            <p rend="noindent">——, «El <hi rend="i">Parecer</hi> del Abad de Rute sobre las <hi rend="i">Soledades</hi>. Edición y comentario de un texto inédito», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969c, p. 95-146.</p>
-            <p rend="noindent">——, «La polémica de las Soledades a la luz de otros textos. Las <hi rend="i">Advertencias</hi> de Almanza y Mendoza», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969d, p. 146-204.</p>
-            <p rend="noindent">——, «Aspectos desconocidos de la polémica de las Soledades de Góngora. Una carta inédita de don Antonio de las Infantas, amigo de Góngora», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969e, p. 205-258.</p>
-            <p rend="noindent">——, «Lope ataca las <hi rend="i">Soledades</hi> de Góngora (comentario y edición de una carta inédita)», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969f, p. 259-326.</p>
-            <p rend="noindent">OSUNA CABEZAS, María José:</p>
-            <p rend="noindent">——, «El papel de Andrés de Almansa y Mendoza en la polémica gongorina», <hi rend="i">Edad de oro cantabrigense: actas del VII Congreso de la Asociación Internacional de Hispanistas del Siglo de Oro</hi>, Cambridge, Asociación Internacional del Siglo de Oro, 2006, p. 489-494.</p>
-            <p rend="noindent">——, <hi rend="i">Las Soledades caminan hacia la corte. Primera fase de la polémica gongorina</hi>, Pontevedra, Editorial Academia del Hispanismo, 2008.</p>
-            <p rend="noindent">Ovidio:</p>
-            <p rend="noindent">——, <hi rend="i">Les Métamorphoses</hi>, Georges Lafaye (trad.), Paris, Les Belles Lettres, 1925 (t. 1), 1928 (t. 2), 1930 (t. 3).</p>
-            <p rend="noindent">——, <hi rend="i">Fastos</hi>, Bartolomé Segura Ramos (trad.), Madrid, Gredos, 1988.</p>
-            <p rend="noindent">——, <hi rend="i">Amores. Arte de amar. Sobre la coméstica del rostro femenino. Remedios contra el amor</hi>, Vicente Cristóbal López (trad.), Madrid, Gredos, 1989.</p>
-            <p rend="noindent">——, <hi rend="i">Ibis</hi>, Rosario Guarini Ortega (trad.), Murcia, Universidad, 2000.</p>
-            <p rend="noindent">——, <hi rend="i">Metamorfosis</hi>, Madrid, Gredos, 2008 (libros 1 a 5).</p>
-            <p rend="noindent">——, <hi rend="i">Metamorfosis</hi>, Madrid, Gredos, 2012 (libros 6 a 10).</p>
-            <p rend="noindent">pérez lasheras, Antonio:</p>
-            <p rend="noindent">——, «La crítica literaria en la polémica gongorina», <hi rend="i">Piedras preciosas… otros aspectos de la poesía de Góngora</hi>, Granada, Universidad de Granada, 2009a, p. 77-106. (1ª ed. <hi rend="i">Bulletin hispanique</hi>, CII, 2, 2000, p. 429- 459).</p>
-            <p rend="noindent">——, «Apéndice. Textos de la polémica gongorina», <hi rend="i">Piedras preciosas… otros aspectos de la poesía de Góngora</hi>, Granada, Universidad de Granada, 2009b, p. 109-133.</p>
-            <p rend="noindent">PÉREZ LÓPEZ, Manuel María:</p>
-            <p rend="noindent">——, <hi rend="i">Pedro de Valencia, primer crítico gongorino</hi>, Salamanca, Universidad de Salamanca, 1988.</p>
-            <p rend="noindent">Pérez Molina, Miguel E.:</p>
-            <p rend="noindent">——, «Análisis de las fuentes griegas en la <hi rend="i">Didascalia Multiplex</hi> de F. F. de Córdoba», <hi rend="i">Los humanistas españoles y el humanismo europeo</hi>, Murcia, Universidad de Murcia, 1990, p. 217-222.</p>
-            <p rend="noindent">PÉRIGOT, Béatrice:</p>
-            <p rend="noindent">——, «Antécédences: De la <emph>disputatio</emph> médiévale au débat humaniste», <emph>Memini</emph>, 11, 2007. Disponible en: &lt;http://memini.revues.org/74&gt;.</p>
-            <p rend="noindent">PETRARCA, Francesco:</p>
-            <p rend="noindent">——, <hi rend="i">Il bucolicum carmen e i suoi commenti inediti</hi>, Antonio Avena (ed.), Padova, Società cooperativa typografica, 1906.</p>
-            <p rend="noindent">——, <hi rend="i">Triunfos</hi>, Guido M. Cappelli (ed. bilingüe), Barcelona, Cátedra, 2003.</p>
-            <p rend="noindent">Plauto:</p>
-            <p rend="noindent">——, (Plaute), <hi rend="i">Comédies</hi>, t. 5, Alfred Ernout (ed. y trad.), Paris, Les Belles Lettres, 1961.</p>
-            <p rend="noindent">POLICIANO:</p>
-            <p rend="noindent">——, (Politien), <hi rend="i">Les Silves</hi>, Perrine Galand (ed. en latín y trad. al francés), Paris, Les Belles Lettres, 1987.</p>
-            <p rend="noindent">PONTANO, Giovanni:</p>
-            <p rend="noindent">——, <hi rend="i">Eclogae. Églogues</hi>, Hélène Casanova-Robin (ed. bilingue y trad. al francés), Paris, Les Belles Lettres, 2011.</p>
-            <p rend="noindent">Propercio:</p>
-            <p rend="noindent">——, <hi rend="i">Elegías</hi>, Antonio Ramírez de Verger (ed. y trad.), Madrid, Gredos, 1989.</p>
-            <p rend="noindent">——, (Properce), <hi rend="i">Élégies</hi>, Simone Viarre (ed.), Paris, Les Belles Lettres, 2005.</p>
-            <p rend="noindent">QUEVEDO, Francisco de:</p>
-            <p rend="noindent">——, <hi rend="i">Poesía original completa</hi>, José Manuel Blecua (ed.), Barcelona, Planeta, 1963.</p>
-            <p rend="noindent">QUINTILIANO:</p>
-            <p rend="noindent">——, <hi rend="i">Instituciones oratorias por Marco Fabio Quintiliano, traducción directa del latín por Ignacio Rodríguez y Pedro Sandier</hi>, Madrid, Librería de la Viuda de Hernando y Cia, 1887. Disponible en: &lt;http://www.cervantesvirtual.com/obra/instituciones-oratorias--0/&gt;.</p>
-            <p rend="noindent">——, (Quintilien), <hi rend="i">Institution oratoire</hi>, Paris, Les Belles Lettres, 1975-1980, 7 vol.</p>
-            <p rend="noindent">——, <hi rend="i">Institutio oratoria</hi>, Emilio Piccolo (ed. en latín), Nápoles, Classici latini Loffredo, 2009.</p>
-            <p rend="noindent">Ramírez de Arellano, Rafael:</p>
-            <p rend="noindent">——, <hi rend="i">Ensayo de un catálogo biográfico de escritores de</hi> […] <hi rend="i">Córdoba</hi>, Madrid, [Tip. de la Revista de Archivos, Bibliotecas y Museos], 1922.</p>
-            <p rend="noindent">Rico García, José María:</p>
-            <p rend="noindent">——, (ed.), <hi rend="i">Antídoto contra la pestilente poesía de las Soledades por Juan de Jáuregui</hi>, Sevilla, Universidad de Sevilla, 2002.</p>
-            <p rend="noindent">——, «El mito de Ícaro en la controversia gongorina», <hi rend="i">DRACO, Revista de literatura española</hi>, n° 3-4, 1991-1992, p. 335-348</p>
-            <p rend="noindent">ROCCASALVA, Alessandro:</p>
-            <p rend="noindent">——, <hi rend="i">Girolamo Fracastoro. Astronomo, médico e poeta nella cultura del Cinquecento italiano</hi>, Genova, Nuova scripta, 2008.</p>
-            <p rend="noindent">ROMANOS, Melchora:</p>
-            <p rend="noindent">——, «La aventura de editar a un comentarista de Góngora», Pablo Jauralde, Dolores Noguera y Alfonso Rey:</p>
-            <p rend="noindent">——, (dir.), <hi rend="i">La edición de textos</hi>, London, Tamesis Books, 1990, p. 413-420.</p>
-            <p rend="noindent">——, «Los escriores italianos y Góngora desde la perspectiva de sus comentaristas», <hi rend="i">Filología</hi>, XX, 1, 1986, p. 117-141.</p>
-            <p rend="noindent">Roses Lozano, Joaquín:</p>
-            <p rend="noindent">——, <hi rend="i">Una poética de la oscuridad. La recepción crítica de las Soledades en el siglo XVII</hi>, Londres y Madrid, Tamesis, 1994.</p>
-            <p rend="noindent">——, «Proceso de escritura y estilística de variantes en las <hi rend="i">Soledades</hi>. Algunos ejemplos», en <hi rend="i">Poéticas de la Metamorfosis. Tradición clásica, siglo de oro y modernidad</hi>, Málaga, Universidad de Almería, Universidad de Málaga, 2002, p. 343-374.</p>
-            <p rend="noindent">——, «Francisco Fernández de Córdoba y su contribución al debate sobre el poema lírico moderno», <hi rend="i">Góngora: Soledades habitadas</hi>, Málaga, Universidad de Málaga, 2007a, p. 145-155. (1ª ed. <hi rend="i">Actas del IV Congreso de la Asociación Internacional Siglo de Oro</hi>, Alcalá de Henares, Servicio de Publicaciones de la Universidad de Alcalá, 1998, t. 2, p. 1427-1434).</p>
-            <p rend="noindent">——, «Nota sobre algunos problemas de datación en la polémica epistolar», <hi rend="i">Góngora: Soledades habitadas</hi>, Málaga, Universidad de Málaga, 2007b, p. 139-144.</p>
-            <p rend="noindent">——, «Lecturas y reflejos: Góngora y el Abad de Rute», en Rafael Bonilla Cerezo <emph>y</emph> Giuseppe Mazzochi (dir.), <hi rend="i">La hidra barroca: varia lección de Góngora</hi>, Sevilla, Consejería de Cultura, 2008, p. 317-320.</p>
-            <p rend="noindent">SANNAZARO, Jacopo:</p>
-            <p rend="noindent">——, <hi rend="i">Arcadia</hi>, Carlo Vecce (ed.), Roma, Carrocci, 2013.</p>
-            <p rend="noindent">Scroffa, Camillo:</p>
-            <p rend="noindent">——, <hi rend="i">I cantici di Fidenzio. Con appendice di poeti fidenziani</hi>, Pietro Trifone (ed.), Roma, Salerno Editrice, 1981.</p>
-            <p rend="noindent">Sliwa, Krzysztof:</p>
-            <p rend="noindent">——, <hi rend="i">Cartas, documentos y escrituras de Luis de Góngora</hi>, Córdoba, Universidad de Córdoba, 2004. (Reproduce la edición del <hi rend="i">Parecer</hi> de Emilio Orozco, p. 572-587).</p>
-            <p rend="noindent">SOBERANO, Gonzalo:</p>
-            <p rend="noindent">——, «“Bernardinas” en textos literarios del Siglo de Oro», <hi rend="i">Homenaje a Rodríguez-Moñino: estudios de erudición que le ofrecen sus amigos o discípulos hispanistas norteamericanos</hi>, Madrid, Castalia, 1966, II, p. 247-259.</p>
-            <p rend="noindent">TÁCITO, Cornelio:</p>
-            <p rend="noindent">——, <hi rend="i">Anales</hi>, Crescente López de Juan (trad., prólogo y notas), Madrid, Alianza editorial, 1993.</p>
-            <p rend="noindent">TASSO, Bernardo:</p>
-            <p rend="noindent">——, <hi rend="i">Rime</hi>, Domenico Chiodo (ed.), Torino, Res, 1995.</p>
-            <p rend="noindent">TASSO, Torcuato:</p>
-            <p rend="noindent">——, <hi rend="i">Discours de l’art poétique, discours du poème héroïque</hi>, Françoise Graziani (trad. al francés), Paris, Aubier, 1998.</p>
-            <p rend="noindent">——, <hi rend="i">Gerusalemme liberata</hi>, L. Caretti (ed.), Milano, Mondadori, 1979.</p>
-            <p rend="noindent">TERENCIO:</p>
-            <p rend="noindent">——, <hi rend="i">Obras</hi>, Gonzalo Fontana Elboj (trad. y ed.), Madrid, Gredos, 2008.</p>
-            <p rend="noindent">TIRO, Máximo de:</p>
-            <p rend="noindent">——, <hi rend="i">Disertaciones filosóficas</hi>, Juan Luis López Cruces (trad.), Madrid, Gredos, 2005.</p>
-            <p rend="noindent">TUBAU, Xavier:</p>
-            <p rend="noindent">——, <hi rend="i">Una polémica literaria: Lope de Vega y las polémicas literarias de su época: Pedro de Torres Rámila y Diego de Colmenares</hi>, Tesis Doctoral bajo la dirección de Alberto Blecua, Barcelona, Universidad de Barcelona, 2008.</p>
-            <p rend="noindent">VALERIO FLACO:</p>
-            <p rend="noindent">——, <hi rend="i">Les Argonautiques</hi>, en <hi rend="i">Lucrèce, Virgile, Valérius Flaccus. Oeuvres complètes avec la traduction en français</hi>, M. Nisard (ed.), Paris, 1850. Disponible en: &lt;<ref target="http://bcs.fltr.ucl.ac.be/valfla/vfintro.html">http://bcs.fltr.ucl.ac.be/valfla/vfintro.html</ref>&gt;</p>
-            <p rend="noindent">VIDA, Marco Girolamo:</p>
-            <p rend="noindent">——, <hi rend="i">The «De arte poetica» of Girolamo Vida, translated with commentary, with the text of c. 1527 edited by Ralph G. Williams</hi>, New York, Columbia University Press, 1976.</p>
-            <p rend="noindent">——, <hi rend="i">Arte Poetica. Marco Girolamo Vida</hi>, A. M. Espírito Santo (ed.), Lisboa, Universidade, 1990</p>
-            <p rend="noindent">——, <hi rend="i">De Arte Poetica - Art Poetique</hi>, Jean Pappe (ed. y trad. al francés), Genève, Droz, 2013.</p>
-            <p rend="noindent">VIRGILIO:</p>
-            <p rend="noindent">——, <hi rend="i">Enéide</hi>, Jacques Perret (ed. y trad.), Paris, Les belles lettres, 1977 (t. 1: libros I-IV), 1978 (t. 2: libros V-VIII), 1980 (t. 3: libros IX-XII).</p>
-            <p rend="noindent">——, <hi rend="i">Bucólicas</hi>, J. L. Vidal (trad.), Madrid, Gredos, 1990.</p>
-            <p rend="noindent">——, <hi rend="i">Eneida</hi>, Javier de Echave-Sustaeta (ed. y trad.), Madrid, Gredos, 1992.</p>
-            <p rend="noindent">Weinberg, Bernard:</p>
-            <p>——, «Scaliger versus Aristotle on Poetics», <hi rend="i">Modern Philology</hi>, 39, 4, 1942, p. 337-340.</p>
-            <p>——, <hi rend="i">A history of literary criticism in the Italian renaissance</hi>, Chicago, University of Chicago Press, 1961.</p>
-            <p rend="noindent">Yoshida, Saiko:</p>
-            <p rend="noindent">——, «La posición de Francisco Fernández de Córdoba entre su <hi rend="i">Parecer</hi> y el <hi rend="i">Examen</hi>», <hi rend="i">Hommage à Robert Jammes</hi> III, Toulouse, Presses Universitaires du Mirail, 1994, p. 1211-1217.</p>
-            <p rend="noindent">——, «Lógica de la defensa. Posibles errores de partidarios de Góngora», <hi rend="i">Edad de oro cantabrigense: actas del VII Congreso de la Asociación Internacional de Hispanistas del Siglo de Oro</hi>, Cambridge, Asociación Internacional del Siglo de Oro, 2006, p. 627-632.</p>
-          </div>
+          <head>10.1 Obras hipotéticamente citadas o consultadas por el polemista</head>
+          <p rend="noindent"><hi rend="sc">Alemanni</hi>, Luigi, (o Luigi Alamanni):</p>
+          <p rend="noindent">—, <hi rend="i">La Coltivazione di Luigi Alamanni al christianissimo re Francesco primo</hi>, stampata in Parigi: da Roberto Stephano, regio stampatore, 1546.</p>
+          <p rend="noindent"><hi rend="sc">Aristóteles</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Aristotelis Poetica per Alexandrum Paccium, patritium florentinum, in latinum conversa</hi>, Venetiis: in aedibus Aldi et Andreae Asulani soceri, 1536.</p>
+          <p rend="noindent">—, <hi rend="i">Rhetoricorum Aristotelis ad Theodecten libri tres, Georgio Trapezuntio interprete</hi>, Lugduni: apud Seb. Gryphium, 1545.</p>
+          <p rend="noindent"><hi rend="sc">Calepino</hi>, Ambrosio:</p>
+          <p rend="noindent">—, <hi rend="i">Ambrosii Calepini dictionarium, in quo restituendo atque exornando haec praestitimus</hi>, Venetiis: in aedibus Manutianis, 1573.</p>
+          <p rend="noindent"><hi rend="sc">Calpurnio</hi> (Titus Calpurnius Siculus):</p>
+          <p rend="noindent">—, Calpurnii Eclogae VII. Nemesiani Eclogae IV, Romae: typis Conradi Sweynheym et Arnoldi Pannartz, 1471.</p>
+          <p rend="noindent"><hi rend="sc">Cerda</hi>, Juan Luis de la:</p>
+          <p rend="noindent">—, <hi rend="i">Publii Virgilii Maronis Bucolica et Georgica argumentis, explicationibus et notis illustrata a Joanne Ludovico de la Cerda</hi>, [Francofurti]: e nobilis Francorum vadi collegio Paltheniano, 1608.</p>
+          <p rend="noindent">—, <hi rend="i">Publii Virgilii Maronis priores sex libri Aeneidos argumentis, explicationibus, notis illustrati, auctore Joanne Ludovico de la Cerda</hi> […], Lugduni: sumptibus Horatii Cardon, 1612.</p>
+          <p rend="noindent">—, <hi rend="i">Publii Virgilii Maronis posteriores sex libri Aeneidos argumentis, explicationibus, notis illustrati, auctore Joanne Ludovico de la Cerda</hi> […], Lugduni: sumptibus Horatii Cardon, 1617.</p>
+          <p rend="noindent"><hi rend="sc">Conti</hi>, Natale, (Natale Comitis):</p>
+          <p rend="noindent">—, <hi rend="i">Natalis</hi> <emph>Comitis Mythologiae</emph>, <hi rend="i">sive explicationis fabularum libri decem</hi>, Parisiis: apud Arnoldum Sittart, 1583.</p>
+          <p rend="noindent"><hi rend="sc">Denores</hi>, Giasone:</p>
+          <p rend="noindent">—, <hi rend="i">Discorso intorno a que' principii, cause et accrescimenti che la comedia, la tragedia et il poema eroico ricevono dalla filosofia morale e civile e da'governatori delle republiche</hi>, in Padova: appresso Paolo Meieto, 1586.</p>
+          <p rend="noindent">—, <hi rend="i">Apologia contra l’auttor del Verato di Iason De Nores. Di quanto ha egli detto in un suo discorso delle tragicomedie et delle pastorali</hi>, in Padova: appresso Paolo Meietti, 1590.</p>
+          <p rend="noindent"><hi rend="sc">Diodoro de Sicilia</hi> (también llamado Diodoro Sículo):</p>
+          <p rend="noindent">—, <hi rend="i">Bibliotheca historica, sive historiae priscae, libri I-VI</hi> (<hi rend="i">i. e.</hi> I-IV) <hi rend="i">a Poggio Florentino conversae</hi>, Venetiis: Philippus Pincius, 1493.</p>
+          <p rend="noindent"><hi rend="sc">Eliano</hi>, Claudio:</p>
+          <p rend="noindent">—, <hi rend="i">Aeliani variae historiae libri XIIII editio postrema multo quam antehac emendatior</hi>, Lugduni: apud Joan Tornaesium, 1601. (Edición bilingüe griego-latín con capítulos).</p>
+          <p rend="noindent"><hi rend="sc">Endelequio</hi>, Severo Santo (Severus Sanctus Endelechius, también llamado Severus Retor):</p>
+          <p rend="noindent">—, <hi rend="i">Epigrammata et poematia vetera. Quorum pleraque nunc primum ex antiquis codicibus et lapidibus, alia sparsim antehac errantia, jam undecunque collecta emendatiora eduntur</hi>, Parisiis: excudebat Dionysius Duvallius, 1590.</p>
+          <p rend="noindent">—, <hi rend="i">Severi Endeleichi carmen bucolicum de mortibus boum cum notis M. Johannis Weitzii</hi>, Francoforti: apud Egenolphum Emmelium, 1612.</p>
+          <p rend="noindent"><hi rend="sc">Escalígero</hi>, Julio César:</p>
+          <p rend="noindent">—, <hi rend="i">Poetices libri VII</hi>, Lugduni: apud Joannem Crispinum, 1561.</p>
+          <p rend="noindent"><hi rend="sc">Fernández de Córdoba</hi>, Francisco:</p>
+          <p rend="noindent">—, <hi rend="i">Didascalia multiplex</hi>, Lugduni: Sumptibus Horatii Cardon, 1615.</p>
+          <p rend="noindent"><hi rend="sc">Fracastoro</hi>, Girolamo:</p>
+          <p rend="noindent">—, <hi rend="i">Hieronymi Fracastorii veronensis opera omnia</hi>, Venetiis: apud haeredes Lucaeantonii Juntae, 1555.</p>
+          <p rend="noindent"><hi rend="sc">Gilio da Fabriano</hi>, Giovanni Andrea:</p>
+          <p rend="noindent">—, <hi rend="i">Topica poetica di M. Giovanni Andrea Gilio da Fabriano, Nella quale con bell’ordine, si dimostrano le parti principali, che debbono havere tutti quelli, che poetar disegnano. Et oltre di questo, se insegna à conoscere, il genere, i luochi topici, e con bel modo, ancora le figure</hi>, in Venetia: appresso Oratio de’ Gobbi, 1580.</p>
+          <p rend="noindent"><hi rend="sc">Guarini</hi>, Gianbattista:</p>
+          <p rend="noindent">—, <hi rend="i">Il Verrato, ovvero difesa di quanto ha scritto M. Giason Denores, contra le tragicomedie et le pastorali, in uno suo discorso di poesia</hi>, in Ferrara: ad instanza di Alfonso Caraffa, 1588.</p>
+          <p rend="noindent">—, <hi rend="i">Il Verato secondo overo replica dell’ Attizzato accademico ferrarese in difesa del Pastor Fido</hi>, in Firenze: Per Filippo Giunti, 1593.</p>
+          <p rend="noindent">—, <hi rend="i">Compendio della poesia tragicomica</hi>, Venecia: appresso Gio. Battista Ciotti, 1601.</p>
+          <p rend="noindent"><hi rend="sc">Laercio</hi>, Diogenes:</p>
+          <p rend="noindent">—, <hi rend="i">Laertiou Diogenous Peri bion dogmaton kai apophthegmaton ton en philosophia eudokimesanton Biblia I' = Laertii Diogenis de vitis dogmatis et apophthegmatis eorum qui in philosophia claruerunt libri X / Thoma Aldobrandino interprete. Cum adnotationibus ejusdem</hi>, Romae: apud Aloysium Zanettum, 1594.</p>
+          <p rend="noindent"><hi rend="sc">Luciano de Samosata</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Elegantissima aliquot Luciani opuscula, jam recens per Vincentium Opsopoeum latinitate donata</hi> […], Haganoae: per Joan. Sec, 1529.</p>
+          <p rend="noindent">—, <hi rend="i">Luciani Samosatensis opera quae quidem extant omnia cum argumentis et annotationibus ejusdem passim adjectis, e graeco sermone in latinum, partim jam olim diversis autoribus, partim nunc demum per Jacobum Micyllum, quaecunque reliqua fuere translata</hi>, Francoforti: apud Christianum Egenolphum, 1538.</p>
+          <p rend="noindent">—, <hi rend="i">Luciani Samosatensis Opera, quae quidem extant, omnia a graeco sermone in latinum conversa, nunc postremum multo diligentius et melius quam ante, ad graecum exemplar correcta et emendata</hi>, Parisiis: ex officina Michaelis Vascosani, 1546.</p>
+          <p rend="noindent">—, <hi rend="i">Loukianou Hapanta. Luciani Samosatensis opera, quae extant omnia Graece et Latine, in quatuor tomos divisa quorum elenchos post aliquot paginas reperies. Una cum Gilberti Cognati Nozereni et Joannis Sambuci annotationibus utilissimis</hi> […], Basileae: per Henricum Petri, 1563.</p>
+          <p rend="noindent"><hi rend="sc">Luisio</hi>, Francesco (también llamado Francesco Luigini o Franciscus Luisinus Utinensi o también Franciscus Lovisini):</p>
+          <p rend="noindent">—, <hi rend="i">Francisci Luisini Utinensis in librum Quinti Horatii Flacci de arte poetica commentarius</hi>, [1554] en <hi rend="i">Opera Q. Horatii Flacci Venusini, grammaticorum antiquiss. Helenii Acronis, et Porphirionis commentariis illustrata</hi>, Basileae: apud Henrichum Petri, 1555, vol. 2. Disponible en: &lt;<ref target="http://www.univ-paris3.fr/html/horace/Horace%20BALE/Lovisini%20Ars.pdf">http://www.univ-paris3.fr/html/horace/Horace%20BALE/Lovisini%20Ars.pdf</ref>&gt;.</p>
+          <p rend="noindent"><hi rend="sc">Licóstenes</hi>, Conrado:</p>
+          <p rend="noindent">—, <hi rend="i">Apophthegmata ex probatis graecae latinaeque linguae scriptoribus a Conrado Lycosthene collecta</hi>, [Genavae]: excudebat Jacobus Stoer, 1609.</p>
+          <p rend="noindent"><hi rend="sc">Major</hi>, Georg:</p>
+          <p rend="noindent">—, <hi rend="i">Sententiae veterum poetarum per locos communes digestae</hi>, Lipsiae: Johannes Rhamba excudebat, 1564.</p>
+          <p rend="noindent"><hi rend="sc">Máximo de Tiro</hi>:</p>
+          <p rend="noindent">—,<hi rend="i"> Maximi tyrii philosophi Platonici Sermones sive Disputationes XLI. Ex Cosmi Paccii Archiepiscopi Florentini interpretatione. Ab Henrico Stephano</hi> […]<hi rend="i"> enmendata</hi>. Ex oficina Henrici Stephani Parisiensis typographi, 1547.</p>
+          <p rend="noindent"><hi rend="sc">Minturno</hi>, Antonio:</p>
+          <p rend="noindent">—, <hi rend="i">Antonii Sebastiani Minturni de poeta, ad Hectorem Pignatellum, Vibonensium ducem, libri sex</hi>, Venetiis: [apud Franciscum Rampazetum], 1559.</p>
+          <p rend="noindent"><hi rend="sc">Policiano</hi>, Ángel:</p>
+          <p rend="noindent">—, <hi rend="i">Angeli Politiani Sylvae, nutricia, manto, rusticus, ambra illustratum per Franciscum Sanctium Brocensem</hi>, Salmanticae: excudebat Andreas a Portonariis, 1554.</p>
+          <p rend="noindent"><hi rend="sc">Quintiliano</hi>, Marco Fabio:</p>
+          <p rend="noindent">—, <hi rend="i">M. Fabii Quintiliani, oratoris eloquentissimi, De institutione oratoria libri XII</hi>, Parisiis: apud Audoënum Parvum, in via quae est ad D. Iacobum, sub insigni Lilii, 1549.</p>
+          <p rend="noindent"><hi rend="sc">Rosiglia</hi>, Marco:</p>
+          <p rend="noindent">— <hi rend="i">Miscelanee</hi> [sic] <hi rend="i">nova del p[re]clarissimo poeta maestro Marcho Rasilia da Foligno et altri auctori</hi> […] Sta[m]pata i[n] Venetia: p[er] Nicolo dicto Zopino, [c. 1510-1515].</p>
+          <p rend="noindent"><hi rend="sc">Salviati</hi>, Lionardo:</p>
+          <p rend="noindent">—, <hi rend="i">Degli accademici della Crusca difesa dell’ Orlando furioso dell’ Ariosto contra’l dialogo dell’epica poesia di Cammillo Pellegrino. Stacciata prima</hi>, in Firenze: per Domenico Manzani, stampator della Crusca, 1584.</p>
+          <p rend="noindent"><hi rend="sc">Simposio</hi> (también llamado Symposius o Symphosius):</p>
+          <p rend="noindent">—, <hi rend="i">Aenigmata Symposii poetae cum scholiis Josephi Castalionis Anconitani</hi>, Romae: apud Franciscum Zannettum, 1581.</p>
+          <p rend="noindent"><hi rend="sc">Tasso</hi>, Torcuato:</p>
+          <p rend="noindent">—, <hi rend="i">Discorsi del poema heroico del signor Torquato Tasso</hi>, Napoli: nella Stamparia dello Stigliota, [1594?].</p>
+          <p rend="noindent"><hi rend="sc">Teócrito</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Theocriti Syracusani Idyllia triginta sex, latino carmine reddita Helio Eobano Hesso interprete</hi>, Haganoae: Per Joan. Secerium, 1530.</p>
+          <p rend="noindent"><hi rend="sc">Teofrasto</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Theophrasti sparse de plantis sententiae in continuatam seriem ad propria capita revocatae</hi>, Boloniae: apud Alexandrum Benaccium 1561</p>
+          <p rend="noindent"><hi rend="sc">Vida</hi>, Marco Girolamo:</p>
+          <p rend="noindent">—, <hi rend="i">Marci Hieronymi Vidae cremonensis de arte poetica libri III</hi>, Romae: apud Ludovicum Vicentinum, 1527.</p>
         </div>
+        <div>
+          <head>10.2.1 Otras referencias bibliográficas del editor (manuscritos e impresos anteriores a 1800)</head>
+          <p rend="noindent"><hi rend="sc">Antonio</hi>, Nicolás:</p>
+          <p rend="noindent">—, <hi rend="i">Bibliotheca Hispana Nova</hi>, Matriti: apud Joachimum de Ibarra, 1783-1788.</p>
+          <p rend="noindent"><hi rend="sc">Benivieni</hi>, Girolamo en:</p>
+          <p rend="noindent">—, <hi rend="i">Bucolica (Tr: Bernardo Pulci). Add: Francesco de Arsocchi: Bucolica. Girolamo Benivieni: Bucolica. Jacopo Fiorino de Boninsegni: Bucolica</hi>, Firenze: Antonio Miscomini, 1481/82.</p>
+          <p rend="noindent"><hi rend="sc">Covarrubias</hi>, Sebastián:</p>
+          <p rend="noindent">—, <hi rend="i">Tesoro de la lengua castellana o española</hi>, en Madrid: por Luis Sánchez, impresor del rey, 1611.</p>
+          <p rend="noindent"><hi rend="sc">Denores</hi>, Giasone:</p>
+          <p rend="noindent">—, en <hi rend="sc">Guarini</hi>, Batista, <hi rend="i">Delle opere del cavalier Battista Guarini</hi>, in Verona: per Giovanni Alberto Tumermani, 1737, II, p. 313-375. (Esta edición de las obras de Guarini incluye la <hi rend="i">Apologia di Jason</hi> [sic]<hi rend="i"> Denores contra l’autor del</hi> Verato).</p>
+          <p rend="noindent"><hi rend="sc">Diogeniano</hi>:</p>
+          <p rend="noindent">—, «<hi rend="i">Diogeniani vulgaria proverbia</hi>» en<hi rend="i"> Adagia sive proverbia graecorum ex Zenobio, seu Zenodoto, Diogeniano et Suidae partim edita nunc primum, scholiisque parallelis illustrata, ab Andrea Schotto</hi>, Antuerpiae: ex officina Plantiniana, apud viduam et filios Joannis Moreti, 1612.</p>
+          <p rend="noindent"><hi rend="sc">Eliano</hi>, Claudio:</p>
+          <p rend="noindent">—, <hi rend="i">Aeliani De varia historia libros XIIII Jacobus Laureus Venetus e graeco in latinum vertebat</hi>, in Venetia: appresso Gabriel Giolito di Ferrari, 1550.</p>
+          <p rend="noindent">—, <hi rend="i">Aeliani De varia historia libri XIIII, nunc primum et latinate donati et in lucem editi, Justo Vulteio Veterano interprete</hi>, Lugduni: apud Joan Tornaesium et Guil Gazeium, 1553.</p>
+          <p rend="noindent"><hi rend="sc">Eurípides</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Euripides poeta tragicorum princeps in latinum sermonem conversus</hi> […], <hi rend="i">autore Gasgaro Stiblino</hi>, Basileae: apud Oporinum, 1562a.</p>
+          <p rend="noindent">—, <hi rend="i">Tragoediae quae hodie extant, omnes latine soluta oratione redditae</hi> […].<hi rend="i"> E praelectionibus Philippi Melanthonis</hi>, Francofurti: apud L. Lucium, 1562b.</p>
+          <p rend="noindent">—, <hi rend="i">Euripidis Tragoediæ XIX / Euripidou Tragodion tmema deuterou: Euripidis Tragoediarum pars altera, latinam interpretationem M. Aemilius Portus F.P.C.F. passim ita correxit et expolvit ut nova facie nitidoq[ue] cultu nunc primum in lucem prodeat; carminum ratio ex Gul. Cantero diligenter observata; additis ejusdem in totum Euripidem notis</hi>, Heidelbergæ: typis Hieronymi Commelini[is], 1597.</p>
+          <p rend="noindent">—, <hi rend="i">Euripides tragoediae quae extant, cum latina Gulielmi Canteri interpretatione</hi>, Ginebra: excudebat Paulus Stephanus, 1602.</p>
+          <p rend="noindent"><hi rend="sc">Fernández de Córdoba</hi>, Francisco:</p>
+          <p rend="noindent">—, BNE, ms. 3271, <hi rend="i">Historia de la casa de Córdoba</hi>.</p>
+          <p rend="noindent">—, BNE, ms. 2077, <hi rend="i">Historia de la ciudad de Córdoba y origen de la casa de Alcaudete por el racionero don Francisco de Córdoba</hi>.</p>
+          <p rend="noindent"><hi rend="sc">Guarini</hi>, Gianbattista:</p>
+          <p rend="noindent">—, <hi rend="i">Delle opere del cavalier Battista Guarini</hi>, in Verona: per Giovanni Alberto Tumermani, 1737, 4 vol.</p>
+          <p rend="noindent"><hi rend="sc">Lope de Vega</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">La Filomena</hi>, Barcelona: por Sebastián de Cormellas, 1621.</p>
+          <p rend="noindent"><hi rend="sc">Minturno</hi>, Antonio:</p>
+          <p rend="noindent">—, <hi rend="i">L’arte poetica di Antonio Minturno, della quale si contengono i precetti eroici, tragici, comici e d’ogn’altra poesía, con le postille del dottor Valvassori</hi>, in Venetia: per Gio. Andrea Valvassori, 1564.</p>
+          <p rend="noindent"><hi rend="sc">Quintiliano</hi>, Marco Fabio:</p>
+          <p rend="noindent">—, <hi rend="i">Institutiones oratoriae</hi>, Tarvisii: [Paulus de Ferraria], Dionysius [Bertochus] Bononiensis et Pereginus [de Pasqualibus], 22 octubre 1482.</p>
+          <p rend="noindent"><hi rend="sc">Rosiglia</hi>, Marco:</p>
+          <p rend="noindent">—, <hi rend="i">La conversione de sancta Maria Magdalena e la vita de Lazaro e Martha in octava rima hystoriata. Composta pel dignissimo poeta maestro Marcho Rosiglia da Foligno. Opera nova &amp; devotissima</hi>, stampata in Venetia: per Nicolo dicto Zopino &amp; Vincentio compagni, 1513 adi XIIII de marzo.</p>
+          <p rend="noindent"><hi rend="sc">Tasso</hi>, Bernardo:</p>
+          <p rend="noindent">—, <hi rend="i">Libro primo de gli amori di Bernardo Tasso</hi>, in Vinegia: G. Antonio e fratelli da Sabbio, 1531.</p>
+          <p rend="noindent">—, <hi rend="i">Libro primo</hi> [<hi rend="i">secondo</hi>]<hi rend="i"> de gli amori</hi>, in Vinegia: per Joan. Ant. da Sabio, XXXIV del mese di settembre, 1534.</p>
+          <p rend="noindent">—, <hi rend="i">Libro terzo de gli amori di Bernardo Tasso</hi>, in Vinegia: per Bernardino Stagnino, 1537.</p>
+          <p rend="noindent">—, <hi rend="i">Rime di messer Bernardo Tasso divise in cinque libri nuovamente stampate</hi>, in Vinegia: appresso Gabriel Giolito de’ Ferrari, 1560.</p>
+          <p rend="noindent"><hi rend="sc">Tasso</hi>, Torcuato:</p>
+          <p rend="noindent">—, <hi rend="i">Discorsi del signor Torquato Tasso dell’ Arte poetica et in particolare del Poema heroico</hi>, in Venetia: ad instanza di GiulioVassalini libraro a Ferrara, 1587</p>
+          <p rend="noindent"><hi rend="sc">Vaca de Alfaro</hi>, Enrique:</p>
+          <p rend="noindent">—, <hi rend="i">Justa poética a la pureza de la Virgen Nuestra Señora, celebrada en la parroquia de San Andrés de la ciudad de Córdoba, en quinze de enero, de 1617</hi>, impreso en Sevilla: por Gabriel Ramos Bejarano en la calle de Génova, [1617].</p>
+          <p rend="noindent"><hi rend="sc">Vulgata</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">La Biblia vulgata latina traducida en español y anotada conforme al sentido de los santos padres y expositores católicos por el padre Felipe Scio de San Miguel</hi>, en Valencia: en la oficina de Joseph y Thomas de Orga, 1790-1793.</p>
+        </div>
+        <div>
+          <head>10.2.2 Otras referencias bibliográficas del editor (impresos posteriores a 1800)</head>
+          <p rend="noindent"><hi rend="sc">Alatorre</hi>, Antonio:</p>
+          <p rend="noindent">―, «Notas sobre las <hi rend="i">Soledades.</hi> (A propósito de la edición de Robert Jammes)», <hi rend="i">Nueva Revista de Filología Hispánica</hi>, 44, n.º 1, 1996, p. 57-98.</p>
+          <p rend="noindent"><hi rend="sc">Alonso</hi>, Dámaso:</p>
+          <p rend="noindent">—, «Góngora y la censura de Pedro de Valencia», <hi rend="i">Temas gongorinos, Revista de filología española</hi>, XIV, 1927, p. 347-368.</p>
+          <p rend="noindent">—, «Todos contra Pellicer», <hi rend="i">Revista de filología española</hi>, XXIV, 1937, p. 320-342.</p>
+          <p rend="noindent">—, «La lengua poética de Góngora» (1ª ed. 1932), <hi rend="i">Obras completas</hi>, t. V, Madrid, Gredos, 1978, p. 9-240.</p>
+          <p rend="noindent">—, «Sobre el Abad de Rute: algunas noticias biográficas», <hi rend="i">Obras completas</hi>, t. VI, Madrid, Gredos, 1982a, p. 203-218. (1ª ed. en E. de Bustos (dir.), <hi rend="i">Studia Hispanica in honorem R. Lapesa</hi>, I, Madrid, Cátedra-Seminario Menéndez Pidal, 1972, p. 93-104).</p>
+          <p rend="noindent">—, «Góngora en las cartas del Abad de Rute»<hi rend="i">, Obras completas</hi>, t. VI, Madrid, Gredos, 1982b, p. 219-260. (1ª ed. <hi rend="i">Homenaje a la memoria de D. Antonio Rodríguez-Moñino (1910-1970)</hi>, Madrid, Castalia, 1975, p. 27-58).</p>
+          <p rend="noindent">—, «La carta autógrafa más antigua que conservamos de Góngora», <hi rend="i">Obras completas</hi>, t. VI, Madrid, Gredos, 1982c, p. 399-421.</p>
+          <p rend="noindent"><hi rend="sc">Amo Lozano</hi>, Milagros del:</p>
+          <p rend="noindent">—, «Tres capítulos de teoría literaria en F. F. de Córdoba», A. M. Aldama Roy (dir.), <hi rend="i">De Roma al siglo XX. La cultura occidental ante el mundo latino</hi>, Madrid, Universidad Nacional de Educación a Distancia, 1996, t. II, p. 647-654.</p>
+          <p rend="noindent"><hi rend="sc">Aristóteles</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Poética</hi>, Valentín García Yebra (trad.), Madrid, Gredos, 1974.</p>
+          <p rend="noindent">—, <hi rend="i">Ethique de Nicomaque</hi>, Jean Voilquin (ed. y trad.), Paris, GF-Flammarion, 1992.</p>
+          <p rend="noindent">—, <hi rend="i">Retórica</hi>, Quintín Racionero (trad.), Madrid, Gredos, 1994.</p>
+          <p rend="noindent"><hi rend="sc">Artigas</hi>, Miguel:</p>
+          <p rend="noindent">—, (ed.), Fernández de Córdoba, Francisco, <hi rend="i">Examen del Antídoto o Apología por las Soledades de don Luis de Góngora contra el autor del Antídoto</hi> en <hi rend="i">Don Luis de Góngora y Argote. Biografía y estudio crítico</hi>, Madrid, Real Academia Española, Tip. de Revista de Archivos, 1925, Apéndice VII, p. 400-467.</p>
+          <p rend="noindent"><hi rend="sc">Aulo Gelio</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Noches áticas. Noctes atticae</hi>, libros 1-10, Manuel-Antonio Marcos Casquero y Avelino Domínguez García (trad.), León, Universidad de León, 2006.</p>
+          <p rend="noindent"><hi rend="sc">Azaustre Galiana</hi>, Antonio:</p>
+          <p rend="noindent">—, «Citas de autoridades y argumentación retórica en las polémicas literarias sobre el estilo culto», <hi rend="i">Revista de la Asociación Española de Semiótica</hi>, n°14, 2005, p. 37-72.</p>
+          <p rend="noindent"><hi rend="sc">Balavoine</hi>, Claudie y <hi rend="sc">Laurens</hi>, Pierre:</p>
+          <p rend="noindent">—, (dirs.), <hi rend="i">La statue et l’empreinte. La poétique de Scaliger</hi>, Paris, Vrin, 1986.</p>
+          <p rend="noindent"><hi rend="sc">Balsamo</hi>, Jean:</p>
+          <p rend="noindent">—, (dir.), <hi rend="i">De Dante a Chiabrera, Poètes italiens de la Renaissance dans la bibliothèque de Fondation Barbier-Mueller</hi>, Genève, Droz, 2007.</p>
+          <p rend="noindent"><hi rend="sc">Bessiere</hi>, Jean, <hi rend="sc">Kushner</hi>, Eva y <hi rend="sc">Mortier</hi>, Roland:</p>
+          <p rend="noindent">—, (dirs.), <hi rend="i">Histoire des poétiques</hi>, Paris, Presses universitaires de France, 1997.</p>
+          <p rend="noindent"><hi rend="sc">Blanco</hi>, Mercedes:</p>
+          <p rend="noindent">—, «Lienzo de Flandes: las <hi rend="i">Soledades</hi> y el paisaje pictórico», <hi rend="i">Actas del IV Congreso Internacional de la Asociación Internacional Siglo de Oro</hi>, Alcalá de Henares, Servicio de Publicaciones de la Universidad de Alcalá, t. 1, 1996, p. 263-274.</p>
+          <p rend="noindent">—, «Góngora y el humanista Pedro de Valencia», en Joaquín Roses (dir.), <hi rend="i">Góngora Hoy VI. Góngora y sus contemporáneos: de Cervantes a Quevedo</hi>, Córdoba, Diputación y Universidad, 2005, p. 199-221.</p>
+          <p rend="noindent">—, «La polémica como fermento creativo en el Lope de la vejez», <hi rend="i">Anuario Lope de Vega</hi>, 14, 2008, p. 25-55.</p>
+          <p rend="noindent">—, <hi rend="i">Góngora heroico. Las Soledades y la tradición épica</hi>, Madrid, Centro de Estudios Europa Hispánica, 2012a.</p>
+          <p rend="noindent">—, <hi rend="i">Góngora o la invención de una lengua</hi>, León, Universidad, 2012b.</p>
+          <p rend="noindent">—, «Las <hi rend="i">Soledades</hi> a la luz de la polémica», en Begoña Capllonch, Sara Pezzini, Giulia Poggi y Jesús Ponce Cárdenas, (dir.), <hi rend="i">La Edad del Genio: España e Italia en tiempos de Góngora</hi>, Pisa, edizioni ETS, 2013, p. 7-40.</p>
+          <p rend="noindent"><hi rend="sc">Calpurnio</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Poetae minores: Sabinus, Calpurnius, Gratius Faliscus, Nemenianus, Valerius Cato, Verstritius Spurina, Lupercus Servatus, Arborius, Pentadius, Eucheria, Pervigilium veneris</hi>, M. Cabaret-Dupaty (trad.), Paris, Panckoucke, 1842.</p>
+          <p rend="noindent"><hi rend="sc">Carreira</hi>, Antonio:</p>
+          <p rend="noindent">—, «La controversia en torno a las <hi rend="i">Soledades</hi>. Un parecer desconocido y edición crítica de las primeras cartas», <hi rend="i">Gongoremas</hi>, Barcelona, Ediciones Península, 1998, p. 239-266. (1ª ed. en Francis Cerdan (dir.), <hi rend="i">Hommage à Robert Jammes</hi>, Toulouse, Presses universitaires du Mirail, 1994, I, p. 151-171).</p>
+          <p rend="noindent">—, (ed.), Luis de Góngora, <hi rend="i">Obras completas</hi>, Madrid, Biblioteca Castro, 2008, 2ª ed. corregida, 2 vol. (1ª ed. 2000). (Ofrece una edición del <hi rend="i">Parecer</hi> en el vol. II, 493-513).</p>
+          <p rend="noindent">—, «Difusión y transmisión de la poesía gongorina», en Antonio Carreira (dir.), <hi rend="i">Góngora: la estrella inextinguible. Magnitud estética y universo contemporáneo</hi>, Madrid, Sociedad Estatal de Acción Cultural, 2012, p. 87-99.</p>
+          <p rend="noindent"><hi rend="sc">Catulo</hi>, Gayo Valerio:</p>
+          <p rend="noindent">—, <hi rend="i">Poésies</hi>, George Lafaye (ed.), Paris, Les Belles Lettres, 1989.</p>
+          <p rend="noindent"><hi rend="sc">Cervantes y Saavedra</hi>, Miguel de:</p>
+          <p rend="noindent">—, <hi rend="i">Obra completa, II: Galatea. Novelas ejemplares. Persiles y Sigismunda</hi>, Florencio Sevilla y Antonio Rey Hazas (eds.), Madrid, Centro de Estudios Cervantinos, 1994.</p>
+          <p rend="noindent"><hi rend="sc">Chevrolet</hi>, Teresa:</p>
+          <p rend="noindent">—, <hi rend="i">L’idée de fable. Théories de la fiction poétique à la Renaissance</hi>, Genève, Droz, 2007.</p>
+          <p rend="noindent"><hi rend="sc">Cicerón</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Cuestiones académicas</hi> (<hi rend="i">Academicorum posteriorum liber primus</hi>), Julio Pimentel Álvarez (trad.), México, D.F., Universidad Nacional Autónoma de México, 1980.</p>
+          <p rend="noindent">—, <hi rend="i">Sobre los límites del bien y del mal</hi> (<hi rend="i">De finibus</hi>), Víctor-José Herrero Llorente (trad.), Madrid, Gredos, 1987.</p>
+          <p rend="noindent">—, <hi rend="i">De la naturaleza de los dioses</hi> (<hi rend="i">De Natura deorum</hi>), Ángel Escobar (trad.), Madrid, Gredos, 1999.</p>
+          <p rend="noindent">—, <hi rend="i">Tusculanes</hi> (<hi rend="i">Tusculanae disputationes</hi>), Gustave Fohlen (ed.), Jules Humbert (trad. al francés), Paris, Les Belles Lettres, 1960.</p>
+          <p rend="noindent"><hi rend="sc">Conti</hi>, Natale:</p>
+          <p rend="noindent">—, <hi rend="i">Mitologías</hi>, Rosa María Montiel y María Consuelo Álvarez Morán (trad.), Murcia, Universidad, 1988.</p>
+          <p rend="noindent"><hi rend="sc">Correas</hi>, Gonzalo:</p>
+          <p rend="noindent">—, <hi rend="i">Vocabulario de refranes y frases proverbiales y otras fórmulas comunes de la lengua castellana, en que van todos los impresos antes y otra gran copia</hi>, Madrid, Tip. de la «Rev. de Archivos, Bibliotecas y Museos», 1924.</p>
+          <p rend="noindent"><hi rend="sc">Cruz Casado</hi>, Antonio:</p>
+          <p rend="noindent">—, «'Tanto por plumas…' Góngora y los poetas cordobeses del Siglo de Oro», <hi rend="i">Arbor: Ciencia, pensamiento y cultura</hi>, 654, 2000, (ejemplar dedicado a <hi rend="i">Córdoba ciudad trimilenaria</hi>), p. 277-296.</p>
+          <p rend="noindent"><hi rend="sc">Daza Somoano</hi>, Juan Manuel:</p>
+          <p rend="noindent">—, «Apuntes acerca de la <hi rend="i">Apología por una décima del autor de las Soledades</hi> del Abad de Rute», <hi rend="i">Etiópicas</hi>, 4, 2008, p. 77-88.</p>
+          <p rend="noindent">—, «Los testimonios de la polémica epistolar Lope-Góngora (1615-1616), con edición de la respuesta de Góngora», en Begoña López Bueno (dir.), <hi rend="i">El poeta Soledad. Góngora (1609-1615)</hi>, Zaragoza, Prensas universitarias de Zaragoza, 2011, p. 271-287.</p>
+          <p rend="noindent">DI MONTI, Michele:</p>
+          <p rend="noindent">—, «Andrea Giovanni GILIO», <hi rend="i">Dizionario biográfico degli Italiani</hi>, volumen 54, 2000. Disponible en: &lt;<ref target="http://www.treccani.it/enciclopedia/giovanni-andrea-gilio_%28Dizionario-Biografico%29/">http://www.treccani.it/enciclopedia/giovanni-andrea-gilio_%28Dizionario-Biografico%29/</ref>&gt;.</p>
+          <p rend="noindent"><hi rend="sc">Diodoro de Sicilia</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Biblioteca histórica</hi>, Juan José Torres Esbarranch (trad.), Madrid, Gredos, 2004.</p>
+          <p rend="noindent"><hi rend="sc">Diomedes</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Diomedis artis grammaticae libri III</hi>, consultado en Heinrich Keil, <hi rend="i">Grammatici Latini</hi>, Leipzig, Teubner, 1857, vol. 1, p. 297-529.</p>
+          <p rend="noindent"><hi rend="sc">Donato</hi>, Elio:</p>
+          <p rend="noindent">—, <hi rend="i">Ars grammatica</hi>, consultado en la edición digital siguiente: &lt;<ref target="http://www.intratext.com/IXT/LAT0365/_P1.HTM">http://www.intratext.com/IXT/LAT0365/_P1.HTM</ref>&gt;, IntraText Edition CT, Èulogos, 2007.</p>
+          <p rend="noindent"><hi rend="sc">Eliano</hi>, Claudio:</p>
+          <p rend="noindent">—, <hi rend="i">Historias curiosas</hi>, Juan Manuel Cortés Copete (trad.), Madrid, Gredos, 2006.</p>
+          <p rend="noindent"><hi rend="sc">Elvira</hi>, Muriel:</p>
+          <p rend="noindent">—, «Del <hi rend="i">Parecer</hi> al <hi rend="i">Examen</hi>. Circunstancias de escritura de las dos intervenciones del abad de Rute en la polémica gongorina», <hi rend="i">e-Spania</hi>, 18, junio de 2014 (2014a). Disponible en: &lt;<ref target="http://e-spania.revues.org/23621">http://e-spania.revues.org/23621</ref>&gt;.</p>
+          <p rend="noindent">—, «Lope de Vega, lector del abad de Rute», ponencia leída en el X Congreso Internacional de la Asociación Internacional Siglo de Oro, Venecia, 14 de julio de 2014 (2014b).</p>
+          <p rend="noindent">—, «El <hi rend="i">Apologético de las comedias españolas</hi> a nueva luz», <hi rend="i">Criticón</hi>, diciembre de 2015 (2015a), en prensa.</p>
+          <p rend="noindent">—, «Comment l’abbé de Rute utilisa la polémique du <hi rend="i">Pastor Fido</hi> pour défendre Góngora et Lope de Vega», <emph>D’une péninsule l’autre: rivalités de plumes entre Espagne et Italie (XV<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> siècles</emph>), 2015b, en prensa.</p>
+          <p rend="noindent"><hi rend="sc">Endelequio</hi>, Severo Santo:</p>
+          <p rend="noindent">—, <hi rend="i">Poesía latina pastoril, de caza y pesca</hi>, José A. Correa Rodríguez (ed. y trad al español), Madrid, Gredos, 1984. (En esta edición el poema de Severo Santo Endelequio se titula «De la mortandad de bueyes»).</p>
+          <p rend="noindent"><hi rend="sc">Erasmo de Róterdam</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Les Adages</hi>, Jean-Christophe Saladin (dir.), Paris, Les Belles Lettres, 2011, 5 vol. El texto en latín está disponible en: &lt;<ref target="http://sites.univ-lyon2.fr/lesmondeshumanistes/category/adages-erasme/">http://sites.univ-lyon2.fr/lesmondeshumanistes/category/adages-erasme/</ref>&gt;.</p>
+          <p rend="noindent"><hi rend="sc">Escalígero</hi>, Julius Caesar:</p>
+          <p rend="noindent">—, <hi rend="i">Poetices libri VII</hi>, ed. facsímil al cuidado de August Buck, Stuttgart-Bad Cannstatt: Friedrich Frommann, 1964.</p>
+          <p rend="noindent"><hi rend="sc">Estacio</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">P. Papini Stati Silvae</hi>, Joannes S. Phillimore (ed.), Oxonii, 1905.</p>
+          <p rend="noindent">—, <hi rend="i">Silvas</hi>, Francisco Torrent Rodríguez (ed. y trad.), Madrid, Gredos, 1995.</p>
+          <p rend="noindent"><hi rend="sc">Fernández Ariza</hi>, Carmen:</p>
+          <p rend="noindent">—, «Justas poéticas celebradas en Córdoba en el siglo XVII en honor de la Inmaculada Concepción», <hi rend="i">Boletín de la Real Academia de Córdoba</hi>, 148, 2005, p. 39-45.</p>
+          <p rend="noindent"><hi rend="sc">Fernández de Avellaneda</hi>, Alonso:</p>
+          <p rend="noindent">—, <hi rend="i">Segundo tomo del ingenioso hidalgo don Quijote de la Mancha</hi>, Florencio Sevilla Arroyo (ed.), Alicante, Biblioteca Virtual Miguel de Cervantes, 2001.</p>
+          <p rend="noindent"><hi rend="sc">Fernández de Córdoba</hi>, Francisco:</p>
+          <p rend="noindent">—, «Historia de la casa de Córdoba», <hi rend="i">Boletín de la Real Academia de Córdoba</hi>, 1954-1972, vol. 71-92, con paginación separata. (La historia de los quinto y sexto duques de Sessa está en el número 77, enero-junio 1958, p. 140 y siguientes. La historia de los descendientes del III conde de Cabra está en el número 83 de 1962).</p>
+          <p rend="noindent"><hi rend="sc">Fracastoro</hi>, Girolamo:</p>
+          <p rend="noindent">—, <hi rend="i">Navagero. Della poética</hi>, ed. moderna facsímil, con traducción al inglés de Ruth Kelso e introducción de Murray W. Bundy,<hi rend="i"> University of Illinois studies in Language and Literature</hi>, vol. IX, agosto 1984.</p>
+          <p rend="noindent">—, <hi rend="i">Navagero. Della poética</hi>, Enrico Peruzzi, (ed. y trad. al italiano), Firenze, Alinea editrice, 2005.</p>
+          <p rend="noindent"><hi rend="sc">Galand</hi>, Perrine y <hi rend="sc">Hallyn</hi>, Fernand:</p>
+          <p rend="noindent">—, (dir.), <hi rend="i">Poétiques de la Renaissance: le modèle italien, le monde franco-bourguignon et leur héritage en France au XVIe siècle</hi>, Genève, Droz, 2001.</p>
+          <p rend="noindent"><hi rend="sc">Gates</hi>, Eunice Joiner:</p>
+          <p rend="noindent">—, «Don Francisco Fernández of Córdoba, defender of Góngora», <hi rend="i">The Romanic Review</hi>, XLII, 1951, p. 18-26.</p>
+          <p rend="noindent">—, (ed.), Francisco Fernández de Córdoba, <hi rend="i">Apología</hi>, Apéndice 1, <hi rend="i">Documentos gongorinos</hi>, México, D.F., El Colegio de México, 1960, p. 144-151.</p>
+          <p rend="noindent"><hi rend="sc">Góngora</hi>, luis de, <hi rend="i">Epistolario completo</hi>, Antonio Carreira (ed.), Zaragoza, Libros Pórtico, 2000.</p>
+          <p rend="noindent">—, <hi rend="i">Obras completas</hi>, Antonio Carreira (ed.), Madrid, Fundación José Antonio de Castro, 2008 (1ª ed. 2000).</p>
+          <p rend="noindent"><hi rend="sc">González de Amezúa y Mayo</hi>, Agustín:</p>
+          <p rend="noindent">—, <hi rend="i">Lope de Vega en sus cartas</hi>, Madrid, Tipografía de Archivos, t. 1, 1935.</p>
+          <p rend="noindent"><hi rend="sc">Gracián</hi>, Baltasar:</p>
+          <p rend="noindent">—, <hi rend="i">Agudeza y arte de ingenio</hi>, Evaristo Correa Calderón (ed.), Madrid, Clásicos Castalia, 1969.</p>
+          <p rend="noindent"><hi rend="sc">Guarini</hi>, Gianbattista:</p>
+          <p rend="noindent">—, <hi rend="i">Il Compendio della poesia tragicomica</hi> / <hi rend="i">De la poésie tragi-comique</hi>, Laurence Giavarini (ed. bilingüe y trad.), Paris-Genève, Honoré Champion-Slatkine, 2008.</p>
+          <p rend="noindent"><hi rend="sc">Guzmán Arias</hi>, Carmen:</p>
+          <p rend="noindent">—, «¿Existió un río Lete en la Bética?, Aportaciones de F. F. de Córdoba a una cuestión geográfica», <hi rend="i">Los humanistas españoles y el humanismo europeo</hi>, Murcia, Universidad de Murcia, 1990, p. 165-169.</p>
+          <p rend="noindent">—, y <hi rend="sc">Pérez Molina</hi>, Miguel Emilio, «La presencia de Plutarco en la <hi rend="i">Didascalia multiplex</hi> de F. F. de Córdoba», <hi rend="i">Actas del II simposio sobre Plutarco</hi>, Murcia, Universidad de Murcia, 1991, p. 191-200.</p>
+          <p rend="noindent"><hi rend="sc">Heineccius</hi>, Johann Gottlieb y <hi rend="sc">Vicente y Caravantes</hi>, josé de:</p>
+          <p rend="noindent">—, <hi rend="i">Elementos del derecho romano según el orden de las instituciones</hi>, Madrid, Imprenta de don Pedro Sanz y Sanz, 1842.</p>
+          <p rend="noindent"><hi rend="sc">Horacio</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Épitres</hi>, François Villeneuve (ed. y trad.), Paris, Les Belles Lettres, 1961.</p>
+          <p rend="noindent">—, <hi rend="i">Arte poética, Sátiras. Epístolas</hi>, José-Luis Moralejo (trad.), Madrid, Gredos, 2008.</p>
+          <p rend="noindent"><hi rend="sc">Huard</hi>, Emmanuelle:</p>
+          <p rend="noindent">—, «En torno a las Soledades. El Abad de Rute y los lienzos de Flandes», <hi rend="i">Criticón</hi>, n.º 114, 2012, p. 139-178.</p>
+          <p rend="noindent"><hi rend="sc">Huarte de San Juan</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Examen de ingenios</hi>, Guillermo Serés (ed.), Madrid, Cátedra, 1989.</p>
+          <p rend="noindent"><hi rend="sc">Jammes</hi>, Robert:</p>
+          <p rend="noindent">—, «Elementos burlescos en las <hi rend="i">Soledades</hi>», <hi rend="i">Edad de Oro</hi>, 1963, II, p. 99-117.</p>
+          <p rend="noindent">—, «Apuntes sobre la génesis textual de las <hi rend="i">Soledades</hi>», en Jacques Issorel (dir.), <hi rend="i">Once estudios sobre las Soledades de Góngora</hi>, Perpignan, Presses Universitaires, 1995, p. 125-139.</p>
+          <p rend="noindent">—, (ed.), Luis de <hi rend="sc">Góngora</hi>, <hi rend="i">Soledades</hi>, Madrid, Castalia, 1996.</p>
+          <p rend="noindent"><hi rend="sc">Jerónimo, San</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Obras completas</hi>, t. III b, <hi rend="i">Comentarios a los Profetas menores</hi>, Avelino Domínguez García (ed. bilingüe), Madrid, Biblioteca de Autores Cristianos, 2003.</p>
+          <p rend="noindent">—, <hi rend="i">Obras completas</hi>, t. Vb, Hipólito-B. Riesco Álvarez (ed. bilingüe), Madrid, Biblioteca de Autores Cristianos, 2006.</p>
+          <p rend="noindent"><hi rend="sc">Largaiolli</hi>, Matteo:</p>
+          <p rend="noindent">—, «Le Egloghe di Marco Rosiglia (1460?-1508?)», <hi rend="i">Bollettino della Deputazione di Storia Patria per l’Umbria</hi>, 107, I-II, 2010, p. 137-190.</p>
+          <p rend="noindent"><hi rend="sc">LÓpez Bueno</hi>, Begoña:</p>
+          <p rend="noindent">—, «El cruce epistolar entre Lope y Góngora de 1615-1616. Revisión de fechas», en Begoña <hi rend="sc">López Bueno</hi> (dir.), <hi rend="i">El poeta Soledad. Góngora (1609-1615)</hi>, Zaragoza, Prensas universitarias de Zaragoza, 2011, p. 239-270.</p>
+          <p rend="noindent">—, «Las Advertencias de Almansa y Mendoza y el “apócrifo correspondiente” de Góngora», <hi rend="i">Criticón</hi>, 116, 2012, p. 5-27.</p>
+          <p rend="noindent">—, «Con poca luz y menos disciplina. Góngora contra Jáuregui en 1615 o los antídotos al Antídoto», en Antonio <hi rend="sc">Gargano</hi> (dir.), <hi rend="i">Difícil cosa el no escribir sátiras. La sátira en verso en la España de los Siglos de Oro</hi>, Vigo, Editorial Academia del Hispanismo, 2012, p. 205-226.</p>
+          <p rend="noindent"><hi rend="sc">Lucano</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Farsalia</hi>, Antonio Holgado Redondo (ed. y trad.), Madrid, Gredos, 1984.</p>
+          <p rend="noindent"><hi rend="sc">Luciano de Samosata</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Obras</hi>, t. I, Andrés Espinosa Alarcón (ed. y trad.), Madrid, Gredos, 1996.</p>
+          <p rend="noindent">—, <hi rend="i">Œuvres</hi>, Jacques Bompaire (ed. y trad.), 4 vol., Paris, Les Belles Lettres, 2003-2008.</p>
+          <p rend="noindent"><hi rend="sc">Magnien</hi>, Michel:</p>
+          <p rend="noindent">——, (introducción y ed.) de <hi rend="sc">Aristóteles</hi>, <hi rend="i">Poétique</hi>, Paris, Le livre de Poche, 1990.</p>
+          <p rend="noindent"><hi rend="sc">Marcial</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Epigramas</hi>, José Guillén (trad.), Zaragoza, Institución Fernando el Católico, 2003.</p>
+          <p rend="noindent"><hi rend="sc">Marín López</hi>, Nicolás:</p>
+          <p rend="noindent">—, «El Abad de Rute y una carta de Lope», <hi rend="i">Revista de Filología española</hi>, 55, 3-4, 1972, p. 303-308.</p>
+          <p rend="noindent">—, «La blanca Filomela: un lugar de Garcilaso comentado por el Abad de Rute», <hi rend="i">Estudios literarios sobre el Siglo de Oro</hi>, 2ª ed. al cuidado de Agustín de la Granja, Granada, Universidad de Granada, 1994a, p. 33-40 (1ª ed. 1974).</p>
+          <p rend="noindent">—, «El humanista don Francisco Fernández de Córdoba y sus ideas dramáticas», <hi rend="i">Estudios literarios sobre el Siglo de Oro</hi>, 2ª ed. al cuidado de Agustín de la Granja, Granada, Universidad de Granada, 1994b, p. 41-63. (1ª ed. 1974).</p>
+          <p rend="noindent">—, «Las ideas poéticas del Abad de Rute» <hi rend="i">Estudios literarios sobre el Siglo de Oro</hi>, 2ª ed. al cuidado de Agustín de la Granja, Granada, Universidad de Granada, 1994c, p. 65-91. (1ª ed. 1985).</p>
+          <p rend="noindent"><hi rend="sc">Martínez Arancón</hi>, Ana:</p>
+          <p rend="noindent">—, <hi rend="i">La batalla en torno a Góngora</hi>, Barcelona, A. Bosch, 1978. (Reproduce la edición del <hi rend="i">Parecer</hi> de Emilio Orozco, p. 13-28).</p>
+          <p rend="noindent"><hi rend="sc">Matas Caballero</hi>, Juan:</p>
+          <p rend="noindent">—, «La presencia de los poetas españoles en la polémica en torno a las Soledades», <hi rend="i">Criticón</hi>, 55, 1992, p. 131-140.</p>
+          <p rend="noindent"><hi rend="sc">Máximo de Tiro</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Disertaciones filosóficas</hi>, t. IV, Juan Luis López Cruces (ed. y trad.), Madrid, Gredos, 2005.</p>
+          <p rend="noindent"><hi rend="sc">Miguel Mora</hi>, Carlos de:</p>
+          <p rend="noindent">—, «La comparación oratoria/poesía en el <hi rend="i">De poeta</hi> de Minturno», <hi rend="i">Humanismo y Pervivencia del Mundo Clásico II. Homenaje al Profesor Luis Gil</hi>, J. M. Maestre Maestre, J. Pascual Barea y L. Charlo Brea (dirs.), Cádiz, Servicio de Publicaciones de la Universidad, 1997, vol. 2, p. 855-864.</p>
+          <p rend="noindent">—, «El <hi rend="i">De oratore</hi> de Cicerón como fuente del <hi rend="i">De poeta</hi> de Minturno», J. Ribeiro Ferreira (dir.), <hi rend="i">A Retórica Greco-Latina e a sua Perenidade</hi>, Coimbra, Fundação Eng. António de Almeida, 2000, p. 645-654.</p>
+          <p rend="noindent"><hi rend="sc">Minturno</hi>, Antonio:</p>
+          <p rend="noindent">—, <hi rend="i">De poeta</hi>, ed. facsímil de Bernhard Fabian, Munich, Wilhelm Finkn 1970.</p>
+          <p rend="noindent">—, <hi rend="i">Arte Poética de Antonio Sebastiano Minturno</hi>, María del Carmen Bobes Naves (ed. y trad.), Madrid, Arco/Libros, DL, 2009.</p>
+          <p rend="noindent"><hi rend="sc">Molina Recio</hi>, Raúl:</p>
+          <p rend="noindent">—, «Fernández de Córdoba», en <hi rend="i">Diccionario biográfico español</hi>, Madrid, Real Academia de la Historia, vol. XVIII, 2011, p. 761-762.</p>
+          <p rend="noindent"><hi rend="sc">Moya del Baño</hi>, Francisca:</p>
+          <p rend="noindent">—, «<hi rend="i">La Didascalia multiplex</hi> de Francisco Fernández de Córdoba: sus aportaciones a la filología clásica», <hi rend="i">Homenaje a Pedro Sáinz Rodríguez</hi>, vol. II: Estudios de Lengua y Literatura, Madrid, FUE, 1986, p. 437-459.</p>
+          <p rend="noindent"><hi rend="sc">Orozco</hi>, Emilio:</p>
+          <p rend="noindent">—, «Espíritu y vida en la creación de las <hi rend="i">Soledades</hi> gongorinas. (Por qué se escribieron y por qué no se terminaron)», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969a, p. 21-50.</p>
+          <p rend="noindent">—, «El Abad de Rute y el gongorismo. Breve anotación a sus escritos sobre las <hi rend="i">Soledades</hi>», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969b, p. 51-94.</p>
+          <p rend="noindent">—, «El <hi rend="i">Parecer</hi> del Abad de Rute sobre las <hi rend="i">Soledades</hi>. Edición y comentario de un texto inédito», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969c, p. 95-146.</p>
+          <p rend="noindent">—, «La polémica de las Soledades a la luz de otros textos. Las <hi rend="i">Advertencias</hi> de Almanza y Mendoza», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969d, p. 146-204.</p>
+          <p rend="noindent">—, «Aspectos desconocidos de la polémica de las Soledades de Góngora. Una carta inédita de don Antonio de las Infantas, amigo de Góngora», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969e, p. 205-258.</p>
+          <p rend="noindent">—, «Lope ataca las <hi rend="i">Soledades</hi> de Góngora (comentario y edición de una carta inédita)», <hi rend="i">En torno a las Soledades de Góngora</hi>, Granada, Universidad de Granada, 1969f, p. 259-326.</p>
+          <p rend="noindent"><hi rend="sc">Osuna Cabezas</hi>, María José:</p>
+          <p rend="noindent">—, «El papel de Andrés de Almansa y Mendoza en la polémica gongorina», <hi rend="i">Edad de oro cantabrigense: actas del VII Congreso de la Asociación Internacional de Hispanistas del Siglo de Oro</hi>, Cambridge, Asociación Internacional del Siglo de Oro, 2006, p. 489-494.</p>
+          <p rend="noindent">—, <hi rend="i">Las Soledades caminan hacia la corte. Primera fase de la polémica gongorina</hi>, Pontevedra, Editorial Academia del Hispanismo, 2008.</p>
+          <p rend="noindent"><hi rend="sc">Ovidio</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Les Métamorphoses</hi>, Georges Lafaye (trad.), Paris, Les Belles Lettres, 1925 (t. 1), 1928 (t. 2), 1930 (t. 3).</p>
+          <p rend="noindent">—, <hi rend="i">Fastos</hi>, Bartolomé Segura Ramos (trad.), Madrid, Gredos, 1988.</p>
+          <p rend="noindent">—, <hi rend="i">Amores. Arte de amar. Sobre la coméstica del rostro femenino. Remedios contra el amor</hi>, Vicente Cristóbal López (trad.), Madrid, Gredos, 1989.</p>
+          <p rend="noindent">—, <hi rend="i">Ibis</hi>, Rosario Guarini Ortega (trad.), Murcia, Universidad, 2000.</p>
+          <p rend="noindent">—, <hi rend="i">Metamorfosis</hi>, Madrid, Gredos, 2008 (libros 1 a 5).</p>
+          <p rend="noindent">—, <hi rend="i">Metamorfosis</hi>, Madrid, Gredos, 2012 (libros 6 a 10).</p>
+          <p rend="noindent"><hi rend="sc">Pérez Lasheras</hi>, Antonio:</p>
+          <p rend="noindent">—, «La crítica literaria en la polémica gongorina», <hi rend="i">Piedras preciosas… otros aspectos de la poesía de Góngora</hi>, Granada, Universidad de Granada, 2009a, p. 77-106. (1ª ed. <hi rend="i">Bulletin hispanique</hi>, CII, 2, 2000, p. 429- 459).</p>
+          <p rend="noindent">—, «Apéndice. Textos de la polémica gongorina», <hi rend="i">Piedras preciosas… otros aspectos de la poesía de Góngora</hi>, Granada, Universidad de Granada, 2009b, p. 109-133.</p>
+          <p rend="noindent"><hi rend="sc">Pérez López</hi>, Manuel María:</p>
+          <p rend="noindent">—, <hi rend="i">Pedro de Valencia, primer crítico gongorino</hi>, Salamanca, Universidad de Salamanca, 1988.</p>
+          <p rend="noindent"><hi rend="sc">Pérez Molina</hi>, Miguel E.:</p>
+          <p rend="noindent">—, «Análisis de las fuentes griegas en la <hi rend="i">Didascalia Multiplex</hi> de F. F. de Córdoba», <hi rend="i">Los humanistas españoles y el humanismo europeo</hi>, Murcia, Universidad de Murcia, 1990, p. 217-222.</p>
+          <p rend="noindent"><hi rend="sc">Périgot</hi>, Béatrice:</p>
+          <p rend="noindent">—, «Antécédences: De la <emph>disputatio</emph> médiévale au débat humaniste», <emph>Memini</emph>, 11, 2007. Disponible en: &lt; <ref target="http://memini.revues.org/74">http://memini.revues.org/74</ref>&gt;.</p>
+          <p rend="noindent"><hi rend="sc">Petrarca</hi>, Francesco:</p>
+          <p rend="noindent">—, <hi rend="i">Il bucolicum carmen e i suoi commenti inediti</hi>, Antonio Avena (ed.), Padova, Società cooperativa typografica, 1906.</p>
+          <p rend="noindent">—, <hi rend="i">Triunfos</hi>, Guido M. Cappelli (ed. bilingüe), Barcelona, Cátedra, 2003.</p>
+          <p rend="noindent"><hi rend="sc">Plauto</hi>:</p>
+          <p rend="noindent">—, (<hi rend="sc">Plaute</hi>), <hi rend="i">Comédies</hi>, t. 5, Alfred Ernout (ed. y trad.), Paris, Les Belles Lettres, 1961.</p>
+          <p rend="noindent"><hi rend="sc">Policiano</hi>:</p>
+          <p rend="noindent">—, (<hi rend="sc">Politien</hi>), <hi rend="i">Les Silves</hi>, Perrine Galand (ed. en latín y trad. al francés), Paris, Les Belles Lettres, 1987.</p>
+          <p rend="noindent"><hi rend="sc">Pontano</hi>, Giovanni:</p>
+          <p rend="noindent">—, <hi rend="i">Eclogae. Églogues</hi>, Hélène Casanova-Robin (ed. bilingue y trad. al francés), Paris, Les Belles Lettres, 2011.</p>
+          <p rend="noindent"><hi rend="sc">Propercio</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Elegías</hi>, Antonio Ramírez de Verger (ed. y trad.), Madrid, Gredos, 1989.</p>
+          <p rend="noindent">—, (<hi rend="sc">Properce</hi>), <hi rend="i">Élégies</hi>, Simone Viarre (ed.), Paris, Les Belles Lettres, 2005.</p>
+          <p rend="noindent"><hi rend="sc">Quevedo</hi>, Francisco de:</p>
+          <p rend="noindent">—, <hi rend="i">Poesía original completa</hi>, José Manuel Blecua (ed.), Barcelona, Planeta, 1963.</p>
+          <p rend="noindent"><hi rend="sc">Quintiliano</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Instituciones oratorias por Marco Fabio Quintiliano, traducción directa del latín por Ignacio Rodríguez y Pedro Sandier</hi>, Madrid, Librería de la Viuda de Hernando y Cia, 1887. Disponible en: &lt;<ref target="http://www.cervantesvirtual.com/obra/instituciones-oratorias--0/">http://www.cervantesvirtual.com/obra/instituciones-oratorias--0/</ref>&gt;.</p>
+          <p rend="noindent">—, (<hi rend="sc">Quintilien</hi>), <hi rend="i">Institution oratoire</hi>, Paris, Les Belles Lettres, 1975-1980, 7 vol.</p>
+          <p rend="noindent">—, <hi rend="i">Institutio oratoria</hi>, Emilio Piccolo (ed. en latín), Nápoles, Classici latini Loffredo, 2009.</p>
+          <p rend="noindent"><hi rend="sc">Ramírez de Arellano</hi>, Rafael:</p>
+          <p rend="noindent">—, <hi rend="i">Ensayo de un catálogo biográfico de escritores de</hi> […] <hi rend="i">Córdoba</hi>, Madrid, [Tip. de la Revista de Archivos, Bibliotecas y Museos], 1922.</p>
+          <p rend="noindent"><hi rend="sc">Rico García</hi>, José María:</p>
+          <p rend="noindent">—, (ed.), <hi rend="i">Antídoto contra la pestilente poesía de las Soledades por Juan de Jáuregui</hi>, Sevilla, Universidad de Sevilla, 2002.</p>
+          <p rend="noindent">—, «El mito de Ícaro en la controversia gongorina», <hi rend="i">DRACO, Revista de literatura española</hi>, n° 3-4, 1991-1992, p. 335-348</p>
+          <p rend="noindent"><hi rend="sc">Roccasalva</hi>, Alessandro:</p>
+          <p rend="noindent">—, <hi rend="i">Girolamo Fracastoro. Astronomo, médico e poeta nella cultura del Cinquecento italiano</hi>, Genova, Nuova scripta, 2008.</p>
+          <p rend="noindent"><hi rend="sc">Romanos</hi>, Melchora:</p>
+          <p rend="noindent">—, «La aventura de editar a un comentarista de Góngora», Pablo Jauralde, Dolores Noguera y Alfonso Rey:</p>
+          <p rend="noindent">—, (dir.), <hi rend="i">La edición de textos</hi>, London, Tamesis Books, 1990, p. 413-420.</p>
+          <p rend="noindent">—, «Los escriores italianos y Góngora desde la perspectiva de sus comentaristas», <hi rend="i">Filología</hi>, XX, 1, 1986, p. 117-141.</p>
+          <p rend="noindent"><hi rend="sc">Roses Lozano</hi>, Joaquín:</p>
+          <p rend="noindent">—, <hi rend="i">Una poética de la oscuridad. La recepción crítica de las Soledades en el siglo XVII</hi>, Londres y Madrid, Tamesis, 1994.</p>
+          <p rend="noindent">—, «Proceso de escritura y estilística de variantes en las <hi rend="i">Soledades</hi>. Algunos ejemplos», en <hi rend="i">Poéticas de la Metamorfosis. Tradición clásica, siglo de oro y modernidad</hi>, Málaga, Universidad de Almería, Universidad de Málaga, 2002, p. 343-374.</p>
+          <p rend="noindent">—, «Francisco Fernández de Córdoba y su contribución al debate sobre el poema lírico moderno», <hi rend="i">Góngora: Soledades habitadas</hi>, Málaga, Universidad de Málaga, 2007a, p. 145-155. (1ª ed.<hi rend="i"> Actas del IV Congreso de la Asociación Internacional Siglo de Oro</hi>, Alcalá de Henares, Servicio de Publicaciones de la Universidad de Alcalá, 1998, t. 2, p. 1427-1434).</p>
+          <p rend="noindent">—, «Nota sobre algunos problemas de datación en la polémica epistolar», <hi rend="i">Góngora: Soledades habitadas</hi>, Málaga, Universidad de Málaga, 2007b, p. 139-144.</p>
+          <p rend="noindent">—, «Lecturas y reflejos: Góngora y el Abad de Rute», en Rafael Bonilla Cerezo <emph>y</emph> Giuseppe Mazzochi (dir.), <hi rend="i">La hidra barroca: varia lección de Góngora</hi>, Sevilla, Consejería de Cultura, 2008, p. 317-320.</p>
+          <p rend="noindent"><hi rend="sc">Sannazaro</hi>, Jacopo:</p>
+          <p rend="noindent">—, <hi rend="i">Arcadia</hi>, Carlo Vecce (ed.), Roma, Carrocci, 2013.</p>
+          <p rend="noindent"><hi rend="sc">Scroffa</hi>, Camillo:</p>
+          <p rend="noindent">—, <hi rend="i">I cantici di Fidenzio. Con appendice di poeti fidenziani</hi>, Pietro Trifone (ed.), Roma, Salerno Editrice, 1981.</p>
+          <p rend="noindent"><hi rend="sc">Sliwa</hi>, Krzysztof:</p>
+          <p rend="noindent">—,<hi rend="i"> Cartas, documentos y escrituras de Luis de Góngora</hi>, Córdoba, Universidad de Córdoba, 2004. (Reproduce la edición del <hi rend="i">Parecer</hi> de Emilio Orozco, p. 572-587).</p>
+          <p rend="noindent"><hi rend="sc">Soberano</hi>, Gonzalo:</p>
+          <p rend="noindent">—, «“Bernardinas” en textos literarios del Siglo de Oro», <hi rend="i">Homenaje a Rodríguez-Moñino: estudios de erudición que le ofrecen sus amigos o discípulos hispanistas norteamericanos</hi>, Madrid, Castalia, 1966, II, p. 247-259.</p>
+          <p rend="noindent"><hi rend="sc">Tácito</hi>, Cornelio:</p>
+          <p rend="noindent">—, <hi rend="i">Anales</hi>, Crescente López de Juan (trad., prólogo y notas), Madrid, Alianza editorial, 1993.</p>
+          <p rend="noindent"><hi rend="sc">Tasso</hi>, Bernardo:</p>
+          <p rend="noindent">—, <hi rend="i">Rime</hi>, Domenico Chiodo (ed.), Torino, Res, 1995.</p>
+          <p rend="noindent"><hi rend="sc">Tasso</hi>, Torcuato:</p>
+          <p rend="noindent">—, <hi rend="i">Discours de l’art poétique, discours du poème héroïque</hi>, Françoise Graziani (trad. al francés), Paris, Aubier, 1998.</p>
+          <p rend="noindent">—, <hi rend="i">Gerusalemme liberata</hi>, L. Caretti (ed.), Milano, Mondadori, 1979.</p>
+          <p rend="noindent"><hi rend="sc">Terencio</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Obras</hi>, Gonzalo Fontana Elboj (trad. y ed.), Madrid, Gredos, 2008.</p>
+          <p rend="noindent"><hi rend="sc">Tiro</hi>, Máximo de:</p>
+          <p rend="noindent">—, <hi rend="i">Disertaciones filosóficas</hi>, Juan Luis López Cruces (trad.), Madrid, Gredos, 2005.</p>
+          <p rend="noindent"><hi rend="sc">Tubau</hi>, Xavier:</p>
+          <p rend="noindent">—, <hi rend="i">Una polémica literaria: Lope de Vega y las polémicas literarias de su época: Pedro de Torres Rámila y Diego de Colmenares</hi>, Tesis Doctoral bajo la dirección de Alberto Blecua, Barcelona, Universidad de Barcelona, 2008.</p>
+          <p rend="noindent"><hi rend="sc">Valerio Flaco</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Les Argonautiques</hi>, en <hi rend="i">Lucrèce, Virgile, Valérius Flaccus. Oeuvres complètes avec la traduction en français</hi>, M. Nisard (ed.), Paris, 1850. Disponible en: &lt;<ref target="http://bcs.fltr.ucl.ac.be/valfla/vfintro.html">http://bcs.fltr.ucl.ac.be/valfla/vfintro.html</ref>&gt;</p>
+          <p rend="noindent"><hi rend="sc">Vida</hi>, Marco Girolamo:</p>
+          <p rend="noindent">—, <hi rend="i">The «De arte poetica» of Girolamo Vida, translated with commentary, with the text of c. 1527 edited by Ralph G. Williams</hi>, New York, Columbia University Press, 1976.</p>
+          <p rend="noindent">—, <hi rend="i">Arte Poetica. Marco Girolamo Vida</hi>, A. M. Espírito Santo (ed.), Lisboa, Universidade, 1990</p>
+          <p rend="noindent">—, <hi rend="i">De Arte Poetica - Art Poetique</hi>, Jean Pappe (ed. y trad. al francés), Genève, Droz, 2013.</p>
+          <p rend="noindent"><hi rend="sc">Virgilio</hi>:</p>
+          <p rend="noindent">—, <hi rend="i">Enéide</hi>, Jacques Perret (ed. y trad.), Paris, Les belles lettres, 1977 (t. 1: libros I-IV), 1978 (t. 2: libros V-VIII), 1980 (t. 3: libros IX-XII).</p>
+          <p rend="noindent">—, <hi rend="i">Bucólicas</hi>, J. L. Vidal (trad.), Madrid, Gredos, 1990.</p>
+          <p rend="noindent">—, <hi rend="i">Eneida</hi>, Javier de Echave-Sustaeta (ed. y trad.), Madrid, Gredos, 1992.</p>
+          <p rend="noindent"><hi rend="sc">Weinberg</hi>, Bernard:</p>
+          <p>—, «Scaliger versus Aristotle on Poetics», <hi rend="i">Modern Philology</hi>, 39, 4, 1942, p. 337-340.</p>
+          <p>—, <hi rend="i">A history of literary criticism in the Italian renaissance</hi>, Chicago, University of Chicago Press, 1961.</p>
+          <p rend="noindent"><hi rend="sc">Yoshida</hi>, Saiko:</p>
+          <p rend="noindent">—, «La posición de Francisco Fernández de Córdoba entre su <hi rend="i">Parecer</hi> y el <hi rend="i">Examen</hi>», <hi rend="i">Hommage à Robert Jammes</hi> III, Toulouse, Presses Universitaires du Mirail, 1994, p. 1211-1217.</p>
+          <p>—, «Lógica de la defensa. Posibles errores de partidarios de Góngora», <hi rend="i">Edad de oro cantabrigense: actas del VII Congreso de la Asociación Internacional de Hispanistas del Siglo de Oro</hi>, Cambridge, Asociación Internacional del Siglo de Oro, 2006, p. 627-632.</p>
+        </div>
+      </div>
+ 
       </div>
     </front>
     <body>
       
       <div>
-        <head>Texto</head>
-        <!--section=Sect1-->
-        <p>
-          <pb n="f. 131r"/>
-        </p>
-        <p><title>Parecer de don Francisco de Córdoba acerca de las</title><title>Soledades</title><title>a instancia de su autor</title> </p>
+        <pb n="f. 131r"/>
+        <head>Parecer de don Francisco de Córdoba acerca de las <title>Soledades</title> a instancia de su autor</head>
         <p>Vino a mis manos, por las del señor Francisco de Gálvez<note place="bottom" resp="editor">Como ha estudiado Antonio Cruz Casado (2000: 292), quien intentó reconstruir el panorama literario de la Córdoba de principios del siglo XVII, tenemos pocos datos sobre el poeta y licenciado Francisco de Gálvez. Tan solo sabemos que participó, junto con Pedro de Cárdenas y Ángulo, José Pérez de Rivas, Juan de Peñalosa, Andrés López de Robles, Antonio de Paredes, Maestro Márquez, Pedro Díaz de Ribas, Luis de Góngora y Enrique Vaca de Alfaro, a una <hi rend="i">Justa poética a la pureza de la Virgen nuestra Señora, celebrada en la parroquia de San Andrés de la ciudad de Córdoba, en quinze de enero de 1617</hi>, como reza la relación que se hizo de dicha justa (Sevilla: por Gabriel Ramos Bejarano, 1617). La presencia en estas justas de numerosos participantes renombrados de la polémica gongorina alrededor de su campeón confirma que Francisco de Gálvez se contaba entre los partidarios y defensores activos de Góngora. Escribió para la ocasión un soneto que empieza así: «Este imperioso soberanamente / purísimos candores coronado…» (Fernández Ariza 2005). Además, Fernández de Córdoba lo vuelve a nombrar en el <hi rend="i">Parecer</hi> más adelante, y lo presenta en plena lectura de Plinio y Teofrasto, para investigar si el haya puede ser la materia prima de los navíos y, por lo tanto, si la metonimia de llamar haya a un barco es lícita o no.</note>, la primera parte de sus <title>Soledades</title> de vuestra merced y lo que tiene hecho de la segunda, con que me intimó<note place="bottom" resp="editor"><hi rend="i">intimar</hi>: «notificar jurídicamente por auto y fe […], términos forenses» (Cov.).</note> un mandato<note place="bottom" resp="editor"><hi rend="i">mandato</hi>: aviso o noticia. No creo necesario enmendar el texto, como hace Antonio Carreira en su edición («<hi rend="i">mandado</hi>») puesto que la lección es posible (Carreira 2008: II, 593).</note> de vuestra merced preciso: que las viese y le dijese mi sentimiento. Acudí a lo primero con mucho gusto, por ser en favor mío, que no le<note place="bottom" resp="editor"><hi rend="i">le</hi>: se refiere al gusto.</note> tengo por pequeño el comunicarme vuestra merced sus obras tan para estimar de todo el mundo, y en particular de mí, o por la antigua amistad, o porque, como he visto<note place="bottom" type="app">he visto <hi rend="i">em</hi>. : a visto <hi rend="i">G</hi></note> algún tanto en poetas y poemas antiguos y modernos<note place="bottom" resp="editor">El abad de Rute subraya su conocimiento de la poesía antigua y moderna y afirma así su legitimidad como censor o, como diríamos hoy, crítico literario.</note>, me corre obligación de saber la excelencia de los de vuestra merced, la ventaja que hacen a los demás, sus agudezas peregrinas, la eminencia de su ingenio ya mejor aplicado que hasta aquí a cosa que participa de lo serio y continuado. Ojalá fuera la materia más grave, heroica, como algunas veces lo he procurado, si bien no he podido persuadir a vuestra merced, y no quedara nuestra España (como está hoy) sin alabanza alguna en este género<note place="bottom" resp="editor">Podemos suponer que este consejo (que la materia de las obras de Góngora fuera heroica) formaba parte de los argumentos desarrollados por el abad de Rute en su parecer perdido sobre el <hi rend="i">Polifemo</hi>. Sobre esta etapa de la polémica de la cual no conservamos testimonio escrito, véase el apartado 3 de la introducción. Fernández de Córdoba lamenta que no exista en España ningún poeta heroico de la talla de Homero para las letras griegas, Virgilio para las latinas o Torcuato Tasso para la literatura italiana y aspira a que Góngora llene el vacío. Sobre la «demanda del poema heroico», a principios del siglo XVII, véase Blanco (2012a).</note>. Ello, al fin, es tal que puede dar cuidado o quitarles de él a cuantos tratan de componer<note place="bottom" resp="editor">Entiéndase: «la ausencia de poetas heroicos en España es tal que es preocupante o puede disuadir a los que escriben poesía de probar este género».</note>, pues con razón lo que de las de <name type="author">Virgilio</name> diremos de sus composiciones de vuestra merced:</p>
         <p>
           <pb n="f. 131v"/>
@@ -606,7 +607,7 @@
           <l>Cedite romani scriptores, cedite Graii,</l>
           <l>Nescio quid majus nascitur Iliade<note place="bottom" resp="editor"><name type="author">Propercio</name>, <title>Elegías</title>, II, 34, v. 65-66. «Silencio, escritores romanos, silencio, griegos: algo está naciendo superior a la <hi rend="i">Iliada</hi>» (traducción propia). Así hablaba Propercio de la <hi rend="i">Eneida</hi>, aún en gestación, cuando escribió estos versos. El abad de Rute compara la novedad que causarán las <hi rend="i">Soledades</hi> aún inacabadas, con la novedad que causó la <hi rend="i">Eneida</hi>, también inacabada, cuando fue conocida y valorada por Propercio. El uso ingenioso de estos dos versos para ponderar la idea de que une obra moderna es capaz de superar una obra canónica de la antigüedad era bastante común en el Renacimiento. Ralph G. Willliams explica que el Papa León X utilizó estos mismos versos para saludar el inicio de la escritura de los <hi rend="i">Christiados libri sex</hi> de Vida (uno de los autores de predilección del abad de Rute) y sugerir que Vida era un poeta épico incluso mejor que Virgilio (Vida 1976: XIX).</note>;</l>
         </quote>
-        <p rend="noindent">y cierto que, si dijo <name type="author">Estacio Papinio</name> en el <title>Genethliacon</title><note place="bottom" type="app">Genethliacon <hi rend="i">em</hi>. : Genethliaco G</note> de nuestro cordobés <name type="author">Lucano</name>:</p>
+        <p rend="noindent">y cierto que, si dijo <name type="author">Estacio Papinio</name> en el <title>Genethliacon</title><note place="bottom" type="app">Genethliacon <hi rend="i">em</hi>. : Genethliaco <hi rend="i">G</hi></note> de nuestro cordobés <name type="author">Lucano</name>:</p>
         <quote>
           <l>Graio nobilior Melete Baetis<note place="bottom" type="app">Baetis <hi rend="i">em</hi>. : Boetis <hi rend="i">G</hi></note>,</l>
           <l>Mantua, Baetim<note place="bottom" type="app">Baetim <hi rend="i">em</hi>. : Boetim <hi rend="i">G</hi></note> provocare noli<note place="bottom" resp="editor">Estacio, <hi rend="i">Silvae</hi>, lib. II, 7, v. 34-35. El «Genethliacon Lucani ad Pollam» es un poema escrito para celebrar el nacimiento de Lucano. «Río Betis, más famoso que el Melete griego; Mantua, no provoques al Betis» (traducción propia inspirada en Estacio 1995: 114). Los tres topónimos citados son metonimias para designar a los poetas que los vieron nacer: el río Betis designa a Lucano, nacido en Bética, la actual Andalucía; Mantua, ciudad a orillas del Po, es la patria de Virgilio; y el Melete es un río de Jonia, a cuyas orillas se supone que había nacido Homero. Estacio dice pues en estos versos que la poesía de Lucano supera la de Virgilio y Homero, y Fernández de Córdoba extiende esto a Góngora. La comparación tácita entre Lucano y Góngora es muy oportuna, porque los dos eran andaluces. Obsérvese que la edición moderna de referencia de la biblioteca de Oxford ofrece una versión ligeramente diferente en el v. 35, sin que por eso cambie el sentido: «Baetim, Mantua, provocare noli» (Estacio 1905).</note>,</l>
@@ -671,8 +672,8 @@
         <p><pb n="f. 134v"/> se apelare para los modernos, oigamos a <name type="author">Antonio Minturno</name>, hombre judiciosísimo en los libros que hizo<note place="bottom" resp="editor">Después de haber traído a colación referencias de la antigüedad, el abad de Rute acude a fuentes modernas italianas para demostrar que la oscuridad debe ser evitada: Antonio Minturno (1500-1574), poeta, crítico y comentador de Aristóteles; Julio César Escalígero (1484-1558), humanista autor, entre otras obras, de <hi rend="i">Poetices libri VII</hi>, Lugduni: Sumptibus Horatii Cardon, 1561; Francisco Luisio, también conocido como Francesco Luigini, Franciscus Luisinus Utinensi o Franciscus Lovisini (1524-1568) –según los habituales cambios de nombres de los humanistas en el siglo XVI– que fue un filósofo, poeta, maestro y secretario de Alejandro Farnesio, autor de un <hi rend="i">Comentarius</hi> a las obras de Horacio en 1554; Torquato Tasso (1544-1595), citado aquí como tratadista y no como poeta, autor del <hi rend="i">Discurso del arte poética</hi> y del <hi rend="i">Discurso del poema heroico</hi>; y un poco más abajo Marco Girolamo Vida (1480-1566), llamado aquí Jerónimo Vida, humanista y poeta, autor del <hi rend="i">De arte poetica</hi>.</note>. <title>De poeta</title>: <quote><hi rend="i">Nec vero (ut quibus horum utendum sit ad plane ornateque dicendum, cognoscamus) ignorandum est locutionis esse virtutem, ut perspicua illa sit, non humilis, non abjecta</hi><note place="bottom" resp="author">Lib. 6º</note><note place="bottom" resp="editor"><hi rend="i">Antonii Sebastiani Minturni de poeta, ad Hectorem Pignatellum, Vibonensium ducem, libri sex</hi>, Venetiis, [apud Franciscum Rampazetum], 1559, lib. VI, p. 447. «Pero (para que conozcamos qué recursos hace falta utilizar para decir las cosas de forma clara y ornada) no hay que ignorar que la virtud de la elocución es que sea clara, no humilde, ni descuidada».</note>. <name type="author">Julio César Escalígero</name>, regla para muchos, en la <title>Poética</title> en el libro cuarto de ella: <quote><hi rend="i">At perspicuum idem quod pellucidum vulgus transparens vocat, etc</hi></quote><note place="bottom" resp="editor">El fragmento eliminado contiene una palabra en griego que, probablemente, el copista no entendió. El impreso original reza así: «<hi rend="i">At perspicuum idem quod pellucidum: vulgus transparens vocat: Graeci διαϕανές</hi>:». Conservo la puntuación del original, coherente con el corte realizado en el texto original.</note>.<hi rend="i">Talis esse debet oratio, etenim in obscura</hi></quote> <quote><hi rend="i">haeret animus, neque transmittit se ad rem quam significat; in perspicua nihil obstat menti nostrae, quin aciem suam ad rem usque ipsam appellat</hi><note place="bottom" resp="author">cap 1º</note><note place="bottom" resp="editor">Julio César Escalígero, <hi rend="i">Poetices libri VII</hi>, 1561, lib. IV, cap. 1, p. 176D. «Pero “lo claro”, lo mismo que lo nítido, el vulgo lo llama “transparente” […]. Así debe ser la elocución, en efecto en la oscuridad la mente se detiene y no llega a la cosa designada; en la claridad nada impide que nuestra mente dirija su mirada hacia la cosa en sí».</note>. <name type="author">Francisco Luisio</name>, intérprete del <title>Arte poética</title> de <name type="author">Horacio</name>: <quote><hi rend="i">tres virtutes in omni narratione requiruntur: perspicuitas, brevitas, probabilitas, quae, si omnes adhibitae sunt, oratio omnes numeros habet</hi></quote><note place="bottom" resp="author">Lib 4º</note> <note place="bottom" resp="editor">Francesco Luisio <hi rend="i">Francisci Luisini Utinensis in librum Quinti Horatii Flacci de arte poetica commentarius</hi>, 1555, p. 1045. «Tres virtudes son requeridas en cualquier narración: la claridad, la brevedad y la verisimilitud, las cuales, si son aplicadas todas, el discurso tiene todas sus partes».</note>. <name type="author">Torcuato Tasso</name>, cuya autoridad equivale a la de todos los modernos, en su<note place="bottom" type="app">su <hi rend="i">em</hi>. : sus <hi rend="i">G</hi></note> <title>Discurso del poema heroico</title>: <quote><hi rend="i">Ma la</hi></quote> <quote><hi rend="i">virtù della elocuzione</hi></quote><note place="bottom" type="app">elocuzione <hi rend="i">em</hi>. : elocutione <hi rend="i">G</hi></note>, <hi rend="i">se crediamo ad</hi><note place="bottom" type="app">ad <hi rend="i">em</hi>. : a <hi rend="i">G</hi></note><name type="author"> Aristotele</name><quote>, <hi rend="i">è che sia chiara, non umile</hi></quote><note place="bottom" resp="author">Lib. 6º.</note> </quote><note place="bottom" resp="editor">Torcuato Tasso, <hi rend="i">Discorsi del poema heroico del signor Torquato Tasso</hi>, Napoli: nella Stamparia dello Stigliota, [1594?], lib. IV, p. 111. «Pero la virtud de la elocución, si creemos a Aristóteles, es que sea clara, sin ser humilde». </note>. Y después, conforme a lo cual, cuan loable y para ser procurada en las narraciones es la perspicuidad, tan culpable y para ser huida es su contraria, la oscuridad; y si ésta naciera en las <title>Soledades</title> de brevedad fuera menos mal, pues por buscar una virtud se diera en un vicio <pb n="f. 135r"/>cercano a ella; quien en vez de liberal da en pródigo, pase; y quien buscando la fortaleza da en temerario:</p>
         <quote>
           <l>Decipimur specie recti, brevis esse laboro</l>
+          <l>Obscurus fio […]<note place="bottom" resp="editor"><name type="author">Horacio</name>, <title>Ars poetica</title>, v. 24-25. «[Nosotros los poetas] somos engañados por la apariencia del bien. Procuro ser breve, me vuelvo oscuro» (Horacio 2008).</note>.</l>
         </quote>
-        <p><quote><hi rend="i">Obscurus fio</hi></quote>[…]<note place="bottom" resp="editor"><name type="author">Horacio</name>, <title>Ars poetica</title>, v. 24-25. «[Nosotros los poetas] somos engañados por la apariencia del bien. Procuro ser breve, me vuelvo oscuro» (Horacio 2008).</note>.</p>
         <p>Pero nace en esta composición la oscuridad de la demasía de tropos y esquemas, paréntesis, aposiciones, contraposiciones, interposiciones, sinécdoques, metáforas y otras figuras artificiosas y bizarras cada una de por sí, y a trechos y lugares convenientes, mas no para amontonadas. Porque ¿quién duda que para aumentar la hermosura de las damas se inventasen para la cabeza apretadores, rosas de diamantes, rubíes, esmeraldas, plumas de la misma materia; para las orejas, zarcillos, arracadas de oro y pedrería; para el cuello y pecho, cadenas, cabestrillos<note place="bottom" resp="editor"><hi rend="i">cabestrillo</hi>: cadena delgada de oro, plata o aljófar, que se llevaba al cuello.</note>, bandas, sartas de perlas y brincos<note place="bottom" resp="editor"><hi rend="i">brinco</hi>: joyel pequeño que colgaba de las tocas.</note>? Pero si alguna fuese más amiga de joyas que considerada<note place="bottom" type="app">considerada <hi rend="i">em</hi>. : considerara <hi rend="i">G</hi></note> <note place="bottom" resp="editor"><hi rend="i">considerado</hi>: el que actúa con meditación y reflexión.</note>, y se cargase la cabeza de apretadores, rosas, plumas; las orejas, de arracadas; el cuello y los pechos, de cadenas, cabestrillos, bandas, sartas y brincos, granjearía opinión de rica, pero no de cuerda ni de hermosa, pues serviría de ofuscar<note place="bottom" resp="editor"><hi rend="i">ofuscar</hi>: oscurecer y hacer sombra.</note> y encubrir su hermosura, antes que de acrecentarla, tal concurso y muchedumbre de joyas con que ni ella luciría, ni <pb n="f. 135v"/> lucirían ellas, por preciosa que fuese cada una<note place="bottom" resp="editor">Este fragmento se inspira en gran parte en el proemio del libro VIII del <hi rend="i">De Institutione oratoria</hi> de Quintiliano. Prueba de que tenía en mente este texto el abad de Rute es que lo cita explícitamente algunas líneas más adelante. La única diferencia es que Quintiliano aplicaba la imagen a un cuerpo masculino, en vez de un cuerpo femenino. </note>. Así sucede en la poesía y en cualquiera elocución: no han de ser áridas, ni desnudas, no, ni por imaginación, pero ni tan llenas de adorno que con él se desadornen, ahoguen y confundan; que igualmente sin duda está expuesto a injurias del tiempo y de los hombres el que en todos tiempos anduviese desnudo, como el que descomunalmente cargado de ropa:</p>
         <quote>
           <l>Singula quaeque locum teneant sortita decenter<note place="bottom" resp="author">Horat in arte</note> <note place="bottom" resp="editor"><name type="author">Horacio</name>, <title>Ars poetica</title>, v. 92: «Que cada género tenga su lugar y que se repartan según la conveniencia todos los géneros». Es decir «úsese para cada género el estilo conveniente». El sentido de la cita es que hay que adaptar el estilo que se emplea (y en particular el uso de tropos) en función del tema y género de cada poema.</note>;</l>
@@ -741,7 +742,7 @@
         <quote>
           <l>media luna las armas de su frente<note place="bottom" resp="editor">[OC264B.3]</note>.</l>
         </quote>
-        <p rend="noindent">En la primera hace vuestra merced navíos y en ésta barcos <quote>de haya</quote> muchas veces<note place="bottom" resp="editor">[OC264B.375] y [OC265.48]</note>, demás de que, como advertí en el <title>Polifemo</title>, no la usa la navegación, si no es en remos; y, para certificarme más, busqué con Francisco de Gálvez lo que dicen de ese árbol <name type="author">Teofrasto</name>, <title>De plantis</title>, <name type="author">Plinio</name> y otros<note place="bottom" resp="editor">el abad de Rute menciona a Teofrasto (ca. 371–ca. 287 a. C), filósofo griego, autor de una <hi rend="i">Historia de la plantas</hi> y Plinio el Viejo (23 –79), autor de una <hi rend="i">Historia natural</hi>, dos autoridades canónicas para la botánica. Por el título de la obra de Teofrasto, deducimos que el abad de Rute pudo consultar la siguiente traducción al latín: <hi rend="i">Theophrasti sparse de plantis sententiae in continuatam seriem ad propria capita revocatae</hi>, Boloniae: apud Alexandrum Benaccium 1561.</note>; y, ni en ellos, ni en poetas algunos hallamos que la aplicasen a la navegación. Aquí dice vuestra merced <quote>bisagra de una y otra playa</quote><note place="bottom" resp="editor">La repetición de la metáfora de la bisagra desaparece en la versión definitiva de las <hi rend="i">Soledades</hi>, prueba de que Góngora tomó en cuenta la advertencia del abad de Rute. La versión final es la siguiente: «…de una y otra playa / vínculo desatado, instable puente» [OC265.47-48].</note>; allá <quote>bisagra de un océano y otro</quote><note place="bottom" resp="editor">La cita exacta es la siguiente: «cuando halló de fugitiva plata / la bisagra (aunque estrecha) abrazadora / de un océano con otro, siempre uno» [OC264B.472-474].</note>; <quote>leños</quote> tantas veces por navíos<note place="bottom">[OC264B.21], [OC264B.127], [OC264B.397], [OC264B.430] y [OC265.54].</note>; <quote>cuernos</quote> de esto y de lo otro<note place="bottom">[OC264B.203], [OC264B.159], [OC265.18], [OC265.52], [OC265.307] y [OC265.331].</note>. Si <pb n="f. 141v"/> reprehende <name type="author">César Escalígero</name> en los <title>Endecasílabos</title> del <name type="author">Bembo</name> la repetición de <quote>elegancias, <hi rend="i">facetias, lepores</hi></quote>, y en los <title>Epitafios</title> <quote><hi rend="i">charites, veneres, cupidines</hi>, lirios</quote><note place="bottom" resp="editor">Escalígero, <title>Poetices libri VII</title>, 1561, p. 309, C1. El abad de Rute parafrasea y traduce un fragmento del texto de Escalígero dedicado al defecto, común entre los poetas, de repetir de forma excesiva sintagmas, sean imitados o no de Cicerón: «<hi rend="i">Iccirco nemo est qui non aliquid de Echo. In</hi> Hendecasyllabis, <hi rend="i">elegantiarum, facetiarum, leporum: in</hi> Epitaphiis <hi rend="i">Charites, Veneres, Cupidines, Lilia, et ejusmodi</hi>».</note>, y en los <title>Túmulos</title> de <name type="author">Pontano</name> la de <quote>rosas, violas, lilios, jacintos, primavera, coronas, Marte, Palas, Venus, <hi rend="i">charites</hi>, laurel, mirto, ungüento, lágrimas, mirra, musas, Clío, Aganipe </quote>y otros<note place="bottom" resp="editor">Escalígero, <hi rend="i">Poetices libri VII</hi>, 1561, p. 312, D2. El abad de Rute parafrasea y traduce este fragmento dedicado a Pontano: «Tumulorum <hi rend="i">libri pene constant universo verbis hisce: Rosae, Violae, Lilia, Hyacinthi, Blanditiae, Nequitiae, Lusus, Ioci, Decor, Nardus, Ver, Corolla, Thus, Mars, Pallas, Venus, Charis, Crocum, Laurus, Myrtus, Unguenta, Costum, Lacryme, Myrrha, Muse, Clio, Aganippe, Aon, Pieris</hi>».</note>; si en <name type="author">Tibulo</name> la de <quote>casas, fuegos, campos, bosques, husillos, espigas, sacrificios</quote><note place="bottom" resp="editor">Escalígero, <hi rend="i">Poetices libri VII</hi>, 1561; p. 332, A2. El abad de Rute parafrasea y traduce el siguiente fragmento: «<hi rend="i">Facilius e Tibulli locis expediemus censuram nostram. Uniformis ille pene totus est: vixque discedens ab Seipso, eodem pene gyro concluditur. Audis enim casas, focos, rura, nemora, prela, spicas, sacra tum saepe tum multum</hi>».</note>, no le perdonará a vuestra merced, sin duda, la<note place="bottom" resp="editor"><hi rend="i">la</hi>: la repetición.</note> de palabras, cuanto más de conceptos, que suele argüir escasez de ellos<note place="bottom" resp="editor">La repetición de palabras y conceptos suele revelar («argüir») escasez de ellos, aunque no es el caso de Góngora. Para evitar que algunos crean que Góngora carece de palabras y conceptos, debería evitar dichas repeticiones. </note>, como dijo <name type="author">Horacio</name>:</p>
+        <p rend="noindent">En la primera hace vuestra merced navíos y en ésta barcos <quote>de haya</quote> muchas veces<note place="bottom" resp="editor">[OC264B.375] y [OC265.48]</note>, demás de que, como advertí en el <title>Polifemo</title>, no la usa la navegación, si no es en remos; y, para certificarme más, busqué con Francisco de Gálvez lo que dicen de ese árbol <name type="author">Teofrasto</name>, <title>De plantis</title>, <name type="author">Plinio</name> y otros<note place="bottom" resp="editor">el abad de Rute menciona a Teofrasto (ca. 371–ca. 287 a. C), filósofo griego, autor de una <hi rend="i">Historia de la plantas</hi> y Plinio el Viejo (23 –79), autor de una <hi rend="i">Historia natural</hi>, dos autoridades canónicas para la botánica. Por el título de la obra de Teofrasto, deducimos que el abad de Rute pudo consultar la siguiente traducción al latín: <hi rend="i">Theophrasti sparse de plantis sententiae in continuatam seriem ad propria capita revocatae</hi>, Boloniae: apud Alexandrum Benaccium 1561.</note>; y, ni en ellos, ni en poetas algunos hallamos que la aplicasen a la navegación. Aquí dice vuestra merced <quote>bisagra de una y otra playa</quote><note place="bottom" resp="editor">La repetición de la metáfora de la bisagra desaparece en la versión definitiva de las <hi rend="i">Soledades</hi>, prueba de que Góngora tomó en cuenta la advertencia del abad de Rute. La versión final es la siguiente: «…de una y otra playa / vínculo desatado, instable puente» [OC265.47-48].</note>; allá <quote>bisagra de un océano y otro</quote><note place="bottom" resp="editor">La cita exacta es la siguiente: «cuando halló de fugitiva plata / la bisagra (aunque estrecha) abrazadora / de un océano con otro, siempre uno» [OC264B.472-474].</note>; <quote>leños</quote> tantas veces por navíos<note place="bottom" resp="editor">[OC264B.21], [OC264B.127], [OC264B.397], [OC264B.430] y [OC265.54].</note>; <quote>cuernos</quote> de esto y de lo otro<note place="bottom" resp="editor">[OC264B.203], [OC264B.159], [OC265.18], [OC265.52], [OC265.307] y [OC265.331].</note>. Si <pb n="f. 141v"/> reprehende <name type="author">César Escalígero</name> en los <title>Endecasílabos</title> del <name type="author">Bembo</name> la repetición de <quote>elegancias, <hi rend="i">facetias, lepores</hi></quote>, y en los <title>Epitafios</title> <quote><hi rend="i">charites, veneres, cupidines</hi>, lirios</quote><note place="bottom" resp="editor">Escalígero, <title>Poetices libri VII</title>, 1561, p. 309, C1. El abad de Rute parafrasea y traduce un fragmento del texto de Escalígero dedicado al defecto, común entre los poetas, de repetir de forma excesiva sintagmas, sean imitados o no de Cicerón: «<hi rend="i">Iccirco nemo est qui non aliquid de Echo. In</hi> Hendecasyllabis, <hi rend="i">elegantiarum, facetiarum, leporum: in</hi> Epitaphiis <hi rend="i">Charites, Veneres, Cupidines, Lilia, et ejusmodi</hi>».</note>, y en los <title>Túmulos</title> de <name type="author">Pontano</name> la de <quote>rosas, violas, lilios, jacintos, primavera, coronas, Marte, Palas, Venus, <hi rend="i">charites</hi>, laurel, mirto, ungüento, lágrimas, mirra, musas, Clío, Aganipe </quote>y otros<note place="bottom" resp="editor">Escalígero, <hi rend="i">Poetices libri VII</hi>, 1561, p. 312, D2. El abad de Rute parafrasea y traduce este fragmento dedicado a Pontano: «Tumulorum <hi rend="i">libri pene constant universo verbis hisce: Rosae, Violae, Lilia, Hyacinthi, Blanditiae, Nequitiae, Lusus, Ioci, Decor, Nardus, Ver, Corolla, Thus, Mars, Pallas, Venus, Charis, Crocum, Laurus, Myrtus, Unguenta, Costum, Lacryme, Myrrha, Muse, Clio, Aganippe, Aon, Pieris</hi>».</note>; si en <name type="author">Tibulo</name> la de <quote>casas, fuegos, campos, bosques, husillos, espigas, sacrificios</quote><note place="bottom" resp="editor">Escalígero, <hi rend="i">Poetices libri VII</hi>, 1561; p. 332, A2. El abad de Rute parafrasea y traduce el siguiente fragmento: «<hi rend="i">Facilius e Tibulli locis expediemus censuram nostram. Uniformis ille pene totus est: vixque discedens ab Seipso, eodem pene gyro concluditur. Audis enim casas, focos, rura, nemora, prela, spicas, sacra tum saepe tum multum</hi>».</note>, no le perdonará a vuestra merced, sin duda, la<note place="bottom" resp="editor"><hi rend="i">la</hi>: la repetición.</note> de palabras, cuanto más de conceptos, que suele argüir escasez de ellos<note place="bottom" resp="editor">La repetición de palabras y conceptos suele revelar («argüir») escasez de ellos, aunque no es el caso de Góngora. Para evitar que algunos crean que Góngora carece de palabras y conceptos, debería evitar dichas repeticiones. </note>, como dijo <name type="author">Horacio</name>:</p>
         <quote>
           <l>[…] Et fortasse cupressum</l>
           <l>Scis simulare<note place="bottom" resp="editor">Horacio, <title>Ars poetica</title>, v. 19-20. Reproduzco aquí un fragmento más extenso: «…<hi rend="i">Et fortasse cupressum / scis simulare;</hi> [<hi rend="i">quid hoc si fractis enatat exspes / navibus, aere dato qui pingitur</hi>?]». «También sabes, tal vez, representar un ciprés; pero eso ¿a qué viene, si quien te paga lo hace para que lo pintes a él nadando desesperado después de un naufragio?» (Horacio 2008).</note>,</l>
@@ -792,8 +793,8 @@
         </quote>
         <p rend="noindent">en que dio el epíteto de magnánimo al cerco, debiéndosele a Popilio<note place="bottom" resp="editor"><hi rend="i">Cayo Popilio Lenate</hi>: embajador de Egipto que trató de convencer a Antíoco IV de Siria de que se retirara de aquel país. Véase Petrarca (2003: 255). </note> que lo<note place="bottom" type="app">lo <hi rend="i">em</hi>. : le <hi rend="i">G</hi></note> hizo. En nuestro vulgar no sé si puede usarse, creo que, a poder, no fuera tan ridículo<note place="bottom" resp="editor"><hi rend="i">a poder, no fuera tan ridículo</hi>: si fuera posible (usar hipálages en las lenguas romances), no sería tan ridículo.</note>:</p>
         <quote>
-          <l><quote>La nueva es más peregrina </quote> </l>
-          <l><quote>que ha llegado a tus narices</quote><note place="bottom" resp="editor">No sé cuál es el origen de esta cita que puede ser un fragmento de comedia, un refrán, o simplemente una frase inventada y fraguada según el modelo de los refranes. ‘Nueva’ significa aquí novedad. El abad de Rute ha subrayado antes que las hipálages no se adaptaban bien a los idiomas latinos pero, en un segundo momento, concede que, si se pudieran usar, no serían tan ridículas. De forma chistosa subraya que Góngora es muy innovador.</note>.</l>
+          <l>La nueva es más peregrina</l>
+          <l>que ha llegado a tus narices<note place="bottom" resp="editor">No sé cuál es el origen de esta cita que puede ser un fragmento de comedia, un refrán, o simplemente una frase inventada y fraguada según el modelo de los refranes. ‘Nueva’ significa aquí novedad. El abad de Rute ha subrayado antes que las hipálages no se adaptaban bien a los idiomas latinos pero, en un segundo momento, concede que, si se pudieran usar, no serían tan ridículas. De forma chistosa subraya que Góngora es muy innovador.</note>.</l>
         </quote>
         <p>En este fragmento de la segunda <title>Soledad</title> dudo por cuál razón llame vuestra merced <quote>centauro espumoso</quote> a la ría o arroyo<note place="bottom" resp="editor">[OC265.10]</note>, porque si por ser de dos naturalezas, también lo eran los Panes o Faunos, también el Minotauro, y lo son otros animales; cuanto más que la agua de la mar y la de los ríos no son de diferentes especies, como el hombre y el caballo de que era compuesto el<note place="bottom" type="app">el <hi rend="i">em</hi>. : en <hi rend="i">G</hi></note> centauro, sino esencial y substancialmente una: difieren en el sabor y grosedad, que son diferentes.</p>
         <p>
