@@ -12,6 +12,14 @@
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
+        <respStmt>
+          <name>Mercedes Blanco</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jaime Galbarro</name>
+          <resp>relecture</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
