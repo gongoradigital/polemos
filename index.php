@@ -21,10 +21,14 @@ else echo '
 <title>Gongora, OBVIL</title>
 ';
     ?>
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,700italic,600italic' rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600,700,900,300italic,600italic' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
+    <style type="text/css">
+#aside { width: 500px; }
+#main { margin-left: 500px; }
+    </style>
   </head>
   <body>
     <div id="center">
@@ -70,7 +74,7 @@ if (isset($doc['bookname'])) {
   echo '
   <form action=".#conc" name="searchbook" id="searchbook">
     <input name="q" id="q" onclick="this.select()" class="search" size="20" placeholder="Dans ce volume" title="Dans ce volume" value="'. str_replace('"', '&quot;', $pot->q) .'"/>
-    <input type="image" id="go" alt="&gt;" value="&gt;" name="go" src="'. $theme . 'img/loupe.png"/>
+    <input style="vertical-align: middle" type="image" id="go" alt="&gt;" value="&gt;" name="go" src="'. $theme . 'img/loupe.png"/>
   </form>
   ';
   // table des matières
