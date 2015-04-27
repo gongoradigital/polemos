@@ -104,6 +104,5 @@ else {
     <script type="text/javascript" src="<?php echo $teipot; ?>Tree.js">//</script>
     <script type="text/javascript" src="<?php echo $teipot; ?>Form.js">//</script>
     <script type="text/javascript" src="<?php echo $teipot; ?>Sortable.js">//</script>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Teipot.js">//</script>
   </body>
 </html>
