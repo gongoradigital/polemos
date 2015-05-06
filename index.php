@@ -26,8 +26,10 @@ else echo '
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
     <style type="text/css">
+/*
 #aside { width: 500px; }
 #main { margin-left: 500px; }
+*/
     </style>
   </head>
   <body>
