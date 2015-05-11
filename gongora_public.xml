@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cat [
+  <!ELEMENT cat ( head, ( file+ | cat+ ) )>
+  <!ATTLIST cat
+    xml:id ID #REQUIRED 
+    formats NMTOKENS #IMPLIED
+  >
+  <!-- formats, one or more of : 
+naked (no <note>, <front>, <back>…)
+epub
+txt
+tei
+  -->
+  <!ELEMENT file ( subject* )>
+  <!ATTLIST file
+    href CDATA #REQUIRED 
+    formats CDATA #IMPLIED
+  >
+  <!ELEMENT subject EMPTY>
+  <!ATTLIST subject
+    field CDATA #REQUIRED 
+  >
+  <!ELEMENT head ( #PCDATA | i | sc | sup )*>
+  <!ELEMENT i ( #PCDATA | sup )*>
+  <!ELEMENT sup ( #PCDATA )*>
+  <!ELEMENT sc ( #PCDATA | sup )*>
+]>
+<cat xml:id="apollinaire" formats="sqlite epub html txt tei">
+  <head>Polémique gogonrine</head>
+  <file href="xml/1614_parecer.xml"/>
+</cat>
