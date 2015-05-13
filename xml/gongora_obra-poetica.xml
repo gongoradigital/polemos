@@ -40,9 +40,9 @@
         <head>
           <date>1580</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem1">
           <head>
-            <num>1</num>
+            <num>1.</num>
             <lb/>De <hi rend="i">Las Lusiadas</hi> de Luis de Camões, que tradujo Luis de Tapia, natural de Sevilla
           </head>
           <lg>
@@ -106,9 +106,10 @@
             <l n="52">lauro, por premio del gran dios lucífero.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem2">
           <head>
-            <num>2</num>
+            <num>2.</num>
+            <lb/>La más bella niña
           </head>
           <lg>
             <l n="1">La más bella niña</l>
@@ -181,9 +182,10 @@
             <l n="60">orillas del mar».</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem3">
           <head>
-            <num>3<note place="bottom"><p>Sólo este primer cuartete y la vuelta es suyo.</p></note></num>
+            <num>3<note place="bottom"><p>Sólo este primer cuartete y la vuelta es suyo.</p></note>.</num>
+            <lb/>Los rayos le cuenta al sol
           </head>
           <lg>
             <l n="1">Los rayos le cuenta al sol</l>
@@ -194,10 +196,10 @@
             <l n="6">de Guadalquivir.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem4">
           <head>
-            <num>4</num>
-          </head>
+            <num>4.</num>
+            <lb/>Ciego que apuntas y atinas</head>
           <lg>
             <l n="1">Ciego que apuntas y atinas,</l>
             <l n="2">caduco dios, y rapaz,</l>
@@ -259,10 +261,10 @@
             <l rend="refrain" n="50">déjame en paz.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem5">
           <head>
-            <num>5</num>
-          </head>
+            <num>5.</num>
+            <lb/>Hermana Marica</head>
           <lg>
             <l n="1">Hermana Marica,</l>
             <l n="2">mañana, que es fiesta,</l>
@@ -351,9 +353,10 @@
         <head>
           <date>1581</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem6">
           <head>
-            <num>6</num>
+            <num>6.</num>
+            <lb/>Que pida a un galán Minguilla
           </head>
           <lg>
             <l n="1">Que pida a un galán Minguilla</l>
@@ -524,9 +527,10 @@
             <l rend="refrain" n="126">no puede ser.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem7">
           <head>
-            <num>7</num>
+            <num>7.</num>
+            <lb/>Ándeme yo caliente y ríase la gente
           </head>
           <lg>
             <l rend="refrain" n="1">Ándeme yo caliente</l>
@@ -587,9 +591,10 @@
             <l rend="refrain" n="44">y ríase la gente.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem8">
           <head>
-            <num>8</num>
+            <num>8.</num>
+            <lb/>Da bienes Fortuna
           </head>
           <lg>
             <l rend="refrain" n="1">Da bienes Fortuna</l>
@@ -628,10 +633,10 @@
             <l rend="refrain" n="28">cuando flautas, pitos.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem9">
           <head>
-            <num>9</num>
-          </head>
+            <num>9.</num>
+            <lb/>Las redes sobre el arena</head>
           <lg>
             <l n="1">Las redes sobre el arena,</l>
             <l n="2">y la barquilla, ligada</l>
@@ -643,9 +648,10 @@
             <l n="8">y gloria de aquella playa<note place="bottom"><p>Sólo estos dos primeros cuartetes son suyos, y los demás andan supuestos en lugar de los que él hizo que se han perdido.</p></note>.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem10">
           <head>
-            <num>10</num>
+            <num>10.</num>
+            <lb/>En el caudaloso río
           </head>
           <lg>
             <l n="1">En el caudaloso río</l>
@@ -720,9 +726,10 @@
             <l rend="refrain" n="60">dar viento al viento y olas a las olas».</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem11">
           <head>
-            <num>11</num>
+            <num>11.</num>
+            <lb/>Érase una vieja
           </head>
           <lg>
             <l n="1">Érase una vieja</l>
@@ -756,9 +763,9 @@
         <head>
           <date>1582</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem12">
           <head>
-            <num>12</num>
+            <num>12.</num>
             <lb/>En la muerte de dos señoras mozas hermanas, naturales de Córdoba
           </head>
           <lg>
@@ -784,10 +791,10 @@
             <l n="14">en Géminis vosotras, yo en Acuario».</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem13">
           <head>
-            <num>13</num>
-          </head>
+            <num>13.</num>
+            <lb/>De pura honestidad templo sagrado</head>
           <lg>
             <l n="1">De pura honestidad templo sagrado,</l>
             <l n="2">cuyo bello cimiento y gentil muro,</l>
@@ -811,9 +818,10 @@
             <l n="14">tus himnos canta, y tus virtudes reza.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem14">
           <head>
-            <num>14</num>
+            <num>14.</num>
+            <lb/>Tras la bermeja Aurora el Sol dorado
           </head>
           <lg>
             <l n="1">Tras la bermeja Aurora el Sol dorado</l>
@@ -838,10 +846,10 @@
             <l n="14">o yo, que es lo más cierto, sordo y ciego.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem15">
           <head>
-            <num>15</num>
-          </head>
+            <num>15.</num>
+            <lb/>Al tramontar del sol la ninfa mía</head>
           <lg>
             <l n="1">Al tramontar del sol la ninfa mía,</l>
             <l n="2">de flores despojando el verde llano,</l>
@@ -865,10 +873,10 @@
             <l n="14">que la que ilustra el cielo en luces nueve.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem16">
           <head>
-            <num>16</num>
-          </head>
+            <num>16.</num>
+            <lb/>Oh claro honor del líquido elemento</head>
           <lg>
             <l n="1">Oh claro honor del líquido elemento,</l>
             <l n="2">dulce arroyuelo de corriente plata</l>
@@ -892,9 +900,10 @@
             <l n="14">el gran señor del húmido tridente.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem17">
           <head>
-            <num>17</num>
+            <num>17.</num>
+            <lb/>Raya, dorado Sol, orna y colora
           </head>
           <lg>
             <l n="1">Raya, dorado Sol, orna y colora</l>
@@ -919,9 +928,10 @@
             <l n="14">ni el mar argentes ni los campos dores.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem18">
           <head>
-            <num>18</num>
+            <num>18.</num>
+            <lb/>Cual parece al romper de la mañana
           </head>
           <lg>
             <l n="1">Cual parece al romper de la mañana</l>
@@ -946,10 +956,10 @@
             <l n="14">que al llanto y al suspiro fue de cera.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem19">
           <head>
-            <num>19</num>
-          </head>
+            <num>19.</num>
+            <lb/>Suspiros tristes, lágrimas cansadas</head>
           <lg>
             <l n="1">Suspiros tristes, lágrimas cansadas,</l>
             <l n="2">que lanza el corazón, los ojos llueven,</l>
@@ -973,10 +983,10 @@
             <l n="14">llorar sin premio y suspirar en vano.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem20">
           <head>
-            <num>20</num>
-          </head>
+            <num>20.</num>
+            <lb/>Ya besando unas manos cristalinas</head>
           <lg>
             <l n="1">Ya besando unas manos cristalinas,</l>
             <l n="2">ya anudándome a un blanco y liso cuello,</l>
@@ -1000,9 +1010,10 @@
             <l n="14">rayos, como a tu hijo, te den muerte.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem21">
           <head>
-            <num>21</num>
+            <num>21.</num>
+            <lb/>Oh piadosa pared, merecedora
           </head>
           <lg>
             <l n="1">Oh piadosa pared, merecedora</l>
@@ -1027,10 +1038,10 @@
             <l n="14">barco de vistas, puente de deseos.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem22">
           <head>
-            <num>22</num>
-          </head>
+            <num>22.</num>
+            <lb/>Rey de los otros, río caudaloso</head>
           <lg>
             <l n="1">Rey de los otros, río caudaloso,</l>
             <l n="2">que en fama claro, en ondas cristalino,</l>
@@ -1054,9 +1065,9 @@
             <l n="14">beldad cual la de Clori, o gracia tanta.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem23">
           <head>
-            <num>23</num>
+            <num>23.</num>
             <lb/>A la pasión de los celos</head>
           <lg>
             <l n="1">iOh niebla del estado más sereno,</l>
@@ -1081,9 +1092,10 @@
             <l n="14">mayor debes de ser que el mismo infierno.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem24">
           <head>
-            <num>24</num>
+            <num>24.</num>
+            <lb/>Mientras por competir con tu cabello
           </head>
           <lg>
             <l n="1">Mientras por competir con tu cabello</l>
@@ -1108,10 +1120,10 @@
             <l n="14">en tierra, en humo, en polvo, en sombra, en nada.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem25">
           <head>
-            <num>25</num>
-          </head>
+            <num>25.</num>
+            <lb/>Corcilla temerosa</head>
           <lg>
             <l n="1">Corcilla temerosa,</l>
             <l n="2">cuando sacudir siente</l>
@@ -1202,9 +1214,10 @@
             <l n="75">que razón es parar quien corrió tanto.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem26">
           <head>
-            <num>26</num>
+            <num>26.</num>
+            <lb/>Que se nos va la pascua, mozas
           </head>
           <lg>
             <l rend="refrain" n="1">Que se nos va la pascua, mozas,</l>
@@ -1283,9 +1296,10 @@
             <l rend="refrain" n="62">que se nos va la pascua.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem27">
           <head>
-            <num>27</num>
+            <num>27.</num>
+            <lb/>En la pedregosa orilla
           </head>
           <lg>
             <l n="1">En la pedregosa orilla</l>
@@ -1374,9 +1388,10 @@
             <l n="84">como Dios hizo un candil».</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem28">
           <head>
-            <num>28</num>
+            <num>28.</num>
+            <lb/>Diez años vivió Belerma
           </head>
           <lg>
             <l n="1">Diez años vivió Belerma</l>
@@ -1522,9 +1537,9 @@
         <head>
           <date>1583</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem29">
           <head>
-            <num>29</num>
+            <num>29.</num>
             <lb/>En la muerte de una señora que murió moza en Córdoba
           </head>
           <lg>
@@ -1550,9 +1565,9 @@
             <l n="14">pues en troncos está, troncos la lean.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem30">
           <head>
-            <num>30</num>
+            <num>30.</num>
             <lb/>Habla con don  Luis  Gaytán de Ayala, señor de Villafranca de Gaytán, quien estaba entonces en Córdoba, siendo allí su padre corregidor
           </head>
           <lg>
@@ -1578,9 +1593,9 @@
             <l n="14">sus blancas plumas bañan y se anidan.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem31">
           <head>
-            <num>31</num>
+            <num>31.</num>
             <lb/>A unos álamos blancos
           </head>
           <lg>
@@ -1606,9 +1621,10 @@
             <l n="14">esconda el desengaño en poca espuma.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem32">
           <head>
-            <num>32</num>
+            <num>32.</num>
+            <lb/>Ni en este monte, este aire, ni este río
           </head>
           <lg>
             <l n="1">Ni en este monte, este aire, ni este río</l>
@@ -1633,9 +1649,10 @@
             <l n="14">puede mi mal, y pudo su dulzura!</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem33">
           <head>
-            <num>33</num>
+            <num>33.</num>
+            <lb/>¿Cuál del Ganges marfil, o cuál de Paro
           </head>
           <lg>
             <l n="1">¿Cuál del Ganges marfil, o cuál de Paro</l>
@@ -1660,9 +1677,9 @@
             <l n="14">oh bella Clori, oh dulce mi enemiga?</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem34">
           <head>
-            <num>34</num>
+            <num>34.</num>
             <lb/>A Juan Rufo, jurado de Córdoba
           </head>
           <lg>
@@ -1688,10 +1705,10 @@
             <l n="14">siendo tuya la voz, y el canto della.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem35">
           <head>
-            <num>35</num>
-          </head>
+            <num>35.</num>
+            <lb/>Ilustre y hermosísima María</head>
           <lg>
             <l n="1">Ilustre y hermosísima María,</l>
             <l n="2">mientras se dejan ver a cualquier hora</l>
@@ -1715,10 +1732,10 @@
             <l n="14">goza, goza el color, la luz, el oro.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem36">
           <head>
-            <num>36</num>
-          </head>
+            <num>36.</num>
+            <lb/>Manda Amor en su fatiga</head>
           <lg>
             <l rend="refrain" n="1">Manda Amor en su fatiga</l>
             <l rend="refrain" n="2">que se sienta y no se diga,</l>
@@ -1782,9 +1799,10 @@
             <l rend="refrain" n="52">que se diga y no se sienta.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem37">
           <head>
-            <num>37</num>
+            <num>37.</num>
+            <lb/>Amarrado al duro banco
           </head>
           <lg>
             <l n="1">Amarrado al duro banco</l>
@@ -1829,10 +1847,10 @@
             <l n="40">al forzado, de su fuerza.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem38">
           <head>
-            <num>38</num>
-          </head>
+            <num>38.</num>
+            <lb/>La desgracia del forzado</head>
           <lg>
             <l n="1">La desgracia del forzado,</l>
             <l n="2">y del cosario la industria,</l>
@@ -1899,9 +1917,9 @@
         <head>
           <date>1584</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem39">
           <head>
-            <num>39</num>
+            <num>39.</num>
             <lb/>A Juan Rufo, de su <hi rend="i">Austriada</hi>
           </head>
           <lg>
@@ -1925,9 +1943,10 @@
             <l n="14">vos, de la lira del sagrado Apolo.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem40">
           <head>
-            <num>40</num>
+            <num>40.</num>
+            <lb/>Con diferencia tal, con gracia tanta
           </head>
           <lg>
             <l n="1">Con diferencia tal, con gracia tanta</l>
@@ -1952,9 +1971,10 @@
             <l n="14">ni publicar su mal ni hacer mudanza.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem41">
           <head>
-            <num>41</num>
+            <num>41.</num>
+            <lb/>La dulce boca que a gustar convida
           </head>
           <lg>
             <l n="1">La dulce boca que a gustar convida</l>
@@ -1979,9 +1999,10 @@
             <l n="14">y solo del Amor queda el veneno.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem42">
           <head>
-            <num>42</num>
+            <num>42.</num>
+            <lb/>No destrozada nave en roca dura
           </head>
           <lg>
             <l n="1">No destrozada nave en roca dura</l>
@@ -2006,10 +2027,10 @@
             <l n="14">dura roca, red de oro, alegre prado.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem43">
           <head>
-            <num>43</num>
-          </head>
+            <num>43.</num>
+            <lb/>Varia imaginación, que en mil intentos</head>
           <lg>
             <l n="1">Varia imaginación, que en mil intentos,</l>
             <l n="2">a pesar, gastas, de tu triste dueño,</l>
@@ -2033,9 +2054,9 @@
             <l n="14">dos bienes, que serán dormir y vello.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem44">
           <head>
-            <num>44</num>
+            <num>44.</num>
             <lb/>A don Luis Gaytán de Ayala, señor de Villafranca de Gaytán
           </head>
           <lg>
@@ -2061,9 +2082,10 @@
             <l n="14">que le hurte su nombre tu rüina.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem45">
           <head>
-            <num>45</num>
+            <num>45.</num>
+            <lb/>Gallardas plantas, que con voz doliente
           </head>
           <lg>
             <l n="1">Gallardas plantas, que con voz doliente</l>
@@ -2088,9 +2110,10 @@
             <l n="14">mi ardimiento en amar, mi empresa loca.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem46">
           <head>
-            <num>46</num>
+            <num>46.</num>
+            <lb/>Del color noble que a la piel vellosa
           </head>
           <lg>
             <l n="1">Del color noble que a la piel vellosa</l>
@@ -2115,9 +2138,10 @@
             <l n="14">del nemeo león el gran despojo.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem47">
           <head>
-            <num>47</num>
+            <num>47.</num>
+            <lb/>Aquí entre la verde juncia
           </head>
           <lg>
             <l n="1">Aquí entre la verde juncia</l>
@@ -2202,10 +2226,10 @@
             <l n="80">y quién es la ingrata Nise.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem48">
           <head>
-            <num>48</num>
-          </head>
+            <num>48.</num>
+            <lb/>Noble desengaño</head>
           <lg>
             <l n="1">Noble desengaño,</l>
             <l n="2">gracias doy al cielo,</l>
@@ -2321,10 +2345,10 @@
             <l n="112">seis años de necio.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem49">
           <head>
-            <num>49</num>
-          </head>
+            <num>49.</num>
+            <lb/>Aquel rayo de la guerra</head>
           <lg>
             <l n="1">Aquel rayo de la guerra,</l>
             <l n="2">alférez mayor del reino,</l>
@@ -2433,9 +2457,9 @@
         <head>
           <date>1585</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem50">
           <head>
-            <num>50</num>
+            <num>50.</num>
             <lb/>A Córdoba
           </head>
           <lg>
@@ -2461,9 +2485,10 @@
             <l n="14">tu llano y sierra, ¡oh patria, oh flor de España!</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem51">
           <head>
-            <num>51</num>
+            <num>51.</num>
+            <lb/>Tres veces de Aquilón el soplo airado
           </head>
           <lg>
             <l n="1">Tres veces de Aquilón el soplo airado</l>
@@ -2488,9 +2513,9 @@
             <l n="14">dejamos, yo, de sangre, tú, de flores.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem52">
           <head>
-            <num>52</num>
+            <num>52.</num>
             <lb/>Deprecación a Apolo por la salud de una dama
           </head>
           <lg>
@@ -2516,9 +2541,10 @@
             <l n="14">como el de Amor la enferma zagaleja.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem53">
           <head>
-            <num>53</num>
+            <num>53.</num>
+            <lb/>Aunque a rocas de fe ligada vea
           </head>
           <lg>
             <l n="1">Aunque a rocas de fe ligada vea</l>
@@ -2543,9 +2569,10 @@
             <l n="14">¡oh dulce Arión, oh sabio Palinuro!</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem54">
           <head>
-            <num>54</num>
+            <num>54.</num>
+            <lb/>Si las damas de la corte
           </head>
           <lg>
             <l n="1">Si las damas de la corte</l>
@@ -2611,10 +2638,10 @@
             <l rend="refrain" n="49">que yo soy nacido en el Potro,</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem55">
           <head>
-            <num>55</num>
-          </head>
+            <num>55.</num>
+            <lb/>Si en todo lo qu’hago</head>
           <lg>
             <l rend="refrain" n="1">Si en todo lo qu’hago</l>
             <l rend="refrain" n="2">soy desgraciada,</l>
@@ -2711,9 +2738,10 @@
             <l rend="refrain" n="81">¿qué quiere qu’haga?</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem56">
           <head>
-            <num>56</num>
+            <num>56.</num>
+            <lb/>Entre los sueltos caballos
           </head>
           <lg>
             <l n="1">Entre los sueltos caballos</l>
@@ -2790,9 +2818,10 @@
             <l n="72">mira si es bien que lamente».</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem57">
           <head>
-            <num>57</num>
+            <num>57.</num>
+            <lb/>Crïábase el Albanés
           </head>
           <lg>
             <l n="1">Crïábase el Albanés</l>
@@ -2853,9 +2882,10 @@
             <l n="56">y quiso con dos vendalle.<note place="bottom"><p>Los más de los cuartetes últimos son ajenos, puestos en lugar de otros suyos que se han perdido.</p></note></l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem58">
           <head>
-            <num>58</num>
+            <num>58.</num>
+            <lb/>«Ensíllenme el asno rucio
           </head>
           <lg>
             <l n="1">«Ensíllenme el asno rucio</l>
@@ -2944,10 +2974,10 @@
             <l n="84">en mil hermosos broqueles.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem59">
           <head>
-            <num>59</num>
-          </head>
+            <num>59.</num>
+            <lb/>Escuchadme un rato atentos</head>
           <lg>
             <l n="1">Escuchadme un rato atentos,</l>
             <l n="2">cudiciosos noveleros,</l>
@@ -3020,9 +3050,9 @@
         <head>
           <date>1586</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem60">
           <head>
-            <num>60</num>
+            <num>60.</num>
             <lb/>En una enfermedad de don Antonio de Pazos, obispo de Córdoba
           </head>
           <lg>
@@ -3048,10 +3078,10 @@
             <l n="14">grana el gabán, armiños el pellico.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem61">
           <head>
-            <num>61</num>
-          </head>
+            <num>61.</num>
+            <lb/>Levantando blanca espuma</head>
           <lg>
             <l n="1">Levantando blanca espuma,</l>
             <l n="2">galeras de Barbarroja</l>
@@ -3099,9 +3129,9 @@
             <l n="44">blancas alas de paloma».</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem62">
           <head>
-            <num>62</num>
+            <num>62.</num>
             <lb/>A la ciudad de Granada, estando en ella
           </head>
           <lg>
@@ -3343,11 +3373,10 @@
             <l n="236">el rubio amador de Dafnes.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem63">
           <head>
-            <num>63</num>
-            <note place="bottom">Son alternados los cuartetes deste romance, uno de veras y otro de burlas.</note>
-          </head>
+            <num>63<note place="bottom">Son alternados los cuartetes deste romance, uno de veras y otro de burlas.</note>.</num>
+            <lb/>Triste pisa, y afligido</head>
           <lg>
             <l n="1">Triste pisa, y afligido,</l>
             <l n="2">las arenas de Pisuerga</l>
@@ -3428,9 +3457,10 @@
         <head>
           <date>1587</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem64">
           <head>
-            <num>64</num>
+            <num>64.</num>
+            <lb/>Servía en Orán al rey
           </head>
           <lg>
             <l n="1">Servía en Orán al rey</l>
@@ -3479,10 +3509,10 @@
             <l n="44">tan dulce como enojada ... »</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem65">
           <head>
-            <num>65</num>
-          </head>
+            <num>65.</num>
+            <lb/>Hanme dicho, hermanas</head>
           <lg>
             <l n="1">Hanme dicho, hermanas,</l>
             <l n="2">que tenéis cosquillas</l>
@@ -3751,9 +3781,9 @@
         <head>
           <date>1588</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem66">
           <head>
-            <num>66</num>
+            <num>66.</num>
             <lb/>Del marqués de Santa Cruz
           </head>
           <lg>
@@ -3779,9 +3809,9 @@
             <l n="14">alma del tiempo, espada del olvido.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem67">
           <head>
-            <num>67</num>
+            <num>67.</num>
             <lb/>A don Luis de Vargas<note place="bottom">Las casas del secretario Vargas, su padre, sobre los muros de Toledo que miran a la Vega.</note>
           </head>
           <lg>
@@ -3807,9 +3837,10 @@
             <l n="14">en patria, en profesión, en instrumentos.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem68">
           <head>
-            <num>68</num>
+            <num>68.</num>
+            <lb/>Por niñear, un picarillo tierno
           </head>
           <lg>
             <l n="1">Por niñear, un picarillo tierno</l>
@@ -3834,10 +3865,10 @@
             <l n="14">y se la ha puesto sobre su cabeza».</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem69">
           <head>
-            <num>69</num>
-          </head>
+            <num>69.</num>
+            <lb/>Grandes, más que elefantes y que abadas</head>
           <lg>
             <l n="1">Grandes, más que elefantes y que abadas,</l>
             <l n="2">títulos liberales como rocas,</l>
@@ -3861,9 +3892,9 @@
             <l n="14">esto es la corte; buena pro les haga.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem70">
           <head>
-            <num>70</num>
+            <num>70.</num>
             <lb/>A la tela de justar de Madrid<note place="bottom">Estaba en Madrid la tela en la vega de Manzanares, junto a la puente Segoviana.</note>
           </head>
           <lg>
@@ -3889,10 +3920,10 @@
             <l n="14">y esas no son palabras de doncella.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem71">
           <head>
-            <num>71</num>
-          </head>
+            <num>71.</num>
+            <lb/>Duélete de esa puente, Manzanares</head>
           <lg>
             <l n="1">Duélete de esa puente, Manzanares;</l>
             <l n="2">mira que dice por ahí la gente</l>
@@ -3916,9 +3947,9 @@
             <l n="14">–Bebióme un asno ayer, y hoy me ha meado.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem72">
           <head>
-            <num>72</num>
+            <num>72.</num>
             <lb/>De la armada que fue a Inglaterra
           </head>
           <lg>
@@ -4025,9 +4056,10 @@
             <l n="91">las armas, los trïunfos, la corona.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem73">
           <head>
-            <num>73</num>
+            <num>73.</num>
+            <lb/>Ahora que estoy de espacio
           </head>
           <lg>
             <l n="1">Ahora que estoy de espacio</l>
@@ -4152,10 +4184,10 @@
             <l n="120">vete para hideputa.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem74">
           <head>
-            <num>74</num>
-          </head>
+            <num>74.</num>
+            <lb/>Desde Sansueña a París</head>
           <lg>
             <l n="1">Desde Sansueña a París,</l>
             <l n="2">dijo un medidor de tierras</l>
@@ -4291,9 +4323,10 @@
             <l n="132">corría, pican apriesa.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem75">
           <head>
-            <num>75</num>
+            <num>75.</num>
+            <lb/>Pensó rendir la mozuela
           </head>
           <lg>
             <l n="1">Pensó rendir la mozuela</l>
@@ -4427,9 +4460,9 @@
         <head>
           <date>1589</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem76">
           <head>
-            <num>76</num>
+            <num>76.</num>
             <lb/>De san Lorenzo el real del Escurial
           </head>
           <lg>
@@ -4455,9 +4488,9 @@
             <l n="14">los años deste Salomón segundo.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem77">
           <head>
-            <num>77</num>
+            <num>77.</num>
             <lb/>Segunda parte de la fábula de los amores de Hero y Leandro, y de sus muertes<note place="bottom">Es este romance segunda parte del pasado [«Aunque entiendo poco griego», poema nº 230], y aunque hizo don Luis aquel tanto después, fue para que éste se pudiese continuar con él.</note>
           </head>
           <lg>
@@ -4564,9 +4597,9 @@
         <head>
           <date>1590</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem78">
           <head>
-            <num>78</num>
+            <num>78.</num>
             <lb/>En una fiesta que se hizo en Sevilla a san Hermenegildo
           </head>
           <lg>
@@ -4665,9 +4698,10 @@
             <l n="85">la fe escudo, honra España, invidia el mundo.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem79">
           <head>
-            <num>79</num>
+            <num>79.</num>
+            <lb/>Lloraba la niña
           </head>
           <lg>
             <l n="1">Lloraba la niña</l>
@@ -4718,10 +4752,10 @@
             <l rend="refrain" n="44">que tenéis razón.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem80">
           <head>
-            <num>80</num>
-          </head>
+            <num>80.</num>
+            <lb/>Famosos son, en las armas</head>
           <lg>
             <l n="1">Famosos son, en las armas,</l>
             <l n="2">los moros de Canastel;</l>
@@ -4817,10 +4851,10 @@
             <l n="92">la nieve suele hacer.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem81">
           <head>
-            <num>81</num>
-          </head>
+            <num>81.</num>
+            <lb/>Frescos airecillos</head>
           <lg>
             <l n="1">Frescos airecillos,</l>
             <l n="2">que a la primavera</l>
@@ -4946,10 +4980,10 @@
             </l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem82">
           <head>
-            <num>82</num>
-          </head>
+            <num>82.</num>
+            <lb/>Dejad los libros ahora</head>
           <lg>
             <l n="1">Dejad los libros ahora,</l>
             <l n="2">señor licenciado Ortiz,</l>
@@ -5085,10 +5119,10 @@
             <l n="132">de algún loco paladín.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem83">
           <head>
-            <num>83</num>
-          </head>
+            <num>83.</num>
+            <lb/>¡Qué necio que era yo antaño</head>
           <lg>
             <l n="1">¡Qué necio que era yo antaño,</l>
             <l n="2">aunque hogaño soy un bobo!</l>
@@ -5202,10 +5236,10 @@
             <l rend="refrain" n="104">cuanto va de cuerdo a loco.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem84">
           <head>
-            <num>84</num>
-          </head>
+            <num>84.</num>
+            <lb/>Si sus mercedes me escuchan</head>
           <lg>
             <l n="1">Si sus mercedes me escuchan,</l>
             <l n="2">les contaré a sus mercedes,</l>
@@ -5282,9 +5316,9 @@
         <head>
           <date>1591</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem85">
           <head>
-            <num>85</num>
+            <num>85.</num>
             <lb/>A unas monjas, convaleciente de la enfermedad que refiere
           </head>
           <lg>
@@ -5300,10 +5334,10 @@
             <l n="8">como el cojo las muletas.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem86">
           <head>
-            <num>86</num>
-          </head>
+            <num>86.</num>
+            <lb/>Clavellina se llama la perra</head>
           <lg>
             <l rend="refrain" n="1">Clavellina se llama la perra;</l>
             <l rend="refrain" n="2">quien no lo creyere, bájese a olella.</l>
@@ -5339,10 +5373,10 @@
             <l rend="refrain" n="26">quien no lo creyere, bájese a olella.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem87">
           <head>
-            <num>87</num>
-          </head>
+            <num>87.</num>
+            <lb/>Buena orina y buen color</head>
           <lg>
             <l rend="refrain" n="1">Buena orina y buen color,</l>
             <l rend="refrain" n="2">y tres higas al doctor.</l>
@@ -5396,10 +5430,10 @@
             <l rend="refrain" n="42">y tres higas al doctor.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem88">
           <head>
-            <num>88</num>
-          </head>
+            <num>88.</num>
+            <lb/>A vos digo, señor Tajo</head>
           <lg>
             <l n="1">A vos digo, señor Tajo,</l>
             <l n="2">el de las ninfas y ninfos,</l>
@@ -5447,10 +5481,10 @@
             <l n="44">mil ciervos de Jesucristo.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem89">
           <head>
-            <num>89</num>
-          </head>
+            <num>89.</num>
+            <lb/>Castillo de San Cervantes</head>
           <lg>
             <l n="1">Castillo de San Cervantes,</l>
             <l n="2">tú que estás par de Toledo,</l>
@@ -5554,9 +5588,10 @@
             <l n="100">te defenderás más presto.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem90">
           <head>
-            <num>90</num>
+            <num>90.</num>
+            <lb/>Tendiendo sus blancos paños
           </head>
           <lg>
             <l n="1">Tendiendo sus blancos paños</l>
@@ -5674,10 +5709,10 @@
         <head>
           <date>1592</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem91">
           <head>
-            <num>91</num>
-          </head>
+            <num>91.</num>
+            <lb/>Ya no más, ceguezuelo hermano</head>
           <lg>
             <l rend="refrain" n="1">Ya no más, ceguezuelo hermano,</l>
             <l rend="refrain" n="2">ya no más.</l>
@@ -5731,10 +5766,10 @@
             <l rend="refrain" n="42">ya no más.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem92">
           <head>
-            <num>92</num>
-          </head>
+            <num>92.</num>
+            <lb/>Vuela, pensamiento, y diles</head>
           <lg>
             <l rend="refrain" n="1">Vuela, pensamiento, y diles</l>
             <l rend="refrain" n="2">a los ojos que te envío</l>
@@ -5811,9 +5846,9 @@
         <head>
           <date>1593</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem93">
           <head>
-            <num>93</num>
+            <num>93.</num>
             <lb/>A don Cristóbal de Mora
           </head>
           <lg>
@@ -5839,9 +5874,10 @@
             <l n="14">y votaré a tu templo mi camino.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem94">
           <head>
-            <num>94</num>
+            <num>94.</num>
+            <lb/>Un buhonero ha empleado
           </head>
           <lg>
             <l n="1">Un buhonero ha empleado</l>
@@ -5934,10 +5970,10 @@
             <l rend="refrain" n="70">diez higas.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem95">
           <head>
-            <num>95</num>
-          </head>
+            <num>95.</num>
+            <lb/>Mandadero es el arquero, y sí que era mandadero</head>
           <lg>
             <l rend="refrain" n="1">Mandadero es el arquero,</l>
             <l rend="refrain" n="2">y sí que era mandadero.</l>
@@ -6003,10 +6039,10 @@
             <l rend="refrain" n="52">sí que era mandadero.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem96">
           <head>
-            <num>96</num>
-          </head>
+            <num>96.</num>
+            <lb/>A toda ley, madre mía</head>
           <lg>
             <l rend="refrain" n="1">A toda ley, madre mía,</l>
             <l rend="refrain" n="2">lo demás es necedad,</l>
@@ -6112,9 +6148,10 @@
             <l rend="refrain" n="88">y obras de paternidad.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem97">
           <head>
-            <num>97</num>
+            <num>97.</num>
+            <lb/>¿No me bastaba el peligro
           </head>
           <lg>
             <l n="1">¿No me bastaba el peligro</l>
@@ -6171,9 +6208,10 @@
             <l n="52">y yo me voy a enterrar.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem98">
           <head>
-            <num>98</num>
+            <num>98.</num>
+            <lb/>Murmuraban los rocines
           </head>
           <lg>
             <l n="1">Murmuraban los rocines</l>
@@ -6355,9 +6393,9 @@
         <head>
           <date>1594</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem99">
           <head>
-            <num>99</num>
+            <num>99.</num>
             <lb/>A una casa de campo de una dama
           </head>
           <lg>
@@ -6383,9 +6421,9 @@
             <l n="14">representadle mi destierro duro.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem100">
           <head>
-            <num>100</num>
+            <num>100.</num>
             <lb/>De un caminante enfermo que se enamoró donde fue hospedado
           </head>
           <lg>
@@ -6411,9 +6449,9 @@
             <l n="14">que morir de la suerte que yo muero.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem101">
           <head>
-            <num>101</num>
+            <num>101.</num>
             <lb/>A una enfermedad que tuvo en Salamanca, de que estuvo tres días tenido por muerto
           </head>
           <lg>
@@ -6439,10 +6477,10 @@
             <l n="14">en la venganza que tomó del ciego!</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem102">
           <head>
-            <num>102</num>
-          </head>
+            <num>102.</num>
+            <lb/>Cada uno estornuda como Dios le ayuda</head>
           <lg>
             <l rend="refrain" n="1">Cada uno estornuda</l>
             <l rend="refrain" n="2">como Dios le ayuda.</l>
@@ -6496,9 +6534,9 @@
             <l rend="refrain" n="42">como Dios le ayuda.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem103">
           <head>
-            <num>103</num>
+            <num>103.</num>
             <lb/>En la muerte de doña Luisa de Cardona, monja en Santa Fe de Toledo
           </head>
           <lg>
@@ -6593,9 +6631,9 @@
         <head>
           <date>1595</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem104">
           <head>
-            <num>104</num>
+            <num>104.</num>
             <lb/>A una sangría del tobillo de una dama
           </head>
           <lg>
@@ -6621,9 +6659,10 @@
             <l n="14">y otras mil te perdiera mi deseo.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem105">
           <head>
-            <num>105</num>
+            <num>105.</num>
+            <lb/>Ya de mi dulce instrumento
           </head>
           <lg>
             <l n="1">Ya de mi dulce instrumento</l>
@@ -6756,10 +6795,10 @@
             <l n="110">y diga que yo lo digo.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem106">
           <head>
-            <num>106</num>
-          </head>
+            <num>106.</num>
+            <lb/>Sin Leda y sin esperanza</head>
           <lg>
             <l n="1">Sin Leda y sin esperanza,</l>
             <l n="2">rompe en mal seguro leño</l>
@@ -6806,12 +6845,12 @@
         <head>
           <date>1596</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem107">
           <head>
-            <num>107</num>
-            <note place="bottom">
+            <num>107<note place="bottom">
               <p>Hubo este año una gran crecida en el Betis.</p>
-            </note>
+            </note>.</num>
+            <lb/>Cosas, Celalba mía, he visto extrañas
           </head>
           <lg>
             <l n="1">Cosas, Celalba mía, he visto extrañas:</l>
@@ -6836,10 +6875,10 @@
             <l n="14">y nada temí más que mis cuidados.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem108">
           <head>
-            <num>108</num>
-          </head>
+            <num>108.</num>
+            <lb/>Cuantas al Duero le he negado ausente</head>
           <lg>
             <l n="1">Cuantas al Duero le he negado ausente,</l>
             <l n="2">tantas al Betis lágrimas le fío,</l>
@@ -6863,9 +6902,10 @@
             <l n="14">lágrimas y suspiros son de ausencia.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem109">
           <head>
-            <num>109</num>
+            <num>109.</num>
+            <lb/>Despuntado he mil agujas
           </head>
           <lg>
             <l n="1">Despuntado he mil agujas</l>
@@ -6954,10 +6994,10 @@
             <l n="84">ni posada sin escote.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem110">
           <head>
-            <num>110</num>
-          </head>
+            <num>110.</num>
+            <lb/>Temo tanto los serenos</head>
           <lg>
             <l n="1">Temo tanto los serenos,</l>
             <l n="2">serenísimo compadre,</l>
@@ -7030,10 +7070,10 @@
         <head>
           <date>1597</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem111">
           <head>
-            <num>111</num>
-          </head>
+            <num>111.</num>
+            <lb/>Quién es aquel caballero</head>
           <lg>
             <l n="1">–¿Quién es aquel caballero</l>
             <l n="2">que a mi puerta dijo: Abrid?</l>
@@ -7106,9 +7146,9 @@
         <head>
           <date>1598</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem112">
           <head>
-            <num>112</num>
+            <num>112.</num>
             <lb/>Al monte santo de Granada
           </head>
           <lg>
@@ -7134,9 +7174,9 @@
             <l n="14">con tiernos ojos, con devota planta.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem113">
           <head>
-            <num>113</num>
+            <num>113.</num>
             <lb/>Burlándose de un caballero prevenido para unas fiestas
           </head>
           <lg>
@@ -7162,9 +7202,10 @@
             <l n="14">y quiera Dios no se atraviese un perro.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem114">
           <head>
-            <num>114</num>
+            <num>114.</num>
+            <lb/>Donde las altas ruedas
           </head>
           <lg>
             <l n="1">Donde las altas ruedas</l>
@@ -7204,12 +7245,10 @@
         <head>
           <date>1599</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem115">
           <head>
-            <num>115</num>
-            <note place="bottom">
-              <p>Hizo después a este mismo asunto otro romance que comienza «Sobre unas altas rocas», que sirvió de segunda parte deste, y se hallará adelante, pág. 193 [poema nº 124].</p>
-            </note>
+            <num>115<note place="bottom">Hizo después a este mismo asunto otro romance que comienza «Sobre unas altas rocas», que sirvió de segunda parte deste, y se hallará adelante, pág. 193 [poema nº 124].</note>.</num>
+            <lb/>Las aguas de Carrïón
           </head>
           <lg>
             <l n="1">Las aguas de Carrïón,</l>
@@ -7265,9 +7304,9 @@
         <head>
           <date>1600</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem116">
           <head>
-            <num>116</num>
+            <num>116.</num>
             <lb/>Al nacimiento de Cristo Nuestro Señor
           </head>
           <lg>
@@ -7293,8 +7332,8 @@
             <l n="14">de Dios a hombre, que de hombre a muerte.</l>
           </lg>
         </div>
-        <div type="poem">
-          <head><num>117</num>
+        <div type="poem" xml:id="poem117">
+          <head><num>117.</num>
             <lb/>Soneto cuatrilingüe, castellano, latino, toscano y portugués</head>
           <lg>
             <l n="1">Las tablas del bajel despedazadas</l>
@@ -7319,9 +7358,9 @@
             <l n="14">saudade a as feras, e aos penedos, magoas.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem118">
           <head>
-            <num>118</num>
+            <num>118.</num>
             <lb/>De unos papeles que una dama le había escrito, restituyéndoselos en una caja
           </head>
           <lg>
@@ -7347,10 +7386,10 @@
             <l n="14">Daliso el escultor, cincel sus males.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem119">
           <head>
-            <num>119</num>
-          </head>
+            <num>119.</num>
+            <lb/>¡Qué de invidiosos montes levantados</head>
           <lg>
             <l n="1">¡Qué de invidiosos montes levantados,</l>
             <l n="2">de nieves impedidos,</l>
@@ -7423,9 +7462,9 @@
             <l n="57">y vuelva al desdichado que camina.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem120">
           <head>
-            <num>120</num>
+            <num>120.</num>
             <lb/>Al marqués de Guadalcázar; de las damas de palacio
           </head>
           <lg>
@@ -7621,9 +7660,10 @@
             <l n="160">que a Argos diera cuidado.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem121">
           <head>
-            <num>121</num>
+            <num>121.</num>
+            <lb/>Los dineros del sacristán
           </head>
           <lg>
             <l n="1">Los dineros del sacristán</l>
@@ -7700,10 +7740,10 @@
             <l n="62">cantando se vienen y cantando se van.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem122">
           <head>
-            <num>122</num>
-          </head>
+            <num>122.</num>
+            <lb/>Allá darás, rayo</head>
           <lg>
             <l n="1">Allá darás, rayo,</l>
             <l n="2">en cas de Tamayo.</l>
@@ -7759,9 +7799,9 @@
             <l n="42">en cas de Tamayo.</l>
           </lg>
         </div>
-        <div type="poem">
+        <div type="poem" xml:id="poem123">
           <head>
-            <num>123</num>
+            <num>123.</num>
             <lb/>[A dama moza casada con un viejo]
           </head>
           <label>A</label>
@@ -7847,10 +7887,10 @@
             <l rend="i" n="37">¿Qué chiribica?</l>
           </lg>
         </div>
-        <div>
+        <div type="poem" xml:id="poem124">
           <head>
-            <hi rend="b">124</hi>
-            <note place="bottom">Este romance hizo como segunda parte del que comienza «Las aguas de Carrïón [poema n° 115].</note>
+            <num>124<note place="bottom">Este romance hizo como segunda parte del que comienza «Las aguas de Carrïón [poema n° 115].</note>.</num>
+            <lb/>Sobre unas altas rocas
           </head>
           <lg>
             <l n="1">Sobre unas altas rocas,</l>
@@ -7911,9 +7951,9 @@
         <head>
           <date>1610</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem223">
           <head>
-            <num>223</num>
+            <num>223.</num>
             <lb/>Canción de la toma de Larache</head>
           <lg>
             <l n="1">En roscas de cristal serpiente breve,</l>
@@ -8663,9 +8703,9 @@
         <head>
           <date>1613</date>
         </head>
-        <div type="poem">
+        <div type="poem" xml:id="poem264">
           <head>
-            <num>264</num>
+            <num>264.</num>
             <lb/>Soledades</head>
           <div>
             <head>Al duque de Béjar</head>
@@ -10879,8 +10919,8 @@
         <head>
           <date>1618</date>
         </head>
-        <div type="poem">
-          <head><num>317</num>
+        <div type="poem" xml:id="poem317">
+          <head><num>317.</num>
             <lb/>Fábula de Píramo y Tisbe</head>
           <lg>
             <l n="1">La ciudad de Babilonia,</l>
