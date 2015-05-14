@@ -35,6 +35,659 @@
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <div>
+        <head>Tabla poetica</head>
+        <table rend="sortable">
+  <row role="label">
+    <cell>N°</cell>
+    <cell>Año</cell>
+    <cell>Incipit</cell>
+  </row>
+  <row>
+    <cell>1</cell>
+    <cell>1580</cell>
+    <cell><ref target="#poem1">De <hi rend="i">Las Lusiadas</hi> de Luis de Camões, que tradujo Luis de Tapia, natural de Sevilla</ref></cell>
+  </row>
+  <row>
+    <cell>2</cell>
+    <cell>1580</cell>
+    <cell><ref target="#poem2">La más bella niña</ref></cell>
+  </row>
+  <row>
+    <cell>3</cell>
+    <cell>1580</cell>
+    <cell><ref target="#poem3">Los rayos le cuenta al sol</ref></cell>
+  </row>
+  <row>
+    <cell>4</cell>
+    <cell>1580</cell>
+    <cell><ref target="#poem4">Ciego que apuntas y atinas</ref></cell>
+  </row>
+  <row>
+    <cell>5</cell>
+    <cell>1580</cell>
+    <cell><ref target="#poem5">Hermana Marica</ref></cell>
+  </row>
+  <row>
+    <cell>6</cell>
+    <cell>1581</cell>
+    <cell><ref target="#poem6">Que pida a un galán Minguilla</ref></cell>
+  </row>
+  <row>
+    <cell>7</cell>
+    <cell>1581</cell>
+    <cell><ref target="#poem7">Ándeme yo caliente y ríase la gente</ref></cell>
+  </row>
+  <row>
+    <cell>8</cell>
+    <cell>1581</cell>
+    <cell><ref target="#poem8">Da bienes Fortuna</ref></cell>
+  </row>
+  <row>
+    <cell>9</cell>
+    <cell>1581</cell>
+    <cell><ref target="#poem9">Las redes sobre el arena</ref></cell>
+  </row>
+  <row>
+    <cell>10</cell>
+    <cell>1581</cell>
+    <cell><ref target="#poem10">En el caudaloso río</ref></cell>
+  </row>
+  <row>
+    <cell>11</cell>
+    <cell>1581</cell>
+    <cell><ref target="#poem11">Érase una vieja</ref></cell>
+  </row>
+  <row>
+    <cell>12</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem12">En la muerte de dos señoras mozas hermanas, naturales de Córdoba</ref></cell>
+  </row>
+  <row>
+    <cell>13</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem13">De pura honestidad templo sagrado</ref></cell>
+  </row>
+  <row>
+    <cell>14</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem14">Tras la bermeja Aurora el Sol dorado</ref></cell>
+  </row>
+  <row>
+    <cell>15</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem15">Al tramontar del sol la ninfa mía</ref></cell>
+  </row>
+  <row>
+    <cell>16</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem16">Oh claro honor del líquido elemento</ref></cell>
+  </row>
+  <row>
+    <cell>17</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem17">Raya, dorado Sol, orna y colora</ref></cell>
+  </row>
+  <row>
+    <cell>18</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem18">Cual parece al romper de la mañana</ref></cell>
+  </row>
+  <row>
+    <cell>19</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem19">Suspiros tristes, lágrimas cansadas</ref></cell>
+  </row>
+  <row>
+    <cell>20</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem20">Ya besando unas manos cristalinas</ref></cell>
+  </row>
+  <row>
+    <cell>21</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem21">Oh piadosa pared, merecedora</ref></cell>
+  </row>
+  <row>
+    <cell>22</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem22">Rey de los otros, río caudaloso</ref></cell>
+  </row>
+  <row>
+    <cell>23</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem23">A la pasión de los celos</ref></cell>
+  </row>
+  <row>
+    <cell>24</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem24">Mientras por competir con tu cabello</ref></cell>
+  </row>
+  <row>
+    <cell>25</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem25">Corcilla temerosa</ref></cell>
+  </row>
+  <row>
+    <cell>26</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem26">Que se nos va la pascua, mozas</ref></cell>
+  </row>
+  <row>
+    <cell>27</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem27">En la pedregosa orilla</ref></cell>
+  </row>
+  <row>
+    <cell>28</cell>
+    <cell>1582</cell>
+    <cell><ref target="#poem28">Diez años vivió Belerma</ref></cell>
+  </row>
+  <row>
+    <cell>29</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem29">En la muerte de una señora que murió moza en Córdoba</ref></cell>
+  </row>
+  <row>
+    <cell>30</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem30">Habla con don  Luis  Gaytán de Ayala, señor de Villafranca de Gaytán, quien estaba entonces en Córdoba, siendo allí su padre corregidor</ref></cell>
+  </row>
+  <row>
+    <cell>31</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem31">A unos álamos blancos</ref></cell>
+  </row>
+  <row>
+    <cell>32</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem32">Ni en este monte, este aire, ni este río</ref></cell>
+  </row>
+  <row>
+    <cell>33</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem33">Cuál del Ganges marfil, o cuál de Paro</ref></cell>
+  </row>
+  <row>
+    <cell>34</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem34">A Juan Rufo, jurado de Córdoba</ref></cell>
+  </row>
+  <row>
+    <cell>35</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem35">Ilustre y hermosísima María</ref></cell>
+  </row>
+  <row>
+    <cell>36</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem36">Manda Amor en su fatiga</ref></cell>
+  </row>
+  <row>
+    <cell>37</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem37">Amarrado al duro banco</ref></cell>
+  </row>
+  <row>
+    <cell>38</cell>
+    <cell>1583</cell>
+    <cell><ref target="#poem38">La desgracia del forzado</ref></cell>
+  </row>
+  <row>
+    <cell>39</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem39">A Juan Rufo, de su <hi rend="i">Austriada</hi></ref></cell>
+  </row>
+  <row>
+    <cell>40</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem40">Con diferencia tal, con gracia tanta</ref></cell>
+  </row>
+  <row>
+    <cell>41</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem41">La dulce boca que a gustar convida</ref></cell>
+  </row>
+  <row>
+    <cell>42</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem42">No destrozada nave en roca dura</ref></cell>
+  </row>
+  <row>
+    <cell>43</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem43">Varia imaginación, que en mil intentos</ref></cell>
+  </row>
+  <row>
+    <cell>44</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem44">A don Luis Gaytán de Ayala, señor de Villafranca de Gaytán</ref></cell>
+  </row>
+  <row>
+    <cell>45</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem45">Gallardas plantas, que con voz doliente</ref></cell>
+  </row>
+  <row>
+    <cell>46</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem46">Del color noble que a la piel vellosa</ref></cell>
+  </row>
+  <row>
+    <cell>47</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem47">Aquí entre la verde juncia</ref></cell>
+  </row>
+  <row>
+    <cell>48</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem48">Noble desengaño</ref></cell>
+  </row>
+  <row>
+    <cell>49</cell>
+    <cell>1584</cell>
+    <cell><ref target="#poem49">Aquel rayo de la guerra</ref></cell>
+  </row>
+  <row>
+    <cell>50</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem50">A Córdoba</ref></cell>
+  </row>
+  <row>
+    <cell>51</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem51">Tres veces de Aquilón el soplo airado</ref></cell>
+  </row>
+  <row>
+    <cell>52</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem52">Deprecación a Apolo por la salud de una dama</ref></cell>
+  </row>
+  <row>
+    <cell>53</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem53">Aunque a rocas de fe ligada vea</ref></cell>
+  </row>
+  <row>
+    <cell>54</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem54">Si las damas de la corte</ref></cell>
+  </row>
+  <row>
+    <cell>55</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem55">Si en todo lo qu’hago</ref></cell>
+  </row>
+  <row>
+    <cell>56</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem56">Entre los sueltos caballos</ref></cell>
+  </row>
+  <row>
+    <cell>57</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem57">Crïábase el Albanés</ref></cell>
+  </row>
+  <row>
+    <cell>58</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem58">Ensíllenme el asno rucio</ref></cell>
+  </row>
+  <row>
+    <cell>59</cell>
+    <cell>1585</cell>
+    <cell><ref target="#poem59">Escuchadme un rato atentos</ref></cell>
+  </row>
+  <row>
+    <cell>60</cell>
+    <cell>1586</cell>
+    <cell><ref target="#poem60">En una enfermedad de don Antonio de Pazos, obispo de Córdoba</ref></cell>
+  </row>
+  <row>
+    <cell>61</cell>
+    <cell>1586</cell>
+    <cell><ref target="#poem61">Levantando blanca espuma</ref></cell>
+  </row>
+  <row>
+    <cell>62</cell>
+    <cell>1586</cell>
+    <cell><ref target="#poem62">A la ciudad de Granada, estando en ella</ref></cell>
+  </row>
+  <row>
+    <cell>63</cell>
+    <cell>1586</cell>
+    <cell><ref target="#poem63">Triste pisa, y afligido</ref></cell>
+  </row>
+  <row>
+    <cell>64</cell>
+    <cell>1587</cell>
+    <cell><ref target="#poem64">Servía en Orán al rey</ref></cell>
+  </row>
+  <row>
+    <cell>65</cell>
+    <cell>1587</cell>
+    <cell><ref target="#poem65">Hanme dicho, hermanas</ref></cell>
+  </row>
+  <row>
+    <cell>66</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem66">Del marqués de Santa Cruz</ref></cell>
+  </row>
+  <row>
+    <cell>67</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem67">A don Luis de Vargas</ref></cell>
+  </row>
+  <row>
+    <cell>68</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem68">Por niñear, un picarillo tierno</ref></cell>
+  </row>
+  <row>
+    <cell>69</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem69">Grandes, más que elefantes y que abadas</ref></cell>
+  </row>
+  <row>
+    <cell>70</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem70">A la tela de justar de Madrid</ref></cell>
+  </row>
+  <row>
+    <cell>71</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem71">Duélete de esa puente, Manzanares</ref></cell>
+  </row>
+  <row>
+    <cell>72</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem72">De la armada que fue a Inglaterra</ref></cell>
+  </row>
+  <row>
+    <cell>73</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem73">Ahora que estoy de espacio</ref></cell>
+  </row>
+  <row>
+    <cell>74</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem74">Desde Sansueña a París</ref></cell>
+  </row>
+  <row>
+    <cell>75</cell>
+    <cell>1588</cell>
+    <cell><ref target="#poem75">Pensó rendir la mozuela</ref></cell>
+  </row>
+  <row>
+    <cell>76</cell>
+    <cell>1589</cell>
+    <cell><ref target="#poem76">De san Lorenzo el real del Escurial</ref></cell>
+  </row>
+  <row>
+    <cell>77</cell>
+    <cell>1589</cell>
+    <cell><ref target="#poem77">Segunda parte de la fábula de los amores de Hero y Leandro, y de sus muertes</ref></cell>
+  </row>
+  <row>
+    <cell>78</cell>
+    <cell>1590</cell>
+    <cell><ref target="#poem78">En una fiesta que se hizo en Sevilla a san Hermenegildo</ref></cell>
+  </row>
+  <row>
+    <cell>79</cell>
+    <cell>1590</cell>
+    <cell><ref target="#poem79">Lloraba la niña</ref></cell>
+  </row>
+  <row>
+    <cell>80</cell>
+    <cell>1590</cell>
+    <cell><ref target="#poem80">Famosos son, en las armas</ref></cell>
+  </row>
+  <row>
+    <cell>81</cell>
+    <cell>1590</cell>
+    <cell><ref target="#poem81">Frescos airecillos</ref></cell>
+  </row>
+  <row>
+    <cell>82</cell>
+    <cell>1590</cell>
+    <cell><ref target="#poem82">Dejad los libros ahora</ref></cell>
+  </row>
+  <row>
+    <cell>83</cell>
+    <cell>1590</cell>
+    <cell><ref target="#poem83">Qué necio que era yo antaño</ref></cell>
+  </row>
+  <row>
+    <cell>84</cell>
+    <cell>1590</cell>
+    <cell><ref target="#poem84">Si sus mercedes me escuchan</ref></cell>
+  </row>
+  <row>
+    <cell>85</cell>
+    <cell>1591</cell>
+    <cell><ref target="#poem85">A unas monjas, convaleciente de la enfermedad que refiere</ref></cell>
+  </row>
+  <row>
+    <cell>86</cell>
+    <cell>1591</cell>
+    <cell><ref target="#poem86">Clavellina se llama la perra</ref></cell>
+  </row>
+  <row>
+    <cell>87</cell>
+    <cell>1591</cell>
+    <cell><ref target="#poem87">Buena orina y buen color</ref></cell>
+  </row>
+  <row>
+    <cell>88</cell>
+    <cell>1591</cell>
+    <cell><ref target="#poem88">A vos digo, señor Tajo</ref></cell>
+  </row>
+  <row>
+    <cell>89</cell>
+    <cell>1591</cell>
+    <cell><ref target="#poem89">Castillo de San Cervantes</ref></cell>
+  </row>
+  <row>
+    <cell>90</cell>
+    <cell>1591</cell>
+    <cell><ref target="#poem90">Tendiendo sus blancos paños</ref></cell>
+  </row>
+  <row>
+    <cell>91</cell>
+    <cell>1592</cell>
+    <cell><ref target="#poem91">Ya no más, ceguezuelo hermano</ref></cell>
+  </row>
+  <row>
+    <cell>92</cell>
+    <cell>1592</cell>
+    <cell><ref target="#poem92">Vuela, pensamiento, y diles</ref></cell>
+  </row>
+  <row>
+    <cell>93</cell>
+    <cell>1593</cell>
+    <cell><ref target="#poem93">A don Cristóbal de Mora</ref></cell>
+  </row>
+  <row>
+    <cell>94</cell>
+    <cell>1593</cell>
+    <cell><ref target="#poem94">Un buhonero ha empleado</ref></cell>
+  </row>
+  <row>
+    <cell>95</cell>
+    <cell>1593</cell>
+    <cell><ref target="#poem95">Mandadero es el arquero, y sí que era mandadero</ref></cell>
+  </row>
+  <row>
+    <cell>96</cell>
+    <cell>1593</cell>
+    <cell><ref target="#poem96">A toda ley, madre mía</ref></cell>
+  </row>
+  <row>
+    <cell>97</cell>
+    <cell>1593</cell>
+    <cell><ref target="#poem97">No me bastaba el peligro</ref></cell>
+  </row>
+  <row>
+    <cell>98</cell>
+    <cell>1593</cell>
+    <cell><ref target="#poem98">Murmuraban los rocines</ref></cell>
+  </row>
+  <row>
+    <cell>99</cell>
+    <cell>1594</cell>
+    <cell><ref target="#poem99">A una casa de campo de una dama</ref></cell>
+  </row>
+  <row>
+    <cell>100</cell>
+    <cell>1594</cell>
+    <cell><ref target="#poem100">De un caminante enfermo que se enamoró donde fue hospedado</ref></cell>
+  </row>
+  <row>
+    <cell>101</cell>
+    <cell>1594</cell>
+    <cell><ref target="#poem101">A una enfermedad que tuvo en Salamanca, de que estuvo tres días tenido por muerto</ref></cell>
+  </row>
+  <row>
+    <cell>102</cell>
+    <cell>1594</cell>
+    <cell><ref target="#poem102">Cada uno estornuda como Dios le ayuda</ref></cell>
+  </row>
+  <row>
+    <cell>103</cell>
+    <cell>1594</cell>
+    <cell><ref target="#poem103">En la muerte de doña Luisa de Cardona, monja en Santa Fe de Toledo</ref></cell>
+  </row>
+  <row>
+    <cell>104</cell>
+    <cell>1595</cell>
+    <cell><ref target="#poem104">A una sangría del tobillo de una dama</ref></cell>
+  </row>
+  <row>
+    <cell>105</cell>
+    <cell>1595</cell>
+    <cell><ref target="#poem105">Ya de mi dulce instrumento</ref></cell>
+  </row>
+  <row>
+    <cell>106</cell>
+    <cell>1595</cell>
+    <cell><ref target="#poem106">Sin Leda y sin esperanza</ref></cell>
+  </row>
+  <row>
+    <cell>107</cell>
+    <cell>1596</cell>
+    <cell><ref target="#poem107">Cosas, Celalba mía, he visto extrañas</ref></cell>
+  </row>
+  <row>
+    <cell>108</cell>
+    <cell>1596</cell>
+    <cell><ref target="#poem108">Cuantas al Duero le he negado ausente</ref></cell>
+  </row>
+  <row>
+    <cell>109</cell>
+    <cell>1596</cell>
+    <cell><ref target="#poem109">Despuntado he mil agujas</ref></cell>
+  </row>
+  <row>
+    <cell>110</cell>
+    <cell>1596</cell>
+    <cell><ref target="#poem110">Temo tanto los serenos</ref></cell>
+  </row>
+  <row>
+    <cell>111</cell>
+    <cell>1597</cell>
+    <cell><ref target="#poem111">Quién es aquel caballero</ref></cell>
+  </row>
+  <row>
+    <cell>112</cell>
+    <cell>1598</cell>
+    <cell><ref target="#poem112">Al monte santo de Granada</ref></cell>
+  </row>
+  <row>
+    <cell>113</cell>
+    <cell>1598</cell>
+    <cell><ref target="#poem113">Burlándose de un caballero prevenido para unas fiestas</ref></cell>
+  </row>
+  <row>
+    <cell>114</cell>
+    <cell>1598</cell>
+    <cell><ref target="#poem114">Donde las altas ruedas</ref></cell>
+  </row>
+  <row>
+    <cell>115</cell>
+    <cell>1599</cell>
+    <cell><ref target="#poem115">Las aguas de Carrïón</ref></cell>
+  </row>
+  <row>
+    <cell>116</cell>
+    <cell>1600</cell>
+    <cell><ref target="#poem116">Al nacimiento de Cristo Nuestro Señor</ref></cell>
+  </row>
+  <row>
+    <cell>117</cell>
+    <cell>1600</cell>
+    <cell><ref target="#poem117">Soneto cuatrilingüe, castellano, latino, toscano y portugués</ref></cell>
+  </row>
+  <row>
+    <cell>118</cell>
+    <cell>1600</cell>
+    <cell><ref target="#poem118">De unos papeles que una dama le había escrito, restituyéndoselos en una caja</ref></cell>
+  </row>
+  <row>
+    <cell>119</cell>
+    <cell>1600</cell>
+    <cell><ref target="#poem119">Qué de invidiosos montes levantados</ref></cell>
+  </row>
+  <row>
+    <cell>120</cell>
+    <cell>1600</cell>
+    <cell><ref target="#poem120">Al marqués de Guadalcázar; de las damas de palacio</ref></cell>
+  </row>
+  <row>
+    <cell>121</cell>
+    <cell>1600</cell>
+    <cell><ref target="#poem121">Los dineros del sacristán</ref></cell>
+  </row>
+  <row>
+    <cell>122</cell>
+    <cell>1600</cell>
+    <cell><ref target="#poem122">Allá darás, rayo</ref></cell>
+  </row>
+  <row>
+    <cell>123</cell>
+    <cell>1600</cell>
+    <cell><ref target="#poem123">[A dama moza casada con un viejo]</ref></cell>
+  </row>
+  <row>
+    <cell>124</cell>
+    <cell>1600</cell>
+    <cell><ref target="#poem124">Sobre unas altas rocas</ref></cell>
+  </row>
+  <row>
+    <cell>223</cell>
+    <cell>1610</cell>
+    <cell><ref target="#poem223">Canción de la toma de Larache</ref></cell>
+  </row>
+  <row>
+    <cell>255</cell>
+    <cell>1612</cell>
+    <cell><ref target="#poem255">Fábula de Polifemo y Galatea</ref></cell>
+  </row>
+  <row>
+    <cell>264</cell>
+    <cell>1613</cell>
+    <cell><ref target="#poem264">Soledades</ref></cell>
+  </row>
+  <row>
+    <cell>317</cell>
+    <cell>1618</cell>
+    <cell><ref target="#poem317">Fábula de Píramo y Tisbe</ref></cell>
+  </row>
+</table>
+
+      </div>
+    </front>
     <body>
       <div>
         <head>
@@ -1652,7 +2305,7 @@
         <div type="poem" xml:id="poem33">
           <head>
             <num>33.</num>
-            <lb/>¿Cuál del Ganges marfil, o cuál de Paro
+            <lb/>Cuál del Ganges marfil, o cuál de Paro
           </head>
           <lg>
             <l n="1">¿Cuál del Ganges marfil, o cuál de Paro</l>
@@ -2885,7 +3538,7 @@
         <div type="poem" xml:id="poem58">
           <head>
             <num>58.</num>
-            <lb/>«Ensíllenme el asno rucio
+            <lb/>Ensíllenme el asno rucio
           </head>
           <lg>
             <l n="1">«Ensíllenme el asno rucio</l>
@@ -5122,7 +5775,7 @@
         <div type="poem" xml:id="poem83">
           <head>
             <num>83.</num>
-            <lb/>¡Qué necio que era yo antaño</head>
+            <lb/>Qué necio que era yo antaño</head>
           <lg>
             <l n="1">¡Qué necio que era yo antaño,</l>
             <l n="2">aunque hogaño soy un bobo!</l>
@@ -6151,7 +6804,7 @@
         <div type="poem" xml:id="poem97">
           <head>
             <num>97.</num>
-            <lb/>¿No me bastaba el peligro
+            <lb/>No me bastaba el peligro
           </head>
           <lg>
             <l n="1">¿No me bastaba el peligro</l>
@@ -6847,9 +7500,7 @@
         </head>
         <div type="poem" xml:id="poem107">
           <head>
-            <num>107<note place="bottom">
-              <p>Hubo este año una gran crecida en el Betis.</p>
-            </note>.</num>
+            <num>107<note place="bottom">Hubo este año una gran crecida en el Betis.</note>.</num>
             <lb/>Cosas, Celalba mía, he visto extrañas
           </head>
           <lg>
@@ -7389,7 +8040,7 @@
         <div type="poem" xml:id="poem119">
           <head>
             <num>119.</num>
-            <lb/>¡Qué de invidiosos montes levantados</head>
+            <lb/>Qué de invidiosos montes levantados</head>
           <lg>
             <l n="1">¡Qué de invidiosos montes levantados,</l>
             <l n="2">de nieves impedidos,</l>
@@ -8062,7 +8713,8 @@
           <date>1612</date>
         </head>
         <div type="poem">
-          <head>255
+          <head>
+            <num>255</num>
 <lb/>Fábula de Polifemo y Galatea</head>
           <epigraph>
             <p>Al conde de Niebla</p>
