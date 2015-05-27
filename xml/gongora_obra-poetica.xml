@@ -9,26 +9,35 @@
         <editor>Antonio Carreira</editor>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Jaime Galbarro </name>
-          <resp>stylage</resp>
+          <resp>Stylage</resp>
         </respStmt>
         <respStmt>
           <name>Sara Pezzini </name>
-          <resp>stylage</resp>
+          <resp>Stylage et édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2014</date>
+        <date when="2015"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
         </availability>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>How to cite this ?</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date notBefore="1580" notAfter="1618"/>
+      </creation>
       <langUsage>
         <language ident="es"/>
       </langUsage>
