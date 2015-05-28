@@ -1958,10 +1958,10 @@
         </head>
         <div type="poem" xml:id="poem1" n="1">
           <index>
-            <term type="head"><num>1. </num>Suene la trompa bélica</term>
+            <term type="head"><num>1 </num>Suene la trompa bélica</term>
           </index>
-          <head><num>1</num>.
-          <lb/>De <hi rend="i">Las Lusiadas</hi> de Luis de Camões, que tradujo Luis de Tapia, natural de Sevilla</head>
+          <head><num>1</num>
+          <lb/><lb/>De <hi rend="i">Las Lusiadas</hi> de Luis de Camões, que tradujo Luis de Tapia, natural de Sevilla</head>
           <lg>
             <l n="1">Suene la trompa bélica</l>
             <l n="2">del castellano cálamo,</l>
@@ -5887,7 +5887,7 @@
             <term type="head"><num>67. </num>Tú, cuyo ilustre entre una y otra almena</term>
           </index>
           <head><num>67</num>
-            <lb/>A don Luis de Vargas<note place="bottom">Las casas del secretario Vargas, su padre, sobre los muros de Toledo que miran a la Vega.</note></head>
+            <lb/><lb/>A don Luis de Vargas<note place="bottom">Las casas del secretario Vargas, su padre, sobre los muros de Toledo que miran a la Vega.</note></head>
           <lg>
             <l n="1">Tú, cuyo ilustre (entre una y otra almena</l>
             <l n="2">de la imperial ciudad) patrio edificio</l>
@@ -5976,7 +5976,7 @@
             <term type="head"><num>70. </num>Téngoos, señora Tela, gran mancilla.</term>
           </index>
           <head><num>70</num>
-            <lb/>A la tela de justar de Madrid<note place="bottom">Estaba en Madrid la tela en la vega de Manzanares, junto a la puente Segoviana.</note></head>
+            <lb/><lb/>A la tela de justar de Madrid<note place="bottom">Estaba en Madrid la tela en la vega de Manzanares, junto a la puente Segoviana.</note></head>
           <lg>
             <l n="1">—Téngoos, señora Tela, gran mancilla.</l>
             <l n="2">—Dios la tenga de vos, señor soldado.</l>
@@ -10259,7 +10259,7 @@
             <l n="1">«En tanto que mis vacas,</l>
             <l n="2">sin oíllos, condenan en frutos los madroños</l>
             <l n="3">desta fragosa sierra,</l>
-            <l n="4"><error>5</error>quiero cantar, llorando</l>
+            <l n="4">quiero cantar, llorando</l>
             <l n="5">a sombras desta peña,</l>
             <l n="6">de áspera, invencible,</l>
             <l n="7">segunda Galatea,</l>
@@ -10726,7 +10726,7 @@
             <term type="head"><num>133. </num>De ríos, soy el Duero, acompañado</term>
           </index>
           <head><num>133</num>
-            <lb/>De una quinta del conde de Salinas, ribera de Duero<note place="bottom">Está allí una puente rompida.</note></head>
+            <lb/><lb/>De una quinta del conde de Salinas, ribera de Duero<note place="bottom">Está allí una puente rompida.</note></head>
           <lg>
             <l n="1">De ríos, soy el Duero, acompañado,</l>
             <l n="2">en estas apacibles soledades,</l>
@@ -10755,7 +10755,7 @@
             <term type="head"><num>134. </num>Ayer deidad humana, hoy poca tierra</term>
           </index>
           <head><num>134</num>
-            <lb/>En el sepulcro de la duquesa de Lerma</head>
+            <lb/><lb/>En el sepulcro de la duquesa de Lerma</head>
           <lg>
             <l n="1">¡Ayer deidad humana, hoy poca tierra;</l>
             <l n="2">aras ayer, hoy túmulo, oh mortales!</l>
@@ -10784,7 +10784,7 @@
             <term type="head"><num>135. </num>Lilio siempre real nací en Medina</term>
           </index>
           <head><num>135</num>
-            <lb/>Para lo mismo</head>
+            <lb/><lb/>Para lo mismo</head>
           <lg>
             <l n="1">Lilio siempre real nací en Medina</l>
             <l n="2">del cielo, con razón, pues nací en ella;</l>
@@ -10813,7 +10813,7 @@
             <term type="head"><num>136. </num>Clavar victorïoso y fatigado</term>
           </index>
           <head><num>136</num>
-            <lb/>De los señores reyes don Felipe III y doña Margarita en una montería</head>
+            <lb/><lb/>De los señores reyes don Felipe III y doña Margarita en una montería</head>
           <lg>
             <l n="1">Clavar victorïoso y fatigado</l>
             <l n="2">al español Adonis vio la Aurora,</l>
@@ -10842,7 +10842,7 @@
             <term type="head"><num>137. </num>Hermosas damas, si la pasión ciega</term>
           </index>
           <head><num>137</num>
-            <lb/>A las damas de palacio</head>
+            <lb/><lb/>A las damas de palacio</head>
           <lg>
             <l n="1">Hermosas damas, si la pasión ciega</l>
             <l n="2">no os arma de desdén, no os arma de ira,</l>
@@ -10871,7 +10871,7 @@
             <term type="head"><num>138. </num>Si Amor entre las plumas de su nido</term>
           </index>
           <head><num>138</num>
-            <lb/>A una dama que, habiéndola conocido hermosa niña, la conoció después bellísima mujer</head>
+            <lb/><lb/>A una dama que, habiéndola conocido hermosa niña, la conoció después bellísima mujer</head>
           <lg>
             <l n="1">Si Amor entre las plumas de su nido</l>
             <l n="2">prendió mi libertad, ¿qué hará ahora,</l>
@@ -10900,7 +10900,7 @@
             <term type="head"><num>139. </num>Entrando en Valladolid, donde estaba la corte</term>
           </index>
           <head><num>139</num>
-            <lb/>Entrando en Valladolid, donde estaba la corte</head>
+            <lb/><lb/>Entrando en Valladolid, donde estaba la corte</head>
           <lg>
             <l n="1">Llegué a Valladolid, registré luego</l>
             <l n="2">desde el bonete al clavo de la mula;</l>
@@ -10929,7 +10929,7 @@
             <term type="head"><num>140. </num>Jura Pisuerga, a fe de caballero</term>
           </index>
           <head><num>140</num>
-            <lb/>A los ríos Pisuerga y Esgueva<note place="bottom">Júntase Esgueva con Pisuerga en Valladolid, y antes recibe las inmundicias de la ciudad.</note></head>
+            <lb/><lb/>A los ríos Pisuerga y Esgueva<note place="bottom">Júntase Esgueva con Pisuerga en Valladolid, y antes recibe las inmundicias de la ciudad.</note></head>
           <lg>
             <l n="1">Jura Pisuerga, a fe de caballero,</l>
             <l n="2">que de vergüenza corre, colorado,</l>
@@ -10988,7 +10988,7 @@
             <term type="head"><num>142. </num>Vos sois Valladolid? ¿Vos sois el valle</term>
           </index>
           <head><num>142</num>
-            <lb/>Al mismo intento de la corte estando en Valladolid, ponderando su poca limpieza y la vanidad de las mujeres della</head>
+            <lb/><lb/>Al mismo intento de la corte estando en Valladolid, ponderando su poca limpieza y la vanidad de las mujeres della</head>
           <lg>
             <l n="1">¿Vos sois Valladolid? ¿Vos sois el valle</l>
             <l n="2">de olor? ¡Oh fragrantísima ironía!</l>
@@ -11017,7 +11017,7 @@
             <term type="head"><num>143. </num>Valladolid, de lágrimas sois valle</term>
           </index>
           <head><num>143</num>
-            <lb/>Al mal clima de Valladolid y a su confusión en tiempo de la corte</head>
+            <lb/><lb/>Al mal clima de Valladolid y a su confusión en tiempo de la corte</head>
           <lg>
             <l n="1">Valladolid, de lágrimas sois valle,</l>
             <l n="2">y no quiero deciros quién las llora,</l>
@@ -11046,7 +11046,7 @@
             <term type="head"><num>144. </num>La plaza, un jardín fresco; los tablados</term>
           </index>
           <head><num>144</num>
-            <lb/>De unas fiestas en Valladolid</head>
+            <lb/><lb/>De unas fiestas en Valladolid</head>
           <lg>
             <l n="1">La plaza, un jardín fresco; los tablados</l>
             <l n="2">un encañado de diversas flores;</l>
@@ -11123,7 +11123,7 @@
             <term type="head"><num>146. </num>Abra dorada llave</term>
           </index>
           <head><num>146</num>
-            <lb/>En el dichoso parto de la señora reina doña Margarita</head>
+            <lb/><lb/>En el dichoso parto de la señora reina doña Margarita</head>
           <lg>
             <l n="1">Abra dorada llave</l>
             <l n="2">las puertas de la edad, y el nuevo Jano,</l>
@@ -11803,7 +11803,7 @@
             <term type="head"><num>154. </num>Del león, que en la Silva apenas cabe</term>
           </index>
           <head><num>154</num>
-            <lb/>De don Rodrigo Sarmiento, conde de Salinas</head>
+            <lb/><lb/>De don Rodrigo Sarmiento, conde de Salinas</head>
           <lg>
             <l n="1">Del león, que en la Silva apenas cabe<note place="bottom">Alude al león que traen por armas los Silvas. Casó don Diego de Silva con dos hermanas condesas de Salinas.</note>,</l>
             <l n="2">o ya por fuerte, o ya por generoso,</l>
@@ -11832,7 +11832,7 @@
             <term type="head"><num>155. </num>Montaña inaccesible, opuesta en vano</term>
           </index>
           <head><num>155</num>
-            <lb/>Al puerto de Guadarrama, pasando por él los condes de Lemus</head>
+            <lb/><lb/>Al puerto de Guadarrama, pasando por él los condes de Lemus</head>
           <lg>
             <l n="1">Montaña inaccesible, opuesta en vano</l>
             <l n="2">al atrevido paso de la gente,</l>
@@ -11882,7 +11882,7 @@
             <term type="head"><num>157. </num>De Tisbe y Píramo quiero</term>
           </index>
           <head><num>157</num>
-            <lb/>Fábula de los amores y muertes de Píramo y Tisbe, que no acabó</head>
+            <lb/><lb/>Fábula de los amores y muertes de Píramo y Tisbe, que no acabó</head>
           <lg>
             <l n="1">De Tisbe y Píramo quiero,</l>
             <l n="2">si quisiere mi guitarra,</l>
@@ -11944,7 +11944,7 @@
             <term type="head"><num>158. </num>Pensé, señor, que un rejón</term>
           </index>
           <head><num>158</num>
-            <lb/>Al conde de Salinas, de unas fiestas en que toreó Simón, un enano</head>
+            <lb/><lb/>Al conde de Salinas, de unas fiestas en que toreó Simón, un enano</head>
           <lg>
             <l n="1">Pensé, señor, que un rejón</l>
             <l n="2">era romperlo en un toro,</l>
@@ -11975,7 +11975,7 @@
             <term type="head"><num>159. </num>Qué cantaremos ahora</term>
           </index>
           <head><num>159</num>
-            <lb/>De unas fiestas de Valladolid en que no se hallaron los reyes</head>
+            <lb/><lb/>De unas fiestas de Valladolid en que no se hallaron los reyes</head>
           <lg>
             <l n="1">¿Qué cantaremos ahora,</l>
             <l n="2">señora doña Talía,</l>
@@ -12180,7 +12180,7 @@
             <term type="head"><num>161. </num>Vencidas de los montes Marianos</term>
           </index>
           <head><num>161</num>
-            <lb/>Al marqués de Ayamonte partiendo de su casa para Madrid</head>
+            <lb/><lb/>Al marqués de Ayamonte partiendo de su casa para Madrid</head>
           <lg>
             <l n="1">Vencidas de los montes Marianos</l>
             <l n="2">las altas cumbres, con rigor armadas</l>
@@ -12209,7 +12209,7 @@
             <term type="head"><num>162. </num>Clarísimo marqués, dos veces claro</term>
           </index>
           <head><num>162</num>
-            <lb/>Al marqués de Ayamonte que, pasando por Córdoba, le mostró un retrato de la marquesa</head>
+            <lb/><lb/>Al marqués de Ayamonte que, pasando por Córdoba, le mostró un retrato de la marquesa</head>
           <lg>
             <l n="1">Clarísimo marqués, dos veces claro,</l>
             <l n="2">por vuestra sangre y vuestro entendimiento,</l>
@@ -12238,7 +12238,7 @@
             <term type="head"><num>163. </num>Velero bosque, de árboles poblado</term>
           </index>
           <head><num>163</num>
-            <lb/>A la embarcación en que se entendió pasaran a Nueva España los marqueses de Ayamonte</head>
+            <lb/><lb/>A la embarcación en que se entendió pasaran a Nueva España los marqueses de Ayamonte</head>
           <lg>
             <l n="1">Velero bosque, de árboles poblado</l>
             <l n="2">que visten hojas de inquïeto lino;</l>
@@ -12267,7 +12267,7 @@
             <term type="head"><num>164. </num>Volvió al mar Alcïón, volvió a las redes</term>
           </index>
           <head><num>164</num>
-            <lb/>Al marqués de Ayamonte determinado a no ir a México</head>
+            <lb/><lb/>Al marqués de Ayamonte determinado a no ir a México</head>
           <lg>
             <l n="1">Volvió al mar Alcïón, volvió a las redes</l>
             <l n="2">de cáñamo, excusando las de hierro;</l>
@@ -12296,7 +12296,7 @@
             <term type="head"><num>165. </num>Verde el cabello undoso</term>
           </index>
           <head><num>165</num>
-            <lb/>De los marqueses de Ayamonte cuando se entendió pasaran a Nueva España</head>
+            <lb/><lb/>De los marqueses de Ayamonte cuando se entendió pasaran a Nueva España</head>
           <lg>
             <l n="1">Verde el cabello undoso,</l>
             <l n="2">y de la barba al pie escamas vestido,</l>
@@ -12483,7 +12483,7 @@
             <term type="head"><num>167. </num>Con la estafeta pasada</term>
           </index>
           <head><num>167</num>
-            <lb/>En persona de un caballero ausente, a una dama que amenazaba con su venida al mismo a quien él la había encomendado, sentida de que le hubiese dado aviso de su mala correspondencia</head>
+            <lb/><lb/>En persona de un caballero ausente, a una dama que amenazaba con su venida al mismo a quien él la había encomendado, sentida de que le hubiese dado aviso de su mala correspondencia</head>
           <lg>
             <l n="1">Con la estafeta pasada</l>
             <l n="2">me dio aviso un gentilhombre</l>
@@ -12541,7 +12541,7 @@
             <term type="head"><num>168. </num>Oh tú, cualquiera que entras, peregrino</term>
           </index>
           <head><num>168</num>
-            <lb/>De las pinturas y relicarios de una galería del cardenal don Fernando Niño de Guevara</head>
+            <lb/><lb/>De las pinturas y relicarios de una galería del cardenal don Fernando Niño de Guevara</head>
           <lg>
             <l n="1">Oh tú, cualquiera que entras, peregrino,</l>
             <l n="2">si mudo admiras, admirado para</l>
@@ -12570,7 +12570,7 @@
             <term type="head"><num>169. </num>Alta esperanza, gloria del estado</term>
           </index>
           <head><num>169</num>
-            <lb/>Al marqués de Ayamonte</head>
+            <lb/><lb/>Al marqués de Ayamonte</head>
           <lg>
             <l n="1">Alta esperanza, gloria del estado,</l>
             <l n="2">no solo de Ayamonte mas de España,</l>
@@ -12599,7 +12599,7 @@
             <term type="head"><num>170. </num>Cisnes de Guadïana, a sus riberas</term>
           </index>
           <head><num>170</num>
-            <lb/>Convoca los poetas de Andalucía a que celebren al marqués de Ayamonte</head>
+            <lb/><lb/>Convoca los poetas de Andalucía a que celebren al marqués de Ayamonte</head>
           <lg>
             <l n="1">Cisnes de Guadïana, a sus riberas</l>
             <l n="2">llegué, y a vuestra dulce compañía,</l>
@@ -12628,7 +12628,7 @@
             <term type="head"><num>171. </num>A su hijo del marqués de Ayamonte, que excuse la montería</term>
           </index>
           <head><num>171</num>
-            <lb/>A su hijo del marqués de Ayamonte, que excuse la montería</head>
+            <lb/><lb/>A su hijo del marqués de Ayamonte, que excuse la montería</head>
           <lg>
             <l n="1">Deja el monte, garzón bello, no fíes</l>
             <l n="2">tus años de él, y nuestras esperanzas,</l>
@@ -12657,7 +12657,7 @@
             <term type="head"><num>172. </num>Corona de Ayamonte, honor del día</term>
           </index>
           <head><num>172</num>
-            <lb/>A la marquesa de Ayamonte, dándole unas piedras bezares que a él le había dado un enfermo<note place="bottom">Pasaba de camino por Lepe, donde residía la marquesa.</note></head>
+            <lb/><lb/>A la marquesa de Ayamonte, dándole unas piedras bezares que a él le había dado un enfermo<note place="bottom">Pasaba de camino por Lepe, donde residía la marquesa.</note></head>
           <lg>
             <l n="1">Corona de Ayamonte, honor del día,</l>
             <l n="2">estas piedras que dio un enfermo a un sano</l>
@@ -12686,7 +12686,7 @@
             <term type="head"><num>173. </num>A los campos de Lepe, a las arenas</term>
           </index>
           <head><num>173</num>
-            <lb/>De la marquesa de Ayamonte y su hija, en Lepe</head>
+            <lb/><lb/>De la marquesa de Ayamonte y su hija, en Lepe</head>
           <lg>
             <l n="1">A los campos de Lepe, a las arenas</l>
             <l n="2">del abreviado mar en una ría,</l>
@@ -12715,7 +12715,7 @@
             <term type="head"><num>174. </num>Al sol peinaba Clori sus cabellos</term>
           </index>
           <head><num>174</num>
-            <lb/>A doña Brianda de la Cerda<note place="bottom">Entendióse que el marqués de Ayamonte, padre de doña Brianda, pasara a Nueva España.</note></head>
+            <lb/><lb/>A doña Brianda de la Cerda<note place="bottom">Entendióse que el marqués de Ayamonte, padre de doña Brianda, pasara a Nueva España.</note></head>
           <lg>
             <l n="1">Al sol peinaba Clori sus cabellos</l>
             <l n="2">con peine de marfil, con mano bella;</l>
@@ -12744,7 +12744,7 @@
             <term type="head"><num>175. </num>Esa palma es, niña bella</term>
           </index>
           <head><num>175</num>
-            <lb/>De la profesión de una monja que tenía muchos años</head>
+            <lb/><lb/>De la profesión de una monja que tenía muchos años</head>
           <lg>
             <l n="1">Esa palma es, niña bella,</l>
             <l n="2">para vuestra profesión,</l>
@@ -12775,7 +12775,7 @@
             <term type="head"><num>176. </num>Pintado he visto al Amor</term>
           </index>
           <head><num>176</num>
-            <lb/>De un retrato de la marquesa de Ayamonte</head>
+            <lb/><lb/>De un retrato de la marquesa de Ayamonte</head>
           <lg>
             <l n="1">Pintado he visto al Amor</l>
             <l n="2"> y, aunque lo he visto pintado,</l>
@@ -12830,7 +12830,7 @@
             <term type="head"><num>177. </num>Flechando vi, con rigor</term>
           </index>
           <head><num>177</num>
-            <lb/>De doña Brianda de la Cerda</head>
+            <lb/><lb/>De doña Brianda de la Cerda</head>
           <lg>
             <l n="1">Flechando vi, con rigor,</l>
             <l n="2">a una ninfa soberana</l>
@@ -12885,7 +12885,7 @@
             <term type="head"><num>178. </num>Donde esclarecidamente</term>
           </index>
           <head><num>178</num>
-            <lb/>De la marquesa de Ayamonte y su hija</head>
+            <lb/><lb/>De la marquesa de Ayamonte y su hija</head>
           <lg>
             <l n="1">Donde esclarecidamente</l>
             <l n="2">guarnecen antiguas torres</l>
@@ -12955,7 +12955,7 @@
             <term type="head"><num>179. </num>Sacro pastor de pueblos, que, en florida</term>
           </index>
           <head><num>179</num>
-            <lb/>A don Sancho Dávila, obispo de Jaén<note place="bottom">Trata de las reliquias de un oratorio de don Sancho.</note></head>
+            <lb/><lb/>A don Sancho Dávila, obispo de Jaén<note place="bottom">Trata de las reliquias de un oratorio de don Sancho.</note></head>
           <lg>
             <l n="1">Sacro pastor de pueblos, que, en florida</l>
             <l n="2">edad pastor, gobiernas tu ganado</l>
@@ -13014,7 +13014,7 @@
             <term type="head"><num>181. </num>Gracias os quiero dar sin cumplimiento</term>
           </index>
           <head><num>181</num>
-            <lb/>A un fraile Francisco, en agradecimiento de una caja de jalea</head>
+            <lb/><lb/>A un fraile Francisco, en agradecimiento de una caja de jalea</head>
           <lg>
             <l n="1">Gracias os quiero dar sin cumplimiento,</l>
             <l n="2">dulce fray Diego, por la dulce caja;</l>
@@ -13043,7 +13043,7 @@
             <term type="head"><num>182. </num>De dónde bueno, Juan, con pedorreras</term>
           </index>
           <head><num>182</num>
-            <lb/>De la jornada de Larache</head>
+            <lb/><lb/>De la jornada de Larache</head>
           <lg>
             <l n="1">—¿De dónde bueno, Juan, con pedorreras?</l>
             <l n="2">—Señora tía, de Cagalarache.</l>
@@ -13102,7 +13102,7 @@
             <term type="head"><num>184. </num>Del mar (y no de Huelva)</term>
           </index>
           <head><num>184</num>
-            <lb/>Fragmento de una canción<note place="bottom">Pónese aquí porque donde se hallare continuada esta estancia con otras dos se advierta que esta sola es de don Luis.</note></head>
+            <lb/><lb/>Fragmento de una canción<note place="bottom">Pónese aquí porque donde se hallare continuada esta estancia con otras dos se advierta que esta sola es de don Luis.</note></head>
           <lg>
             <l n="1">Del mar (y no de Huelva)</l>
             <l n="2">los escollos el sol (los muros) raya.</l>
@@ -13117,7 +13117,7 @@
             <term type="head"><num>185. </num>En trescientas santas Claras</term>
           </index>
           <head><num>185</num>
-            <lb/>A dos devotos de monjas que acudían en un mismo tiempo a muchos conventos</head>
+            <lb/><lb/>A dos devotos de monjas que acudían en un mismo tiempo a muchos conventos</head>
           <lg>
             <l n="1">En trescientas santas Claras</l>
             <l n="2">estáis, señores, penados;</l>
@@ -13136,7 +13136,7 @@
             <term type="head"><num>186. </num>Truena el cielo, y al momento</term>
           </index>
           <head><num>186</num>
-            <lb/>A un hombre que temía tanto los truenos, que se sospechó de él lo que refiere esta décima</head>
+            <lb/><lb/>A un hombre que temía tanto los truenos, que se sospechó de él lo que refiere esta décima</head>
           <lg>
             <l n="1">Truena el cielo, y al momento</l>
             <l n="2">la dueña enciende, devota,</l>
@@ -13155,7 +13155,7 @@
             <term type="head"><num>187. </num>Con mucha llaneza trata</term>
           </index>
           <head><num>187</num>
-            <lb/>A una monja, enviándole un menudo y un cuarto de ternera</head>
+            <lb/><lb/>A una monja, enviándole un menudo y un cuarto de ternera</head>
           <lg>
             <l n="1">Con mucha llaneza trata</l>
             <l n="2">quien, debiéndolo en escudos,</l>
@@ -13174,7 +13174,7 @@
             <term type="head"><num>188. </num>El lienzo que me habéis dado</term>
           </index>
           <head><num>188</num>
-            <lb/>A una monja que le había enviado una pieza de holanda</head>
+            <lb/><lb/>A una monja que le había enviado una pieza de holanda</head>
           <lg>
             <l n="1">El lienzo que me habéis dado</l>
             <l n="2">por dos cosas me importuna,</l>
@@ -13193,7 +13193,7 @@
             <term type="head"><num>189. </num>Presentado es el menudo</term>
           </index>
           <head><num>189</num>
-            <lb/>A la misma enviándole un menudo</head>
+            <lb/><lb/>A la misma enviándole un menudo</head>
           <lg>
             <l n="1">Presentado es el menudo</l>
             <l n="2">y de que sabrá mejor</l>
@@ -13212,7 +13212,7 @@
             <term type="head"><num>190. </num>Marco de plata excelente</term>
           </index>
           <head><num>190</num>
-            <lb/>A Marcos de Torres, que tenía un lavadero de lana donde solían ir a jugar</head>
+            <lb/><lb/>A Marcos de Torres, que tenía un lavadero de lana donde solían ir a jugar</head>
           <lg>
             <l n="1">Marco de plata excelente</l>
             <l n="2">y torre segura y alta,</l>
@@ -13231,7 +13231,7 @@
             <term type="head"><num>191. </num>Pastor que en la vega llana</term>
           </index>
           <head><num>191</num>
-            <lb/>A Marcos de Torres, detiniéndole un paje músico que le había enviado con un recado desde un lavadero de lana adonde estaba</head>
+            <lb/><lb/>A Marcos de Torres, detiniéndole un paje músico que le había enviado con un recado desde un lavadero de lana adonde estaba</head>
           <lg>
             <l n="1">Pastor que en la vega llana</l>
             <l n="2">del Betis derramas quejas,</l>
@@ -13296,7 +13296,7 @@
             <term type="head"><num>193. </num>Este, a Pomona cuando ya no sea</term>
           </index>
           <head><num>193</num>
-            <lb/>De una quinta que hizo el mismo obispo [de Pamplona, don Antonio Venegas], en Burlada, lugar de su dignidad</head>
+            <lb/><lb/>De una quinta que hizo el mismo obispo [de Pamplona, don Antonio Venegas], en Burlada, lugar de su dignidad</head>
           <lg>
             <l n="1">Este, a Pomona cuando ya no sea,</l>
             <l n="2">edificio al silencio dedicado</l>
@@ -13325,7 +13325,7 @@
             <term type="head"><num>194. </num>Llegué a este Monte fuerte, coronado</term>
           </index>
           <head><num>194</num>
-            <lb/>Al conde de Lemus, vendolo a visitar a Monforte</head>
+            <lb/><lb/>Al conde de Lemus, vendolo a visitar a Monforte</head>
           <lg>
             <l n="1">Llegué a este Monte fuerte, coronado</l>
             <l n="2">de torres convecinas a los cielos,</l>
@@ -13354,7 +13354,7 @@
             <term type="head"><num>195. </num>Oh marinero, tú que, cortesano</term>
           </index>
           <head><num>195</num>
-            <lb/>Al duque de Feria, de la señora doña Catalina de Acuña</head>
+            <lb/><lb/>Al duque de Feria, de la señora doña Catalina de Acuña</head>
           <lg>
             <l n="1">Oh marinero, tú que, cortesano,</l>
             <l n="2">al palacio le fías tus entenas,</l>
@@ -13443,7 +13443,7 @@
             <term type="head"><num>198. </num>Señora doña puente Segoviana</term>
           </index>
           <head><num>198</num>
-            <lb/>A la puente segoviana, que está sobre el río Manzanares en Madrid</head>
+            <lb/><lb/>A la puente segoviana, que está sobre el río Manzanares en Madrid</head>
           <lg>
             <l n="1">Señora doña puente Segoviana,</l>
             <l n="2">cuyos ojos están llorando arena,</l>
@@ -13534,7 +13534,7 @@
             <term type="head"><num>201. </num>Música le pidió ayer su albedrío</term>
           </index>
           <head><num>201</num>
-            <lb/>De un caballero que llamó soneto a un romance</head>
+            <lb/><lb/>De un caballero que llamó soneto a un romance</head>
           <lg>
             <l n="1">Música le pidió ayer su albedrío</l>
             <l n="2">a un descendiente de don Peranzules;</l>
@@ -13840,7 +13840,7 @@
             <term type="head"><num>204. </num>Serrana que en el alcor</term>
           </index>
           <head><num>204</num>
-            <lb/>A nuestra señora de Villaviciosa, por la salud de don fray Diego de Mardones, obispo de Córdoba</head>
+            <lb/><lb/>A nuestra señora de Villaviciosa, por la salud de don fray Diego de Mardones, obispo de Córdoba</head>
           <lg>
             <l rend="refrain" n="1">Serrana que en el alcor</l>
             <l rend="refrain" n="2">de un pastor fuistes servida,</l>
@@ -13885,7 +13885,7 @@
             <term type="head"><num>205. </num>Virgen: a quien hoy fïel</term>
           </index>
           <head><num>205</num>
-            <lb/>En la misma ocasión</head>
+            <lb/><lb/>En la misma ocasión</head>
           <lg>
             <l rend="refrain" n="1">Virgen: a quien hoy fïel</l>
             <l rend="refrain" n="2">tantas arras sabe dar</l>
@@ -13922,7 +13922,7 @@
             <term type="head"><num>206. </num>[Juana] Mañana sa Corpus Christa</term>
           </index>
           <head><num>206</num>
-            <lb/>En la fiesta del santísimo sacramento</head>
+            <lb/><lb/>En la fiesta del santísimo sacramento</head>
           <lg>
             <l rend="refrain" n="1">[Juana] Mañana sa Corpus Christa,</l>
             <l rend="refrain" n="2">mana Crara;</l>
@@ -13975,7 +13975,7 @@
             <term type="head"><num>207. </num>[Gil] ¿A qué nos convidas, Bras</term>
           </index>
           <head><num>207</num>
-            <lb/>A LO MISMO</head>
+            <lb/><lb/>A LO MISMO</head>
           <lg>
             <l rend="refrain" n="1">[Gil] ¿A qué nos convidas, Bras?</l>
             <l rend="refrain" n="2">[Bras] A un Cordero que costó</l>
@@ -14022,7 +14022,7 @@
             <term type="head"><num>208. </num>El pan que veis, soberano</term>
           </index>
           <head><num>208</num>
-            <lb/>A LO MISMO</head>
+            <lb/><lb/>A LO MISMO</head>
           <lg>
             <l rend="refrain" n="1">El pan que veis, soberano,</l>
             <l rend="refrain" n="2">un solo es grano,</l>
@@ -14072,7 +14072,7 @@
             <term type="head"><num>209. </num>A la dina dana dina, la dina dana</term>
           </index>
           <head><num>209</num>
-            <lb/>A LO MISMO</head>
+            <lb/><lb/>A LO MISMO</head>
           <lg>
             <l rend="refrain" n="1">A la dina dana dina, la dina dana,</l>
             <l rend="refrain" n="2">vuelta zoberana.</l>
@@ -14113,7 +14113,7 @@
             <term type="head"><num>210. </num>[1.]  ¿Qué comes, hombre? [2.] ¿Qué como?</term>
           </index>
           <head><num>210</num>
-            <lb/>A lo mismo</head>
+            <lb/><lb/>A lo mismo</head>
           <lg>
             <l rend="refrain" n="1">[1.]  ¿Qué comes, hombre? [2.] ¿Qué como?</l>
             <l rend="refrain" n="2">Pan de ángeles. [1.] ¿De quién?</l>
@@ -14154,7 +14154,7 @@
             <term type="head"><num>211. </num>Oveja perdida, ven</term>
           </index>
           <head><num>211</num>
-            <lb/>A lo mismo</head>
+            <lb/><lb/>A lo mismo</head>
           <lg>
             <l rend="refrain" n="1">Oveja perdida, ven</l>
             <l rend="refrain" n="2">sobre mis hombros, que hoy</l>
@@ -14191,7 +14191,7 @@
             <term type="head"><num>212. </num>Alma niña, ¿quieres, di</term>
           </index>
           <head><num>212</num>
-            <lb/>A lo mismo</head>
+            <lb/><lb/>A lo mismo</head>
           <lg>
             <l rend="refrain" n="1">[1.] Alma niña, ¿quieres, di,</l>
             <l rend="refrain" n="2">parte de aquel, y no poca,</l>
@@ -14546,7 +14546,7 @@
             <term type="head"><num>217. </num>Ardiendo en aguas muertas llamas vivas</term>
           </index>
           <head><num>217</num>
-            <lb/>A san Ignacio de Loyola, que metido en una laguna fría revocó a un hombre que iba a pecar</head>
+            <lb/><lb/>A san Ignacio de Loyola, que metido en una laguna fría revocó a un hombre que iba a pecar</head>
           <label>Verso ajeno</label>
           <l n="1">Ardiendo en aguas muertas llamas vivas.</l>
           <label>Glosa</label>
@@ -14578,7 +14578,7 @@
             <term type="head"><num>218. </num>El cuarto Enrico yace mal herido</term>
           </index>
           <head><num>218</num>
-            <lb/>En la muerte de Enrique IV, rey de Francia</head>
+            <lb/><lb/>En la muerte de Enrique IV, rey de Francia</head>
           <lg>
             <l n="1">El cuarto Enrico yace mal herido</l>
             <l n="2">y peor muerto de plebeya mano;</l>
@@ -14607,7 +14607,7 @@
             <term type="head"><num>219. </num>Pálida restituye a su elemento</term>
           </index>
           <head><num>219</num>
-            <lb/>En la muerte de doña Guiomar de Sá, mujer de Juan Fernández de Espinosa</head>
+            <lb/><lb/>En la muerte de doña Guiomar de Sá, mujer de Juan Fernández de Espinosa</head>
           <lg>
             <l n="1">Pálida restituye a su elemento</l>
             <l n="2">su ya esplendor purpúreo casta rosa,</l>
@@ -14636,7 +14636,7 @@
             <term type="head"><num>220. </num>Nilo no sufre márgenes, ni muros</term>
           </index>
           <head><num>220</num>
-            <lb/>De Madrid</head>
+            <lb/><lb/>De Madrid</head>
           <lg>
             <l n="1">Nilo no sufre márgenes, ni muros</l>
             <l n="2">Madrid, oh peregrino, tú que pasas,</l>
@@ -14665,7 +14665,7 @@
             <term type="head"><num>221. </num>Señores corteggiantes, ¿quién sus días</term>
           </index>
           <head><num>221</num>
-            <lb/>A lo poco que hay que fiar de los favores de los cortesanos</head>
+            <lb/><lb/>A lo poco que hay que fiar de los favores de los cortesanos</head>
           <lg>
             <l n="1">Señores corteggiantes, ¿quién sus días</l>
             <l n="2">de cudicioso gasta o lisonjero</l>
@@ -14694,7 +14694,7 @@
             <term type="head"><num>222. </num>La fuerza que infestando las ajenas</term>
           </index>
           <head><num>222</num>
-            <lb/>De la toma de Larache</head>
+            <lb/><lb/>De la toma de Larache</head>
           <lg>
             <l n="1">La fuerza que infestando las ajenas</l>
             <l n="2">argentó luna de menguante plata,</l>
@@ -14831,7 +14831,7 @@
             <term type="head"><num>224. </num>Larache, aquel africano</term>
           </index>
           <head><num>224</num>
-            <lb/>De la toma de Larache</head>
+            <lb/><lb/>De la toma de Larache</head>
           <lg>
             <l n="1">Larache, aquel africano</l>
             <l n="2">fuerte, ya que no galán,</l>
@@ -14862,7 +14862,7 @@
             <term type="head"><num>225. </num>Esta bayeta forrada</term>
           </index>
           <head><num>225</num>
-            <lb/>En persona de don Gómez de Figueroa, en la máscara que se hizo en Córdoba cuando vino nueva de la toma de Larache</head>
+            <lb/><lb/>En persona de don Gómez de Figueroa, en la máscara que se hizo en Córdoba cuando vino nueva de la toma de Larache</head>
           <lg>
             <l n="1">Esta bayeta forrada</l>
             <l n="2">en plata, señora mía,</l>
@@ -14881,7 +14881,7 @@
             <term type="head"><num>226. </num>Recibid ambas a dos</term>
           </index>
           <head><num>226</num>
-            <lb/>A dos monjas, enviándoles una cesta de ciruelas cubierta de unas hojas de laurel</head>
+            <lb/><lb/>A dos monjas, enviándoles una cesta de ciruelas cubierta de unas hojas de laurel</head>
           <lg>
             <l n="1">Recibid ambas a dos</l>
             <l n="2">la cesta que para mí</l>
@@ -14900,7 +14900,7 @@
             <term type="head"><num>227. </num>Dos conejos, prima mía</term>
           </index>
           <head><num>227</num>
-            <lb/>Enviando dos conejos a una monja parienta suya</head>
+            <lb/><lb/>Enviando dos conejos a una monja parienta suya</head>
           <lg>
             <l n="1">Dos conejos, prima mía,</l>
             <l n="2">envío a vuesa merced,</l>
@@ -14919,7 +14919,7 @@
             <term type="head"><num>228. </num>Sin duda os valdrá opinión</term>
           </index>
           <head><num>228</num>
-            <lb/>A don Martín de Saavedra, viniendo a Madrid con cuartanas</head>
+            <lb/><lb/>A don Martín de Saavedra, viniendo a Madrid con cuartanas</head>
           <lg>
             <l n="1">Sin duda os valdrá opinión,</l>
             <l n="2">en palacio y en la villa,</l>
@@ -15073,7 +15073,7 @@
             <l n="116">pues granjeó galán yerno</l>
             <l n="117">cuando perdió bella hija:</l>
             <l n="118">el rubí de una sortija</l>
-            <l n="119"><error>120</error>se lo podrá asegurar,</l>
+            <l n="119">se lo podrá asegurar,</l>
             <l rend="refrain" n="120">que una abeja le lleva la flor</l>
             <l rend="refrain" n="121">a otro mejor colmenar;</l>
             <l rend="refrain" n="122">picar, picar,</l>
@@ -15085,7 +15085,7 @@
             <term type="head"><num>230. </num>Aunque entiendo poco griego</term>
           </index>
           <head><num>230</num>
-            <lb/>[FÁBULA DE HERO Y LEANDRO]</head>
+            <lb/><lb/>[FÁBULA DE HERO Y LEANDRO]</head>
           <lg>
             <l n="1">Aunque entiendo poco griego,</l>
             <l n="2">en mis greguescos he hallado</l>
@@ -15397,7 +15397,7 @@
             <term type="head"><num>232. </num>Consagróse el seráfico Mendoza</term>
           </index>
           <head><num>232</num>
-            <lb/>A don fray Pedro González de Mendoza y Silva, electo arzobispo de Granada muy mozo</head>
+            <lb/><lb/>A don fray Pedro González de Mendoza y Silva, electo arzobispo de Granada muy mozo</head>
           <lg>
             <l n="1">Consagróse el seráfico Mendoza,</l>
             <l n="2">gran dueño mío, y con invidia deja</l>
@@ -15426,7 +15426,7 @@
             <term type="head"><num>233. </num>Este, que Babia al mundo hoy ha ofrecido</term>
           </index>
           <head><num>233</num>
-            <lb/>Para la 4° parte de la <hi rend="i">Pontifical</hi> del doctor Babia</head>
+            <lb/><lb/>Para la 4° parte de la <hi rend="i">Pontifical</hi> del doctor Babia</head>
           <lg>
             <l n="1">Este, que Babia al mundo hoy ha ofrecido,</l>
             <l n="2">poema, si no a números atado,</l>
@@ -15455,7 +15455,7 @@
             <term type="head"><num>234. </num>El conde mi señor se fue a Napóles</term>
           </index>
           <head><num>234</num>
-            <lb/>En la partida del conde de Lemos y del duque de Feria a Nápoles y a Francia</head>
+            <lb/><lb/>En la partida del conde de Lemos y del duque de Feria a Nápoles y a Francia</head>
           <lg>
             <l n="1">El conde mi señor se fue a Napóles;</l>
             <l n="2">el duque mi señor se fue a Francia:</l>
@@ -15484,7 +15484,7 @@
             <term type="head"><num>235. </num>Si ya el griego orador la edad presente</term>
           </index>
           <head><num>235</num>
-            <lb/>Al padre Francisco de Castro, de su libro de <hi rend="i">Retórica</hi></head>
+            <lb/><lb/>Al padre Francisco de Castro, de su libro de <hi rend="i">Retórica</hi></head>
           <lg>
             <l n="1">Si ya el griego orador la edad presente,</l>
             <l n="2">o el de Arpinas dulcísimo abogado,</l>
@@ -15513,7 +15513,7 @@
             <term type="head"><num>236. </num>A la que España toda humilde estrado</term>
           </index>
           <head><num>236</num>
-            <lb/>Del túmulo que hizo Córdoba en las honras de la señora reina doña Margarita</head>
+            <lb/><lb/>Del túmulo que hizo Córdoba en las honras de la señora reina doña Margarita</head>
           <lg>
             <l n="1">A la que España toda humilde estrado</l>
             <l n="2">y su horizonte fue dosel apenas,</l>
@@ -15542,7 +15542,7 @@
             <term type="head"><num>237. </num>No de fino diamante, o rubí ardiente</term>
           </index>
           <head><num>237</num>
-            <lb/>En la misma ocasión</head>
+            <lb/><lb/>En la misma ocasión</head>
           <lg>
             <l n="1">No de fino diamante, o rubí ardiente,</l>
             <l n="2">luces brillando aquel, este centellas,</l>
@@ -15571,7 +15571,7 @@
             <term type="head"><num>238. </num>Máquina funeral, que desta vida</term>
           </index>
           <head><num>238</num>
-            <lb/>En la misma ocasión</head>
+            <lb/><lb/>En la misma ocasión</head>
           <lg>
             <l n="1">Máquina funeral, que desta vida</l>
             <l n="2">nos decís la mudanza estando queda,</l>
@@ -15600,7 +15600,7 @@
             <term type="head"><num>239. </num>Ícaro de bayeta, si de pino</term>
           </index>
           <head><num>239</num>
-            <lb/>Al túmulo de Écija, en las honras de la señora reina doña Margarita</head>
+            <lb/><lb/>Al túmulo de Écija, en las honras de la señora reina doña Margarita</head>
           <lg>
             <l n="1">Ícaro de bayeta, si de pino</l>
             <l n="2">cíclope no, tamaño como el rollo,</l>
@@ -15629,7 +15629,7 @@
             <term type="head"><num>240. </num>Oh bien haya Jaén, que en lienzo prieto</term>
           </index>
           <head><num>240</num>
-            <lb/>A los túmulos que hicieron las ciudades de Jaén, Écija y Baeza en las honras de la reina doña Margarita de Austria</head>
+            <lb/><lb/>A los túmulos que hicieron las ciudades de Jaén, Écija y Baeza en las honras de la reina doña Margarita de Austria</head>
           <lg>
             <l n="1">Oh bien haya Jaén, que en lienzo prieto</l>
             <l n="2">de luces mil de sebo salpicado</l>
@@ -15658,7 +15658,7 @@
             <term type="head"><num>241. </num>En esta, que admiráis, de piedras graves</term>
           </index>
           <head><num>241</num>
-            <lb/>Octava fúnebre en el sepulcro de la señora reina doña Margarita</head>
+            <lb/><lb/>Octava fúnebre en el sepulcro de la señora reina doña Margarita</head>
           <lg>
             <l n="1">En esta, que admiráis, de piedras graves</l>
             <l n="2">labor no egipcia, aunque a la llama imita,</l>
@@ -15675,7 +15675,7 @@
             <term type="head"><num>242. </num>La perla que esplendor fue</term>
           </index>
           <head><num>242</num>
-            <lb/>Inscripción para el sepulcro de la señora reina doña Margarita</head>
+            <lb/><lb/>Inscripción para el sepulcro de la señora reina doña Margarita</head>
           <lg>
             <l n="1">La perla que esplendor fue</l>
             <l n="2">de España y de su corona</l>
@@ -15694,7 +15694,7 @@
             <term type="head"><num>243. </num>Ociosa toda virtud</term>
           </index>
           <head><num>243</num>
-            <lb/>En la misma ocasión</head>
+            <lb/><lb/>En la misma ocasión</head>
           <lg>
             <l n="1">Ociosa toda virtud,</l>
             <l n="2">muerto su ejercicio, llora</l>
@@ -15713,7 +15713,7 @@
             <term type="head"><num>244. </num>Por más daños que presumas</term>
           </index>
           <head><num>244</num>
-            <lb/>A don Diego Páez de Castillejo, animándolo a que hiciese versos</head>
+            <lb/><lb/>A don Diego Páez de Castillejo, animándolo a que hiciese versos</head>
           <lg>
             <l n="1">Por más daños que presumas,</l>
             <l n="2">vuela, Ícaro español,</l>
@@ -15732,7 +15732,7 @@
             <term type="head"><num>245. </num>No me pidáis más, hermanas</term>
           </index>
           <head><num>245</num>
-            <lb/>A otra monja que le había pedido unas castañas y batatas</head>
+            <lb/><lb/>A otra monja que le había pedido unas castañas y batatas</head>
           <lg>
             <l n="1">No me pidáis más, hermanas,</l>
             <l n="2">castañas con este frío,</l>
@@ -15751,7 +15751,7 @@
             <term type="head"><num>246. </num>La que ya fue de las aves</term>
           </index>
           <head><num>246</num>
-            <lb/>A la señora doña Catalina de la Cerda, que, habiendo soltado un pajarillo, se le volvió a las manos</head>
+            <lb/><lb/>A la señora doña Catalina de la Cerda, que, habiendo soltado un pajarillo, se le volvió a las manos</head>
           <lg>
             <l n="1">La que ya fue de las aves</l>
             <l n="2">más curiosa y menos cuerda,</l>
@@ -15794,7 +15794,7 @@
             <term type="head"><num>247. </num>Murió Frontalete, y hallo</term>
           </index>
           <head><num>247</num>
-            <lb/>A don Pedro de Cárdenas, de un caballo que le mató un toro</head>
+            <lb/><lb/>A don Pedro de Cárdenas, de un caballo que le mató un toro</head>
           <lg>
             <l n="1">Murió Frontalete, y hallo</l>
             <l n="2">que el cuerno menos violento</l>
@@ -15813,7 +15813,7 @@
             <term type="head"><num>248. </num>Tenemos un doctorando</term>
           </index>
           <head><num>248</num>
-            <lb/>Vejamen que se dio en Granada a un sobrino del administrador del hospital real, que es la casa de los locos</head>
+            <lb/><lb/>Vejamen que se dio en Granada a un sobrino del administrador del hospital real, que es la casa de los locos</head>
           <lg>
             <l n="1">Tenemos un doctorando,</l>
             <l n="2">discretos y generosos</l>
@@ -16045,7 +16045,7 @@
             <term type="head"><num>250. </num>Urnas plebeyas, túmulos reales</term>
           </index>
           <head><num>250</num>
-            <lb/>A la memoria de la muerte y del infierno</head>
+            <lb/><lb/>A la memoria de la muerte y del infierno</head>
           <lg>
             <l n="1">Urnas plebeyas, túmulos reales,</l>
             <l n="2">penetrad sin temor, memorias mías,</l>
@@ -16074,7 +16074,7 @@
             <term type="head"><num>251. </num>Oh de alto valor, de virtud rara</term>
           </index>
           <head><num>251</num>
-            <lb/>A don antonio Venegas, obispo de Pamplona<note place="bottom">Celebró Córdoba la elección del obispo con fiestas de toros y cañas.</note></head>
+            <lb/><lb/>A don antonio Venegas, obispo de Pamplona<note place="bottom">Celebró Córdoba la elección del obispo con fiestas de toros y cañas.</note></head>
           <lg>
             <l n="1">¡Oh de alto valor, de virtud rara</l>
             <l n="2">sacro esplendor, en toda edad luciente,</l>
@@ -16103,7 +16103,7 @@
             <term type="head"><num>252. </num>Este, que en traje lo admiráis togado</term>
           </index>
           <head><num>252</num>
-            <lb/>Para un retrato de don Juan de Acuña, presidente de Castilla, hijo del conde de Buendía</head>
+            <lb/><lb/>Para un retrato de don Juan de Acuña, presidente de Castilla, hijo del conde de Buendía</head>
           <lg>
             <l n="1">Este, que en traje lo admiráis togado,</l>
             <l n="2">claro, no a luces hoy de lisonjero</l>
@@ -16132,7 +16132,7 @@
             <term type="head"><num>253. </num>Poco después que su cristal dilata</term>
           </index>
           <head><num>253</num>
-            <lb/>Para un libro del licenciado Soto de Rojas</head>
+            <lb/><lb/>Para un libro del licenciado Soto de Rojas</head>
           <lg>
             <l n="1">Poco después que su cristal dilata,</l>
             <l n="2">orla el Dauro los márgenes de un Soto,</l>
@@ -16161,7 +16161,7 @@
             <term type="head"><num>254. </num>Despidióse el francés con grasa buena</term>
           </index>
           <head><num>254</num>
-            <lb/>Volviéndose a Francia el duque de Humena</head>
+            <lb/><lb/>Volviéndose a Francia el duque de Humena</head>
           <lg>
             <l n="1">Despidióse el francés con grasa buena</l>
             <l n="2">(con buena gracia digo, señor Momo),</l>
@@ -16187,7 +16187,7 @@
         </div>
         <div type="poem" xml:id="poem255" n="255">
           <head><num>255</num>
-            <lb/>Fábula de Polifemo y Galatea</head>
+            <lb/><lb/>Fábula de Polifemo y Galatea</head>
           <epigraph>
             <p>Al conde de Niebla</p>
           </epigraph>
@@ -16827,7 +16827,7 @@
             <term type="head"><num>256. </num>Por este culto bien nacido prado</term>
           </index>
           <head><num>256</num>
-            <lb/>A los poetas que asistían en Ayamonte<anchor xml:id="footnote5"/><note place="bottom">Todo lo que en esta silva trata de las flores de las maravillas es alusivo y alegórico al título o materia del libro de Torres de Prado [nota de Chacón probablemente errónea].</note></head>
+            <lb/><lb/>A los poetas que asistían en Ayamonte<anchor xml:id="footnote5"/><note place="bottom">Todo lo que en esta silva trata de las flores de las maravillas es alusivo y alegórico al título o materia del libro de Torres de Prado [nota de Chacón probablemente errónea].</note></head>
           <lg>
             <l n="1">Por este culto bien nacido prado,</l>
             <l n="2">que torres lo coronan eminentes,</l>
@@ -16898,7 +16898,7 @@
             <term type="head"><num>257. </num>Cuán venerables que son</term>
           </index>
           <head><num>257</num>
-            <lb/>Diálogo entre Coridón y otro</head>
+            <lb/><lb/>Diálogo entre Coridón y otro</head>
           <lg>
             <l n="1">[1.] ¡Cuán venerables que son,</l>
             <l n="2">cuán digno de reverencia,</l>
@@ -16965,7 +16965,7 @@
             <term type="head"><num>258. </num>No vengo a pedir silencio</term>
           </index>
           <head><num>258</num>
-            <lb/>Loa que recitó un sobrino de don fray Diego de Mardones, obispo de Córdoba, en una comedia que le representaron él y otros caballeros estudiantes</head>
+            <lb/><lb/>Loa que recitó un sobrino de don fray Diego de Mardones, obispo de Córdoba, en una comedia que le representaron él y otros caballeros estudiantes</head>
           <lg>
             <l n="1">No vengo a pedir silencio,</l>
             <l n="2">que la cómica española</l>
@@ -17087,7 +17087,7 @@
             <term type="head"><num>259. </num>Ceñida, si asombrada no, la frente</term>
           </index>
           <head><num>259</num>
-            <lb/>A don Antonio de las Infantas, en la muerte de una señora con quien estaba concertado de casar en Segura de la Sierra</head>
+            <lb/><lb/>A don Antonio de las Infantas, en la muerte de una señora con quien estaba concertado de casar en Segura de la Sierra</head>
           <lg>
             <l n="1">Ceñida, si asombrada no, la frente</l>
             <l n="2">de una y de otra verde rama obscura,</l>
@@ -17116,7 +17116,7 @@
             <term type="head"><num>260. </num>En hábito de ladrón</term>
           </index>
           <head><num>260</num>
-            <lb/>A un letrado llamado por mal nombre el licenciado Mojón, habiéndole hurtado una ropa de damasco</head>
+            <lb/><lb/>A un letrado llamado por mal nombre el licenciado Mojón, habiéndole hurtado una ropa de damasco</head>
           <lg>
             <l n="1">En hábito de ladrón</l>
             <l n="2">jüez de términos fue,</l>
@@ -17168,7 +17168,7 @@
             <term type="head"><num>262. </num>En vez de acero bruñido</term>
           </index>
           <head><num>262</num>
-            <lb/>De unas empanadas de un jabalí que mató el marqués del Carpio</head>
+            <lb/><lb/>De unas empanadas de un jabalí que mató el marqués del Carpio</head>
           <lg>
             <l n="1">En vez de acero bruñido,</l>
             <l n="2">que da horror, aunque da luz,</l>
@@ -17187,7 +17187,7 @@
             <term type="head"><num>263. </num>Cuántos silbos, cuántas voces</term>
           </index>
           <head><num>263</num>
-            <lb/>Lisonjea a doña Elvira de Córdoba, hija del señor de Zuheros</head>
+            <lb/><lb/>Lisonjea a doña Elvira de Córdoba, hija del señor de Zuheros</head>
           <lg>
             <l n="1">¡Cuántos silbos, cuántas voces</l>
             <l n="2">la nava oyó, de Zuheros,</l>
@@ -19492,7 +19492,7 @@
             <term type="head"><num>265. </num>Virgen pura, si el sol, luna y estrellas?</term>
           </index>
           <head><num>265</num>
-            <lb/>A la purísima concepción de Nuestra Señora</head>
+            <lb/><lb/>A la purísima concepción de Nuestra Señora</head>
           <label>Verso ajeno</label>
           <l n="1">Virgen pura, si el sol, luna y estrellas?</l>
           <label>Glosa</label>
@@ -19524,7 +19524,7 @@
             <term type="head"><num>266. </num>Vive en este volumen el, que yace</term>
           </index>
           <head><num>266</num>
-            <lb/>Para el principio de la historia del señor rey don Filipe II, de Luis de Cabrera<note place="bottom">Hizo este soneto y el que se sigue a instancia de un amigo suyo, sin haber visto a Cabrera ni haber leído sus escritos.</note></head>
+            <lb/><lb/>Para el principio de la historia del señor rey don Filipe II, de Luis de Cabrera<note place="bottom">Hizo este soneto y el que se sigue a instancia de un amigo suyo, sin haber visto a Cabrera ni haber leído sus escritos.</note></head>
           <lg>
             <l n="1">Vive en este volumen el, que yace</l>
             <l n="2">en aquel mármol, rey siempre glorioso;</l>
@@ -19553,7 +19553,7 @@
             <term type="head"><num>267. </num>Segundas plumas son, oh lector, cuantas</term>
           </index>
           <head><num>267</num>
-            <lb/>Para lo mismo</head>
+            <lb/><lb/>Para lo mismo</head>
           <lg>
             <l n="1">Segundas plumas son, oh lector, cuantas</l>
             <l n="2">letras contiene este volumen grave;</l>
@@ -19582,7 +19582,7 @@
             <term type="head"><num>268. </num>Salí, señor don Pedro, esta mañana</term>
           </index>
           <head><num>268</num>
-            <lb/>A don Pedro de Cárdenas en un encierro de toros</head>
+            <lb/><lb/>A don Pedro de Cárdenas en un encierro de toros</head>
           <lg>
             <l n="1">Salí, señor don Pedro, esta mañana</l>
             <l n="2">a ver un toro que en un Nacimiento</l>
@@ -19611,7 +19611,7 @@
             <term type="head"><num>269. </num>Esta en forma elegante, oh peregrino</term>
           </index>
           <head><num>269</num>
-            <lb/>Inscripción para el sepulcro de Domínico Greco</head>
+            <lb/><lb/>Inscripción para el sepulcro de Domínico Greco</head>
           <lg>
             <l n="1">Esta en forma elegante, oh peregrino,</l>
             <l n="2">de pórfido luciente dura llave,</l>
@@ -19640,7 +19640,7 @@
             <term type="head"><num>270. </num>A la Mamora, militares cruces</term>
           </index>
           <head><num>270</num>
-            <lb/>A la bajada de muchos señores de la corte al socorro de la Mamora, que estaba cercada</head>
+            <lb/><lb/>A la bajada de muchos señores de la corte al socorro de la Mamora, que estaba cercada</head>
           <lg>
             <l n="1">—¡A la Mamora, militares cruces!</l>
             <l n="2">¡Galanes de la corte, a la Mamora!</l>
