@@ -49,7 +49,9 @@
             <cell>N°</cell>
             <cell>Año</cell>
             <cell>Incipit</cell>
+			<!--
             <cell>Forma</cell>
+			-->
           </row>
           <row>
             <cell>1</cell>
@@ -2708,11 +2710,10 @@
         </head>
         <div type="poem" xml:id="poem12" n="12">
           <index>
-            <term type="head"><num>12. </num>En la muerte de dos señoras mozas hermanas, naturales de Córdoba</term>
+            <term type="head"><num>12 </num>Sobre dos urnas de cristal labradas</term>
           </index>
-          <head>
-            <num>12</num>
-          </head>
+          <head><num>12</num>
+            <lb/><lb/>En la muerte de dos señoras mozas hermanas, naturales de Córdoba</head>
           <lg>
             <l n="1">Sobre dos urnas de cristal labradas,</l>
             <l n="2">de vidrio en pedestales sostenidas,</l>
