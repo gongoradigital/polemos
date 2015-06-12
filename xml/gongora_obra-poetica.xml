@@ -3039,13 +3039,12 @@
         </div>
         <div type="poem" xml:id="poem23" n="23">
           <index>
-            <term type="head"><num>23. </num>A la pasión de los celos</term>
+            <term type="head"><num>23 </num>¡Oh niebla del estado más sereno</term>
           </index>
-          <head>
-            <num>23</num>
-          </head>
-          <lg>
-            <l n="1">iOh niebla del estado más sereno,</l>
+          <head><num>23</num>
+            <lb/><lb/>A la pasión de los celos</head>
+            <lg>
+            <l n="1">¡Oh niebla del estado más sereno,</l>
             <l n="2">furia infernal, serpiente mal nacida!</l>
             <l n="3">¡Oh ponzoñosa víbora escondida</l>
             <l n="4">de verde prado en oloroso seno!</l>
