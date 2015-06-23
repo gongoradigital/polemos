@@ -3541,8 +3541,8 @@
           </index>
           <head>
             <num>29</num>
-            <lb/><lb/></head>En la muerte de una señora que murió moza en Córdoba
-            </head> 
+            <lb/><lb/>En la muerte de una señora que murió moza en Córdoba</head>
+             
                     
           <lg>
             <l n="1">Fragoso monte, en cuyo vasto seno</l>
@@ -3945,7 +3945,7 @@
             <term type="head"><num>39. </num>A Juan Rufo, de su <hi rend="i">Austriada</hi></term>
           </index>
           <head>
-            <num>39</num><lb></lb><lb></lb>A Juan Rufo, de su <hi rend="i">Austriada
+            <num>39</num><lb></lb><lb></lb>A Juan Rufo, de su <hi rend="i">Austriada</hi>
           </head>
           <lg>
             <l n="1">Cantastes, Rufo, tan heroicamente</l>
@@ -20215,6 +20215,10 @@
             <l n="507">a pesar del amor; dos,</l>
             <l n="508">a pesar del número, uno.</l>
           </lg>
+        </div>
+      </div>
+            </div>
+          </div>
         </div>
       </div>
     </body>
