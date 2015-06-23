@@ -134,7 +134,7 @@
             <cell>12</cell>
             <cell>1582</cell>
             <cell>
-              <ref target="#poem12">En la muerte de dos señoras mozas hermanas, naturales de Córdoba</ref>
+              <ref target="#poem12">Sobre dos urnas de cristal labradas</ref>
             </cell>
           </row>
           <row>
@@ -211,7 +211,7 @@
             <cell>23</cell>
             <cell>1582</cell>
             <cell>
-              <ref target="#poem23">A la pasión de los celos</ref>
+              <ref target="#poem23">¡Oh niebla del estado más sereno</ref>
             </cell>
           </row>
           <row>
@@ -253,21 +253,20 @@
             <cell>29</cell>
             <cell>1583</cell>
             <cell>
-              <ref target="#poem29">En la muerte de una señora que murió moza en Córdoba</ref>
-            </cell>
-          </row>
+              <ref target="#poem29">Fragoso monte, en cuyo vasto seno</ref>
+            </cell>          </row>
           <row>
             <cell>30</cell>
             <cell>1583</cell>
             <cell>
-              <ref target="#poem30">Habla con don  Luis  Gaytán de Ayala, señor de Villafranca de Gaytán, quien estaba entonces en Córdoba, siendo allí su padre corregidor</ref>
+              <ref target="#poem30">Ya que con más regalo el campo mira</ref>
             </cell>
           </row>
           <row>
             <cell>31</cell>
             <cell>1583</cell>
             <cell>
-              <ref target="#poem31">A unos álamos blancos</ref>
+              <ref target="#poem31">Verdes hermanas del audaz mozuelo</ref>
             </cell>
           </row>
           <row>
@@ -288,7 +287,7 @@
             <cell>34</cell>
             <cell>1583</cell>
             <cell>
-              <ref target="#poem34">A Juan Rufo, jurado de Córdoba</ref>
+              <ref target="#poem34">Culto jurado, si mi bella dama</ref>
             </cell>
           </row>
           <row>
@@ -323,7 +322,7 @@
             <cell>39</cell>
             <cell>1584</cell>
             <cell>
-              <ref target="#poem39">A Juan Rufo, de su <hi rend="i">Austriada</hi></ref>
+              <ref target="#poem39">Cantastes, Rufo, tan heroicamente</ref>
             </cell>
           </row>
           <row>
@@ -358,7 +357,7 @@
             <cell>44</cell>
             <cell>1584</cell>
             <cell>
-              <ref target="#poem44">A don Luis Gaytán de Ayala, señor de Villafranca de Gaytán</ref>
+              <ref target="#poem44">No enfrene tu gallardo pensamiento</ref>
             </cell>
           </row>
           <row>
@@ -400,7 +399,7 @@
             <cell>50</cell>
             <cell>1585</cell>
             <cell>
-              <ref target="#poem50">A Córdoba</ref>
+              <ref target="#poem50">¡Oh excelso muro, oh torres coronadas</ref>
             </cell>
           </row>
           <row>
@@ -414,7 +413,7 @@
             <cell>52</cell>
             <cell>1585</cell>
             <cell>
-              <ref target="#poem52">Deprecación a Apolo por la salud de una dama</ref>
+              <ref target="#poem52">Sacra planta del Alcides, cuya rama</ref>
             </cell>
           </row>
           <row>
@@ -470,7 +469,7 @@
             <cell>60</cell>
             <cell>1586</cell>
             <cell>
-              <ref target="#poem60">En una enfermedad de don Antonio de Pazos, obispo de Córdoba</ref>
+              <ref target="#poem60">Deste más que la nieble blanco toro</ref>
             </cell>
           </row>
           <row>
@@ -484,7 +483,7 @@
             <cell>62</cell>
             <cell>1586</cell>
             <cell>
-              <ref target="#poem62">A la ciudad de Granada, estando en ella</ref>
+              <ref target="#poem62">Ilustre ciudad famosa</ref>
             </cell>
           </row>
           <row>
@@ -512,7 +511,7 @@
             <cell>66</cell>
             <cell>1588</cell>
             <cell>
-              <ref target="#poem66">Del marqués de Santa Cruz</ref>
+              <ref target="#poem66">No bronces, que caducan, mortal mano</ref>
             </cell>
           </row>
           <row>
@@ -554,7 +553,7 @@
             <cell>72</cell>
             <cell>1588</cell>
             <cell>
-              <ref target="#poem72">De la armada que fue a Inglaterra</ref>
+              <ref target="#poem72">Levanta, España, tu famosa diestra</ref>
             </cell>
           </row>
           <row>
@@ -582,7 +581,7 @@
             <cell>76</cell>
             <cell>1589</cell>
             <cell>
-              <ref target="#poem76">De san Lorenzo el real del Escurial</ref>
+              <ref target="#poem76">Sacro, altos, dorados capiteles</ref>
             </cell>
           </row>
           <row>
@@ -596,7 +595,7 @@
             <cell>78</cell>
             <cell>1590</cell>
             <cell>
-              <ref target="#poem78">En una fiesta que se hizo en Sevilla a san Hermenegildo</ref>
+              <ref target="#poem78">Hoy es el sacro y venturoso día</ref>
             </cell>
           </row>
           <row>
@@ -645,7 +644,7 @@
             <cell>85</cell>
             <cell>1591</cell>
             <cell>
-              <ref target="#poem85">A unas monjas, convaleciente de la enfermedad que refiere</ref>
+              <ref target="#poem85">Ya, señora de mi vida</ref>
             </cell>
           </row>
           <row>
@@ -701,7 +700,7 @@
             <cell>93</cell>
             <cell>1593</cell>
             <cell>
-              <ref target="#poem93">A don Cristóbal de Mora</ref>
+              <ref target="#poem93">Árbol de cuyos ramos fortunados</ref>
             </cell>
           </row>
           <row>
@@ -743,14 +742,14 @@
             <cell>99</cell>
             <cell>1594</cell>
             <cell>
-              <ref target="#poem99">A una casa de campo de una dama</ref>
+              <ref target="#poem99">Si ya la vista, de llorar cansada</ref>
             </cell>
           </row>
           <row>
             <cell>100</cell>
             <cell>1594</cell>
             <cell>
-              <ref target="#poem100">De un caminante enfermo que se enamoró donde fue hospedado</ref>
+              <ref target="#poem100">Descaminado, enfermo, peregrino</ref>
             </cell>
           </row>
           <row>
@@ -771,14 +770,14 @@
             <cell>103</cell>
             <cell>1594</cell>
             <cell>
-              <ref target="#poem103">En la muerte de doña Luisa de Cardona, monja en Santa Fe de Toledo</ref>
+              <ref target="#poem103">Moriste, ninfa bella</ref>
             </cell>
           </row>
           <row>
             <cell>104</cell>
             <cell>1595</cell>
             <cell>
-              <ref target="#poem104">A una sangría del tobillo de una dama</ref>
+              <ref target="#poem104">Herido el blanco pie del hierro breve</ref>
             </cell>
           </row>
           <row>
@@ -834,14 +833,14 @@
             <cell>112</cell>
             <cell>1598</cell>
             <cell>
-              <ref target="#poem112">Al monte santo de Granada</ref>
+              <ref target="#poem112">Este monte de cruces coronado</ref>
             </cell>
           </row>
           <row>
             <cell>113</cell>
             <cell>1598</cell>
             <cell>
-              <ref target="#poem113">Burlándose de un caballero prevenido para unas fiestas</ref>
+              <ref target="#poem113">Sea bien matizada la librea</ref>
             </cell>
           </row>
           <row>
@@ -862,21 +861,21 @@
             <cell>116</cell>
             <cell>1600</cell>
             <cell>
-              <ref target="#poem116">Al nacimiento de Cristo Nuestro Señor</ref>
+              <ref target="#poem116">Pender de un leño, traspasado el pecho</ref>
             </cell>
           </row>
           <row>
             <cell>117</cell>
             <cell>1600</cell>
             <cell>
-              <ref target="#poem117">Soneto cuatrilingüe, castellano, latino, toscano y portugués</ref>
+              <ref target="#poem117">Las tablas del bajel despedazadas</ref>
             </cell>
           </row>
           <row>
             <cell>118</cell>
             <cell>1600</cell>
             <cell>
-              <ref target="#poem118">De unos papeles que una dama le había escrito, restituyéndoselos en una caja</ref>
+              <ref target="#poem118">Yacen aquí los huesos sepultados</ref>
             </cell>
           </row>
           <row>
@@ -890,7 +889,7 @@
             <cell>120</cell>
             <cell>1600</cell>
             <cell>
-              <ref target="#poem120">Al marqués de Guadalcázar; de las damas de palacio</ref>
+              <ref target="#poem120">No os diremos, como al Cid</ref>
             </cell>
           </row>
           <row>
@@ -911,7 +910,7 @@
             <cell>123</cell>
             <cell>1600</cell>
             <cell>
-              <ref target="#poem123">[A dama moza casada con un viejo]</ref>
+              <ref target="#poem123"><hi rend="i">¿Por qué llora la Isabelitica?</hi></ref>
             </cell>
           </row>
           <row>
@@ -1023,7 +1022,7 @@
             <cell>139</cell>
             <cell>1603</cell>
             <cell>
-              <ref target="#poem139">Entrando en Valladolid, donde estaba la corte</ref>
+              <ref target="#poem139">Llegué a Valladolid, registré luego</ref>
             </cell>
           </row>
           <row>
@@ -1247,7 +1246,7 @@
             <cell>171</cell>
             <cell>1607</cell>
             <cell>
-              <ref target="#poem171">A su hijo del marqués de Ayamonte, que excuse la montería</ref>
+              <ref target="#poem171">Deja el monte, garzón bello, no fíes</ref>
             </cell>
           </row>
           <row>
@@ -1492,14 +1491,14 @@
             <cell>206</cell>
             <cell>1608</cell>
             <cell>
-              <ref target="#poem206">[Juana] Mañana sa Corpus Christa</ref>
+              <ref target="#poem206">Mañana sa Corpus Christa</ref>
             </cell>
           </row>
           <row>
             <cell>207</cell>
             <cell>1608</cell>
             <cell>
-              <ref target="#poem207">[Gil] ¿A qué nos convidas, Bras</ref>
+              <ref target="#poem207">¿A qué nos convidas, Bras</ref>
             </cell>
           </row>
           <row>
@@ -1520,7 +1519,7 @@
             <cell>210</cell>
             <cell>1608</cell>
             <cell>
-              <ref target="#poem210">[1.]  ¿Qué comes, hombre? [2.] ¿Qué como?</ref>
+              <ref target="#poem210">¿Qué comes, hombre? —¿Qué como?</ref>
             </cell>
           </row>
           <row>
@@ -1611,7 +1610,7 @@
             <cell>223</cell>
             <cell>1610</cell>
             <cell>
-              <ref target="#poem223">Canción de la toma de Larache</ref>
+              <ref target="#poem223">En roscas de cristal serpiente breve</ref>
             </cell>
           </row>
           <row>
@@ -1835,7 +1834,7 @@
             <cell>255</cell>
             <cell>1612</cell>
             <cell>
-              <ref target="#poem255"/>
+              <ref target="#poem255">Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]</ref>
             </cell>
           </row>
           <row>
@@ -1895,10 +1894,17 @@
             </cell>
           </row>
           <row>
-            <cell>264</cell>
+            <cell>264A</cell>
             <cell>1613</cell>
             <cell>
-              <ref target="#poem264">Soledades</ref>
+              <ref target="#poem264A">Pasos de un peregrino son, errantes [Dedicatoria Soledades]</ref>
+            </cell>
+          </row>
+          <row>
+            <cell>264B</cell>
+            <cell>1613</cell>
+            <cell>
+              <ref target="#poem264B">Era del año la estación florida [Soledad Primera]</ref>
             </cell>
           </row>
           <row>
@@ -1944,10 +1950,17 @@
             </cell>
           </row>
           <row>
-            <cell>317</cell>
+            <cell>264C</cell>
+            <cell>1614</cell>
+            <cell>
+              <ref target="#poem264C">Éntrase el mar por un arroyo breve [Soledad Segunda]</ref>
+            </cell>
+          </row>
+          <row>
+          <cell>317</cell>
             <cell>1618</cell>
             <cell>
-              <ref target="#poem317">Fábula de Píramo y Tisbe</ref>
+              <ref target="#poem317"> La ciudad de Babilonia [Fábula de Píramo y Tisbe]</ref>
             </cell>
           </row>
         </table>
@@ -3528,7 +3541,9 @@
           </index>
           <head>
             <num>29</num>
-          </head>
+            <lb/><lb/></head>En la muerte de una señora que murió moza en Córdoba
+            </head> 
+                    
           <lg>
             <l n="1">Fragoso monte, en cuyo vasto seno</l>
             <l n="2">duras cortezas de robustas plantas</l>
@@ -3557,7 +3572,7 @@
             <term type="head"><num>30. </num>Habla con don  Luis  Gaytán de Ayala, señor de Villafranca de Gaytán, quien estaba entonces en Córdoba, siendo allí su padre corregidor</term>
           </index>
           <head>
-            <num>30</num>
+            <num>30</num><lb/><lb/>Habla con don  Luis  Gaytán de Ayala, señor de Villafranca de Gaytán, quien estaba entonces en Córdoba, siendo allí su padre corregidor
           </head>
           <lg>
             <l n="1">Ya que con más regalo el campo mira,</l>
@@ -3587,7 +3602,7 @@
             <term type="head"><num>31. </num>A unos álamos blancos</term>
           </index>
           <head>
-            <num>31</num>
+            <num>31</num><lb/><lb/>A unos álamos blancos
           </head>
           <lg>
             <l n="1">Verdes hermanas del audaz mozuelo</l>
@@ -3677,7 +3692,7 @@
             <term type="head"><num>34. </num>A Juan Rufo, jurado de Córdoba</term>
           </index>
           <head>
-            <num>34</num>
+            <num>34</num><lb/><lb/>A Juan Rufo, jurado de Córdoba
           </head>
           <lg>
             <l n="1">Culto jurado, si mi bella dama,</l>
@@ -3930,7 +3945,7 @@
             <term type="head"><num>39. </num>A Juan Rufo, de su <hi rend="i">Austriada</hi></term>
           </index>
           <head>
-            <num>39</num>
+            <num>39</num><lb></lb><lb></lb>A Juan Rufo, de su <hi rend="i">Austriada
           </head>
           <lg>
             <l n="1">Cantastes, Rufo, tan heroicamente</l>
@@ -4078,7 +4093,7 @@
             <term type="head"><num>44. </num>A don Luis Gaytán de Ayala, señor de Villafranca de Gaytán</term>
           </index>
           <head>
-            <num>44</num>
+            <num>44</num><lb/><lb/>A don Luis Gaytán de Ayala, señor de Villafranca de Gaytán
           </head>
           <lg>
             <l n="1">No enfrene tu gallardo pensamiento</l>
@@ -4495,7 +4510,7 @@
             <term type="head"><num>50. </num>A Córdoba</term>
           </index>
           <head>
-            <num>50</num>
+            <num>50</num><lb/><lb/>A Córdoba
           </head>
           <lg>
             <l n="1">¡Oh excelso muro, oh torres coronadas</l>
@@ -4555,7 +4570,7 @@
             <term type="head"><num>52. </num>Deprecación a Apolo por la salud de una dama</term>
           </index>
           <head>
-            <num>52</num>
+            <num>52</num><lb/><lb/>Deprecación a Apolo por la salud de una dama
           </head>
           <lg>
             <l n="1">Sacra planta de Alcides, cuya rama</l>
@@ -5111,7 +5126,7 @@
           </index>
           <head>
             <num>60</num>
-          </head>
+          </head><lb/><lb/>En una enfermedad de don Antonio de Pazos, obispo de Córdoba
           <lg>
             <l n="1">Deste más que la nieve blanco toro,</l>
             <l n="2">robusto honor de la vacada mía,</l>
@@ -5194,7 +5209,7 @@
             <term type="head"><num>62. </num>A la ciudad de Granada, estando en ella</term>
           </index>
           <head>
-            <num>62</num>
+            <num>62</num><lb/><lb/>A la ciudad de Granada, estando en ella
           </head>
           <lg>
             <l n="1">Ilustre ciudad famosa,</l>
@@ -5857,7 +5872,7 @@
             <term type="head"><num>66. </num>Del marqués de Santa Cruz</term>
           </index>
           <head>
-            <num>66</num>
+            <num>66</num><lb/><lb/>Del marqués de Santa Cruz
           </head>
           <lg>
             <l n="1">No en bronces, que caducan, mortal mano,</l>
@@ -6035,7 +6050,7 @@
             <term type="head"><num>72. </num>De la armada que fue a Inglaterra</term>
           </index>
           <head>
-            <num>72</num>
+            <num>72</num><lb/><lb/>De la armada que fue a Inglaterra
           </head>
           <lg>
             <l n="1">Levanta, España, tu famosa diestra</l>
@@ -6557,7 +6572,7 @@
             <term type="head"><num>76. </num>De san Lorenzo el real del Escurial</term>
           </index>
           <head>
-            <num>76</num>
+            <num>76</num><lb/><lb/>De san Lorenzo el real del Escurial
           </head>
           <lg>
             <l n="1">Sacros, altos, dorados capiteles,</l>
@@ -6696,10 +6711,10 @@
             <term type="head"><num>78. </num>En una fiesta que se hizo en Sevilla a san Hermenegildo</term>
           </index>
           <head>
-            <num>78</num>
+            <num>78</num><lb/><lb/>En una fiesta que se hizo en Sevilla a san Hermenegildo
           </head>
           <lg>
-            <l n="1">Hoyes el sacro y venturoso día</l>
+            <l n="1">Hoy es el sacro y venturoso día</l>
             <l n="2">en que la gran metrópoli de España,</l>
             <l n="3">que no te juró rey, te adora santo;</l>
             <l n="4">hoy con devotas ceremonias baña,</l>
@@ -7434,7 +7449,7 @@
             <term type="head"><num>85. </num>A unas monjas, convaleciente de la enfermedad que refiere</term>
           </index>
           <head>
-            <num>85</num>
+            <num>85</num><lb/><lb/>A unas monjas, convaleciente de la enfermedad que refiere
           </head>
           <lg>
             <l n="1">Ya, señoras de mi vida,</l>
@@ -7985,7 +8000,7 @@
           <index>
             <term type="head"><num>93. </num>A don Cristóbal de Mora</term>
           </index>
-          <head>
+          <head><lb/><lb/>A don Cristóbal de Mora
             <num>93</num>
           </head>
           <lg>
@@ -8547,7 +8562,7 @@
             <term type="head"><num>99. </num>A una casa de campo de una dama</term>
           </index>
           <head>
-            <num>99</num>
+            <num>99</num><lb/><lb/>A una casa de campo de una dama
           </head>
           <lg>
             <l n="1">Si ya la vista, de llorar cansada,</l>
@@ -8577,7 +8592,7 @@
             <term type="head"><num>100. </num>De un caminante enfermo que se enamoró donde fue hospedado</term>
           </index>
           <head>
-            <num>100</num>
+            <num>100</num><lb/><lb/>De un caminante enfermo que se enamoró donde fue hospedado
           </head>
           <lg>
             <l n="1">Descaminado, enfermo, peregrino</l>
@@ -8697,7 +8712,7 @@
             <term type="head"><num>103. </num>En la muerte de doña Luisa de Cardona, monja en Santa Fe de Toledo</term>
           </index>
           <head>
-            <num>103</num>
+            <num>103</num><lb/><lb/>En la muerte de doña Luisa de Cardona, monja en Santa Fe de Toledo
           </head>
           <lg>
             <l n="1">Moriste, ninfa bella,</l>
@@ -8796,7 +8811,7 @@
             <term type="head"><num>104. </num>A una sangría del tobillo de una dama</term>
           </index>
           <head>
-            <num>104</num>
+            <num>104</num><lb/><lb/>A una sangría del tobillo de una dama
           </head>
           <lg>
             <l n="1">Herido el blanco pie del hierro breve,</l>
@@ -9330,7 +9345,7 @@
             <term type="head"><num>112. </num>Al monte santo de Granada</term>
           </index>
           <head>
-            <num>112</num>
+            <num>112</num><lb/><lb/>Al monte santo de Granada
           </head>
           <lg>
             <l n="1">Este monte de cruces coronado,</l>
@@ -9360,7 +9375,7 @@
             <term type="head"><num>113. </num>Burlándose de un caballero prevenido para unas fiestas</term>
           </index>
           <head>
-            <num>113</num>
+            <num>113</num><lb/><lb/>Burlándose de un caballero prevenido para unas fiestas
           </head>
           <lg>
             <l n="1">Sea bien matizada la librea,</l>
@@ -9497,7 +9512,7 @@
             <term type="head"><num>116. </num>Al nacimiento de Cristo Nuestro Señor</term>
           </index>
           <head>
-            <num>116</num>
+            <num>116</num><lb/><lb/>Al nacimiento de Cristo Nuestro Señor
           </head>
           <lg>
             <l n="1">Pender de un leño, traspasado el pecho</l>
@@ -9527,7 +9542,7 @@
             <term type="head"><num>117. </num>Soneto cuatrilingüe, castellano, latino, toscano y portugués</term>
           </index>
           <head>
-            <num>117</num>
+            <num>117</num><lb/><lb/>Soneto cuatrilingüe, castellano, latino, toscano y portugués
           </head>
           <lg>
             <l n="1">Las tablas del bajel despedazadas</l>
@@ -9557,7 +9572,7 @@
             <term type="head"><num>118. </num>De unos papeles que una dama le había escrito, restituyéndoselos en una caja</term>
           </index>
           <head>
-            <num>118</num>
+            <num>118</num><lb/><lb/>De unos papeles que una dama le había escrito, restituyéndoselos en una caja
           </head>
           <lg>
             <l n="1">Yacen aquí los huesos sepultados</l>
@@ -9666,7 +9681,7 @@
             <term type="head"><num>120. </num>Al marqués de Guadalcázar; de las damas de palacio</term>
           </index>
           <head>
-            <num>120</num>
+            <num>120</num><lb/><lb/>Al marqués de Guadalcázar; de las damas de palacio
           </head>
           <lg>
             <l n="1">No os diremos, como al Cid,</l>
@@ -10010,7 +10025,7 @@
             <term type="head"><num>123. </num>[A dama moza casada con un viejo]</term>
           </index>
           <head>
-            <num>123</num>
+            <num>123</num><lb/><lb/>[A dama moza casada con un viejo]
           </head>
           <label>A</label>
           <lg>
@@ -13919,7 +13934,7 @@
         </div>
         <div type="poem" xml:id="poem206" n="206">
           <index>
-            <term type="head"><num>206. </num>[Juana] Mañana sa Corpus Christa</term>
+            <term type="head"><num>206. </num>Mañana sa Corpus Christa</term>
           </index>
           <head><num>206</num>
             <lb/><lb/>En la fiesta del santísimo sacramento</head>
@@ -13972,7 +13987,7 @@
         </div>
         <div type="poem" xml:id="poem207" n="207">
           <index>
-            <term type="head"><num>207. </num>[Gil] ¿A qué nos convidas, Bras</term>
+            <term type="head"><num>207. </num>¿A qué nos convidas, Bras</term>
           </index>
           <head><num>207</num>
             <lb/><lb/>A LO MISMO</head>
@@ -14110,7 +14125,7 @@
         </div>
         <div type="poem" xml:id="poem210" n="210">
           <index>
-            <term type="head"><num>210. </num>[1.]  ¿Qué comes, hombre? [2.] ¿Qué como?</term>
+            <term type="head"><num>210. </num>¿Qué comes, hombre? —¿Qué como?</term>
           </index>
           <head><num>210</num>
             <lb/><lb/>A lo mismo</head>
@@ -14723,7 +14738,7 @@
             <term type="head"><num>223. </num>Canción de la toma de Larache</term>
           </index>
           <head>
-            <num>223</num>
+            <num>223</num><lb/><lb/>Canción de la toma de Larache
           </head>
           <lg>
             <l n="1">En roscas de cristal serpiente breve,</l>
@@ -17273,12 +17288,12 @@
             <l rend="refrain" n="70">[GIL] Quedo, ay, quedetico, quedo.</l>
           </lg>
         </div>
-        <div type="poem" xml:id="poem264" n="264">
+        <div type="poem" xml:id="poem264A" n="264A">
           <index>
-            <term type="head"><num>264. </num>Soledades</term>
+            <term type="head"><num>264A. </num>Dedicatoria Soledades</term>
           </index>
           <head>
-            <num>264</num>
+            <num>264A</num>
           </head>
           <div>
             <head>Al duque de Béjar</head>
@@ -17321,7 +17336,14 @@
               <l n="36">su canoro dará dulce instrumento,</l>
               <l n="37">cuando la Fama no su trompa, al viento.</l>
             </lg>
-          </div>
+          </div><div type="poem" xml:id="poem264B" n="264B">
+            <index>
+              <term type="head"><num>264B. </num>[Soledad] primera</term>
+            </index>
+            <head>
+              <num>264B</num>
+            </head>
+            <div>
           <div>
             <head>[Soledad] Primera</head>
             <lg>
@@ -18453,7 +18475,14 @@
               <l n="1090">bien previno la hija de la espuma</l>
               <l n="1091">a batallas de amor campo de pluma.</l>
             </lg>
-          </div>
+          </div><div type="poem" xml:id="poem264C" n="264C">
+            <index>
+              <term type="head"><num>264C. </num>Soledad Segunda</term>
+            </index>
+            <head>
+              <num>264C</num>
+            </head>
+            <div>
           <div>
             <head>Soledad Segunda</head>
             <lg>
@@ -19674,7 +19703,7 @@
             <term type="head"><num>317. </num>Fábula de Píramo y Tisbe</term>
           </index>
           <head>
-            <num>317</num>
+            <num>317</num><lb/><lb/>Fábula de Píramo y Tisbe
           </head>
           <lg>
             <l n="1">La ciudad de Babilonia,</l>
