@@ -556,7 +556,7 @@
           <row>
             <cell>101</cell>
             <cell>1594</cell>
-            <cell><ref target="#poem101">A una enfermedad que tuvo en Salamanca, de que estuvo tres días tenido por muerto</ref></cell>
+            <cell><ref target="#poem101">Muerto me lloró el Tormes en su orilla</ref></cell>
           </row>
           <row>
             <cell>102</cell>
@@ -1528,7 +1528,7 @@
   <row>
     <cell>293</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem293">[Alcidón] Perdona al remo, Lícidas, perdona</ref></cell>
+    <cell><ref target="#poem293">Perdona al remo, Lícidas, perdona</ref></cell>
   </row>
   <row>
     <cell>294</cell>
@@ -1538,12 +1538,12 @@
   <row>
     <cell>295</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem295">[1.] Cuando toquen a los maitines,</ref></cell>
+    <cell><ref target="#poem295">Cuando toquen a los maitines,</ref></cell>
   </row>
   <row>
     <cell>296</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem296">[Gil] No solo el campo nevado</ref></cell>
+    <cell><ref target="#poem296">No solo el campo nevado</ref></cell>
   </row>
   <row>
     <cell>297</cell>
@@ -1553,22 +1553,22 @@
   <row>
     <cell>298</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem298">[Portugués] ¿A que tangem em Castella?</ref></cell>
+    <cell><ref target="#poem298">¿A que tangem em Castella?</ref></cell>
   </row>
   <row>
     <cell>299</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem299">[1.] ¿ Cuál podréis, Judea, decir</ref></cell>
+    <cell><ref target="#poem299">¿Cuál podréis, Judea, decir</ref></cell>
   </row>
   <row>
     <cell>300</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem300">[1.] Al gualete, hejo</ref></cell>
+    <cell><ref target="#poem300">Al gualete, hejo</ref></cell>
   </row>
   <row>
     <cell>301</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem301">[1.] Niño, si por lo que tienes</ref></cell>
+    <cell><ref target="#poem301">Niño, si por lo que tienes</ref></cell>
   </row>
   <row>
     <cell>302</cell>
@@ -1578,17 +1578,17 @@
   <row>
     <cell>303</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem303">[1.] ¡Oh, qué vimo, Mangalena!</ref></cell>
+    <cell><ref target="#poem303">¡Oh, qué vimo, Mangalena!</ref></cell>
   </row>
   <row>
     <cell>304</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem304">[Pastor 1°] ¿Qué gente, Pascual, qué gente?</ref></cell>
+    <cell><ref target="#poem304">¿Qué gente, Pascual, qué gente?</ref></cell>
   </row>
   <row>
     <cell>305</cell>
     <cell>1615</cell>
-    <cell><ref target="#poem305">[Bras] ¡Oh, qué verás, Carillejo,</ref></cell>
+    <cell><ref target="#poem305">¡Oh, qué verás, Carillejo,</ref></cell>
   </row>
   <row>
     <cell>306</cell>
@@ -1643,7 +1643,7 @@
   <row>
     <cell>316</cell>
     <cell>1618</cell>
-    <cell><ref target="#poem316">[1.] El racimo que ofreció</ref></cell>
+    <cell><ref target="#poem316">El racimo que ofreció</ref></cell>
   </row>
   <row>
     <cell>317</cell>
@@ -1723,7 +1723,7 @@
   <row>
     <cell>332</cell>
     <cell>1620</cell>
-    <cell><ref target="#poem332"> Dura hasta hoy en Flandes la memoria de un encuentro de lanza de don Francisco de Padilla.</ref></cell>
+    <cell><ref target="#poem332"> A este que admiramos en luciente</ref></cell>
   </row>
   <row>
     <cell>333</cell>
@@ -1958,7 +1958,7 @@
   <row>
     <cell>379</cell>
     <cell>1622</cell>
-    <cell><ref target="#poem379">[Bras] Al hermoso dueño mío,</ref></cell>
+    <cell><ref target="#poem379">Al hermoso dueño mío,</ref></cell>
   </row>
   <row>
     <cell>380</cell>
@@ -2153,7 +2153,7 @@
   <row>
     <cell>418</cell>
     <cell>1625</cell>
-    <cell><ref target="#poem418">[D. P.] Doña Menga, ¿de qué te ríes?</ref></cell>
+    <cell><ref target="#poem418">Doña Menga, ¿de qué te ríes?</ref></cell>
   </row>
         </table>
       </div>
@@ -8812,7 +8812,7 @@
             <term type="head"><num>101. </num>A una enfermedad que tuvo en Salamanca, de que estuvo tres días tenido por muerto</term>
           </index>
           <head>
-            <num>101</num>
+            <num>101</num><lb/><lb/>A una enfermedad que tuvo en Salamanca, de que estuvo tres días tenido por muerto
           </head>
           <lg>
             <l n="1">Muerto me lloró el Tormes en su orilla,</l>
