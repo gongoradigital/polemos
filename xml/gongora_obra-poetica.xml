@@ -45,6 +45,10 @@
   </teiHeader>
   <text>
     <front>
+      <div xml:id="intro">
+        <head>Introducción</head>
+        <p>texto de carreira</p>
+      </div>
       <div>
         <head>Poemas de autoría segura</head>
         <table rend="sortable">
@@ -20649,7 +20653,7 @@ x Carreira Mayuscula?--> Segundo<note place="bottom">Fueron estos tercetos ocasi
             <l n="12">o a tan alada osadía?</l>
             <l n="13" rend="refrain">La vaga esperanza mía</l>
             <l n="14" rend="refrain">se ha quedado en vago, ¡ay triste!</l>
-            <l n="15" rend="refrain">15 Quien alas de cera viste,</l>
+            <l n="15" rend="refrain">Quien alas de cera viste,</l>
             <l n="16" rend="refrain">¡cuán mal de mi sol las fía!</l>
           </lg>
         </div>
@@ -21009,7 +21013,7 @@ X Carreira: ¿“Viva” debe ir en mayuscula?-->.</l>
             <l n="111">sus Lúcanos y Senécas.</l>
             <l n="112">Si extrañaren los vulgares</l>
             <l n="113">y acusaren la licencia,</l>
-            <l n="114"><escapularios del carmen</l>
+            <l n="114">escapularios del carmen</l>
             <l n="115">mis escapatorios sean;</l>
             <l n="116">todo va con regla y arte,</l>
             <l n="117">que, a Dios gracias, arte y regla</l>
@@ -26044,7 +26048,7 @@ x Carreira: ¿acento?--> no pisó la arena,</l>
             <l n="17">en número, al fin, segundo,</l>
             <l n="18">y sin número bendito,</l>
             <l n="19" rend="refrain">guardó el pan, no para Egipto,</l>
-            <l n="20" rend="refrain">20 sino para todo el mundo.</l>
+            <l n="20" rend="refrain">sino para todo el mundo.</l>
           </lg>
         </div>
         <div n="369" type="poem" xml:id="poem369">
