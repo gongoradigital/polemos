@@ -2360,7 +2360,7 @@
             <cell>445</cell>
             <cell>1610</cell>
             <cell>
-              <ref target="#poem445">sin que ni al grande ni al chico</ref>
+              <ref target="#poem445">Que pretenda el mercader</ref>
             </cell>
           </row>
           <row>
@@ -18132,11 +18132,11 @@
             <l n="153">El que de cabras fue dos veces ciento</l>
             <l n="154">esposo casi un lustro (cuyo diente</l>
             <l n="155">no perdonó a racimo aun en la frente</l>
-            <l n="156">de Baco, cuanto más en su sarmiento:</l>
+            <l n="156">de Baco, cuanto más en su sarmiento),</l>
             <l n="157">triunfador siempre de celosas lides</l>
             <l n="158">lo coronó el Amor, mas rival tierno,</l>
             <l n="159">breve de barba y duro no de cuerno,</l>
-            <l n="160">redimió con su muerte tantas vides),</l>
+            <l n="160">redimió con su muerte tantas vides:</l>
             <l n="161">    servido ya en cecina,</l>
             <l n="162">purpúreos hilos es de grana fina.</l>
             <l n="163">Sobre corchos después, más regalado</l>
@@ -28486,7 +28486,7 @@ X Carreira: ¿a la línea?-->.</l>
           <lg>
             <l n="1">Los edictos con imperio</l>
             <l n="2">mase Lobo ha prorrogado,</l>
-            <l n="3">quizá hasta que barbe el grado</l>
+            <l n="3">quizá hasta que barbe el Grado</l>
             <l n="4">de su vocal magisterio.</l>
             <l n="5">Si no tiene otro misterio,</l>
             <l n="6">el nuevo término corra,</l>
@@ -28653,8 +28653,8 @@ X Carreira: ¿a la línea?-->.</l>
           </lg>
           <lg>
             <l n="12">Su nombre a cada cosa se le diga:</l>
-            <l n="13">si es Prado, Vaca sea su guadaña<seg rend="marquedecommentaire"><!-- Sara : 2015-05-28T14:39:00
-X Carreira: ¿coma?--></seg>,</l>
+            <l n="13">si es Prado, Vaca sea su guadaña<!-- Sara : 2015-05-28T14:39:00
+X Carreira: ¿coma?-->,</l>
             <l n="14">si es montaña, Madera le persiga.</l>
           </lg>
         </div>
@@ -28902,65 +28902,65 @@ X Carreira: ¿coma?--></seg>,</l>
         </div>
         <div n="445" type="poem" xml:id="poem445">
           <index>
-            <term type="head"><num>445. </num>sin que ni al grande ni al chico</term>
+            <term type="head"><num>445. </num>Que pretenda el mercader</term>
           </index>
           <head><num>445</num>  (<date>1610</date>)
-<lb/>
-            <lb/>Que pretenda el mercader,</head>
-          <lg>
-            <l n="1">sin que ni al grande ni al chico</l>
-            <l n="2">restituya un alfiler,</l>
-            <l n="3">en nombre de Dios tener</l>
-            <l n="4">lo que hurtó en Puerto Rico:</l>
-            <l n="5" rend="refrain">¡oh, qué lindico!</l>
+            </head>
+            <lg>
+              <l n="1">Que pretenda el mercader,</l>
+            <l n="2">sin que ni al grande ni al chico</l>
+            <l n="3">restituya un alfiler,</l>
+            <l n="4">en nombre de Dios tener</l>
+            <l n="5">lo que hurtó en Puerto Rico:</l>
+            <l n="6" rend="refrain">¡oh, qué lindico!</l>
           </lg>
           <lg>
-            <l n="6">Que disimule un paciente,</l>
-            <l n="7">sin que a risa me provoque,</l>
-            <l n="8">que en el espejo luciente</l>
-            <l n="9">nunca se ha visto la frente</l>
-            <l n="10">coronada de alcornoque:</l>
-            <l n="11" rend="refrain">¡oh, qué lindoque!</l>
+            <l n="7">Que disimule un paciente,</l>
+            <l n="8">sin que a risa me provoque,</l>
+            <l n="9">que en el espejo luciente</l>
+            <l n="10">nunca se ha visto la frente</l>
+            <l n="11">coronada de alcornoque:</l>
+            <l n="12" rend="refrain">¡oh, qué lindoque!</l>
           </lg>
           <lg>
-            <l n="12">Que una moza que bien charla,</l>
-            <l n="13">dama entre picaza y mico,</l>
-            <l n="14">me quiera obligar a amarla,</l>
-            <l n="15">siendo su pico de Parla,</l>
-            <l n="16">y de Getafe su hocico:</l>
-            <l n="17" rend="refrain">¡oh, qué lindico!</l>
+            <l n="13">Que una moza que bien charla,</l>
+            <l n="14">dama entre picaza y mico,</l>
+            <l n="15">me quiera obligar a amarla,</l>
+            <l n="16">siendo su pico de Parla,</l>
+            <l n="17">y de Getafe su hocico:</l>
+            <l n="18" rend="refrain">¡oh, qué lindico!</l>
           </lg>
           <lg>
-            <l n="18">Que Hero se precipite</l>
-            <l n="19">por la mitad de un bayoque,</l>
-            <l n="20">y ser Tisbe solicite</l>
-            <l n="21">quien por menos de un confite</l>
-            <l n="22">se envaina en cualquier estoque:</l>
-            <l n="23" rend="refrain">¡oh, qué lindoque!</l>
+            <l n="19">Que Hero se precipite</l>
+            <l n="20">por la mitad de un bayoque,</l>
+            <l n="21">y ser Tisbe solicite</l>
+            <l n="22">quien por menos de un confite</l>
+            <l n="23">se envaina en cualquier estoque:</l>
+            <l n="24" rend="refrain">¡oh, qué lindoque!</l>
           </lg>
           <lg>
-            <l n="24">Que pretenda una doncella</l>
-            <l n="25">que por su gracioso pico</l>
-            <l n="26">se case un hombre con ella,</l>
-            <l n="27">y cualquiera la atropella</l>
-            <l n="28">por el interés más chico:</l>
-            <l n="29" rend="refrain">30¡oh, qué lindico!</l>
+            <l n="25">Que pretenda una doncella</l>
+            <l n="26">que por su gracioso pico</l>
+            <l n="27">se case un hombre con ella,</l>
+            <l n="28">y cualquiera la atropella</l>
+            <l n="29">por el interés más chico:</l>
+            <l n="30" rend="refrain">¡oh, qué lindico!</l>
           </lg>
           <lg>
-            <l n="30">Que piense un bobalicón</l>
-            <l n="31">que no hay quien su dama toque,</l>
-            <l n="32">y en la casa del rincón</l>
-            <l n="33">sé que la tomó un peón</l>
-            <l n="34">y que no la quiso un Roque:</l>
-            <l n="35" rend="refrain">¡oh, qué lindoque!</l>
+            <l n="31">Que piense un bobalicón</l>
+            <l n="32">que no hay quien su dama toque,</l>
+            <l n="33">y en la casa del rincón</l>
+            <l n="34">sé que la tomó un peón</l>
+            <l n="35">y que no la quiso un Roque:</l>
+            <l n="36" rend="refrain">¡oh, qué lindoque!</l>
           </lg>
           <lg>
-            <l n="36">Que pretenda un estudiante,</l>
-            <l n="37">aun siendo galán y rico,</l>
-            <l n="38">rendir a doña Violante</l>
-            <l n="39">con hacer muy del amante</l>
-            <l n="40">sin dejar flaco el bolsico:</l>
-            <l n="41" rend="refrain">¡oh, qué lindico!</l>
+            <l n="37">Que pretenda un estudiante,</l>
+            <l n="38">aun siendo galán y rico,</l>
+            <l n="39">rendir a doña Violante</l>
+            <l n="40">con hacer muy del amante</l>
+            <l n="41">sin dejar flaco el bolsico:</l>
+            <l n="42" rend="refrain">¡oh, qué lindico!</l>
           </lg>
         </div>
         <div n="446" type="poem" xml:id="poem446">
