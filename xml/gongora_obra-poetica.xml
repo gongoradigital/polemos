@@ -47,7 +47,7 @@
     <front>
       <div xml:id="intro">
         <head>Introducción</head>
-        <p>texto de carreira</p>
+        <p>introducción de A. Carreira</p>
       </div>
       <div>
         <head>Poemas de autoría segura</head>
@@ -93,7 +93,7 @@
           <row>
             <cell>7</cell>
             <cell>1581</cell>
-            <cell><ref target="#poem7">Ándeme yo caliente y ríase la gente</ref></cell>
+            <cell><ref target="#poem7">Ándeme yo caliente</ref></cell>
           </row>
           <row>
             <cell>8</cell>
@@ -318,7 +318,7 @@
           <row>
             <cell>52</cell>
             <cell>1585</cell>
-            <cell><ref target="#poem52">Sacra planta del Alcides, cuya rama</ref></cell>
+            <cell><ref target="#poem52">Sacra planta de Alcides, cuya rama</ref></cell>
           </row>
           <row>
             <cell>53</cell>
@@ -483,7 +483,7 @@
           <row>
             <cell>85</cell>
             <cell>1591</cell>
-            <cell><ref target="#poem85">Ya, señora de mi vida</ref></cell>
+            <cell><ref target="#poem85">Ya, señoras de mi vida</ref></cell>
           </row>
           <row>
             <cell>86</cell>
@@ -533,7 +533,7 @@
           <row>
             <cell>95</cell>
             <cell>1593</cell>
-            <cell><ref target="#poem95">Mandadero es el arquero, y sí que era mandadero</ref></cell>
+            <cell><ref target="#poem95">Mandadero es el arquero</ref></cell>
           </row>
           <row>
             <cell>96</cell>
@@ -568,7 +568,7 @@
           <row>
             <cell>102</cell>
             <cell>1594</cell>
-            <cell><ref target="#poem102">Cada uno estornuda como Dios le ayuda</ref></cell>
+            <cell><ref target="#poem102">Cada uno estornuda</ref></cell>
           </row>
           <row>
             <cell>103</cell>
@@ -770,7 +770,7 @@
           <row>
             <cell>142</cell>
             <cell>1603</cell>
-            <cell><ref target="#poem142">Vos sois Valladolid? ¿Vos sois el valle</ref></cell>
+            <cell><ref target="#poem142">¿Vos sois Valladolid? ¿Vos sois el valle</ref></cell>
           </row>
           <row>
             <cell>143</cell>
@@ -805,7 +805,7 @@
           <row>
             <cell>149</cell>
             <cell>1603</cell>
-            <cell><ref target="#poem149">Qué lleva el señor Esgueva</ref></cell>
+            <cell><ref target="#poem149">¿Qué lleva el señor Esgueva?</ref></cell>
           </row>
           <row>
             <cell>150</cell>
@@ -1060,7 +1060,7 @@
           <row>
             <cell>200</cell>
             <cell>1608</cell>
-            <cell><ref target="#poem200">Son de Tolú, o son de Puerto Rico</ref></cell>
+            <cell><ref target="#poem200">¿Son de Tolú, o son de Puerto Rico?</ref></cell>
           </row>
           <row>
             <cell>201</cell>
@@ -1365,7 +1365,7 @@
           <row>
             <cell>261</cell>
             <cell>1613</cell>
-            <cell><ref target="#poem261">Don Juán soy, del Castillejo</ref></cell>
+            <cell><ref target="#poem261">Don Juan soy, del Castillejo</ref></cell>
           </row>
           <row>
             <cell>262</cell>
@@ -1380,7 +1380,8 @@
           <row>
             <cell>264A</cell>
             <cell>1613</cell>
-            <cell><ref target="#poem264A">Pasos de un peregrino son, errantes [Dedicatoria Soledades]</ref></cell>
+            <cell><ref target="#poem264A">Pasos de un peregrino son, errante
+              [Dedicatoria Soledades]</ref></cell>
           </row>
           <row>
             <cell>264B</cell>
@@ -1490,7 +1491,7 @@
           <row>
             <cell>284</cell>
             <cell>1615</cell>
-            <cell><ref target="#poem284">Hojas de inciertos choposel nevado</ref></cell>
+            <cell><ref target="#poem284">Hojas de inciertos chopos el nevado</ref></cell>
           </row>
           <row>
             <cell>285</cell>
@@ -2282,7 +2283,7 @@
             <cell>434</cell>
             <cell>1604</cell>
             <cell>
-              <ref target="#poem434">entre el chantre y el deán,</ref>
+              <ref target="#poem434">Entre el chantre y el deán,</ref>
             </cell>
           </row>
           <row>
@@ -2520,7 +2521,7 @@
             <cell>468</cell>
             <cell>1624</cell>
             <cell>
-              <ref target="#poem468">Es el <hi rend="i">Orfeo</hi> del señor don Juán</ref>
+              <ref target="#poem468">Es el <hi rend="i">Orfeo</hi> del señor don Juan</ref>
             </cell>
           </row>
           <row>
