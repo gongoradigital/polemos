@@ -6286,7 +6286,15 @@
             <l n="55">le da ella más gusto</l>
             <l n="56">que la de su ninfa;</l>
             <l n="57">la barba, ni corta</l>
-            <l n="58">ni mucho crecida,</l>
+            <l n="58">ni mucho 
+              
+              
+              
+              
+              
+              
+              
+              ,</l>
             <l n="59">porque así se ahorran</l>
             <l n="60">cuellos de camisa;</l>
             <l n="61">fue un tiempo castaña,</l>
@@ -9662,7 +9670,7 @@
           </index>
           <head>
             <num>107</num>
-            <note place="bottom">Hubo este año una gran crecida en el Betis.</note>
+            <note place="bottom">Hubo este año una gran creciente en el Betis.</note>
           </head>
           <lg>
             <l n="1">Cosas, Celalba mía, he visto extrañas:</l>
@@ -9813,10 +9821,10 @@
         </div>
         <div n="110" type="poem" xml:id="poem110">
           <index>
-            <term type="head"><num>110. </num>Temo tanto los serenos</term>
+            <term type="head"><num>110. </num>A don Pedro Venegas, a cuya casa iba a jugar algunos días</term>
           </index>
           <head>
-            <num>110</num>
+            <num>110</num><lb/><lb/>A don Pedro Venegas, a cuya casa iba a jugar algunos días
           </head>
           <lg>
             <l n="1">Temo tanto los serenos,</l>
@@ -10700,7 +10708,7 @@
           <label>B</label>
           <lg>
             <l n="21">Serle chero sanguisuela,</l>
-            <l n="22">pues babosa es para mí<note place="bottom">Llámase en Andalucía babosa al caracol.</note>.</l>
+            <l n="22">pues babosa es para mí<note place="bottom">Llaman en Andalucía babosa al caracol.</note>.</l>
           </lg>
           <label>A</label>
           <lg>
@@ -11370,7 +11378,7 @@
             <term type="head"><num>133. </num>De ríos, soy el Duero, acompañado</term>
           </index>
           <head><num>133</num>
-            <lb/><lb/>De una quinta del conde de Salinas, ribera de Duero<note place="bottom">Está allí una puente rompida.</note></head>
+            <lb/><lb/>De una quinta del conde de Salinas, ribera de Duero</head>
           <lg>
             <l n="1">De ríos, soy el Duero, acompañado,</l>
             <l n="2">en estas apacibles soledades,</l>
@@ -11390,7 +11398,7 @@
           </lg>
           <lg>
             <l n="12">El yugo desta puente he sacudido</l>
-            <l n="13">por hurtarle a su ocio mi ribera.</l>
+            <l n="13">por hurtarle a su ocio mi ribera<note place="bottom">Está allí una puente rompida.</note>.</l>
             <l n="14">Perdonad, caminantes fatigados.</l>
           </lg>
         </div>
@@ -12506,7 +12514,7 @@
           </index>
           <head>
             <num>156</num>
-            <note place="bottom">Pasando por Medina del Campo sacó don Antonio Francisco de Guzmán, entre él y otro que jugaban a la pelota, los alquileres de las mulas de dos días que le pidieron se detuviese, y no pudiendo entonces excusarse de recibirlo, se lo envió a un criado de don Alonso de Cabrera y a don Felipe Cerrón con esta décima, para que en prosiguiendo él su camino se lo volviesen a don Antonio. </note>
+            <note place="bottom">Pasando por Medina del Campo sacó don Antonio Franco de Guzmán, entre él y otro que jugaban a la pelota, los alquileres de las mulas de dos días que le pidieron se detuviese, y no pudiendo entonces excusarse de recibirlo, se lo envió a un criado de don Alonso de Cabrera y a don Felipe Cerrón con esta décima, para que en prosiguiendo él su camino se lo volviesen a don Antonio. </note>
           </head>
           <lg>
             <l n="1">De puños de hierro ayer</l>
@@ -15006,10 +15014,11 @@
         </div>
         <div n="215" type="poem" xml:id="poem215">
           <index>
-            <term type="head"><num>215. </num>Esperando están la rosa</term>
+            <term type="head"><num>215. </num>Del palacio de la Primavera</term>
           </index>
           <head>
             <num>215</num>
+            <lb/><lb/>Del palacio de la Primavera
           </head>
           <lg>
             <l n="1">Esperando están la rosa</l>
@@ -16752,7 +16761,7 @@
             <l n="1">Este, que en traje lo admiráis togado,</l>
             <l n="2">claro, no a luces hoy de lisonjero</l>
             <l n="3">pincel, sino de claro caballero,</l>
-            <l n="4">esplendor de Buendía que lo ha dado;</l>
+            <l n="4">esplendor del Buendía que lo ha dado;</l>
           </lg>
           <lg>
             <l n="5">este, ya de justicia, ya de estado,</l>
@@ -17109,7 +17118,7 @@
             <l n="217">    La ninfa, pues, la sonorosa plata</l>
             <l n="218">bullir sintió, del arroyuelo, apenas,</l>
             <l n="219">cuando, a los verdes márgenes ingrata,</l>
-            <l n="220">seguir se hizo de sus azucenas.</l>
+            <l n="220">segur se hizo de sus azucenas.</l>
             <l n="221">Huyera, mas tan frío se desata</l>
             <l n="222">un temor perezoso por sus venas,</l>
             <l n="223">que a la precisa fuga, al presto vuelo</l>
@@ -20137,7 +20146,7 @@
             <l n="976">sus alas el testigo que en prolija</l>
             <l n="977">desconfianza a la sicana diosa</l>
             <l n="978">    dejó sin dulce hija,</l>
-            <l n="979">y a la estigia deidad con bella esposa.</l>
+            <l n="979">y a la estigia deidad con bella esposa<note place="bottom">No pudo la instancia de D. Antonio Chacón hacer que pasase adelante con las Soledades; aunque determinado ya a ello, las prosiguió con los versos que hay desde el que dice: Destos pendientes agradables casos, etc., hasta el último desta plana, si bien hay pocos que los tengan.</note>.</l>
           </lg>
         </div>
         <div n="265" type="poem" xml:id="poem265">
@@ -21309,7 +21318,7 @@ X Carreira: ¿“Viva” debe ir en mayuscula?-->.</l>
           </index>
           <head><num>289</num>
             <lb/>
-            <lb/>A Juan de Villegas, alcalde mayor de Luque, por don Egas Venegas, señor de aquella villa</head>
+            <lb/>A Juan de Villegas, alcalde mayor de Luque por don Egas Venegas, señor de aquella villa</head>
           <lg>
             <l n="1">En villa humilde sí, no en vida ociosa,</l>
             <l n="2">vasallos riges con poder no injusto,</l>
@@ -21742,7 +21751,7 @@ X Carreira: ¿“Viva” debe ir en mayuscula?-->.</l>
             <l n="35">pancada. [Castellano] ¿A mí? [Portugués] A vos, ao rey.</l>
             <l n="36">[Castellano] Liquidado se ha. [Portugués] ¿Falades?</l>
             <l n="37">[Castellano] Haga nuestras amistades</l>
-            <l n="38">mucha enmelada hojüela.</l>
+            <l n="38">mucha enmelada hojuela.</l>
             <l n="39" rend="refrain">[Portugués] ¿A que tangem em Castella?</l>
             <l n="40" rend="refrain">[Castellano] A maitines. [Portugués] ¿Noite é boa?</l>
             <l n="41" rend="refrain">[Castellano] Sí. [Portugués] ¿E facem como em Lisboa</l>
@@ -21999,7 +22008,7 @@ X Carreira: ¿“Viva” debe ir en mayuscula?-->.</l>
             <l n="35">[1.] ¿Entraste? [2.] Sí, e maliciosa</l>
             <l n="36">a mula un coz me tiró.</l>
             <l n="37">[1.] Caia, que non fu coz, no.</l>
-            <l n="38">[2.] ¿Pos qué fu? [1.] Invidia, morena.</l>
+            <l n="38">[2.] ¿Pos qué fu? [1.] Invidia morena.</l>
             <l n="39" rend="refrain">¡Oh, qué vimo, Mangalena!</l>
             <l n="40" rend="refrain">¡Oh, qué vimo!</l>
             <l n="41" rend="refrain">[2.] ¿Dónde, primo?</l>
@@ -28200,7 +28209,7 @@ X Carreira: ¿a la línea?-->.</l>
           <lg>
             <l n="5">déle la eternidad, pues se lo debe,</l>
             <l n="6">para perpetuo acuerdo en lo futuro,</l>
-            <l n="7">a vuestro bulto heroico en mármol duro</l>
+            <l n="7">a vuestro vulto heroico en mármol duro</l>
             <l n="8">glorioso entalle de inmortal relieve,</l>
           </lg>
           <lg>
