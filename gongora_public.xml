@@ -26,6 +26,7 @@ tei
   <!ELEMENT sc ( #PCDATA | sup )*>
 ]>
 <cat xml:id="apollinaire" formats="sqlite epub html txt tei">
-  <head>Polémique gogonrine</head>
+  <head>Polémique gongorine</head>
   <file href="xml/1614_parecer.xml"/>
+  <file href="xml/1621_censura-lope.xml"/>
 </cat>
