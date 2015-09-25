@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-
 <!--odt2tei: 2015-07-12T14:46:37+02:00-->
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -775,7 +772,7 @@ El editor considera que las Advertencias para la inteligencia de las Soledades, 
           <l>frágil el torrente escampa,</l>
           <l>que se ostenta inexpedita<note place="bottom"><hi rend="i">inexpedita</hi>: sigue tratándose de la lengua ‘torpe’ y ‘desmañada’.</note>.</l>
           <l><space rend="tab"> </space>Oh tú, nono circunspecto<note place="bottom"><hi rend="i">nono circunspecto</hi>: se refiere al coro de las nueve musas, que rodean y observan al poeta (<hi rend="i">circumspicere</hi>: ‘mirar alrededor’).</note>,</l>
-          <l>pierio<note place="bottom"><hi rend="i">pierio</hi>: adjetivo tradicionalmente aplicado al coro de las musas, también conocidas como piérides.</note> número inspira</l>
+          <l>pierio<note place="bottom"><hi rend="i">pierio</hi>: adjetivo tradicionalmente aplicado al coro de las musas, también conocidas como piérides.</note></l>
           <l>numerosa consonancia,</l>
           <l>metrificante harmonía.</l>
           <l><space rend="tab"> </space>Que esta del Parnaso culto</l>
