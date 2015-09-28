@@ -53,10 +53,15 @@ if (isset($doc['bookrowid'])) { // bookfound
   else; // ???
   if ($pot->q && (!isset($doc['artname']) || $doc['artname']=='index')) echo $pot->concBook($doc['bookrowid']);
 }
-else { // searching
+
+else if($pot->qsa() != '') { // searching
   echo $pot->report();
   echo $pot->biblio(array('date', 'title', 'occs'));
   echo $pot->concByBook();
+}
+else {
+  echo file_get_contents(dirname(__FILE__).'/doc/welcome.html');
+  echo $pot->biblio(array('date', 'title', 'occs'));
 }
           ?>
           </div>
