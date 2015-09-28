@@ -25,8 +25,10 @@ tei
   <!ELEMENT sup ( #PCDATA )*>
   <!ELEMENT sc ( #PCDATA | sup )*>
 ]>
-<cat xml:id="apollinaire" formats="sqlite epub html txt tei">
+<cat xml:id="gongora" formats="sqlite epub html txt tei">
   <head>Polémique gongorine</head>
+  <file href="xml/introduccion.xml"/>
   <file href="xml/1614_parecer.xml"/>
   <file href="xml/1621_censura-lope.xml"/>
+  <file href="xml/1625_el-culto-graduado.xml"/>
 </cat>
