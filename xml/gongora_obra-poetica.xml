@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?><!--odt2tei: 2014-12-10T12:08:24+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,6 +16,10 @@
         </respStmt>
         <respStmt>
           <name>Sara Pezzini </name>
+          <resp>Édition TEI et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Hector Ruiz </name>
           <resp>Édition TEI et stylage</resp>
         </respStmt>
         <respStmt>
@@ -50,8 +54,9 @@
         <p>introducción de A. Carreira</p>
       </div>
       <div>
-        <head>Poemas de autoría segura</head>
+        <head>Índice</head>
         <table rend="sortable">
+          <head>Poemas de autoría segura</head>
           <row role="label">
             <cell>N°</cell>
             <cell>Año</cell>
@@ -2164,10 +2169,8 @@
             <cell><ref target="#poem418">Doña Menga, ¿de qué te ríes?</ref></cell>
           </row>
         </table>
-      </div>
-      <div>
-        <head>Poemas de autenticidad probable</head>
         <table>
+          <head>Poemas de autenticidad probable</head>
           <row role="label">
             <cell>N°</cell>
             <cell>Año</cell>
@@ -28915,8 +28918,8 @@ X Carreira: ¿coma?-->,</l>
           </index>
           <head><num>445</num>  (<date>1610</date>)
             </head>
-            <lg>
-              <l n="1" xml:id="l445.1">Que pretenda el mercader,</l>
+          <lg>
+            <l n="1" xml:id="l445.1">Que pretenda el mercader,</l>
             <l n="2" xml:id="l445.2">sin que ni al grande ni al chico</l>
             <l n="3" xml:id="l445.3">restituya un alfiler,</l>
             <l n="4" xml:id="l445.4">en nombre de Dios tener</l>
