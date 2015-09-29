@@ -2601,6 +2601,8 @@
       </div>
     </front>
     <body>
+      <div xml:id="segura">
+        <head>Poemas de autoría segura</head>
       <div xml:id="a1580">
         <head>
           <num>1580</num>
@@ -28113,6 +28115,7 @@ X Carreira: ¿a la línea?-->.</l>
             <l n="26" rend="refrain" xml:id="l418.26">26[D. M.] Don Pascual, de que porfíes.</l>
           </lg>
         </div>
+      </div>
       </div>
       <div xml:id="probable">
         <head>Poemas de autenticidad probable</head>
