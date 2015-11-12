@@ -86,7 +86,7 @@
           <cell/>
         </row>
       </table><p/>-->
-      
+      <body>
       <p>[Portada r]</p>
       <p>ILVSTRACIÓN</p>
       <p>Y</p>
@@ -8760,5 +8760,5 @@
       <p/>
       <p/>
       <p xml:lang="es"/>
-    </body>
-  </text>
+    </body></text></TEI>
+
