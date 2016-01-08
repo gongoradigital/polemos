@@ -12,7 +12,7 @@
       <titleStmt>
         <title>Ilustración de la <hi rend="i">Fábula de Píramo y Tisbe</hi></title>
         <author> Cristóbal de Salazar Mardones</author>
-        <editor>Transcripción de Sara Pezzini</editor>
+        <editor>Sara Pezzini [Transcripción de Sara Pezzini]</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -392,7 +392,7 @@
       <p/>
       <p rend="i">De D. Iuan Vejarano, Abogado en los Reales Consejos de su Majestad, y Agente fiscal en el de Hazienda.</p>
       <p/>
-      <p>DE Los amantes Góngora descriue</p>
+      <p>De los amantes Góngora descriue</p>
       <p>Los rezelos, las ansias, los temores,</p>
       <p>Desatados en sangre los amores,</p>
       <p>La muerte que en su pluma eterna viue.</p>
@@ -512,9 +512,9 @@
       <p>FIN.</p>
       <p xml:lang="es"/>
       <p xml:lang="es"/>
-      <p xml:lang="es"/>
-      <p rend="noindent"><pb n="f. 1r"/><seg rend="titolo1carattere">Fábula de Píramo y Tisbe</seg> </p>
-      <p><quote>La ciudad de Babilonia,</quote> </p>
+      <p rend="noindent"><pb n="f. 1r"/><seg rend="bold">Fábula de Píramo y Tisbe</seg> </p>
+        <p xml:lang="es"/>
+        <p><quote>La ciudad de Babilonia,</quote> </p>
       <p><quote>famosa no por sus muros,</quote> </p>
       <p><quote>(fuesen de tierra cocidos</quote> </p>
       <p><quote>o sean de tierra crudos)</quote> </p>
@@ -1022,33 +1022,27 @@
       <p><quote>individuamente juntos,</quote> </p>
       <p><quote>a pesar del amor, dos,</quote> </p>
       <p><quote>a pesar del número, uno.</quote> </p>
-      <p rend="noindent"><pb n="f. 5r"/><seg rend="titolo1carattere">Ilustración y defensa de la fábula de Píramo y Tisbe</seg> </p>
+        <p xml:lang="es"/>
+        <p xml:lang="es"/>
+        <p rend="noindent"><pb n="f. 5r"/><seg rend= "bold">Ilustración y defensa de la <xml: rend= "" Fábula de Píramo y Tisbe</seg> </p>
+        <p xml:lang="es"/>
+        <p xml:lang="es"/>        
       <p><quote>1. La ciudad de Babilonia,</quote> </p>
       <p><quote>famosa, no por sus muros,</quote> </p>
       <p><quote>(fuesen de tierra cocidos</quote> </p>
       <p><quote>o sean de tierra crudos),</quote> </p>
-      <p>
-        \n
-</p>
-      <list type="ol" rend="1">
-        <item rend="normal1">
-          <quote>sino por los dos amantes</quote>
-        </item>
-      </list>
+        <p xml:lang="es"/>
+      <p><quote>2. sino por los dos amantes</quote></p>
       <p><quote>desdichados, hijos suyos,</quote> </p>
       <p><quote>que muertos, y en un estoque,</quote> </p>
       <p><quote>han peregrinado el mundo,</quote> </p>
-      <p>
-        \n
-</p>
-      <p><quote>3. citarista dulce, hija</quote> </p>
+        <p xml:lang="es"/>
+        <p><quote>3. citarista dulce, hija</quote> </p>
       <p><quote>del Archipoeta rubio,</quote> </p>
       <p><quote>si al brazo mi instrumento</quote> </p>
       <p><quote>le solicitas el pulso,</quote> </p>
-      <p>
-        \n
-</p>
-      <p><quote>4. digno sujeto será</quote> </p>
+        <p xml:lang="es"/>
+        <p><quote>4. digno sujeto será</quote> </p>
       <p><quote>de las orejas del vulgo:</quote> </p>
       <p><quote>popular aplauso quiero</quote> </p>
       <p><quote>perdónenme sus tribunos.  </quote> </p>
@@ -1167,9 +1161,8 @@
       <p><quote>[...] mihi flauus Apollo</quote> </p>
       <p><quote>Pocula Castalia plena ministret aqua.</quote> </p>
       <p>
-        \n
 </p>
-      <p xml:lang="es" rend="edcita3depigrafe">Digno sujeto será</p>
+      <p xml:lang="es" rend="edcita3depigrafe" >Digno sujeto será</p>
       <p xml:lang="es" rend="edcita3depigrafe"><hi rend="color_00000a"><pb n="f. 9v"/></hi>de las orejas del vulgo.</p>
       <p>Averiguada cosa es que todos los poetas estaban antiguamente tan mal con el vulgo que en cuantas ocasiones se ofrecían le menospreciaban; y así <name type="authority">Horacio</name>, en casi todas sus obras, le maltrata: libro 2, oda 16, dice que es malicioso y, como tal, debe ser desestimado:</p>
       <p><quote>[...] et malignum</quote> </p>
