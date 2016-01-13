@@ -1,3 +1,6 @@
+Site Github
+http://gongoradigital.github.io/polemos/
+
 [2015-05-07] 
 Mise en place du subversion pour l’équipe 
 
