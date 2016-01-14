@@ -9,3 +9,6 @@ Mise en place de la mise à jour automatique sur http://obvil-dev.paris-sorbonne
 
 [2016-01-11]
 Importation du projet Góngora de svn vers GitHub.
+
+[2016-01-14]
+Tentative de commit via tortoise git
