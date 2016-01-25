@@ -22,6 +22,15 @@
           <name>Jaime Galbarro</name>
           <resp>relecture</resp>
         </respStmt>
+                <respStmt>
+          <name>Sara Pezzini</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+                <respStmt>
+          <name>Hector Ruiz</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+        
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
