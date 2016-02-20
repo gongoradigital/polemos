@@ -12335,7 +12335,7 @@
               <l n="139" xml:id="l152.139">porque oléis a proveído</l>
               <l n="140" xml:id="l152.140">muy mal y muy sin razón?</l>
               <l n="141" xml:id="l152.141">¿O sois privado de quien</l>
-              <l n="142" xml:id="l152.142">no sólo aquí os despidió,</l>
+              <l n="142" xml:id="l152.142">no solo aquí os despidió,</l>
               <l n="143" xml:id="l152.143">mas os echó su mal ojo,</l>
               <l n="144" xml:id="l152.144">que es basilisco un señor?</l>
               <l n="145" xml:id="l152.145">Sed cualquiera cosa de estas,</l>
@@ -12362,7 +12362,7 @@
             <lg>
               <l n="1" rend="refrain" xml:id="l153.1">Trepan los gitanos</l>
               <l n="2" rend="refrain" xml:id="l153.2">y bailan ellas,</l>
-              <l n="3" rend="refrain" xml:id="l153.3">otro mulo a la bolsa</l>
+              <l n="3" rend="refrain" xml:id="l153.3">otro nudo a la bolsa</l>
               <l n="4" rend="refrain" xml:id="l153.4">mientras que trepan.</l>
             </lg>
             <lg>
@@ -12519,11 +12519,11 @@
               <lb/><lb/>De don Rodrigo Sarmiento, conde de Salinas</head>
             <lg>
               <l n="1" xml:id="l154.1">Del león, que en la Silva apenas cabe<note place="bottom"
-                  >Alude al león que traen por armas los Silvas. Casó don Diego de Silva con dos
-                  hermanas condesas de Salinas.</note>,</l>
+                  >Alude al león que traen por armas los Silvas.</note>,</l>
               <l n="2" xml:id="l154.2">o ya por fuerte, o ya por generoso,</l>
               <l n="3" xml:id="l154.3">que a dos Sarmientos, cada cual glorioso,</l>
-              <l n="4" xml:id="l154.4">obedeció mejor que al bastón grave,</l>
+              <l n="4" xml:id="l154.4">obedeció mejor que al bastón grave,<note place="bottom">Casó don Diego de Silva con dos
+                  hermanas condesas de Salinas</l>
             </lg>
             <lg>
               <l n="5" xml:id="l154.5">real cachorro, y pámpano süave</l>
@@ -12653,7 +12653,7 @@
               <l n="48" xml:id="l157.48">los siguientes, almohada...<anchor xml:id="footnote1"
                   /><note place="bottom">No pasó adelante con este romance. Y pidiéndole después el
                   año de 1618 algunos amigos suyos que le continuase, gustó más de hacer el que se
-                  sigue («–La ciudad de Babilonia–», poema n° 317].</note></l>
+                  sigue («La ciudad de Babilonia», poema n° 317].</note></l>
             </lg>
           </div>
         </div>
@@ -12751,7 +12751,7 @@
               <l n="41" xml:id="l159.41">Deseáronse este día</l>
               <l n="42" xml:id="l159.42">con las reales personas</l>
               <l n="43" xml:id="l159.43">los rayos de sus coronas,</l>
-              <l n="44" xml:id="l159.44">gloriosa infantería;</l>
+              <l n="44" xml:id="l159.44">glorïosa infantería;</l>
               <l n="45" xml:id="l159.45">y las, que el cielo nos fía,</l>
               <l n="46" xml:id="l159.46">luces divinas, aquellas</l>
               <l n="47" xml:id="l159.47">que (si piedras son estrellas),</l>
@@ -13062,12 +13062,16 @@
               <l n="28" xml:id="l165.28">el fondo es bien dejar, más escondido,</l>
               <l n="29" xml:id="l165.29">y coronar su popa</l>
               <l n="30" xml:id="l165.30">cuernos del toro que traslada a Europa.</l>
+              </lg>
+              <lg>
               <l n="31" xml:id="l165.31">»Serenísimas plumas</l>
               <l n="32" xml:id="l165.32">vista del alcïón el austro insano;</l>
               <l n="33" xml:id="l165.33">perlas sean las espumas,</l>
               <l n="34" xml:id="l165.34">y las olas cristal del oceano;</l>
               <l n="35" xml:id="l165.35">no ya cristal de roca,</l>
               <l n="36" xml:id="l165.36">que en solo el nombre cada bajel toca.</l>
+              </lg>
+              <lg>              
               <l n="37" xml:id="l165.37">»Regale sus orejas</l>
               <l n="38" xml:id="l165.38">en dulce sí, mas bárbaro instrumento,</l>
               <l n="39" xml:id="l165.39">de corales y almejas,</l>
@@ -13235,6 +13239,8 @@
               <l n="18" xml:id="l167.18">que será la espada mía</l>
               <l n="19" xml:id="l167.19">cuchillo de escribanía</l>
               <l n="20" xml:id="l167.20">para cortarle la pluma.</l>
+              </lg>
+              <lg>
               <l n="21" xml:id="l167.21">Si habéis sido vos malilla</l>
               <l n="22" xml:id="l167.22">y otro el basto os atraviesa,</l>
               <l n="23" xml:id="l167.23">y al que os ve el juego y le pesa</l>
@@ -13464,7 +13470,7 @@
             <lg>
               <l n="9" xml:id="l174.9">divinos ojos, que en su dulce oriente</l>
               <l n="10" xml:id="l174.10">dan luz al mundo, quitan luz al cielo,</l>
-              <l n="11" xml:id="l174.11">y espera idolatrados occidente.</l>
+              <l n="11" xml:id="l174.11">y espera idolatrallos occidente.</l>
             </lg>
             <lg>
               <l n="12" xml:id="l174.12">Esto Amor solicita con su vuelo,</l>
@@ -13630,7 +13636,7 @@
               <l n="7" xml:id="l178.7">los quiso poner Alcides,</l>
               <l n="8" xml:id="l178.8">con dos columnas, al orbe.</l>
               <l n="9" xml:id="l178.9">El uno es la blanca Nais,</l>
-              <l n="10" xml:id="l178.10">lo el otro, la rubia Cloris,</l>
+              <l n="10" xml:id="l178.10">el otro, la rubia Cloris,</l>
               <l n="11" xml:id="l178.11">cuyas frentes de jazmines</l>
               <l n="12" xml:id="l178.12">son auroras de sus soles.</l>
               <l n="13" xml:id="l178.13">Deidades ambas divinas,</l>
@@ -13705,7 +13711,7 @@
             </lg>
             <lg>
               <l n="9" xml:id="l179.9">Tienda es, gloriosa, donde en lechos de oro</l>
-              <l n="10" xml:id="l179.10">victoriosos duermen los soldados</l>
+              <l n="10" xml:id="l179.10">victorïosos duermen los soldados</l>
               <l n="11" xml:id="l179.11">que ya despertarán a triunfo y palmas;</l>
             </lg>
             <lg>
@@ -13786,7 +13792,7 @@
               <l n="4" xml:id="l182.4">—Treinta soldados en tres mil galeras.</l>
             </lg>
             <lg>
-              <l n="5" xml:id="l182.5">—¿Tanta gente? —Tomárnoslo de veras.</l>
+              <l n="5" xml:id="l182.5">—¿Tanta gente? —Tomámoslo de veras.</l>
               <l n="6" xml:id="l182.6">—¿Desembarcastes, Juan? —Tarde pïache,</l>
               <l n="7" xml:id="l182.7">que al dar un Santïago de azabache,</l>
               <l n="8" xml:id="l182.8"> dio la playa más moros que veneras.</l>
@@ -13824,6 +13830,8 @@
               <l n="10" xml:id="l183.10">mas de puntas armado, de diamante;</l>
               <l n="11" xml:id="l183.11">púselas en hüida,</l>
               <l n="12" xml:id="l183.12">y cada flor me cuesta una herida.</l>
+              </lg>
+              <lg>
               <l n="13" xml:id="l183.13">Más, Clori, que he tejido</l>
               <l n="14" xml:id="l183.14">jazmines al cabello desatado,</l>
               <l n="15" xml:id="l183.15">y más besos te pido</l>
@@ -13843,7 +13851,7 @@
             <lg>
               <l n="1" xml:id="l184.1">Del mar (y no de Huelva)</l>
               <l n="2" xml:id="l184.2">los escollos el sol (los muros) raya.</l>
-              <l n="3" xml:id="l184.3">Gimiendo el alción, era en la playa</l>
+              <l n="3" xml:id="l184.3">Gimiendo el alcïón, era en la playa</l>
               <l n="4" xml:id="l184.4">ruiseñor en la selva,</l>
               <l n="5" xml:id="l184.5">cuando pescador pobre</l>
               <l n="6" xml:id="l184.6">mucha despide red, de poco robre.</l>
@@ -13961,7 +13969,7 @@
             <lg>
               <l n="1" xml:id="l190.1">Marco de plata excelente</l>
               <l n="2" xml:id="l190.2">y torre segura y alta,</l>
-              <l n="3" xml:id="l190.3">pues Monsiür de Peralta</l>
+              <l n="3" xml:id="l190.3">pues Monsïur de Peralta</l>
               <l n="4" xml:id="l190.4">ha llegado alegremente<note place="bottom">LLegó a Córdoba
                   pocos días antes de pascua de Espíritu Santo monsiur de Peralta, uno de los que
                   solían ir a jugar al lavadero.</note>,</l>
@@ -14074,7 +14082,7 @@
               <term type="head"><num>194. </num>Llegué a este Monte fuerte, coronado</term>
             </index>
             <head><num>194</num>
-              <lb/><lb/>Al conde de Lemus, vendolo a visitar a Monforte</head>
+              <lb/><lb/>Al conde de Lemus, yéndolo a visitar a Monforte</head>
             <lg>
               <l n="1" xml:id="l194.1">Llegué a este Monte fuerte, coronado</l>
               <l n="2" xml:id="l194.2">de torres convecinas a los cielos,</l>
@@ -14213,7 +14221,7 @@
             </lg>
             <lg>
               <l n="12" xml:id="l198.12">que a los primeros del diciembre frío,</l>
-              <l n="13" xml:id="l198.13">de sus muías harán estos señores</l>
+              <l n="13" xml:id="l198.13">de sus mulas harán estos señores</l>
               <l n="14" xml:id="l198.14">que los orines den salud al río.</l>
             </lg>
           </div>
@@ -14235,7 +14243,7 @@
             </lg>
             <lg>
               <l n="5" xml:id="l199.5">De vos, madera anciana, me despido,</l>
-              <l n="6" xml:id="l199.6">miembros de algún navio de vendeja,</l>
+              <l n="6" xml:id="l199.6">miembros de algún navío de vendeja,</l>
               <l n="7" xml:id="l199.7">patria común de la nación bermeja,</l>
               <l n="8" xml:id="l199.8">que en un mes, sin deudo, de mi sangre ha sido.</l>
             </lg>
@@ -14294,7 +14302,7 @@
               <l n="1" xml:id="l201.1">Música le pidió ayer su albedrío</l>
               <l n="2" xml:id="l201.2">a un descendiente de don Peranzules;</l>
               <l n="3" xml:id="l201.3">templáronle al momento dos baúles</l>
-              <l n="4" xml:id="l201.4">con más cuerdas que jarcias un navio.</l>
+              <l n="4" xml:id="l201.4">con más cuerdas que jarcias un navío.</l>
             </lg>
             <lg>
               <l n="5" xml:id="l201.5">Cantáronle de cierto amigo mío</l>
