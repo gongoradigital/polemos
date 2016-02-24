@@ -2521,6 +2521,13 @@
             </cell>
           </row>
           <row>
+            <cell>466a</cell>
+            <cell>¿?</cell>
+            <cell>
+              <ref target="#poem466a">De las ya fiestas reales</ref>
+            </cell>
+          </row>
+          <row>
             <cell>467</cell>
             <cell>Ant. a 1624</cell>
             <cell>
@@ -29887,23 +29894,24 @@
             <l n="14" xml:id="l466.14">volar no vio esta vez al buey barbado.</l>
           </lg>
         </div>
-<index>
+        <div n="466a" type="poem" xml:id="poem466a">
+        <index>
             <term type="head"><num>466a. </num>De las ya fiestas reales</term>
           </index>
           <head><num>466a</num> (<date>¿?</date>)<lb/>
             <lb/>Contra don Juan [Ruiz] de Alarcón porque se valió de algunos amigos 
-            suyos para celebrar las fiestas reales que su majestad hizo en Madrd</head>
+            suyos para celebrar las fiestas reales que su majestad hizo en Madrid</head>
           <lg>
             <l n="1" xml:id="l466a.1">De las ya fiestas reales</l>
             <l n="1" xml:id="l466a.2">sastre y no poeta seas,</l>
             <l n="1" xml:id="l466a.3">si a octavas como a libreas</l>
             <l n="1" xml:id="l466a.4">introduces oficiales.</l>
             <l n="1" xml:id="l466a.5">¿De ajenas plumas te vales,</l>
-            <l n="1" xml:id="l466a.6">corneja?¿Desmentirás</l>
+            <l n="1" xml:id="l466a.6">corneja? ¿Desmentirás</l>
             <l n="1" xml:id="l466a.7">la que delante y detrás</l>
             <l n="1" xml:id="l466a.8">gémina concha te viste?</l>
             <l n="1" xml:id="l466a.9">Galápago siempre fuiste</l> 
-            <l n="1" xml:id="l466a.10">y galápago serás.</l>      
+            <l n="1" xml:id="l466a.10">y galápago serás.</l></lg>      
             </div>
  <div n="467" type="poem" xml:id="poem467">
           <index>
