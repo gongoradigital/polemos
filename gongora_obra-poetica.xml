@@ -680,7 +680,7 @@
             <cell>123</cell>
             <cell>1600</cell>
             <cell><ref target="#poem123">
-                <hi rend="i">¿Por qué llora la Isabelitica?</hi>
+                <hi rend="refrain">¿Por qué llora la Isabelitica?</hi>
               </ref></cell>
           </row>
           <row>
@@ -10736,13 +10736,13 @@
               <num>123</num><lb/><lb/>[A dama moza casada con un viejo] </head>
             <label>A</label>
             <lg>
-              <l n="1" rend="i" xml:id="l123.1">¿Por qué llora la Isabelitica?</l>
-              <l n="2" rend="i" xml:id="l123.2"><space> </space>¿Qué chiribica?</l>
+              <l n="1" rend="refrain" xml:id="l123.1">¿Por qué llora la Isabelitica?</l>
+              <l n="2" rend="refrain" xml:id="l123.2"><space> </space>¿Qué chiribica?</l>
             </lg>
             <label>B</label>
             <lg>
-              <l n="3" rend="i" xml:id="l123.3">Cheriba un ochavo de oro,</l>
-              <l n="4" rend="i" xml:id="l123.4">danme un cualto de pata, y lloro. </l>
+              <l n="3" rend="refrain" xml:id="l123.3">Cheriba un ochavo de oro,</l>
+              <l n="4" rend="refrain" xml:id="l123.4">danme un cualto de pata, y lloro. </l>
                         <label>A</label>
                           <l n="5" xml:id="l123.5">¿Quién del Amor hizo bravos</l>
               <l n="6" xml:id="l123.6">los más dulces desenojos?</l>
@@ -10752,8 +10752,8 @@
                           <l n="9" xml:id="l123.9">Un vieho de los dïabos</l>
               <l n="10" xml:id="l123.10">que adora y no saquifica.</l>
             <label>A</label>
-              <l n="11" rend="i" xml:id="l123.11">¿Por qué llora la Isabelitica?</l>
-              <l n="12" rend="i" xml:id="l123.12">¿Qué chiribica?</l>
+              <l n="11" rend="refrain" xml:id="l123.11">¿Por qué llora la Isabelitica?</l>
+              <l n="12" rend="refrain" xml:id="l123.12">¿Qué chiribica?</l>
             </lg>
             <label>B</label>
             <lg>
@@ -10764,8 +10764,8 @@
                         <label>A</label>
                           <l n="17" xml:id="l123.17">Pague ese buen viejo el pato,</l>
               <l n="18" xml:id="l123.18">pues tal polla mortifica.</l>
-              <l n="19" rend="i" xml:id="l123.19">¿Por qué llora la Isabelitica?</l>
-              <l n="20" rend="i" xml:id="l123.20">¿Qué chiribica?</l>
+              <l n="19" rend="refrain" xml:id="l123.19">¿Por qué llora la Isabelitica?</l>
+              <l n="20" rend="refrain" xml:id="l123.20">¿Qué chiribica?</l>
             </lg>
             <label>B</label>
             <lg part="I">
@@ -10779,8 +10779,8 @@
                           <l n="25" xml:id="l123.25">Esto mi señora abela </l>
               <l n="26" xml:id="l123.26">me lo enseñó desde chica.</l>
                         <label>A</label>
-                          <l n="27" rend="i" xml:id="l123.27">¿Por qué la Isabelitica?</l>
-              <l n="28" rend="i" xml:id="l123.28">¿Qué chiribica?</l>
+              <l n="27" rend="refrain" xml:id="l123.27">¿Por qué la Isabelitica?</l>
+              <l n="28" rend="refrain" xml:id="l123.28">¿Qué chiribica?</l>
               <l n="29" xml:id="l123.29a" part="I">¿Es galán?</l>
             </lg>
             <label>B</label>
@@ -10794,8 +10794,8 @@
                         <label>A</label>
                           <l n="33" xml:id="l123.33">No hay barbero viejo al fin</l>
               <l n="34" xml:id="l123.34">que no sea de Malpica.</l>
-              <l n="35" rend="i" xml:id="l123.35">¿Por qué llora la Isabelitica?</l>
-              <l n="36" rend="i" xml:id="l123.36">¿Qué chiribica?</l>
+              <l n="35" rend="refrain" xml:id="l123.35">¿Por qué llora la Isabelitica?</l>
+              <l n="36" rend="refrain" xml:id="l123.36">¿Qué chiribica?</l>
             </lg>
           </div>
           <div n="124" type="poem" xml:id="poem124">
@@ -22185,19 +22185,19 @@
               <label>2.</label><l n="5" rend="refrain" xml:id="l303.5a" part="I">¿E qué fu?</l><label>1.</label><l n="5" rend="refrain" xml:id="l303.5b" part="F">Entre la
                 hena</l>
               <l n="6" rend="refrain" xml:id="l303.6">mucho Sol con mucha raia.</l>
-              <label>2.</label><l n="7" xml:id="l303.7"><hi rend="i">Caia, caia.</hi></l>
-              <label>1.</label><l n="8" xml:id="l303.8"><hi rend="i">Por en Diosa que no miento.</hi></l>
-              <label>2.</label><l n="9" xml:id="l303.9"><hi rend="i">Vamo aiá.</hi> <label>1.</label><hi rend="i">Toca
-                instrumento.</hi></l>
-              <label>2.</label><l n="10" xml:id="l303.10"><hi rend="i">Elamú, calambú, canbú</hi>,</l>
-              <l n="11" rend="i" xml:id="l303.11">elamú.</l>
-              <label>1.</label><l n="12" xml:id="l303.12"><hi rend="i">Tú, prima, sará al momento</hi></l>
-              <l n="13" rend="i" xml:id="l303.13">escravita do nacimento. </l>
-              <label>2.</label><l n="14" xml:id="l303.14"><hi rend="i">¿E qué sará, primo, tú</hi>?</l>
-              <label>1.</label><l n="15" xml:id="l303.15"><hi rend="i">Saró bu</hi>,</l>
-              <l n="16" rend="i" xml:id="l303.16">se chora o menín Jesú. </l>
-              <label>2.</label> <l n="17" rend="i" xml:id="l303.17">Elamú, calambú, cambú,</l>
-              <l n="18" rend="i" xml:id="l303.18">elamú.</l>
+              <label>2.</label><l n="7" rend="refrain" xml:id="l303.7">Caia, caia.</l>
+              <label>1.</label><l n="8" rend="refrain" xml:id="l303.8">Por en Diosa que no miento.</l>
+              <label>2.</label><l n="9" rend="refrain" xml:id="l303.9a" part="I">Vamo aiá.</l> <label>1.</label><l n="9" rend="refrain" xml:id="l303.9b" part="F">
+              Toca instrumento.</l>
+              <label>2.</label><l n="10" rend="refrain" xml:id="l303.10">Elamú, calambú, canbú,</l>
+              <l n="11" rend="refrain" xml:id="l303.11">elamú.</l>
+              <label>1.</label><l n="12" rend="refrain" xml:id="l303.12">Tú, prima, sará al momento</l>
+              <l n="13" rend="refrain" xml:id="l303.13">escravita do nacimento. </l>
+              <label>2.</label><l n="14" rend="refrain" xml:id="l303.14">¿E qué sará, primo, tú</l>
+              <label>1.</label><l n="15" rend="refrain" xml:id="l303.15">Saró bu,</l>
+              <l n="16"  rend="refrain" xml:id="l303.16">se chora o menín Jesú. </l>
+              <label>2.</label> <l n="17" rend="refrain" xml:id="l303.17">Elamú, calambú, cambú,</l>
+              <l n="18" rend="refrain" xml:id="l303.18">elamú.</l>
             </lg>
             <lg>
               <label>1.</label><l n="19" xml:id="l303.19">Cosa vimo que creeia</l>
