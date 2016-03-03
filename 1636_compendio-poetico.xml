@@ -6,7 +6,7 @@
       <titleStmt>
         <title>Fragmentos del <hi rend="i">Compendio Poético</hi></title>
         <author key="Villar, Francisco del">Francisco del Villar</author>
-        <editor>Jesus Ponce Cárdenas</editor>
+        <editor>Jesús Ponce Cárdenas</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -1937,10 +1937,8 @@
               libro décimo de la <hi rend="i">Institutio Oratoria</hi>, II, 22. Reproduzco aquí el
               fragmento completo para facilitar la comprensión: «<hi rend="i">Id quoque vitandum, in
                 quo magna pars errat, ne in oratione poetas nobis et historicos, in illis operibus
-                oratores aut declamatores imitandos putemus.</hi><anchor xml:id="chapII_sec22"/><hi
-                xml:lang="it" rend="i">Sua cuique proposito lex, suus decor est: nec comoedia in
-                cothurnos adsurgit, nec contra</hi><hi xml:lang="it" rend="i">tragoedia socco
-                ingreditur. Habet tamen omnis eloquentia aliquid commune: id imitemur quod commune
+                oratores aut declamatores imitandos putemus. Sua cuique proposito lex, suus decor est: nec comoedia in
+                cothurnos adsurgit, nec contra tragoedia socco ingreditur. Habet tamen omnis eloquentia aliquid commune: id imitemur quod commune
                 est</hi>».</note></quote>.</p>
         <p>La grandeza, medianía o humildad del sujeto levanta, detiene o humilla el estilo y así
           dijo <name type="authority">Tulio</name> que el orador perfecto ha de tratar las cosas
@@ -2658,7 +2656,7 @@
             type="app" rend="I"> Corrijo el error evidente del copista, que transcribe literalmente
             «Rodero» tanto en el texto como en la anotación marginal.</note> lo define mejor
           diciendo que el argumento del verso heroico ha de ser severo, grande e ilustre:
-            <quote>Heroici enimcarminis argumentum seuerum, grande et illustre</quote><note
+            <quote>Heroici enim carminis argumentum seuerum, grande et illustre</quote><note
             place="bottom"> La cita procede de las anotaciones del padre Matthäus Rader al sintagma
               <hi rend="i">seuerus herois</hi>, perteneciente al epigrama vigésimo del libro tercero
             de los <hi rend="i">Epigrammata</hi> de Marcial (1611: 258-259).</note>. La mucha
@@ -2787,7 +2785,7 @@
         </p>
         <p><pb n="34"/><quote>gima el lebrel en el cordón de seda</quote>
         </p>
-        <p><quote>y al cuerno al fin la cítara suceda.</quote>
+        <p><quote>y al cuerno al fin la cítara suceda.</quote></p>
         </p>
         <p><quote>Treguas al ejercicio sean robusto</quote>
         </p>
@@ -2851,7 +2849,7 @@
           poeta hace al Amor<note place="bottom"> [OC264C.665-671]</note>:</p>
         <p><quote>Al peregrino por tu causa vemos</quote>
         </p>
-        <p><quote>alcázares dejaddonde excedida</quote>
+        <p><quote>alcázares dejad donde excedida</quote>
         </p>
         <p><quote>de la sublimidad la vista apela</quote>
         </p>
@@ -3324,8 +3322,8 @@
               terram me esse scio et si quid caelitus infusum nobis, minus opinione vestra est, qui
               favetis. Sed talia sunt reliqua illic crimina: nisi quod unum non excuso, dictum alibi
               lasciuis aliquid, aut petulantius, in eius gentem. Utinam revocare fas sit, atque
-              etiam delere! Faciam, si uiuo</hi>» (Lipsio 1611: 327). <hi rend="bg_ff0000"
-              >X0X196arriba</hi></note>. No sea permitido a la imprenta lo que ofendió al decoro de
+              etiam delere! Faciam, si uiuo</hi>» (Lipsio 1611: 327).<ref xml:id="arriba">
+              arriba</note>. No sea permitido a la imprenta lo que ofendió al decoro de
           personas particulares. Y es justo perdonar tan sazonadas vivezas. Y piérdanse tesoros tan
           peligrosos y nadie aumente su crédito con pérdida de reputación ajena. Entre los escritos
           que con menos escrúpulo pueden divertir el ingenio se valió mi elección de las siguientes,
@@ -3511,7 +3509,7 @@
             translationibus non utuntur</quote><note place="bottom">
             <hi rend="i">Retórica</hi>, III, 1406, b 5 y ss.</note>. Y en otra parte dice que no
           pide estudio ni cuidado: <quote>comedia vero quia in ea nullum studium positum est
-            fefellit </quote><note place="margin"> Aris in art. C 5.</note><note place="bottom">
+            fefellit</quote><note place="margin"> Aris in art. C 5.</note><note place="bottom">
             <hi rend="i">Poética</hi>, 1449, a 36.</note>. No han ignorado estas leyes nuestros
           poetas, pero o se ha[n] dejado guiar de más acertado dictamen suyo o de más sazonado gusto
           del vulgo y no de los preceptos del arte, de lo cual haciéndose entendido <name
@@ -3641,7 +3639,7 @@
         <p/>
         <p><hi rend="i">Proposición séptima.</hi></p>
         <p><hi rend="i">Don</hi> <name type="polemista">Luis de Góngora</name><hi rend="i">
-            fue</hi><name type="polemista">el mayor poeta de España</name>
+            fue </hi><name type="polemista">el mayor poeta de España</name>
         </p>
         <p><pb n="65"/> Aunque cualesquiera comparación engendra aborrecimiento y parezca empresa
           culpable querer censurar ingenios tan superiores, no puede la inclinación (por más que el
@@ -3688,8 +3686,7 @@
             pasaje de las epístolas de Justo Lipsio donde aparecía la significativa imagen del <hi
               xml:lang="es" rend="i">astro</hi> de mayor tamaño que brilla entre las <hi
               xml:lang="es" rend="i">estrellas</hi>: «<hi xml:lang="es" rend="i">non ego astrum sum,
-              nec quidem inter stellas</hi>». Véase la nota <hi rend="bg_ff0000"
-            >X0X196arriba</hi>.</note>.</p>
+              nec quidem inter stellas</hi>». Véase la nota arriba <ref target="arriba">.</note>.</p>
         <p>Ilustres esfuerzos dio a la poesía y lengua española el famoso cordobés <name
             type="authority">Juan de Mena</name>, cifrando en sus versos grave imitación de poetas
           latinos, agradable ficción de objetos, briosa facilidad de genio, con erudición continua y
@@ -3750,7 +3747,7 @@
             <hi rend="i">Abonar</hi>: «acreditar o calificar de bueno», «hacer bueno o útil algo,
             mejorarlo de estado» (RAE).</note>, sino de cuantas cosas le prohijaron el nombre<note
             place="bottom"> Como generosamente me hace notar Pedro Conde Parrado, la parte final de
-            esta frase«da la impresión de que alude a la célebre expresión <hi rend="i">ser de
+            esta frase «da la impresión de que alude a la célebre expresión <hi rend="i">ser de
               Lope</hi>, que, según bastantes testimonios de la época (incluido el del propio
             dramaturgo), solía emplearse para significar que algo (desde una obra literaria hasta
             una hortaliza del mercado) era excelente en su género».</note>. <pb n="72"/> Pero nadie
@@ -3786,7 +3783,7 @@
         </p>
         <p>pág. 16<space rend="tab"> </space>línea 10 de juicio; lee de este juicio</p>
         <p>pág. 20<space rend="tab"> </space>línea 8 heroica, lee heroico</p>
-        <p>pág. 22 línea 1 Pisierga, lee Piuerga</p>
+        <p>pág. 22 línea 1 Pisierga, lee Pisuerga</p>
         <p>pág. 32 línea 3 dudar, lee duda</p>
         <p>pág. 40 línea 9 liner, lee lince</p>
         <p>pág. 22 línea 8 soy, lee so<note place="bottom">La grafía de la última línea parece
