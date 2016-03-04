@@ -2169,24 +2169,17 @@
             aquí cuál es el escalafón más bajo entre los lectores de la época, según establece en el
             grupo heterogéneo que forman los indeterminados «ociosos», las «mujeres» y los «niños de
             la escuela» que se entretienen, fundamentalmente, con «burlas».</note>, pues en la
-            <title>Fábula de Píramo y Tisbe</title> dijo:</p>
+            <title>Fábula de Píramo y Tisbe</title> dijo:</p><quote>
         <p/>
-        <p><quote>Citarista dulce, hija </quote>
-        </p>
-        <p><quote>del Archipoeta rubio, </quote>
-        </p>
-        <p><quote>si al brazo de mi instrumento </quote>
-        </p>
-        <p><quote>le solicitas el pulso, </quote>
-        </p>
-        <p><quote>digno sujeto será </quote>
-        </p>
-        <p><quote>de las orejas del vulgo: </quote>
-        </p>
-        <p><quote>popular aplauso quiero, </quote>
-        </p>
-        <p><quote>perdónenme sus tribunos</quote><note place="bottom"> [OC317.9-16] </note>.</p>
-        <p/>
+        <lg><l>Citarista dulce, hija</l>
+        <l>del Archipoeta rubio,</l>
+        <l>si al brazo de mi instrumento</l>
+        <l>le solicitas el pulso,</l>
+        <l>digno sujeto será</l>
+        <l>de las orejas del vulgo:</l>
+        <l>popular aplauso quiero,</l>
+        <l>perdónenme sus tribunos<note place="bottom"> [OC317.9-16] </note>.</l></lg>
+              <p/></quote>
         <p rend="noindent">Fuéronle molestas voces tan poco ajustadas y acordadas y cansáronle
           aplausos <pb n="13"/> tan poco calificados. Y queriendo huir el cuerpo a las alabanzas del
           vulgo, como de poco aprecio en orejas cuerdas, advertido de todos ejemplos y segura
@@ -2196,14 +2189,10 @@
             type="app" rend="I"> Entre líneas el corrector introduce la rectificación, ya que el
             copista originariamente transcribió “escribirlas”. </note>. Y así comenzó las
             <title>Soledades</title> diciendo:</p>
-        <p/>
-        <p><quote>Pasos de un Peregrino son errantes </quote>
-        </p>
-        <p><pb n="14"/><quote>cuantos me dictó versos dulce Musa </quote>
-        </p>
-        <p><quote>en soledad confusa</quote><note place="bottom"> [OC264A.1-3]</note>.</p>
-        <p/>
-        <p rend="noindent">Con que mostró la comprensión especulativa que tuvo de los preceptos de
+        <l>Pasos de un Peregrino son errantes </l>
+        <pb n="14"/><l>cuantos me dictó versos dulce Musa </l>
+        <l>en soledad confusa<note place="bottom"> [OC264A.1-3]</note>.</l>
+                <p rend="noindent">Con que mostró la comprensión especulativa que tuvo de los preceptos de
           esta profesión y la facilidad con que se acomodó a la práctica de ellos.</p>
         <p/>
         <p><hi rend="i">Don Luis de Góngora fue singular poeta epigramatario §2</hi></p>
@@ -2218,7 +2207,7 @@
             ocultamiento (el caudal de «conceptos» y «adornos» de los grandes modelos grecolatinos
             ha permanecido encerrado bajo llave en cámaras o arcones durante siglos), Francisco del
             Villar elogia el talento gongorino para abrir aquellos enclaves cerrados y apropiarse de
-            los antiguos tesoros, trayéndolos al presente con sus versos. [<ref xml:id="ref2" target=>Véase arriba</ref>]</note>
+            los antiguos tesoros, trayéndolos al presente con sus versos. [<ref xml:id="ref2">Véase arriba</ref>]</note>
              para manifestar cuantos conceptos y adornos han tenido
           escondidos y reclusos todas las edades?<note place="bottom"> Como parte de la genialidad
             que respalda la escritura gongorina pondera la «erudición», el «desvelo», el continuo
@@ -2415,7 +2404,7 @@
           Guadarrama:</p>
         <p/>
         <p><hi rend="i">Epigramas líricos</hi></p>
-        <p><quote>Montaña inarcesible, puesta en vano</quote>, folio 6, página 2<note place="bottom"
+        <quote><l>Montaña inarcesible, puesta en vano</l></quote><p>, folio 6, página 2<note place="bottom"
             > [OC155.1]</note>. Epigrama lírico segundo, a una rosa: <quote>Ayer naciste y morirás
             mañana</quote>, folio 37, página 2<note place="bottom"> El texto, de dudosa autoría, no
             aparece recogido por Antonio Carreira en su edición de las <hi xml:lang="es" rend="i"
@@ -2670,11 +2659,11 @@
         <p/>
         <p><pb n="30"/><quote>Scribant ista graves nimium nimiumque severi</quote>
         </p>
-        <p><quote>quos media miseros nocte lucerna videt</quote><note place="bottom"> Cita los
+        <quote><l>quos media miseros nocte lucerna videt.</l></quote><note place="bottom"> Cita los
             versos 17-18 del epigrama tercero del libro VIII de los <hi rend="i">Epigrammata</hi> de
             Marcial. Una traducción aproximada sería: ‘Que escriban esas cosas los autores graves en
             exceso, los excesivamente severos, / los desdichados a los que contempla el candil en
-            mitad de la noche’.</note>.</p>
+            mitad de la noche’.</note>
         <p/>
         <p rend="noindent">Tan graves han de ser las palabras, tan ilustre el estilo que levanten el
           ánimo y lo alienten a empresas altas. Y así aconseja y solicita lección <name
@@ -2754,56 +2743,33 @@
           testifica, de que harán argumento estas estancias<note place="bottom">
           [OC255.1-32]</note>.</p>
         <p/>
-        <p><pb n="33"/><hi rend="i">Al excelentísimo señor conde de Niebla</hi>
+        <quote><p><pb n="33"/><hi rend="i">Al excelentísimo señor conde de Niebla</hi>
         </p>
-        <p><quote>Estas que me dictó rimas sonoras</quote>
-        </p>
-        <p><quote>culta sí, aunque bucólica Talía,</quote>
-        </p>
-        <p><quote>oh excelso conde en las purpúreas horas</quote>
-        </p>
-        <p><quote>que es rosa el alba y rosicler el día</quote>
-        </p>
-        <p><quote>en tanto que de luz tu niebla doras</quote>,</p>
-        <p><quote>escucha al son de la zampoña mía,</quote>
-        </p>
-        <p><quote>si ya los muros no te ven de Huelva</quote>
-        </p>
-        <p><quote>peinar el viento y fatigar la selva</quote>.</p>
-        <p/>
-        <p><quote>Y templado pula en la maestra mano</quote>
-        </p>
-        <p><quote>el generoso pájaro su pluma</quote>
-        </p>
-        <p><quote>o tan mudo en la alcándara que en vano</quote>
-        </p>
-        <p><quote>aun desmentir el cascabel presuma,</quote>
-        </p>
-        <p><quote>tascando haga el freno de oro cano</quote>
-        </p>
-        <p><quote>del caballo andaluz la ociosa espuma</quote>
-        </p>
-        <p><pb n="34"/><quote>gima el lebrel en el cordón de seda</quote>
-        </p>
-        <p><quote>y al cuerno al fin la cítara suceda.</quote></p>
-        </p>
-        <p><quote>Treguas al ejercicio sean robusto</quote>
-        </p>
-        <p><quote>ocio atento, silencio dulce, en cuanto</quote>
-        </p>
-        <p><quote>debajo escuchas de dosel augusto</quote>
-        </p>
-        <p><quote>del músico jayán el fiero canto.</quote>
-        </p>
-        <p><quote>Alterna con las musas hoy el gusto,</quote>
-        </p>
-        <p><quote>que si la mía puede ofrecer tanto</quote>
-        </p>
-        <p><quote>clarín y de la Fama no segundo</quote>
-        </p>
-        <p><quote>tu nombre oirán los términos del mundo.</quote>
-        </p>
-        <p/>
+          <lg><l>Estas que me dictó rimas sonoras</l>
+            <l>culta sí, aunque bucólica Talía,</l>
+            <l>oh excelso conde en las purpúreas horas</l>
+            <l>que es rosa el alba y rosicler el día</l>
+            <l>en tanto que de luz tu niebla doras,</l>
+        <l>escucha al son de la zampoña mía,</l>
+        <l>si ya los muros no te ven de Huelva</l>
+            <l>peinar el viento y fatigar la selva.</l></lg>
+          <lg><l>Y templado pula en la maestra mano</l>
+        <l>el generoso pájaro su pluma</l>
+            <l>o tan mudo en la alcándara que en vano</l>
+        <l>aun desmentir el cascabel presuma,</l>
+          <l>tascando haga el freno de oro cano</l>
+            <l>del caballo andaluz la ociosa espuma</l>
+              <l><pb n="34"/>gima el lebrel en el cordón de seda</l>
+            <l>y al cuerno al fin la cítara suceda.</l></lg>
+        <lg><l>Treguas al ejercicio sean robusto</l>
+          <l>ocio atento, silencio dulce, en cuanto</l>
+        <l>debajo escuchas de dosel augusto</l>
+          <l>del músico jayán el fiero canto.</l>
+            <l>Alterna con las musas hoy el gusto,</l>
+              <l>que si la mía puede ofrecer tanto</l>
+                <l>clarín y de la Fama no segundo</l>
+                  <l>tu nombre oirán los términos del mundo.</l></lg></quote>
+                <p/>
         <p><hi rend="i">A la </hi><title>Fábula</title><note place="bottom"> Recuérdese cómo el
             inicio del epilio había suscitado ya los más altos elogios de Villar en la carta que
             dirigió a fray Juan Ortiz, misiva recogida por Cascales en sus <hi rend="i">Cartas
@@ -2822,22 +2788,15 @@
             Arancón 1978: 200). Véase la edición digital del texto, cuidada por Margherita
             Mulas.</note><title> de Polifemo y Galatea</title>
         </p>
-        <p><quote>Donde espumoso el mar sicilïano</quote>
-        </p>
-        <p><quote>el pie argenta de plata</quote><note type="app" rend="I"> El copista originalmente
-            transcribió «planta», el corrector suprimió la «n».</note><quote> al Lilibeo,</quote>
-        </p>
-        <p><quote>bóveda o de las fraguas de Vulcano</quote>
-        </p>
-        <p><pb n="35"/><quote>o tumba de los huesos de Tifeo,</quote>
-        </p>
-        <p><quote>pálidas señas cenizoso un llano</quote>
-        </p>
-        <p><quote>cuando no del sacrílego deseo</quote>
-        </p>
-        <p><quote>del duro oficio da, allí una alta roza </quote>
-        </p>
-        <p><quote>mordaza es una grata de su boca</quote>.</p>
+        <quote><lg><l>Donde espumoso el mar sicilïano</l>
+        <l>el pie argenta de plata<note type="app" rend="I"> El copista originalmente
+            transcribió «planta», el corrector suprimió la «n».</note> al Lilibeo,</l>
+                <l>bóveda o de las fraguas de Vulcano</l>
+                <pb n="35"/><l>o tumba de los huesos de Tifeo,</l>
+                <l>pálidas señas cenizoso un llano</l>
+                <l>cuando no del sacrílego deseo</l>
+                <l>del duro oficio da, allí una alta roza </l>
+                <l>mordaza es una grata de su boca.</l></lg></quote>
         <p/>
         <p>Las <title>Soledades</title> no quedaron acabadas, pero de los principios se puede hacer
           fácil conjetura para los fines<note place="bottom"> El carácter inconcluso del <hi
@@ -2846,54 +2805,33 @@
             >Virgilio</name>, que hasta el séptimo libro no introdujo las guerras de Turno y Eneas,
           que eran su acción principal, gastando lo precedente en episodios y digresiones, si bien
           importantes. Lo ilustre y heroico del forastero bien lo explica aquel apóstrofe que el
-          poeta hace al Amor<note place="bottom"> [OC264C.665-671]</note>:</p>
-        <p><quote>Al peregrino por tu causa vemos</quote>
-        </p>
-        <p><quote>alcázares dejad donde excedida</quote>
-        </p>
-        <p><quote>de la sublimidad la vista apela</quote>
-        </p>
-        <p><pb n="36"/><quote>para su hermosura</quote>
-        </p>
-        <p><quote>en que la Arquitectura</quote>
-        </p>
-        <p><quote>a la Geometría se rebela,</quote>
-        </p>
-        <p><quote>jaspes calzada y pórfidos vestida.</quote>
-        </p>
-        <p/>
+          poeta hace al Amor<note place="bottom"> [OC264C.665-671]</note>:</p><quote>
+        <lg><l>Al peregrino por tu causa vemos</l>
+        <l>alcázares dejad donde excedida</l>
+        <l>de la sublimidad la vista apela</l>
+        <pb n="36"/><l>para su hermosura</l>
+        <l>en que la Arquitectura</l>
+        <l>a la Geometría se rebela,</l>
+        <l>jaspes calzada y pórfidos vestida.</l>
+        </lg></quote>
         <p rend="noindent">Lo rico de su traje y vestido también dio indicios de su nobleza, pues
           dijo el anciano<note place="bottom"> [OC264B.516-530]</note>:</p>
-        <p><quote>Cabo me han hecho, hijo,</quote>
-        </p>
-        <p><quote>de este hermoso tercio de serranas,</quote>
-        </p>
-        <p><quote>si tu neutralidad sufre consejo</quote>
-        </p>
-        <p><quote>y no te fuera obligación precisa,</quote>
-        </p>
-        <p><quote>la piedad que en mi alma ya hospeda</quote>
-        </p>
-        <p><quote>hoy te convida al que nos guarda sueño</quote>
-        </p>
-        <p><quote>política alameda,</quote>
-        </p>
-        <p><quote>verde muro de aquel lugar pequeño</quote>
-        </p>
-        <p><quote>que a pesar de esos fresnos se divisa.</quote>
-        </p>
-        <p><quote>Sigue la femenil tropa conmigo:</quote>
-        </p>
-        <p><quote>verás curioso y honrarás testigo</quote>
-        </p>
-        <p><pb n="37"/><quote>el tálamo de nuestros labradores,</quote>
-        </p>
-        <p><quote>que de tu calidad señas mayores</quote>
-        </p>
-        <p><quote>me dan que del Océano tus paños,</quote>
-        </p>
-        <p><quote>o razón falta donde sobran años.</quote>
-        </p>
+        <quote><lg><l>Cabo me han hecho, hijo,</l>
+        <l>de este hermoso tercio de serranas,</l>
+        <l>si tu neutralidad sufre consejo</l>
+        <l>y no te fuera obligación precisa,</l>
+        <l>la piedad que en mi alma ya hospeda</l>
+        <l>hoy te convida al que nos guarda sueño</l>
+        <l>política alameda,</l>
+        <l>verde muro de aquel lugar pequeño</l>
+        <l>que a pesar de esos fresnos se divisa.</l>
+        <l>Sigue la femenil tropa conmigo:</l>
+        <l>verás curioso y honrarás testigo</l>
+        <pb n="37"/><l>el tálamo de nuestros labradores,</l>
+        <l>que de tu calidad señas mayores</l>
+        <l>me dan que del Océano tus paños,</l>
+        <l>o razón falta donde sobran años.</l>
+        </lg></quote>
         <p/>
         <p rend="noindent">En esta obra (a juicio mío) parece que se halla el ingenio más admirado y
           el primor más subido de punto y la atención más desahogada, y por la novedad del verso,
@@ -2909,90 +2847,51 @@
           competencia a quien desprecia la de los mejores poetas [38] del mundo<note place="bottom">
             [OC264B.1025-1064] </note>.</p>
         <p/>
-        <p><quote>Advocaron allí</quote><note type="app" rend="I"> El copista escribió inicialmente
+        <quote><lg><l>Advocaron allí<note type="app" rend="I"> El copista escribió inicialmente
             «allí». Posteriormente el corrector rectificó introduciendo una forma adverbial
-            «assí».</note><quote> toda la gente</quote>
-        </p>
-        <p><quote>cierzos del mar y Austros de la sierra</quote>
-        </p>
-        <p><quote>mancebos tan veloces</quote>
-        </p>
-        <p><quote>que cuando corres más dora la tierra</quote>
-        </p>
-        <p><quote>y argenta el mar desde sus grutas hondas</quote>
-        </p>
-        <p><quote>Neptuno sin fatiga</quote>
-        </p>
-        <p><quote>su vago pie de pluma</quote>
-        </p>
-        <p><quote>surcar pudiera mieses, pisar ondas,</quote>
-        </p>
-        <p><quote>sin inclinar espiga,</quote>
-        </p>
-        <p><quote>sin vïolar espuma.</quote>
-        </p>
-        <p><quote>Dos veces eran diez y dirigidos</quote>
-        </p>
-        <p><quote>a dos olmos que quieren, abrazados,</quote>
-        </p>
-        <p><quote>ser palios verdes, ser frondosas matas</quote>
-        </p>
-        <p><quote>salen cual de torcidos</quote>
-        </p>
-        <p><quote>arcos, o nerviosos o acerados,</quote>
-        </p>
-        <p><pb n="39"/><quote>con silbo igual, dos veces diez saetas.</quote>
-        </p>
-        <p><quote>No el polvo desparece</quote>
-        </p>
-        <p><quote>el campo, que no pisan a la hierba;</quote>
-        </p>
-        <p><quote>es el más torpe una herida cierva,</quote>
-        </p>
-        <p><quote>el más tardo la vista desvanece</quote>
-        </p>
-        <p><quote>y siguiendo al más lento</quote>
-        </p>
-        <p><quote>cojea el Pensamiento. </quote>
-        </p>
-        <p><quote>El tercio casi de una milla era</quote>
-        </p>
-        <p><quote>la prolija carrera</quote><note type="app" rend="I"> Conjunto de palabras tachada
-            tras «carrera».</note>
-        </p>
-        <p><quote>que los hercúleos troncos hace breves,</quote>
-        </p>
-        <p><quote>pero las planta leves</quote>
-        </p>
-        <p><quote>de tres sueltos bajeles</quote>
-        </p>
-        <p><quote>la distancia sincopan tan iguales</quote>
-        </p>
-        <p><quote>que la atención confunden judiciosa.</quote>
-        </p>
-        <p><quote>De la Peneida virgen desdeñosa</quote>
-        </p>
-        <p><quote>los dulces fugitivos miembros bellos</quote>
-        </p>
-        <p><pb n="40"/><quote>en la corteza no abrazó reciente</quote>
-        </p>
-        <p><quote> más firme Apolo, más estrechamente</quote>
-        </p>
-        <p><quote>que de una y otra meta glorïosa</quote>
-        </p>
-        <p><quote>las duras basas abrazaron ellos</quote>
-        </p>
-        <p><quote>con triplicado nudo.</quote>
-        </p>
-        <p><quote>Árbitro Alcides en sus ramas, dudo</quote>
-        </p>
-        <p><quote>que el caso decidiera</quote>
-        </p>
-        <p><quote>bien que su menor hoja un ojo fuera</quote>
-        </p>
-        <p><quote>del lince<note place="bottom"> En el manuscrito se ve perfectamente la corrección:
+            «assí».</note>toda la gente</l>
+        <l>cierzos del mar y Austros de la sierra</l>
+        <l>mancebos tan veloces</l>
+        <l>que cuando corres más dora la tierra</l>
+        <l>y argenta el mar desde sus grutas hondas</l>
+        <l>Neptuno sin fatiga</l>
+        <l>su vago pie de pluma</l>
+        <l>surcar pudiera mieses, pisar ondas,</l>
+        <l>sin inclinar espiga,</l>
+        <l>sin vïolar espuma.</l>
+        <l>Dos veces eran diez y dirigidos</l>
+        <l>a dos olmos que quieren, abrazados,</l>
+        <l>ser palios verdes, ser frondosas matas</l>
+        <l>salen cual de torcidos</l>
+        <l>arcos, o nerviosos o acerados,</l>
+        <pb n="39"/><l>con silbo igual, dos veces diez saetas.</l>
+        <l>No el polvo desparece</l>
+        <l>el campo, que no pisan a la hierba;</l>
+        <l>es el más torpe una herida cierva,</l>
+        <l>el más tardo la vista desvanece</l>
+        <l>y siguiendo al más lento</l>
+        <l>cojea el Pensamiento. </l>
+        <l>El tercio casi de una milla era</l>
+        <l>la prolija carrera<note type="app" rend="I"> Conjunto de palabras tachada
+            tras «carrera».</note></l>
+        <l>que los hercúleos troncos hace breves,</l>
+        <l>pero las planta leves</l>
+        <l>de tres sueltos bajeles</l>
+        <l>la distancia sincopan tan iguales</l>
+        <l>que la atención confunden judiciosa.</l>
+        <l>De la Peneida virgen desdeñosa</l>
+        <l>los dulces fugitivos miembros bellos</l>
+        <pb n="40"/><l>en la corteza no abrazó reciente</l>
+        <l> más firme Apolo, más estrechamente</l>
+        <l>que de una y otra meta glorïosa</l>
+        <l>las duras basas abrazaron ellos</l>
+        <l>con triplicado nudo.</l>
+        <l>Árbitro Alcides en sus ramas, dudo</l>
+        <l>que el caso decidiera</l>
+        <l>bien que su menor hoja un ojo fuera</l>
+        <l>del lince<note place="bottom"> En el manuscrito se ve perfectamente la corrección:
               se ha escrito sobre la palabra incorrecta «línea», corrigiéndola como «lince». Figura
-              al final del manuscrito en la «Fe de erratas».</note>más agudo</quote>.</p>
+              al final del manuscrito en la «Fe de erratas».</note>más agudo.</l></lg></quote>
         <p/>
         <p><hi rend="i">Don</hi> <name type="polemista">Luis de Góngora</name><hi rend="i"> fue
             eminente en lo lírico</hi>
@@ -3075,63 +2974,36 @@
             memoria), y que si son tan buenos y tan adecuados para ilustrar lo que viene exponiendo,
             ello ha sido por azar y no porque él los haya elegido tras rebuscar en la obra del
             cordobés».</note>:</p>
-        <p><quote>Burlas de tortolilla </quote>
-        </p>
-        <p><quote>y al tierno esposo dejas</quote>
-        </p>
-        <p><quote>en soledad y quejas,</quote>
-        </p>
-        <p><quote>vuelve después gimiendo,</quote>
-        </p>
-        <p><quote>recíbete arrullando,</quote>
-        </p>
-        <p><quote>lasciva tú si él blando,</quote>
-        </p>
-        <p><quote>dichosa tú mil veces,</quote>
-        </p>
-        <p><quote>que con el pico haces</quote>
-        </p>
-        <p><quote>dulces guerras de amor y dulces paces.</quote>
-        </p>
-        <p><quote>Testigo fue a tu amante </quote>
-        </p>
-        <p><quote>aquel vestido tronco</quote>
-        </p>
-        <p><quote>de algún arrullo ronco,</quote>
-        </p>
-        <p><quote>testigo también tuyo</quote>
-        </p>
-        <p><pb n="44"/><quote>fue aquel tronco vestido</quote>
-        </p>
-        <p><quote>de algún dulce gemido,</quote>
-        </p>
-        <p><quote>campo fue de batalla</quote>
-        </p>
-        <p><quote>y tálamo fue luego</quote>
-        </p>
-        <p><quote>árbol</quote><note type="app" rend="I"> El copista había transcrito «arbor».
-            Posteriormente, el corrector rectifica superponiendo una –l final a la –r.</note><quote>
-            que tanto fue perdone el fuego.</quote>
-        </p>
-        <p><quote>Mi piedad una a una</quote>
-        </p>
-        <p><quote>contó aves dichosas</quote>
-        </p>
-        <p><quote>vuestras quejas sabrosas,</quote>
-        </p>
-        <p><quote>mi invidia ciento a ciento</quote>
-        </p>
-        <p><quote>contó dichosas aves</quote>
-        </p>
-        <p><quote>vuestros versos suaves.</quote>
-        </p>
-        <p><quote>Quien versos contó y quejas</quote>
-        </p>
-        <p><quote>las flores cuente al mayo</quote>
-        </p>
-        <p><quote>y al cielo las estrellas rayo a rayo.</quote>
-        </p>
-        <p/>
+        <quote><lg><l>Burlas de tortolilla </l>
+        <l>y al tierno esposo dejas</l>
+        <l>en soledad y quejas,</l>
+        <l>vuelve después gimiendo,</l>
+        <l>recíbete arrullando,</l>
+        <l>lasciva tú si él blando,</l>
+        <l>dichosa tú mil veces,</l>
+        <l>que con el pico haces</l>
+        <l>dulces guerras de amor y dulces paces.</l>
+        <l>Testigo fue a tu amante </l>
+        <l>aquel vestido tronco</l>
+        <l>de algún arrullo ronco,</l>
+        <l>testigo también tuyo</l>
+        <pb n="44"/><l>fue aquel tronco vestido</l>
+        <l>de algún dulce gemido,</l>
+        <l>campo fue de batalla</l>
+        <l>y tálamo fue luego</l>
+        <l>árbol<note type="app" rend="I"> El copista había transcrito «arbor».
+            Posteriormente, el corrector rectifica superponiendo una –l final a la –r.</note>
+            que tanto fue perdone el fuego.</l>
+        <l>Mi piedad una a una</l>
+        <l>contó aves dichosas</l>
+        <l>vuestras quejas sabrosas,</l>
+        <l>mi invidia ciento a ciento</l>
+        <l>contó dichosas aves</l>
+        <l>vuestros versos suaves.</l>
+        <l>Quien versos contó y quejas</l>
+        <l>las flores cuente al mayo</l>
+        <l>y al cielo las estrellas rayo a rayo.</l></lg></quote>
+                <p/>
         <p rend="noindent"><pb n="45"/> Y para que se conozca la misma dulzura en metro más grave,
           dentro de la esfera de lo lírico, léase este soneto a doña Brianda de la Cerda<note
             place="bottom"> [OC174.1-14] Doña Brianda Sarmiento de la Cerda Guzmán y Zúñiga
@@ -3143,35 +3015,22 @@
             matrimonio en Madrid el 17 de junio de 1616 con don Iñigo López de Mendoza (1580-1647),
             VIII conde de Tendilla, primogénito del marqués de Mondéjar.</note>, pasando a México
           con sus padres:</p>
-        <p><quote>Al sol peinaba Clori sus cabellos</quote>
-        </p>
-        <p><quote>con peine de marfil, con mano bella,</quote>
-        </p>
-        <p><quote>mas no se parecía el peine en ella,</quote>
-        </p>
-        <p><quote>como se obscurecía el sol en ellos.</quote>
-        </p>
-        <p><quote>Cogió con lazos de oro y al cogellos</quote><note type="app" rend="I"> El copista
+        <quote><lg><l>Al sol peinaba Clori sus cabellos</l>
+        <l>con peine de marfil, con mano bella,</l>
+        <l>mas no se parecía el peine en ella,</l>
+        <l>como se obscurecía el sol en ellos.</l>
+        <l>Cogió con lazos de oro y al cogellos<note type="app" rend="I"> El copista
             había transcrito erróneamente «cogerlos». El corrector rectifica e introduce la forma
-            verbal correcta: «cogellos».</note>
-        </p>
-        <p><quote>segunda mayor luz descubrió aquella</quote>
-        </p>
-        <p><quote>delante quien el sol es una estrella</quote>
-        </p>
-        <p><quote>y esfera España de sus rayos bellos.</quote>
-        </p>
-        <p><quote>Divinos ojos, que en su dulce oriente</quote>
-        </p>
-        <p><quote>dan luz al mundo, quitan luz al cielo</quote>
-        </p>
-        <p><quote>y espera idolatrarlos Occidente, </quote>
-        </p>
-        <p><pb n="46"/><quote>esto Amor solicita con su vuelo,</quote>
-        </p>
-        <p><quote>que en tanto mar será un arpón luciente</quote>
-        </p>
-        <p><quote>de la Cerda inmortal, mortal anzuelo</quote>.</p>
+            verbal correcta: «cogellos».</note></l>
+        <l>segunda mayor luz descubrió aquella</l>
+        <l>delante quien el sol es una estrella</l>
+        <l>y esfera España de sus rayos bellos.</l>
+        <l>Divinos ojos, que en su dulce oriente</l>
+        <l>dan luz al mundo, quitan luz al cielo</l>
+  <l>y espera idolatrarlos Occidente, </l>
+        <pb n="46"/><l>esto Amor solicita con su vuelo,</l>
+        <l>que en tanto mar será un arpón luciente</l>
+        <l>de la Cerda inmortal, mortal anzuelo.</l></lg></quote>
         <p/>
         <p rend="noindent"><hi rend="i">Al buen gusto que suelen los celos dejar a los amantes</hi>:
             <quote>Las flores del romero</quote> = folio 62<note place="bottom"> [OC192.1]</note>.
@@ -3193,51 +3052,29 @@
               rend="noindent">milagros hace el Amor:</p><p rend="noindent">yo he visto llorar al
               Alba,</p><p rend="noindent">yo he visto celoso al Sol.</p><p rend="noindent">Puede
               leerse en Hurtado de Mendoza (1948: 375).</p></note>.</p>
-        <p><quote>Aquella deidad del Tajo</quote>
-        </p>
-        <p><quote>llorosas tiene una ausencia,</quote>
-        </p>
-        <p><quote>celosas tiene un temor,</quote>
-        </p>
-        <p><quote>que han hecho soles y sombras</quote>
-        </p>
-        <p><quote>campañas de dos a dos.</quote>
-        </p>
-        <p><quote>Sus memorias enemigas</quote>
-        </p>
-        <p><quote>Jacinta al campo sacó</quote>
-        </p>
-        <p><pb n="47"/><quote>por ver si en el campo vence</quote>
-        </p>
-        <p><quote>batallas del corazón.</quote>
-        </p>
-        <p><quote>A las lisonjas del prado</quote>
-        </p>
-        <p><quote>el calzado jazmín dio,</quote>
-        </p>
-        <p><quote>soberbia contra el abril,</quote>
-        </p>
-        <p><quote>contra el agosto favor.</quote>
-        </p>
-        <p><quote>Verdes galanes del soto,</quote>
-        </p>
-        <p><quote>olmos, la reciben hoy</quote>
-        </p>
-        <p><quote>que la temieron por nieve</quote>
-        </p>
-        <p><quote>y la juraron por flor.</quote>
-        </p>
-        <p><quote>Músico arroyo la duerme.</quote>
-        </p>
-        <p><quote>Serranos de Manzanares</quote>
-        </p>
-        <p><quote>milagros hace el amor,</quote>
-        </p>
-        <p><quote>yo he visto llorar el cielo,</quote>
-        </p>
-        <p><quote>yo he visto celoso al sol.</quote>
-        </p>
-        <p/>
+        <quote><lg><l>Aquella deidad del Tajo</l>
+        <l>llorosas tiene una ausencia,</l>
+        <l>celosas tiene un temor,</l>
+        <l>que han hecho soles y sombras</l>
+        <l>campañas de dos a dos.</l>
+        <l>Sus memorias enemigas</l>
+        <l>Jacinta al campo sacó</l>
+        <pb n="47"/><l>por ver si en el campo vence</l>
+        <l>batallas del corazón.</l>
+        <l>A las lisonjas del prado</l>
+        <l>el calzado jazmín dio,</l>
+        <l>soberbia contra el abril,</l>
+        <l>contra el agosto favor.</l>
+        <l>Verdes galanes del soto,</l>
+        <l>olmos, la reciben hoy</l>
+        <l>que la temieron por nieve</l>
+        <l>y la juraron por flor.</l>
+        <l>Músico arroyo la duerme.</l>
+        <l>Serranos de Manzanares</l>
+        <l>milagros hace el amor,</l>
+        <l>yo he visto llorar el cielo,</l>
+        <l>yo he visto celoso al sol.</l></lg></quote>
+            <p/>
         <p><pb n="48"/><hi rend="i">Al rendimiento de un amante y porfía del amor</hi>: <quote>Ya no
             más, ceguezuelo hermano</quote><note place="bottom"> [OC91.1]</note>, folio 68.</p>
         <p/>
@@ -3322,7 +3159,7 @@
               terram me esse scio et si quid caelitus infusum nobis, minus opinione vestra est, qui
               favetis. Sed talia sunt reliqua illic crimina: nisi quod unum non excuso, dictum alibi
               lasciuis aliquid, aut petulantius, in eius gentem. Utinam revocare fas sit, atque
-              etiam delere! Faciam, si uiuo</hi>» (Lipsio 1611: 327).[<ref xml:id="ref1" target=>abajo</ref>]</note>. 
+              etiam delere! Faciam, si uiuo</hi>» (Lipsio 1611: 327).[<ref xml:id="ref1">abajo</ref>]</note>. 
             No sea permitido a la imprenta lo que ofendió al decoro de
           personas particulares. Y es justo perdonar tan sazonadas vivezas. Y piérdanse tesoros tan
           peligrosos y nadie aumente su crédito con pérdida de reputación ajena. Entre los escritos
@@ -3686,7 +3523,7 @@
             pasaje de las epístolas de Justo Lipsio donde aparecía la significativa imagen del <hi
               xml:lang="es" rend="i">astro</hi> de mayor tamaño que brilla entre las <hi
               xml:lang="es" rend="i">estrellas</hi>: «<hi xml:lang="es" rend="i">non ego astrum sum,
-              nec quidem inter stellas</hi>». Véase la nota [<ref xml:id="ref1" target=>arriba</ref>].</note>.</p>
+              nec quidem inter stellas</hi>». Véase la nota [<ref target="ref1">arriba</ref>].</note>.</p>
         <p>Ilustres esfuerzos dio a la poesía y lengua española el famoso cordobés <name
             type="authority">Juan de Mena</name>, cifrando en sus versos grave imitación de poetas
           latinos, agradable ficción de objetos, briosa facilidad de genio, con erudición continua y
@@ -3733,7 +3570,7 @@
             retórica» puede ponerse en paralelo con la importancia que llegó a asumir Góngora en el
             texto de la <hi rend="i">Agudeza y Arte de Ingenio</hi>. Como es bien sabido, Baltasar
             Gracián recurrió a los poemas del cordobés asiduamente para ejemplificar muchas especies
-            diversas de lo agudo. Sobre el giro «llave maestra», véase la nota [<ref xml:id="ref2" target=>arriba</ref>]</note>.</p>
+            diversas de lo agudo. Sobre el giro «llave maestra», véase la nota [<ref target="ref2">arriba</ref>]</note>.</p>
         <p>Con atención hoy en el año de 635<note place="bottom"> Esta marca temporal precisa sirve
             para datar el curioso texto apologético del erudito iliturgitano.</note> las voces que a
           fuerza de bien ponderados conceptos y no vistos aplausos dieron el principado de la poesía
@@ -3789,9 +3626,6 @@
             deberse a una tercera mano, que trató de completar la «Fe de erratas» intentando acercar
             su grafía a la del copista.</note></p>
       </div>
-      <!--Error recovered in loaded XML document 
-DOMDocument::loadXML(): xml:id : attribute value 0_1 is not an NCName in Entity, line: 66
--->
     </body>
   </text>
 </TEI>
