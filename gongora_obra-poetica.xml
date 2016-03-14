@@ -10785,7 +10785,7 @@
                         <label>A</label>
               <l n="27" rend="refrain" xml:id="l123.27">¿Por qué la Isabelitica?</l>
               <l n="28" rend="refrain" xml:id="l123.28">¿Qué chiribica?</l>
-              <l n="29" xml:id="l123.29a" part="I">¿Es galán?</l>
+              <l n="29" xml:id="l123.29" part="I">¿Es galán?</l>
             </lg>
             <label>B</label>
             <lg part="F">
@@ -14728,7 +14728,7 @@
               <l n="23" xml:id="l206.23">A ese mármolo te arrima.</l>
               <label>Clara</label><l n="24" xml:id="l206.24">Más tinta sudamo, Juana,</l>
               <l n="25" xml:id="l206.25">que dos pruma de escribana.    </l>
-              <l n="26" xml:id="l206.26a" part="I">¿Quién sa aquel?</l><label>Juana</label><l n="26" xml:id="l206.26b" part="F">La perdiguera.</l>
+              <l n="26" xml:id="l206.26" part="I">¿Quién sa aquel?</l><label>Juana</label><l n="26" xml:id="l206.26b" part="F">La perdiguera.</l>
               <label>Clara</label><l n="27" xml:id="l206.27">¿Y esotra chupamadera?</l>
               <label>Juana</label><l n="28" xml:id="l206.28">La señora chirimista.</l>
               <label>Clara</label><l n="29" rend="refrain" xml:id="l206.29">¡Ay, Jesú, como sa mu trista!</l>
@@ -14739,7 +14739,7 @@
               <l n="32" xml:id="l206.32">cuya virtud me namora,</l>
               <l n="33" xml:id="l206.33">cuya majestá me panta.</l>
               <label>Clara</label><l n="34" xml:id="l206.34">¿Si viene la obispa santa?</l>
-              <l n="35" xml:id="l206.35a" part="I">¡Chillémola!</l><label>Juana</label><l n="35" xml:id="l206.35b" part="F">¡Ay, que cravela!</l>
+              <l n="35" xml:id="l206.35" part="I">¡Chillémola!</l><label>Juana</label><l n="35" xml:id="l206.35b" part="F">¡Ay, que cravela!</l>
               <l n="36" xml:id="l206.36">Pégate, Crara, cüela,</l>
               <l n="37" xml:id="l206.37">la mano le besará,</l>
               <l n="38" xml:id="l206.38">que mano que tanto da,</l>
@@ -14760,7 +14760,7 @@
               <l n="3" rend="refrain" xml:id="l207.3">treinta dineros no más,</l>
               <l n="4" rend="refrain" xml:id="l207.4"> y luego se arrepintió</l>
               <l n="5" rend="refrain" xml:id="l207.5">quien lo vendió.</l>
-              <label>Gil</label><l n="6" rend="refrain" xml:id="l207.6a" part="I">¿Bastará a tantos?</l><label>Bras</label><l n="6" rend="refrain" xml:id="l207.6b" part="F">Sí, Gil,</l>
+              <label>Gil</label><l n="6" rend="refrain" xml:id="l207.6" part="I">¿Bastará a tantos?</l><label>Bras</label><l n="6" rend="refrain" xml:id="l207.6b" part="F">Sí, Gil,</l>
               <l n="7" rend="refrain" xml:id="l207.7">y es de modo</l>
               <l n="8" rend="refrain" xml:id="l207.8">que lo comerá uno todo,</l>
               <l n="9" rend="refrain" xml:id="l207.9"> y no lo acabarán mil</l>
@@ -14893,9 +14893,9 @@
             <head><num>210</num>
               <lb/><lb/>A lo mismo</head>
             <lg>
-              <label>1.</label><l n="1" rend="refrain" xml:id="l210.1a" part="I">¿Qué comes, hombre?</l><label>2.</label><l n="1" rend="refrain" xml:id="l210.1b" part="F">¿Qué como?</l>
-              <l n="2" rend="refrain" xml:id="l210.2a" part="I">Pan de ángeles.</l><label>1.</label><l n="2" rend="refrain" xml:id="l210.2b" part="F">¿De quién?</l>
-              <label>2.</label><l n="3" rend="refrain" xml:id="l210.3a" part="I">De ángeles.</l><label>1.</label><l n="3" rend="refrain" xml:id="l210.3b" part="F">¿Sabe bien?</l>
+              <label>1.</label><l n="1" rend="refrain" xml:id="l210.1" part="I">¿Qué comes, hombre?</l><label>2.</label><l n="1" rend="refrain" xml:id="l210.1b" part="F">¿Qué como?</l>
+              <l n="2" rend="refrain" xml:id="l210.2" part="I">Pan de ángeles.</l><label>1.</label><l n="2" rend="refrain" xml:id="l210.2b" part="F">¿De quién?</l>
+              <label>2.</label><l n="3" rend="refrain" xml:id="l210.3" part="I">De ángeles.</l><label>1.</label><l n="3" rend="refrain" xml:id="l210.3b" part="F">¿Sabe bien?</l>
               <label>2.</label><l n="4" rend="refrain" xml:id="l210.4">¡Y cómo!</l>
             </lg>
             <lg>
@@ -14907,9 +14907,9 @@
               <l n="10" xml:id="l210.10">fuego llovió el cielo airado,</l>
               <l n="11" xml:id="l210.11">y escuadrón de acero armado</l>
               <l n="12" xml:id="l210.12">resistencia hizo, de plomo.</l>
-              <label>1.</label><l n="13" rend="refrain" xml:id="l210.13a" part="I">¿Qué comes, hombre?</l><label>2.</label><l n="13" rend="refrain" xml:id="l210.13b" part="F">¿Qué como?</l>
-              <l n="14" rend="refrain" xml:id="l210.14a" part="I">Pan de ángeles.</l><label>1.</label><l n="14" rend="refrain" xml:id="l210.14b" part="F">¿De quién?</l>
-              <label>2.</label><l n="15" rend="refrain" xml:id="l210.15a" part="I">De ángeles.</l><label>1.</label><l n="15" rend="refrain" xml:id="l210.15b" part="F">¿Sabe bien?</l>
+              <label>1.</label><l n="13" rend="refrain" xml:id="l210.13" part="I">¿Qué comes, hombre?</l><label>2.</label><l n="13" rend="refrain" xml:id="l210.13b" part="F">¿Qué como?</l>
+              <l n="14" rend="refrain" xml:id="l210.14" part="I">Pan de ángeles.</l><label>1.</label><l n="14" rend="refrain" xml:id="l210.14b" part="F">¿De quién?</l>
+              <label>2.</label><l n="15" rend="refrain" xml:id="l210.15" part="I">De ángeles.</l><label>1.</label><l n="15" rend="refrain" xml:id="l210.15b" part="F">¿Sabe bien?</l>
               <label>2.</label><l n="16" rend="refrain" xml:id="l210.16">¡Y cómo!</l>
             </lg>
             <lg>
@@ -14921,9 +14921,9 @@
               <l n="22" xml:id="l210.22">que hoy los manjares altera,</l>
               <l n="23" xml:id="l210.23">fragrante, sí, mas grosera,</l>
               <l n="24" xml:id="l210.24">corteza de cinamomo.</l>
-              <label>1.</label><l n="25" rend="refrain" xml:id="l210.25a" part="I">¿Qué comes, hombre?</l><label>2.</label><l n="25" rend="refrain" xml:id="l210.25b" part="F">¿Qué como?</l>
-              <l n="26" rend="refrain" xml:id="l210.26a" part="I">Pan de ángeles.</l><label>1.</label><l n="26" rend="refrain" xml:id="l210.26b" part="F">¿De quién?</l>
-              <label>2.</label><l n="27" rend="refrain" xml:id="l210.27a" part="I">De ángeles.</l><label>1.</label><l n="27" rend="refrain" xml:id="l210.27b" part="F">¿Sabe bien?</l>
+              <label>1.</label><l n="25" rend="refrain" xml:id="l210.25" part="I">¿Qué comes, hombre?</l><label>2.</label><l n="25" rend="refrain" xml:id="l210.25b" part="F">¿Qué como?</l>
+              <l n="26" rend="refrain" xml:id="l210.26" part="I">Pan de ángeles.</l><label>1.</label><l n="26" rend="refrain" xml:id="l210.26b" part="F">¿De quién?</l>
+              <label>2.</label><l n="27" rend="refrain" xml:id="l210.27" part="I">De ángeles.</l><label>1.</label><l n="27" rend="refrain" xml:id="l210.27b" part="F">¿Sabe bien?</l>
               <label>2.</label><l n="28" rend="refrain" xml:id="l210.28">¡Y cómo!</l>
             </lg>
           </div>
@@ -18043,9 +18043,9 @@
             </lg>
             <lg>
               <label>GIL</label><l n="37" rend="refrain" xml:id="l263.37">Pediros albricias puedo.</l>
-              <label>VAQUEROS</label><l n="38" rend="refrain" xml:id="l263.38a" part="I">¿De qué, Gil?</l><label>GIL</label><l n="38" rend="refrain" xml:id="l263.38b" part="F">No deis más
+              <label>VAQUEROS</label><l n="38" rend="refrain" xml:id="l263.38" part="I">¿De qué, Gil?</l><label>GIL</label><l n="38" rend="refrain" xml:id="l263.38b" part="F">No deis más
                 paso:</l>
-              <l n="39" rend="refrain" xml:id="l263.39a" part="I">la novilla he visto.</l><label>VAQUEROS</label><l n="39" rend="refrain" xml:id="l263.39b" part="F">Paso.</l>
+              <l n="39" rend="refrain" xml:id="l263.39" part="I">la novilla he visto.</l><label>VAQUEROS</label><l n="39" rend="refrain" xml:id="l263.39b" part="F">Paso.</l>
               <label>GIL</label><l n="40" rend="refrain" xml:id="l263.40">Quedo, ay, quedetico, quedo.</l>
             </lg>
             <lg>
@@ -18056,9 +18056,9 @@
               <l n="45" xml:id="l263.45">la niega con llave tal,</l>
               <l n="46" xml:id="l263.46">que cierra el paso al denuedo.</l>
               <l n="47" rend="refrain" xml:id="l263.47">Pediros albricias puedo.</l>
-              <label>VAQUEROS</label><l n="48" rend="refrain" xml:id="l263.48a" part="I">¿De qué, Gil?</l><label>GIL</label><l n="48" rend="refrain" xml:id="l263.48b" part="F">No deis más
+              <label>VAQUEROS</label><l n="48" rend="refrain" xml:id="l263.48" part="I">¿De qué, Gil?</l><label>GIL</label><l n="48" rend="refrain" xml:id="l263.48b" part="F">No deis más
                 paso:</l>
-              <l n="49" rend="refrain" xml:id="l263.49a" part="I">la novilla he visto.</l> <label>VAQUEROS</label><l n="49" rend="refrain" xml:id="l263.49b" part="F">Paso.</l>
+              <l n="49" rend="refrain" xml:id="l263.49" part="I">la novilla he visto.</l> <label>VAQUEROS</label><l n="49" rend="refrain" xml:id="l263.49b" part="F">Paso.</l>
               <label>GIL</label><l n="50" rend="refrain" xml:id="l263.50">Quedo, ay, quedetico, quedo.</l>
             </lg>
             <lg>
@@ -18069,9 +18069,9 @@
               <l n="55" xml:id="l263.55">Desmintiendo, aquí reposa,</l>
               <l n="56" xml:id="l263.56">tanta prevención o miedo.</l>
               <l n="57" rend="refrain" xml:id="l263.57">Pediros albricias puedo.</l>
-              <label>VAQUEROS</label><l n="58" rend="refrain" xml:id="l263.58a" part="I">¿De qué, Gil?</l><label>GIL</label><l n="58" rend="refrain" xml:id="l263.58b" part="F">No deis más
+              <label>VAQUEROS</label><l n="58" rend="refrain" xml:id="l263.58" part="I">¿De qué, Gil?</l><label>GIL</label><l n="58" rend="refrain" xml:id="l263.58b" part="F">No deis más
                 paso:</l>
-              <l n="59" rend="refrain" xml:id="l263.59a" part="I">la novilla he visto.</l><label>VAQUEROS</label><l n="59" rend="refrain" xml:id="l263.59b" part="F">Paso.</l>
+              <l n="59" rend="refrain" xml:id="l263.59" part="I">la novilla he visto.</l><label>VAQUEROS</label><l n="59" rend="refrain" xml:id="l263.59b" part="F">Paso.</l>
               <label>GIL</label><l n="60" rend="refrain" xml:id="l263.60"> Quedo, ay, quedetico, quedo.</l>
             </lg>
             <lg>
@@ -18082,9 +18082,9 @@
               <l n="65" xml:id="l263.65">Los cuernos, el sol, le dora,</l>
               <l n="66" xml:id="l263.66">que corona el mayo ledo.</l>
               <l n="67" rend="refrain" xml:id="l263.67">Pediros albricias puedo.</l>
-              <label>VAQUEROS</label><l n="68" rend="refrain" xml:id="l263.68a" part="I">¿De qué, Gil?</l><label>GIL</label><l n="68" rend="refrain" xml:id="l263.68b" part="F">No deis más
+              <label>VAQUEROS</label><l n="68" rend="refrain" xml:id="l263.68" part="I">¿De qué, Gil?</l><label>GIL</label><l n="68" rend="refrain" xml:id="l263.68b" part="F">No deis más
                 paso:</l>
-              <l n="69" rend="refrain" xml:id="l263.69a" part="I">la novilla he visto.</l><label>VAQUEROS</label><l n="69" rend="refrain" xml:id="l263.69b" part="F">Paso.</l>
+              <l n="69" rend="refrain" xml:id="l263.69" part="I">la novilla he visto.</l><label>VAQUEROS</label><l n="69" rend="refrain" xml:id="l263.69b" part="F">Paso.</l>
               <label>GIL</label><l n="70" rend="refrain" xml:id="l263.70">Quedo, ay, quedetico, quedo.</l>
             </lg>
           </div>
@@ -20889,19 +20889,19 @@
             
             <lg>
               <label>SEGADOR</label><l n="21" rend="refrain" xml:id="l279.21">¿A qué salió, Amor, me digas,</l>
-              <l n="22" rend="refrain" xml:id="l279.22a" part="I">tu mayor gloria?</l><label>AMOR</label><l n="22" rend="refrain" xml:id="l279.22b" part="F">A segar</l>
+              <l n="22" rend="refrain" xml:id="l279.22" part="I">tu mayor gloria?</l><label>AMOR</label><l n="22" rend="refrain" xml:id="l279.22b" part="F">A segar</l>
               <l n="23" rend="refrain" xml:id="l279.23">más almas con el mirar</l>
               <l n="24" rend="refrain" xml:id="l279.24">que tú, con la hoz, espigas.</l>
               <label>SEGADOR</label><l n="25" xml:id="l279.25">Si lo mejor ya te di</l>
               <l n="26" xml:id="l279.26">que en tus altares humea,</l>
               <l n="27" xml:id="l279.27">vuelva yo, Amor, a la aldea,</l>
               <l n="28" xml:id="l279.28">tan libre como salí.</l>
-              <label>AMOR</label><l n="29" xml:id="l279.29a" part="I">¿Tienes alma?</l><label>SEGADOR</label><l n="29" xml:id="l279.29b" part="F">Creo que sí.</l>
+              <label>AMOR</label><l n="29" xml:id="l279.29" part="I">¿Tienes alma?</l><label>SEGADOR</label><l n="29" xml:id="l279.29b" part="F">Creo que sí.</l>
               <label>AMOR</label><l n="30" xml:id="l279.30">Pues ¿qué aguardas, segador,</l>
               <l n="31" xml:id="l279.31">si yo, con ser el Amor,</l>
               <l n="32" xml:id="l279.32">sus armas temo enemigas?</l>
               <label>SEGADOR</label><l n="33" rend="refrain" xml:id="l279.33">¿A qué salió, Amor, me digas,</l>
-              <l n="34" rend="refrain" xml:id="l279.34a" part="I">tu mayor gloria?</l><label>AMOR</label><l n="34" rend="refrain" xml:id="l279.34b" part="F">A segar</l>
+              <l n="34" rend="refrain" xml:id="l279.34" part="I">tu mayor gloria?</l><label>AMOR</label><l n="34" rend="refrain" xml:id="l279.34b" part="F">A segar</l>
               <l n="35" rend="refrain" xml:id="l279.35">más almas con el mirar</l>
               <l n="36" rend="refrain" xml:id="l279.36">que tú, con la hoz, espigas.</l>
             </lg>
@@ -21706,7 +21706,7 @@
               <label>1.</label><l n="6" rend="refrain" xml:id="l295.6">¿Por qué? Di.</l>
               <label>1.</label><l n="7" rend="refrain" xml:id="l295.7">Por lo que oirás por ahí</l>
               <l n="8" rend="refrain" xml:id="l295.8">a cien alados clarines.</l>
-              <label>1.</label><l n="9" rend="refrain" xml:id="l295.9a" part="I">¿Cuándo?</l><label>1.</label><l n="9" rend="refrain" xml:id="l295.9b" part="M">Esta noche.</l><label>1.</label><l n="9" rend="refrain" xml:id="l295.9c" part="F">¡Oh qué
+              <label>1.</label><l n="9" rend="refrain" xml:id="l295.9" part="I">¿Cuándo?</l><label>1.</label><l n="9" rend="refrain" xml:id="l295.9b" part="M">Esta noche.</l><label>1.</label><l n="9" rend="refrain" xml:id="l295.9c" part="F">¡Oh qué
                 bueno!</l>
               <label>1.</label><l n="10" rend="refrain" xml:id="l295.10">Toda, pues, gaita convoque</l>
               <l n="11" rend="refrain" xml:id="l295.11">los pastores;</l>
@@ -21795,7 +21795,7 @@
               <l n="29" rend="refrain" xml:id="l296.29">y el prado no.</l>
             </lg>
             <lg>
-              <label><hi rend="i">Gil</hi></label><l n="30" xml:id="l296.30a" part="I">¿Oyes voces?</l><label><hi rend="i"
+              <label><hi rend="i">Gil</hi></label><l n="30" xml:id="l296.30" part="I">¿Oyes voces?</l><label><hi rend="i"
                 >Carillo</hi></label><l n="30" xml:id="l296.30b" part="F">Voces oyo,</l>
               <l n="31" xml:id="l296.31">y aun parecen de gitanos:</l>
               <l n="32" xml:id="l296.32">bien hayan los avellanos</l>
@@ -21837,7 +21837,7 @@
               <l n="61" xml:id="l296.61">con todos sus zagalejos.</l>
               <label><hi rend="i">Carillo</hi></label><l n="62" xml:id="l296.62">¡Oh qué entrada</l>
               <l n="63" xml:id="l296.63">tan sonora, tan bailada</l>
-              <l n="64" xml:id="l296.64a" part="I">se puede hacer!</l><label><hi rend="i">Gil</hi></label><l n="64" xml:id="l296.64b" part="F">¡Oh qué ajeno</l>
+              <l n="64" xml:id="l296.64" part="I">se puede hacer!</l><label><hi rend="i">Gil</hi></label><l n="64" xml:id="l296.64b" part="F">¡Oh qué ajeno</l>
               <l n="65" xml:id="l296.65">me siento de mí y qué lleno</l>
               <l n="66" xml:id="l296.66">de otro! Tocad el rabel.</l>
             </lg>
@@ -21915,12 +21915,12 @@
               <lb/>A lo mismo</head>
             <lg>
               <label>Portugués</label><l n="1" rend="refrain" xml:id="l298.1">¿A que tangem em Castella?</l>
-              <label>Castellano</label><l n="2" rend="refrain" xml:id="l298.2a" part="I">A maitines.</l><label>Portugués</label><l n="2" rend="refrain" xml:id="l298.2b" part="F">¿Noite é
+              <label>Castellano</label><l n="2" rend="refrain" xml:id="l298.2" part="I">A maitines.</l><label>Portugués</label><l n="2" rend="refrain" xml:id="l298.2b" part="F">¿Noite é
                 boa?</l>
-              <label>Castellano</label><l n="3" rend="refrain" xml:id="l298.3a" part="I">Sí.</l><label>Portugués</label><l n="3" rend="refrain" xml:id="l298.3b" part="F">¿E facem como em
+              <label>Castellano</label><l n="3" rend="refrain" xml:id="l298.3" part="I">Sí.</l><label>Portugués</label><l n="3" rend="refrain" xml:id="l298.3b" part="F">¿E facem como em
                 Lisboa</l>
               <l n="4" rend="refrain" xml:id="l298.4">a frutinha de padella?</l>
-              <label>Castellano</label><l n="5" rend="refrain" xml:id="l298.5a" part="I">Mucha.</l><label>Portugués</label><l n="5" rend="refrain" xml:id="l298.5b" part="F">¿Jantaremos
+              <label>Castellano</label><l n="5" rend="refrain" xml:id="l298.5" part="I">Mucha.</l><label>Portugués</label><l n="5" rend="refrain" xml:id="l298.5b" part="F">¿Jantaremos
                 della?</l>
               <label>Castellano</label><l n="6" rend="refrain" xml:id="l298.6">Luego que confeséis vos</l>
               <l n="7" rend="refrain" xml:id="l298.7">que nació el Hijo de Dios</l>
@@ -21931,41 +21931,41 @@
               <l n="12" rend="refrain" xml:id="l298.12">castejão?</l>
               <label>Castellano</label><l n="13" rend="refrain" xml:id="l298.13">Ñafete, que el recién
                 nacido</l>
-              <l n="14" rend="refrain" xml:id="l298.14a" part="I">no es portugués.</l> <label>Portugués</label><l n="14" rend="refrain" xml:id="l298.14b" part="F">Eso não.</l>
+              <l n="14" rend="refrain" xml:id="l298.14" part="I">no es portugués.</l> <label>Portugués</label><l n="14" rend="refrain" xml:id="l298.14b" part="F">Eso não.</l>
               <label>Castellano</label><l n="15" rend="refrain" xml:id="l298.15">Ñafete, se ha derretido</l>
-              <l n="16" rend="refrain" xml:id="l298.16a" part="I">todo el sebo.</l><label>Portugués</label><l n="16" rend="refrain" xml:id="l298.16b" part="F">Ficai lá.</l>
+              <l n="16" rend="refrain" xml:id="l298.16" part="I">todo el sebo.</l><label>Portugués</label><l n="16" rend="refrain" xml:id="l298.16b" part="F">Ficai lá.</l>
               <label>Castellano</label><l n="17" rend="refrain" xml:id="l298.17">Ñafete, que va corrido,</l>
-              <l n="18" rend="refrain" xml:id="l298.18a" part="I">corrido va.</l><label>Portugués</label><l n="18" rend="refrain" xml:id="l298.18b" part="F">Ficai lá.</l>
+              <l n="18" rend="refrain" xml:id="l298.18" part="I">corrido va.</l><label>Portugués</label><l n="18" rend="refrain" xml:id="l298.18b" part="F">Ficai lá.</l>
             </lg>
             <lg>
-              <l n="19" xml:id="l298.19a" part="I">¿Ouvís, cão?</l><label>Castellano</label><l n="19" xml:id="l298.19b" part="F">Parientes somos.</l>
+              <l n="19" xml:id="l298.19" part="I">¿Ouvís, cão?</l><label>Castellano</label><l n="19" xml:id="l298.19b" part="F">Parientes somos.</l>
               <label>Portugués</label><l n="20" xml:id="l298.20">Deos naceu em Portogal</l>
               <l n="21" xml:id="l298.21">e da mula do Portal</l>
               <l n="22" xml:id="l298.22">procedem os machos romos</l>
               <l n="23" xml:id="l298.23">que teim os frades Jeromos</l>
               <l n="24" xml:id="l298.24">no mosteiro de Belem.</l>
-              <label>Castellano</label><l n="25" xml:id="l298.25a" part="I">¿Quién lo alumbró deso?</l><label>Portugués</label><l n="25" xml:id="l298.25b" part="F">¿Queim?</l>
+              <label>Castellano</label><l n="25" xml:id="l298.25" part="I">¿Quién lo alumbró deso?</l><label>Portugués</label><l n="25" xml:id="l298.25b" part="F">¿Queim?</l>
               <label>Castellano</label><l n="26" xml:id="l298.26">¿El sebo de alguna vela?</l>
               <label>Portugués</label><l n="27" rend="refrain" xml:id="l298.27">¿A que tangem em Castella?</l>
-              <label>Castellano</label><l n="28" rend="refrain" xml:id="l298.28a" part="I">A maitines.</l> <label>Portugués</label><l n="28" rend="refrain" xml:id="l298.28b" part="F">¿Noite é
+              <label>Castellano</label><l n="28" rend="refrain" xml:id="l298.28" part="I">A maitines.</l> <label>Portugués</label><l n="28" rend="refrain" xml:id="l298.28b" part="F">¿Noite é
                 boa?</l>
-              <label>Castellano</label><l n="29" rend="refrain" xml:id="l298.29a" part="I">Sí.</l><label>Portugués</label><l n="29" rend="refrain" xml:id="l298.29b" part="F">¿E facem como
+              <label>Castellano</label><l n="29" rend="refrain" xml:id="l298.29" part="I">Sí.</l><label>Portugués</label><l n="29" rend="refrain" xml:id="l298.29b" part="F">¿E facem como
                 em Lisboa</l>
               <l n="30" rend="refrain" xml:id="l298.30">a frutinha de padella?</l>
             </lg>
             <lg>
               <label>Castellano</label><l n="31" xml:id="l298.31">¿Dejó también casta el buey?</l>
               <label>Portugués</label><l n="32" xml:id="l298.32">Gerazão ficou nestremo.</l>
-              <label>Castellano</label><l n="33" xml:id="l298.33a" part="I">¿Luego era toro?</l> <label>Portugués</label><l n="33" xml:id="l298.33b" part="F">Era o Demo,</l>
+              <label>Castellano</label><l n="33" xml:id="l298.33" part="I">¿Luego era toro?</l> <label>Portugués</label><l n="33" xml:id="l298.33b" part="F">Era o Demo,</l>
               <l n="34" xml:id="l298.34">era muita que os daréi</l>
-              <l n="35" xml:id="l298.35a" part="I">pancada.</l><label>Castellano</label><l n="35" xml:id="l298.35b" part="M">¿A mí?</l><label>Portugués</label><l n="35" xml:id="l298.35c" part="F">A vos, ao rey.</l>
-              <label>Castellano</label><l n="36" xml:id="l298.36a" part="I">Liquidado se ha.</l><label>Portugués</label><l n="36" xml:id="l298.36b" part="F">¿Falades?</l>
+              <l n="35" xml:id="l298.35" part="I">pancada.</l><label>Castellano</label><l n="35" xml:id="l298.35b" part="M">¿A mí?</l><label>Portugués</label><l n="35" xml:id="l298.35c" part="F">A vos, ao rey.</l>
+              <label>Castellano</label><l n="36" xml:id="l298.36" part="I">Liquidado se ha.</l><label>Portugués</label><l n="36" xml:id="l298.36b" part="F">¿Falades?</l>
               <label>Castellano</label><l n="37" xml:id="l298.37">Haga nuestras amistades</l>
               <l n="38" xml:id="l298.38">mucha enmelada hojuela.</l>
               <label>Portugués</label><l n="39" rend="refrain" xml:id="l298.39">¿A que tangem em Castella?</l>
-              <label>Castellano</label><l n="40" rend="refrain" xml:id="l298.40a" part="I">A maitines.</l><label>Portugués</label><l n="40" rend="refrain" xml:id="l298.40b" part="F">¿Noite
+              <label>Castellano</label><l n="40" rend="refrain" xml:id="l298.40" part="I">A maitines.</l><label>Portugués</label><l n="40" rend="refrain" xml:id="l298.40b" part="F">¿Noite
                 é boa?</l>
-              <label>Castellano</label><l n="41" rend="refrain" xml:id="l298.41a" part="I">Sí.</l><label>Portugués</label><l n="41" rend="refrain" xml:id="l298.41b" part="F">¿E facem como
+              <label>Castellano</label><l n="41" rend="refrain" xml:id="l298.41" part="I">Sí.</l><label>Portugués</label><l n="41" rend="refrain" xml:id="l298.41b" part="F">¿E facem como
                 em Lisboa</l>
               <l n="42" rend="refrain" xml:id="l298.42">a frutinha de padella?</l>
             </lg>
@@ -22186,12 +22186,12 @@
               <l n="2" rend="refrain" xml:id="l303.2">¡Oh, que vimo!</l>
               <label>2.</label><l n="3" rend="refrain" xml:id="l303.3">¿Dónde, primo?</l>
               <label>1.</label><l n="4" rend="refrain" xml:id="l303.4">No portalo de Belena.</l>
-              <label>2.</label><l n="5" rend="refrain" xml:id="l303.5a" part="I">¿E qué fu?</l><label>1.</label><l n="5" rend="refrain" xml:id="l303.5b" part="F">Entre la
+              <label>2.</label><l n="5" rend="refrain" xml:id="l303.5" part="I">¿E qué fu?</l><label>1.</label><l n="5" rend="refrain" xml:id="l303.5b" part="F">Entre la
                 hena</l>
               <l n="6" rend="refrain" xml:id="l303.6">mucho Sol con mucha raia.</l>
               <label>2.</label><l n="7" rend="refrain" xml:id="l303.7">Caia, caia.</l>
               <label>1.</label><l n="8" rend="refrain" xml:id="l303.8">Por en Diosa que no miento.</l>
-              <label>2.</label><l n="9" rend="refrain" xml:id="l303.9a" part="I">Vamo aiá.</l> <label>1.</label><l n="9" rend="refrain" xml:id="l303.9b" part="F">
+              <label>2.</label><l n="9" rend="refrain" xml:id="l303.9" part="I">Vamo aiá.</l> <label>1.</label><l n="9" rend="refrain" xml:id="l303.9b" part="F">
               Toca instrumento.</l>
               <label>2.</label><l n="10" rend="refrain" xml:id="l303.10">Elamú, calambú, canbú,</l>
               <l n="11" rend="refrain" xml:id="l303.11">elamú.</l>
@@ -22222,10 +22222,10 @@
               <l n="32" xml:id="l303.32">de Jericongo, María,</l>
               <l n="33" xml:id="l303.33">«Entra —dijo—, prima mía»,</l>
               <l n="34" xml:id="l303.34">que negra so, ma hermosa.</l>
-              <label>1.</label><l n="35" xml:id="l303.35a" part="I">¿Entraste?</l><label>2.</label><l n="35" xml:id="l303.35b" part="F">Sí, e maliciosa</l>
+              <label>1.</label><l n="35" xml:id="l303.35" part="I">¿Entraste?</l><label>2.</label><l n="35" xml:id="l303.35b" part="F">Sí, e maliciosa</l>
               <l n="36" xml:id="l303.36">a mula un coz me tiró.</l>
               <label>1.</label><l n="37" xml:id="l303.37">Caia, que non fu coz, no.</l>
-              <label>2.</label><l n="38" xml:id="l303.38a" part="I">¿Pos qué fu?</l><label>1.</label><l n="38" xml:id="l303.38b" part="F">Invidia morena.</l>
+              <label>2.</label><l n="38" xml:id="l303.38" part="I">¿Pos qué fu?</l><label>1.</label><l n="38" xml:id="l303.38b" part="F">Invidia morena.</l>
               <l n="39" rend="refrain" xml:id="l303.39">¡Oh, qué vimo, Mangalena!</l>
               <l n="40" rend="refrain" xml:id="l303.40">¡Oh, qué vimo!</l>
               <label>2.</label><l n="41" rend="refrain" xml:id="l303.41">¿Dónde, primo?</l>
@@ -22247,7 +22247,7 @@
                 de oriente,</l>
               <l n="4" rend="refrain" xml:id="l304.4">cuyo postillón luciente</l>
               <l n="5" rend="refrain" xml:id="l304.5">es una estrella.</l>
-              <label>Negro</label><l n="6" rend="refrain" xml:id="l304.6a" part="I">¡Praza!</l><label>Pastor 1°</label><l n="6" rend="refrain" xml:id="l304.6b" part="F">¿Quién nos atropella?</l>
+              <label>Negro</label><l n="6" rend="refrain" xml:id="l304.6" part="I">¡Praza!</l><label>Pastor 1°</label><l n="6" rend="refrain" xml:id="l304.6b" part="F">¿Quién nos atropella?</l>
               <label>Negro</label><l n="7" rend="refrain" xml:id="l304.7">Mechora, rey de Sabá,</l>
               <l n="8" rend="refrain" xml:id="l304.8"> guan guan guá,</l>
               <l n="9" rend="refrain" xml:id="l304.9"> morenica de Sofalá.</l>
@@ -22256,11 +22256,11 @@
               <l n="12" rend="refrain" xml:id="l304.12">hoy nos ha venido acá!</l>
               <label>Pastor 1°</label><l n="13" rend="refrain" xml:id="l304.13">Ha, ha,
                 ha.</l>
-              <label>Negro</label><l n="14" rend="refrain" xml:id="l304.14a" part="I">¿Ríe la pastora?</l><label>Pastor 2°</label><l n="14" rend="refrain" xml:id="l304.14b" part="F">Sí.</l>
+              <label>Negro</label><l n="14" rend="refrain" xml:id="l304.14" part="I">¿Ríe la pastora?</l><label>Pastor 2°</label><l n="14" rend="refrain" xml:id="l304.14b" part="F">Sí.</l>
               <label>Negro</label><l n="15" rend="refrain" xml:id="l304.15">Paparico, poco a poco,</l>
               <l n="16" rend="refrain" xml:id="l304.16">que samo enfadado ya.</l>
               <label>Pastor 1°</label><l n="17" rend="refrain" xml:id="l304.17">Ha, ha, ha.</l>
-              <label>Negro</label><l n="18" rend="refrain" xml:id="l304.18a" part="I">Entra, primo.</l> <label>Pastor 2°</label><l n="18" rend="refrain" xml:id="l304.18b" part="F">Fuera allá,</l>
+              <label>Negro</label><l n="18" rend="refrain" xml:id="l304.18" part="I">Entra, primo.</l> <label>Pastor 2°</label><l n="18" rend="refrain" xml:id="l304.18b" part="F">Fuera allá,</l>
               <l n="19" rend="refrain" xml:id="l304.19">no piense el Niño que es coco</l>
               <l n="20" rend="refrain" xml:id="l304.20">el rey que a adorallo va.</l>
             </lg>
@@ -22269,7 +22269,7 @@
               <l n="22" xml:id="l304.22">negros hacen al portal.</l>
               <label>Negro</label><l n="23" xml:id="l304.23">Hormiga sá, juro a tal,</l>
               <l n="24" xml:id="l304.24">hormiga, ma non vacío.</l>
-              <label>Pastor 2°</label><l n="25" xml:id="l304.25a" part="I">¿Qué traéis?</l><label>Negro</label><l n="25" xml:id="l304.25b" part="F">La reia mío</l>
+              <label>Pastor 2°</label><l n="25" xml:id="l304.25" part="I">¿Qué traéis?</l><label>Negro</label><l n="25" xml:id="l304.25b" part="F">La reia mío</l>
               <l n="26" xml:id="l304.26">incienso ofrece sagrado.</l>
               <label>Pastor 1°</label><l n="27" xml:id="l304.27">Humo, al fin, el humo ha dado.</l>
               <label>Negro</label><l n="28" xml:id="l304.28">Sá de Dios, al fin, presente.</l>
@@ -22289,7 +22289,7 @@
               <lb/>A la purificación de Nuestra Señora</head>
             <lg>
               <label>Bras</label><l n="1" rend="refrain" xml:id="l305.1">¡Oh, qué verás, Carillejo,</l>
-              <l n="2" rend="refrain" xml:id="l305.2a" part="I">hoy en el templo!</l><label>Carillejo</label><l n="2" rend="refrain" xml:id="l305.2b" part="F">¿Qué, Bras?</l>
+              <l n="2" rend="refrain" xml:id="l305.2" part="I">hoy en el templo!</l><label>Carillejo</label><l n="2" rend="refrain" xml:id="l305.2b" part="F">¿Qué, Bras?</l>
               <label>Bras</label><l n="3" rend="refrain" xml:id="l305.3">Corre, vuela, calla, y verás</l>
               <l n="4" rend="refrain" xml:id="l305.4">cómo en las manos de un viejo</l>
               <l n="5" rend="refrain" xml:id="l305.5">pone hoy franca</l>
@@ -23578,7 +23578,7 @@
               <l n="15" xml:id="l316.15">trajeron por cosa rara</l>
               <l n="16" xml:id="l316.16">entre dos en una vara,</l>
               <l n="17" xml:id="l316.17">de aqueste figura fue.</l>
-              <label>2.</label><l n="18" xml:id="l316.18a" part="I">¿Sábeslo tú?</l><label>1.</label><l n="18" xml:id="l316.18b" part="F">Yo lo sé</l>
+              <label>2.</label><l n="18" xml:id="l316.18" part="I">¿Sábeslo tú?</l><label>1.</label><l n="18" xml:id="l316.18b" part="F">Yo lo sé</l>
               <l n="19" xml:id="l316.19">del que lo profetizó.</l>
               <label>2.</label><l n="20" rend="refrain" xml:id="l316.20">Mas que no,</l>
               <l n="21" rend="refrain" xml:id="l316.21">porque ha mucho que pasó.</l>
@@ -23590,7 +23590,7 @@
               <l n="25" xml:id="l316.25">y aqueste verá Sïón</l>
               <l n="26" xml:id="l316.26">entre uno y otro ladrón,</l>
               <l n="27" xml:id="l316.27">siendo la inocencia él.</l>
-              <label>2.</label><l n="28" xml:id="l316.28a" part="I">¿Adivinas?</l><label>1.</label><l n="28" xml:id="l316.28b" part="F">Más fïel</l>
+              <label>2.</label><l n="28" xml:id="l316.28" part="I">¿Adivinas?</l><label>1.</label><l n="28" xml:id="l316.28b" part="F">Más fïel</l>
               <l n="29" xml:id="l316.29">fue ya quien lo adivinó.</l>
               <label>2.</label><l n="30" rend="refrain" xml:id="l316.30">Mas que no,</l>
               <l n="31" rend="refrain" xml:id="l316.31">porque ha mucho que pasó.</l>
@@ -25292,9 +25292,9 @@
             </lg>
             <lg>
               <label>1.</label><l n="25" rend="refrain" xml:id="l346.25">Pediros albricias puedo.</l>
-              <label>2.</label><l n="26" rend="refrain" xml:id="l346.26a" part="I">¿De qué, Gil?</l><label>1.</label><l n="26" rend="refrain" xml:id="l346.26b" part="F">No deis más
+              <label>2.</label><l n="26" rend="refrain" xml:id="l346.26" part="I">¿De qué, Gil?</l><label>1.</label><l n="26" rend="refrain" xml:id="l346.26b" part="F">No deis más
                 paso,</l>
-              <l n="27" rend="refrain" xml:id="l346.27a" part="I">que dormir vi al niño.</l><label>2.</label><l n="27" rend="refrain" xml:id="l346.27b" part="F">Paso.</l>
+              <l n="27" rend="refrain" xml:id="l346.27" part="I">que dormir vi al niño.</l><label>2.</label><l n="27" rend="refrain" xml:id="l346.27b" part="F">Paso.</l>
               <label>1.</label><l n="28" rend="refrain" xml:id="l346.28">Quedo, ay, queditico, quedo.</l>
             </lg>
             <lg>
@@ -25305,8 +25305,8 @@
               <label>2.</label><l n="33" xml:id="l346.33">Enfrena el paso, Pascual,</l>
               <l n="34" xml:id="l346.34">deja a la puerta el denuedo.</l>
               <label>1.</label><l n="35" rend="refrain" xml:id="l346.35">Pediros albricias puedo.</l>
-              <label>2.</label><l n="36" rend="refrain" xml:id="l346.36a" part="I">¿De qué, Gil?</l><label>1.</label><l n="36" rend="refrain" xml:id="l346.36b" part="F">No deis más paso,</l>
-              <l n="37" rend="refrain" xml:id="l346.37a" part="I">que dormir vi al niño.</l><label>2.</label><l n="37" rend="refrain" xml:id="l346.37b" part="F">Paso.</l>
+              <label>2.</label><l n="36" rend="refrain" xml:id="l346.36" part="I">¿De qué, Gil?</l><label>1.</label><l n="36" rend="refrain" xml:id="l346.36b" part="F">No deis más paso,</l>
+              <l n="37" rend="refrain" xml:id="l346.37" part="I">que dormir vi al niño.</l><label>2.</label><l n="37" rend="refrain" xml:id="l346.37b" part="F">Paso.</l>
               <label>1.</label><l n="38" rend="refrain" xml:id="l346.38">Quedo, ay, queditico, quedo.</l>
             </lg>
           </div>
@@ -28417,7 +28417,7 @@
             <lg>
               <label>D. P.</label><l n="19" xml:id="l418.19">¿Por un monigote dejas</l>
               <l n="20" xml:id="l418.20">un tan valiente soldado?</l>
-              <label>D. M.</label><l n="21" xml:id="l418.21a" part="I">Obligome.</l><label>D. P.</label><l n="21" xml:id="l418.21b" part="F">¿Qué te ha dado?</l>
+              <label>D. M.</label><l n="21" xml:id="l418.21" part="I">Obligome.</l><label>D. P.</label><l n="21" xml:id="l418.21b" part="F">¿Qué te ha dado?</l>
               <label>D. M.</label><l n="22" xml:id="l418.22">¿No le han oído tus quejas</l>
               <l n="23" xml:id="l418.23">repicar en mis orejas</l>
               <l n="24" xml:id="l418.24">campanitas de rubíes?</l>
