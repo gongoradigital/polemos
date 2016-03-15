@@ -108,7 +108,7 @@ note[@type="app" rend="I"] : notes d’apparat (I = romain)
       </div>
       -->
     <front>
-      <div>
+
         <head>Introducción</head>
         <div>
           <head>1. [Título]
@@ -619,7 +619,7 @@ note[@type="app" rend="I"] : notes d’apparat (I = romain)
           </div>
         </div>
 
-      </div>
+      
     </front>
     <body>
 
