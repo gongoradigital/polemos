@@ -15,8 +15,8 @@ if (!isset($doc['body'])) $pot->search();
 <html>
   <head>
     <meta charset="UTF-8" />
-    <?php 
-if(isset($doc['head'])) echo $doc['head']; 
+    <?php
+if(isset($doc['head'])) echo $doc['head'];
 else echo '
 <title>Gongora, OBVIL</title>
 ';
@@ -26,6 +26,12 @@ else echo '
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
     <style type="text/css">
 td.title { font-style: normal; }
+article.poem h1 { font-family: inherit; font-weight: normal; text-transform: uppercase; line-height: 1.7em; }
+article.poem h1 .num { font-weight: bold;}
+article.poem  { text-align: center;  }
+article.poem > .lg { display: inline-block; text-align: left; }
+article.poem.dialogue .l-n { position: relative; float: right; margin-left: 2.5rem;}
+article.poem.dialogue .label { float: left; }
     </style>
   </head>
   <body>
@@ -104,7 +110,7 @@ else {
         </aside>
 
       </div>
-      <?php 
+      <?php
 // footer
       ?>
     </div>
