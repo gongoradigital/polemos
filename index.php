@@ -2,7 +2,7 @@
 ini_set('display_errors', '1');
 error_reporting(-1);
 include (dirname(__FILE__).'/../teipot/Teipot.php');
-$teipot = Web::basehref() . '../teipot/';
+$teinte = Web::basehref() . '../Teinte/';
 $theme =  Web::basehref() . '../theme/';
 
 $pot=new Teipot(dirname(__FILE__).'/gongora.sqlite', 'fr');
@@ -15,23 +15,24 @@ if (!isset($doc['body'])) $pot->search();
 <html>
   <head>
     <meta charset="UTF-8" />
-    <?php
-if(isset($doc['head'])) echo $doc['head'];
+    <?php 
+if(isset($doc['head'])) echo $doc['head']; 
 else echo '
 <title>Gongora, OBVIL</title>
 ';
     ?>
-    <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo $teinte ?>tei2html.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
     <style type="text/css">
 td.title { font-style: normal; }
-article.poem h1 { font-family: inherit; font-weight: normal; text-transform: uppercase; line-height: 1.7em; }
+article.poem h1 { font-family: inherit; font-weight: normal; text-transform: uppercase; line-height: 1.7em; font-size: 95%; }
 article.poem h1 .num { font-weight: bold;}
 article.poem  { text-align: center;  }
-article.poem > .lg { display: inline-block; text-align: left; }
+article.poem > .lg { display: inline-block; text-align: left; position: relative; }
 article.poem.dialogue .l-n { position: relative; float: right; margin-left: 2.5rem;}
-article.poem.dialogue .label { float: left; }
+article.poem.dialogue .label { position: absolute; width: 8em; text-align: right; line-height: 1.4rem;  margin: 0 0 0 0 ; left: -9em; font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Geneva, sans-serif; color: grey; font-size: 85%;  }
+td.prev abbr, td.next abbr { display: none; }
+
     </style>
   </head>
   <body>
@@ -110,12 +111,12 @@ else {
         </aside>
 
       </div>
-      <?php
+      <?php 
 // footer
       ?>
     </div>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Tree.js">//</script>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Form.js">//</script>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Sortable.js">//</script>
+    <script type="text/javascript" src="<?php echo $teinte; ?>Tree.js">//</script>
+    <script type="text/javascript" src="<?php echo $teinte; ?>Form.js">//</script>
+    <script type="text/javascript" src="<?php echo $teinte; ?>Sortable.js">//</script>
   </body>
 </html>
