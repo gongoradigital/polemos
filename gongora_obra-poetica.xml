@@ -11692,7 +11692,7 @@
               </lg>
             </lg>
           </div>
-          <div n="123" type="poem" xml:id="poem123">
+          <div n="123" type="poem" xml:id="poem123" subtype="dialogue">
             <index>
               <term type="head"><num>123. </num>[A dama moza casada con un viejo]</term>
             </index>
@@ -15709,7 +15709,7 @@
               </lg>
             </lg>
           </div>
-          <div n="206" type="poem" xml:id="poem206">
+          <div n="206" type="poem" xml:id="poem206" subtype="dialogue">
             <index>
               <term type="head"><num>206. </num>Mañana sa Corpus Christa</term>
             </index>
@@ -15779,7 +15779,7 @@
               </lg>
             </lg>
           </div>
-          <div n="207" type="poem" xml:id="poem207">
+          <div n="207" type="poem" xml:id="poem207" subtype="dialogue">
             <index>
               <term type="head"><num>207. </num>¿A qué nos convidas, Bras</term>
             </index>
@@ -15932,7 +15932,7 @@
               </lg>
             </lg>
           </div>
-          <div n="210" type="poem" xml:id="poem210">
+          <div n="210" type="poem" xml:id="poem210" subtype="dialogue">
             <index>
               <term type="head"><num>210. </num>¿Qué comes, hombre? —¿Qué como?</term>
             </index>
@@ -16039,7 +16039,7 @@
               </lg>
             </lg>
           </div>
-          <div n="212" type="poem" xml:id="poem212">
+          <div n="212" type="poem" xml:id="poem212" subtype="dialogue">
             <index>
               <term type="head"><num>212. </num>Alma niña, ¿quieres, di</term>
             </index>
@@ -16409,7 +16409,7 @@
           <head>
             <num>1610</num>
           </head>
-          <div n="217" type="poem" xml:id="poem217">
+          <div n="217" type="poem" xml:id="poem217" subtype="dialogue">
             <index>
               <term type="head"><num>217. </num>Ardiendo en aguas muertas llamas vivas</term>
             </index>
@@ -18094,7 +18094,7 @@
               </lg>
             </lg>
           </div>
-          <div n="255" type="poem" xml:id="poem255">
+          <div n="255" type="poem" xml:id="poem255" subtype="dialogue">
             <head><num>255</num> <lb/><lb/>Fábula de Polifemo y Galatea</head>
             <lg rend="center">
               <label rend="center, i">Al conde de Niebla</label>
@@ -18802,7 +18802,7 @@
               </lg>
             </lg>
           </div>
-          <div n="257" type="poem" xml:id="poem257">
+          <div n="257" type="poem" xml:id="poem257" subtype="dialogue">
             <index>
               <term type="head"><num>257. </num>Cuán venerables que son</term>
             </index>
@@ -19108,7 +19108,7 @@
               </lg>
             </lg>
           </div>
-          <div n="263" type="poem" xml:id="poem263">
+          <div n="263" type="poem" xml:id="poem263" subtype="dialogue">
             <index>
               <term type="head"><num>263. </num>Cuántos silbos, cuántas voces</term>
             </index>
@@ -21986,7 +21986,7 @@
               </lg>
             </lg>
           </div>
-          <div n="279" type="poem" xml:id="poem279">
+          <div n="279" type="poem" xml:id="poem279" subtype="dialogue">
             <index>
               <term type="head"><num>279. </num>Al campo salió, el estío,</term>
             </index>
@@ -22741,7 +22741,7 @@
               </lg>
             </lg>
           </div>
-          <div n="293" type="poem" xml:id="poem293">
+          <div n="293" type="poem" xml:id="poem293" subtype="dialogue">
             <index>
               <term type="head"><num>293. </num>[Alcidón] Perdona al remo, Lícidas, perdona</term>
             </index>
@@ -22842,7 +22842,7 @@
               </lg>
             </lg>
           </div>
-          <div n="295" type="poem" xml:id="poem295">
+          <div n="295" type="poem" xml:id="poem295" subtype="dialogue">
             <index>
               <term type="head"><num>295. </num>[1.] Cuando toquen a los maitines,</term>
             </index>
@@ -22913,7 +22913,7 @@
               </lg>
             </lg>
           </div>
-          <div n="296" type="poem" xml:id="poem296">
+          <div n="296" type="poem" xml:id="poem296" subtype="dialogue">
             <index>
               <term type="head"><num>296. </num>[Gil] No solo el campo nevado</term>
             </index>
@@ -23130,7 +23130,7 @@
               </lg>
             </lg>
           </div>
-          <div n="298" type="poem" xml:id="poem298">
+          <div n="298" type="poem" xml:id="poem298" subtype="label">
             <index>
               <term type="head"><num>298. </num>[Portugués] ¿A que tangem em Castella?</term>
             </index>
@@ -23241,7 +23241,7 @@
               </lg>
             </lg>
           </div>
-          <div n="299" type="poem" xml:id="poem299">
+          <div n="299" type="poem" xml:id="poem299" subtype="dialogue">
             <index>
               <term type="head"><num>299. </num>[1.] ¿Cuál podréis, Judea, decir</term>
             </index>
@@ -23290,7 +23290,7 @@
               </lg>
             </lg>
           </div>
-          <div n="300" type="poem" xml:id="poem300">
+          <div n="300" type="poem" xml:id="poem300" subtype="dialogue">
             <index>
               <term type="head"><num>300. </num>[1.] Al gualete, hejo</term>
             </index>
@@ -23346,7 +23346,7 @@
               </lg>
             </lg>
           </div>
-          <div n="301" type="poem" xml:id="poem301">
+          <div n="301" type="poem" xml:id="poem301" subtype="dialogue">
             <index>
               <term type="head"><num>301. </num>[1.] Niño, si por lo que tienes</term>
             </index>
@@ -23461,7 +23461,7 @@
               </lg>
             </lg>
           </div>
-          <div n="303" type="poem" xml:id="poem303">
+          <div n="303" type="poem" xml:id="poem303" subtype="dialogue">
             <index>
               <term type="head"><num>303. </num>[1.] ¡Oh, qué vimo, Mangalena!</term>
             </index>
@@ -23548,7 +23548,7 @@
               </lg>
             </lg>
           </div>
-          <div n="304" type="poem" xml:id="poem304">
+          <div n="304" type="poem" xml:id="poem304" subtype="dialogue">
             <index>
               <term type="head"><num>304. </num>[Pastor 1°] ¿Qué gente, Pascual, qué gente?</term>
             </index>
@@ -23618,7 +23618,7 @@
               </lg>
             </lg>
           </div>
-          <div n="305" type="poem" xml:id="poem305">
+          <div n="305" type="poem" xml:id="poem305" subtype="dialogue">
             <index>
               <term type="head"><num>305. </num>[Bras] ¡Oh, qué verás, Carillejo,</term>
             </index>
@@ -23650,7 +23650,7 @@
                 <l n="17" xml:id="l305.17">aun la del Fénix atrás.</l>
                 <l n="18" rend="refrain" xml:id="l305.18">Corre, vuela, calla, y verás</l>
                 <l n="19" rend="refrain" xml:id="l305.19">cómo en las manos de un viejo</l>
-                <l n="20" rend="refrain" xml:id="l305.20">pone hoy franca</l>
+                <l n="20" rend="refrain" xml:id="l305.20" met="l7">pone hoy franca</l>
                 <l n="21" rend="refrain" xml:id="l305.21">la Palomica blanca,</l>
                 <l n="22" rend="refrain" xml:id="l305.22">que pone, que pare,</l>
                 <l n="23" rend="refrain" xml:id="l305.23">que pare como Virgen,</l>
@@ -24882,7 +24882,7 @@
           <head>
             <num>1618</num>
           </head>
-          <div n="316" type="poem" xml:id="poem316">
+          <div n="316" type="poem" xml:id="poem316" subtype="dialogue">
             <index>
               <term type="head"><num>316. </num>[1.] El racimo que ofreció</term>
             </index>
@@ -26582,7 +26582,7 @@
               </lg>
             </lg>
           </div>
-          <div n="346" type="poem" xml:id="poem346">
+          <div n="346" type="poem" xml:id="poem346" subtype="dialogue">
             <index>
               <term type="head"><num>346. </num>¡Cuántos silbos, cuántas voces</term>
             </index>
@@ -28102,7 +28102,7 @@
               </lg>
             </lg>
           </div>
-          <div n="379" type="poem" xml:id="poem379">
+          <div n="379" type="poem" xml:id="poem379" subtype="dialogue">
             <index>
               <term type="head"><num>379. </num>[Bras] Al hermoso dueño mío,</term>
             </index>
@@ -29722,7 +29722,7 @@
               </lg>
             </lg>
           </div>
-          <div n="418" type="poem" xml:id="poem418">
+          <div n="418" type="poem" xml:id="poem418" subtype="dialogue">
             <index>
               <term type="head"><num>418. </num>[D. P.] Doña Menga, ¿de qué te ríes?</term>
             </index>
@@ -30705,7 +30705,7 @@
             </lg>
           </lg>
         </div>
-        <div n="447" type="poem" xml:id="poem447">
+        <div n="447" type="poem" xml:id="poem447" subtype="dialogue">
           <index>
             <term type="head"><num>447. </num>[C.] Arroyo, ¿en qué ha de parar</term>
           </index>
