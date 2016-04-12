@@ -19129,7 +19129,7 @@
                 <l n="8" xml:id="l263.8">del toro que pisa el cielo.</l>
                 <label>1.</label>
                 <l n="9" rend="refrain" xml:id="l263.9">¿Qué buscades, los vaqueros?</l>
-                <label>1.</label>
+                <label>2.</label>
                 <l n="10" rend="refrain" xml:id="l263.10">Una, ay, novillejo, una</l>
                 <l n="11" rend="refrain" xml:id="l263.11">que hiere con media luna</l>
                 <l n="12" rend="refrain" xml:id="l263.12">y mata con dos luceros.</l>
@@ -19145,7 +19145,7 @@
                 <l n="20" xml:id="l263.20">turbantes de sus cabezos.</l>
                 <label>1.</label>
                 <l n="21" rend="refrain" xml:id="l263.21">¿Qué buscades, los vaqueros?</l>
-                <label>1.</label>
+                <label>2.</label>
                 <l n="22" rend="refrain" xml:id="l263.22">Una, ay, novillejo, una</l>
                 <l n="23" rend="refrain" xml:id="l263.23">que hiere con media luna</l>
                 <l n="24" rend="refrain" xml:id="l263.24">y mata con dos luceros.</l>
@@ -19161,7 +19161,7 @@
                 <l n="32" xml:id="l263.32">en la región del silencio.</l>
                 <label>1.</label>
                 <l n="33" rend="refrain" xml:id="l263.33">¿Qué buscades, los vaqueros?</l>
-                <label>1.</label>
+                <label>2.</label>
                 <l n="34" rend="refrain" xml:id="l263.34">Una, ay, novillejo, una</l>
                 <l n="35" rend="refrain" xml:id="l263.35">que hiere con media luna</l>
                 <l n="36" rend="refrain" xml:id="l263.36">y mata con dos luceros.</l>
@@ -19175,7 +19175,7 @@
                 <l part="F" rend="refrain" xml:id="l263.38b">No deis más paso:</l>
                 <l n="39" part="I" rend="refrain" xml:id="l263.39">la novilla he visto.</l>
                 <label>VAQUEROS</label>
-                <l part="F" rend="refrain" xml:id="l263.39b">Paso.</l>
+                <l part="F" rend="refrain" xml:id="l263.39b">    Paso.</l>
                 <label>GIL</label>
                 <l n="40" rend="refrain" xml:id="l263.40">Quedo, ay, quedetico, quedo.</l>
               </lg>
@@ -19193,7 +19193,7 @@
                 <l part="F" rend="refrain" xml:id="l263.48b">No deis más paso:</l>
                 <l n="49" part="I" rend="refrain" xml:id="l263.49">la novilla he visto.</l>
                 <label>VAQUEROS</label>
-                <l part="F" rend="refrain" xml:id="l263.49b">Paso.</l>
+                <l part="F" rend="refrain" xml:id="l263.49b">    Paso.</l>
                 <label>GIL</label>
                 <l n="50" rend="refrain" xml:id="l263.50">Quedo, ay, quedetico, quedo.</l>
               </lg>
@@ -19211,7 +19211,7 @@
                 <l part="F" rend="refrain" xml:id="l263.58b">No deis más paso:</l>
                 <l n="59" part="I" rend="refrain" xml:id="l263.59">la novilla he visto.</l>
                 <label>VAQUEROS</label>
-                <l part="F" rend="refrain" xml:id="l263.59b">Paso.</l>
+                <l part="F" rend="refrain" xml:id="l263.59b">    Paso.</l>
                 <label>GIL</label>
                 <l n="60" rend="refrain" xml:id="l263.60"> Quedo, ay, quedetico, quedo.</l>
               </lg>
@@ -19229,7 +19229,7 @@
                 <l part="F" rend="refrain" xml:id="l263.68b">No deis más paso:</l>
                 <l n="69" part="I" rend="refrain" xml:id="l263.69">la novilla he visto.</l>
                 <label>VAQUEROS</label>
-                <l part="F" rend="refrain" xml:id="l263.69b">Paso.</l>
+                <l part="F" rend="refrain" xml:id="l263.69b">    Paso.</l>
                 <label>GIL</label>
                 <l n="70" rend="refrain" xml:id="l263.70">Quedo, ay, quedetico, quedo.</l>
               </lg>
