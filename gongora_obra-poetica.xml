@@ -18099,8 +18099,8 @@
           <div n="255" type="poem" xml:id="poem255" subtype="dialogue">
             <head><num>255</num> <lb/>
             <lb/>
-            <hi rend="center">Fábula de Polifemo y Galatea</hi>
-            </head>Al conde de Niebla</head> 
+            <hi rend="center">Fábula de Polifemo y Galatea</hi></head>
+            <head>Al conde de Niebla</head> 
             <lg rend="center">
             <lg>
                 <l n="1" xml:id="l255.1">    Estas, que me dictó, rimas sonoras,</l>
@@ -24920,7 +24920,7 @@
                 <label>2.</label>
                 <l n="18" part="I" xml:id="l316.18">¿Sábeslo tú?</l>
                 <label>1.</label>
-                <l part="F" xml:id="l316.18b"><hi rend="i">Yo lo sé</l>
+                <l part="F" xml:id="l316.18b"><hi rend="i">Yo lo sé</hi></l>
                 <l n="19" xml:id="l316.19">del que lo profetizó.</l>
                 <label>2.</label>
                 <l n="20" rend="refrain" xml:id="l316.20">Mas que no,</l>
