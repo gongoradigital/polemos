@@ -16904,7 +16904,7 @@
                 <l n="71" rend="refrain" xml:id="l229.71">¿qué hará aquel</l>
                 <l n="72" rend="refrain" xml:id="l229.72">que halla flechas en aquellos</l>
                 <l n="73" rend="refrain" xml:id="l229.73">cuando en estos busca miel?</l>
-                <l n="74" rend="refrain" xml:id="l229.74">Dímelo tú. —Sépalo él.</l>
+                <l n="74" rend="refrain" xml:id="l229.74" part="I">Dímelo tú.</l><l n="74" rend="refrain" xml:id="l229.74b" part="F">—Sépalo él.</l>
                 <l n="75" rend="refrain" xml:id="l229.75">—Dímelo tú, si no eres cruel.</l>
               </lg>
               <lg>
@@ -16915,7 +16915,7 @@
                 <l n="80" rend="refrain" xml:id="l229.80">¿qué hará aquel</l>
                 <l n="81" rend="refrain" xml:id="l229.81">que halla flechas en aquellos</l>
                 <l n="82" rend="refrain" xml:id="l229.82">cuando en estos busca miel?</l>
-                <l n="83" rend="refrain" xml:id="l229.83">Dímelo tú. —Sépalo él.</l>
+                <l n="83" rend="refrain" xml:id="l229.83" part="I">Dímelo tú.</l><l n="83" rend="refrain" xml:id="l229.83b" part="F">—Sépalo él.</l>
                 <l n="84" rend="refrain" xml:id="l229.84">—Dímelo tú, si no eres cruel».</l>
               </lg>
               <lg>
