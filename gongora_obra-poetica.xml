@@ -27,6 +27,10 @@
           <resp>Édition TEI et stylage</resp>
         </respStmt>
         <respStmt>
+          <name>François-Xavier Guerry </name>
+          <resp>Édition TEI et stylage</resp>
+        </respStmt>
+        <respStmt>
           <name>Frédéric Glorieux</name>
           <resp>Informatique éditoriale</resp>
         </respStmt>
@@ -27881,7 +27885,7 @@
                 <l n="10" xml:id="l372.10">advirtiendo que tal vez,</l>
                 <l n="11" xml:id="l372.11">a pesar de su firmeza,</l>
                 <l n="12" xml:id="l372.12">obedecen al sincel.</l>
-                <l n="13" xml:id="l372.13    ">Resiste al viento la encina,</l>
+                <l n="13" xml:id="l372.13">    Resiste al viento la encina,</l>
                 <l n="14" xml:id="l372.14">mas con el villano pie,</l>
                 <l n="15" xml:id="l372.15">que con las hojas corteses</l>
                 <l n="16" xml:id="l372.16">a cualquier céfiro cree;</l>
