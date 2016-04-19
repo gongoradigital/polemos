@@ -70,9 +70,7 @@
             <cell>N°</cell>
             <cell>Año</cell>
             <cell>Incipit</cell>
-            <!--
-            <cell>Forma</cell>
-			-->
+            <!-- <cell>Forma</cell> -->
           </row>
           <row>
             <cell>1</cell>
