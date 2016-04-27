@@ -100,7 +100,10 @@
             a proponerse el título en el encabezamiento del texto con una matriz tipográfica
             idéntica a la de la portada y con una breve explicitación en fuente menor y en
             cursiva:</p>
-          <p>[IMAGEN PORTADA 1] [IMAGEN PORTADA 2]</p>
+          <figure>
+            <graphic url="1624_discurso-poetico/portada1.png"/>
+            <graphic url="1624_discurso-poetico/portada2.png"/>
+          </figure>
           <p>Conciso y abstracto para los hábitos de entonces, el título equivale, por una hipálage
             lexicalizada, a «Discurso que trata de poética». A estas alturas del siglo XVII, hacía
             tiempo que los europeos cultos estaban familiarizados con la acepción sustantiva de la
