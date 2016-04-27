@@ -57,9 +57,9 @@
   </teiHeader>
   <text>
     <front>
+      <head>Introducción</head>
       <div xml:id="intro">
-        <head>Introducción</head>
-        <p>introducción de A. Carreira</p>
+        <head>Introducción de A. Carreira</head>
       </div>
       <div>
         <head>Índice</head>
@@ -3019,7 +3019,7 @@
             </cell>
           </row>
         </table>
-        <table>
+        <table rend="sortable">
           <head>Poemas de autenticidad probable</head>
           <row role="label">
             <cell>N°</cell>

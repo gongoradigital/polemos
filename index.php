@@ -2,6 +2,7 @@
 ini_set('display_errors', '1');
 error_reporting(-1);
 include (dirname(__FILE__).'/../teipot/Teipot.php');
+$teipot = Web::basehref() . '../teipot/';
 $teinte = Web::basehref() . '../Teinte/';
 $theme =  Web::basehref() . '../theme/';
 
@@ -15,25 +16,15 @@ if (!isset($doc['body'])) $pot->search();
 <html>
   <head>
     <meta charset="UTF-8" />
-    <?php 
-if(isset($doc['head'])) echo $doc['head']; 
+    <?php
+if(isset($doc['head'])) echo $doc['head'];
 else echo '
 <title>Gongora, OBVIL</title>
 ';
     ?>
     <link rel="stylesheet" type="text/css" href="<?php echo $teinte ?>tei2html.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
-    <style type="text/css">
-td.title { font-style: normal; }
-article.poem h1 { font-family: inherit; font-weight: normal; text-transform: uppercase; line-height: 1.7em; font-size: 95%; }
-article.poem h1 .num { font-weight: bold;}
-article.poem  { text-align: center;  }
-article.poem > .lg { display: inline-block; text-align: left; position: relative; }
-article.poem.dialogue .l-n { position: relative; float: right; margin-left: 2.5rem;}
-article.poem.dialogue .label { position: absolute; width: 8em; text-align: right; line-height: 1.4rem;  margin: 0 0 0 0 ; left: -9em; font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Geneva, sans-serif; color: grey; font-size: 85%;  }
-td.prev abbr, td.next abbr { display: none; }
-
-    </style>
+    <link rel="stylesheet" type="text/css" href="<?php echo Web::basehref() ?>gongora.css" />
   </head>
   <body>
     <div id="center">
@@ -111,7 +102,7 @@ else {
         </aside>
 
       </div>
-      <?php 
+      <?php
 // footer
       ?>
     </div>
