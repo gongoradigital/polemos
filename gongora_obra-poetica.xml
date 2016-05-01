@@ -7508,13 +7508,13 @@
             <index>
               <term type="head"><num>67. </num>Tú, cuyo ilustre entre una y otra almena</term>
             </index>
-            <head><num>67</num> <lb/><lb/>A don Luis de Vargas<note place="bottom">Las casas del secretario Vargas, su padre, sobre los muros de Toledo que miran a la Vega.</note></head>
+            <head><num>67</num> <lb/><lb/>A don Luis de Vargas</head>
             <lg rend="center">
               <lg>
                 <l n="1" xml:id="l67.1">    Tú, cuyo ilustre (entre una y otra almena</l>
                 <l n="2" xml:id="l67.2">de la imperial ciudad) patrio edificio</l>
                 <l n="3" xml:id="l67.3">al Tajo mira en su húmido ejercicio</l>
-                <l n="4" xml:id="l67.4">pintar los campos y dorar la arena:</l>
+                <l n="4" xml:id="l67.4">pintar los campos y dorar la arena<note place="bottom">Las casas del secretario Vargas, su padre, sobre los muros de Toledo que miran a la Vega.</note>:</l>
               </lg>
               <lg>
                 <l n="5" xml:id="l67.5">    descuelga de aquel lauro enhorabuena</l>
@@ -10449,11 +10449,11 @@
                 <l n="74" xml:id="l103.74">con la inscripción siguiente,</l>
                 <l n="75" xml:id="l103.75">que piedad solicite</l>
                 <l n="76" xml:id="l103.76">y su fe represente:</l>
-                <l n="77" rend="i" xml:id="l103.77">Suspende, oh caminante,</l>
+                <l n="77" rend="i" xml:id="l103.77">    Suspende, oh caminante,</l>
                 <l n="78" rend="i" xml:id="l103.78">el paso diligente,</l>
                 <l n="79" rend="i" xml:id="l103.79">y, cuando no admirado,</l>
                 <l n="80" rend="i" xml:id="l103.80">condolido detente:</l>
-                <l n="81" rend="i" xml:id="l103.81">memoria soy de un sol</l>
+                <l n="81" rend="i" xml:id="l103.81">    memoria soy de un sol</l>
                 <l n="82" rend="i" xml:id="l103.82">que el Turia fue su oriente,</l>
                 <l n="83" rend="i" xml:id="l103.83">y su occidente, el Tajo:</l>
                 <l n="84" rend="i" xml:id="l103.84">dilo de gente en gente.</l>
@@ -11136,8 +11136,8 @@
                 <l n="6" xml:id="l115.6">en un barquillo acrecienta,</l>
                 <l n="7" xml:id="l115.7">llorando su libertad,</l>
                 <l n="8" xml:id="l115.8">mal perdida en sus riberas,</l>
-                <l n="9" rend="refrain" xml:id="l115.9">¡Oh, qué bien llora!</l>
-                <l n="10" rend="refrain" xml:id="l115.10">¡Oh, cómo se lamenta!</l>
+                <l n="9" rend="refrain" xml:id="l115.9">    ¡Oh, qué bien llora!</l>
+                <l n="10" rend="refrain" xml:id="l115.10">    ¡Oh, cómo se lamenta!</l>
               </lg>
               <lg>
                 <l n="11" xml:id="l115.11">    Vio la ninfa más hermosa</l>
@@ -11148,8 +11148,8 @@
                 <l n="16" xml:id="l115.16">que, de bien flechado, vuela,</l>
                 <l n="17" xml:id="l115.17">porque en la fuga son alas</l>
                 <l n="18" xml:id="l115.18">las que en la muerte son flechas.</l>
-                <l n="19" rend="refrain" xml:id="l115.19">¡Oh, qué bien llora!</l>
-                <l n="20" rend="refrain" xml:id="l115.20">¡Oh, cómo se lamenta!</l>
+                <l n="19" rend="refrain" xml:id="l115.19">    ¡Oh, qué bien llora!</l>
+                <l n="20" rend="refrain" xml:id="l115.20">    ¡Oh, cómo se lamenta!</l>
               </lg>
               <lg>
                 <l n="21" xml:id="l115.21">    Las redes al sol tendía</l>
@@ -11160,8 +11160,8 @@
                 <l n="26" xml:id="l115.26">que trae su aljaba, saetas,</l>
                 <l n="27" xml:id="l115.27">y tanto más ponzoñosas</l>
                 <l n="28" xml:id="l115.28">cuanto es más desdén que hierba.</l>
-                <l n="29" rend="refrain" xml:id="l115.29">¡Oh, qué bien llora!</l>
-                <l n="30" rend="refrain" xml:id="l115.30">¡Oh, cómo se lamenta!</l>
+                <l n="29" rend="refrain" xml:id="l115.29">    ¡Oh, qué bien llora!</l>
+                <l n="30" rend="refrain" xml:id="l115.30">    ¡Oh, cómo se lamenta!</l>
               </lg>
               <lg>
                 <l n="31" xml:id="l115.31">    «¡Oh fiera para los hombres,</l>
@@ -11172,8 +11172,8 @@
                 <l n="36" xml:id="l115.36">por disimular mis quejas,</l>
                 <l n="37" xml:id="l115.37">que no alcanzas lo que sigues</l>
                 <l n="38" xml:id="l115.38">y matas lo que te espera».</l>
-                <l n="39" rend="refrain" xml:id="l115.39">¡Oh, qué bien llora!</l>
-                <l n="40" rend="refrain" xml:id="l115.40">¡Oh, cómo se lamenta!</l>
+                <l n="39" rend="refrain" xml:id="l115.39">    ¡Oh, qué bien llora!</l>
+                <l n="40" rend="refrain" xml:id="l115.40">    ¡Oh, cómo se lamenta!</l>
               </lg>
             </lg>
           </div>
@@ -11656,8 +11656,8 @@
                 <l n="6" xml:id="l122.6">y la huéspeda castaña,</l>
                 <l n="7" xml:id="l122.7">según la raza de España,</l>
                 <l n="8" xml:id="l122.8">sale luego el potro bayo.</l>
-                <l n="9" rend="refrain" xml:id="l122.9">Allá darás, rayo,</l>
-                <l n="10" rend="refrain" xml:id="l122.10">en cas de Tamayo.</l>
+                <l n="9" rend="refrain" xml:id="l122.9">    Allá darás, rayo,</l>
+                <l n="10" rend="refrain" xml:id="l122.10">    en cas de Tamayo.</l>
               </lg>
               <lg>
                 <l n="11" xml:id="l122.11">    De muy grave la viudita</l>
@@ -11666,8 +11666,8 @@
                 <l n="14" xml:id="l122.14">y Amor, que la solicita,</l>
                 <l n="15" xml:id="l122.15">hace que por padre admita</l>
                 <l n="16" xml:id="l122.16">al que recibió por ayo.</l>
-                <l n="17" rend="refrain" xml:id="l122.17">Allá darás, rayo,</l>
-                <l n="18" rend="refrain" xml:id="l122.18">en cas de Tamayo.</l>
+                <l n="17" rend="refrain" xml:id="l122.17">    Allá darás, rayo,</l>
+                <l n="18" rend="refrain" xml:id="l122.18">    en cas de Tamayo.</l>
               </lg>
               <lg>
                 <l n="19" xml:id="l122.19">    Alguno hay en esta vida,</l>
@@ -11676,8 +11676,8 @@
                 <l n="22" xml:id="l122.22">(nunca fuera tan querida)</l>
                 <l n="23" xml:id="l122.23">tomen, antes, la medida,</l>
                 <l n="24" xml:id="l122.24">que a él le corten el sayo.</l>
-                <l n="25" rend="refrain" xml:id="l122.25">Allá darás, rayo,</l>
-                <l n="26" rend="refrain" xml:id="l122.26">en cas de Tamayo.</l>
+                <l n="25" rend="refrain" xml:id="l122.25">    Allá darás, rayo,</l>
+                <l n="26" rend="refrain" xml:id="l122.26">    en cas de Tamayo.</l>
               </lg>
               <lg>
                 <l n="27" xml:id="l122.27">    Con su lacayo en Castilla</l>
@@ -11686,8 +11686,8 @@
                 <l n="30" xml:id="l122.30">porque no es gran maravilla</l>
                 <l n="31" xml:id="l122.31">que el amo deje la silla,</l>
                 <l n="32" xml:id="l122.32">y que la ocupe el lacayo.</l>
-                <l n="33" rend="refrain" xml:id="l122.33">Allá darás, rayo,</l>
-                <l n="34" rend="refrain" xml:id="l122.34">en cas de Tamayo.</l>
+                <l n="33" rend="refrain" xml:id="l122.33">    Allá darás, rayo,</l>
+                <l n="34" rend="refrain" xml:id="l122.34">    en cas de Tamayo.</l>
               </lg>
               <lg>
                 <l n="35" xml:id="l122.35">    Opilose vuestra hermana</l>
@@ -11696,7 +11696,7 @@
                 <l n="38" xml:id="l122.38">menos honesta y más sana;</l>
                 <l n="39" xml:id="l122.39">diole por septiembre el mana,</l>
                 <l n="40" xml:id="l122.40">y vino a purgar por mayo.</l>
-                <l n="41" rend="refrain" xml:id="l122.41">Allá darás, rayo,</l>
+                <l n="41" rend="refrain" xml:id="l122.41">    Allá darás, rayo,</l>
                 <l n="42" rend="refrain" xml:id="l122.42">en cas de Tamayo.</l>
               </lg>
             </lg>
@@ -13177,22 +13177,22 @@
               <lg>
                 <l n="49" xml:id="l151.49">    Bailando, y partiendo,</l>
                 <l n="50" xml:id="l151.50">las serranas bellas,</l>
-                <l n="51" xml:id="l151.51">un piñón con otro,</l>
-                <l n="52" xml:id="l151.52">si ya no es con perlas,</l>
-                <l n="53" xml:id="l151.53">    de Amor las saetas</l>
-                <l n="54" xml:id="l151.54">huelgan de trocar,</l>
-                <l n="55" rend="refrain" xml:id="l151.55">unas, por piñones,</l>
-                <l n="56" rend="refrain" xml:id="l151.56">y otras, por bailar.</l>
+                <l n="51" xml:id="l151.51">    un piñón con otro,</l>
+                <l n="52" xml:id="l151.52">    si ya no es con perlas,</l>
+                <l n="53" xml:id="l151.53">        de Amor las saetas</l>
+                <l n="54" xml:id="l151.54">    huelgan de trocar,</l>
+                <l n="55" rend="refrain" xml:id="l151.55">    unas, por piñones,</l>
+                <l n="56" rend="refrain" xml:id="l151.56">    y otras, por bailar.</l>
               </lg>
               <lg>
-                <l n="57" xml:id="l151.57">    Entre rama y rama,</l>
-                <l n="58" xml:id="l151.58">cuando el ciego dios</l>
-                <l n="59" xml:id="l151.59">pide al sol los ojos</l>
-                <l n="60" xml:id="l151.60">por verlas mejor,</l>
-                <l n="61" xml:id="l151.61">    los ojos del sol</l>
-                <l n="62" xml:id="l151.62">las veréis pisar,</l>
-                <l n="63" rend="refrain" xml:id="l151.63">unas, por piñones,</l>
-                <l n="64" rend="refrain" xml:id="l151.64">y otras, por bailar.</l>
+                <l n="57" xml:id="l151.57">        Entre rama y rama,</l>
+                <l n="58" xml:id="l151.58">    cuando el ciego dios</l>
+                <l n="59" xml:id="l151.59">    pide al sol los ojos</l>
+                <l n="60" xml:id="l151.60">    por verlas mejor,</l>
+                <l n="61" xml:id="l151.61">        los ojos del sol</l>
+                <l n="62" xml:id="l151.62">    las veréis pisar,</l>
+                <l n="63" rend="refrain" xml:id="l151.63">    unas, por piñones,</l>
+                <l n="64" rend="refrain" xml:id="l151.64">    y otras, por bailar.</l>
               </lg>
             </lg>
           </div>
@@ -16185,7 +16185,7 @@
                 <l n="15" xml:id="l214.15">lo dejó la blanca luna</l>
                 <l n="16" xml:id="l214.16">y lo halló el luciente Febo.</l>
                 <l n="17" rend="refrain" xml:id="l214.17">    ¡Oh, perdido primero</l>
-                <l n="18" rend="refrain" xml:id="l214.18">    tras un jabalí fiero,</l>
+                <l n="18" rend="refrain" xml:id="l214.18">    tras un jabalí fiero!,</l>
                 <l n="19" rend="refrain" xml:id="l214.19">    no te pierdas ahora</l>
                 <l n="20" rend="refrain" xml:id="l214.20">tras esa que te huye cazadora.</l>
               </lg>
@@ -16207,7 +16207,7 @@
                 <l n="35" xml:id="l214.35">él la sigue, ambos calzados,</l>
                 <l n="36" xml:id="l214.36"> ella, plumas, y él, deseos.</l>
                 <l n="37" rend="refrain" xml:id="l214.37">    ¡Oh, perdido primero</l>
-                <l n="38" rend="refrain" xml:id="l214.38">    tras un jabalí fiero,</l>
+                <l n="38" rend="refrain" xml:id="l214.38">    tras un jabalí fiero!,</l>
                 <l n="39" rend="refrain" xml:id="l214.39">    no te pierdas ahora</l>
                 <l n="40" rend="refrain" xml:id="l214.40">tras esa que te huye cazadora.</l>
               </lg>
@@ -16229,7 +16229,7 @@
                 <l n="55" xml:id="l214.55">de que la alcance aun su voz,</l>
                 <l n="56" xml:id="l214.56">acusa al aire, con ceño.</l>
                 <l n="57" rend="refrain" xml:id="l214.57">    ¡Oh, perdido primero</l>
-                <l n="58" rend="refrain" xml:id="l214.58">    tras un jabalí fiero,</l>
+                <l n="58" rend="refrain" xml:id="l214.58">    tras un jabalí fiero!,</l>
                 <l n="59" rend="refrain" xml:id="l214.59">    no te pierdas ahora</l>
                 <l n="60" rend="refrain" xml:id="l214.60">tras esa que te huye cazadora.</l>
               </lg>
@@ -18082,7 +18082,7 @@
             <head><num>254</num> <lb/><lb/>Volviéndose a Francia el duque de Humena</head>
             <lg rend="center">
               <lg>
-                <l n="1" xml:id="l254.1">    Despidióse el francés con grasa buena</l>
+                <l n="1" xml:id="l254.1">    Despidiose el francés con grasa buena</l>
                 <l n="2" xml:id="l254.2">(con buena gracia digo, señor Momo),</l>
                 <l n="3" xml:id="l254.3">hizo España el deber con el Vandomo,</l>
                 <l n="4" xml:id="l254.4">y al pagar lo hará con el de Pena.</l>
@@ -23663,7 +23663,7 @@
                 <l n="17" xml:id="l305.17">aun la del Fénix atrás.</l>
                 <l n="18" rend="refrain" xml:id="l305.18">Corre, vuela, calla, y verás</l>
                 <l n="19" rend="refrain" xml:id="l305.19">cómo en las manos de un viejo</l>
-                <l n="20" rend="refrain" xml:id="l305.20" met="l7">    pone hoy franca</l>
+                <l n="20" rend="refrain" xml:id="l305.20" met="l7">  pone hoy franca</l>
                 <l n="21" rend="refrain" xml:id="l305.21">la Palomica blanca,</l>
                 <l n="22" rend="refrain" xml:id="l305.22">    que pone, que pare,</l>
                 <l n="23" rend="refrain" xml:id="l305.23">que pare como Virgen,</l>
@@ -26342,20 +26342,20 @@
             <head><num>340</num> <lb/> <lb/>Para doña María Hurtado, en ausencia de don Gabriel Zapata, su marido</head>
             <lg rend="center">
               <lg>
-                <l n="1" xml:id="l340.1">Mátanme los celos<caesura/>    de aquel andaluz:</l>
-                <l n="2" xml:id="l340.2">háganme, si muriere,<caesura/>    la mortaja azul.</l>
-                <l n="3" xml:id="l340.3">Perdí la esperanza<caesura/>    de ver mi ausente:</l>
-                <l n="4" xml:id="l340.4">háganme, si muriere,<caesura/>    la mortaja verde.</l>
-                <l n="5" xml:id="l340.5">Madre, sin ser monja,<caesura/>    soy ya descalza,</l>
-                <l n="6" xml:id="l340.6">pues me tiene la ausencia<caesura/>    sin mi Zapata.</l>
-                <l n="7" xml:id="l340.7">La mitad del alma<caesura/>    me lleva la mar:</l>
-                <l n="8" xml:id="l340.8">volved, galeritas,<caesura/>    por la otra mitad.</l>
-                <l n="9" xml:id="l340.9">Muera yo en tu playa,<caesura/>    Nápoles bella,</l>
-                <l n="10" xml:id="l340.10">y serás sepulcro<caesura/>    de otra sirena.</l>
-                <l n="11" xml:id="l340.11">Pídenme que cante,<caesura/>    canto forzada:</l>
-                <l n="12" xml:id="l340.12">¡quién lo fuera vuestro,<caesura/>    galeras de España!</l>
-                <l n="13" xml:id="l340.13">Mientras hago treguas<caesura/>    con mi dolor,</l>
-                <l n="14" xml:id="l340.14">si descansan los ojos,<caesura/>    llore la voz.</l>
+                <l n="1" xml:id="l340.1">Mátanme los celos     de aquel andaluz:</l>
+                <l n="2" xml:id="l340.2">háganme, si muriere,     la mortaja azul.</l>
+                <l n="3" xml:id="l340.3">Perdí la esperanza     de ver mi ausente:</l>
+                <l n="4" xml:id="l340.4">háganme, si muriere,     la mortaja verde.</l>
+                <l n="5" xml:id="l340.5">Madre, sin ser monja,     soy ya descalza,</l>
+                <l n="6" xml:id="l340.6">pues me tiene la ausencia     sin mi Zapata.</l>
+                <l n="7" xml:id="l340.7">La mitad del alma     me lleva la mar:</l>
+                <l n="8" xml:id="l340.8">volved, galeritas,     por la otra mitad.</l>
+                <l n="9" xml:id="l340.9">Muera yo en tu playa,     Nápoles bella,</l>
+                <l n="10" xml:id="l340.10">y serás sepulcro     de otra sirena.</l>
+                <l n="11" xml:id="l340.11">Pídenme que cante,     canto forzada:</l>
+                <l n="12" xml:id="l340.12">¡quién lo fuera vuestro,     galeras de España!</l>
+                <l n="13" xml:id="l340.13">Mientras hago treguas     con mi dolor,</l>
+                <l n="14" xml:id="l340.14">si descansan los ojos,     llore la voz.</l>
               </lg>
               <lg>
                 <l n="15" xml:id="l340.15">    Ausente de mi vida:</l>
@@ -31318,12 +31318,12 @@
         </div>
         <div n="466a" type="poem" xml:id="poem466a">
           <index>
-            <term type="head"><num>466bis. </num>De las ya fiestas reales</term>
+            <term type="head"><num>466BIS. </num>De las ya fiestas reales</term>
           </index>
-          <head><num>466a</num> (<date>¿?</date>)<lb/> <lb/>Contra don Juan [Ruiz] de Alarcón porque se valió de algunos amigos suyos para celebrar las fiestas reales que su majestad hizo en Madrid</head>
+          <head><num>466BIS</num> (<date>1623</date>)<lb/> <lb/>Contra don Juan [Ruiz] de Alarcón porque se valió de algunos amigos suyos para celebrar las fiestas reales que su majestad hizo en Madrid</head>
           <lg rend="center">
             <lg>
-              <l n="1" xml:id="l466a.1">De las ya fiestas reales</l>
+              <l n="1" xml:id="l466a.1">    De las ya fiestas reales</l>
               <l n="2" xml:id="l466a.2">sastre y no poeta seas,</l>
               <l n="3" xml:id="l466a.3">si a octavas como a libreas</l>
               <l n="4" xml:id="l466a.4">introduces oficiales.</l>
