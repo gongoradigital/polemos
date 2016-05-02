@@ -11734,8 +11734,8 @@
                 <l n="1" rend="refrain" xml:id="l123.1">¿Por qué llora la Isabelitica?</l>
                 <l n="2" rend="refrain" xml:id="l123.2">    ¿Qué chiribica?</l>
               <label>B.</label>
-                <l n="3" rend="refrain" xml:id="l123.3">Cheriba un ochavo de oro,</l></lg><lg>
-                <l n="4" rend="refrain" xml:id="l123.4">danme un cualto de pata, y lloro. </l>
+                <l n="3" rend="refrain" xml:id="l123.3">Cheriba un ochavo de oro,</l>
+                <l n="4" rend="refrain" xml:id="l123.4">danme un cualto de pata, y lloro.</l></lg><lg>
                 <label>A.</label>
                 <l n="5" xml:id="l123.5">    ¿Quién del Amor hizo bravos</l>
                 <l n="6" xml:id="l123.6">los más dulces desenojos?</l>
@@ -11761,7 +11761,7 @@
                 <l n="20" rend="refrain" xml:id="l123.20">    ¿Qué chiribica?</l>
               </lg>
               <label>B.</label>
-              <lg part="I">
+              <lg>
                 <l n="21" xml:id="l123.21">    Serle chero sanguisuela,</l>
                 <l n="22" xml:id="l123.22">pues babosa es para mí<note place="bottom">Llaman en Andalucía babosa al caracol.</note>.</l>
                 <label>A.</label>
@@ -11773,10 +11773,9 @@
                 <label>A.</label>
                 <l n="27" rend="refrain" xml:id="l123.27">¿Por qué la Isabelitica?</l>
                 <l n="28" rend="refrain" xml:id="l123.28">    ¿Qué chiribica?</l>
-                </lg>                
+                </lg><lg>                
                 <l n="29" part="I" xml:id="l123.29a">¿Es galán?</l>
               <label>B.</label>
-              <lg part="F">
                 <l n="29" part="F" xml:id="l123.29">        Sobre Martín</l>
                 <l n="30" xml:id="l123.30">cae su gala, si lo es.</l>
                 <label>A.</label>
