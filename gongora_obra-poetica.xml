@@ -57,8 +57,7 @@
   </teiHeader>
   <text>
     <front>
-      <head>Introducción</head>
-      <div xml:id="intro">
+           <div xml:id="intro">
         <head>Introducción de Antonio Carreira</head>
       <p/>
         <p>Alguna vez se ha dicho que España no tuvo, o apenas, época positivista. Otros países que sí la tuvieron realizaron una gran labor, de la que todos somos deudores. Los clásicos griegos y latinos que han sobrevivido están ahí, al alcance de la mano, como si se tratara del último premio Planeta. Para establecer el texto fidedigno de cada obra o fragmento, así como su equivalencia en lenguas modernas, fueron necesarias generaciones de filólogos dispuestas a desojarse sobre los papiros, los pergaminos y los escolios, a fin de llegar a una conclusión segura. Aquí, por lo sucedido con algún poeta importante, cuyos poemas auténticos andan revueltos con borradores, atribuidos y apócrifos, podríamos exclamar con José F. Montesinos: «Un poco más de positivismo, por caridad».</p>
