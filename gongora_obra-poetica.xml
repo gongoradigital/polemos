@@ -48,7 +48,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date notAfter="1625" notBefore="1580"/>
+        <date from="1580" to="1627"/><!-- <date notAfter="1625" notBefore="1580"/> -->
       </creation>
       <langUsage>
         <language ident="es"/>
