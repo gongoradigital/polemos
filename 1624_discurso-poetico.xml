@@ -2493,94 +2493,93 @@
           </div>
           <div>
             <head>2. Las citas como sistema</head>
-            <table>
+            
+            <table rend="border" rows="5" cols="5">
               <row>
-                <cell/>
-                <cell>Poetas</cell>
-                <cell>Gramáticos, rétores, eruditos</cell>
-                <cell>Oradores, novelistas</cell>
-                <cell>Filósofos, teólogos</cell>
+                <cell role="label"/>
+                <cell role="label">Poetas</cell>
+                <cell role="label">Gramáticos, rétores, eruditos</cell>
+                <cell role="label">Oradores, novelistas</cell>
+                <cell role="label">Filósofos, teólogos</cell>
               </row>
               <row>
-                <cell>Latinos clásicos</cell>
-                <cell>
-                  <p rend="noindent">Ennio (1)</p>
-                  <p rend="noindent">Estacio (1)</p>
-                  <p rend="noindent">Horacio (17)</p>
-                  <p rend="noindent">Lucano (2)</p>
-                  <p rend="noindent">Lucrecio (1)</p>
-                  <p rend="noindent">Manilio (2)</p>
-                  <p rend="noindent">Marcial (3)</p>
-                  <p rend="noindent">Ovidio (3)</p>
-                  <p rend="noindent">Persio (1)</p>
-                  <p rend="noindent">Virgilio (4)</p>
+                <cell role="label">Latinos clásicos</cell>
+                <cell role="data">
+                  <p rend="left, noindent">Ennio (1)</p>
+                  <p rend="left, noindent">Estacio (1)</p>
+                  <p rend="left, noindent">Horacio (17)</p>
+                  <p rend="left, noindent">Lucano (2)</p>
+                  <p rend="left, noindent">Lucrecio (1)</p>
+                  <p rend="left, noindent">Manilio (2)</p>
+                  <p rend="left, noindent">Marcial (3)</p>
+                  <p rend="left, noindent">Ovidio (3)</p>
+                  <p rend="left, noindent">Persio (1)</p>
+                  <p rend="left, noindent">Virgilio (4)</p>
                 </cell>
-                <cell>
-                  <p rend="noindent">«Autor a</p>
-                  <p rend="noindent">Herennio» (2)</p>
-                  <p rend="noindent">Aulo Gelio (8)</p>
-                  <p rend="noindent">Macrobio (1)</p>
-                  <p rend="noindent">Séneca el Rétor (2)</p>
-                  <p rend="noindent">Quintiliano (8)</p>
-                  <p rend="noindent">Varrón (1)</p>
+                <cell role="data">
+                  <p rend="left, noindent">«Autor a Herennio» (2)</p>
+                  <p rend="left, noindent">Aulo Gelio (8)</p>
+                  <p rend="left, noindent">Macrobio (1)</p>
+                  <p rend="left, noindent">Séneca el Rétor (2)</p>
+                  <p rend="left, noindent">Quintiliano (8)</p>
+                  <p rend="left, noindent">Varrón (1)</p>
                 </cell>
-                <cell>
-                  <p rend="noindent">Cicerón (8)</p>
-                  <p rend="noindent">Petronio (2)</p>
-                  <p rend="noindent">Plinio el Joven (1)</p>
+                <cell role="data">
+                  <p rend="left, noindent">Cicerón (8)</p>
+                  <p rend="left, noindent">Petronio (2)</p>
+                  <p rend="left, noindent">Plinio el Joven (1)</p>
                 </cell>
-                <cell>Séneca (2)</cell>
+                <cell role="data"><p rend="left, noindent">Séneca (2)</p></cell>
               </row>
               <row>
-                <cell>
-                  <p> Griegos </p>
+                <cell role="label">Griegos
                 </cell>
-                <cell>
-                  <p rend="noindent">Arato (1)</p>
-                  <p rend="noindent">Homero (1)</p>
+                <cell role="data">
+                  <p rend="left, noindent">Arato (1)</p>
+                  <p rend="left, noindent">Homero (1)</p>
                 </cell>
-                <cell>Demetrio (5)</cell>
-                <cell>
-                  <p rend="noindent">Ateneo (1)</p>
-                  <p/>
-                  <p rend="noindent">Luciano (7)</p>
-                  <p rend="noindent">Plutarco (2)</p>
+                <cell role="data"><p rend="left, noindent">Demetrio (5)</p></cell>
+                <cell role="data">
+                  <p rend="left, noindent">Ateneo (1)</p>
+                  <p rend="left, noindent">Luciano (7)</p>
+                  <p rend="left, noindent">Plutarco (2)</p>
                 </cell>
-                <cell>Aristóteles (2)</cell>
-              </row>
-              <row>
-                <cell>
-                  <p>Padres de la Iglesia y otros autores eclesiásticos</p>
-                </cell>
-                <cell/>
-                <cell/>
-                <cell/>
-                <cell>
-                  <p rend="noindent">San Agustín (1)</p>
-                  <p rend="noindent">San Jerónimo (1)</p>
-                  <p rend="noindent">San Gregorio (1)</p>
-                  <p rend="noindent">Santo Tomás de Aquino (1)</p>
+                <cell role="data">
+                  <p rend="left, noindent">Aristóteles (2)</p>
                 </cell>
               </row>
               <row>
-                <cell>Modernos</cell>
-                <cell>
-                  <p rend="noindent">Garcilaso (4)</p>
-                  <p rend="noindent">Petrarca (1)</p>
-                  <p rend="noindent">Juan de Mena (1)</p>
+                <cell role="label">Padres de la Iglesia y otros autores eclesiásticos
                 </cell>
-                <cell>
-                  <p rend="noindent">Escalígero (4)</p>
-                  <p rend="noindent">Ramírez de Prado (1)</p>
-                  <p rend="noindent">Vida (5)</p>
-                  <p rend="noindent">Heinsio (1)</p>
-                  <p rend="noindent">Vettori (1)</p>
+                <cell role="data"/>
+                <cell role="data"/>
+                <cell role="data"/>
+                <cell role="data">
+                  <p rend="left, noindent">San Agustín (1)</p>
+                  <p rend="left, noindent">San Jerónimo (1)</p>
+                  <p rend="left, noindent">San Gregorio (1)</p>
+                  <p rend="left, noindent">Santo Tomás de Aquino (1)</p>
                 </cell>
-                <cell>
-                  <p rend="noindent">Padre Jerónimo de Florencia (1)</p>
-                  <p rend="noindent">Boccaccio (1)</p>
+              </row>
+              <row>
+                <cell role="label">Modernos</cell>
+                <cell role="data">
+                  <p rend="left, noindent">Garcilaso (4)</p>
+                  <p rend="left, noindent">Petrarca (1)</p>
+                  <p rend="left, noindent">Juan de Mena (1)</p>
                 </cell>
-                <cell/>
+                <cell role="data">
+                  <p rend="left, noindent">Escalígero (4)</p>
+                  <p rend="left, noindent">Ramírez de Prado (1)</p>
+                  <p rend="left, noindent">Vida (5)</p>
+                  <p rend="left, noindent">Heinsio (1)</p>
+                  <p rend="left, noindent">Vettori (1)</p>
+                </cell>
+                <cell role="data">
+                  <p rend="left, noindent">Padre Jerónimo de Florencia (1)</p>
+                  <p rend="left, noindent">Boccaccio (1)</p>
+                </cell>
+                <cell role="data"/>
               </row>
             </table>
             <p/>
