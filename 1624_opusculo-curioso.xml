@@ -15,6 +15,10 @@
           <resp>relecture</resp>
         </respStmt>
         <respStmt>
+          <name>Pedro Conde</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
           <name>Jaime Galbarro</name>
           <resp>relecture, stylage et édition TEI</resp>
         </respStmt>
@@ -281,32 +285,32 @@
         <div>
           <head>10. 1 Obras hipotéticamente citadas o consultadas por el polemista</head>
           <p xml:lang="pt" rend="noindent">Díaz de Rivas, Pedro:</p>
-          <bibl>—, Discursos apologéticos.</bibl>
+          <bibl>—,<hi rend="i">Discursos apologéticos</hi>.</bibl>
           <p xml:lang="pt" rend="noindent">Fernández de Córdoba, Francisco:</p>
-          <bibl>—, Examen del «Antídoto».</bibl>
+          <bibl>—, <hi rend="i">Examen del «Antídoto»</hi>.</bibl>
           <p rend="noindent"><hi rend="sc">Jáuregui</hi>, Juan de:</p>
           <bibl>—,<hi rend="i"> Orfeo</hi>, Madrid: Juan González, 1624.</bibl>
           <p rend="noindent">Pérez de Montalbán, Juan:</p>
           <bibl>—,<hi rend="i"> Orfeo en lengua castellana</hi>, Madrid: Alonso Pérez, 1624.</bibl>
           <p rend="noindent"><hi rend="sc">Quevedo y Villegas</hi>, Francisco de:</p>
-          <bibl>—, Sueños.</bibl>
+          <bibl>—,<hi rend="i"> Sueños</hi>.</bibl>
           <p rend="noindent"><hi rend="sc">Vega Carpio</hi>, Lope de:</p>
           <bibl>—, <hi rend="i">Pastores de Belén: prosas y versos divinos</hi>, En Madrid: por Ioan de la Cuesta, vendese en casa de Aluaro Perez, mercader de libros, 1612. Disponible la digitalización de <ref target="http://bibliotecavirtualmadrid.org/bvmadrid_publicacion/i18n/consulta/registro.cmd?id=2378">la edición de Lérida: a costa de Miguel Manescal…, 1612</ref>.</bibl>
           <p rend="noindent"><hi rend="sc">Vulgata</hi>:</p>
-          <bibl>—, Proverbios.</bibl>
+          <bibl>—,<hi rend="i"> Proverbios</hi>.</bibl>
         </div>
         <div>
           <head>10. 2 Obras citadas por el editor</head>
           <div>
             <head>10.2.1 Manuscritos</head>
-            <bibl>Biblioteca de Humanidades de la Universidad de Sevilla, ms. Ra-158: Libro de varios tratados de graciosidad y erudición, de diferentes autores.</bibl>
+            <bibl>Biblioteca de Humanidades de la Universidad de Sevilla, ms. Ra-158: <hi rend="i">Libro de varios tratados de graciosidad y erudición, de diferentes autores</hi>.</bibl>
             <bibl>BNE, ms. 3726: <ref target="http://bdh-rd.bne.es/viewer.vm?id=0000015350"><hi rend="i">Obras de Góngora y referentes a él; poesías de Luis Carrillo y Castillo Solórzano</hi></ref>.</bibl>
             <bibl>BNE, ms. 5566: <ref target="http://bdh-rd.bne.es/viewer.vm?id=0000015461&amp;page=1"><hi rend="i">Cancionero</hi>. <hi rend="i">Obras de Cornejo</hi></ref>.</bibl>
           </div><div><head>10.2.2 Impresos anteriores a 1800</head>
             <p rend="noindent"><hi rend="sc">Angulo y Pulgar</hi>, Martín de:</p>
             <bibl>—, <ref target="http://adrastea.ugr.es/tmp/_webpac2_1109279.13081"><hi rend="i">Epístolas satisfactorias. Una a las objeciones que opuso a los poemas de D. Luis de Góngora, el Licenciado Francisco de Cascales, Catedrático de Retórica de la S. iglesia de Cartagena. Otra, a las proposiciones de cierto sujeto grave y docto por D. Martín de Angulo y Pulgar, natural de la ciudad de Loja</hi></ref>, Granada: Blas Martínez, 1635.</bibl>
             <p rend="noindent"><hi rend="sc">Calvo</hi>, Fray Pedro:</p>
-            <bibl>—, <hi rend="i">Defensa de las lágrimas de los justos perseguidos y defensa de las religiones y estado eclesiástico</hi>, Valencia: Juan Crisóstomo Garriz, 1621.</bibl>
+            <bibl>—, <ref target="https://books.google.es/books?id=fDhSAAAAcAAJhttps://books.google.es/books?id=fDhSAAAAcAAJ"><hi rend="i">Defensa de las lágrimas de los justos perseguidos y defensa de las religiones y estado eclesiástico</hi></ref>, Valencia: Juan Crisóstomo Garriz, 1621.</bibl>
             <p rend="noindent"><hi rend="sc">Flórez</hi>, Enrique:</p>
             <bibl>—, <ref target="http://bdh-rd.bne.es/viewer.vm?id=0000164079&amp;page=1"><hi rend="i">España sagrada: teatro geográfico-histórico de la Iglesia de España</hi></ref>, Madrid: Pedro Marín, 1775, vol. 10.</bibl>
             <p rend="noindent"><hi rend="sc">Góngora</hi>, Luis de:</p>
