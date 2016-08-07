@@ -108,6 +108,7 @@
       </div>
       -->
     <front>
+      <div>
         <head>Introducción</head>
         <div>
           <head>[1. Título] El parecer temprano de un desconocido autor</head>
@@ -363,6 +364,342 @@
             </div>
           </div>
         </div>
+        </div>
+        <div>
+        <head>Informe paleográfico</head>
+        <div>
+          <head>Nota a la revisión paleográfica de <hi rend="i">Carta de un amigo de don Luis de Góngora</hi> (BPMP, ms. 626, ff. 99r-102r).</head>
+          <p>Se trata de una copia sin fecha realizada en letra humanística cursiva bastarda, escritura que se comienza a introducir en España a partir de mediados del siglo XVI, y es utilizada principalmente en ámbitos privados y en el género epistolar. A partir del siglo XVII esta grafía predomina también en los documentos públicos y notariales, logrando desterrar el uso de la procesal a finales de esta centuria.</p>
+          <p>Por el aspecto esbelto y redondeado de la escritura empleada en esta carta podemos situar nuestra copia en la primera mitad del siglo XVII pues es, a principios de este siglo, cuando se introduce el uso de la pluma puntiaguda que permite crear formas más suaves y redondeadas, lo cual la diferencia de la letra bastarda del periodo anterior.</p>
+          <p>En esta copia, a partir del folio 100v en adelante se produce un cambio de usos escriptorios, por el cual es posible diferenciar dos bloques. El primero se encuentra en los folios 99r a 100r y el segundo en los folios 100v a 102r. Estos cambios se constatan a partir de los siguientes detalles:</p>
+          <p>1) Uso de reclamos: Este recurso aparece por primera vez en el folio 100v, línea 27 “pa-”, y a partir de ese momento se utilizará en todos los folios, “si-” folio 101r, línea 15, “con-”, folio 101v, línea 25, excepto en el último folio.</p>
+          <p>2) Caja de escritura: En el primer bloque esta presenta una forma muy regular, en cambio en el segundo bloque es algo irregular, esto se nota especialmente en la parte derecha del recto de los folios.</p>
+          <p>3) Encontramos una diferencia gráfica entre los dos bloques, pues en el primero se emplea una escritura de aspecto más pesado, y en el segundo una escritura de aspecto filiforme, menos pesada, con un grado de inclinación mayor hacia la derecha y más cursiva. Esto se aprecia sobre todo en las siguientes letras minúsculas “s”, “l”, “b”, “y”, “p”, “q”, y en las letras mayúsculas “D” y “A”, tal como se muestra en la siguiente tabla:</p>
+          <table>
+            <row>
+              <cell>Letra</cell>
+              <cell>Bloque 1 (f. 99r-100r)</cell>
+              <cell>Bloque 2 (f. 100v-102r)</cell>
+            </row>
+            <row>
+              <cell>s</cell>
+              <cell>El tipo de “s” utilizado en medio de palabra cuando liga con la letra “t” mantiene la morfología propia de la “s” humanística similar a nuestra “s” actual (f. 99r, línea 6).</cell>
+              <cell>El tipo de “s” utilizado en medio de palabra es del tipo sigmática cuando liga con la “t” (f. 100v, línea 17).</cell>
+            </row>
+            <row>
+              <cell>l</cell>
+              <cell>Se utiliza dos tipos: el primero se suele emplear al principio de palabra y su asta inclinada hacia la derecha se curva un poco hacia abajo (f. 99r, línea 3), y el otro tipo se suele utilizar en medio de palabra y su asta se curva totalmente creando un ojo (f.99r, línea 9).</cell>
+              <cell>Utiliza menos el primer tipo de “l” que a diferencia del utilizado en el bloque 1 es más estilizado (f. 100v, línea 5), y suele emplear otro tipo de “l” al principio y en medio de palabra que consta de un asta recta inclinada hacia la derecha de la que parte un trazo que describe una curva desde su asta hacia la izquierda como consecuencia de ligar con las letras antecedentes, sin embargo este rasgo lo mantiene incluso cuando no liga con ninguna letra (f. 100v, línea 1 y 11).</cell>
+            </row>
+            <row>
+              <cell>b</cell>
+              <cell>Su asta es recta (f. 99r, línea 8).</cell>
+              <cell>Su asta describe una curva hacia la izquierda (f. 100v, línea 3).</cell>
+            </row>
+            <row>
+              <cell>y</cell>
+              <cell>La conforman dos trazos el último de ellos acaba en un punto redondeado (f. 99r, líneas 7, 9, 10, 11 y 15).</cell>
+              <cell>Utiliza menos el tipo de “y” cuyo segundo trazo acaba en un punto que, a diferencia de la utilizada en el bloque 1, es más ancha (f. 101r, líneas 8 y 12) y suele utilizar otro tipo de “y” que finaliza con un rasgueo alargado (f. 100v, líneas 9, 18 y 23).</cell>
+            </row>
+            <row>
+              <cell>p</cell>
+              <cell>
+                <p rend="tableau">Su zapatilla<note place="bottom"> RAE: Rasgo horizontal que suelen llevar por adorno los trazos rectos de las letras.</note> es más recta y abierta (f. 99r, línea 6).</p>
+              </cell>
+              <cell>Su zapatilla es más curva y cerrada (f. 100v, línea 4).</cell>
+            </row>
+            <row>
+              <cell>q</cell>
+              <cell>Su zapatilla es más recta y abierta (f. 99r, línea 5).</cell>
+              <cell>Su zapatilla es más curva y cerrada (f. 100v, línea 5).</cell>
+            </row>
+            <row>
+              <cell>D</cell>
+              <cell>
+                <p rend="tableau">Su asta describe una curva pequeña (f. 99r, línea 2).</p>
+              </cell>
+              <cell>
+                <p rend="tableau">Su asta describe una curva que envuelve la letra (f. 100v, línea 10 y 26).</p>
+              </cell>
+            </row>
+            <row>
+              <cell>A</cell>
+              <cell>
+                <p rend="tableau">Al final del primer trazo vertical de esta letra se forman un punto (f. 99r, línea 2, 22 y 27).</p>
+              </cell>
+              <cell>
+                <p rend="tableau">El último trazo vertical de la letra se curva envolviéndola y creando el trazo horizontal que cierra la letra (f. 100v línea 16 y 19).</p>
+              </cell>
+            </row>
+          </table>
+          <p/>
+          <p>4) Abreviaciones: En el primer bloque para abreviar la palabra “vuestra merced” se emplea la abreviatura <hi rend="b">VḾD</hi>, en cambio en el segundo bloque se utiliza la abreviatura <hi rend="b">Vm</hi> con diferentes símbolos generales de abreviación: <hi rend="b">Vm’, Vm |</hi> y<hi rend="b"> Vm.</hi> Otro cambio significativo lo observamos en la abreviatura de la palabra “que”: en el primer bloque se utiliza dos tipos de abreviaturas <hi rend="b">q’</hi> y <hi rend="b">q<hi rend="sup">e</hi></hi>, y en el segundo bloque no se abrevia sino que se desarrolla por completo. Lo mismo sucede con la palabra “para” en el primer bloque se emplea la abreviatura <hi rend="b">pª</hi>, y de nuevo advertimos en el folio 100v que no se abrevia, aunque debemos señalar que a partir de este folio no se vuelve a emplear esta palabra.</p>
+          <p>Los principales ejemplos del cambio de sistema de abreviaciones expuesto son los siguientes:</p>
+          <table>
+            <row>
+              <cell>Localización</cell>
+              <cell>
+                <p rend="tableau">Bloque 1</p>
+                <p rend="tableau">(f. 99r-100r)</p>
+              </cell>
+              <cell>Abreviatura desarrollada</cell>
+              <cell>
+                <p rend="tableau">Bloque 2</p>
+                <p rend="tableau">(f. 100v-102r)</p>
+              </cell>
+              <cell>Localización</cell>
+            </row>
+            <row>
+              <cell rows="3">
+                <p rend="tableau">F. 99r, líneas 5 y 11.</p>
+                <p rend="noindent">F. 99v, líneas 2, 15 y 28.</p>
+                <p rend="noindent">F. 100r, líneas 2, 9 y 11.</p>
+              </cell>
+              <cell rows="3">VḾD</cell>
+              <cell rows="3">vuestra merced</cell>
+              <cell>
+                <p rend="tableau">Vm’</p>
+                <p/>
+              </cell>
+              <cell>
+                <p rend="tableau">F. 100v, línea 20.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>Vm |</cell>
+              <cell>F. 101r, línea 2.</cell>
+            </row>
+            <row>
+              <cell>Vm.</cell>
+              <cell>
+                <p rend="tableau">F. 101v, línea 6 y 8.</p>
+                <p rend="noindent">F. 102r, líneas 16 y 21.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="tableau">F. 99r, líneas 2, 3, 4, 5, 9, 11, 16 y 18.</p>
+                <p rend="noindent">F. 99v, líneas 7, 11, 18 y 24. F. 100r, líneas 10, 12, 15 y 20.</p>
+              </cell>
+              <cell>q’</cell>
+              <cell>que</cell>
+              <cell>No se abrevia esta palabra</cell>
+              <cell>
+                <p rend="tableau">F. 100v, líneas 5, 14 y 15.</p>
+                <p rend="noindent">F. 101r, líneas 10, 13 y 23.</p>
+                <p rend="noindent">F. 101v, líneas 1, 2, 3, 12, 14, 16, 23 y 24.</p>
+                <p rend="noindent">F. 102r, línea 1, 2, 17, 18, 21 y 22.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <p rend="tableau">F. 99r, líneas 13, 20 y 23.</p>
+                <p rend="noindent">F. 99v, líneas 1, 13, 17 y 19.</p>
+                <p rend="noindent">F.100r, líneas 11, 17, 18 y 24.</p>
+              </cell>
+              <cell>q<hi rend="sup">e</hi></cell>
+              <cell>que</cell>
+              <cell>No se abrevia esta palabra</cell>
+              <cell>
+                <p rend="tableau">F. 100v, líneas 5, 14 y 15.</p>
+                <p rend="noindent">F. 101r, líneas 10, 13 y 23.</p>
+                <p rend="noindent">F. 101v, líneas 1, 2, 3, 12, 14, 16, 23 y 24.</p>
+                <p rend="noindent">F. 102r, líneas 1, 2, 17, 18, 21 y 22.</p>
+              </cell>
+            </row>
+            <row>
+              <cell>F. 99r, líneas 4, 15 y 16.</cell>
+              <cell>pª</cell>
+              <cell>para</cell>
+              <cell>No se abrevia esta palabra</cell>
+              <cell>F. 100v, línea 4.</cell>
+            </row>
+          </table>
+          <p/>
+          <p>En cuanto a las abreviaturas latinas, se observa una clara diferencia entre los dos bloques: en el primero se advierte un buen uso de las abreviaturas mientras que en el segundo vemos numerosas enmiendas.</p>
+          <p>En el folio 101r, línea 20, la abreviatura de la palabra “quaeque” ha sido enmendada y se intenta convertir una letra ilegible de este término en una “a”. Esto queda corroborado por la inusual estrechez de la letra, hay muy poco espacio entre la “e” y “q”, lo que le obliga a comprimirse, por tanto fue añadida a posteriori.</p>
+          <p>En el folio 102r, línea 9, parece estar enmendado el signo que indica la abreviatura “ae” de la palabra “graeco”.</p>
+          <p>En el folio 102r, línea 8, en la abreviatura de la palabra “fictaque”, se observa que la tinta de las letras “cta” es más oscura y debajo de ella se intuyen unas letras ilegibles que fueron enmendadas, asimismo es posible que el signo tironiano que finaliza el grupo “que” de esta palabra haya sido enmendado, aunque no podemos asegurarlo con certidumbre dado que no contamos con el documento original ni con una buena reproducción del mismo.</p>
+          <p>La siguiente tabla muestra las erratas y enmiendas latinas a las que nos hemos venido refiriendo:</p>
+          <table>
+            <row>
+              <cell>Localización</cell>
+              <cell>
+                <p rend="tableau">Bloque1: abreviaturas latinas sin enmiendas</p>
+              </cell>
+              <cell>Abreviaturas desarrolladas</cell>
+              <cell>Localización</cell>
+              <cell>
+                <p rend="tableau">Bloque 2: abreviaturas latinas con enmiendas</p>
+              </cell>
+              <cell>Abreviaturas desarrolladas</cell>
+            </row>
+            <row>
+              <cell>F. 99r, línea 9.</cell>
+              <cell>Legendu’</cell>
+              <cell>legend<hi rend="b">um</hi></cell>
+              <cell>F. 101r, línea 20.</cell>
+              <cell>Quęq<hi rend="sup">3</hi></cell>
+              <cell>qu<hi rend="b">ae</hi>q<hi rend="b">ue</hi></cell>
+            </row>
+            <row>
+              <cell>F. 99r, línea 22.</cell>
+              <cell>Virunq<hi rend="sup">3</hi></cell>
+              <cell>virunq<hi rend="b">ue</hi></cell>
+              <cell>F. 102r, línea 9.</cell>
+              <cell>Gręco</cell>
+              <cell>gr<hi rend="b">ae</hi>co</cell>
+            </row>
+            <row>
+              <cell>F. 99r, línea 25.</cell>
+              <cell>Infandu’</cell>
+              <cell>infand<hi rend="b">um</hi></cell>
+              <cell>F. 102r, línea 8.</cell>
+              <cell>Fictaq<hi rend="sup">3</hi></cell>
+              <cell>fictaq<hi rend="b">ue</hi></cell>
+            </row>
+            <row>
+              <cell>F. 99r, línea 27.</cell>
+              <cell>Qۥ</cell>
+              <cell>q<hi rend="b">uae</hi></cell>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>-</cell>
+            </row>
+            <row>
+              <cell>F. 99r, línea 27.</cell>
+              <cell>Insȯnia</cell>
+              <cell>inso<hi rend="b">m</hi>nia</cell>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>-</cell>
+            </row>
+          </table>
+          <p/>
+          <p>5) A esta mala expresión de las abreviaturas latinas en el segundo bloque debemos sumar las erratas y enmiendas en términos latinos, cosa que en el bloque anterior no se observa, esto sucede en los siguientes folios:</p>
+          <p>En el folio 100v en la línea 8 “titire” enmendado “y” sobrepuesta a “i”; en línea 10 “damota”  se observa una rectificación en la “o”; en las líneas 17 y 18, “coridon” escrito con “i” latina en vez de “y” griega<note place="bottom"><p xml:lang="none">Raquel, deduzco que debo distinguir dos cosas:</p><p xml:lang="none">- Enmienda del corrector:  Sobreponer una “y” a la “i”</p><p xml:lang="none">- Rectificación del copista correspondiente. En ese sentiddo tanto “damoeta” como “coyrdon” serían rectificaciones del correspondiente copista.</p><p xml:lang="none">Si esto  es cierto habría que separarlo un poco más en este párrafo.</p></note>.</p>
+          <p>En el folio 101r en la línea 12 “satirico” enmendado “y” sobrepuesta a “i”.</p>
+          <p>La distribución de estas erratas y enmiendas cometidas en el segundo bloque, se muestra en la siguiente tabla, en el caso de que estos términos no se hayan enmendado esto se señala mediante un guión “-” como vemos a continuación:</p>
+          <table>
+            <row>
+              <cell>Localización</cell>
+              <cell>Erratas en términos latinos</cell>
+              <cell>Enmiendas en términos latinos</cell>
+              <cell>Término correcto</cell>
+            </row>
+            <row>
+              <cell>F. 100v, línea 8.</cell>
+              <cell>titire</cell>
+              <cell>tytire</cell>
+              <cell>tytire</cell>
+            </row>
+            <row>
+              <cell>F. 100v, línea 10.</cell>
+              <cell>damota</cell>
+              <cell>-</cell>
+              <cell>damoeta</cell>
+            </row>
+            <row>
+              <cell>F. 100v, líneas 17 y 18.</cell>
+              <cell>coridon</cell>
+              <cell>-</cell>
+              <cell>corydon</cell>
+            </row>
+            <row>
+              <cell>F. 101r, línea 12.</cell>
+              <cell>satirico</cell>
+              <cell>satyrico</cell>
+              <cell>satyrico</cell>
+            </row>
+          </table>
+          <p/>
+          <p>6) En cuanto a las erratas y enmiendas en palabras castellanas, en el primer bloque se observa un menor número de enmiendas que en el segundo bloque, pero independientemente del número de erratas cometido en uno u otro, es importante que nos detengamos a examinar algunas de ellas.</p>
+          <p/>
+          <p>Del primer bloque debemos destacar la errata cometida por el copista en el  folio 99r, línea 2, donde escribe “gonrora” en vez de Góngora, lo cual puede indicar que no se trata de una persona familiarizada con la figura del poeta<note place="bottom"><p xml:lang="none">Esta noche me desperté pensando en Gónrora… y me hice esta pregunta con estos presupuestos:</p><p xml:lang="none">1. Es clarísimo que pone Gonrora</p><p xml:lang="none">2. No tengo tan claro que el copista no esté “familiarizado” con la figura del poeta porque si ha escrito antes 100 páginas con textos sobre la polémica como Jáuregui o Díaz de Ribas… ¿cómo es posible  que a estas alturas de la copia no sepa cómo se escribe Góngora? ¿qué explicación encuentras para esto? (Yo te adelanto una posible respuesta: la palabra “Góngora” no aparece ni usa sola vez en el Antídoto, que es el primer texto, y no sé si en el segundo). ¿Empezó el copista por este documento y luego escribió los siguientes o estamos simplemente ante una errata sin más? Siendo un error tan notable y evidente, en una posición destacada como el  título, ¿por qué no fue corrregido? ¿Se podría explicar esto por  un problema en la reproducción?</p></note>, por esa razón resulta muy probable que se trate de un profesional al que le fue encargada la copia.</p>
+          <p>Las erratas y enmiendas en términos castellanos cometidos en ambos bloques se muestran en la siguiente tabla, a excepción de una serie de términos que veremos más adelante de forma más detallada:</p>
+          <table>
+            <row>
+              <cell>Localización</cell>
+              <cell>Bloque 1: erratas y enmiendas</cell>
+              <cell>Debió escribir</cell>
+              <cell>Localización</cell>
+              <cell>Bloque 2: erratas y enmiendas</cell>
+              <cell>Debió escribir</cell>
+            </row>
+            <row>
+              <cell>F. 99r, línea 2.</cell>
+              <cell>gonrora</cell>
+              <cell>Góngora</cell>
+              <cell>F. 100v, línea 6.</cell>
+              <cell>primer</cell>
+              <cell>primera</cell>
+            </row>
+            <row>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>F. 100v, línea 25.</cell>
+              <cell>imatición</cell>
+              <cell>imitación</cell>
+            </row>
+            <row>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>F. 101r, línea 4.</cell>
+              <cell>diciziones</cell>
+              <cell>dicciones</cell>
+            </row>
+            <row>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>F. 101r, línea 14.</cell>
+              <cell>di losonja</cell>
+              <cell>de lisonja</cell>
+            </row>
+            <row>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>F. 101r, línea 23.</cell>
+              <cell>preuana</cell>
+              <cell>peruana</cell>
+            </row>
+            <row>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>F. 102r, línea 4.</cell>
+              <cell>diccisiones</cell>
+              <cell>dicciones</cell>
+            </row>
+            <row>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>-</cell>
+              <cell>F.102r, línea 14.</cell>
+              <cell>apiteto</cell>
+              <cell>epiteto</cell>
+            </row>
+          </table>
+          <p/>
+          <p>Dada esta serie de indicios podemos concluir que participaron dos copistas, con un nivel de competencia grafica media. Esto se puede comprobar en los trazos firmes de las letras y en el uso de ligaduras. No es extraño que fuesen contratados para copiar esta carta, hecho que viene avalado también por su desconocimiento del nombre del poeta.</p>
+          <p>Pero no sólo encontramos la intervención de estos dos profesionales en el manuscrito estudiado. Existen otras enmiendas en el texto que no hemos mencionado hasta ahora, pues merecen ser tratadas de forma especial. Han sido realizadas por una tercera mano que acredita un conocimiento de las obras de Góngora muy superior al de los dos copistas que hemos caracterizado. Estas correcciones se encuentran concretamente en algunos de los versos citados en el texto:</p>
+          <p>-En el verso “Clavo no, espuela sí del apetito”, folio 101r línea 9, se enmienda la  “s” de doble curva de la palabra “si” mediante sobreposición de otra “ʃ” recta. Esta enmienda viene acompañada de un mayor énfasis sobre el punto de la “i”, su ápice está realizado íntegramente por una mano posterior (que a partir de ahora denominaremos “corrector”), en lo que parece ser un intento de dar mayor énfasis al “si” en línea con el sentido del verso.</p>
+          <p>-En el folio 101r, línea 11, el copista vuelve a copiar mal uno de los versos pues escribe “fue temblado Catón e asta Lucrecia”, verso que es enmendado por el corrector sobreponiendo una “p” a la letra “b” y una “c” a la letra “e” quedando el verso así: “fue templado Catón, casta Lucrecia”.</p>
+          <p>Esta figura es la que en la revisión hemos denominado corrector, que acredita un mejor nivel de competencia gráfica. Su intervención vine dada precisamente por el hecho de que ambos copistas parecen desconocer la obra de Góngora, ya que el copista del primer bloque no escribe correctamente su nombre y el del segundo bloque comete importantes errores al copiar sus versos, lo cuales son corregidos de forma esmerada por el corrector.</p>
+          <p>La mayor competencia gráfica del corrector se observa en la rectificación de la palabra “baptizarse”, folio 100r línea 18, donde se advierte un buen uso del claroscuro sobre todo en el cabeceado<note place="bottom">RAE: Mayor grueso que se daba en la parte superior al palo de algunas letras, como la <hi rend="i">b</hi> o la <hi rend="i">d.</hi> </note> de la “b”, a diferencia de la letra poco contrastada del copista que interviene en este primer bloque, y lo que es más interesante en las siguientes letras de los versos enmendados:</p>
+          <p>-La “ʃ” recta empleada para emendar una “s” de doble curva de la palabra “sí”, folio 101r línea 9, tipo de “s” que ninguno de los copistas emplea.</p>
+          <p>-La “p” de la palabra “templado” con una zapatilla mucho más cuidada y caligráfica que la empleado por el copista de este segundo bloque.</p>
+          <p>-La “t” de la palabra “fictaque” donde se observa de nuevo un juego de claroscuro creado por el mayor grosor dado al asta de la “t” que contrasta con la delgada curva que describe la línea que une la “t” con la “c” antecedente, creando la ligadura “ct”.</p>
+          <p>Por último, la comparativa con otras partes del manuscrito en que se encuentra la carta (BPMP, ms. 626, imágenes 88-94), nos ha permitido determinar que la intervención de nuestros dos copistas se distribuye de la siguiente manera: primer copista en las imágenes 96 a 187 y 208 a 232, y del segundo copista imágenes 191 a 205. Esta distribución refuerza la posibilidad de que se tratase de profesionales contratados, pues reprodujeron varios testimonios incluidos en el volumen, quizás encargados por el propio corrector.</p>
+          <p>Por tanto, el primer copista traslada el <hi rend="i">Antídoto contra la pestilente poesía de las Soledades y Polifemo</hi> aplicado a su autor para defenderse de sí mismo (imágenes 96 a 143), los <hi rend="i">Discursos apologéticos por el estilo del Polifemo y Soledades</hi> por el licenciado Pedro Díaz de Ribas (imágenes 144 a 187), en las imágenes 191 y  193 de la presente <hi rend="i">Carta de un amigo</hi> de don Luis de Góngora en que da su parecer acerca de las <hi rend="i">Soledades</hi> que le había remitido para que las viese y, por último, en los <hi rend="i">Sonetos</hi> de don Luis de Góngora (imágenes 208 a 232).</p>
+          <p>El segundo copista interviene parcialmente en la reproducción del testimonio que estudiamos (imágenes 191 a 194), copia íntegramente la <hi rend="i">Carta que un amigo de don Luis de Góngora le escribió con razón de las Soledades</hi> (imágenes 196 a 199) y la <hi rend="i">Respuesta de don Luis de Góngora</hi> (imágenes 199 a 205)<note place="margin"> Aquí he hecho algunos cambios separando claramente primer de segundo copista.</note>.</p>
+          <p>En cuanto al primer copista es interesante que nos detengamos en la imagen 187, correspondiente al último folio de los <hi rend="i">Discursos Apologéticos</hi>, en el epigrama escrito en latín no comete ningún error, y el hecho de que finalice la copia con la fórmula latina “laus deo” podría indicar que proviene de un ambiente eclesiástico. Esto explica que no haya errores en el uso del latín en el primer bloque de nuestra carta, en las abreviaturas y términos latinos, como ya habíamos señalado anteriormente, a diferencia de lo que sucede en el segundo bloque donde interviene el otro copista.</p>
+          <p>Finalmente hemos de señalar que, tradicionalmente, se ha considerado que el testimonio estudiado era autógrafo del polemista Christóvão Alão de Moraes hecho que creemos queda desmentido por la participación en la copia de, al menos dos profesionales, uno de los cuales no estaba siquiera familiarizado con la figura de Góngora<note place="margin"> ¿Quién no está familiarizado? ¿el primero que escribe gonrora o el segundo que copia mal los versos? No lo sabemos con certeza, pero probablemente el segundo más que el primero.</note> y su obra. Por otra parte, la intervención del corrector, que si acredita los conocimientos necesarios y cuenta con una mayor formación y competencia gráfica nos hace pensar que pueda tratarse de Christóvão Alão de Moraes, por lo que creemos muy aconsejable un cotejo caligráfico entre las enmiendas señaladas y un autógrafo acreditado del polemista portugués.</p>
+        </div>
+      </div>
     </front> 
     <body>
       <div>
