@@ -15,7 +15,11 @@
           <resp>relecture</resp>
         </respStmt>
         <respStmt>
-          <name>Jaime Galbarro</name>
+          <name>José Manuel Rico García</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jaime Galbarro García</name>
           <resp>relecture</resp>
         </respStmt>
         <respStmt>
@@ -223,24 +227,24 @@
           <div>
             <head>10.1 Obras citadas o consultadas por el polemista</head>
             <p rend="noindent"><hi rend="sc">Aristóteles</hi>:</p>
-            <bibl>—, Poetica.</bibl>
+            <bibl>—, <hi rend="i">Poetica</hi>.</bibl>
             <p rend="noindent"><hi rend="sc">Escalígero</hi>, Julio César:</p>
-            <bibl>—, Poetices libri septem.</bibl>
+            <bibl>—, <hi rend="i">Poetices libri septem</hi>.</bibl>
             <p rend="noindent"><hi rend="sc">Horacio</hi>:</p>
-            <bibl>—, Ars Poetica.</bibl>
+            <bibl>—, <hi rend="i">Ars Poetica.</hi></bibl>
             <p rend="noindent"><hi rend="sc">López Pinciano</hi>, Alonso:</p>
             <bibl>—, <ref target="http://alfama.sim.ucm.es/dioscorides/consulta_libro.asp?ref=B17859657&amp;idioma=0"><hi rend="i">Philosophia antigua poetica</hi></ref>, Madrid: Tomás Junta, 1596.</bibl>
             <p rend="noindent"><hi rend="sc">Quintiliano</hi>:</p>
-            <bibl>—, Institutio oratoria.</bibl>
+            <bibl>—, <hi rend="i">Institutio oratoria.</hi></bibl>
             <p rend="noindent"><hi rend="sc">Virgilio</hi>:</p>
-            <bibl>—, Bucólicas.</bibl>
-            <bibl>—, Eneida.</bibl>
+            <bibl>—, <hi rend="i">Bucólicas.</hi></bibl>
+            <bibl>—, <hi rend="i">Eneida.</hi></bibl>
           </div>
           <div>
             <head>10.2 Obras citadas por el editor</head>
             <div>
               <head>10.2.1 Manuscritos</head>
-              <bibl>—, BNE, ms. 3726, Obras de Góngora y referentes a su obra. Contiene el Antidoto contra la pestilente Poesia de las Soledades aplicado a su Autor para defenderle de si mismo, f. 224r-248r.</bibl>
+              <bibl>—, BNE, ms. 3726: <hi rend="i">Obras de Góngora y referentes a su obra. Contiene el Antidoto contra la pestilente Poesia de las Soledades aplicado a su Autor para defenderle de si mismo</hi>, f. 224r-248r.</bibl>
               <bibl>—, Biblioteca Pública Municipal de Oporto (BPMO), ms. 626, <hi xml:lang="pt" rend="i">Poesias de Alão</hi>, f. 99r-102r.</bibl>
             </div>
             <div>
@@ -252,13 +256,15 @@
               <p rend="noindent"><hi rend="sc">Minturno</hi>, Antonio:</p>
               <bibl>—, <ref target="http://bvpb.mcu.es/es/consulta/registro.cmd?id=436356"><hi rend="i">De poeta, ad Hectorem Pignatellum vibonensium ducem libri sex</hi></ref> […], Venetiis: apud Franciscum Rampazetum, 1559.</bibl>
               <bibl>—, <ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10163809.html"><hi xml:lang="it" rend="i">L’arte poetica di Antonio Minturno, della quale si contengono i precetti eroici, tragici, comici e d’ogn’altra poesia, con le postille del dottor Valvassori</hi></ref>, in Venetia: per Gio. Andrea Valvassori, 1563.</bibl>
-              <p rend="noindent">Pellicer de Salas y Tovar, José:</p>
-              <bibl>—, Lecciones solemnes a las obras de Don Luis de Góngora y Argote, Madrid: Imprenta del Reino, 1630.</bibl>
+              <p rend="noindent"><hi rend="sc">Pellicer de Salas y Tovar</hi>, José:</p>
+              <bibl>—, <hi rend="i">Lecciones solemnes a las obras de Don Luis de Góngora y Argote</hi>, Madrid: Imprenta del Reino, 1630.</bibl>
             </div>
             <div>
               <head>10.2.3 Impresos posteriores a 1800</head>
               <p rend="noindent"><hi rend="sc">Almansa y Mendoza</hi>, Andrés:</p>
-              <bibl>—, Advertencias de Andrés de Almança y Mendoça pa. la intelligencia de las Soledades de don Luis de Góngora, Emilio Orozco Díaz (ed.), En torno a las Soledades de Góngora, Granada, Universidad de Granada, 1969.</bibl>
+              <bibl>—, Advertencias de Andrés de Almança y Mendoça para la intelligencia de las
+                Soledades de don Luis de Góngora, Emilio Orozco Díaz (ed.), En torno a las Soledades
+                de Góngora, Granada, Universidad de Granada, 1969.</bibl>
               <p rend="noindent"><hi rend="sc">Alonso</hi>, Dámaso:</p>
               <bibl>—, «Góngora y la censura de Pedro de Valencia», <hi rend="i">Obras completas</hi>, Madrid, Gredos, 1978a, vol. V, p. 495-517.</bibl>
               <bibl>—, «La primitiva versión de las <hi rend="i">Soledades</hi> (tres pasajes corregidos por Góngora)», <hi rend="i">Obras completas</hi>, Madrid, Gredos, 1978b, vol. V, p. 485-494.</bibl>
@@ -266,7 +272,7 @@
               <bibl>—, «La primitiva versión de las <hi rend="i">Soledades</hi>», <hi rend="i">Obras completas</hi>, Madrid, Gredos, 1982b, vol. VI, p. 423-441.</bibl>
               <p rend="noindent"><hi rend="sc">Arce</hi>, Joaquín:</p>
               <bibl>—, «El muflón sardo en unos versos de Góngora. Dificultades de interpretación», <hi rend="i">Revista de Filología española</hi>, XLV, 1962, p. 1-18.</bibl>
-              <p rend="noindent">aristóteles:</p>
+              <p rend="noindent"><hi rend="sc">Aristóteles</hi>:</p>
               <bibl>—, <hi rend="i">Poétique</hi>, Joseph Hardy (ed. y trad.), Paris, Les Belles Lettres, 1965.</bibl>
               <bibl>—, <hi xml:lang="it" rend="i">Poética</hi>, Valentín García Yebra (trad.), Madrid, Gredos, 1974.</bibl>
               <p rend="noindent"><hi rend="sc">Artigas</hi>, Miguel:</p>
@@ -368,7 +374,7 @@
         <div>
         <head>Estudio paleográfico</head>
         <div>
-          <head>Nota a la revisión paleográfica de <hi rend="i">Carta de un amigo de don Luis de Góngora</hi> (BPMP, ms. 626, ff. 99r-102r).</head>
+          <head>Revisión paleográfica de <hi rend="i">Carta de un amigo de don Luis de Góngora</hi> (BPMP, ms. 626, ff. 99r-102r).</head>
           <p>Se trata de una copia sin fecha realizada en letra humanística cursiva bastarda, escritura que se comienza a introducir en España a partir de mediados del siglo XVI, y es utilizada principalmente en ámbitos privados y en el género epistolar. A partir del siglo XVII esta grafía predomina también en los documentos públicos y notariales, logrando desterrar el uso de la procesal a finales de esta centuria.</p>
           <p>Por el aspecto esbelto y redondeado de la escritura empleada en esta carta podemos situar nuestra copia en la primera mitad del siglo XVII pues es, a principios de este siglo, cuando se introduce el uso de la pluma puntiaguda que permite crear formas más suaves y redondeadas, lo cual la diferencia de la letra bastarda del periodo anterior.</p>
           <p>En esta copia, a partir del folio 100v en adelante se produce un cambio de usos escriptorios, por el cual es posible diferenciar dos bloques. El primero se encuentra en los folios 99r a 100r y el segundo en los folios 100v a 102r. Estos cambios se constatan a partir de los siguientes detalles:</p>
@@ -695,9 +701,9 @@
           <p>-La “t” de la palabra “fictaque” donde se observa de nuevo un juego de claroscuro creado por el mayor grosor dado al asta de la “t” que contrasta con la delgada curva que describe la línea que une la “t” con la “c” antecedente, creando la ligadura “ct”.</p>
           <p>Por último, la comparativa con otras partes del manuscrito en que se encuentra la carta (BPMP, ms. 626, imágenes 88-94), nos ha permitido determinar que la intervención de nuestros dos copistas se distribuye de la siguiente manera: primer copista en las imágenes 96 a 187 y 208 a 232, y del segundo copista imágenes 191 a 205. Esta distribución refuerza la posibilidad de que se tratase de profesionales contratados, pues reprodujeron varios testimonios incluidos en el volumen, quizás encargados por el propio corrector.</p>
           <p>Por tanto, el primer copista traslada el <hi rend="i">Antídoto contra la pestilente poesía de las Soledades y Polifemo</hi> aplicado a su autor para defenderse de sí mismo (imágenes 96 a 143), los <hi rend="i">Discursos apologéticos por el estilo del Polifemo y Soledades</hi> por el licenciado Pedro Díaz de Ribas (imágenes 144 a 187), en las imágenes 191 y  193 de la presente <hi rend="i">Carta de un amigo</hi> de don Luis de Góngora en que da su parecer acerca de las <hi rend="i">Soledades</hi> que le había remitido para que las viese y, por último, en los <hi rend="i">Sonetos</hi> de don Luis de Góngora (imágenes 208 a 232).</p>
-          <p>El segundo copista interviene parcialmente en la reproducción del testimonio que estudiamos (imágenes 191 a 194), copia íntegramente la <hi rend="i">Carta que un amigo de don Luis de Góngora le escribió con razón de las Soledades</hi> (imágenes 196 a 199) y la <hi rend="i">Respuesta de don Luis de Góngora</hi> (imágenes 199 a 205)<note place="margin"> Aquí he hecho algunos cambios separando claramente primer de segundo copista.</note>.</p>
+          <p>El segundo copista interviene parcialmente en la reproducción del testimonio que estudiamos (imágenes 191 a 194), copia íntegramente la <hi rend="i">Carta que un amigo de don Luis de Góngora le escribió con razón de las Soledades</hi> (imágenes 196 a 199) y la <hi rend="i">Respuesta de don Luis de Góngora</hi> (imágenes 199 a 205)</p>
           <p>En cuanto al primer copista es interesante que nos detengamos en la imagen 187, correspondiente al último folio de los <hi rend="i">Discursos Apologéticos</hi>, en el epigrama escrito en latín no comete ningún error, y el hecho de que finalice la copia con la fórmula latina “laus deo” podría indicar que proviene de un ambiente eclesiástico. Esto explica que no haya errores en el uso del latín en el primer bloque de nuestra carta, en las abreviaturas y términos latinos, como ya habíamos señalado anteriormente, a diferencia de lo que sucede en el segundo bloque donde interviene el otro copista.</p>
-          <p>Finalmente hemos de señalar que, tradicionalmente, se ha considerado que el testimonio estudiado era autógrafo del polemista Christóvão Alão de Moraes hecho que creemos queda desmentido por la participación en la copia de, al menos dos profesionales, uno de los cuales no estaba siquiera familiarizado con la figura de Góngora<note place="margin"> ¿Quién no está familiarizado? ¿el primero que escribe gonrora o el segundo que copia mal los versos? No lo sabemos con certeza, pero probablemente el segundo más que el primero.</note> y su obra. Por otra parte, la intervención del corrector, que si acredita los conocimientos necesarios y cuenta con una mayor formación y competencia gráfica nos hace pensar que pueda tratarse de Christóvão Alão de Moraes, por lo que creemos muy aconsejable un cotejo caligráfico entre las enmiendas señaladas y un autógrafo acreditado del polemista portugués.</p>
+          <p>Finalmente hemos de señalar que, tradicionalmente, se ha considerado que el testimonio estudiado era autógrafo del polemista Christóvão Alão de Moraes hecho que creemos queda desmentido por la participación en la copia de, al menos dos profesionales, uno de los cuales no estaba siquiera familiarizado con la figura de Góngora y su obra. Por otra parte, la intervención del corrector, que si acredita los conocimientos necesarios y cuenta con una mayor formación y competencia gráfica nos hace pensar que pueda tratarse de Christóvão Alão de Moraes, por lo que creemos muy aconsejable un cotejo caligráfico entre las enmiendas señaladas y un autógrafo acreditado del polemista portugués.</p>
         </div>
       </div>
     </front> 
