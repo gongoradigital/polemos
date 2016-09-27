@@ -55,8 +55,7 @@ else if($pot->qsa() != '') { // searching
   echo $pot->concByBook();
 }
 else {
-  echo file_get_contents(dirname(__FILE__).'/doc/welcome.html');
-  echo $pot->biblio(array('date', 'title', 'occs'));
+  echo file_get_contents(dirname(__FILE__).'/accueil.html');
 }
           ?>
           </div>
