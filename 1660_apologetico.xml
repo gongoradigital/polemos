@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-stylesheet type="text/xsl" href="tools/polemos2graph.xsl"?>
+<!--?xml-stylesheet type="text/xsl" href="tools/polemos2graph.xsl"?-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <!--Odette: 2016-09-27T13:43:26+02:00-->
   <teiHeader>
@@ -60,10 +60,10 @@
     <body>
       <index indexName="resp" n="Juan de Espinosa Medrano"/>
       <index indexName="date" n="1660"/>
-      <div>
+      <div xml:id="anteportada">
         <p><pb n="f. []1r"/>
-          <hi rend="i">Extremos etiam Phoebus deflectit ad Indos</hi>.</p>
-        <p>Apologético en favor de don Luis de Góngora, príncipe de los poetas líricos de España,
+          <epigraph><hi rend="i">Extremos etiam Phoebus deflectit ad Indos</hi>.</epigraph>
+        <head>Apologético en favor de don Luis de Góngora, príncipe de los poetas líricos de España,
           contra <name type="polemista" key="Manuel de Faría y Sousa">Manuel de Faría y
           Sousa</name>, caballero portugués. Que dedica al excelentísimo señor don Luis Méndez de
           Haro, duque conde de Olivares, etc. Su autor el doctor <name type="polemista"
@@ -72,10 +72,10 @@
           cura rector de la santa iglesia catedral de la ciudad del Cuzco, cabeza de los reinos del
           Perú en el Nuevo Mundo. Año 1662<note place="bottom"><hi rend="bg0000ff">Sin la licencia
               ni el pie de imprenta, esta página constituye la anteportada del <hi rend="i"
-                >Apologético</hi>.</hi></note>.</p>
-        <p><pb n="f. []1v"/></p>
+                >Apologético</hi>.</hi></note>.</head>
+        <pb n="f. []1v"/></p>
       </div>
-      <div>
+      <div xml:id="portada">
         <head><pb n="f. []2r"/> Apologético en favor de don Luis de Góngora, príncipe de los poetas
           líricos de España<note place="bottom"> Desde el título, haciendo de Góngora el «príncipe
             de los poetas <hi rend="i">líricos</hi> de España» (subrayo), Espinosa Medrano responde
@@ -146,7 +146,7 @@
               Tovar», <hi rend="i">e-Spania</hi>, en prensa.</note> .</quote>
           <p>D. Nazianz. orat. 13.</p>
         </epigraph>
-      </div>
+      </div><div xml:id="preliminares">
       <div type="chapter" xml:id="preliminar1">
         <index indexName="resp" n="fray Gonzalo Tenorio"/>
         <index indexName="date" n="1661-10-16"/>
@@ -1710,7 +1710,8 @@
           Teócrito, Tibulo, Teodoreto, Tertuliano, s<hi rend="i">anto</hi> Tomás de Aquino, Turnebo,
           Tucca, Tzetzes, Tomás Tamayo, Trajano Bocalini, Virgilio, Varrón, Vatablo, Varo, Valerio
           Máximo, Villalpando, Zerda.</p>
-      </div>
+      </div></div><div xml:id="apologetico"><head><pb n="f. 1r"/> Apologético en favor de don Luis de Góngora, Príncipe de los Poetas
+        Líricos de España</head>
           <div type="chapter" xml:id="seccion1">
             <head><pb n="f. 1r"/> Apologético en favor de don Luis de Góngora, Príncipe de los Poetas
               Líricos de España</head><head>Sección I</head>
@@ -11378,7 +11379,7 @@
               >Dixi</hi><note place="bottom"> Fórmula clásica de conclusión: «he dicho».</note>.</p>
           <p><hi rend="i">Laus deo</hi>.</p>
         </div>
-      
+      </div>
     </body>
   </text>
 </TEI>
