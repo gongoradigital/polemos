@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="tools/polemos2graph.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <!--Odette: 2016-09-27T13:43:26+02:00-->
   <teiHeader>
@@ -58,6 +59,7 @@
   <text>
     <body>
       <index indexName="resp" n="Juan de Espinosa Medrano"/>
+      <index indexName="date" n="1660"/>
       <div>
         <p><pb n="f. []1r"/>
           <hi rend="i">Extremos etiam Phoebus deflectit ad Indos</hi>.</p>
@@ -145,7 +147,7 @@
           <p>D. Nazianz. orat. 13.</p>
         </epigraph>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar1">
         <index indexName="resp" n="fray Gonzalo Tenorio"/>
         <index indexName="date" n="1661-10-16"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -182,7 +184,7 @@
           octubre de 1661 años.</p>
         <p>Fray Gonzalo Tenorio</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar2">
         <index indexName="resp" n="Herrera"/>
         <index indexName="date" n="1661-10-18"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -194,7 +196,7 @@
             impresión (Guibovich 2005: 105).</note>.</p>
         <p>Herrera</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar3">
         <index indexName="resp" n="Juan de Montalvo"/>
         <index indexName="date" n="1661-09-20"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -295,7 +297,7 @@
           20 de 1661.</p>
         <p>Doctor don Juan de Montalvo</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar4">
         <index indexName="resp" n="Pedro de Villagómez"/>
         <index indexName="resp" n="Tomás de Paredes"/>
         <index indexName="date" n="1661-12-23"/>
@@ -313,7 +315,7 @@
         <p>por mandado del señor provisor y vicario general,</p>
         <p>Tomás de Paredes, notario público.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar5">
         <index indexName="resp" n="fray Fulgencio Maldonado"/>
         <index indexName="date" n="1661-06-01"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -392,7 +394,7 @@
         <p>Doctor don fray<note type="app" rend="I"> fray <hi rend="i">B</hi> : frey <hi rend="i"
               >A</hi></note> Fulgencio Maldonado</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar6">
         <index indexName="resp" n="Alonso Bravo de Paredes y Quiñones"/>
         <index indexName="date" n="1660-06-08"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -644,7 +646,7 @@
         <p>Doctor Alonso Bravo de Paredes y Quiñones<note type="app" rend="I"> Quiñones <hi rend="i"
               >A</hi> : Quinones <hi rend="i">B</hi></note>.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar7">
         <index indexName="resp" n="fray Miguel de Quiñones"/>
         <index indexName="date" n="1660-06-10"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -802,7 +804,7 @@
           Francisco de la ciudad del Cuzco, en 10 días del mes de junio de 1660.</p>
         <p>Fray Miguel de Quiñones</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar8">
         <index indexName="resp" n="Francisco Henríquez"/>
         <index indexName="resp" n="Alonso Díaz"/>
         <index indexName="date" n="1660-06-14"/>
@@ -818,7 +820,7 @@
         <p>Alonso Díaz<note type="app" rend="I"> Diaz <hi rend="i">A</hi> : Dias <hi rend="i"
             >B</hi></note> Haldon, notario público.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar9">
         <index indexName="resp" n="Francisco de Valverde Maldonado y Járaba"/>
         <index indexName="date" n="1661"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -897,7 +899,7 @@
               Faría.</note>.</l>
         </lg>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar10">
         <index indexName="resp" n="Diego de Loaysa y Zárate"/>
         <index indexName="date" n="1661"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -1026,7 +1028,7 @@
               espíritu al Lunarejo, y que este es reencarnación del poeta.</note>.</l>
         </lg>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar11">
         <index indexName="resp" n="Bernabé Gascón Riquelme"/>
         <index indexName="date" n="1661"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -1091,7 +1093,7 @@
           <l>descubres el caudal con puntas de oro.</l>
         </lg>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar12">
         <index indexName="resp" n="Juan de Lira"/>
         <index indexName="date" n="1661"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -1195,7 +1197,7 @@
               atrevimiento.</note>?</l>
         </lg>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar13">
         <index indexName="resp" n="Francisco López Mejía"/>
         <index indexName="date" n="1661"/>
         <index indexName="addressee" n="Juan de Espinosa Medrano"/>
@@ -1287,7 +1289,7 @@
                 justiciero.</hi></note>.</l>
         </lg>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar14">
         <index indexName="resp" n="Juan de Espinosa Medrano"/>
         <index indexName="date" n="1662"/>
         <head><pb n="f. c2v"/> Erratas<note place="bottom"> La fe de erratas desaparece de la
@@ -1313,7 +1315,7 @@
             la constitución de un programa encomiástico para los preliminares del <hi rend="i"
               >Apologético</hi> en el que se barajan los mismos temas continuamente.</note>.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar15">
         <index indexName="resp" n="Juan de Espinosa Medrano"/>
         <index indexName="date" n="1661-11-26"/>
         <index indexName="addressee" n="Luis Méndez de Haro"/>
@@ -1572,7 +1574,7 @@
         <p>Capellán de vuestra excelencia,</p>
         <p>Doctor Juan de Espinosa Medrano.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar16">
         <index indexName="resp" n="Juan de Espinosa Medrano"/>
         <index indexName="date" n="1661-12"/>
         <head><pb n="f. d2r"/> Al lector</head>
@@ -1668,7 +1670,7 @@
               empresa intelectual, merecedora de mayor estima en eventuales bestias que en criollos
               con severos estudios e ingenio.</seg></note>, Dios te guarde, etc.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="preliminar17">
         <index indexName="resp" n="Juan de Espinosa Medrano"/>
         <index indexName="date" n="1661"/>
         <head><pb n="f. d3r"/> Catálogo de los escritores que autorizan este
@@ -1709,12 +1711,9 @@
           Tucca, Tzetzes, Tomás Tamayo, Trajano Bocalini, Virgilio, Varrón, Vatablo, Varo, Valerio
           Máximo, Villalpando, Zerda.</p>
       </div>
-      <div>
-                <index indexName="date" n="1660"/>
-        <head><pb n="f. 1r"/> Apologético en favor de don Luis de Góngora, Príncipe de los Poetas
-          Líricos de España</head>
-        <div>
-          <head>Sección I</head>
+          <div type="chapter" xml:id="seccion1">
+            <head><pb n="f. 1r"/> Apologético en favor de don Luis de Góngora, Príncipe de los Poetas
+              Líricos de España</head><head>Sección I</head>
           <p>1<note place="bottom"> El párrafo entero construye un retrato del enemigo Faría
               mediante autoridades: es un perro hereje, gramático y envidioso. El tema de la envidia
               pertenece a la polémica gongorina y aparece en el <hi rend="i">motto</hi> del grabado
@@ -2103,7 +2102,7 @@
             desvanecido. Propondránse primero sus palabras y responderá luego el
               <title>Apologético</title>.</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion2_Faria">
           <head><name type="polemista" key="Manuel de Faría y Sousa">Manuel de Faría</name>. §
             I.</head>
           <quote>«No puedo contenerme que no diga en tan buena ocasión que hallándome a donde se
@@ -2201,7 +2200,7 @@
                 Manuel de Faría, <hi rend="i">Lusiadas</hi>, I, Tomo I, Canto III, estancia 94, col.
                 131, D [1639_lusiadas] (Faría 1639a: II, col. 131-132).</note></quote></quote>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion2">
           <head>Apologético. Sección II</head>
           <p>3. No me persuado a que hubiese sucedido esta conferencia con los juristas que <name
               type="polemista" key="Manuel de Faría y Sousa">este sicofanta</name><note
@@ -2510,7 +2509,7 @@
               confianza de él y andar con cuidado por temer que hurte o defraude» (<hi rend="i"
                 >Aut.</hi>).</note>.</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion3_Faria">
           <head><name type="polemista"><pb n="f. 5r"/> Manuel de Faría</name>. § II.</head>
           <quote>«¿Mas adónde se nos quedaba esto? “Cuanto las cumbres ásperas cabrío”<note
               place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 46, [<ref
@@ -2647,7 +2646,7 @@
                 133, A [1639_lusiadas] (Faría 1639a: II, col. 132-133).</note>
             </quote></quote>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion3">
           <head>Apologético. Sección III</head>
           <p>7. Bravamente se encabra aquí nuestro <name type="polemista"
               key="Manuel de Faría y Sousa">Faría</name>, búrlase con toda truhanería de este verso
@@ -3227,7 +3226,7 @@
             que <name type="polemista" key="Manuel de Faría y Sousa">Faría</name> hace saltar sin
             pies ni cabeza?</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion4_Faria">
           <head><name type="polemista" key="Manuel de Faría y Sousa">Manuel de Faría</name>. §
             III.</head>
           <quote>«Volvamos a ensartar trozos de esta decantada Poesía: <quote rend="small">“Y los
@@ -3392,8 +3391,7 @@
                 1639a: II, col. 133-134).</note>
             </quote></quote>
         </div>
-        <pb n="f. 9r"/>
-        <div>
+        <div type="chapter" xml:id="seccion4"><pb n="f. 9r"/>
           <head>Apologético. Sección IV<note place="bottom"> En el título corriente, por errata,
               leemos: «<hi rend="sc">de gongora. sec. vi</hi>».</note></head>
           <p>14. Demostración matemática se le ha de hacer a <name type="polemista"
@@ -4601,7 +4599,7 @@
             bárbaro. Tengo respondido hasta aquí a lo de los hipérbatos latinos, a los de los
             toscanos y españoles diré con más oportunidad luego.</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion5_Faria">
           <head><name type="polemista" key="Manuel de Faría y Sousa">Manuel de Faría</name>. §
             IV.</head>
           <quote>«Lo mejor es que hallaban aquellos apoyadores de esta gran suerte de poesía que
@@ -4655,7 +4653,7 @@
                 >Lusiadas</hi>, I, Tomo I, Canto III, estancia 94, col. 134, B hasta E,
               [1639_lusiadas] (Faría 1639a: II, col. 134).</note></quote>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion5">
           <head>Apologético. Sección V</head>
           <p>33. Difícil cosa fue siempre corregir a los hombres grandes y no fuera lo peor lo
             difícil si ello no fuera tan infelice. Quédanse siempre grandes los que lo son y
@@ -5784,7 +5782,7 @@
                 divisam esse partes</hi></quote>», ¿qué concepto, qué juicio, qué ingenio, qué
             elegancia arguye?</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion6_Faria">
           <head><name type="polemista" key="Manuel de Faría y Sousa">Manuel de Faría</name>. §
             V.</head>
           <quote>«No lo arguye más eso otro de metáforas y términos remotísimos y violentísimos,
@@ -5802,7 +5800,7 @@
               Faría, <hi rend="i">Lusiadas</hi>, I, Tomo I, Canto III, estancia 94, col. 134 E hasta
               col. 135 A, [1639_lusiadas] (Faría 1639a: II, col. 134-135).</note></quote>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion6">
           <head>Apologético. Sección VI</head>
           <p>46. Hemos venido al segundo fundamento que mueve a este <name type="polemista"
               key="Manuel de Faría y Sousa">sicofanta</name> (después de los hipérbases) para
@@ -7156,7 +7154,7 @@
               key="Camoens">Camoens</persName> le escurece y excede con tantas distancias, sobrarnos
             el que le cotejemos igualado ya que él se lleva lo excedido.</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion7_Faria">
           <head><name type="polemista" key="Manuel de Faría y Sousa">Manuel de Faría</name>. §
             VI.</head>
           <quote>«¿Por ventura la poesía no está sujeta a leyes, a juicio, a cordura, a
@@ -7182,7 +7180,7 @@
                 <hi rend="i">que</hi> el seguir muchos una cosa no la califica».</note>
           </quote>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion7">
           <head>Apologético. Sección VII</head>
           <p>57. Gran patrón tienen las leyes poéticas en <name type="polemista"
               key="Manuel de Faría y Sousa">Faría</name>. Celoso de su observancia acusa a <name
@@ -7401,7 +7399,7 @@
               >expectavit</hi>» en «<hi rend="i">cogitavit</hi>», ni es a propósito, ni él lo
             entiende.</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion8_Faria">
           <head><name type="polemista" key="Manuel de Faría y Sousa">Manuel de Faría</name>. §
             VII.</head>
           <quote>«Peor sus secuaces. Ellos serán gustosos en parte. Pero razonables
@@ -7422,7 +7420,7 @@
               haberle descubierto el juicio». Conservo la segunda y enmiendo la primera.</note>
           </quote>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion8">
           <head>Apologético. Sección VIII</head>
           <p>60. Imitar lo grande siempre fue tan difícil como deseado. Mal se remeda lo soberano.
             Por eso diría Aristóteles que abatió las plumas la pintura y sofrenaron su osadía los
@@ -8191,7 +8189,7 @@
               crítica alguna menoscabarla» (Macrobio 2010: 254). La cita aparece en boca de Símaco
               en un diálogo sobre Virgilio y sus muchos conocimientos.</note>.</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion9_Faria">
           <head><name type="polemista"><pb n="f. 31v"/> Manuel de Faría</name>. § VIII</head>
           <quote>«Hablo en general, que en particular no hay duda que en el <hi
               rend="i">Polifemo</hi> y <hi rend="i">Soledades</hi> hay cláusulas beneméritas de
@@ -8207,7 +8205,7 @@
               place="bottom"> Manuel de Faría, <hi rend="i">Lusiadas</hi>, I, Tomo II, Canto III,
               estancia 94, col. 135 D, [1639_lusiadas] (Faría 1639a: II, col. 135).</note></quote>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion9">
           <head>Apologético. Sección IX</head>
           <p>68. Parecióle a <name type="polemista" key="Manuel de Faría y Sousa">Faría</name><note
               type="app" rend="I"> Faria <hi rend="i">B</hi> : Feria <hi rend="i">A</hi> [Enmienda
@@ -9366,7 +9364,7 @@
                 gramático, al término de la sección novena dedicada a «espulgarle las boberías» a
                 Faría (§ 77).</hi></note>!</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion10">
           <head>Sección X<note place="bottom"> Por primera vez en el tratado, Espinosa Medrano se
               salta la cita de Faría que da pie a su refutación. Esto es porque el hilo argumental,
               que consiste en criticar la torpeza mitográfica del portugués, reúne la sección IX y
@@ -10724,7 +10722,7 @@
               país de los poetas, pues el lagarto es el «taimado, pícaro y reservado» y en germanía
               significa «ladrón» (<hi rend="i">Autoridades</hi>).</note>.</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion11_Faria">
           <head><name type="polemista" key="Manuel de Faría y Sousa">Manuel de Faría</name>. §
               IX<note type="app" rend="I"> IX <hi rend="i">em.</hi> : X <hi rend="i"
             >AB</hi></note>.</head>
@@ -10747,7 +10745,7 @@
               Virgilio a Camoens», «llámenle Estacio, <hi rend="i">que escribió Silvas y Lucos</hi>»
               y «la Mosca con <hi rend="i">la</hi> Águila».</note></quote>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion11">
           <head>Apologético. Sección XI</head>
           <p>114. También en este punto habla apasionado <name type="polemista"
               key="Manuel de Faría y Sousa">Faría</name>, no errando menos que en los demás, porque
@@ -11083,7 +11081,7 @@
                 >Apologético</hi> con la tradición de la «apología» véase la
             introducción.</note>.</p>
         </div>
-        <div>
+        <div type="chapter" xml:id="seccion12">
           <head>Sección XII</head>
           <p>121. Cese aquí la pluma, cese ya el celo de sacudir calumnias, de persuadir
             escarmientos. Sépase la mordacidad que la serpiente fue célebre símbolo de la ciencia,
@@ -11380,7 +11378,7 @@
               >Dixi</hi><note place="bottom"> Fórmula clásica de conclusión: «he dicho».</note>.</p>
           <p><hi rend="i">Laus deo</hi>.</p>
         </div>
-      </div>
+      
     </body>
   </text>
 </TEI>
