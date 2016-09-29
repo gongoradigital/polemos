@@ -58,6 +58,7 @@
   </teiHeader>
   <text>
     <body>
+      <index indexName="resp" n="Juan de Espinosa Medrano"/>
       <div>
         <p><pb n="f. []1r"/>
           <hi rend="i">Extremos etiam Phoebus deflectit ad Indos</hi>.</p>
@@ -1710,8 +1711,7 @@
           Máximo, Villalpando, Zerda.</p>
       </div>
       <div>
-        <index indexName="resp" n="Juan de Espinosa Medrano"/>
-        <index indexName="date" n="1660"/>
+                <index indexName="date" n="1660"/>
         <head><pb n="f. 1r"/> Apologético en favor de don Luis de Góngora, Príncipe de los Poetas
           Líricos de España</head>
         <div>
