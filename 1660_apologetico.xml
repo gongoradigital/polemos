@@ -2098,7 +2098,7 @@
           <index indexName="resp" n="Manuel de Faría y Sousa"/>
           <head>Manuel de Faría. §
             I.</head>
-          <quote>«No puedo contenerme que no diga en tan buena ocasión que hallándome a donde se
+          <quote><p>«No puedo contenerme que no diga en tan buena ocasión que hallándome a donde se
             habló de esto en presencia de algunos sujetos, de los que tienen medio pie en los
             tribunales y medio en el Parnaso y el otro en el aire, asentaron que don <name
               type="polemista" key="Luis de Góngora">Luis de Góngora</name> solamente era poeta,
@@ -2115,10 +2115,10 @@
               place="bottom"> En Manuel de Faría, <hi rend="i">Lusiadas</hi>, I, Tomo I, Canto III,
               estancia 94, col. 131, D (Faría 1639a: II, col. 131): «que viene a ser esto de nuestro
               poeta en este lugar y poco más».</note> más, y en <name type="polemista"
-                key="Luis de Góngora">don Luis</name> esto que se sigue:<p><quote xml:lang="es"><l>“Rico de cuantos la agua engendra bienes<note place="bottom"> Góngora, <hi
+                key="Luis de Góngora">don Luis</name> esto que se sigue:</p><p><quote xml:lang="es"><l>“Rico de cuantos la agua engendra bienes<note place="bottom"> Góngora, <hi
                   rend="i">Polifemo</hi>, v. 123 [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.123"
-                  >OC255.123</ref>].</note>.</l></quote>
+                  >OC255.123</ref>].</note>.</l></quote></p><p>
             <quote xml:lang="es"><l>Dulce ya concediéndole risueña</l>
             <l>Pasos no al sueño; treguas sí al reposo<note type="app" rend="I">
                 reposo <hi rend="i">A</hi> : resposo <hi rend="i">B</hi></note><note place="bottom">
@@ -2126,7 +2126,7 @@
                 / paces no al sueño, treguas sí al reposo.» [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.307"
                   >OC255.307-308</ref>].</note></l>
-            </quote>
+            </quote></p><p>
                   <quote xml:lang="es"><l>A la del viento cuando no sea cama</l>
             <l>De fresca sombra, de menuda grama<note place="bottom"> Góngora, <hi
                   rend="i">Polifemo</hi>, v. 215-216: «a la, de viento cuando no sea, cama / de
@@ -2136,45 +2136,45 @@
                   >Lusiadas</hi>, I, Tomo I, Canto III, estancia 94, col. 131, D (Faría 1639a: II,
                 col. 131): «Rico de cuantos la agua engendra bienes. / A la de viento cuando no sea
                 cama / de fresca sombra, de menuda grama. / Dulce ya concediéndole risueña / Paces
-                no al sueño; treguas sí al reposo».</note></l></quote>
+                no al sueño; treguas sí al reposo».</note></l></quote></p><p>
                   <quote xml:lang="es"><l>Marino, si agradable no instrumento.<note place="bottom"> Góngora,
                   <hi rend="i">Polifemo</hi>, v. 382: «(marino, si agradable no, instrumento)» [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.382"
-                  >OC255.382</ref>].</note></l></quote>
+                  >OC255.382</ref>].</note></l></quote></p><p>
                   <quote xml:lang="es"><l>A las, que esta montaña engendra harpías.<note place="bottom">
                 Góngora, <hi rend="i">Polifemo</hi>, v. 448 [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.448"
                   >OC255.448</ref>].</note></l>
-            </quote>
+            </quote></p><p>
                   <quote xml:lang="es"><l>Viendo el fiero Pastor voces él tantas,</l>
             <l>Y tantas despidió la honda piedras.<note place="bottom"> Góngora,
                   <hi rend="i">Polifemo</hi>, v. 470-471 [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.470"
                   >OC255.470-471</ref>].</note></l>
-            </quote>
+            </quote></p><p>
                   <quote xml:lang="es"><l>Si mucho poco mapa las despliega<note place="bottom"> Góngora, <hi
                   rend="i">Soledades</hi>, I, v. 194: «Si mucho poco mapa les despliega,» [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.194"
                   >OC264B.194</ref>].</note></l>
-            </quote>
+            </quote></p><p>
                   <quote xml:lang="es"><l>A las que tanto Mar dividió playas.<note place="bottom"> Góngora,
                   <hi rend="i">Soledades</hi>, I, v. 376: «a las, que tanto mar divide, playas,»
                   [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.376"
                   >OC264B.376</ref>].</note></l>
-            </quote>
+            </quote></p><p>
                   <quote xml:lang="es"><l>Tantas del primer atrevimiento señas.<note place="bottom"> Góngora,
                   <hi rend="i">Soledades</hi>, I, v. 439-440: «con tantas del primer atrevimiento /
                 señas, aun a los bueitres lastimosas,» [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.439"
                   >OC264B.439-440</ref>].</note></l>
-            </quote>
+            </quote></p><p>
                   <quote xml:lang="es"><l>El fresco de los Céfiros ruido.</l>
             <l>El verde de los árboles celaje<note place="bottom"> Góngora, <hi
                   rend="i">Soledades</hi>, I, v. 536-537: «el fresco de los céfiros rüido, / el
                 denso de los árboles celaje,» [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.536"
-                  >OC264B.536-537</ref>].</note>.</l></quote>
+                  >OC264B.536-537</ref>].</note>.</l></quote></p><p>
                   <quote xml:lang="es"><l>Mientras el viejo tanta acusa tea</l>
             <l>Al de las bodas Dios no alguna sea</l>
             <l>De nocturno Faetón carroza<note place="bottom"> Góngora, <hi
@@ -2182,7 +2182,7 @@
                 las bodas dios, no alguna sea / de nocturno Faetón carroza ardiente,» [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.653"
                   >OC264B.653-655</ref>].</note></l>
-            </quote>
+            </quote></p><p>
                   <quote xml:lang="es"><l>Tanta ofrecen los álamos zagala.<note place="bottom"> Góngora, <hi
                   rend="i">Soledades</hi>, I, v. 664 [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.664"
