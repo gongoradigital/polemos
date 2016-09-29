@@ -61,8 +61,8 @@
       <index indexName="resp" n="Juan de Espinosa Medrano"/>
       <index indexName="date" n="1660"/>
       <div xml:id="anteportada">
-        <p><pb n="f. []1r"/>
-          <epigraph><hi rend="i">Extremos etiam Phoebus deflectit ad Indos</hi>.</epigraph>
+        <pb n="f. []1r"/>
+        <epigraph><p><hi rend="i">Extremos etiam Phoebus deflectit ad Indos</hi>.</p></epigraph>
         <head>Apologético en favor de don Luis de Góngora, príncipe de los poetas líricos de España,
           contra <name type="polemista" key="Manuel de Faría y Sousa">Manuel de Faría y
           Sousa</name>, caballero portugués. Que dedica al excelentísimo señor don Luis Méndez de
@@ -73,7 +73,7 @@
           Perú en el Nuevo Mundo. Año 1662<note place="bottom"><hi rend="bg0000ff">Sin la licencia
               ni el pie de imprenta, esta página constituye la anteportada del <hi rend="i"
                 >Apologético</hi>.</hi></note>.</head>
-        <pb n="f. []1v"/></p>
+        <pb n="f. []1v"/>
       </div>
       <div xml:id="portada">
         <head><pb n="f. []2r"/> Apologético en favor de don Luis de Góngora, príncipe de los poetas
@@ -146,7 +146,7 @@
               Tovar», <hi rend="i">e-Spania</hi>, en prensa.</note> .</quote>
           <p>D. Nazianz. orat. 13.</p>
         </epigraph>
-      </div><div xml:id="preliminares">
+      </div><div xml:id="preliminares"><head>Preliminares</head>
       <div type="chapter" xml:id="preliminar1">
         <index indexName="resp" n="fray Gonzalo Tenorio"/>
         <index indexName="date" n="1661-10-16"/>
