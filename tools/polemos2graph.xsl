@@ -16,6 +16,7 @@ Doit pouvoir fonctionner en import.
   exclude-result-prefixes="tei"
   >
   <xsl:output omit-xml-declaration="yes" encoding="UTF-8" method="text" indent="yes"/>
+  <xsl:param name="file" select="/*/@xml:id"/>
   <xsl:variable name="apos">'</xsl:variable>
   <xsl:variable name="quot">"</xsl:variable>
   <xsl:variable name="poetica" select="document('../gongora_obra-poetica.xml')"/>
@@ -29,44 +30,91 @@ Doit pouvoir fonctionner en import.
   <xsl:template match="/">
     <xsl:apply-templates mode="graph"/>
   </xsl:template>
-  <!-- Par défaut, traverser tous les éléments en transmettant ce qu'on a récupére au passage -->
+  <!-- Par défaut, traverser tous les éléments en transmettant ce qu'on récupére au passage -->
   <xsl:template match="*" mode="graph">
     <xsl:param name="date"/>
+    <xsl:param name="id"/>
     <xsl:param name="Source"/>
+    <xsl:variable name="date2">
+      <xsl:choose>
+        <xsl:when test="tei:index[@indexName='date']">
+          <xsl:value-of select="tei:index[@indexName='date']/@n"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="$date"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <xsl:variable name="id2">
+      <xsl:choose>
+        <xsl:when test="@xml:id">
+          <xsl:value-of select="@xml:id"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="$id"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <xsl:variable name="Source2">
+      <xsl:choose>
+        <xsl:when test="tei:index[@indexName='resp']">
+          <xsl:value-of select="tei:index[@indexName='resp']/@n"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="$Source"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
     <xsl:apply-templates mode="graph" select="*">
-      <xsl:with-param name="date" select="$date"/>
-      <xsl:with-param name="Source" select="$Source"/>
+      <xsl:with-param name="date" select="$date2"/>
+      <xsl:with-param name="id" select="$id2"/>
+      <xsl:with-param name="Source" select="$Source2"/>
     </xsl:apply-templates> 
   </xsl:template>
   <!-- Par défaut, ne pas sortir de texte -->
   <xsl:template match="text()" mode="graph"/>
-  <!-- /TEI -->
+  <!-- /TEI 
+  Les colonnes
+  file,section,date,Source,Target,type
+  -->
   <xsl:template match="/*" mode="graph">
     <table>
+      <xsl:text>file</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:text>section</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:text>date</xsl:text>
+      <xsl:value-of select="$tab"/>
       <xsl:text>Source</xsl:text>
       <xsl:value-of select="$tab"/>
       <xsl:text>Target</xsl:text>
       <xsl:value-of select="$tab"/>
       <xsl:text>type</xsl:text>
       <xsl:value-of select="$tab"/>
-      <xsl:text>date</xsl:text>
+      <xsl:text>misc1</xsl:text>
       <xsl:value-of select="$tab"/>
-      <xsl:text>context</xsl:text>
+      <xsl:text>misc2</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:text>misc3</xsl:text>
       <xsl:value-of select="$lf"/>
       <xsl:apply-templates mode="graph" select="*"/>
       <xsl:value-of select="$lf"/>
     </table>
   </xsl:template>
-  <xsl:template match="tei:*[tei:index[@indexName='resp']]" mode="graph">
-    <xsl:apply-templates mode="graph">
-      <xsl:with-param name="Source" select="tei:index[@indexName='resp']/@n"/>
-      <xsl:with-param name="date" select="tei:index[@indexName='date']/@n"/>
-    </xsl:apply-templates> 
-  </xsl:template>
+
   <xsl:template match="tei:name[@type='polemista'] | tei:persName " mode="graph">
-    <xsl:param name="Source"/>
+    <!-- Récupérer ce qui vient de plus haut -->
     <xsl:param name="date"/>
+    <xsl:param name="id"/>
+    <xsl:param name="Source"/>
+    <!-- file,section,date,Source,Target,type -->
     <xsl:if test="$Source != ''">
+      <xsl:value-of select="$file"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$id"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$date"/>
+      <xsl:value-of select="$tab"/>
       <xsl:value-of select="$Source"/>
       <xsl:value-of select="$tab"/>
       <xsl:choose>
@@ -86,15 +134,16 @@ Doit pouvoir fonctionner en import.
           <xsl:value-of select="local-name()"/>
         </xsl:otherwise>
       </xsl:choose>
-      <xsl:value-of select="$tab"/>
-      <xsl:value-of select="$date"/>
       <xsl:value-of select="$lf"/>
     </xsl:if>
   </xsl:template>
   <!-- Lien à un poème -->
   <xsl:template match="tei:ref[contains( @target, 'obra-poetica')]" mode="graph">
-    <xsl:param name="Source"/>
+    <!-- Récupérer ce qui vient de plus haut -->
     <xsl:param name="date"/>
+    <xsl:param name="id"/>
+    <xsl:param name="Source"/>
+    <!-- file,section,date,Source,Target,type -->
     <xsl:variable name="poem" select="
       substring-before(
         concat(
@@ -104,6 +153,12 @@ Doit pouvoir fonctionner en import.
         '#'
       )"/>
     <xsl:if test="$Source != ''">
+      <xsl:value-of select="$file"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$id"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$date"/>
+      <xsl:value-of select="$tab"/>
       <xsl:value-of select="$Source"/>
       <xsl:value-of select="$tab"/>
       <xsl:choose>
@@ -116,8 +171,6 @@ Doit pouvoir fonctionner en import.
       </xsl:choose>
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="local-name()"/>
-      <xsl:value-of select="$tab"/>
-      <xsl:value-of select="$date"/>
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$poem"/>
       <xsl:value-of select="$tab"/>
