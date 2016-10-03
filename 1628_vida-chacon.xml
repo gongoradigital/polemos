@@ -31,7 +31,8 @@
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
         <availability status="restricted">
-          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
+            >http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -39,11 +40,9 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <p>L’édition comporte trois niveaux de notes.
-        note[@place="bottom"] : notes d’éditeur (décimal par défaut)
-        note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
-        note[@type="app" rend="I"] : notes d’apparat (I = romain)
-      </p>
+      <p>L’édition comporte trois niveaux de notes. note[@place="bottom"] : notes d’éditeur (décimal
+        par défaut) note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain) </p>
     </encodingDesc>
     <profileDesc>
       <creation>
@@ -57,12 +56,17 @@
   <text>
     <body>
       <head>Texto de la edición</head>
-      <p rend="center">[f. V]</p>
       <div>
+        <pb n="f. V"/>
         <head>Vida y escritos de don Luis de Góngora.</head>
-        <p>Fue breve, habiendo nacido jueves once de julio de 1561 y muerto lunes 24 de mayo de 1627<note place="bottom">Respecto a la fecha de nacimiento, que es la que se suele dar, aclara Amelia de Paz (2012a: 32) que lo único que se puede asegurar es que Góngora fue bautizado el 12 de julio de 1561 en la parroquia del Sagrario de Córdoba, por lo que se
-            ha venido suponiendo que vino al mundo el día anterior, es decir, el 11 de julio.</note>, que sesenta y cinco años, diez meses y trece días brevísimo periodo fue a
-          nuestro esplendor del más lucido y vehemente ingenio que ha producido nuestra nación, no gozado: que hombres tan grandes en ninguna profesión los sabe gozar, a estimarlos a lo
+        <p>Fue breve, habiendo nacido jueves once de julio de 1561 y muerto lunes 24 de mayo de
+            1627<note place="bottom">Respecto a la fecha de nacimiento, que es la que se suele dar,
+            aclara Amelia de Paz (2012a: 32) que lo único que se puede asegurar es que Góngora fue
+            bautizado el 12 de julio de 1561 en la parroquia del Sagrario de Córdoba, por lo que se
+            ha venido suponiendo que vino al mundo el día anterior, es decir, el 11 de
+          julio.</note>, que sesenta y cinco años, diez meses y trece días brevísimo periodo fue a
+          nuestro esplendor del más lucido y vehemente ingenio que ha producido nuestra nación, no
+          gozado: que hombres tan grandes en ninguna profesión los sabe gozar, a estimarlos a lo
             menos<note place="bottom">Nótese este tipo de construcción sintáctica adversativa,
             reminiscente de los giros o formulismos estilísticos gongorinos, y que Paravicino emplea
             con frecuencia en este texto. Entiéndase que aunque Góngora fuera el mayor genio que su
@@ -115,7 +119,8 @@
             fortuna», la Fortuna no lo pudo quitar a la Naturaleza, puesto que su valor reside en
             las excepcionales dotes naturales, en el ingenio sobresaliente del hijo que tuvieron la
             suerte de engendrar. Volverá a referirse a esta concepción filosófica de la nobleza del
-            nacimiento del poeta más adelante. Véase la nota <ref xml:id="ref1" target="#ref2">infra</ref>.</note>.</p>
+            nacimiento del poeta más adelante. Véase la nota <ref xml:id="ref1" target="#ref2"
+              >infra</ref>.</note>.</p>
         <p>Nació en Córdoba, honrada porfía<note place="bottom"><hi xml:lang="es" rend="i"
               >porfía</hi>: constancia en continuar alguna pretensión (<hi xml:lang="es" rend="i"
               >Cov</hi>.) En este caso, los cordobeses como pueblo honrado o reputado a través de
@@ -138,13 +143,14 @@
             el gran Bilbilitano,/ sino solo por Góngora eminente» (<hi xml:lang="es" rend="i">El
               Fénix y su historia natural</hi>, Madrid: Imprenta del Reino, 1630, p. 66-67). El tema
             vuelve a aparecer en otro texto de la polémica, el <hi xml:lang="es" rend="i">Opúsculo
-              contra el Antídoto y en favor de don Luis de Góngora por un curioso</hi>
-            (<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/1624_opusculo-curioso/">1624_opusculo-curioso</ref>), en el que desconocido autor compara a los nacidos en Sevilla y
-            en Córdoba, dándole la palma a esta última: «Madre de poetas, porque el clima del cielo
-            lo lleva de suelo. Y así ha producido tantos, y tan buenos en todas las edades…».
-            Gracián, años más tarde, dirá de él en el Discurso LXI de su <hi xml:lang="es" rend="i"
-              >Agudeza y arte de ingenio</hi>: «El benjamín de Córdoba, don Luis de Góngora, es
-            hasta hoy última corona de su patria» (2001: 785). También eran de Córdoba, Séneca,
+              contra el Antídoto y en favor de don Luis de Góngora por un curioso</hi> (<ref
+              target="http://obvil.paris-sorbonne.fr/corpus/gongora/1624_opusculo-curioso/"
+              >1624_opusculo-curioso</ref>), en el que desconocido autor compara a los nacidos en
+            Sevilla y en Córdoba, dándole la palma a esta última: «Madre de poetas, porque el clima
+            del cielo lo lleva de suelo. Y así ha producido tantos, y tan buenos en todas las
+            edades…». Gracián, años más tarde, dirá de él en el Discurso LXI de su <hi xml:lang="es"
+              rend="i">Agudeza y arte de ingenio</hi>: «El benjamín de Córdoba, don Luis de Góngora,
+            es hasta hoy última corona de su patria» (2001: 785). También eran de Córdoba, Séneca,
             Lucano y Juan de Mena, por ejemplo.</note>. Pasó los años infantes, hasta quince, con el
           decoro y cuidado que pedía la educación de su sangre, advertida<note place="bottom"><hi
               xml:lang="es" rend="i">advertida</hi>: ‘prevenida y avisada’ (<hi xml:lang="es"
@@ -177,10 +183,10 @@
             si no original, taller de letras y de armas, madre de singulares y numerosos hijos»
             (1994a: 196).</note> de las ciencias todas, numeroso seminario, examen y taller de las
           juventudes, genios e ingenios de España. Entre todos se hizo conocer por singular <name
-            type="polemista">don Luis</name>, mirado y admirado por Saúl [f. VI] de los ingenios, de
-          los hombros arriba mayor que todos<note place="bottom">Gracias a sus admirables dotes
-            físicas, Saúl destacó en las luchas de Israel contra los filisteos, los amalecitas y los
-            amonitas. Fue elegido rey y luego ungido por el profeta <ref
+            type="polemista">don Luis</name>, mirado y admirado por Saúl <pb n="f. VI"/> de los
+          ingenios, de los hombros arriba mayor que todos<note place="bottom">Gracias a sus
+            admirables dotes físicas, Saúl destacó en las luchas de Israel contra los filisteos, los
+            amalecitas y los amonitas. Fue elegido rey y luego ungido por el profeta <ref
               target="http://www.mcnbiografias.com/app-bio/do/show?key=samuel">Samuel</ref>. Con
             esta comparación, Paravicino equipara la fuerza intelectual de Góngora con la física de
             Saúl, siguiendo de cerca a I Samuel, 9, 2: «Y tenía él un hijo que se llamaba Saúl,
@@ -214,68 +220,69 @@
             placer» y «alegre, regocijado y gozoso». Para Paravicino, las ‘musas festivas’ de la
             juventud del poeta se oponen aquí a las ‘musas graves’ que lo inspiraron cuando dejó
             atrás esos juegos juveniles. Unas líneas más adelante se referirá a ellas llamándolas
-            ‘musas libres’, Véase la nota <ref xml:id="ref3" target="#ref4">infra</ref>. También Pellicer
-            distingue entre las musas festivas o libres y las graves o severas en su <hi rend="i">Vida de
-              Góngora</hi>, al hablar de los «asuntos festivos o libres» que ya no correspondían con el
-            decoro y estilo del poeta (1630_vida-mayor). Igualmente, en el prólogo de su edición de
-            la obra de otro gongorista, Anastasio Pantaleón de Ribera, dice Pellicer: «El genio de
-            este mozo no fue tan igual para las musas severas como para las de donaire: bien que
-            entre los números salados del gracejo descubría unos golpes de seso y de majestad, como
-            diestro y liberal pintor…» (<hi xml:lang="es" rend="i">Obras de Anastasio Pantaleón
-              Ribera</hi>, Madrid: Francisco Martínez, 1634, f. A4). Quevedo, por su parte, señala a
-            Talía como la «Musa deleitosa y agraciada», a quien «con propiedad suma le pertene[cen]
-            las poesías todas de gracia y de donaire ingeniosamente licenciosas» (<hi xml:lang="es"
-              rend="i">Parnaso español, monte en dos cumbres dividido, con las nueve Musas
-              castellanas</hi>, Madrid: Pedro Coello, 1648, p. 323). </note> ellas en aquellos años
-          dulces y peligrosos<note place="bottom"><hi xml:lang="es" rend="i">peligrosos</hi>: se
-            refiriere a los años juveniles (cfr. «peligro», <hi xml:lang="es" rend="i">Cov.</hi>).
-            En la siguiente oración se referirá a la «edad floreciente».</note>, le dieron a
-            beber<note place="bottom">Se usa «beber de/en alguien/algo» con el sentido de ‘aprender
-            su doctrina, estilo y acciones’ (<hi xml:lang="es" rend="i">Aut</hi>.). Se pondera con
-            ello la asimilación de la cualidad de aquello de que nos nutrimos y, por extensión, de
-            libros o escritos de que nos impregnamos. </note> (desatadas las gracias en los
-            números<note place="bottom"><hi xml:lang="es" rend="i">números</hi>: entiéndase ‘versos’
-              (<hi xml:lang="es" rend="i">Aut</hi>.) Desatadas las gracias: «desatar» se emplea aquí
-            con el sentido de hacer correr como líquido, derramar, desagregar y verter, sentido
-            complejo frecuente en Góngora, sin duda por un latinismo semántico que asimila desatar a
-              <hi xml:lang="es" rend="i">solvere</hi>, que tiene este haz de significados. El
-            ejemplo más cercano de este uso y que pudo actuar en la mente del trinitario es : «y en
-            oro no luciente/ confuso Baco, ni en bruñida plata/ su néctar les desata/ sino en
-            vidrio….», (OC264B. 867-870). Baco, otra divinidad como las musas, desata su néctar, el
-            vino, para los rústicos, o sea lo vierte con abundancia aunque no en oro ni en plata
-            sino en vidrio. Del mismo modo, las Musas vertieron sus gracias en forma de números
-            (lenguaje medido y musical) para darlas a beber al joven Góngora. No deja de ser
-            curioso, y el dato nos lo da Mercedes Blanco, que en uno de los dos famosos cuadros de
-            «La inspiración del poeta» de Poussin (el que está en Hanover, Niedersächsische
-            Landesmuseum) sea Baco quien le ofrezca de beber al poeta.</note>) tanta sal<note
-            place="bottom"><hi xml:lang="es" rend="i">sal</hi>: es término frecuente en la polémica.
-            Dice Díaz de Rivas (1616_discursos-diaz): «Así también se perfeccionó la latina con el
-            garbo, venustidad y sales de la griega…». En la aprobación de Luis Tribaldos de Toledo
-            de la edición de Hoces, refiriéndose a la obra de Góngora: «…se pueden y deben estimar
-            por la cosa más aguda y delgada, y de mayor sal y donaire…» (Góngora 1633: ¶4r).</note>
-          que pasó el sabor sazonado<note place="bottom"><hi xml:lang="es" rend="i">sazonado</hi>:
-            relacionado con sal o sales puede aplicarse a un ‘dicho agudo o palabra chistosa’ (<hi
-              xml:lang="es" rend="i">Aut.</hi>). Celebra aquí la gracia y elegancia de sus
-            versos.</note> a ardor picante<note place="bottom">Prosigue la metáfora de la bebida de
-            las Musas, que en vez de agua dan a beber sales placenteras, y tanto aspiran a agradar
-            que de la sal pasan a la pimienta, con su ardor picante: se indica con este juego
-            metafórico que del deleite de lo jocoso y templadamente lascivo se desliza el poeta a un
-            placer más vicioso e intenso, el de lo «picante»: el que procuran la maledicencia
-            satírica y la alusión procaz.</note>. La edad floreciente<note place="bottom">Es
-            reminiscencia gongorina, además de ser recuerdo virgiliano, («<hi xml:lang="es" rend="i"
-              >Ambo florentes aetatibus, Arcades ambo</hi>» (<hi xml:lang="es" rend="i"
-              >Bucólicas</hi>, VII, 4), como el que discierne Díaz de Ribas a propósito de estos
-            versos de la <hi xml:lang="es" rend="i">Soledad</hi> primera: «El numeroso al fin de
-            labradores /concurso impacïente/ los novios saca: él, de años floreciente,/ y de
-            caudal más floreciente que ellos» (OC264B. 755-758) El poeta la había empleado en otro
-            de sus versos «Moriste, ninfa bella,/ en edad floreciente» (OC103.1-2). Véase Jammes
-            (1987: 350-351).</note>, el genio gallardo y gustoso, el ingenio singular, la libertad
-          de la nobleza (mal obediente a siempre justa rienda de la razón<note place="bottom">El
-            vivir desenfrenado (o mal obediente), como un caballo, que solo puede someterse a las
-            «riendas de la razón» es lugar común. Para Palafox y Mendoza, por ejemplo, «Dos riendas
-            tiene el apetito torpe, para vivir enfrenado. La primera, la de la razón. La segunda, la
-            del honor» (<hi xml:lang="es" rend="i">Tomo séptimo de las obras de […] Juan de Palafox
-              y Mendoza</hi>, Madrid: Bernardo de Villa-Diego, 1669, p. 419). O, en palabras de la
+            ‘musas libres’, Véase la nota <ref xml:id="ref3" target="#ref4">infra</ref>. También
+            Pellicer distingue entre las musas festivas o libres y las graves o severas en su <hi
+              rend="i">Vida de Góngora</hi>, al hablar de los «asuntos festivos o libres» que ya no
+            correspondían con el decoro y estilo del poeta (1630_vida-mayor). Igualmente, en el
+            prólogo de su edición de la obra de otro gongorista, Anastasio Pantaleón de Ribera, dice
+            Pellicer: «El genio de este mozo no fue tan igual para las musas severas como para las
+            de donaire: bien que entre los números salados del gracejo descubría unos golpes de seso
+            y de majestad, como diestro y liberal pintor…» (<hi xml:lang="es" rend="i">Obras de
+              Anastasio Pantaleón Ribera</hi>, Madrid: Francisco Martínez, 1634, f. A4). Quevedo,
+            por su parte, señala a Talía como la «Musa deleitosa y agraciada», a quien «con
+            propiedad suma le pertene[cen] las poesías todas de gracia y de donaire ingeniosamente
+            licenciosas» (<hi xml:lang="es" rend="i">Parnaso español, monte en dos cumbres dividido,
+              con las nueve Musas castellanas</hi>, Madrid: Pedro Coello, 1648, p. 323). </note>
+          ellas en aquellos años dulces y peligrosos<note place="bottom"><hi xml:lang="es" rend="i"
+              >peligrosos</hi>: se refiriere a los años juveniles (cfr. «peligro», <hi xml:lang="es"
+              rend="i">Cov.</hi>). En la siguiente oración se referirá a la «edad
+            floreciente».</note>, le dieron a beber<note place="bottom">Se usa «beber de/en
+            alguien/algo» con el sentido de ‘aprender su doctrina, estilo y acciones’ (<hi
+              xml:lang="es" rend="i">Aut</hi>.). Se pondera con ello la asimilación de la cualidad
+            de aquello de que nos nutrimos y, por extensión, de libros o escritos de que nos
+            impregnamos. </note> (desatadas las gracias en los números<note place="bottom"><hi
+              xml:lang="es" rend="i">números</hi>: entiéndase ‘versos’ (<hi xml:lang="es" rend="i"
+              >Aut</hi>.) Desatadas las gracias: «desatar» se emplea aquí con el sentido de hacer
+            correr como líquido, derramar, desagregar y verter, sentido complejo frecuente en
+            Góngora, sin duda por un latinismo semántico que asimila desatar a <hi xml:lang="es"
+              rend="i">solvere</hi>, que tiene este haz de significados. El ejemplo más cercano de
+            este uso y que pudo actuar en la mente del trinitario es : «y en oro no luciente/
+            confuso Baco, ni en bruñida plata/ su néctar les desata/ sino en vidrio….», (OC264B.
+            867-870). Baco, otra divinidad como las musas, desata su néctar, el vino, para los
+            rústicos, o sea lo vierte con abundancia aunque no en oro ni en plata sino en vidrio.
+            Del mismo modo, las Musas vertieron sus gracias en forma de números (lenguaje medido y
+            musical) para darlas a beber al joven Góngora. No deja de ser curioso, y el dato nos lo
+            da Mercedes Blanco, que en uno de los dos famosos cuadros de «La inspiración del poeta»
+            de Poussin (el que está en Hanover, Niedersächsische Landesmuseum) sea Baco quien le
+            ofrezca de beber al poeta.</note>) tanta sal<note place="bottom"><hi xml:lang="es"
+              rend="i">sal</hi>: es término frecuente en la polémica. Dice Díaz de Rivas
+            (1616_discursos-diaz): «Así también se perfeccionó la latina con el garbo, venustidad y
+            sales de la griega…». En la aprobación de Luis Tribaldos de Toledo de la edición de
+            Hoces, refiriéndose a la obra de Góngora: «…se pueden y deben estimar por la cosa más
+            aguda y delgada, y de mayor sal y donaire…» (Góngora 1633: ¶4r).</note> que pasó el
+          sabor sazonado<note place="bottom"><hi xml:lang="es" rend="i">sazonado</hi>: relacionado
+            con sal o sales puede aplicarse a un ‘dicho agudo o palabra chistosa’ (<hi xml:lang="es"
+              rend="i">Aut.</hi>). Celebra aquí la gracia y elegancia de sus versos.</note> a ardor
+            picante<note place="bottom">Prosigue la metáfora de la bebida de las Musas, que en vez
+            de agua dan a beber sales placenteras, y tanto aspiran a agradar que de la sal pasan a
+            la pimienta, con su ardor picante: se indica con este juego metafórico que del deleite
+            de lo jocoso y templadamente lascivo se desliza el poeta a un placer más vicioso e
+            intenso, el de lo «picante»: el que procuran la maledicencia satírica y la alusión
+            procaz.</note>. La edad floreciente<note place="bottom">Es reminiscencia gongorina,
+            además de ser recuerdo virgiliano, («<hi xml:lang="es" rend="i">Ambo florentes
+              aetatibus, Arcades ambo</hi>» (<hi xml:lang="es" rend="i">Bucólicas</hi>, VII, 4),
+            como el que discierne Díaz de Ribas a propósito de estos versos de la <hi xml:lang="es"
+              rend="i">Soledad</hi> primera: «El numeroso al fin de labradores /concurso impacïente/
+            los novios saca: él, de años floreciente,/ y de caudal más floreciente que ellos»
+            (OC264B. 755-758) El poeta la había empleado en otro de sus versos «Moriste, ninfa
+            bella,/ en edad floreciente» (OC103.1-2). Véase Jammes (1987: 350-351).</note>, el genio
+          gallardo y gustoso, el ingenio singular, la libertad de la nobleza (mal obediente a
+          siempre justa rienda de la razón<note place="bottom">El vivir desenfrenado (o mal
+            obediente), como un caballo, que solo puede someterse a las «riendas de la razón» es
+            lugar común. Para Palafox y Mendoza, por ejemplo, «Dos riendas tiene el apetito torpe,
+            para vivir enfrenado. La primera, la de la razón. La segunda, la del honor» (<hi
+              xml:lang="es" rend="i">Tomo séptimo de las obras de […] Juan de Palafox y
+            Mendoza</hi>, Madrid: Bernardo de Villa-Diego, 1669, p. 419). O, en palabras de la
             gitanilla de Cervantes: «los ímpetus amorosos corren a rienda suelta, hasta que
             encuentran con la razón o con el desengaño» (2001: 138-139). </note>) padecieron la
           tempestad sabrosa<note place="bottom"><hi xml:lang="es" rend="i">sabrosa</hi>: ‘delicioso,
@@ -383,8 +390,8 @@
             desde entonces tuvo que decir misa diariamente.</note> no escribió versos ni cayó en
           error de los que las musas libres<note place="bottom"><hi xml:lang="es" rend="i">musas
               libres</hi>, es decir, «licenciosas, poco moderadas, atrevidas y desvergonzadas» (<hi
-              xml:lang="es" rend="i">Aut.</hi>) Véase la nota <ref xml:id="ref4" target="#ref3">supra</ref>.</note>
-          muestran achacarle.</p>
+              xml:lang="es" rend="i">Aut.</hi>) Véase la nota <ref xml:id="ref4" target="#ref3"
+              >supra</ref>.</note> muestran achacarle.</p>
         <p>En los mayores años, o avisado<note place="bottom"><hi xml:lang="es" rend="i"
               >avisado</hi>: advertido (<hi xml:lang="es" rend="i">Aut</hi>.)</note> de los asuntos,
           o escrupuloso del estilo menos grave en obras tan celebradas<note place="bottom"
@@ -397,10 +404,10 @@
             decir, el mismo Paravicino, que empleaba su elocuencia en asuntos elevados, y con más
             razón por ser este más joven que él, siendo la ligereza y las chanzas propias de la
             juventud y la sesuda gravedad, de la madurez.</note>, no sin generosa vergüenza de algún
-          amigo de [f. VII] menor edad (confesó él)<note place="bottom">Este «amigo de menor edad»,
-            como explicará con más detalle Pellicer en su biografía (1630_vida-mayor), es
-            Paravicino. Véase la nota <ref xml:id="ref5" target="ref6">infra</ref>.</note> se empeñó a la
-            grandeza<note place="bottom">Términos como ‘grandeza’, ‘alteza’, ‘gala y majestad’,
+          amigo de <pb n="f. VII"/> menor edad (confesó él)<note place="bottom">Este «amigo de menor
+            edad», como explicará con más detalle Pellicer en su biografía (1630_vida-mayor), es
+            Paravicino. Véase la nota <ref xml:id="ref5" target="ref6">infra</ref>.</note> se empeñó
+          a la grandeza<note place="bottom">Términos como ‘grandeza’, ‘alteza’, ‘gala y majestad’,
             ‘elegancia’, ‘ardor’, ‘gravedad’ y ‘bizarría’ en relación con el estilo de Góngora, son
             recurrentes en los textos de la polémica. Por ejemplo, el abad de Rute alude a «la
             alteza que posee vuestra merced en esta arte»; o, refiriéndose a la oscuridad de algunos
@@ -413,21 +420,22 @@
             grandeza». El propio Góngora, consciente de su vena innovadora en la poesía, dice así en
             la «Carta respuesta»: «…si entendida para los doctos, causarme ha autoridad, siendo
             lance forzoso venerar que nuestra lengua a costa de mi trabajo haya llegado a la
-            perfección y alteza de la latina…» (Góngora 2000: II, 297) (1615_carta-gongora).</note> del <title>Polifemo</title> y <title>Soledades</title> y
-          otros más breves poemas que enseñará esta estampa<note place="bottom">Entiéndase por «esta
-            estampa» el manuscrito Chacón, donde figura esta vida y que se esperaba que fuera el
-            molde para dar a la imprenta toda la obra de Góngora. Véase la nota <ref xml:id="ref8" target="#ref9">infra</ref>.
-          </note>. Discurrir del crédito y calumnias y todo lo apologético de una parte y otra de
-          este estilo pide más tiempo, y más notas de erudición, que estos renglones permiten<note
-            place="bottom">En estas líneas Paravicino despacha lacónicamente toda la polémica
-            definiéndola como la oposición entre crédito y calumnia: el crédito por un lado, el que
-            le dieron a Góngora sus aficionados y defensores; y por el lado de los censores, solo la
-            calumnia, lo cual es un modo de quitar todo fundamento racional a las críticas y de
-            tomar partido sin vacilación a favor de los méritos del poeta. Se abstiene sin embargo,
-            según dice, de entrar en «liza», en atención a la brevedad necesaria de su texto,
-            también por la mucha erudición y trabajo que necesita para tratar la cuestión a fondo y
-            tal vez, porque, siendo amigo, puede parecer parcial su testimonio. Se trata de una
-            preterición, porque en realidad sí va a referirse a la polémica en las líneas que
+            perfección y alteza de la latina…» (Góngora 2000: II, 297) (1615_carta-gongora).</note>
+          del <title>Polifemo</title> y <title>Soledades</title> y otros más breves poemas que
+          enseñará esta estampa<note place="bottom">Entiéndase por «esta estampa» el manuscrito
+            Chacón, donde figura esta vida y que se esperaba que fuera el molde para dar a la
+            imprenta toda la obra de Góngora. Véase la nota <ref xml:id="ref8" target="#ref9"
+              >infra</ref>. </note>. Discurrir del crédito y calumnias y todo lo apologético de una
+          parte y otra de este estilo pide más tiempo, y más notas de erudición, que estos renglones
+            permiten<note place="bottom">En estas líneas Paravicino despacha lacónicamente toda la
+            polémica definiéndola como la oposición entre crédito y calumnia: el crédito por un
+            lado, el que le dieron a Góngora sus aficionados y defensores; y por el lado de los
+            censores, solo la calumnia, lo cual es un modo de quitar todo fundamento racional a las
+            críticas y de tomar partido sin vacilación a favor de los méritos del poeta. Se abstiene
+            sin embargo, según dice, de entrar en «liza», en atención a la brevedad necesaria de su
+            texto, también por la mucha erudición y trabajo que necesita para tratar la cuestión a
+            fondo y tal vez, porque, siendo amigo, puede parecer parcial su testimonio. Se trata de
+            una preterición, porque en realidad sí va a referirse a la polémica en las líneas que
             siguen, sugiriendo que solo la envidia y el rencor motivaron los ataques y tocando la
             única objeción aparentemente razonable a los versos del poeta: su excesiva
             dificultad.</note>. En la liza<note place="bottom">Es posible que los ingenios
@@ -446,11 +454,10 @@
           </note> y brevemente refiere la verdad y fía del espíritu grande de este español que
           vivirá en la memoria y aun en los labios de todos, e irá debiendo a la posteridad más
           aplauso siempre, pues por lo que tiene de muerte la ausencia<note place="bottom">Equipara
-            también muerte y ausencia en sus <hi xml:lang="es" rend="i"
-                >Oraciones evangélicas que en las festividades de Cristo…, </hi>Madrid: en la
-            Imprenta del Reino, 1640, p. 61r., donde, refiriéndose a Cristo, dice: «Así no llama
-            allí a su muerte muerte, sino partida, ausencia…».</note>,
-          le veneraron en vida otras naciones.</p>
+            también muerte y ausencia en sus <hi xml:lang="es" rend="i">Oraciones evangélicas que en
+              las festividades de Cristo…, </hi>Madrid: en la Imprenta del Reino, 1640, p. 61r.,
+            donde, refiriéndose a Cristo, dice: «Así no llama allí a su muerte muerte, sino partida,
+            ausencia…».</note>, le veneraron en vida otras naciones.</p>
         <p>No quiero negar alguna más licencia<note place="bottom"><hi xml:lang="es" rend="i">alguna
               más licencia</hi>: alguna licencia de más, o excesiva.</note> que dio a sus Musas para
           huirse a la sencillez de nuestra habla castellana. Si no hubiera habido de estos
@@ -459,34 +466,36 @@
             Paravicino aquí, al hablar de las «fajas supersticiosas de la ignorancia», es construir
             otro concepto a partir del conocido uso de las fajas con que se envuelve al recién
             nacido, símbolo de la impotencia de la infancia, sus gritos y llantos. Refiriéndose a
-            Jesús, dice, por ejemplo, en uno de sus sermones: «Pasó adelante nuestro Redentor por las menudencias de la niñez primera o infancia semejante a
-            los hermanos en todo. Bien que en travesuras ilustres y misteriosas…pues sacaba con las
-            manecillas, apenas libertadas de la faja…» (1994a: 120-121). No es la única vez que
-            utiliza metafóricamente varios de los términos aquí empleados (fajas, infancia, niñez);
-            al comienzo de su <hi xml:lang="es" rend="i">Sermón del día de los Reyes, en nuestra
-              Casa de Madrid, año 1612</hi>, dice: «Cada día nos da cuidado, como, o porque Dios
-            vino al mundo, ¿cómo experimentar la estrechez de unas entrañas? ¿padecer la injuria de
-            un parto, si bien tan puro? ¿sufrir los embarazos de unos pañales? ¿los grillos de una
-            faja? ¿tolerar una frágil cuna? ¿buscar leche de pechos a lágrimas, sentir las
-            diferencias y obligaciones de las edades? San Pedro Crisóstomo dice que la naturaleza
-            responde como la que enseña a todos, lo que con ellos puede una niñez lo que merece una
-            infancia» (<hi xml:lang="es" rend="i">Oraciones evangélicas</hi>…, Madrid: Imprenta del
-            Reino, 1640, f. 28v). En estas líneas, pondera Paravicino el sacrificio de Cristo
-            cuando, al encarnarse por amor de la humanidad, se humilla pasando de las inconcebibles
-            grandezas de su divinidad a las miserias de la primera niñez, entre ellas las fajas,
-            comparables a los grillos del prisionero. Sin los atrevimientos de Góngora, la «niñez» e
-            «infancia» de la lengua española no se habría desprendido de cadenas más inmateriales
-            como las del miedo y la ignorancia.</note> y del miedo nuestra infancia<note
-            place="bottom">Si «niñez» e «infancia» se refieren, metafóricamente, a las de la lengua
-            castellana, todo este comentario sobre los atrevimientos del poeta entronca con las
-            «generosas travesuras» que menciona Valencia (véase 1614_carta-valencia) y la oscuridad y
-              «pecadillos» que le achaca Rute (véase el texto editado <ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/1614_parecer/">aquí</ref>). La infancia
-            a la que se refiere Paravicino es la de la simplicidad y llaneza algo bobalicona de una
-            lengua todavía tímida que no ha madurado lo suficiente. En cambio, las travesuras y
-            pecadillos de la poesía de Góngora que mencionan sus amigos no son forzosamente
-            infantiles y en todo caso aluden a las expresiones atrevidas y, por un motivo u otro,
-            anómalas, o a invenciones caprichosas y complejas que son lo contrario de la
-            simplicidad. La idea de Paravicino repercute en el <hi xml:lang="es" rend="i"
+            Jesús, dice, por ejemplo, en uno de sus sermones: «Pasó adelante nuestro Redentor por
+            las menudencias de la niñez primera o infancia semejante a los hermanos en todo. Bien
+            que en travesuras ilustres y misteriosas…pues sacaba con las manecillas, apenas
+            libertadas de la faja…» (1994a: 120-121). No es la única vez que utiliza metafóricamente
+            varios de los términos aquí empleados (fajas, infancia, niñez); al comienzo de su <hi
+              xml:lang="es" rend="i">Sermón del día de los Reyes, en nuestra Casa de Madrid, año
+              1612</hi>, dice: «Cada día nos da cuidado, como, o porque Dios vino al mundo, ¿cómo
+            experimentar la estrechez de unas entrañas? ¿padecer la injuria de un parto, si bien tan
+            puro? ¿sufrir los embarazos de unos pañales? ¿los grillos de una faja? ¿tolerar una
+            frágil cuna? ¿buscar leche de pechos a lágrimas, sentir las diferencias y obligaciones
+            de las edades? San Pedro Crisóstomo dice que la naturaleza responde como la que enseña a
+            todos, lo que con ellos puede una niñez lo que merece una infancia» (<hi xml:lang="es"
+              rend="i">Oraciones evangélicas</hi>…, Madrid: Imprenta del Reino, 1640, f. 28v). En
+            estas líneas, pondera Paravicino el sacrificio de Cristo cuando, al encarnarse por amor
+            de la humanidad, se humilla pasando de las inconcebibles grandezas de su divinidad a las
+            miserias de la primera niñez, entre ellas las fajas, comparables a los grillos del
+            prisionero. Sin los atrevimientos de Góngora, la «niñez» e «infancia» de la lengua
+            española no se habría desprendido de cadenas más inmateriales como las del miedo y la
+            ignorancia.</note> y del miedo nuestra infancia<note place="bottom">Si «niñez» e
+            «infancia» se refieren, metafóricamente, a las de la lengua castellana, todo este
+            comentario sobre los atrevimientos del poeta entronca con las «generosas travesuras» que
+            menciona Valencia (véase 1614_carta-valencia) y la oscuridad y «pecadillos» que le
+            achaca Rute (véase el texto editado <ref
+              target="http://obvil.paris-sorbonne.fr/corpus/gongora/1614_parecer/">aquí</ref>). La
+            infancia a la que se refiere Paravicino es la de la simplicidad y llaneza algo
+            bobalicona de una lengua todavía tímida que no ha madurado lo suficiente. En cambio, las
+            travesuras y pecadillos de la poesía de Góngora que mencionan sus amigos no son
+            forzosamente infantiles y en todo caso aluden a las expresiones atrevidas y, por un
+            motivo u otro, anómalas, o a invenciones caprichosas y complejas que son lo contrario de
+            la simplicidad. La idea de Paravicino repercute en el <hi xml:lang="es" rend="i"
               >Apologético</hi> a las obras de D. Luis de Góngora de Espinosa Medrano, donde dice
             que los hipérbatos de Góngora no son como los de Juan de Mena y otros autores arcaicos
             porque el gran ornato no convenía a una lengua todavía niña, que solo Góngora supo hacer
@@ -520,12 +529,11 @@
               las fábulas de la Antigüedad</hi> (Madrid: Imprenta del Reino, 1635), también en
             relación con la envidia y la ignorancia: «Que embidiar al que trepa la Pirámide al Palio
             de la corona de oro sin auer dado vn passo el aleue, mendigue su ignorancia, que mas
-            vale el desliz de vn Gigante, que la carrera de vn Enano, o
-            de vn Bonami». La escasa frecuencia en el XVII del sustantivo ‘desliz’ (que Paravicino
-            emplea en otras ocasiones en sus sermones) y la cercanía de la expresión hace pensar que
-            de Piña pudo haberla imitado el trinitario. Como puede verse en CORDE, entre 1600 y
-            1700, la palabra ‘desliz’ aparece en muy pocos textos, casi casi todos ellos de Gracián.
-          </note>.</p>
+            vale el desliz de vn Gigante, que la carrera de vn Enano, o de vn Bonami». La escasa
+            frecuencia en el XVII del sustantivo ‘desliz’ (que Paravicino emplea en otras ocasiones
+            en sus sermones) y la cercanía de la expresión hace pensar que de Piña pudo haberla
+            imitado el trinitario. Como puede verse en CORDE, entre 1600 y 1700, la palabra ‘desliz’
+            aparece en muy pocos textos, casi casi todos ellos de Gracián. </note>.</p>
         <p>El estado, dignidades y comodidades de <name type="polemista">don Luis</name>, si no
           fuera vano nombre el de la Fortuna<note place="bottom">Si de verdad existiera la Fortuna,
             se correría o avergonzaría de haber favorecido tan poco a don Luis, solo por tomar
@@ -539,15 +547,15 @@
             virtudes sobresalientes de su obra y que tuvo que contentarse con cargos subalternos y
             rentas menguadas, tema que, por otra parte, caracteriza muchas biografías-panegíricos de
             escritores y de grandes hombres en general. Para más detalles sobre la hacienda de
-            Góngora, véase Paz (2012a, 2012b). Véase la nota <ref xml:id="ref2" target="#ref1">supra</ref>.</note>,
-          muy corrida la dejaran de la venganza que quiso tomar de la Naturaleza, en la singularidad
-          de este extraño y divino genio, pues un caballero de tantas partes<note place="bottom">Es
-            una expresión hecha (con el latinismo ‘tantas’, es decir, ‘tan grandes’) común en la
-            literatura del periodo, para ponderar las cualidades y excelencias de una
-            persona.</note>, ni en menores, ni en mayores años, pudo ascender de una ración de la
-          Santa Iglesia de Córdoba. Gloria de su iglesia, de su patria, de sus méritos no haberle
-          mirado [f. VIII] templadamente, cuanto más reídose con él la Fortuna. ¿Qué ingenio,
-          empero, tal vivió sin algunas lágrimas?</p>
+            Góngora, véase Paz (2012a, 2012b). Véase la nota <ref xml:id="ref2" target="#ref1"
+              >supra</ref>.</note>, muy corrida la dejaran de la venganza que quiso tomar de la
+          Naturaleza, en la singularidad de este extraño y divino genio, pues un caballero de tantas
+            partes<note place="bottom">Es una expresión hecha (con el latinismo ‘tantas’, es decir,
+            ‘tan grandes’) común en la literatura del periodo, para ponderar las cualidades y
+            excelencias de una persona.</note>, ni en menores, ni en mayores años, pudo ascender de
+          una ración de la Santa Iglesia de Córdoba. Gloria de su iglesia, de su patria, de sus
+          méritos no haberle mirado <pb n="f. VIII"/> templadamente, cuanto más reídose con él la
+          Fortuna. ¿Qué ingenio, empero, tal vivió sin algunas lágrimas?</p>
         <p>Llamado a esta Corte de grandes príncipes, los gozó familiares y estimadores mucho,
           benéficos poco<note place="bottom">Que hubiese venido a la Corte a instancias de «grandes
             señores», es opinión que se vuelve a repetir en el <hi xml:lang="es" rend="i"
@@ -668,9 +676,12 @@
           ya la curiosidad causa, las estampó la priesa<note place="bottom">Se refiere a la edición
             de Juan López de Vicuña aparecida en 1627. Como se sabe, esta edición fue denunciada a
             la Inquisición; el padre Juan de Pineda, en calidad de calificador, recomendó que se
-            prohibiese y el Santo Oficio mandó recogerla. Véase Artigas (1925: 207 y ss.); Véase la nota <ref xml:id="ref9" target="ref8">supra</ref> y el «Estudio» del <hi xml:lang="es" rend="i"
-              >Opúsculo contra el Antídoto y en favor de don Luis de Góngora por un curioso</hi>
-            (<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/1624_opusculo-curioso/">1624_opusculo-curioso</ref>) a cargo de José Manuel Rico, para la historia de esta
+            prohibiese y el Santo Oficio mandó recogerla. Véase Artigas (1925: 207 y ss.); Véase la
+            nota <ref xml:id="ref9" target="ref8">supra</ref> y el «Estudio» del <hi xml:lang="es"
+              rend="i">Opúsculo contra el Antídoto y en favor de don Luis de Góngora por un
+              curioso</hi> (<ref
+              target="http://obvil.paris-sorbonne.fr/corpus/gongora/1624_opusculo-curioso/"
+              >1624_opusculo-curioso</ref>) a cargo de José Manuel Rico, para la historia de esta
             edición.</note>. Conque<note place="bottom"><hi xml:lang="es" rend="i">conque</hi>: ‘de
             suerte que’, ‘de manera que’ (<hi xml:lang="es" rend="i">Aut</hi>.).</note> faltas<note
             place="bottom"><hi xml:lang="es" rend="i">faltas</hi>: defectuosas (<hi xml:lang="es"
@@ -697,17 +708,17 @@
             ausente del mundo «hallóse empero» en el señor de Polvoranca, quien seguía amando
             ardientemente al poeta reducido a cenizas porque su amor o fuego era verdadero, cuando
             en esas cenizas se había apagado ya la amistad de otros. Comenta Paravicino semejante
-            distinción en sus <hi xml:lang="es" rend="i">Oraciones evangélicas de
-            adviento…</hi> (Madrid: Francisco García, 1645, p.133-114) de la que ofrecemos este breve
-            fragmento: «A lo primero, que toda amistad procede de amor propio, veo la contradicción
-            en Aristóteles, diciendo los dos amores: uno de concupiscencia, que en rigores es el
-            amor propio; otro de amistad, que es el amor amigo por su bien solo…». El gesto de
-            Chacón tampoco iba motivado por el temor. Para San Juan, por ejemplo, en el amor
-            perfecto no hay temor (<hi xml:lang="es" rend="i">Biblia</hi>, 1 Juan 4:18).</note> en
-          don <name type="authority">Antonio Chacón, señor de Polvoranca</name>. Encendieron las
-          cenizas de <name type="polemista">don Luis</name> fuego en su verdad cuando entre ellas
-            el<note place="bottom"><hi xml:lang="es" rend="i">el</hi>: es decir, el fuego. Quizá se
-            esté basando aquí en un concepto alquímico: el fuego nacido de las cenizas (<hi rend="i"
+            distinción en sus <hi xml:lang="es" rend="i">Oraciones evangélicas de adviento…</hi>
+            (Madrid: Francisco García, 1645, p.133-114) de la que ofrecemos este breve fragmento: «A
+            lo primero, que toda amistad procede de amor propio, veo la contradicción en
+            Aristóteles, diciendo los dos amores: uno de concupiscencia, que en rigores es el amor
+            propio; otro de amistad, que es el amor amigo por su bien solo…». El gesto de Chacón
+            tampoco iba motivado por el temor. Para San Juan, por ejemplo, en el amor perfecto no
+            hay temor (<hi xml:lang="es" rend="i">Biblia</hi>, 1 Juan 4:18).</note> en don <name
+            type="authority">Antonio Chacón, señor de Polvoranca</name>. Encendieron las cenizas de
+            <name type="polemista">don Luis</name> fuego en su verdad cuando entre ellas el<note
+            place="bottom"><hi xml:lang="es" rend="i">el</hi>: es decir, el fuego. Quizá se esté
+            basando aquí en un concepto alquímico: el fuego nacido de las cenizas (<hi rend="i"
               >ignis cinerum</hi>) era el más fuerte, como lo era el del Señor de Polvoranca. Por
             ejemplo, Andreas Libavius, después de hablar de otros fuegos en su <hi rend="i">Praxis
               alchimiae</hi>, concluye que «<hi rend="i">Hoc intensior est ignis cinerum</hi>»
@@ -719,47 +730,48 @@
           libertad y doctrina<note place="bottom"><hi xml:lang="es" rend="i">doctrina</hi>:
             ‘enseñanza’ (<hi xml:lang="es" rend="i">Cov.</hi>).</note>, y en su muerte, copiándolas
           en hermosas vitelas, en hermosísimos caracteres, las consagra al agrado y estimación del
-          conde [f. IX] duque de Sanlúcar en el monumento estudioso y eterno de su biblioteca<note
-            place="bottom">‘monumento estudioso y eterno’: así califica a la biblioteca del conde
-            duque, aunando las cualidades del ‘monumento’ conmemorativo con los adjetivos
-            ‘estudioso’ y ‘eterno, es decir, depositario del saber y garante de la inmortalidad. La
-            gran biblioteca del conde duque estaba entre las más nutridas de su tiempo y albergó
-            alrededor de 2700 impresos y 1400 manuscritos (Marañón 1998: 213). Véase, para más sobre
-            la biblioteca de Olivares la colactánea <hi xml:lang="es" rend="i">Poder y saber.
-              Bibliotecas y bibliofilia en la época del conde-duque de Olivares</hi> (Madrid, Centro
-            de Estudios Europa Hispánica, 2011), en particular los monográficos de O’Reilly, Roe,
-            Lawrence y Marías citados en la bibliografía. Para las cualidades materiales del
-            manuscrito Chacón y el excepcional cuidado con que fue compuesto, véanse los estudios
-            que acompañan la edición facsímil: <hi xml:lang="es" rend="i">Obras de don Luis de
-              Góngora: (Manuscrito Chacón)</hi>, (Madrid, Real Academia Española; Ronda, Caja de
-            Ahorros, 1991, 3 vols.), en particular, en el segundo volumen, la descripción y estudio
-            del códice por Manuel Sánchez Mariana; y en el tercero, el estudio inicial de Antonio
-            Carreira.</note>. El mismo agrado y estimación del conde duque y la ambición gloriosa
-          suya de ilustrar las letras de España y honrar los ingenios de ella, permitirán, cuando
-          juzgare convenir, segunda copia que dar a la estampa para seguridad del crédito de don
-          Luis, en esta tumultuaria<note place="bottom"><hi xml:lang="es" rend="i">tumultuaria</hi>:
-            ‘desordenada’ (<hi xml:lang="es" rend="i">Aut</hi>.) Entiéndase la edición de Vicuña, a
-            la que se acusa de haber sido hecha a toda prisa, sin cuidado, sin rigor, únicamente
-            para adelantarse, con vistas a causar tumulto (sensación o escándalo) y por motivos
-            mercantiles. El <hi xml:lang="es" rend="i">Diccionario de Autoridades</hi> ejemplifica
-            su uso con una frase de Paravicino en un pasaje muy similar: «Suelen descansar en los
-            prólogos de estas <hi xml:lang="es" rend="i">tumultuarias</hi> impresiones sino el
-            veneno, el ánimo… con que prueban… a sacar invectivas con licencia»; en otra ocasión,
-            hablará de «estampa ausente y tumultuaria» (1994a: 224).</note> impresión ahajado<note
-            place="bottom"><hi xml:lang="es" rend="i">ahajado</hi>: es decir, ‘ajado’, ‘maltratado’
-            o ‘injuriado’ en dicha edición (<hi xml:lang="es" rend="i">Aut</hi>.). </note>, para
-          lustre de esta nación con la notoriedad pública de la pluma de <name type="polemista">don
-            Luis</name> a otras<note place="bottom"><hi xml:lang="es" rend="i">otras</hi>: se
-            sobreentiende «otras naciones».</note> donde apenas llegaron sino las de su fama, y para
-          gloria de este príncipe<note place="bottom">Se refiere al dedicatario, al conde duque de
-            Olivares. Véase la nota <ref xml:id="ref11" target="ref10">supra</ref>.</note> a quien
-          verdaderamente se las debemos.</p>
+          conde <pb n="f. IX"/> duque de Sanlúcar en el monumento estudioso y eterno de su
+            biblioteca<note place="bottom">‘monumento estudioso y eterno’: así califica a la
+            biblioteca del conde duque, aunando las cualidades del ‘monumento’ conmemorativo con los
+            adjetivos ‘estudioso’ y ‘eterno, es decir, depositario del saber y garante de la
+            inmortalidad. La gran biblioteca del conde duque estaba entre las más nutridas de su
+            tiempo y albergó alrededor de 2700 impresos y 1400 manuscritos (Marañón 1998: 213).
+            Véase, para más sobre la biblioteca de Olivares la colactánea <hi xml:lang="es" rend="i"
+              >Poder y saber. Bibliotecas y bibliofilia en la época del conde-duque de Olivares</hi>
+            (Madrid, Centro de Estudios Europa Hispánica, 2011), en particular los monográficos de
+            O’Reilly, Roe, Lawrence y Marías citados en la bibliografía. Para las cualidades
+            materiales del manuscrito Chacón y el excepcional cuidado con que fue compuesto, véanse
+            los estudios que acompañan la edición facsímil: <hi xml:lang="es" rend="i">Obras de don
+              Luis de Góngora: (Manuscrito Chacón)</hi>, (Madrid, Real Academia Española; Ronda,
+            Caja de Ahorros, 1991, 3 vols.), en particular, en el segundo volumen, la descripción y
+            estudio del códice por Manuel Sánchez Mariana; y en el tercero, el estudio inicial de
+            Antonio Carreira.</note>. El mismo agrado y estimación del conde duque y la ambición
+          gloriosa suya de ilustrar las letras de España y honrar los ingenios de ella, permitirán,
+          cuando juzgare convenir, segunda copia que dar a la estampa para seguridad del crédito de
+          don Luis, en esta tumultuaria<note place="bottom"><hi xml:lang="es" rend="i"
+              >tumultuaria</hi>: ‘desordenada’ (<hi xml:lang="es" rend="i">Aut</hi>.) Entiéndase la
+            edición de Vicuña, a la que se acusa de haber sido hecha a toda prisa, sin cuidado, sin
+            rigor, únicamente para adelantarse, con vistas a causar tumulto (sensación o escándalo)
+            y por motivos mercantiles. El <hi xml:lang="es" rend="i">Diccionario de Autoridades</hi>
+            ejemplifica su uso con una frase de Paravicino en un pasaje muy similar: «Suelen
+            descansar en los prólogos de estas <hi xml:lang="es" rend="i">tumultuarias</hi>
+            impresiones sino el veneno, el ánimo… con que prueban… a sacar invectivas con licencia»;
+            en otra ocasión, hablará de «estampa ausente y tumultuaria» (1994a: 224).</note>
+          impresión ahajado<note place="bottom"><hi xml:lang="es" rend="i">ahajado</hi>: es decir,
+            ‘ajado’, ‘maltratado’ o ‘injuriado’ en dicha edición (<hi xml:lang="es" rend="i"
+              >Aut</hi>.). </note>, para lustre de esta nación con la notoriedad pública de la pluma
+          de <name type="polemista">don Luis</name> a otras<note place="bottom"><hi xml:lang="es"
+              rend="i">otras</hi>: se sobreentiende «otras naciones».</note> donde apenas llegaron
+          sino las de su fama, y para gloria de este príncipe<note place="bottom">Se refiere al
+            dedicatario, al conde duque de Olivares. Véase la nota <ref xml:id="ref11"
+              target="ref10">supra</ref>.</note> a quien verdaderamente se las debemos.</p>
         <p>A. A. L. S</p>
-        <p>M. P.<note place="bottom">Estas siglas, que aparecen explicadas en la vida
-            que se publicará en las ediciones de Gonzalo de Hoces (1633_vita_Hoces), significan <hi
+        <p>M. P.<note place="bottom">Estas siglas, que aparecen explicadas en la vida que se
+            publicará en las ediciones de Gonzalo de Hoces (1633_vita_Hoces), significan <hi
               xml:lang="lat" rend="i">Anonymus, Amicus, Lubens, Scripsit, Moerens, Posuit</hi> («Un
             amigo anónimo lo escribió con placer y lo puso con tristeza»). Para este amigo, que es
-            Paravicino, véanse «Estructura» y las dos notas <ref xml:id="ref13" target="ref5">aquí</ref> y <ref xml:id="ref14" target="ref6">acá.</ref></note></p>
+            Paravicino, véanse «Estructura» y las dos notas <ref xml:id="ref13" target="ref5"
+              >aquí</ref> y <ref xml:id="ref14" target="ref6">acá.</ref></note></p>
       </div>
     </body>
   </text>
