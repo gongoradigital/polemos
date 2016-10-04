@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
+    <fileDesc> 
       <titleStmt>
         <title>Vida de don Luis de Góngora</title>
         <author key="Pellicer y Tovar, José">José Pellicer y Tovar</author>
@@ -326,26 +326,20 @@
           <quote>   
             <lg>
             <l>Muerto me lloró el Tormes en su orilla, </l>
-          
-          <l>en un parasismal sueño profundo,  </l>
-          
-        <l>en cuanto don Apolo el rubicundo </l>
-          
+            <l>en un parasismal sueño profundo,  </l>
+            <l>en cuanto don Apolo el rubicundo </l>
             <l>tres veces sus caballos desensilla </l> </lg> 
            <pb n="f. 2r"/>
           <lg>
           <l>Fue mi resurrección la maravilla</l>
           <l>que de Lázaro fue la vuelta al mundo,</l>
-          <l>
-            de suerte que ya soy otro segundo</l>
-              <l>
-                Lazarillo de Tormes en Castilla.</l></lg> 
-          <lg> <l>Entré a servir a un ciego, que me envía,</l> 
-            <l>
-              sin alma vivo, y en un dulce fuego,</l>
+          <l>de suerte que ya soy otro segundo</l>
+          <l>Lazarillo de Tormes en Castilla.</l></lg> 
+          <lg> 
+            <l>Entré a servir a un ciego, que me envía,</l> 
+            <l>sin alma vivo, y en un dulce fuego,</l>
             <l>que ceniza hará la vida mía. </l> </lg>
-           
-          <lg>
+           <lg>
             <l>¡Oh qué dichoso que sería yo luego,</l>
             <l>si a Lazarillo le imitase un día</l>
             <l> en la venganza que tomó del ciego!</l> </lg> </quote> <note place="bottom">Inserta Pellicer este
@@ -355,9 +349,6 @@
             data de una década más tarde, de 1593, y fue compuesto a raíz de la visita de
               Góngora a Salamanca con otro capitular para dar obediencia al obispo electo de Córdoba
               don Jerónimo Manrique. Cfr. «Estructura». (Góngora 1981: 329-330).</note>
-          
-        
-        <p/>
         <p>Estos versos hacía en aquella edad, y así no me maravillo que no se diese del todo a la
           atención de los derechos, que era la facultad a que le inclinaban sus padres, porque
           obedeciendo a su natural, se dejó arrastrar dulcemente de lo sabroso de la erudición y de
@@ -645,7 +636,7 @@
             aplauso’ (<hi xml:lang="en" rend="i">Aut.</hi>).</note>, llevaron mal que se introdujese
           lo que no habían de saber imitar, a quien escribió don <name type="polemista">Luis</name>
           así:</p>
-          <p><quote>
+          <quote>
             <lg>
               <l>Pisó las calles de Madrid el fiero</l>
               <l>monóculo galán de Galatea</l>
@@ -666,18 +657,10 @@
             <lg>
               <l>«Si quieren — respondió — los pedantones</l>
               <l> luz nueva en hemisferio diferente,</l>
-              <l>den su memorïal a mis calzones»<note place="bottom">[OC288]
-                (1615_Piso_Madrid_el_fiero). Véase Góngora (1981: 384-385). El soneto anterior, y los
-                dos siguientes, como apuntábamos, aparecen tachados en el manuscrito.</note>.</l>
+              <l>den su memorïal a mis calzones»<note place="bottom">[<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem31#l31.14">OC288</ref>](1615_Piso_Madrid_el_fiero). Véase Góngora (1981: 384-385). El soneto anterior, y los
+                dos siguientes, como apuntábamos, aparecen tachados en el manuscrito.</note></l>
             </lg>
           </quote>
-        </p>
-          <p><quote>den su memorïal a mis calzones».</quote><note place="bottom">[<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem31#l31.14">OC288</ref>]
-            
-            (1615_Piso_Madrid_el_fiero). Véase Góngora (1981: 384-385). El soneto anterior, y los
-            dos siguientes, como apuntábamos, aparecen tachados en el manuscrito. </note>
-        </p>
-        <p/>
         <p>Escribió después la <title>Soledad primera</title> y, apenas la publicó, cuando padeció
           semejante invasión que el <title>Polifemo</title>, acusándole de oscuro los que no le
             entendían<note place="bottom">Desde su temprana divulgación, «la oscuridad constituía la
@@ -687,28 +670,34 @@
               xml:lang="en" rend="i">Discursos apologéticos</hi> (1616_discursos-diaz) «no es falta
             suya [de Góngora], sino sobra de virtudes poéticas y falta o de lección, o de ingenio, o
             de atención en el lector».</note>. Respondió a los que no lo entendían con el desprecio,
-          con la risa, pero mejor en otro soneto, sin género de duda grande:</p>
-          <p><quote><lg><l>Con poca luz y menos disciplina</l>
+          con la risa, pero mejor en otro soneto, sin género de duda grande:</p>  
+          <quote>
+            <lg>
+              <l>Con poca luz y menos disciplina</l>
             <l>al voto de un muy crítico y muy lego,</l>
             <l>salió en Madrid la Soledad, y luego</l>
-            <l>a palacio con lento pie camina</l></lg>. <hi rend="color_00000a"><pb n="f. 3v"/></hi>
-            
-            <lg><l>La puerta <note place="bottom">La lección que elige Ciplijauskaité es «las
+              <l>a palacio con lento pie camina.</l>
+            </lg>     
+            <pb n="f. 3v"/>
+            <lg>
+              <l>La puerta <note place="bottom">La lección que elige Ciplijauskaité es «las
               puertas», que es la de Chacón (Góngora 1981: 523-524).</note> le cerró de la
               Latina</l>
-              
               <l>quien duerme en español y sueña en griego,</l>
               <l>pedante gofo, que, de pasión ciego,</l>
-              <l>la suya reza, y calla la divina.</l></lg>
-            <lg><l>Del viento es el pendón pompa ligera,</l>
+              <l>la suya reza, y calla la divina.</l>
+            </lg>
+            <lg>
+              <l>Del viento es el pendón pompa ligera,</l>
               <l>no hay paso concedido a mayor gloria,</l>
-              <l>ni voz que no la acusen de extranjera.</l></lg>
-            <lg><l>Gastando, pues, en tanto la memoria,</l>
+              <l>ni voz que no la acusen de extranjera.</l>
+            </lg>
+            <lg>
+              <l>Gastando, pues, en tanto la memoria,</l>
               <l>ajena invidia, más que propia cera,</l>
-              <l>por el Carmen la lleva a la Victoria.</l></lg> <ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem31#l31.14">OC31.14</ref>
-              </quote>
-        </p>
-        <p/>
+              <l>por el Carmen la lleva a la Victoria<note place="bottom">[OC449]. Véase Góngora (1981: 523-525). En la edición de Vicuña lleva por epígrafe «A los críticos de Madrid, que se opusieron a impugnar la primera <hi rend="i">Soledad</hi>». También está tachado en el manuscrito.</note>.</l>
+            </lg> 
+        </quote>
         <p>Del modo mismo se portaron sus émulos con la <title>Soledad segunda</title><hi
             rend="color_0000ff note">,<note>Para los críticos, la abundancia y el recargamiento eran
               la causa de la oscuridad de las <hi xml:lang="en" rend="i">Soledades</hi>. Para el
