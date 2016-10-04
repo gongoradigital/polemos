@@ -323,42 +323,40 @@
               relacionado con sal o sales puede aplicarse a un ‘dicho agudo o palabra chistosa’ (<hi
                 xml:lang="en" rend="i">Aut.</hi>). Celebra aquí la gracia y elegancia del
               soneto.</note> soneto que dice:</p>
-          <p><quote>Muerto me lloró el Tormes en su orilla,</quote>
-          </p>
-          <p><quote>en un parasismal sueño profundo,</quote>
-          </p>
-          <p><quote>en cuanto don Apolo el rubicundo</quote>
-          </p>
-          <p><quote>tres veces sus caballos desensilla</quote>
-          </p> <pb n="f. 2r"/>
-          <quote>Fue mi resurrección la maravilla</quote>
-          <p><quote>que de Lázaro fue la vuelta al mundo,</quote>
-          </p>
-          <p><quote>de suerte que ya soy otro segundo</quote>
-          </p>
-          <p><quote>Lazarillo de Tormes en Castilla.</quote>
-          </p>
-          <p/>
-          <p><quote>Entré a servir a un ciego, que me envía, </quote>
-          </p>
-          <p><quote>sin alma vivo, y en un dulce fuego,</quote>
-          </p>
-          <p><quote>que ceniza hará la vida mía. </quote>
-          </p>
-          <p/>
-          <p><quote>¡Oh qué dichoso que sería yo luego,</quote>
-          </p>
-          <p><quote>si a Lazarillo le imitase un día</quote>
-          </p>
-          <p><quote>en la venganza que tomó del ciego!<note place="bottom">Inserta Pellicer este
+          <quote>   
+            <lg>
+            <l>Muerto me lloró el Tormes en su orilla, </l>
+          
+          <l>en un parasismal sueño profundo,  </l>
+          
+        <l>en cuanto don Apolo el rubicundo </l>
+          
+            <l>tres veces sus caballos desensilla </l> </lg> 
+           <pb n="f. 2r"/>
+          <lg>
+          <l>Fue mi resurrección la maravilla</l>
+          <l>que de Lázaro fue la vuelta al mundo,</l>
+          <l>
+            de suerte que ya soy otro segundo</l>
+              <l>
+                Lazarillo de Tormes en Castilla.</l></lg> 
+          <lg> <l>Entré a servir a un ciego, que me envía,</l> 
+            <l>
+              sin alma vivo, y en un dulce fuego,</l>
+            <l>que ceniza hará la vida mía. </l> </lg>
+           
+          <lg>
+            <l>¡Oh qué dichoso que sería yo luego,</l>
+            <l>si a Lazarillo le imitase un día</l>
+            <l> en la venganza que tomó del ciego!</l> </lg> </quote> <note place="bottom">Inserta Pellicer este
               episodio de la enfermedad de Góngora en Salamanca pero yerra en fechas y
               circunstancias. El soneto «Muerto me lloró el Tormes en su orilla<quote>»</quote>
             [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem31#l31.14">OC101</ref>]
             data de una década más tarde, de 1593, y fue compuesto a raíz de la visita de
               Góngora a Salamanca con otro capitular para dar obediencia al obispo electo de Córdoba
               don Jerónimo Manrique. Cfr. «Estructura». (Góngora 1981: 329-330).</note>
-          </quote>
-        </p>
+          
+        
         <p/>
         <p>Estos versos hacía en aquella edad, y así no me maravillo que no se diese del todo a la
           atención de los derechos, que era la facultad a que le inclinaban sus padres, porque
@@ -647,34 +645,32 @@
             aplauso’ (<hi xml:lang="en" rend="i">Aut.</hi>).</note>, llevaron mal que se introdujese
           lo que no habían de saber imitar, a quien escribió don <name type="polemista">Luis</name>
           así:</p>
-        <p><quote>Pisó las calles de Madrid el fiero </quote>
-        </p>
-        <p><quote>monóculo galán de Galatea </quote>
-        </p>
-        <p><quote>y, cual suele tejer bárbara aldea</quote>
-        </p>
-        <p><quote>soga de gozques contra forasteros, </quote>
-        </p>
-        <p/>
-        <p><quote>rígido un bachiller, otro severo, </quote>
-        </p>
-        <p><quote>crítica turba al fin, si no pigmea, </quote>
-        </p>
-        <p><quote>su diente afila y su veneno emplea </quote>
-        </p>
-        <p><quote>en el disforme cíclope cabrero. </quote>
-        </p>
-        <p/>
-        <p><quote>A pesar del lucero de su frente, </quote>
-        </p>
-        <p><quote>le hacen obscuro, y él, en dos razones</quote>
-        </p>
-        <p><quote> que en dos truenos libró de su occidente,</quote>
-        </p>
-        <p/>
-        <p><quote>«Si quieren — respondió — los pedantones</quote>
-        </p>
-        <p><quote> luz nueva en hemisferio diferente, </quote>
+          <p><quote>
+            <lg>
+              <l>Pisó las calles de Madrid el fiero</l>
+              <l>monóculo galán de Galatea</l>
+              <l>y, cual suele tejer bárbara aldea</l>
+              <l>soga de gozques contra forasteros,</l>
+            </lg>
+            <lg>
+              <l>rígido un bachiller, otro severo,</l>
+              <l>crítica turba al fin, si no pigmea,</l>
+              <l>su diente afila y su veneno emplea</l>
+              <l>en el disforme cíclope cabrero.</l>
+            </lg>
+            <lg>
+              <l>A pesar del lucero de su frente,</l>
+              <l>le hacen obscuro, y él, en dos razones</l>
+              <l>que en dos truenos libró de su occidente,</l>
+            </lg>
+            <lg>
+              <l>«Si quieren — respondió — los pedantones</l>
+              <l> luz nueva en hemisferio diferente,</l>
+              <l>den su memorïal a mis calzones»<note place="bottom">[OC288]
+                (1615_Piso_Madrid_el_fiero). Véase Góngora (1981: 384-385). El soneto anterior, y los
+                dos siguientes, como apuntábamos, aparecen tachados en el manuscrito.</note>.</l>
+            </lg>
+          </quote>
         </p>
           <p><quote>den su memorïal a mis calzones».</quote><note place="bottom">[<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem31#l31.14">OC288</ref>]
             
@@ -692,46 +688,25 @@
             suya [de Góngora], sino sobra de virtudes poéticas y falta o de lección, o de ingenio, o
             de atención en el lector».</note>. Respondió a los que no lo entendían con el desprecio,
           con la risa, pero mejor en otro soneto, sin género de duda grande:</p>
-        <p><quote>Con poca luz y menos disciplina</quote>
-        </p>
-        <p><quote>al voto de un muy crítico y muy lego,</quote>
-        </p>
-        <p><quote>salió en Madrid la Soledad, y luego </quote>
-        </p>
-        <p><quote>a palacio con lento pie camina. <hi rend="color_00000a"><pb n="f. 3v"/></hi>
-          </quote>
-        </p>
-      </div>
-      <div type="standard">
-        <head>
-          <quote>La puerta <note place="bottom">La lección que elige Ciplijauskaité es «las
+          <p><quote><lg><l>Con poca luz y menos disciplina</l>
+            <l>al voto de un muy crítico y muy lego,</l>
+            <l>salió en Madrid la Soledad, y luego</l>
+            <l>a palacio con lento pie camina</l></lg>. <hi rend="color_00000a"><pb n="f. 3v"/></hi>
+            
+            <lg><l>La puerta <note place="bottom">La lección que elige Ciplijauskaité es «las
               puertas», que es la de Chacón (Góngora 1981: 523-524).</note> le cerró de la
-            Latina</quote>
-        </head>
-        <p><quote>quien duerme en español y sueña en griego,</quote>
-        </p>
-        <p><quote>pedante gofo, que, de pasión ciego,</quote>
-        </p>
-        <p><quote>la suya reza, y calla la divina.</quote>
-        </p>
-        <p/>
-        <p><quote>Del viento es el pendón pompa ligera,</quote>
-        </p>
-        <p><quote>no hay paso concedido a mayor gloria,</quote>
-        </p>
-        <p><quote>ni voz que no la acusen de extranjera.</quote>
-        </p>
-        <p/>
-        <p><quote>Gastando, pues, en tanto la memoria,</quote>
-        </p>
-        <p><quote>ajena invidia, más que propia cera,</quote>
-        </p>
-        <p><quote>por el Carmen la lleva a la Victoria.<note place="bottom">[<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem31#l31.14">OC449</ref>
-          ]
-              (1615_con-poca-luz). Véase Góngora (1981: 523-525). En la edición de Vicuña lleva por
-              epígrafe «A los críticos de Madrid, que se opusieron a impugnar la primera <hi
-                xml:lang="en" rend="i">Soledad</hi>». También está tachado en el manuscrito.
-            </note></quote>
+              Latina</l>
+              
+              <l>quien duerme en español y sueña en griego,</l>
+              <l>pedante gofo, que, de pasión ciego,</l>
+              <l>la suya reza, y calla la divina.</l></lg>
+            <lg><l>Del viento es el pendón pompa ligera,</l>
+              <l>no hay paso concedido a mayor gloria,</l>
+              <l>ni voz que no la acusen de extranjera.</l></lg>
+            <lg><l>Gastando, pues, en tanto la memoria,</l>
+              <l>ajena invidia, más que propia cera,</l>
+              <l>por el Carmen la lleva a la Victoria.</l></lg> <ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem31#l31.14">OC31.14</ref>
+              </quote>
         </p>
         <p/>
         <p>Del modo mismo se portaron sus émulos con la <title>Soledad segunda</title><hi
@@ -764,45 +739,36 @@
               179-186). </note></hi> reprehendiendo el estilo, las metáforas, las alusiones y demás
           tropos de que usa con frecuencia don <name type="polemista">Luis</name>, que se desahogó
           de las calumnias en otro soneto no menor y más grave:</p>
-        <p><quote>Restituye a tu mudo horror divino,</quote>
-        </p>
-        <p><quote>amiga Soledad, el pie sagrado,</quote>
-        </p>
-        <p><quote>que captiva lisonja es, del poblado,</quote>
-        </p>
-        <p><quote>en breves hierros <note place="bottom">La lección que elige Ciplijauskaité es
-              «yerros breves», que es la del ms. Chacón y otros muchos testimonios (Góngora 1981:
-              464-465).</note> pájaro ladino.</quote>
-        </p>
-        <p/>
-        <p><quote>Prudente cónsul, de las selvas dino,</quote>
-        </p>
-        <p><quote>de impedimentos busca, desatado,</quote>
-        </p>
-        <p><quote>tu claustro verde, en valle profanado</quote>
-        </p>
-        <p><quote>de fiera menos que de peregrino.</quote>
-        </p>
-        <p/>
-        <p><quote>¡Cuán dulcemente de la encina vieja</quote>
-        </p>
-        <p><quote>tórtola viuda al mismo bosque incierto</quote>
-        </p>
-        <p><quote>apacibles desvíos aconseja!</quote>
-        </p>
-      </div>
-      <div type="standard">
-        <head>
-          <quote>Endeche el siempre amado esposo muerto</quote>
-        </head>
-        <p><quote>con voz doliente, que tan sorda oreja</quote>
-        </p>
-        <p><quote>tiene la soledad como el desierto</quote>.<note place="bottom">[<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem31#l31.14">OC290</ref>
-          ] Véase
-            Góngora (1981: 464-466). López Bueno (2013a: 136) lo describe como un soneto melancólico
-            de «[r]reacción introvertida, dolorida y a la defensiva». </note></p>
-        <p/>
-        <p>Dejemos ahora el discurrir sobre el estilo, pues luego diremos de él en su defensa<note
+          <p><quote>
+            <lg>
+              <l>Restituye a tu mudo horror divino,</l>
+              <l>amiga Soledad, el pie sagrado,</l>
+              <l>que captiva lisonja es, del poblado,</l>
+              <l>en breves hierros <note place="bottom">La lección que elige Ciplijauskaité es
+                «yerros breves», que es la del ms. Chacón y otros muchos testimonios (Góngora 1981:
+                464-465).</note> pájaro ladino.</l>
+            </lg>
+            <lg>
+              <l>Prudente cónsul, de las selvas dino,</l>
+              <l>de impedimentos busca, desatado,</l>
+              <l>tu claustro verde, en valle profanado</l>
+              <l>de fiera menos que de peregrino.</l>
+            </lg>
+            <lg>
+              <l>¡Cuán dulcemente de la encina vieja</l>
+              <l>tórtola viuda al mismo bosque incierto</l>
+              <l>apacibles desvíos aconseja!</l>
+            </lg>
+            <lg>
+              <l>Endeche el siempre amado esposo muerto</l>
+              <l>con voz doliente, que tan sorda oreja</l>
+              <l>tiene la soledad como el desierto<note place="bottom">[OC290] Véase
+                Góngora (1981: 464-466). López Bueno (2013a: 136) lo describe como un soneto melancólico
+                de «[r]reacción introvertida, dolorida y a la defensiva»</note>.</l>
+            </lg>
+          </quote>
+        
+        Dejemos ahora el discurrir sobre el estilo, pues luego diremos de él en su defensa<note
             place="bottom">Con este soneto da fin a la digresión sobre la defensa del estilo y
             continúa con la vida del poeta, no sin antes aclarar que habrá más al respecto, teniendo
             en cuenta, obviamente, que esta <hi xml:lang="en" rend="i">vita</hi> fue concebida para
@@ -1328,7 +1294,7 @@
               >Museo<note place="bottom">[NDE] Museo fue un poeta griego tardío (h. s. IV o V),
               conocido por su epilio <hi xml:lang="en" rend="i">Leandro y Hero</hi>, que se
                 propagó<emph> por la Europa renacentista a partir de dos ediciones (Manucio y
-                Lascaris) de 1494. La historia trágica de los dos amantes había sido relatada ya por
+                Lascaris) de 1494. La historia trágica de los dos amantes había sido relatada ya porm
                 Ovidio (Heroidas, XVIII-XIX), Virgilio (Geórgicas, III), Horacio (Epístolas, I),
                 Marcial (Epigramas, XIV), entre otros. En España, les dedicaron diversas
                 composiciones a los amantes Garcilaso, Boscán, Acuña, Sá de Miranda, Camões, Quevedo
