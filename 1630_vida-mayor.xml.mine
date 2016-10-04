@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vida de don Luis de Góngora</title>
+        <author key="Pellicer y Tovar, José">José Pellicer y Tovar</author>
+        <editor>Adrián Izquierdo</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Mercedes Blanco</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jaime Galbarro</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>François-Xavier Guerry</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Aude Plagnard</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>BNE, ms. 3918 (vol. 7), ff. 1r-11v.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>L’édition comporte trois niveaux de notes.
+        note[@place="bottom"] : notes d’éditeur (décimal par défaut)
+        note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain)
+      </p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1630"/>
+      </creation>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Texto de la edición</head>
+        <div>
+          <head>Vida de don <name type="polemista">Luis de Góngora</name><note place="bottom">En el 
+              impreso de las <hi xml:lang="en" rend="i">Lecciones solemnes</hi>, f. †††4r, se
+              anuncia la biografía de Góngora con el título: «<ref
+                target="http://www.cervantesvirtual.com/obra-visor/lecciones-solemnes-a-las-obras-de-don-luis-de-gongora-y-argote--0/html/01d1607a-82b2-11df-acc7-002185ce6064_56.html"
+                >Vida y escritos de don Luis de Góngora. Defensa de su estilo por don José Pellicer
+                de Salas y Tovar</ref>». Cfr. el apartado «Título» de la introducción. La referencia
+              al autor, «por don Joseph Pellicer de Salas», aparece tachada en el manuscrito.</note>
+            por <name type="polemista">José Pellicer de Salas</name><note place="bottom">Hablese de los quatro estilos</note><note place="bottom"><p>Esta nota marginal aparece a la derecha del título y no es de
+                Pellicer. Véase el informe paleográfico.</p><p>Con los cuatro estilos el autor de
+                esta nota se refiere, sin duda, a la teoría de los estilos o <hi rend="i">genera dicendi</hi>. En los textos poéticos y retóricos más divulgados
+                (los de Cicerón, Aristóteles, Horacio, Quintiliano Virgilio y la <hi rend="i">Retórica a Herenio</hi>) se distinguen tres estilos: elevado, medio y
+                humilde que debe manejar el orador según los fines y circunstancias de su discurso.
+                Al hablar de los cuatro estilos, la nota se está refiriendo al tratado <hi rend="i">Sobre el estilo</hi> del rétor helenístico conocido como
+                Demetrio. Su doctrina, muy conocida a partir de la edición y traducción latina de
+                este tratado en la primera mitad del siglo XVI, distingue cuatro estilos: elevado,
+                elegante, sencillo o llano, fuerte o vigoroso. Menciones de Demetrio y de su
+                doctrina estilística son muy frecuentes en toda la literatura polémica y crítica
+                acerca de Góngora.</p></note></head>
+          <p>Para decir de tan excelente varón y referir sus alabanzas, quisiera exceder en
+            elocuencia a todos los oradores griegos y romanos y hallarme en altura tanta que pudiera
+            mi pluma eternizar la memoria de un ingenio que vivió para decoro, reputación y honor de
+            su patria. Porque<note place="bottom">Dos palabras están tachadas en el manuscrito, la
+              segunda de ellas «para» y en posición de interlineado se encuentra muy legible:
+              «porque». </note> si alguna vez eché menos la gravedad del estilo y la alteza de la
+            locución es ahora, para cifrar en breves razones y en sucinta relación cuanto he podido
+            alcanzar de don <name type="polemista">Luis de Góngora</name><note place="bottom">Todos
+              los nombres propios aparecen subrayados en el manuscrito. Véanse el informe
+              paleográfico y el apartado «Establecimiento del texto». Estas primeras líneas anuncian
+              el propósito de la obra y recogen temas tendentes a realizar los fines del exordio:
+              captar la atención, la docilidad y benevolencia de los receptores del discurso,
+              señalar la incertidumbre acerca de la capacidad del biógrafo para acometer la empresa,
+              la escritura como aval de la fama y la necesaria brevedad que requiere el encomio.
+              Cfr. «Estructura». Para los <hi xml:lang="en" rend="i">topoi</hi> de la modestia y de
+              lo indecible, donde el autor se limita a decir muy poco de lo mucho que podría
+              referir, véase Curtius (1990: 83-85, 159-162).</note>. Nació jueves once de julio, año
+            de mil quinientos y sesenta y uno, en Córdoba, ciudad populosa, antigua y príncipe<note
+              place="bottom"><hi xml:lang="en" rend="i">príncipe</hi>: latinismo empleado con el
+              sentido de ‘primera y más excelente, superior o aventajada’ (<hi xml:lang="en"
+                rend="i">Aut.</hi>).</note> de la Andalucía, cuyo clima felicísimo, con generoso
+            tesón y porfía noble, en todos siglos está enseñado a llevar<note place="bottom"><hi
+                xml:lang="en" rend="i">llevar</hi>: ‘producir’ (<hi xml:lang="en" rend="i"
+              >Cov.</hi>). En este caso el clima está ‘adiestrado’ para producir los mejores
+              ingenios.</note> grandes espíritus y los mayores del orbe todo<note place="bottom"
+              >Respecto a esta fecha, que es la que se suele dar, aclara Amelia de Paz (2012: 32)
+              que lo único que se puede asegurar es que Góngora fue bautizado el 12 de julio de 1561
+              en la parroquia del Sagrario de Córdoba, por lo que se ha venido suponiendo que vino
+              al mundo el día anterior, es decir, el 11 de julio. </note>. Nacieron <name
+              type="authority">Séneca</name>, <name type="authority">Lucano</name> primero; <name
+              type="authority">Juan de Mena</name><note place="bottom">Juan de Mena (1411-1456),
+              también cordobés, es autor del vasto poema alegórico-narrativo <hi xml:lang="en"
+                rend="i">Laberinto de Fortuna (Las Trescientas</hi>) en el que se propone, mediante
+              el uso de italianismos, hipérbatos, cultismos, alusiones históricas y mitológicas,
+              revolucionar la lengua española; no en vano se le compara con Góngora. Sospecha Ponce
+              Cárdenas (2010a: 193) que en el verso «Donde espumoso el mar siciliano/ el pie argenta
+              de plata al Lilibeo» Góngora quizá estuviera haciendo un sutil homenaje al autor de
+                <hi xml:lang="en" rend="i">Las Trescientas</hi>. Para la alteza de estilo, dice Díaz
+              de Rivas en sus <hi xml:lang="en" rend="i">Discursos</hi> (1616_discursos-diaz): «Y
+              nuestro Juan de Mena, excelente en el ingenio, en la doctrina y en la alteza de
+              espíritu poético, por exornar en aquellos rudos siglos nuestra lengua y por realzar
+              sus versos y hacerlos más graves y admirables, usó innumerables voces latinas…». En la
+                <hi xml:lang="en" rend="i">Carta de respuesta de Lope</hi>, el anónimo «señor de
+              estos reinos» cita a Mena en varias ocasiones, en particular <hi xml:lang="en"
+                rend="i">La Coronación del marqués de Santillana</hi> (1624_respuesta-lope). Para la
+              recepción de Mena en el XVI y XVII, véase Matas Caballero (1993). </note> después; don
+              <name type="polemista">Luis</name> ahora, en quien apuró<note place="bottom"><hi
+                xml:lang="en" rend="i">apurar</hi>: ‘purificar, acrisolar, acendrar’ (<hi
+                xml:lang="en" rend="i">Aut.</hi>). La ciudad de Córdoba acrisoló lo mejor en
+              Góngora. </note> lo más generoso y acendrado de su constelación estudiosa, tanto
+              que<note place="bottom">La expresión «tanto que» se encuentra en posición interlineal,
+              superpuesto a «pues», que no está tachado. Parece que «tanto que» es un alternativa a
+              «pues», y que no cabe considerarlos complementarios. Por esta razón nos decantamos por
+              la lectura «tanto que», suponiendo que Pellicer pudo olvidar tachar «pues».</note>
+            para ser famoso este pueblo dichoso, todos le sobran, solo este hijo le bastaba, que ni
+            la amenidad de su sitio, la fertilidad de sus campos, la excelencia de sus edificios y
+            la nobleza de sus ciudadanos la darán tanto renombre como él, pues de la grandeza de
+            Esmirna, ciudad principal, delicia de la Asia y patria de <name type="authority"
+              >Homero</name>, solo el nombre de Homero sabemos<note place="bottom">Conforme a los
+              patrones retóricos de la <hi xml:lang="en" rend="i">descriptio personae</hi>,
+              amplifica Pellicer la <hi xml:lang="en" rend="i">laus urbis natalis</hi>. Cfr.
+              «Estructura». Este elogio de Pellicer al ilustre hijo de Córdoba se repite en una de
+              sus «Diatribes» de <hi xml:lang="en" rend="i">El Fénix y su historia natural</hi>,
+              también escrito por estos años: «Hable a los siglos Córdoba elocuente/ por sus Sénecas
+              no, ni por Lucano,/ como pretende el gran Bilbilitano,/ sino solo por Góngora
+              eminente» (<hi xml:lang="en" rend="i">El Fénix y su historia natural</hi>, Madrid:
+              Imprenta del Reino, 1630, «diatribe VI», p. 66-67. El tema vuelve a aparecer en otro
+              texto de la polémica, el <hi xml:lang="en" rend="i">Opúsculo contra el Antídoto y en
+                favor de don Luis de Góngora por un curioso</hi> (1624_opusculo-curioso), en el que
+              desconocido autor compara a los nacidos en Sevilla y en Córdoba, dándole la palma a
+              esta última, «Madre de poetas, porque el clima del cielo lo lleva de suelo. Y así ha
+              producido tantos, y tan buenos en todas las edades…». Gracián, años más tarde, dirá de
+              él en el Discurso LXI de su <hi xml:lang="en" rend="i">Agudeza y arte de ingenio</hi>:
+              «El benjamín de Córdoba, don Luis de Góngora, es hasta hoy última corona de su patria»
+              (2001: 785).</note>.</p>
+          <p>Fue su padre don Francisco de Argote (hijo segundo de la casa que hoy posee don Diego
+            Leonardo de Argote<note place="bottom">A este familiar suyo se refiere Góngora varias
+              veces en sus cartas al administrador de sus bienes en Córdoba, Cristóbal de Heredia
+              (Góngora 2000: II, 423, 430 y 447).</note>, del hábito de Santiago)<note
+              place="bottom">[NDEC] Lo que añadimos entre paréntesis aparece en el margen del
+              manuscrito, de mano de Pellicer, y vinculado al nombre del padre del poeta mediante un
+              asterisco. Deducimos de ello que, al pasar a limpio el texto, el autor habría incluido
+              esta información. </note>, corregidor de muchas ciudades de España y de esta villa de
+            Madrid, corte de reyes, madre de santos, de pontífices, de monarcas y de ingenios<note
+              place="bottom">Los pontífices san Melquíades y san Dámaso eran oriundos de Madrid,
+              como también lo era san Isidro Labrador, beatificado en 1619 y canonizado en
+              1622.</note>. Sus antecesores, según acuerdan las historias, fueron de aquellos
+            nobilísimos conquistadores de Córdoba con el rey Fernando el Santo, de cuyo valor dura
+            hoy la tradición en la torre que llaman de Los Argotes<note place="bottom">Existió en el
+              recinto amurallado de Córdoba una torre llamada «Torre de los Argotes». El dato lo
+              ofrece Pedro Díaz de Rivas<name type="polemista"> </name>en <hi xml:lang="en" rend="i"
+                >De las Antigüedades y excelencias de Córdoba</hi> (Córdoba: Salvador de Cea Tesa,
+              1625, lib. I, discurso I, p. 10) en relación con la conquista de la ciudad: «Y si bien
+              miramos, desde la Puerta de Martos hasta el Rastro Viejo, que es donde comienza la
+              Villa, ni hubo torres ni hay señal de ellas: porque por aquí el río servía de defensa.
+              Solo permanece entre la iglesia de San Nicolás de la Axerquía y el río una torrecilla
+              pequeña, que no era tanto para defenderla cuanto para servir de atalaya y centinela en
+              la guarda del río: la cual justamente el ilustre linaje de los Argotes la intitula con
+              su nombre, por haber sido sus mayores de los principales ganadores de esta ciudad, que
+              por la parte de la Axerquía la comenzaron a conquistar». Según Artigas, hay en
+              Asturias otra torre con ese nombre. Discrepan los cronistas de dónde provenían los
+              Argotes ―Andrés de Morales dice que de Navarra― (Artigas 1925: 6-9). Gonzalo Argote de
+              Molina, en 1588, relata que las ramas de los Argote y los Góngora de Andalucía habían
+              peleado contra los moros en Las Navas de Tolosa (Penny 1926: 13-14). Las
+              investigaciones recientes del historiador de la nobleza y los conversos en la España
+              áurea, Enrique Soria Mesa (2015), ofrecen nuevos datos sobre el «claro origen hebraico
+              del poeta», descendiente de judeoconversos por varias líneas y entroncado con
+              cristianos nuevos del s. XIV al XV.</note>. Tuvo por madre a doña Leonor de Góngora,
+            igual en la sangre a su marido, y por su virtud y dotes naturales, dignísima de <pb
+              n="f. 1v"/> tanto hijo<note place="bottom">En este periodo se podía utilizar con
+              relativa facilidad cualquier apellido familiar; se solía escoger el que más nobleza y
+              antigüedad transmitiera, como era el caso del apellido Góngora. Es posible que Góngora
+              llevara el apellido materno en primer lugar porque estaba destinado a heredar de su
+              tío, Francisco de Góngora y Argote, la ración eclesiástica de la catedral de Córdoba.
+              La madre de Góngora era pariente de Francisco de Eraso, secretario de Carlos V y
+              Felipe II.</note>. De modo que por ambos lados fue don <name type="polemista">Luis
+            </name>de familia ilustre y de lo más noble de su ciudad<note place="bottom">Los padres
+              de Góngora pertenecían a la pequeña nobleza cordobesa. Don Francisco de Argote, que
+              hizo una notable carrera como jurista, realizó misiones administrativas en Jaén,
+              Andújar y Madrid, donde fue corregidor. Más tarde, en su Córdoba natal, fungió como
+              juez de bienes confiscados por la Inquisición y veinticuatro. Constituyó una rica
+              biblioteca frecuentada por importantes hombres de letras de su tiempo; Pedro Díaz de
+              Rivas, según cuenta Vaca de Alfaro en su <hi xml:lang="en" rend="i">Varones ilustres
+                en letras, naturales de Córdoba…</hi> relata haber consultado un libro perteneciente
+              a la gran biblioteca de Francisco de Argote. Era amigo, además, de Ambrosio de Morales
+              y mantuvo correspondencia en latín con el cronista de Carlos V, Juan Ginés de
+              Sepúlveda. El primero de estos célebres humanistas elogia su linaje, estudios de
+              derecho y buenas letras en su <hi xml:lang="en" rend="i">Crónica general</hi> (Artigas
+              1925: 10-11). Antonio Martín Lázaro (1927: 363-364) ha determinado que don Francisco
+              fue corregidor en Madrid entre 1561 y 1562. A pesar de la brevedad de esta etapa
+              madrileña, no extraña que destaque Pellicer su labor en la Corte. Después de haber
+              repasado el linaje de Góngora (<hi xml:lang="en" rend="i">ex tempore quod ante eos
+                fuit</hi>), el texto de Pellicer se concentrará en su vida (<hi xml:lang="en"
+                rend="i">ex tempore quo ipsi vixerunt</hi>). </note>, en que se verifica que no hace
+            estorbo para la eminencia la nobleza, antes la realza y la da lucimiento mayor.</p>
+          <p>Pasó en casa de sus padres los años de la niñez, con la educación decorosa que puede
+            presumirse de quien tiene pundonor<note place="bottom"><hi xml:lang="en" rend="i"
+                >pundonor</hi>: ‘estado en que consiste la honra o crédito de alguno. Proviene de
+              punto y honor’ (<hi xml:lang="en" rend="i">Aut.</hi>).</note> y comodidad,
+              descogiendo<note place="bottom"><hi xml:lang="en" rend="i">descoger</hi>: cultismo,
+              participio pasado de <hi xml:lang="en" rend="i">descogere</hi>: ‘desplegar, extender o
+              soltar lo que está plegado, arrollado o recogido’ (<hi xml:lang="en" rend="i"
+                >Aut.</hi>), con el sentido de ‘revelar’ o ‘manifestar’.</note> entre la medianía de
+            los bienes de la fortuna la excelencia de los de naturaleza que poseía. Desatendió
+            siempre, según oigo decir a sus contemporáneos, las travesuras de rapaz, tanto que
+            admiraba ver que empezase a vivir a la luz del seso mucho más temprano de lo que podía
+            esperarse de pocos<note type="app" rend="I"> La palabra «pocos» aparece en el
+              interlineado sobre una palabra tachada. La letra inicial de esa palabra podría ser
+              tanto una «p» como una «q» y en la penúltima se aprecia claramente una cedilla,
+              seguida de lo que probablemente era una «e». Esto nos permite aportar la hipótesis
+              adicional de que lo que se escribió originalmente en el manuscrito fue
+              «qu[in]çe».</note> años<note place="bottom">Cuenta Enrique Vaca de Alfaro que el
+              historiador Ambrosio de Morales, enviado a Córdoba, quedó sorprendido de las agudezas
+              del joven y exclamó: «¡Qué ingenio tienes, muchacho!» (Artigas 1925: 26). Pedro Liñán,
+              condiscípulo de Góngora en Salamanca, le contaba a Lope los éxitos literarios de su
+              compañero, como relata el Fénix, sin ofrecer detalles precisos, en su <hi
+                xml:lang="en" rend="i">Carta de respuesta</hi> (1624_respuesta-lope). En 1581 Luis
+              Gómez de Tapia publicó una traducción de <hi xml:lang="en" rend="i">Os Lusiadas</hi>
+              con una «Canción» de Góngora en los preliminares, junto con una epístola de El
+              Brocense. Cervantes, en su «Canto a Calíope», escrito en 1583, publicado en <hi
+                xml:lang="en" rend="i">La Galatea</hi> (1585), ya elogia a Góngora: «En Don Luis de
+              Góngora os ofrezco...». Y Juan Rufo publicó un soneto de Góngora en los preliminares
+              de <hi xml:lang="en" rend="i">La Austriada</hi> (1584), junto con poemas de Lupercio
+              Leonardo de Argensola y Cervantes. Todo ello concuerda con esos testimonios orales que
+              le hacen decir a Pellicer «según oigo decir a sus contemporáneos», que eran mucho más
+              viejos que el biógrafo. </note>.</p>
+          <p>No todas veces se adelantan las esperanzas, muchas tardan, si bien es necesario para
+              adelante<note place="bottom"><hi xml:lang="en" rend="i">para adelante</hi>: tiempo que
+              comienza en el momento en que se habla, por lo general con otra partícula, como en
+              este caso (<hi xml:lang="en" rend="i">Aut.</hi>), (<hi xml:lang="en" rend="i"
+                >Cuer.</hi>).</note>, pues va haciendo lugar<note place="bottom"><hi xml:lang="en"
+                rend="i">hacer lugar</hi>: ‘despejar y desembarazar algún sitio, para dar paso o
+              asiento a otro’ (<hi xml:lang="en" rend="i">Aut.</hi>). Aunque no todos los talentos
+              dan señales precoces de lo que serán (hay esperanzas que tardan), los muy grandes
+              ingenios, por su precocidad, ya se adelantan a los demás y eso tienen ganado para sus
+              realizaciones futuras.</note> para edad más crecida el que en la temprana da muestras
+            de que ha de ser grande. Muchas premisas de lo que fue después se dejaron sospechar
+            entonces, que por no malograrlas, sus padres le enviaron a que cultivase su natural<note
+              place="bottom"><hi xml:lang="en" rend="i">natural</hi>: ‘genio, índole, inclinación de
+              una persona’ (<hi xml:lang="en" rend="i">Aut</hi>.). Enfatiza Pellicer, en relación
+              con la discutida polémica arte vs. naturaleza, que el natural de Góngora se
+              complementa con los estudios.</note> dulcísimo, aunque verde. Quince años cumplía
+            cuando comenzó a amanecer entre la doctrina<note place="bottom"><hi xml:lang="en"
+                rend="i">doctrina</hi>: ‘enseñanza’ (<hi xml:lang="en" rend="i">Cov.</hi>), es
+              decir, el conjunto de conocimientos inculcados a una persona que permite que se
+              manifieste su ingenio.</note>, el ingenio, en Salamanca, Atenas insigne de España<note
+              place="bottom">Historia de Salamanca, Gil González</note>
+            <note place="bottom">Se lee al margen esta nota por mano distinta de la de
+              Pellicer.</note>
+            <note place="bottom">Se refiere a Gil González Dávila (1570-1658), historiador de los
+              reinos de Castilla y de Indias y autor de la <hi xml:lang="en" rend="i">Historia de
+                las antigüedades de la ciudad de Salamanca</hi> (1606). Es más conocido por su
+              monumental <hi xml:lang="en" rend="i">Teatro de las Grandezas de la Villa de
+                Madrid, Corte de los Reyes Católicos de España</hi>, dedicado a Felipe IV (1623).
+              Góngora fue enviado a la facultad de Cánones de la Universidad de Salamanca, donde su
+              padre había cursado estudios de Derecho canónico entre 1541 y 1545. Asistió a la
+              universidad, como ha demostrado Ricardo Espinosa (1962), entre 1576 y 1581.<seg
+                rend="appleconvertedspace"> </seg></note>. Llevose el aplauso y los ojos de la
+            admiración y la envidia, haciendo a don<name type="polemista"> Luis</name> más bien
+            visto que a muchos, y más singular que a todos la nobleza, la gala, el lucimiento y el
+              ingenio<note place="bottom">El ingenio como cualidad espiritual y don natural aquí
+              sigue la definición de Quintiliano (Lausberg 1998: § 1152). En la concepción de la
+              obra de Góngora que tiene Pellicer, se entrelazarán, en esta vida, <hi xml:lang="en"
+                rend="i">ingenium</hi> y <hi xml:lang="en" rend="i">ars</hi>, en oposición a
+              opiniones como la de Jáuregui (2002: 4), para quien Góngora no podía ser «poeta
+              concertado» por «mengua de natural y falta de estudio y arte».</note> que,
+            desahogándose, empezó con el donaire<note place="bottom"><seg rend="appleconvertedspace"
+                  ><hi xml:lang="en" rend="i">donaire</hi></seg><seg rend="appleconvertedspace">:
+                ‘g</seg>racia y buen parecer en lo que se dice o hace’ (<hi xml:lang="en" rend="i"
+                >Cov.</hi>).</note>, por el despejo<note place="bottom"><hi xml:lang="en" rend="i"
+                >despejo</hi>: ‘desenfado, desembarazo, donaire y brío” (<hi xml:lang="en" rend="i"
+                >Aut.</hi>).</note>, pasándose de lo bizarro<note place="bottom"><hi xml:lang="en"
+                rend="i">bizarro</hi>: ‘lleno de noble espíritu, lozanía y valor” (<hi xml:lang="en"
+                rend="i">Aut.</hi>).</note> a mostrar, entre lo picante<note place="bottom"><hi
+                xml:lang="en" rend="i">picante</hi>: ‘acrimonia o mordacidad en el decir’ (<hi
+                xml:lang="en" rend="i">Aut.</hi>). Términos como ‘donaire’ y ‘picante’ abundan en la
+              polémica. Así, dice el autor del <hi xml:lang="en" rend="i">Escrutinio</hi> (Millé
+              1961:1223): «Habló en las veras con eminencia grande, aun en prosa. En las burlas
+              joviales fue agudísimo, picante (sin pasar de la raya) y envuelto en los donaires, con
+              que entretenía, de dejaba oír sentenciosamente».</note>, lo agudo<note place="bottom"
+                ><hi xml:lang="en" rend="i">lo agudo</hi>: Puede extenderse, además de a la agudeza
+              verbal, a la conceptual, es decir, a la capacidad de Góngora para enlazar conceptos
+              muy distantes.</note>. Conque<note place="bottom"><hi xml:lang="en" rend="i"
+                >conque</hi>: ‘de suerte que’, ‘de manera que’ (<hi xml:lang="en" rend="i"
+              >Aut</hi>.), con valor consecutivo.</note> fue adquiriendo el título de primero entre
+            catorce mil ingenios que se describían<note place="bottom"><hi xml:lang="en" rend="i"
+                >describir</hi>: Debe entenderse ‘inscribir’, siendo la palabra un latinismo
+              semántico que remite a uno de los sentidos de <hi xml:lang="en" rend="i"
+                >describere</hi>, ‘colocar en clases, poner en una lista’.</note> o matriculaban en
+            aquella escuela entonces. La mudanza de tierra, la destemplanza fría de aquel suelo, los
+            distraimientos a que se incitan los mozos llevados del apetito y del ejemplo le
+            negociaron una enfermedad rigurosa, de que se halló tres días en los umbrales de la
+            muerte, sin habla<note type="app" rend="I"> La expresión «sin habla» aparece en el
+              margen del manuscrito, de mano de Pellicer, y situada después de «muerte» mediante un
+              asterisco.</note>. La edad briosa y el regalo<note place="bottom"><hi xml:lang="en"
+                rend="i">regalo</hi>: ‘trato real (<hi xml:lang="en" rend="i">Cov.</hi>). ‘gusto o
+              complacencia que se recibe en cualquier línea’ (<hi xml:lang="en" rend="i">Aut</hi>.).
+              Se refiere aquí a los cuidados. El obispo lo hospedó y cuidó con atenciones, y es a
+              este ‘regalo’, durante su convalecencia, al que quizá aluda Pellicer. Se cree, aunque
+              se da como atribuido, que el soneto «Huésped sacro, señor, no peregrino», es de
+              agradecimiento al prelado. </note>, mediando la Providencia divina, le volvieron a la
+            salud antigua y, habiendo convalecido, celebró su mal en aquel sazonadísimo<note
+              place="bottom"><hi xml:lang="en" rend="i">sazonadísimo</hi>: El adjetivo «sazonado»
+              relacionado con sal o sales puede aplicarse a un ‘dicho agudo o palabra chistosa’ (<hi
+                xml:lang="en" rend="i">Aut.</hi>). Celebra aquí la gracia y elegancia del
+              soneto.</note> soneto que dice:</p>
+          <quote>
+          <lg>
+          <l>Muerto me lloró el Tormes en su orilla,</l>
+          <l>en un parasismal sueño profundo,</l>
+          </lg>
+          </quote>
+          <p><quote>en cuanto don Apolo el rubicundo</quote>
+          </p>
+          <p><quote>tres veces sus caballos desensilla</quote>
+          </p> <pb n="f. 2r"/>
+          <quote>Fue mi resurrección la maravilla</quote>
+          <p><quote>que de Lázaro fue la vuelta al mundo,</quote>
+          </p>
+          <p><quote>de suerte que ya soy otro segundo</quote>
+          </p>
+          <p><quote>Lazarillo de Tormes en Castilla.</quote>
+          </p>
+          <p/>
+          <p><quote>Entré a servir a un ciego, que me envía, </quote>
+          </p>
+          <p><quote>sin alma vivo, y en un dulce fuego,</quote>
+          </p>
+          <p><quote>que ceniza hará la vida mía. </quote>
+          </p>
+          <p/>
+          <p><quote>¡Oh qué dichoso que sería yo luego,</quote>
+          </p>
+          <p><quote>si a Lazarillo le imitase un día</quote>
+          </p>
+          <p><quote>en la venganza que tomó del ciego!<note place="bottom">Inserta Pellicer este
+              episodio de la enfermedad de Góngora en Salamanca pero yerra en fechas y
+              circunstancias. El soneto «Muerto me lloró el Tormes en su orilla<quote>»</quote>
+              (OC101) data de una década más tarde, de 1593, y fue compuesto a raíz de la visita de
+              Góngora a Salamanca con otro capitular para dar obediencia al obispo electo de Córdoba
+              don Jerónimo Manrique. Cfr. «Estructura». (Góngora 1981: 329-330).</note>
+          </quote>
+        </p>
+        <p/>
+        <p>Estos versos hacía en aquella edad, y así no me maravillo que no se diese del todo a la
+          atención de los derechos, que era la facultad a que le inclinaban sus padres, porque
+          obedeciendo a su natural, se dejó arrastrar dulcemente de lo sabroso de la erudición y de
+          lo festivo de las Musas, que en años tan tiernos parece que le criaron como a <name
+            type="authority">Hesíodo</name><note place="bottom">Alusión al inicio de la <hi
+              xml:lang="en" rend="i">Teogonía</hi> del poeta griego Hesíodo, donde este cuenta su
+            decisión de hacerse poeta cuando, tras invocarlas, las Musas se le aparecen mientras
+            estaba con su rebaño al pie del Helicón (Hesíodo 1910: 6, v. 22-28). Para el tema de las
+            «musas» en Góngora y otros poetas del XVII, véase Egido (2002). </note>, o que nació en
+          su regazo, como ya se decía de <name type="authority">Sidonio Apolinar</name><note
+            place="bottom">El poeta galorromano Gayo Solio Apolinar Sidonio (San Sidonio
+              Apolinar) (Lion, h. 430-487). Además de poeta panegírico, este imitador latino de
+              Claudiano y autor de epístolas en imitación de Plinio fue obispo de Clermont. No hemos
+              podido dar con esta alusión precisa, pero Pellicer parece conocer bien su obra y lo da
+              como fuente varias veces en las <hi xml:lang="en" rend="i">Lecciones solemnes.</hi> En
+                <hi xml:lang="en" rend="i">El Syncello de la Iglesia patriarcal de
+                Constantinopla</hi>, donde además de citar en la dedicatoria una epístola de Sidonio
+              ponderando a sus amigos, recurre a una epístola del obispo para explicar el término
+              ‘syncello’: «San Sidonio Apollinar Obispo de Averna, que murió año 482. Escribiendo a
+              San Fausto, obispo de Rhegio, dice…» (<hi xml:lang="en" rend="i">El Syncello de la
+                iglesia patriarcal de Constantinopla desgraviado</hi>, Valencia: Benito Macé, 1675,
+              p. 13). En los preliminares de su <hi xml:lang="en" rend="i">Aparato a la monarquía
+                antigua de las Españas</hi> (Valencia: Benito Macè, 1673), coloca un poema de San
+              Sidonio Apolinar: «Dedicatoria al Emperador Antemio», f.†1v). Para más datos de
+              Sidonio, véase López-Kindler (2006). Para su influencia en Góngora, véase Ponce
+              Cárdenas (2011: 57-103). Pellicer utilizó la edición realizada por Juan Savaro (<hi
+                xml:lang="en" rend="i">Caii Solii Apollinaris Sidonii Arvernorum episcopi Opera.
+                Ioannis Sararonis studio et diligentia castigatius recognita</hi>, Parisiis: in
+              officina Plantiniana, apud Hadrianum Perrier…, 1598), comentador latino citado en las
+                <hi xml:lang="en" rend="i">Lecciones solemnes</hi>, «Índice de los autores, que don
+              Joseph Pellicer cita en estas Lecciones Solemnes, divididos en setenta y cuatro
+              clases», f. ††4v. También recurre a fórmula semejante para describir el nacimiento de
+              Lope de Vega como poeta en la «Urna sacra…» (Pérez de Montalbán 2001: 206): «Tan
+              incomparable fue aquel prodigioso héroe científico, hijo al parecer del cerebro de
+              mayor Júpiter, o nacido en el regazo de las Musas, como de Hesíodo y de Sidonio se
+              cuenta»; o el de Juan Pérez de Montalbán: «Nació en el regazo de las Musas, como de
+              Hesíodo y Sidonio se cuenta» (Pellicer, <hi xml:lang="en" rend="i">Idea de la comedia
+                de Castilla, deducida de las obras cómicas del doctor Juan Pérez de Montalbán</hi>,
+              Madrid: Imprenta del Reino, 1649, f. 146r-152v).</note>. Con este dulce
+            divertimiento<note place="bottom"><hi xml:lang="en" rend="i">divertimento</hi>: En el
+            sentido de apartar, distraer de los estudios de derecho que cursaba en Salamanca.
+          </note> mal pudo granjear nombre de estudioso ni de estudiante, pero él trocaba gustoso
+          estos títulos al de poeta erudito, el mayor de los de su tiempo, con que comenzó a ser
+          mirado con admiración<note place="bottom">Defiende Pellicer lo admirable de la poesía de
+            Góngora. Como se sabe, algunos comentaristas de la <hi xml:lang="en" rend="i"
+              >Poética</hi> disertaron sobre lo admirable en poesía, un concepto que aparece en
+            Aristóteles junto con lo verosímil entre las condiciones de la satisfacción estética.
+            Robortello, por ejemplo, preguntándose cómo y por qué deleita la poesía, considera que
+            uno de los factores del deleite es la admiración que provoca lo inesperado y maravilloso
+            (Weinberg 1974: I, 397-398). Para Díaz de Rivas, Góngora usa los «tropos con tanto
+            donaire y elegancia, imitando a los antiguos, que siempre va causando nueva admiración»
+            (1616_discursos-diaz).</note> y aclamado con respeto. Supo con elegancia la lengua
+          latina, en que llegó a escribir versos muy de buen aire. Pero en la castellana se adelantó
+          tanto que, en su edad peligrosa, bebió<note place="bottom"><hi xml:lang="en" rend="i"
+              >bebió</hi>: Se usa «beber de/en alguien/ algo» con el sentido de ‘aprender su
+            doctrina, estilo y acciones’ (<hi xml:lang="en" rend="i">Aut</hi>.). Se pondera con ello
+            la asimilación de la cualidad de aquello de que nos nutrimos y, por extensión, de libros
+            o escritos de que nos impregnamos. En este caso Pellicer supone que Góngora, con el
+            comercio incesante de los poetas latinos, asimiló su agudeza, que unió con la tradición
+            jocosa española del equívoco.</note> con los equívocos españoles tanta sal<note
+            place="bottom"><hi xml:lang="en" rend="i">sal</hi>: término frecuente en la polémica:
+            Dice Díaz de Rivas (1616_discursos-diaz): «Así también se perfeccionó la latina con el
+            garbo, venustidad y sales de la griega…». En la «Aprobación» de Luis Tribaldos de Toledo
+            de la edición de Hoces, refiriéndose a la obra de Góngora: «…se pueden y deben estimar
+            por la cosa más aguda y delgada, y de mayor sal y donaire…» (Góngora 1633: ¶4r). </note>
+          a los números latinos, que se hallaron mal contentos muchos a quien su donaire llegó a
+          tocar, entre las burlas del gracejo, con las veras de la ofensa, pues no se detenía en los
+          defectos su estilo<note place="bottom"><hi xml:lang="en" rend="i">estilo</hi>: Para
+            Covarrubias el primer sentido de «estilo» era «la plumilla de hierro con que se rascuña»
+              (<hi xml:lang="en" rend="i">Cov.</hi>); en cambio, considera sentido derivado el que
+            le damos y que ya se concedía entonces con frecuencia de «la trabazón y la contextura de
+            la oración y el modo y frasis de decir, o escribir» (<hi xml:lang="en" rend="i"
+            >Cov</hi>.). La pluma de Góngora no se detenía en los defectos, o sea, no se limitaba a
+            señalarlos, sino que también manchaba la reputación de las personas.</note>, sino que se
+          deslizaba a manchar con los rasgos<note place="bottom"><hi xml:lang="en" rend="i"
+              >rasgos</hi>: ‘línea formada con garbo y aire para el adorno de las letras’ (<hi
+              xml:lang="en" rend="i">Aut.</hi>). Es decir, manchar con sus poemas satíricos o
+            burlescos. </note> las personas. Porque los años, el espíritu, el gusto, el desahogo mal
+          podían templar la pluma, o embotarla, cuando el ingenio se cortaba tan agudo, no solo
+          hacia las costumbres generales sino contra particulares defectos con más viveza que <name
+            type="authority">Marcial</name> pudiera<note place="bottom">Recurre aquí al poeta
+            romano-español de epigramas Marco Valerio Marcial del siglo I, que fue modelo esencial
+            del epigrama gongorino. Como Pellicer, otros polemistas atribuyen la vena satírica y
+            burlesca exclusivamente a los años juveniles de Góngora. A Pedro de Valencia
+            (1614_carta-valencia), sin embargo, le preocupaba la inclusión de motivos
+            satírico-burlescos en los poemas mayores. Al referirse al decoro, que según el crítico
+            rompe Góngora en las <hi xml:lang="en" rend="i">Soledades</hi>, no puede sufrir, le
+            dice, «que se afee en nada ni se abata con estas gracias o burlas, que pertenecían más a
+            las otras poesías que v. m. solía <hi xml:lang="en" rend="i">ludere</hi> en otra edad».
+            El epílogo de la «Respuesta a las cartas de Luis de Góngora y de Antonio de las
+            Infantas» (1614_respuesta-lopecirculo) le aconseja al poeta a que se conforme con la
+            fama que ha ganado con sus poemas burlescos, agrupándolo despectivamente con Merlín
+            Cocayo, seudónimo del poeta mantuano del siglo anterior, Teófilo Folengo, conocido por
+            su poema épico-cómico <hi xml:lang="en" rend="i">Baldus</hi>, escrito en lengua
+            macarrónica que mezcla el latín y el toscano. Jammes (1987: 99-117) se refiere a la
+            transformación de las chanzas juveniles en un estilo complejo como «promoción de lo
+            burlesco a categoría estética». Son muchos los testimonios de la época que comparan a
+            Góngora con Marcial de manera positiva. Ponce Cárdenas recoge ejemplos de Bartolomé
+            Jiménez Patón, Fernando Luis Vera y Mendoza, Rodrigo Caro, Paravicino, el padre Martín
+            de Roa, Alonso de Salas Barbadillo, Cristóbal Suárez de Figueroa, Francisco del Villar y
+            Diego de Saavedra Fajardo. Son de destacar, por ser anteriores a esta <hi xml:lang="en"
+              rend="i">vita</hi>, los del anticuario Rodrigo Caro, que en 1626 lo llama «Marcial
+            cordobés», o el de Salas de Barbadillo, que en 1627, en la dedicatoria <hi
+              rend="color_333333">de <hi rend="i">La estafeta del dios Momo</hi> a </hi>Paravicino,
+            «invocaba la doble protección de Marcial y Góngora, considerados ambos por igual
+            “ingenios príncipes”» (Ponce Cárdenas 2015:43). Véase también Blanco (2013) para más
+            sobre Góngora y el epigrama. </note>. Este ardor vehemente, mal advertido<note
+            place="bottom"><hi xml:lang="en" rend="i">mal advertido</hi>: No fue consciente de la
+            gravedad del mal y no tomó medidas o avisos para enmendarse.</note> en los primeros
+          años, le contristaba en los mayores después y le ponía tan en el disgusto, que casi se
+          rozaba en escrúpulo. Decía que el alivio que les quedaba a los lastimados de la sátira era
+          advertir que siempre los consonantes se visten de la mentira<note place="bottom">Por
+            «consonante» se refiere a rima (consonante) y es un lugar común que los poetas,
+            arrastrados por la búsqueda de la rima, se ven forzados a decir mentiras que pueden ser
+            opuestas, incluso, a lo que piensan. Véase, por ejemplo, los tercetos encadenados de
+            Francisco de Quevedo en el <hi xml:lang="en" rend="i">Sueño del infierno</hi> que
+            comienzan: «Dije que una señora era absoluta» (Quevedo 2003: 323).</note>, y para
+            ella<note place="bottom"><hi xml:lang="en" rend="i">ella</hi>: es decir, la sátira.
+          </note> nunca se anda en pesquisa de la verdad, sino del donaire que venga al propósito, o
+          cuanto más de parte de la malicia o de la <pb n="f. 2v"/> risa saliere, es más bien vista
+          y recibida mejor. Que no sé qué dulzura o atracción tiene el escuchar decir mal de otros,
+          que nos suenan mejor los vituperios que los elogios, las calumnias que las alabanzas.
+          Dolióse don <name type="polemista">Luis</name> cuando vio, enseñado de la cordura, el daño
+          que causó con sus burlas en la mocedad, y entre el desabrimiento que le hacía haber
+            deslucido<note place="bottom"><hi xml:lang="en" rend="i">deslucir</hi>: ‘desacreditar’
+              (<hi xml:lang="en" rend="i">Aut</hi>.). Se engarza con el ‘manchar’ de las líneas
+            anteriores.</note> a muchos, topó fácilmente con el escarmiento, que redujo a enmienda,
+          moderando en sus mayores años el natural que corrió precipitado en los menores. Templole
+          el arrepentimiento en la vejez aquellos verdores de la juventud, viviendo siempre con
+          miedo de la residencia<note place="bottom"><hi xml:lang="en" rend="i">residencia</hi>:
+            ‘cuenta que da el gobernador, corregidor o administrador’ (<hi xml:lang="en" rend="i"
+              >Cov</hi>.). El «juicio de residencia» era la instrucción llevada a cabo por un juez
+            cuando un funcionario dejaba el cargo para verificar que lo había ejercido honestamente
+            y sin perjudicar a nadie, de ahí la metáfora del temor al juicio divino a la hora de la
+            muerte. <hi rend="bg_ff0000">Res1d3</hi>
+          </note> que había de dar a Dios el día último de su vida, y lo que más le congojaba era no
+          poder restituir con el dolor lo que desdoró con la pluma. De esto se lamentaba pesaroso, y
+          así en su conversación y pláticas familiares, se hallaron honrados de su boca con grandes
+          alabanzas cuantos se dieron por ofendidos de sus musas, culpándose a sí propio y
+          desmintiendo sus versos mismos. Los que escribió amorosos fueron siempre de otra intención
+          y a asuntos que amigos y poderosos le encomendaban, pues desde el día que se ordenó de
+          sacerdote comunicó<note place="bottom"><hi xml:lang="en" rend="i">comunicar</hi>:
+            transmitir el ‘numen o ingenio poético’ (<hi xml:lang="en" rend="i">Aut</hi>.)</note>
+          con tanto recato y con atención tan modesta las musas que no imaginó en<note
+            place="bottom"><hi xml:lang="en" rend="i">imaginó en</hi>: Como puede verse en CORDE, la
+            construcción «imaginar en», sin ser muy frecuente, no es insólita y equivale a ‘pensar
+            en’ o ‘formarse la imagen de algo’. En este caso, según Pellicer, a Góngora no se le
+            pasó por la cabeza, o por la imaginación, nada que tuviera que ver con amores
+            lascivos.</note> cosa que tocase a indecencia; antes<note place="bottom"><hi
+              xml:lang="en" rend="i">antes</hi>: ‘mas, preposición adversativa’ (<hi xml:lang="en"
+              rend="i">Aut</hi>.), es decir, ‘por el contrario’, ‘al revés’. </note> trató con tanto
+          respeto su dignidad como quien cada día celebraba a Dios y le consagraba<note
+            place="bottom">En 1585 Góngora recibió órdenes menores para heredar la ración de su tío
+            Francisco. Mucho más tarde, al ser nombrado capellán del rey, en 1617, se ordenó
+            sacerdote y desde entonces tuvo que decir misa diariamente. </note>. Ejemplar que deben
+          seguir los sacerdotes todos, atendiendo a no hacer sagrado<note place="bottom"><hi
+              xml:lang="en" rend="i">sagrado</hi>: ‘lugar que sirve de recurso a los delincuentes’
+              (<hi xml:lang="en" rend="i">Aut</hi>.). Los sacerdotes no deben convertir su
+            ministerio en un refugio para protegerse de las consecuencias de sus desmanes.</note> de
+          su ministerio mismo, ni inmunidad del sacerdocio, para desde allí atreverse a acciones que
+          sin este privilegio soberano a que se debe tan profunda veneración, no osaran
+            intentarlas<note place="bottom">Todo esto no parece tener relación con la vida de
+            Góngora, por lo que se puede pensar que está censurando a un tercero, muy probablemente
+            a Lope de Vega, sacerdote al que consideraba indigno y que era entonces su enemigo. La
+            escritura de esta <hi xml:lang="en" rend="i">vita</hi> a finales de 1629 es muy cercana
+            en fechas a la composición de los prólogos de <hi xml:lang="en" rend="i">El Fénix y su
+              historia natural</hi> y de las <hi xml:lang="en" rend="i">Lecciones solemnes</hi>. Se
+            refiere aquí al odio enconado («durar en el odio»), que Lope había manifestado contra el
+            mismo Pellicer y a las sátiras que había impreso contra él. También en los preliminares
+            de las <hi xml:lang="en" rend="i">Lecciones solemnes</hi> Pellicer arremete contra Lope.
+            Remitimos a nuestra introducción para este enfrentamiento.</note>. Pues es inmodestia
+          grande y desatención irreligiosa durar en el odio y, a título<note place="bottom"><hi
+              xml:lang="en" rend="i">título</hi>: ‘pretexto o motivo’ (<hi xml:lang="en" rend="i"
+              >Aut</hi>.).</note> del carácter<note place="bottom"><hi xml:lang="en" rend="i">
+              carácter</hi>: ‘señal espiritual que imprimen en el alma los sacramentos del bautismo,
+            confirmación y orden, la cual es indeleble’ (<hi xml:lang="en" rend="i">Aut</hi>.).
+            Entiéndase la ordenación como sacerdote. </note> divinamente impreso, desmandarse a la
+          sátira el que debe cuidar de la edificación de los fieles. Por esto don <name
+            type="polemista">Luis</name>, llegándole con el nuevo oficio y con la consideración el
+          desengaño de que los asuntos festivos o libres ni decían<note place="bottom"><hi
+              xml:lang="en" rend="i">decían con</hi>: ‘correspondían’ (<hi xml:lang="en" rend="i"
+              >Aut</hi>.).</note> con el decoro de su profesión, ni el estilo vulgar se ajustaba al
+          estilo a que le llamaba su espíritu, bien hallado con su vocación<note place="bottom"
+            >Sintiéndose a gusto y contento con su «vocación», correspondiente con el espíritu antes
+            mencionado que lo llamaba a cosas altas y a un estilo sublime.</note> y juzgando que la
+            opinión<note place="bottom"><hi xml:lang="en" rend="i">opinión</hi>: ‘fama’ (<hi
+              xml:lang="en" rend="i">Aut</hi>.).</note> que tenía en todas naciones era por obras no
+          dignas por sí solas de genio tanto, por versos donde lo más esencial<note place="bottom"
+            >esencial <hi xml:lang="en" rend="i">em</hi>. : esencia PE7</note> venía a ser el
+          chiste, el juguete o el equívoco de que es tan capaz la lengua española, quiso añadirse
+          reputación más sólida y fama más elevada buscando un rumbo nuevo para la inmortalidad<note
+            place="bottom">El engrandecimiento del estilo y la elevación de la lengua española por
+            medio de un lenguaje adornado y figuras de estilo son dos de las ideas más frecuentes
+            entre los defensores de Góngora. Además de estar presente a lo largo de los <hi
+              xml:lang="en" rend="i">Discursos apologéticos</hi> de Díaz de Rivas
+            (1616_discursos-diaz), el propio Góngora, en la «Carta respuesta» (1615_carta-gongora)
+            es consciente de su aporte, que resume con estas palabras: «…si entendida para los
+            doctos, causarme ha autoridad, siendo lance forzoso venerar que nuestra lengua a costa
+            de mi trabajo haya llegado a la perfección y alteza de la latina…» (2000: II, 297).
+            Destaca Pellicer, además, tanto aquí como en los preliminares de las <hi xml:lang="en"
+              rend="i">Lecciones solemnes</hi>, la fama que tenía el poeta fuera de España y dice
+            que la primera razón que lo animó a escribir sus comentarios fue «ser don Luis de
+            Góngora el mayor poeta de su tiempo en nuestra nación, competidor sin duda, de los más
+            eminentes en Grecia, Roma, Italia y Francia…» (f. ¶¶¶2r).</note>. Hallole
+          felicísimamente, porque según él confesaba <pb n="f. 3r"/> públicamente, estudió la
+            cultura<note place="bottom">El término «cultura», como apunta Mercedes Blanco (2012c:
+            42), «no se refiere meramente a latinismos en el léxico o la sintaxis y a recónditas
+            alusiones eruditas. La novedad consiste en hallar los medios retóricos y las sutilezas
+            de lengua y pensamiento que permitan no echar de menos en el vulgar romance el vigor, la
+            armonía y la libertad de movimientos de los mejores clásicos, unos clásicos que a ojos
+            de los europeos de entonces abarcan también a los autores de la latinidad tardía,
+            profanos como Claudiano o cristianos como Ambrosio o Agustín». El término también
+            aparece en los <hi xml:lang="en" rend="i">Discursos apologéticos</hi> de Díaz de Rivas
+            (1616_discursos-diaz).</note> en aquel peregrino ingenio, padre de la elocuencia de
+          España, maestro sin duda de los maestros de ella, orador perfecto de nuestra edad, <name
+            type="authority">fray Hortensio Félix Paravicino</name> que, entonces como ahora, era
+          asombro y ornamento de su nación. Decía don <name type="polemista">Luis</name> que la
+          atención con que oía sus oraciones evangélicas o sermones en el púlpito, la frecuencia con
+          que asistía en<note place="bottom"><hi xml:lang="en" rend="i">asistir en</hi>: con la
+            preposición ‘en’ denota lugar donde alguien se halla y permanencia más larga que con ‘a’
+              (<hi xml:lang="en" rend="i">Cuer.).</hi> Entiéndase, la frecuencia con la que visitaba
+            la celda del religioso y el tiempo que permanecía en ella. Para la cuestión, cfr.
+            «Estructura».</note> su celda y la conformidad del ingenio, le despertaron a que
+          aspirase a la alteza del lenguaje y grandeza de su estilo<note place="bottom">Términos
+            como ‘grandeza’, ‘alteza’, ‘gala y majestad’, ‘elegancia’, ‘ardor’, ‘gravedad’ y
+            ‘bizarría’ en relación con el estilo de Góngora, son recurrentes en los textos de la
+            polémica. Por ejemplo, el abad de Rute alude a «la alteza que posee vuestra merced en
+            esta arte»; o, refiriéndose a la oscuridad de algunos poetas, aconseja que «no es bueno
+            imitarlos en esa parte, siendo viciosa, sino seguir antes la majestad con la venustidad
+            y perspicuidad virgiliana; demás de que (como he dicho) los más tomaron diferente
+            asunto, y en quien es la oscuridad menos culpable, naciendo de afectar grandeza…»
+            (1614_parecer). Jáuregui, criticando a los modernos, los acusa de que «pretenden
+            grandeza, y sólo consiguen fiereza, interpolada con ínfimas indignidades», o «facilitan
+            grandemente el estilo y fácilmente destruyen su altitud y grandeza». Como decíamos en
+            una nota anterior (Cfr. nota 68), el propio Góngora, en su «Carta respuesta», habla de
+            una lengua que, a costa de su trabajo, ha «llegado a la perfección y alteza de la
+            latina…» (1615_carta-gongora).</note>, y para esta verdad cotejaba los versos que
+          escribió los veinte años antes de su muerte, hallando diferencia bien considerable en los
+          antecedentes. Llenas ya de este furor sublime<note place="bottom">La idea de la poesía
+            como dictada por una locura o furor divino, transmitida por la latinidad tardía a la
+            Edad Media y el Renacimiento, es tópica en la literatura occidental. Díaz de Rivas, en
+            sus <hi xml:lang="en" rend="i">Discursos apologéticos</hi>, habla de «impulsos divinos y
+            de inspiración superior, como notó doctamente Platón, <hi xml:lang="en" rend="i">in
+              diálogo De furore poético</hi>, Cicerón, <hi xml:lang="en" rend="i">Pro Archia
+              poeta</hi>…» (1616_discursos-diaz). Aurora Egido (1986: 84), en relación con el furor
+            poético, aclara: «El asunto tiene además otras implicaciones, las que apoyan la poesía
+            velada o enigmática que se esconde en la oscuridad para luego ser desentrañada por la
+            labor de unos pocos». Para Egido, «[l]a defensa de la oscuridad tenía su base en el
+            concepto divino de la poesía. Que los misterios ocultos fueran sólo discernibles por
+            unos pocos es asunto que ayuda a plantear desde una perspectiva diferente el hermetismo
+            de la poesía gongorina, sin excluir las razones retóricas y de otro tipo con las que se
+            ha venido argumentando al respecto» (1986: 87). El furor está relacionado con el
+            concepto de ‘inspiración’, y con la idea del origen divino de la creación poética (que
+            connota vocablos como ‘dictar’, ‘inspirar’, ‘musas’, ‘ingenio’). A este complejo de
+            ideas se asocia la asimilación del poeta con el profeta que argüían los defensores de
+            Góngora, como explica Francisco Martínez de Portichuelo en su <hi xml:lang="en" rend="i"
+              >Apología a favor de don Luis de Góngora</hi> (1627_apologia), y estudia Joaquín Roses
+            Lozano (1994: 187-247). Para Guillermo Serés, la doctrina del furor tiene un sustrato
+            médico, como lo explica Huarte de San Juan en su <hi xml:lang="en" rend="i">Examen de
+              ingenios</hi> (1989: 91-92). Hablar del estilo sublime alude a la división de los
+            géneros y a la adscripción de los poemas mayores de Góngora al más elevado <hi
+              xml:lang="en" rend="i">sublime genus orationis</hi>, punto fundamental de la polémica.
+            En este sentido, para Díaz de Rivas (1616_discursos-diaz), el <hi xml:lang="en" rend="i"
+              >modus dicendi</hi> de las <hi xml:lang="en" rend="i">Soledades</hi> «se ha de reducir
+            al sublime…». O, añade, como el fin de la poesía es «enseñar deleitando», el deleite
+            nace «de las voces y frasis sublimes y peregrinas». Este eco platónico quizá esté
+            también relacionado con el pseudo-longiniano, como ha estudiado Mercedes Blanco. Para la
+            huella del <hi xml:lang="en" rend="i">De sublimitate</hi> atribuido a Longino, citado en
+            español por primera vez por Pedro de Valencia, véase Blanco (2012: 42-59).</note> las
+          ideas, capaces de ardor tanto, intentó el poema del <title>Polifemo</title>. Escribiole,
+          diole a luz con tanta admiración de los eruditos como envidia de los ignorantes<note
+            place="bottom">Desde las <hi xml:lang="en" rend="i">Advertencias</hi> de Almansa y
+            Mendoza (1614_advertencias), quien ejemplifica la incapacidad y el rencor de los
+            detractores del poeta con la fábula de la raposa, «que no pudiendo alcanzar las uvas,
+            las dejó por agraces», se hizo lugar común considerar ignorantes y envidiosos a los que
+            criticaban la oscuridad de los poemas. Góngora mismo, en su «Carta en respuesta»
+            (1615_carta-gongora), dice: «…que honra me ha causado hacerme obscuro a los ignorantes,
+            que esa es la distinción de los hombres doctos…». Para Pellicer, ‘malicia’ e
+            ‘ignorancia’ iban de la mano en la polémica: «…malicia, o la ignorancia (todo es uno)…»,
+            afirma en los preliminares de las <hi xml:lang="en" rend="i">Lecciones solemnes</hi>.
+            Cfr. «Cronología». Para la dimensión social de la envidia, véase Portús (2008:
+            135-149).</note>. Fue esta de las novedades que escandalizó a los que, contentos con la
+          llaneza del estilo en que se hacían lugar<note place="bottom"><hi xml:lang="en" rend="i"
+              >hacerse lugar</hi>: ‘adquirir con sus méritos y virtudes la común estimación y
+            aplauso’ (<hi xml:lang="en" rend="i">Aut.</hi>).</note>, llevaron mal que se introdujese
+          lo que no habían de saber imitar, a quien escribió don <name type="polemista">Luis</name>
+          así:</p>
+        <quote>
+        <lg>
+        <l>Pisó las calles de Madrid el fiero</l>
+        <l>monóculo galán de Galatea</l>
+        <l>y, cual suele tejer bárbara aldea</l>
+        <l>soga de gozques contra forasteros,</l>
+        </lg>
+        <lg>
+        <l>rígido un bachiller, otro severo,</l>
+        <l>crítica turba al fin, si no pigmea,</l>
+        <l>su diente afila y su veneno emplea</l>
+        <l>en el disforme cíclope cabrero.</l>
+        </lg>
+        <lg>
+        <l>A pesar del lucero de su frente,</l>
+        <l>le hacen obscuro, y él, en dos razones</l>
+        <l>que en dos truenos libró de su occidente,</l>
+        </lg>
+        <lg>
+        <l>«Si quieren — respondió — los pedantones</l>
+        <l> luz nueva en hemisferio diferente,</l>
+        <l>den su memorïal a mis calzones»<note place="bottom">[OC288]
+            (1615_Piso_Madrid_el_fiero). Véase Góngora (1981: 384-385). El soneto anterior, y los
+            dos siguientes, como apuntábamos, aparecen tachados en el manuscrito.</note>.</l>
+        </lg>
+          </quote>
+        <p>Escribió después la <title>Soledad primera</title> y, apenas la publicó, cuando padeció
+          semejante invasión que el <title>Polifemo</title>, acusándole de oscuro los que no le
+            entendían<note place="bottom">Desde su temprana divulgación, «la oscuridad constituía la
+            principal objeción al estilo de Góngora» y «tema sobre el que se sustentaban tanto las
+            impugnaciones como las apologías de las <hi xml:lang="en" rend="i">Soledades</hi>»
+            (Roses Lozano 1994: 187). La llamada oscuridad, concluye Díaz de Rivas en sus <hi
+              xml:lang="en" rend="i">Discursos apologéticos</hi> (1616_discursos-diaz) «no es falta
+            suya [de Góngora], sino sobra de virtudes poéticas y falta o de lección, o de ingenio, o
+            de atención en el lector».</note>. Respondió a los que no lo entendían con el desprecio,
+          con la risa, pero mejor en otro soneto, sin género de duda grande:</p>
+        <p><quote>Con poca luz y menos disciplina</quote>
+        </p>
+        <p><quote>al voto de un muy crítico y muy lego,</quote>
+        </p>
+        <p><quote>salió en Madrid la Soledad, y luego </quote>
+        </p>
+        <p><quote>a palacio con lento pie camina. <hi rend="color_00000a"><pb n="f. 3v"/></hi>
+          </quote>
+        </p>
+      </div>
+      <div type="standard">
+        <head>
+          <quote>La puerta <note place="bottom">La lección que elige Ciplijauskaité es «las
+              puertas», que es la de Chacón (Góngora 1981: 523-524).</note> le cerró de la
+            Latina</quote>
+        </head>
+        <p><quote>quien duerme en español y sueña en griego,</quote>
+        </p>
+        <p><quote>pedante gofo, que, de pasión ciego,</quote>
+        </p>
+        <p><quote>la suya reza, y calla la divina.</quote>
+        </p>
+        <p/>
+        <p><quote>Del viento es el pendón pompa ligera,</quote>
+        </p>
+        <p><quote>no hay paso concedido a mayor gloria,</quote>
+        </p>
+        <p><quote>ni voz que no la acusen de extranjera.</quote>
+        </p>
+        <p/>
+        <p><quote>Gastando, pues, en tanto la memoria,</quote>
+        </p>
+        <p><quote>ajena invidia, más que propia cera,</quote>
+        </p>
+        <p><quote>por el Carmen la lleva a la Victoria.<note place="bottom">[OC449]
+              (1615_con-poca-luz). Véase Góngora (1981: 523-525). En la edición de Vicuña lleva por
+              epígrafe «A los críticos de Madrid, que se opusieron a impugnar la primera <hi
+                xml:lang="en" rend="i">Soledad</hi>». También está tachado en el manuscrito.
+            </note></quote>
+        </p>
+        <p/>
+        <p>Del modo mismo se portaron sus émulos con la <title>Soledad segunda</title><hi
+            rend="color_0000ff note">,<note>Para los críticos, la abundancia y el recargamiento eran
+              la causa de la oscuridad de las <hi xml:lang="en" rend="i">Soledades</hi>. Para el
+              abad de Rute, por ejemplo, esta nace «de la demasía de tropos y esquemas, paréntesis,
+              aposiciones, contraposiciones, interposiciones, sinécdoques, metáforas y otras figuras
+              artificiosas y bizarras cada una de por sí, y a trechos y lugares convenientes, mas no
+              para amontonadas» (<hi xml:lang="en" rend="i">Parecer</hi>, f. 135r<hi
+                rend="color_161616">), (1614_parecer). Entre</hi> las objeciones que enumera, y a
+              las que responde, Díaz de Rivas<name type="polemista"> </name>en sus <hi xml:lang="en"
+                rend="i">Discursos apologéticos</hi> (1616_discursos-diaz), están el uso de «tropos
+              frecuentísimos» y «la dureza de algunas metáforas», pero añade que estos son el «mayor
+              ornamento de la oración», y lo que distingue al orador del poeta. Rute y Díaz de Rivas
+              defienden, con argumentos clásicos, las traslaciones o metáforas multiplicadas por
+              Góngora. También es opinión de Pedro de Valencia en su <hi xml:lang="en" rend="i"
+                >Carta</hi> (1614_carta-valencia): «Lo metafórico es generalmente muy bueno en
+              vuestra merced, algunas veces atrevido y que no guarda la analogía y correspondencia
+              que se requiere». En el <hi xml:lang="en" rend="i">Antídoto</hi>, Jáuregui esbozó las
+              ideas sobre la oscuridad poética en relación con la metáfora (y la perífrasis
+              metafórica) que desarrollará en el <hi xml:lang="en" rend="i">Discurso poético</hi>,
+              donde dice: «Hallaremos, pues, en los nuestros, no sólo traslaciones tales, sino con
+              aspereza doble, porque aun las mismas metáforas metaforizan» (1624_discurso-poetico).
+              En la <hi xml:lang="en" rend="i">Silva a las Soledades</hi> (1613_silva) Manuel Ponce
+              relaciona la oscuridad con el uso continuado de las metáforas («la oscuridad de la
+              oración nace de valerse el poeta de voces nuevas y no usadas y continuada frecuencia
+              de traslaciones»). Semejantes juicios aparecen también en la polémica epistolar entre
+              Cascales y Francisco del Villar, en la que el primero habla de «metáforas licenciosas»
+              (1634_cascales-villar). Para la metáfora en la polémica, véase Roses Lozano (1994:
+              179-186). </note></hi> reprehendiendo el estilo, las metáforas, las alusiones y demás
+          tropos de que usa con frecuencia don <name type="polemista">Luis</name>, que se desahogó
+          de las calumnias en otro soneto no menor y más grave:</p>
+        <quote>
+        <lg>
+          <l>Restituye a tu mudo horror divino,</l>
+          <l>amiga Soledad, el pie sagrado,</l>
+          <l>que captiva lisonja es, del poblado,</l>
+          <l>en breves hierros <note place="bottom">La lección que elige Ciplijauskaité es
+              «yerros breves», que es la del ms. Chacón y otros muchos testimonios (Góngora 1981:
+              464-465).</note> pájaro ladino.</l>
+        </lg>
+        <lg>
+          <l>Prudente cónsul, de las selvas dino,</l>
+          <l>de impedimentos busca, desatado,</l>
+          <l>tu claustro verde, en valle profanado</l>
+          <l>de fiera menos que de peregrino.</l>
+          </lg>
+        <lg>
+          <l>¡Cuán dulcemente de la encina vieja</l>
+          <l>tórtola viuda al mismo bosque incierto</l>
+          <l>apacibles desvíos aconseja!</l>
+        </lg>
+        <lg>
+          <l>Endeche el siempre amado esposo muerto</l>
+          <l>con voz doliente, que tan sorda oreja</l>
+          <l>tiene la soledad como el desierto<note place="bottom">[OC290] Véase
+            Góngora (1981: 464-466). López Bueno (2013a: 136) lo describe como un soneto melancólico
+            de «[r]reacción introvertida, dolorida y a la defensiva»</note>.</l>
+        </lg>
+        </quote>
+        <p>Dejemos ahora el discurrir sobre el estilo, pues luego diremos de él en su defensa<note
+            place="bottom">Con este soneto da fin a la digresión sobre la defensa del estilo y
+            continúa con la vida del poeta, no sin antes aclarar que habrá más al respecto, teniendo
+            en cuenta, obviamente, que esta <hi xml:lang="en" rend="i">vita</hi> fue concebida para
+            los preliminares de las <hi xml:lang="en" rend="i">Lecciones solemnes</hi>, toda una
+            defensa del estilo del cordobés. Había ya anunciado Pellicer su intención de defender el
+            estilo de Góngora en el prólogo de <hi xml:lang="en" rend="i">El Fénix y su historia
+              natural</hi> (f. ¶4r): «…yo diré en la defensa del estilo que sacaré al principio de
+            mis <hi xml:lang="en" rend="i">Lecciones solemnes</hi> muy presto». Cfr.
+            «Estructura».</note>, y pasemos a las medras que don <name type="polemista">Luis</name>
+          tuvo y a los aumentos que alcanzó, pues no obstante que fue el mayor hombre de España en
+          su tiempo, se halló tan atrasado en las comodidades, que parece que la Fortuna, en odio de
+          la Naturaleza, quería tenerle ajado<note place="bottom"><hi xml:lang="en" rend="i"
+              >ajado</hi>: ‘maltratado’ (<hi xml:lang="en" rend="i">Aut.</hi>). Recurre al tópico de
+            la Fortuna, que persigue a los favorecidos por la naturaleza y, en general, a los que
+            más merecían recibir sus dones.</note> en la necesidad <pb n="f. 4r"/> y hacerle que
+          gastase de la paciencia y del sufrimiento cuanto le faltaba de sus bienes, pues en su
+          patria, Córdoba, nunca pudo conseguir más valimiento con la dicha<note place="bottom"><hi
+              xml:lang="en" rend="i">dicha</hi>: Es un sinónimo de ‘fortuna’ y la frase indica que
+            el único favor (o ‘valimiento’) que consiguió Góngora de la Fortuna fue ridículo con
+            respecto a lo que merecía.</note> que ser racionero de su iglesia, estrecho puesto para
+          caballero tan calificado y tan lucido ingenio. No se desmandaba<note place="bottom"><hi
+              xml:lang="en" rend="i">desmandarse</hi>: ‘descomedirse, (<hi xml:lang="en" rend="i"
+              >Aut.</hi>). </note> en tanta apretura al despecho, pues una de las mayores
+          circunstancias que le constituían por varón singular fue la tolerancia con que padecía
+          verse desmedrado sin alterarse, desconfiando de merecer aun los puestos que tenía y
+          contentándose con ver que sus amigos se lastimasen de la cortedad de su suerte. Vino a la
+          Corte a instancia de grandes señores<note place="bottom">Que hubiese venido a la Corte a
+            instancias de «grandes señores» es opinión que se vuelve a repetir en el <hi
+              xml:lang="en" rend="i">Escrutinio</hi>. Véase Orozco (1973: 277-281) y Carreira (1998)
+            para detalles sobre la llegada de Góngora a Madrid y su relación con la Corte. Para
+            detalles de la vida del poeta en Madrid, Entrambasaguas (1975: 155-174). </note> que
+            afectaron<note place="bottom"><hi xml:lang="en" rend="i">afectar</hi>: ‘apetecer y
+            procurar alguna cosa con ansia y ahínco’ (<hi xml:lang="en" rend="i">Cov.</hi>). Indica
+            que los señores buscaban el trato con el poeta, pero más por lucimiento propio que por
+            verdadera estima. Góngora se traslada indefinidamente a la Corte en abril de
+            1617.</note> su comunicación pero no su utilidad, quedándose las finezas<note
+            place="bottom"><hi xml:lang="en" rend="i">finezas</hi>: muestras de amor y de estima.
+            Los grandes señores se limitaban en sus finezas a la familiaridad con Góngora, pero no
+            procuraban mejorar su fortuna.</note> en la familiaridad sola sin acertar a ser
+          aumentos. De esto se querella más de una vez en sus escritos<note place="bottom">Unos años
+            antes de instalarse en 1617, Góngora había manifestado su desprecio hacia la Corte en
+            los conocidos versos escritos de 1609 «Mal haya el que en señores idolatra / y en Madrid
+            desperdicia sus dineros» (OC202). </note>, pues estorbándole la parte más preciosa de
+          esta vida y la alhaja de más estimación, que es el tiempo, los poderosos que le asistían
+          se hacían afuera<note place="bottom"><hi xml:lang="en" rend="i">hacer afuera</hi>: Es
+            decir, los poderosos se desentendían de lo que necesitaba (<hi xml:lang="en" rend="i"
+              >Cuer.</hi>).</note> de todo cuanto era provecho suyo, y cierto que es la pensión<note
+            place="bottom"><hi xml:lang="en" rend="i">pensión</hi>: ‘metafóricamente se toma por el
+            trabajo, tarea, pena o cuidado como consecuencia de algo que se logra’ (<hi
+              xml:lang="en" rend="i">Aut.</hi>).</note> más penosa que tiene un entendido haber de
+          hacer servil el talento, el ingenio y la erudición a disposición de los príncipes, que los
+          manejan no más de para crédito o entretenimiento, sin cuidar del acrecentamiento de lo que
+          estiman. Nadie más bien visto que don <name type="polemista">Luis de Góngora</name>, más
+          bien admitido, más buscado de los mayores en calidad y en letras. Y con todo este
+            valimiento<note place="bottom"><hi xml:lang="en" rend="i">valimiento</hi>: ‘amparo,
+            favor, protección o defensa’ (<hi xml:lang="en" rend="i">Aut.</hi>). </note> todo cuanto
+          pudo conseguir en la monarquía pasada<note place="bottom"><hi xml:lang="en" rend="i"
+              >monarquía</hi>: ‘reinado’.</note>, con la inclinación que don Rodrigo Calderón<note
+            place="bottom">Rodrigo Calderón y Aranda (<ref
+              target="https://es.wikipedia.org/wiki/1576">1576</ref>-1621), I conde de la Oliva de
+            Plasencia, comendador de Ocaña y I marqués de Siete Iglesias fue el <ref
+              target="https://es.wikipedia.org/wiki/Valido">secretario</ref> y favorito del duque de
+            Lerma. Con la caída de este, fue despojado de todos sus títulos, cargos y colosal
+            fortuna. Acusado de cohecho, fraudes y malversaciones e hasta de un asesinato, murió en
+            el cadalso el 21 de octubre de 1621, para espanto y consternación de la multitud.
+            Góngora se arrimó al mecenazgo de Calderón hasta sus últimos días y expresó su horror
+            ante su caída y muerte en los sonetos «Al tronco descansaba de una encina», «En la
+            muerte de don Rodrigo de Calderón», «Al mismo», y «De las muertes de don Rodrigo
+            Calderón, del conde de Villamediana y conde de Lemos». Durante la prisión de don
+            Rodrigo, Góngora dio muestras de fidelidad a su benefactor en una carta de 22 de octubre
+            de 1619: «Doy gracias a Dios que lo conocí y traté en tiempo que no puede decir de él
+            sino lo que sería su mayor descargo» (Góngora 2000: 337). </note>, en lo más encumbrado
+          de su privanza, le tuvo, y con la gracia que halló en el duque de Lerma<note
+            place="bottom">Francisco de Sandoval y Rojas (1553-1625), marqués de Denia y a partir de
+            1599 duque de Lerma, fue el valido de Felipe III durante casi veinte años, con inmenso
+            poder y muy resueltos y peligrosos adversarios, entre ellos la reina Margarita de
+            Austria. Hacia la época en la que se instala Góngora en la Corte, la situación del
+            ministro estaba en declive. A raíz del proceso por corrupción de dos de sus cercanos
+            colaboradores, Pedro Franqueza y Alonso Ramírez de Prado, en 1618 Lerma busca refugio en
+            el capelo cardenalicio que le otorga el Papa y se retira a sus propiedades. Al llegar a
+            Madrid, con el favor de Lerma y Calderón, Góngora consigue la capellanía real. Para la
+            privanza de Lerma, véase Alvar Ezquerra (2010). Otorgada en diciembre de 1617, dicha
+            «capellanía de honor» venía acompañada de un exiguo honorario de 15000 maravedíes
+            anuales pero le permitía asistir a los oficios en la capilla real en dos bancos
+            reservados, frente a los grandes de España (Jammes 1987: 241).</note>, fue la merced de
+          capellán de honor de la Majestad Católica del señor rey Felipe tercero, el Piadoso. Y en
+            esta<note place="bottom"><hi xml:lang="en" rend="i">esta</hi>: entiéndase la monarquía,
+            la de Felipe IV.</note>, de la generosidad prudente del conde duque de Sanlúcar, el
+          favor de dos hábitos de Santiago para dos sobrinos suyos<note place="bottom">Góngora
+            consiguió dos hábitos militares para sus sobrinos, después de solicitarlos
+            incansablemente de Olivares. En carta de 8 de julio de 1625 dice así respecto al
+            segundo: «Ahora apretaré en lo del hábito, que lo tengo por seguro, a cuenta de lo que
+            me dijo ayer el señor conde de Olivares, yéndole a besar la mano por la situación y
+            pidiéndole licencia para importunarle en lo del hábito: ‘Tenga paciencia, que no peleo
+            en el Brasil’». Y riéndose, luego me volvió a decir: «Todo se hará bien lo más presto
+            que se pueda». Despidiéndome contento, dijo. «El Diablo harte de hábitos a estos de
+            Córdoba…» (Góngora 2000: II, 446). Se convirtió entonces el poeta en importuno
+            pretendiente de una pensión, que no llegó a obtener pero que tal vez hubiera conseguido
+            de haber vivido más años. El conde-duque de Olivares había mostrado interés por la
+            publicación de su obra, como lo atestigua el mismo Góngora (Jammes 1987: 286; y Artigas
+            1925: 188-189 y 193-194). En carta de 14 de octubre de 1625 a Cristóbal de Heredia, su
+            administrador cordobés, relata un encuentro con Olivares: «Ayer de mañana el pie en el
+            estribo me dijo [el conde-duque]: “Vuestra merced no quiere estampar”. Yo le respondí:
+            “La pensión puede abreviar el efecto”. Replicome: “Ya he dicho que corre por vuesa
+            merced desde 19 de febrero; en volviendo se tratará de todo, no tenga pena”. Con esto he
+            quedado suspenso, porque veo que quiere sin duda que el hábito sea satisfacción de la
+            dirección de mis borrones, y hállome impedido para la estampa, porque dos que quieren
+            parte en ella es más de lo que me está a mí bien, y así estoy como la picaza, que ni
+            vuela ni anda». (Góngora 2000: II, 448).</note>. Aunque, si no le acortara los pasos la
+          muerte, hallara en la incomparable benignidad de este príncipe un desquite grande de las
+          fortunas pasadas, por ser de su natural inclinado a favorecer los hombres de tantos
+          méritos. Vivió en esta Corte once años, adulado<note place="bottom"><hi xml:lang="en"
+              rend="i">adulado</hi>: ‘alabado inmoderadamente, aprobado lo que sin razón se ejecuta’
+              (<hi xml:lang="en" rend="i">Aut</hi>.).</note> de la esperanza dulce que tiene
+          atareados a los más pretendientes, muy oficioso<note place="bottom"><hi xml:lang="en"
+              rend="i">oficioso</hi>: ‘el que solicita agradar a uno’ (<hi xml:lang="en" rend="i"
+              >Aut</hi>.).</note> en las sumisiones, cortesías y demás ceremonias vanas que ha
+          inventado la necesidad y admitido <pb n="f. 4v"/> la elevación ambiciosa de los ministros
+          que, embarazados<note place="bottom"><hi xml:lang="en" rend="i">embarazar</hi>: ‘impedir,
+            detener, retardar, y en cierto modo suspender algo’ (<hi xml:lang="en" rend="i"
+              >Aut.</hi>). </note> en esta adoración, no encuentran con el despacho<note
+            place="bottom"><hi xml:lang="en" rend="i">despacho</hi>: ‘resolución y determinación’
+              (<hi xml:lang="en" rend="i">Aut.</hi>). </note>, pues en cada expediente<note
+            place="bottom"><hi xml:lang="en" rend="i">expediente</hi>: en su sentido latino, asunto
+            o negocio al que se da pronto despacho (<hi xml:lang="en" rend="i">Aut</hi>). No deja
+            Pellicer de señalar amargamente el lamentable juego a que se prestan los escritores y
+            artistas que pretenden favores por necesidad («sumisiones, cortesías y demás ceremonias
+            vanas») y los altivos ministros que se desentienden de ellos.</note> que se concluyen
+          pierden muchos feligreses que los idolatran.</p>
+        <p>Adoleció<note place="bottom"><hi xml:lang="en" rend="i">adolecer</hi>: ‘enfermar’ (<hi
+              xml:lang="en" rend="i">Aut.</hi>). </note> al fin muy de peligro a sazón que sus
+          amigos estaban ausentes, asistiendo al rey nuestro señor Felipe Cuarto, el Grande, que
+          Dios guarde, en la jornada que hizo a Aragón<note place="bottom">Para lograr el
+            asentimiento de los diferentes reinos a las medidas propuestas en la conocida «unión de
+            armas», Felipe IV se dirigió a Aragón con el fin de celebrar cortes en la primavera de
+            1626. Estuvo ausente de Madrid desde el 7 de enero hasta el 14 de mayo de 1626. Para más
+            detalles véase Elliott (1990: 282-317).</note>. Si bien por la solicitud de alguno que
+          lo supo ser<note place="bottom">Pese a la ausencia de los amigos, hubo alguno, entre los
+            que se quedaron en Madrid, que lo supo ser lo bastante como para avisar a la reina de la
+            enfermedad de Góngora.</note>, cuidó de su salud la Reina Nuestra Señora, que viva
+          felices años, enviándole médicos y regalos, dando ejemplar con su esclarecido, piadoso y
+          caritativo ánimo, en que estudien los monarcas el modo de acariciar a los beneméritos, que
+          son las joyas más preciosas de una república<note place="bottom">Se trata de Isabel de
+            Borbón, (1602-1644), hija de Enrique IV de Francia y María de Médicis, que casó con
+            Felipe IV en 1615. Góngora le dedica dos sonetos antes de su ascenso al trono: «Del rey
+            y reina, nuestros señores, en el Pardo, antes de reinar»; y el que comienza «Peinaba al
+            Sol Belisa sus cabellos». Que tuvo algún trato con la reina se deduce de una carta del
+            25 de noviembre de 1625, en la que el poeta cuenta que, al ir a felicitar a la reina por
+            su parto, se encontró con el conde-duque, que le dio muestras de afecto y de querer
+            ocuparse de sus asuntos (Góngora 2000: II, 451-452). </note>. Algo, aunque mal
+          convalecido, deseó retirarse a su natural<note place="bottom">En su epistolario expresa su
+            deseo de regresar, tras la obtención de algunos favores, a una vida más tranquila en
+            Córdoba; por ejemplo, en carta, del 9 de agosto de 1622, dice: «Hago saber a V. m. que
+            estoy deseando salir de las pesadumbres de este hábito para irme a descansar este
+            invierno a Córdoba y experimentar si me hace V. m. más merced prior de San Hipólito que
+            permutante de Sevilla o prestamero de Villapedroche». Y en la del 23 del mismo mes: «Mi
+            vuelta a Córdoba será, siendo Dios servido, en dando lugar el despacho deste hábito…»
+            (Góngora 2000: II, 426 y 428). </note>, que maltratado de la dolencia que se le atrevió
+          a la cabeza, en los intervalos o intercadencias del mal, conocía que para caminar jornada
+          que no vuelve a repetirse y al fin para morir, era necesario más sosiego que el de la
+          Corte, donde aun a morir no se acierta despacio<note place="bottom">El estado de Góngora
+            era, en efecto, bastante preocupante, lo que hace verosímil su deseo de ir a Córdoba
+            para morir. Enrique Vaca de Alfaro, en sus <hi xml:lang="en" rend="i">Varones ilustres
+              de Córdoba</hi> (1685_varones_gongora), atestigua cómo el poeta repitió dos preguntas
+            distintas dos veces cuando los contertulios estaban «hablando de otras cosas», lo que
+            indicaría pérdida de memoria (Artigas 1925: 195). Cfr. «Estructura». </note>. Quiso
+          desviarse de los tumultos y estorbos cortesanos, casi adivinando morir, como había temido,
+          en el año climatérico<note place="bottom">En medicina, es el séptimo o noveno de la edad
+            de una persona y sus múltiplos. Según la tradición clásica, el gran <hi xml:lang="en"
+              rend="i">annus climatericus</hi> por excelencia es el 63, múltiplo de ambos. Los
+            médicos antiguos lo consideraban peligroso. Góngora emplea el sintagma «climatérico
+            lustro» en un poema de 1623 que lleva por epígrafe «Infiere de los achaques de la vejez,
+            cercano al fin a que católico se alienta»: «En este occidental, en este, oh Licio,/
+            climatérico lustro de tu vida,/ todo mal afirmado pie es caída,/ toda fácil caída es
+            precipicio». Góngora, nacido en julio de 1561, contaba 63 años entre 1624 y 1625.
+            Salcedo Coronel (<hi xml:lang="en" rend="i">Segundo tomo de las obras de don Luis de
+              Góngora comentadas…</hi>, Madrid: Pedro Laso, 1644, p. 504) comenta este soneto y dice
+            sobre estos años: «Años climatéricos o, como quieren los latinos, scalares, se llamaron
+            los que constan del número septenario o novenario, multiplicados. […]. Son los
+            siguientes: 7, 14, 21, 28, 35, 42, 49, 56, 63. Este último término es peligrosísimo, y
+            del que habla nuestro poeta…». Asimismo, el anónimo comentarista al romance de Góngora
+            «Cloris, el más bello grano» explica extensamente la tradición. Véase Pérez Lasheras
+            (2011: 205).</note>, se trasladó a Córdoba para que le diese piadoso monumento el pueblo
+          mismo que le sirvió de cuna. No padeció el juicio, como se divulgó, aunque enfermó de la
+          cabeza, que en la memoria fue donde hizo presa el achaque, embargándole al alma aquella
+          potencia tan esencial para quien se mira cerca de desatarse de la cárcel penosa del cuerpo
+          y desamparar esta porción frágil de tierra<note place="bottom"><hi xml:lang="en" rend="i"
+              >potencia</hi>: ‘por antonomasia se llaman las tres facultades del alma, de conocer,
+            querer y acordarse: que son entendimiento, voluntad y memoria’ (<hi xml:lang="en"
+              rend="i">Aut</hi>.).</note>. Restituyósela<note place="bottom"><hi xml:lang="en"
+              rend="i">restituyósela</hi>: entiéndase la memoria, esencial para recordar los pecados
+            que deben confesarse antes de morir, de ahí que se destaque su importancia: «para quien
+            se mira cerca de desatarse de la cárcel penosa del cuerpo».</note> la soberana
+          Providencia cuando más la había menester, junto con el conocimiento de que se iba
+          faltando, para que no le cogiese desprevenido el golpe que esperaba<note place="bottom"
+            >Para la preeminencia del juicio o entendimiento sobre la memoria, véase la introducción
+            en el apartado «Estructura». Para enfrentarse a las postrimerías, era esencial poseer
+            todas sus facultades y así lo recalca Pellicer. Además, desde el punto de vista
+            jurídico, para hacer un testamento válido ante la ley había que estar en su sano juicio,
+            como rezaba la fórmula protocolaria que encabezaba los testamentos y que, entre otras
+            cosas, decía: «en mi sano juicio, memoria y entendimiento natural» (a veces se suprimía
+            lo de «memoria»). Recordemos, por ejemplo, cómo antes de otorgar últimas voluntades,
+            recibir los sacramentos y morir, Alonso Quijano dice: «Yo fui loco y ya soy cuerdo; fui
+            don Quijote de la Mancha y soy ahora, como he dicho, Alonso Quijano el Bueno» (Cervantes
+            2005: 1103).</note>. Y así, habiendo cumplido con las obligaciones de católico cristiano
+          y reconocido que iba a dar residencia<note place="bottom">Véase nota <hi rend="bg_ff0000"
+              >Res1d3</hi>.</note> al Juez Supremo de los más leves y más menudos pensamientos,
+            protestando<note place="bottom"><hi xml:lang="en" rend="i">protestando</hi>: ‘Protestar’
+            es ‘asegurar con ahínco y eficacia’ (<hi xml:lang="en" rend="i">Aut.</hi>), pero en este
+            contexto cobra el sentido más específico de una «protestación de fe», o sea, «el acto
+            que alguno hace públicamente para confesar la religión verdadera. Del latín: <hi
+              xml:lang="en" rend="i">Fidei protestatio</hi>» (<hi xml:lang="en" rend="i">Aut.</hi>).
+            Esta connotación teológica del término, por ejemplo, se refleja en el título de un auto
+            sacramental de Calderón de la Barca: <hi xml:lang="en" rend="i">La protestación de la
+              fe</hi>. </note> que moría en la obediencia de la Iglesia, nuestra madre, pidiendo y
+          recibiendo los sacramentos, rindió el espíritu a su Hacedor el segundo día de
+          Pentencostés, lunes, a veinticuatro de mayo de mil y seiscientos y veintisiete, habiendo
+          vivido sesenta y cinco años, diez meses y trece días; brevísimo curso de tiempo y corto
+            siglo<note place="bottom"><hi xml:lang="en" rend="i">siglo</hi>: ‘edad cumplida de un
+            hombre’ (<hi xml:lang="en" rend="i">Cov</hi>.). El ‘primer siglo’ se consideraba la vida
+            terrena; el ‘segundo siglo’ la eterna. </note> para varón <pb n="f. 5r"/> tan
+          grande.</p>
+        <p>Gran día fue este para la envidia de sus émulos y costoso para el cariño de sus
+            amigos<note place="bottom">Pellicer repite el mismo tópico al referirse a la muerte de
+            Paravicino en los preliminares de la <hi xml:lang="en" rend="i">Fama, exclamación,
+              túmulo y epitafio</hi>…: «Gran día para la envidia; doloroso para sus amigos;
+            lamentable para los neutrales» (Cerdan 1994: 97). </note>; aquellos se gozaron en su
+          muerte y estos se entristecieron, celebrándose a un tiempo exequias y regocijos.
+          Enterráronle en la santa iglesia de Córdoba, en la capilla de los Góngoras, sin poner
+          epitafio sobre su sepultura. Pero mucha inscripción es el silencio y, a quien sirve de
+          sepulcro todo el orbe, su mismo nombre es el más capaz epitafio<note place="bottom"><hi
+              xml:lang="en" rend="i">Topos</hi> panegírico de la alabanza universal («todos cantan
+            su alabanza»), repetido a lo largo del texto, y que sirve de énfasis de la idea básica
+            en la <hi xml:lang="en" rend="i">peroratio</hi>. Para este <hi xml:lang="en" rend="i"
+              >topos</hi>, véase Curtius (1990: 232-233). De hecho, un tópico panegírico bastante
+            difundido en la poesía renacentista y barroca es el del mundo como tumba y la propia
+            fama, y las propias hazañas o el propio nombre como sepultura o epitafio. Se encuentra
+            en la canción del peregrino de la <hi xml:lang="en" rend="i">Soledad Segunda</hi>
+            (OC264C. 161-164), en varias poesías de <hi xml:lang="en" rend="i">La musa Clío</hi> de
+            Francisco de Quevedo, como el soneto a Escipión: «Nadie llore mi ruina ni mi estrago; /
+            pues será a mi ceniza cuando muera, / epitafio Anibal, urna Cartago»; o en el más
+            conocido a Osuna: «Su tumba son de Flandres las campañas, / y su epitafio la sangrienta
+            Luna» (Quevedo 2005: 104 y 76). En sus anotaciones a la <hi xml:lang="en" rend="i"
+              >Soledad Segunda</hi>, a propósito de uno de los versos de la canción del peregrino
+            («urna suya el océano profundo»), Pedro Díaz de Rivas escribe: «Así, de los hombres
+            insignes que hacen cosas dignas de memoria se puede decir que su sepultura es el orbe,
+            pues viven en las memorias de todos». Pasa a ilustrar la idea con textos del historiador
+            veneciano Marco Antonio Coccio Sabellico, de Lucano, hablando del túmulo de Pompeyo (<hi
+              rend="i">Farsalia</hi>, VIII, 797-799); de Séneca (<hi rend="i">Hércules en Oeta</hi>,
+            1824-25), de Sannazaro (<hi rend="i">Eglogae piscatoriae</hi>, IV, 91). Véase
+            (1616­_soledad-segunda-diaz), en edición de Patrizia Festini y Melchora Romanos. La <hi
+              xml:lang="en" rend="i">peroratio</hi> o <hi xml:lang="en" rend="i">conclusio</hi>,
+            como era prescriptivo, buscaba, además de resumir los argumentos de la <hi xml:lang="en"
+              rend="i">narratio</hi> refrescando la memoria acerca de la causa que se defiende,
+            apelar a aspectos emotivos (Lausberg 1998: <seg rend="st">§ </seg>257, 262, 332).
+          </note>.</p>
+        <p>Fue don <name type="polemista">Luis</name> de proporcionada estatura, ni grande ni
+          pequeña. El rostro aguileño, la frente espaciosa, que tiraba a calvo, los ojos grandes, la
+          nariz corva y afilada, la color morena<note place="bottom">El sustantivo ‘color’ se podía
+            utilizar en el Siglo de Oro con ambos géneros.</note> algo, la barba decente<note
+            place="bottom"><hi xml:lang="en" rend="i">decente</hi>: ‘la conveniente’, la apropiada,
+            latinismo de <hi xml:lang="en" rend="i">decēns</hi> (<hi xml:lang="en" rend="i"
+              >Cov.</hi>).</note>, y en todo con señales de hombre insigne<note place="bottom">Sin
+            olvidar lo que puede tener de caricaturesco, Góngora nos dejó su retrato en el temprano
+            romance «Hanme dicho, hermanas», donde habla de su «nariz corva»: «...la nariz es
+            corva,/ tal, que bien podría/ servir de alquitara/ en una botica». Esta nariz era, según
+            los tratados de fisionomía, señal de ingenio. De ella también se burlarán sus enemigos
+            para tildarlo de cristiano nuevo. El retrato de Velázquez confirma esta descripción, que
+            también coincide con la que da el <hi xml:lang="en" rend="i">Escrutinio</hi> (Millé
+            1961: 1223): «Fue don Luis de buen cuerpo, alto, robusto, blanco y rojo, pelo negro […]
+            Ojos grandes, negros, vivísimos, corva la nariz, señal de hábil, como todo su rostro la
+            dio; adornó el talle, y el aire de sus movimientos, los hábitos clericales». Véase
+            Campos Sánchez-Bordona (2014) para una relación de los retratos de Góngora. Como
+            correspondía en este encomio, Pellicer soslaya todo lo que no redunda en virtud del
+            elogiado y nada menciona de los rumores sobre su posible ascendencia judaica. La mancha
+            sale a relucir al tramitar su tío Francisco el expediente de limpieza de sangre para la
+            ración que heredaría más tarde Góngora (Artigas 1925: 100 y ss.), y cuando, instalado en
+            la Corte, pide los hábitos para sus sobrinos. Para Jammes (1987: 21-23) el poeta tenía
+            esos rumores por calumnias. Véase Soria Mesa (2015) para más detalles sobre el origen
+            hebraico del poeta. </note>. El semblante era afable, cortés y apacible; su conversación
+            afable<note place="bottom"><hi xml:lang="en" rend="i">afable</hi>: es decir, de rostro
+            agradable. Más adelante, es la misma oración, empleará el mismo adjetivo
+            etimológicamente, refiriéndose al deleite en la conversación.</note>, suave y gustosa.
+          Su modestia fue, en gran manera, igual a su ingenio, que mezclada con la suavidad de sus
+          costumbres, con la integridad de su ánimo, la festividad<note place="bottom">Entre los
+            significados de «festivo» según <hi xml:lang="en" rend="i">Aut</hi>. tenemos que «tiene
+            gracia para dar gusto y placer» y «alegre, regocijado y gozoso». La festividad del trato
+            puede entenderse de ambos modos. </note> de su trato, le hacían amado y querido entre
+          los hombres de mayor opinión. Amaba los ingenios y se alegraba con ellos tanto, que
+          comunicándole yo algunas puerilidades mías, se las hacía repetir muchas veces diciendo que
+          le remozaban. Fue docilísimo<note place="bottom"><hi xml:lang="en" rend="i">dócil</hi>:
+            ‘el que tiene aptitud para ser enseñado y recibe con voluntad lo que se le dice’ (<hi
+              xml:lang="en" rend="i">Cov.</hi>). Como se sabe, antes de darlos a la opinión pública,
+            Góngora pidió su parecer sobre el <hi xml:lang="en" rend="i">Polifemo</hi> y las <hi
+              xml:lang="en" rend="i">Soledades</hi> a varios amigos, entre ellos a Pedro de
+            Valencia, don Francisco Fernández de Córdoba (abad de Rute) y a Tomás Tamayo de Vargas.
+            No obstante, los comentarios respecto a su «docilidad» son contradictorios. Por un lado,
+            el abad de Rute se lamenta de que no haya tenido en cuenta sus comentarios sobre la <hi
+              xml:lang="en" rend="i">Oda a la toma de Larache</hi> y el <hi xml:lang="en" rend="i"
+              >Polifemo</hi>
+            <hi rend="color_161616">(1614_parecer)</hi>, y Pedro de Valencia le reprocha resistirse
+            a escuchar las «advertencias de sus contemporáneos» (1614_carta-valencia). Otros
+            defensores tempranos de la obra del cordobés le reclaman, como hace Díaz de Rivas (según
+            cuenta en carta Francisco de Amaya), en relación con las <hi xml:lang="en" rend="i"
+              >Lecciones solemnes</hi>, «no acordarse de él, habiéndo favorecídose mucho de lo que
+            él ha escrito sobre el <hi xml:lang="en" rend="i">Polifemo</hi> y <hi xml:lang="en"
+              rend="i">Soledades</hi> de Don Luis» (Feijoo 1983:188). Por otro lado, el autor del
+              <hi xml:lang="en" rend="i">Escrutinio</hi>, de manera muy semejante a esta <hi
+              xml:lang="en" rend="i">vita</hi>, señala que Góngora decía ser «el mayor fiscal» de
+            sus obras. Añade, además el <hi xml:lang="en" rend="i">Escrutinio</hi>: «Daba orejas a
+            las advertencias o censuras, modesto y con gusto. Enmendaba, si había qué, sin
+            presumir…» (Millé 1961: 1223). Aunque exagere Pellicer con el uso del superlativo,
+            sabemos que Góngora sí escuchó algunas críticas y corrigió, por ejemplo, los pasajes que
+            habían sido censurados por Pedro de Valencia en su carta (1614_carta-valencia), como
+            demostró Dámaso Alonso (1955: 286-310).</note> y se reducía<note place="bottom"><hi
+              xml:lang="en" rend="i">reducirse</hi>: ‘persuadirse’ (<hi xml:lang="en" rend="i"
+              >Aut.</hi>).</note> con facilidad a enmendar lo que le censuraban. Jamás harbó<note
+            place="bottom"><hi xml:lang="en" rend="i">harbar</hi>: ‘hacer la cosa muy de prisa’ (<hi
+              xml:lang="en" rend="i">Cov.</hi>). El comentario de Andrés Cuesta <seg
+              rend="appleconvertedspace">(</seg>1630_censura) es elocuente: «[…] un hombre tan
+            cuidadoso en esto como don Luis, de quien se cuenta que se estaba en remirar un verso
+            muchos días, imitando a Virgilio, que como la loba a puro lamer da forma a sus hijos»
+            (en «Notas al Polifemo», citado por Artigas 1925: 224). Para Cuesta en la polémica,
+            véase Micó (1985).</note> soneto ni apresuró obra alguna: no contentándose con una y
+          otra lima<note place="bottom"><hi xml:lang="en" rend="i">lima</hi>: ‘corrección y enmienda
+            que se hace en la escritura’ (<hi xml:lang="en" rend="i">Cov</hi>.).</note>, hacía que
+          pasase por la censura rígida de sus amigos de quien tenía satisfacción. Era muy aficionado
+          a <name type="authority">Virgilio</name><note place="bottom">La referencia a Virgilio, el
+            gran poeta romano de la era del emperador Augusto, paradigma de la poesía heroica, autor
+            de la <hi xml:lang="en" rend="i">Eneida</hi>, las <hi xml:lang="en" rend="i"
+              >Geórgicas</hi> y las <hi xml:lang="en" rend="i">Églogas</hi>, es fundamental en la
+            polémica. Sus <hi xml:lang="en" rend="i">Églogas</hi> constituyen uno de los modelos de
+            las <hi xml:lang="en" rend="i">Soledades</hi>. Jáuregui, por ejemplo, como ha estudiado
+            José Manuel Rico, censura las <hi xml:lang="en" rend="i">Soledades</hi>, (que según él
+            pretendieron ser poema heroico), apoyándose en Virgilio, a quien considera la «antípoda»
+            de Góngora: «Su intento de Vm. aquí fue escribir versos de altísimo lenguaje,
+            grandílocos y heroicos. El que mejor hizo esto fue Virgilio Marón; pues cotejado su
+            estilo con el de Vm. es tan diferente y opuesto que cualquier español con dos maravedís
+            de gramática entenderá fácilmente los versos del poeta, y los de V.m., con ser en su
+            lengua vulgar, no los entenderá ni aún con dificultad» (Jáuregui 2002:19)
+            (1614_antidoto). El autor de la «Carta de un amigo de D. Luis de Góngora en que da su
+            parecer acerca de las Soledades…» (véase 16xx_carta-amigo, en la edición de Daria
+            Castaldo) recurre a Virgilio y a la <hi xml:lang="en" rend="i">Eneida</hi> para defender
+            la pertenencia del poema al género pastoril (Carreira 1998a: 242). Para Blecua, el
+            modelo que Góngora tenía en mente era el de las <hi xml:lang="en" rend="i"
+              >Geórgicas</hi> (1985:781), a cuyos cuatro libros hubieran correspondido las cuatro
+              <hi xml:lang="en" rend="i">Soledades</hi> proyectadas. Virgilio fue utilizado tanto
+            para defender como para criticar la obra de Góngora. Blecua señala que «los detractores
+            de Góngora se apoyaron, sobre todo, en la retórica tradicional quintilianista y
+            aristotélica –el Aristóteles defensor de la claridad y el término medio. Y Virgilio,
+            siempre presente, aunque su nombre pueda no aparecer, es el ejemplo práctico que
+            realizaba el paradigma teórico. Curiosamente, los defensores de Góngora, cuyo respeto
+            por Virgilio es idéntico al de sus detractores –aunque menos fanático–, acudieron
+            también a su autoridad…» (1985: 783). Véanse también Romanos (1982), la introducción de
+            Festini y Romanos a las anotaciones de la «Soledad segunda» de Díaz de Rivas
+            (1616_soledad-segunda-diaz) y, para un resumen, Blanco (2013: 27-34). Los pasajes que
+            anota Pellicer en las <hi xml:lang="en" rend="i">Lecciones solemnes</hi> con la obra de
+            Virgilio llegan casi al centenar. </note>, <name type="authority">Claudiano</name><note
+            place="bottom">Claudio Claudiano (h. 370–h.405d.C.), poeta alejandrino de época
+            imperial, en particular de la corte de los emperadores <ref
+              target="https://es.wikipedia.org/wiki/Imperio_Romano_de_Occidente">romano</ref>s
+            Honorio y Arcadio y del general y favorito Estilicón. Se distinguió en el género
+            cortesano del panegírico en verso. Fue uno de los poetas favoritos de Góngora, quien lo
+            imita en numerosos lugares de las <hi xml:lang="en" rend="i">Soledades</hi> y en el <hi
+              xml:lang="en" rend="i">Panegírico al duque de Lerma</hi>. Lo fue también de Pellicer,
+            quien lo imita en su poema <hi xml:lang="en" rend="i">El Fénix</hi>. Véase, para un
+            estudio de su relación con la poesía de Góngora, Blanco (2011: 11-56); y Ponce Cárdenas
+            (2011: 57-103). Según Pellicer, de Claudiano examinó don Luis también «epitalamios y
+            bodas» (Pellicer, <hi xml:lang="en" rend="i">Lecciones solemnes</hi>, col. 353). Que
+            fuera poeta favorito de Góngora también lo dice Salcedo Coronel: «A ningún poeta imitó
+            más don Luis, que a nuestro Claudiano» (Salcedo Coronel, <hi xml:lang="en" rend="i"
+              >Segunda parte del tomo segundo de las obras</hi>, Madrid: por Diego Díaz de la
+            Carrera y Pedro Lasso, 1648, f. 32). Véase también Ponce Cárdenas (2009) y Castaldo
+            (2014).</note> y <name type="authority">Horacio</name><note place="bottom">Quinto
+            Horacio Flaco (65-8 a.C.), junto con Virgilio, el más famoso poeta de la época de
+            Augusto. Compuso sátiras, epístolas, odas y epodos o poemas en yambos. Con las sátiras,
+            al criticar tipos y conductas sociales, pretendía transmitir un modelo de conducta que
+            se debía emular. A partir de la publicación de la <hi xml:lang="en" rend="i">editio
+              princeps</hi> de su obra hacia 1470 o 1471 en Venecia y su constante inclusión en el
+            currículo escolar, los preceptos de su <hi xml:lang="en" rend="i">Epístola a los
+              Pisones</hi> fueron esenciales para la conformación de las líneas matrices de la
+            creación literaria. Uno de estos preceptos, el del decoro, o la relación entre
+            caracterización y discursos de los personajes, tuvo papel prominente en la polémica
+            gongorina. Jáuregui, en el <hi xml:lang="en" rend="i">Discurso poético</hi>, echa mano
+            de la epístola de Horacio (v. 372-373), en donde se ilustra un ideal de perfección y
+            regularidad diametralmente opuesto a lo que zahiere como hinchazón y «cacocelía» de
+            Góngora y los suyos. De hecho, en todo este <hi xml:lang="en" rend="i">Discurso
+              poético</hi> (1624_discurso-poetico), Horacio aparece constantemente y domina con
+            amplitud a las demás autoridades. Sin embargo, Góngora, como todos los poetas cultos de
+            su tiempo, era buen lector de Horacio y hay recuerdos de los versos del venusino en sus
+            propias obras: señaladamente en los tercetos de su única sátira de tipo
+            horaciano-ariostesco, «Mal haya el que a señores idolatra (OC202) y en los pasajes de
+            las <hi xml:lang="en" rend="i">Soledades</hi> que desarrollan los tópicos de la
+            felicidad rústica y de la desdicha de los navegantes». Las odas y epodos de Horacio son
+            fundamentales, además, para recreación del <hi xml:lang="en" rend="i">topos</hi> de la
+            ‘soledad’. Para un panorama general, véase el clásico Vossler (1946) y García Berrio
+            (1977).</note>. Estaba no mal en los principios de las ciencias<note place="bottom"><hi
+              xml:lang="en" rend="i">ciencias</hi>: ‘conocimiento cierto de algo por sus causas y
+            principios, por lo cual se llaman así las facultades, como la teología, filosofía,
+            jurisprudencia, medicina y otras’ (<hi xml:lang="en" rend="i">Aut</hi>.). La erudición
+            miscelánea que encuentra Pellicer en la obra de Góngora le permite concluir sus <hi
+              xml:lang="en" rend="i">Lecciones solemnes</hi> con esta frase: «Hallarán pues, aquí,
+            por lo menos, un borrador de noticias de los estudiosos de todas las facultades: los
+            teólogos, jurisconsultos, filósofos, médicos, filólogos, matemáticos, astrólogos,
+            críticos, poetas, geógrafos, cosmógrafos, cronólogos, historiadores y gramáticos…» (<hi
+              xml:lang="en" rend="i">Lecciones solemnes</hi>, col. 835). El tono de Pellicer es algo
+            condescendiente y se advierte que se sentía más formado en ciencias que Góngora.</note>,
+          de modo que la vez que en sus escritos se ofrece a hablar de alguna, se ve que no estaba
+          mal alumbrado en los fundamentos. La erudición que alcanzó no fue muy honda, pero fue la
+          bastante para que sus obras no carezcan de los ritos, fórmulas, costumbres y ceremonias de
+          los antiguos en lo místico, alegórico, ritual y mitológico. Hállanse en las locuciones de
+          don <name type="polemista">Luis</name> muchas imitaciones de <name type="authority"
+              >Eurípides<note place="bottom">Eurípides (V a. C.), uno de los tres
+              grandes poetas trágicos griegos de la Antigüedad. Los comentarios de Pellicer recogen
+              pasajes de varias de sus tragedias: <hi xml:lang="en" rend="i">Hécuba, Hipólito,
+                Fenicias, Heracles, El Cíclope, Troyanas, Ifigenia entre los Tauros, Las
+                Bacantes.</hi></note></name>, <name type="authority">Calímaco<note place="bottom"
+              >Calímaco de Cirene (310 a. C. - 240 a. C.), erudito poeta heleno de la época
+              alejandrina. Se conservan de modo fragmentario algunos de sus himnos elegíacos,
+              epigramas y un epilio, <hi xml:lang="en" rend="i">Hecale</hi>. Conocemos su poema <hi
+                xml:lang="en" rend="i">La cabellera de Berenice</hi>, que tuvo gran fama, solo a
+              través de una imitación de Catulo. Fue maestro de Apolonio de Rodas, a quien criticó
+              duramente por sus <hi xml:lang="en" rend="i">Argonáuticas</hi>. Tanto Pellicer como
+              Salcedo Coronel ilustran sus comentarios con Calímaco. A este respecto señala Ponce
+              Cárdenas (2010a: 26): «La oposición marcada por la <hi xml:lang="en" rend="i"
+                >Hécale</hi> de Calímaco y las <hi xml:lang="en" rend="i">Argonáuticas</hi> de
+              Apolonio de Rodas resulta en todo semejante a las posiciones estéticas enfrentadas que
+              separan la concentrada perfección del <hi xml:lang="en" rend="i">Polifemo</hi>
+              gongorino de las fallidas epopeyas de un Lope que con cierto continuismo trata de
+              superar sin lograrlo, a Ariosto, a Torquato Tasso, a Sannazaro». Este último, en <hi
+                xml:lang="en" rend="i">El Polifemo comentado</hi>, para explicar quiénes fueron los
+              cíclopes, cita el <hi xml:lang="en" rend="i">Hymno a Diana</hi> (Salcedo Coronel, <hi
+                xml:lang="en" rend="i">El Polifemo comentado</hi>…, Madrid: Juan González, 1629, f.
+              16). En relación con varios de estos autores antiguos que cita Pellicer en las <hi
+                xml:lang="en" rend="i">Lecciones solemnes</hi>, por ejemplo, dice así para explicar
+              el verso «Tascando haga el freno de oro cano»: «Imita a Virgilio <hi xml:lang="en"
+                rend="i">liber 5 Aeneida. Texti auro fuluum mandunt sub dentibus aurum</hi>. Rozose
+              lib. 4r remedole Claudiano <hi xml:lang="en" rend="i">Pane</hi>g. 4. <hi xml:lang="en"
+                rend="i">Hon</hi>. Es frase de Calímaco, y Quinto Calabro…» (Pellicer, <hi
+                xml:lang="en" rend="i">Lecciones solemnes</hi>, col. 22-23). Como se ve, recoge en
+              la cita a varios de los autores que menciona en esta <hi xml:lang="en" rend="i"
+                >vita.</hi> Véase Calímaco (1999). </note></name>, <name type="authority">Apolonio
+              Rodio<note place="bottom">Apolonio de Rodas (295 a. C.- 215 a. C.), poeta alejandrino
+              discípulo de Calímaco, es conocido por su gran poema épico <hi xml:lang="en" rend="i"
+                >Argonáuticas</hi>, que relata las aventuras de Jasón y los argonautas en busca del
+              Vellocino de Oro. Pellicer y Salcedo Coronel lo dan a menudo como fuente.
+            </note></name>, <name type="authority">Nonio Panopolitano<note place="bottom">Nono de
+              Panópolis (según Suidas, de principios del siglo V) fue el último poeta de la
+              Antigüedad tardía, conocido por su poema épico <hi xml:lang="en" rend="i"
+                >Dionisíacas</hi>, que narra la expedición de Dioniso a la <ref
+                target="https://es.wikipedia.org/wiki/India">India</ref> y su regreso. Su obra es
+              testigo de una época en la que el cristianismo iba desplazando las <hi
+                rend="color_333333">creencias paganas. </hi>Nono escribió otro poema épico sobre la
+              vida de Cristo y una <hi xml:lang="en" rend="i">Paráfrasis al Evangelio de San
+                Juan</hi>. Apunta Jesús Ponce Cárdenas que autores del XVII como el italiano Marino
+              o Góngora se acercaron a las <hi xml:lang="en" rend="i">Dionisíacas</hi> de Nono para
+              la «búsqueda de modelos elegantes y recónditos». Marino recurre mayoritariamente a
+              Nono para su <hi xml:lang="en" rend="i">Adone</hi>. Ver Ponce Cárdenas (2012: 77). La
+              huella de Nono, como ha demostrado Mercedes Blanco, está muy presente en la <hi
+                xml:lang="en" rend="i">Segunda Soledad</hi> (2012b: 379-384). Pellicer lo cita en
+              varias ocasiones en las <hi xml:lang="en" rend="i">Lecciones solemnes</hi>; por
+              ejemplo, al comentar el verso «Al viento que lo peina proceloso», dice, entre varias
+              fuentes que ofrece: «Non. Panopolitano <hi xml:lang="en" rend="i">lib</hi>. 14 <hi
+                xml:lang="en" rend="i">Dionysiac. Impexos capillos ventilabat aurora</hi>»
+              (Pellicer, <hi xml:lang="en" rend="i">Lecciones solemnes</hi>, col. 62). Para más
+              datos sobre al autor antiguo, véase Nono de Panópolis (2004). </note></name>, <name
+            type="authority">Quinto Calabro<note place="bottom">Quinto de Esmirna o Quinto Calabro
+              (h. s. III o IV), conocido por su poema épico dividido en catorce libros <hi
+                xml:lang="en" rend="i">Posthomérica</hi>, que da continuación al ciclo troyano tras
+              la muerte de Héctor. La <hi xml:lang="en" rend="i">Posthomérica</hi> fue descubierta
+              por el cardenal Bessarion en Calabria a mediados del siglo XV (de ahí ‘Calaber’ o
+              Calabro) y fue publicada con el título de <hi xml:lang="en" rend="i">Homeri
+                paralipomenon</hi>. Con este nombre la cita varias veces Pellicer en sus <hi
+                xml:lang="en" rend="i">Lecciones solemnes</hi>, por ejemplo, al comentar el sintagma
+              del <hi xml:lang="en" rend="i">Polifemo</hi> «purpurear la nieve», del que dice: «Está
+              imitado de Q. Calabro<hi xml:lang="en" rend="i">, l.</hi> 14. <hi xml:lang="en"
+                rend="i">Paralip</hi>.» (col. 357). </note></name>, <name type="authority"
+              >Homero<note place="bottom">Hay dos referencias a Homero en esta <hi xml:lang="en"
+                rend="i">vita</hi>: en el <hi xml:lang="en" rend="i">urbis encomium</hi> inicial
+              dice que así como el nombre de Homero había eclipsado el de Esmirna, el de Góngora
+              superaba en fama el de su Córdoba natal; en la sección final se vale de la referencia
+              a la caja en la que Alejandro conservaba la <hi xml:lang="en" rend="i">Ilíada</hi>, a
+              la que equipara con la biblioteca del conde duque, que albergará el manuscrito Chacón.
+              Recordemos que l<seg rend="st">a edición de 1627 llevaba por título </seg><emph>Obras
+                en verso del Homero español, que recogió Juan López de Vicuña, señal ya de la
+                comparación de la eminencia y soberanía de la poesía de Góngora con la del poeta
+                épico. Para Bonilla Cerezo (2011: 213), aunque los comentaristas recojan algunas
+                referencias a la obra de Homero, «el saldo de la figura de Homero en los ‘poemas
+                mayores’ se confirma exiguo, cuando no indirecto». Para Mercedes Blanco, sin
+                embargo, Góngora buscaba en el poeta griego la enargeia y «no intentó apropiárselo
+                tomando su historia o sus temas de Homero, como tampoco mediante una imitación de
+                pasajes breves. Lo que hizo fue imitar libremente ciertos dispositivos estructurales
+                de la narración y ciertas estrategias descriptivas, que se perciben en el texto de
+                Homero mediante un proceso de abstracción analítica. Los adaptó además con gran
+                originalidad a un idioma y a una cultura muy distantes y a unos hábitos retóricos y
+                estilísticos ajenos a su modelo. Por ello no es óbice para nuestra tesis que los
+                comentaristas de Góngora sólo muy esporádicamente alegasen fuentes de la Ilíada o de
+                la Odisea» (Blanco 2012a: 262-263). En general, la equiparación con Homero parece
+                hacerse para otorgarle a Góngora preeminencia poética y alzarlo a la cumbre de la
+                lengua y de la poesía. Así, uno de sus más elocuentes admiradores</emph>, Vázquez
+              Siruela, en el <hi xml:lang="en" rend="i">Discurso sobre el estilo de don Luis de
+                Góngora</hi>, lo comparaba con Homero y con Virgilio. Góngora mismo era consciente
+              de su primacía poética y de estar iniciando algo, como dice en su «Carta en respuesta»
+              (1615_carta-gongora): «me holgara de haber dado principio a algo; pues es mayor gloria
+              empezar una acción que consumarla» (Góngora 2000: II, 296).Pero, por otro lado,
+              quienes sostenían que Góngora era fundamentalmente un poeta lírico prefirieron, para
+              celebrarlo como el príncipe de los poetas, recurrir al más ilustre y uno de los más
+              antiguos padres de la lírica, Píndaro. El primero en articular enérgicamente esta
+              comparación fue Pedro de Valencia en las dos versiones de su famosa carta-parecer de
+              1613. Véase la edición de Florence d’Artois de la primera (1613­_carta-valencia) y el
+              fragmento de la carta de 1614 (OCII: 518-519). Pellicer, en la portada de sus <hi
+                xml:lang="en" rend="i">Lecciones solemnes</hi> lo llama «Píndaro andaluz» príncipe
+              de los poetas líricos de España», y nunca Homero. En reacción contra la edición de
+              Vicuña, dice así en las <hi xml:lang="en" rend="i">Lecciones</hi> «…don Luis nunca
+              escribió poema épico, por lo cual no le viene bien el nombre de Homero español que le
+              dio la edición adulterada de sus obras» (col. 4). Paravicino, en su «Romance,
+              describiendo la noche y el día» lo relaciona con Marcial y Píndaro: «¡Oh tú Lelio!
+              que, heredando / al docto Marcial la pluma, / las sales que el mundo admira, Píndaro
+              mejor, renuncias» (Paravicino 2002:142).</note></name>, <name type="authority"
+              >Museo<note place="bottom">[NDE] Museo fue un poeta griego tardío (h. s. IV o V),
+              conocido por su epilio <hi xml:lang="en" rend="i">Leandro y Hero</hi>, que se
+                propagó<emph> por la Europa renacentista a partir de dos ediciones (Manucio y
+                Lascaris) de 1494. La historia trágica de los dos amantes había sido relatada ya por
+                Ovidio (Heroidas, XVIII-XIX), Virgilio (Geórgicas, III), Horacio (Epístolas, I),
+                Marcial (Epigramas, XIV), entre otros. En España, les dedicaron diversas
+                composiciones a los amantes Garcilaso, Boscán, Acuña, Sá de Miranda, Camões, Quevedo
+                y muchos más. Para explicar el fingimiento de Acis en el verso del Polifemo
+                «Acis, aun mas de aquello que dispensa la brújula del sueño vigilante», recurre
+                Pellicer a la obra de Museo: «Este modo de mirar dormido, pinta en Leandro Museo in
+                Haron. v. 104» (Lecciones solemnes, col. 254). Góngora conocía la obra, como se
+                infiere de sus conocidas primeras líneas del romance de Leandro y Hero (1610):
+                «Aunque entiendo poco de griego, / en mis gregüescos he hallado / ciertos versos de
+                Museo / no muy duros un muy blandos». En ella llega incluso a criticar la paráfrasis
+                que había hecho Boscán del epilio de Museo. Ya le había dedicado al mito otra mirada
+                burlesca en el romance de 1589 «Arrojóse el mancebito»; el de 1610 completaba lo que
+                faltaba del mito. Para las ediciones y datos de la impronta de Museo y su obra en
+                España, véase Francisca Moya (1966); la «Introducción» a Hero y Leandro de Ruiz de
+                Elvira (2003); y Béhar (2013).</emph></note></name> y demás poetas griegos. En
+          muchas partes se roza con las oraciones de <name type="authority">Aristéneto<note
+              place="bottom">Poco se sabe de Aristéneto de Nicea, autor de epístolas eróticas de la
+              Grecia Antigua (h. s. V o VI). Estas epístolas amorosas se transmitieron con su nombre
+              en un códice veneciano del siglo XII. Ver la edición de Aristéneto (1999). Pellicer
+              cita las epístolas en sus <emph>Lecciones solemnes, col.</emph> 100, 111, 173 y
+              206.</note></name> y <name type="authority">Dión Crisóstomo<note place="bottom">Dión
+              Crisóstomo, orador, filósofo e historiador de la época grecorromana (s. I y II),
+              contemporáneo de Plutarco, Tácito y Plinio el Joven. Se conservan unos ochenta
+              discursos suyos. María Rosa Lida (1975: 991) ha estudiado la posible huella del <hi
+                xml:lang="en" rend="i">Discurso euboico</hi> en las <hi xml:lang="en" rend="i"
+                >Soledades.</hi>
+            </note></name>, con lo venusto de <name type="authority">Anacreonte<note place="bottom"
+              >Anacreonte de Teos fue un poeta cortesano del s. VI a. C., y cantor del vino y de los
+              amores. Gran parte de su vida y obra ha sido transmitida fragmentariamente (Platón,
+              Macrobio, Ateneo, Valerio Máximo, la Suda, Aulo Gelio, etc.). Sin embargo, como se
+              sabe, la colección de poemas conocida como las <hi xml:lang="en" rend="i"
+                >Anacreónticas</hi>, publicadas por Henri Estienne en 1554, contiene composiciones
+              falsamente atribuidas al poeta en la Alejandría helenística, que nuestros humanistas
+              seguían creyendo suyas. La <hi xml:lang="en" rend="i">venustas</hi> es la gracia y
+              hermosura en la elocución. Pellicer vuelve a caracterizar la poesía de lo que cree que
+              es de Anacreonte de elegante en sus <hi xml:lang="en" rend="i">Lecciones
+              solemnes</hi>, donde lo llama «venustísimo Anacreón» (col. 100). Para un panorama de
+              esta poesía en España, véase Schwartz (1999 y 2001) y Brioso Sánchez
+            (1981).</note></name>, <name type="authority">Heliodoro<note place="bottom">Heliodoro de
+              Émesa, autor de la <hi xml:lang="en" rend="i">Historia etiópica</hi> (h. s. III). Este
+              relato de los castos amantes Teágenes y Cariclea se construye a lo largo de diez
+              libros que entremezclan motivos épicos y trágicos. El texto <hi xml:lang="en" rend="i"
+                >prínceps</hi>, publicado en 1534, fue traducido por primera vez al romance por el
+              humanista Jacques Amyot en 1547 y luego comentado por preceptivas italianos y
+              españoles como Julio César Escalígero, Torquato Tasso y Alonso López Pinciano. Para
+              estos dos últimos, las <hi xml:lang="en" rend="i">Etiópicas</hi> era una epopeya en
+              prosa. Véase Heliodoro (2002). Algunos apologistas de Góngora justificaron el
+              anonimato del héroe y del lugar, criticados por Jáuregui, diciendo que, al igual que
+              el narrador griego, Góngora suscitaba la curiosidad reservando la información y la
+              sorpresa para al final. Así escribe el abad de Rute en su <hi xml:lang="en" rend="i"
+                >Examen del Antídoto</hi> (1615_examen): «estas <hi xml:lang="en" rend="i"
+                >Soledades</hi> constan de más de una parte, pues se dividen en cuatro; si en la
+              primera, que sola hoy ha salido a luz este mancebo está por bautizar, tenga V. m.
+              paciencia, que en la segunda o la tercera se la bautizarán y sabrá su nombre; pues
+              Heliodoro en buena parte de su <hi xml:lang="en" rend="i">Historia etiópica</hi> nos
+              hizo desear los nombres de la doncella y el mancebo…» (Artigas 1925: 406). También
+              para justificar la pasividad del héroe, a quien se da por única pasión el amor
+              desdichado, y como única empresa la de acabar sus días lejos de la dama que «a olvido
+              lo condena», recurren estos defensores al ejemplo de <hi xml:lang="en" rend="i">Las
+                Etiópicas</hi>, cuyos protagonistas son también, a su modo, peregrinos de amor. Díaz
+              de Rivas, en sus <hi xml:lang="en" rend="i">Discursos</hi> (1616_discursos-diaz), dice
+              así: «Así en estas <hi xml:lang="en" rend="i">Soledades</hi>, si miramos el modo de
+              decir, se ha de reducir al sublime; si a la materia, a aquel género de Poema de que
+              constaría la <hi xml:lang="en" rend="i">Historia etiópica</hi> de Heliodoro si se
+              redujera a versos». Entre los elementos que más reconocen los comentadores de
+              Heliodoro está la peregrinación del personaje de las <hi xml:lang="en" rend="i"
+                >Soledades</hi>, el comienzo <hi xml:lang="en" rend="i">in medias res</hi> y la
+              variedad de asuntos. </note></name> y <name type="authority">Aquiles Tacio<note
+              place="bottom">Aquiles Tacio fue el autor de la novela griega de aventuras titulada
+                <hi xml:lang="en" rend="i">Leucipa y Clitofonte</hi> (h. siglo II), que, junto con
+              la <hi xml:lang="en" rend="i">La historia etiópica (o Teágenes y Cariclea)</hi> de
+              Heliodoro, fue de las ficciones antiguas más influyentes en el Siglo de Oro. Como
+              señalaba El Pinciano en su <hi xml:lang="en" rend="i">Philosophía poética</hi>, uno de
+              los subgéneros de la épica daba cabida a «casos amorosos, como Museo, Heliodoro y
+              Aquiles Tacio» (López Pinciano 1973: 81). Para más datos, véase Aquiles Tacio (1982).
+              Según cuenta Pellicer en su <hi xml:lang="en" rend="i">Bibliotheca</hi>, le robaron
+              una traducción de <hi xml:lang="en" rend="i">Leucipe y Clitofonte</hi> que tenía hecha
+              y para la cual tenía licencia de impresión en 1628 (<hi xml:lang="en" rend="i"
+                >Bibliotheca formada…</hi>, f. 151-152).</note></name>, no porque a mi juicio los
+          viese, sino porque fue tan grande el natural de don <name type="polemista">Luis</name>,
+          que con él solo<note place="bottom"><hi xml:lang="en" rend="i">él solo</hi>: se refiere al
+            natural.</note> pudo igualar los griegos y latinos, pues, si los vio para imitarlos, fue
+          mucho, y si no los vio, fue <pb n="f. 5v"/> mucho más. Quedaron los escritos de este
+          insigne varón con su muerte desamparados y sin quien cuidase de ellos, sujetos a perderse
+          en los originales y a echarse a perder en las copias, y no habiendo querido darlos a la
+          prensa en vida con cuidado, se los estampó, o la enemistad, o la codicia, con prisa, con
+          desaliño, con mentiras y con obras que le adoptó el odio de su nombre<note place="bottom"
+            >Recoge similar opinión en el paratexto «A los ingenios…» de las <hi xml:lang="en"
+              rend="i">Lecciones solemnes</hi> (f. ††† 3r)<hi rend="color_0000ff">. </hi>Cfr.
+            «Estructura». </note>. Tan otras salieron de las que eran antes, que llevaron bien sus
+          afectos que se recogiesen de orden justificada y soberana<note place="bottom">Se refiere a
+            la edición no autorizada de Juan López de Vicuña aparecida en 1627. Como se sabe, esta
+            edición fue denunciada a la Inquisición; el padre Juan de Pineda, en calidad de
+            calificador, recomendó que se prohibiese y el Santo Oficio mandó recogerla. Véanse
+            Artigas (1925: 207 y ss.); y (Entrambasaguas 1975: 77-149). Que tras la edición de
+            Vicuña estuviera ‘el odio’ de los adversarios del poeta puede, una vez más, estar
+            apuntando a Lope (Alonso 1955: 492). </note>. No faltó, pues, quien, con la afición de
+          amigo y la piedad de noble, tratase de conservarlas, acudiendo al reparo de la opinión de
+          don <name type="polemista">Luis</name>, que iba desmoronada<note type="app" rend="I">
+            Incorporamos el sintagma: «que iba desmoronada», que aparece en una apostilla
+            manuscrita.</note>. Y así, <name type="authority">don Antonio Chacón, señor de
+            Polvoranca,</name> caballero de grandes partes, que, con la familiaridad que tuvo con él
+          alcanzó también mano para recogerlas todas habiéndole comunicado lo más retirado de ellas,
+          las copió todas en sutiles vitelas, en bizarros<note place="bottom"><hi xml:lang="en"
+              rend="i">bizarros</hi>: ‘espléndidos y adornados’ (<hi rend="i"
+              >Aut.</hi>). Subraya Pellicer el lujo y adorno de la excelente copia que hace Chacón.
+            Véase Carreira (1991).</note> caracteres y en costosas encuadernaciones, en cuatro
+            tomos<note place="bottom">Son tres los volúmenes del manuscrito Chacón, no cuatro, como
+            dice Pellicer. De este error se infiere que Pellicer no manejó el manuscrito. Para más
+            detalles, véase Iglesias Feijoo (1985:171). </note>, las consagró todas al nombre y
+          protección del conde duque de Sanlúcar, para que en su excelentísima y numerosa biblioteca
+          se conserven contra el olvido, mejor que las de <name type="authority">Homero</name> en la
+          preciosa caja del otro príncipe<note place="bottom">La caja de aguardar ungüentos que
+            Alejandro obtuvo de Darío la utilizó para guardar la <hi xml:lang="en" rend="i"
+              >Ilíada</hi>, según cuenta Plutarco en su <hi xml:lang="en" rend="i">Vida de
+              Alejandro</hi>. Vuelve Pellicer a repetir el ejemplo en su prólogo a la edición de la
+              <hi xml:lang="en" rend="i">Obras de Anastasio Pantaleón Ribera</hi> (Madrid: Francisco
+            Martínez, 1634, f. A8r): «Aristóteles limó la <hi xml:lang="en" rend="i">Ilíada</hi> por
+            orden de Alejandro para colocarla en la caja preciosa que se halló en la recámara de
+            Darío».</note>, para que las halle la posteridad veneradas y, entre el polvo docto, las
+          respeten los siglos venideros. Escribió para estos volúmenes su vida, grande y
+            religiosa<note type="app" rend="I"> Aparece como apostilla manuscrita: «-de y
+            religiosa», que reintegramos en el texto. Cfr. «Estructura».</note>
+          <note place="bottom">Una «grande y religiosa pluma», apunta Pellicer, escribió una <hi
+              xml:lang="en" rend="i">vita</hi> y unos versos para este primoroso manuscrito. Este
+            sintagma, que en un inicio era solo «gran pluma», es amplificado en el margen con el
+            adjetivo «religiosa». Este añadido confirma, como ha demostrado Iglesias Feijoo (1983),
+            que esta «grande y religiosa pluma» que desea permanecer anónima y de la cual Pellicer
+            sólo consigue la «estancia» para su impresión en las <hi xml:lang="en" rend="i"
+              >Lecciones solemnes</hi>, es Paravicino. Cfr. «Estructura».</note> pluma, con título
+          de prefación, donde cumplió con la profesión de amigo legalmente<note place="bottom"><hi
+              xml:lang="en" rend="i">legalmente</hi>: ‘con fidelidad’ (<hi xml:lang="en" rend="i"
+              >Aut</hi>.), pero también alude al papel de albacea, especialmente literario, de
+            Góngora que tenía Paravicino.</note>, dictando también para su retrato aquella estancia
+          que va en el que yo estampo en este libro<note place="bottom">Se refiere, como hemos
+            dicho, a las <hi xml:lang="en" rend="i">Lecciones solemnes</hi>. </note>, sin querer
+          declarar su nombre. Ambas cosas deseé yo imprimir, pero no pude conseguir de su modestia
+          si no es la una, y esa con dificultad no poca<note place="bottom"><anchor xml:id="_GoBack"
+            />Ante la negativa de Paravicino de dar a publicar su <hi xml:lang="en" rend="i"
+              >vita</hi>, Pellicer sólo consigue la «estancia» del trinitario. La elogiosa octava
+            acompaña el retrato del poeta que aparece al principio del manuscrito Chacón. Pellicer
+            la coloca debajo del retrato del conocido grabador francés afincado en Madrid, Jean de
+            Courbes. El epigrama vuelve a aparecer, junto con el «Prólogo» y un soneto titulado «A
+            la muerte del autor en este género de poesía», en los preliminares de <hi xml:lang="en"
+              rend="i">Obras póstumas divinas y humanas de don Félix de Arteaga</hi>, con el título
+            de «Suscripción a un retrato del autor». Cfr. «Estructura».</note>. Ofrecí yo, en vida,
+          a don <name type="polemista">Luis</name>, el comentarle sus obras, y aunque él lo rehusó,
+          entre la modestia y el agradecimiento<note place="bottom">Dice el autor del <hi
+              xml:lang="en" rend="i">Escrutinio</hi> que, ante las insistencias de los amigos a que
+            publicara su obra, él contestaba modestamente: «No; mis obras en mi estimación no lo
+            merecen. Si dicha tuvieren, alguna habrá después de mis días que lo haga» (Millé
+            1961:1231). Sí pensó Góngora, en los últimos años de su vida, recoger su obra y darla a
+            la luz. En carta de 11 de julio de 1623 dice: «Yo trayo en buen punto la […] ción y
+            enmienda de mis borrones, que estarán estampados para Navidad, porque, señor, fallo que
+            debo de condenar y condeno mi silencio, pudiendo valerme dineros y descanso alguna
+            vergüenza que me costarán las puerilidades que daré al molde» (Góngora 2000: II, 435).
+            Para otras pistas al respecto en su epistolario, véase Entrambasaguas (1975: 84-91).
+            Recuerda Carreira que Góngora, «igual que muchos otros poetas de su tiempo (el príncipe
+            de Esquilache es una de las pocas excepciones), tuvo a menos imprimir sus versos, como
+            si recelase verlos convertidos en mercancía» (1991: x). </note>, yo he querido cumplir
+          mi obligación y estudiar de camino sus escritos para que, arrimado a su fama, consiga por
+          él algún género de opinión<note place="bottom">Hay, a lo largo del texto, varios instantes
+            en los que Pellicer escribe <hi xml:lang="en" rend="i">pro domo sua</hi>, cayendo en la
+            autoalabanza: «Ofrecí yo […] el comentarle sus obras», como había hecho antes con
+            «comunicándole [a Góngora] yo algunas puerilidades mías».</note>. Salen ahora las obras
+          más principales en este primer tomo, para que en el segundo les quede lugar a las menores,
+          si bien varón tan grande como don <name type="polemista">Luis</name> merecía espíritu más
+          elevado que el mío<note place="bottom">Se refiere a las que comenta en este primer tomo de
+            las <hi xml:lang="en" rend="i">Lecciones solemnes</hi>, que son el <hi xml:lang="en"
+              rend="i">Polifemo</hi>, las <hi xml:lang="en" rend="i">Soledades</hi>, el <hi
+              xml:lang="en" rend="i">Panegírico</hi> y la <hi xml:lang="en" rend="i">Tisbe</hi>. El
+            segundo tomo iría dedicado a las demás. Como al inicio de la <hi xml:lang="en" rend="i"
+              >vita</hi>, recurre Pellicer nuevamente al tópico de lo limitado de sus fuerzas y
+            capacidad para escribir de tan gran autor.</note>. Y no entiendan sus enemigos<note
+            place="bottom">También en los preliminares de las <hi xml:lang="en" rend="i">Lecciones
+              solemnes</hi>, Pellicer señala que, aún después de muerto, seguía Góngora teniendo
+            enemigos: «No se deshizo de sus émulos aun muriendo, que hay rencores de calidad tal que
+            no contentos con lo obstinado de durar lo que una vida, se extiende su tesón hasta
+            después de las cenizas» (<emph>f. []4v).</emph></note> que ha muerto, pues en sus obras
+          vive inmortal contra el tiempo, y a pesar de las envidias ha de durar su memoria eterna
+          contra el tesón de los años y la porfía de los siglos, que en cuanto el mundo
+          permaneciere, ha de estar constante el nombre heroico<note place="bottom"><hi
+              xml:lang="en" rend="i">heroico</hi>: Puesto en circulación por los italianos, y
+            especialmente por Torquato Tasso en el segundo tercio del XVI para designar del poema
+            narrativo formalmente perfecto según ideas aristotélicas y de materia ilustre, el
+            adjetivo ‘heroico’ se hizo calificativo favorito para todo lo que se estimara excelso,
+            grande, admirable, eminente y glorioso en los hombres, sus obras y sus acciones. Pocos
+            años después, Gracián consolidaría este significado en <hi rend="i">El Héroe</hi>,
+            definición de un tipo de hombre que en épocas más tardías se hubiera designado como
+            ‘gran hombre’ o ‘genio’. Véase Blanco (2012a). </note> de don <name type="polemista"
+            >Luis de Góngora</name><note place="bottom">Concluye con otra exigencia retórica, el <hi
+              xml:lang="en" rend="i">iudicium posteritatis</hi>, que sitúa al personaje en la nómina
+            de varones ilustres sancionados por el tiempo. Pellicer se vale de todos los recursos de
+            la retórica para levantar el perfil humano y literario de un moderno que considera
+            clásico, insertándolo en la galería de varones ilustres. </note>.</p>
+        <p>Y a cuya memoria eterna, y a cuyas cenizas doctas, triste y piadosamente, don <name
+            type="polemista"><hi rend="i">Joseph Pellicer de Salas y Tovar</hi></name> escribió este
+          epitafio para que sirva en su monumento<note place="bottom"><hi xml:lang="en" rend="i"
+              >monumento</hi>: ‘obra pública y patente, puesta por señal, que nos acuerda y avisa de
+            alguna acción heroica u otra cosa singular de los tiempos pasados: como estatuas,
+            inscripciones o sepulcros’ (<hi xml:lang="en" rend="i">Aut.</hi>). <hi rend="bg_ffff00"
+              >Véase la nota 117 anterior</hi>. </note>.</p>
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>
