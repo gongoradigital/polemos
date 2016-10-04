@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc> 
+    <fileDesc>  
       <titleStmt>
         <title>Vida de don Luis de Góngora</title>
         <author key="Pellicer y Tovar, José">José Pellicer y Tovar</author>
