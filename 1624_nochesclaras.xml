@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Noches claras</title>
+        <author key="Faria e Sousa, Manuel de">Manuel de Faria e Sousa</author>
+        <editor>Aude Plagnard</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>BNE, R. 5924. Ejemplar transcrito a partir del microfilm.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>L’édition comporte trois niveaux de notes.
+        note[@place="bottom"] : notes d’éditeur (décimal par défaut)
+        note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain)
+      </p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1624"/>
+      </creation>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+ <text> 
+  <body>
+    <div>
+        <head>Palestra IV</head>
+        <p>«Partes de la conversación, Para los habladores en su lengua, y para los que sin su lengua hablan», Palestra IV, pp. 39-56</p>
+        <p/>
+        <sp who="Sanazaro">
+          <speaker>Sanazaro</speaker>
+        <p>[47] Las cuales [las sentencias] no solamente han de ser en cualquier materia, sino en la que fueren dignas de entrar en discurso, honesta y provechosa. Que por eso dijo <name type="authority">Job</name> en el capítulo sexto, hablando ajustados, «<quote><hi rend="i">Loquentes id quod justum est</hi></quote>». Ni tampoco las palabras basta que sean pocas, sino que han de ser tersas y naturales. Que no sean muchas, en otro lugar demás de los referidos, <name type="authority">Aulo Gelio</name> lo advierte. Y que sean castas: <name type="authority">Eurípides</name> dice que no hay prodigiosa enfermedad como no tener la lengua castigada. Y <name type="authority">Séneca</name>, en las <hi rend="i">Epístolas morales</hi> del libro octavo, que no conviene gastar tiempo en el estudio de palabras. Naturales han de ser porque, como dice <name type="authority">Pío Segundo</name>, las artificiosas mueven necios y cansan prudentes. Y por eso dijo <name type="authority">Cicerón</name> en el primero de los <hi rend="i">Oficios</hi> que se había de hablar con palabras notorias y no estimular risa con las incultas: «<quote><hi rend="i">Sermone uti debemus qui notus est nobis: ne, ut quidam Græca verba inculcantes, jure optimo rideamur</hi></quote>». Donde no [48] estimando colocación artificiosa de palabras, el <name type="authority">Jurisconsulto Paulo</name> in <hi rend="bg_ff0000">L.Nec enim. ff. de solution.</hi> manda que no se atienda a ello sino a lo que en ella [la mente?] se dice «<quote><hi rend="i">Non ordinem scripturæ, sed mentem debemus attendi</hi></quote>» (§<hi rend="i">ante hæredis, inst. de legat. Cum similibus</hi>).</p>
+        </sp>
+        <sp who="Elaso">
+          <speaker>Elaso</speaker>
+        <p>Es tanto al contrario esto en este tiempo que parece en ninguna otra cosa estudian hoy los cultos presuntuosos más que las Aves de Juno, de que llevan de la mano a la fortuna en esto que es saber. Y es esta enfermedad más natural de nuestra España que de otra nación alguna, siendo así que con este estudio tan cansado no se mejoran cosa alguna de aquellos que en los tiempos pasados les parece que hablaban rústicamente y no al modo que ahora se usa, como ellos dicen. Pues, ¿cuál es el de los presentes que se iguale a Torquato Tasso o a Luis de Camões y Garcilaso? Que sin mendigar vocablos hinchados, con aquellos antiguos y naturales, son tersos, castos, elegantes y heroicos, no dejando por antiguos de vencer en todo a los modernos. De tal suerte que con esta fama serán eternos, si ya la de los tres no escurece el nuevo Apolo Lusitano, que del Aquiles de los Macabeos, en numerosa trompa y clarín sonoro, dando nueva vida a sus hazañas, dará perpetua envidia a las mismas Musas. Pues escribiendo como otro Homero, ni tiene que [49] imitar en lo pasado, ni podrá ser imitado en lo futuro, que puede ser tanto ingenio poderoso en ambos vencimientos.</p>
+        </sp>
+        <sp who="Lusitano">
+          <speaker>Lusitano</speaker>
+        <p>Por vida vuestra, que no demos lugar a las alabanzas que merece, pues será imposible el saber de ellas y proceder en infinito querer saberlo. Y así, continuando lo comenzado, digo que<note place="bottom">[NDCE] «si ya de los tres […] Y así, continuando lo comenzado, digo […]». Este fragmento se encuentra sustituido en  la edición de 1674 por «Lus : Ninguno que supiese ha dudado jamás de que no puede haber» (p. 39). </note> no puede haber mayor desatino, ni principio más acomodado para mil impropiedades que escribiendo en Español, hablar en Griego. Veis un hombre, Español os parece. Veis sus escritos, parecen Griegos. Cuando lo considero, me acuerdo de cómo son parecidos estos a aquella visión del capítulo 13 del <name type="authority">Apocalipsis</name>, donde dice San Juan: «<quote><hi rend="i">Vidi aliam bestiam ascendentem de terra, et habebat cornua duo similia Agni, et loquebatur sicut Drago</hi></quote>». De suerte que son los tales como esta bestia que siendo Cordero tenía extrañas voces. O si tiene igual lugar en este aquel del 17 del <name type="authority">Génesis</name>, cuando Isaac, presintiendo el misterioso engaño de Rebeca, dice : «<quote><hi rend="i">Vox quidem, vox Jacob est, sed manus, manus sunt Esau</hi></quote>». Manos de Esau, con voz de Jacob, son confusión en Isaac. Pues, ¿qué propiedad de lengua se puede hallar en un soneto donde se encuentran estas: «cerúleo, radiante, joven, lucífero, girante, apógrafos, candores, analogía, alucinante, armónico, deplorante, ceda, plectro, arminoso, bruma, concento, [50] mesto, gemino, transmigración»? ¿Qué le queda de Español a semejante poesía?</p>
+        </sp>
+        <sp who="Sanazaro">
+          <speaker>Sanazaro</speaker>
+        <p>Recitadle, por vida vuestra, señor Lusitano, que se puede tener a milagro que se ensarten sin peligrar el decoro voces tan ajenas en nuestro idioma.</p>
+        </sp>
+        <sp who="Lusitano">
+          <speaker>Lusitano</speaker>
+        <p>Primeramente es menester que sepáis el asunto, porque aun con saberle entiendo que no será entendido. Y si yo, para este mismo efecto de que no lo fuese, no lo comunicara, de ninguna suerte me atreviera a reprender en otros lo que en mí, sin este pensamiento, fuera culpa averiguada. Al fin, el asunto es loar un amigo que escribió <name type="authority">la tragedia de Píramo y Tisbe</name>, por no decir por rodeos los <name type="authority">Amantes Babilónicos</name>. Y el soneto es este :</p>
+        <p><quote>No ha visto copia igual, dulce de amores</quote> </p>
+        <p><quote>En cuanto huella Cerúleo, ve radiante</quote> </p>
+        <p><quote>El joven, que lucífero girante </quote> </p>
+        <p><quote>Se acuesta en vidrios y despierta en flores, </quote> </p>
+        <p/>
+        <p><quote>Apógrafos, señor, dais en candores, </quote> </p>
+        <p><quote>Al que os ve de analogía alucinante:</quote> </p>
+        <p><quote>Y armónico en las quejas deplorante,</quote> </p>
+        <p><quote>Consultados lleváis los Ruiseñores.</quote> </p>
+        <p/>
+        <p><quote>Ceda el plectro arminoso al vuestro, en cuanto </quote> </p>
+        <p><quote>Flando llama deslizando bruma</quote> </p>
+        <p><quote>De los dos en concento, ostentáis llanto. </quote> </p>
+        <p/>
+        <p><quote>Que cuando en mesto fruto se resuma [51]</quote> </p>
+        <p><quote>El gemino calor del rojo manto</quote> </p>
+        <p><quote>Fue la transmigración a vuestra pluma.</quote> </p>
+        <p/>
+        </sp>
+        <sp who="Elaso">
+          <speaker>Elaso</speaker>
+        <p>Digo que fue ocioso declarar el asunto a que lo hicistes, porque aun ahora está más oscuro, pues sin saberlo, se le pudiera dar algún entendimiento como a enigma. Pero si los que lo oyeron le entienden, no lo guarden para sí, que me holgaré en extremo de oírle el comento.</p>
+        </sp>
+        <sp who="Lusitano">
+          <speaker>Lusitano</speaker>
+        <p>Lo mejor será que le dejemos. Y volviendo al intento, digo que no pueden dejar de padecer tales obras infinitos inconvenientes, pues intenta un ingenio exprimir pensamientos propios con ajenas voces, que antes despiertan absurdos irreparables. Como se vio entre los Aquilinos y Toscanos, que preguntándose unos a otros con lengua ajena, se respondieron disparates, como lo nota <name type="authority">Horacio</name> en la <title>epístola</title> 6 del libro 1. Y por esto <name type="authority">Trebelio</name>, en la <title>vida de Aureliano Décimo</title>, escusándose de estudio semejante, dice que no propuso consigo de escribir palabras, sino obras.</p>
+        </sp>
+        <sp who="Sanazaro">
+          <speaker>Sanazaro</speaker>
+        <p>Por eso me quiero yo persuadir que las alas, o plumas, que <name type="authority">Plauto</name> escribe que había en la cabeza de Mercurio, significan las palabras, porque unas y otras son pompa del aire, que dio lugar al refrán ‘palabras y plumas’. Y <name type="authority">Homero</name>, en todos los lugares que trata de las palabras, <hi rend="bg_ff0000">le</hi> llama ligeramente aladas. [52]</p>
+        </sp>
+        <sp who="Lusitano">
+          <speaker>Lusitano</speaker>
+        <p>No hay que dudar del daño de las de son de tal manera afectadas, ni lo dudó <name type="authority">Timón Filasio</name>, que amonestaba que se huyesen las de Pitágoras estudiosas, con que solía engañar los hombres o ofender los oídos. Porque las semejantes no traen consigo constancia alguna y por eso, como dice <name type="authority">Suidas</name>, daban los de Arcadia a Mercurio la figura cuadrilátera; o, como dice <name type="authority">Plutarco</name>, los de Atenas, la cual, referida de <name type="authority">Pausanias</name> y <name type="authority">Alejandro Napolitano</name>, se le consagraba. Porque como fuese tenido por el Dios de la elocuencia sabia, con esto mostraban que debía ella de ser firme y constante, que es la naturaleza y acción propia de la figura angular.</p>
+        </sp>
+        <sp who="Elaso">
+          <speaker>Elaso</speaker>
+        <p>Por esa causa se afirma, con Estrabón, que la misma figura tiene el empíreo asiento de la Gloria, y parece del capítulo 21 del <name type="authority">Apocalipsis</name>: «<quote><hi rend="i">Et civitas in quadro est, et longitudo ejus tanta est quanta et latitudo</hi></quote>». Es cuidad en figura angular fundada, tanto de ancho como de largo, denotando la infalible constancia de la suma y verdadera sabiduría y elocuencia que majestuosamente ocupa, donde la mudanza no conoce entrada. Porque siendo las palabras imágenes de los pensamientos, o como dice <name type="authority">Aristóteles</name>, simulacros de aquellas cosas que concebimos en el ánimo, no siendo nativas y propias mal podrán expresar lo que se pretende. [53]</p>
+        </sp>
+        <sp who="Lusitano">
+          <speaker>Lusitano</speaker>
+        <p>Por esta razón, dice Quintiliano que el natural cuidado ha de ser de las palabras y la solicitud laboriosa de los pensamientos. Porque no hay cosa más importuna y digna de reprensión que la numerosidad y adorno de palabras exhaustas de todo concepto y lumbre de erudición, para engañar los oídos de ignorantes con aquel artificio del Calamar, que como advierte <name type="authority">Horacio</name> en la <title>sátira</title> 5 del libro 1, enturbia el agua para engañar los otros peces. Que es lo que en este tiempo solamente se halla en los cultos, con que vienen a ser molestia de quien les escucha y tinieblas de sí mismos y de la verdadera elocuencia, que consta de mover con claridad y no peregrinando lenguas, con que se escurecen más y estiman menos, pobres en la abundancia de las naturales españolas, que pudieran enriquecer las extranjeras si en ellas se hallara este desatino de no estimar las suyas.</p>
+        </sp>
+        <sp who="Sanazaro">
+           <speaker>Sanazaro</speaker>
+        <p>Es irremediable en los Españoles, con que dan ocasión a muchos para que digan que quieren con la oscuridad de las palabras persuadir que dicen más. Donde ya <name type="authority">Marcial</name> en su tiempo se quejaba de esta enfermedad, y queriendo atajarla, dijo:</p>
+        <p><quote>Scribere te quæ vix intelligat ipse modestus,</quote> </p>
+        <p><quote>Et vix Clananus qui, rogo, Sexte juvat?</quote> </p>
+        <p>Rematando la epigrama diciendo que no era [54] aquel camino propio para ganar fama.</p>
+        <p><quote>Sic tua laudentur sane mea carmina Sexte,</quote> </p>
+        <p><quote>Grammaticis placeunt et sine Grammaticis.</quote> </p>
+        <p>Habla, dice <name type="authority">Marcial</name>, de manera que te entiendan. Y es así porque, si <name type="authority">Platón</name>, en lo que escribió tan oscuro sobre los números de Pitágoras, dio más en que entender a los ingenios, no ganó más gloria y fama al suyo. Ni la pudo ganar <name type="authority">Heráclito</name> por más que gran <name type="authority">Filósofo de Efeso</name> en la <title>Teología</title> que escribió, pues ignorada de todos, de ninguno le podía adquirir gracias. Y al fin, son los escritores de este tiempo Esfinges en sus escritos manifestándose como Cometas, exhalaciones del vapor de la tierra en la región superior del aire, para cuyos efectos y entendimiento es menester la Judiciaria. Y por eso dice el mismo <name type="authority">Marcial</name> de semejantes escritos:</p>
+        <p><quote>Non lectore tuis opus est, sed Apolline libris. </quote> </p>
+        <p>No escribes para lectores, sino para oráculos. No haciendo otra cosa más que dar nudos indisolubles, como los Casios de Egipto, para los cuales no bastará el resoluto acero<note place="bottom">[NDEC] 1674: «el resuelto y castigado acero» (p. 44).</note>, que al del Gordio Frigio dio salida, porque allí cortaba en cuerpo palpable y aquí en oposición, aire sin tomo.</p>
+        </sp>
+        <sp who="Lusitano">
+          <speaker>Lusitano</speaker>
+        <p>Verdad es que podrá en lo heroico el Poeta introducir voces ajenas, como sean tales, que con más energía descubran lo que se pretende, que [55] de esta suerte será la novedad ilustre adorno de la obra, y aún fingir palabras y figuras de decir. Y no se contenta <name type="authority">Aristóteles</name> en el libro 3 de la <title>Retórica</title>, con que sean las voces introducidas del Latín solamente, que es lengua general a todos, sino que de otra cualquier las puede introducir, que con esto (dice él) queda la oración mayor, donde Virgilio usó de vocablos Persa y Púnico, cuales son Magalia y Gaza, de suerte que a tiempos y no continuado, cual en el Soneto referido, es importantísima la tal introducción de palabras, como no sea parecida a la de Ariosto, que dijo en un verso de su grande obra: <hi rend="i">Agnus Dei</hi>.</p>
+        </sp>
+        <sp who="Elaso">
+          <speaker>Elaso</speaker>
+        <p>No acredita poco este lugar haber usado Virgilio las referidas voces, pues escribía en la lengua Latina, que no suele pedir ayuda a nadie. Mas al fin halló Virgilio que era adorno de su Poema, y de otra suerte los que hoy se escurecen sin razón se quejan de que no hallan alabanzas en los que les oyen conversando o conversan escribiendo. Y en vez de aplauso ganan enemigos, indigno fruto de las esperanzas de las conversaciones o de las escrituras que habiendo de ser fáciles para obligar, dulces para mover, y doctas para enseñar, son con aquella prodigiosa afectación el movimiento de los sentidos, disgustados para las gracias que por otro camino se ganan y encendidos para las ofensas que por este se despiertan, [56] porque la conversación o escritura semejantemente tenebrosa, así como ofende el oído, de la misma manera que la fácil y clara transforma los contrarios en afición, los aficionados en amistad, el amigo fingido en verdadero, el verdadero en constante.</p>
+        </sp>
+        <sp who="Lusitano">
+          <speaker>Lusitano</speaker>
+        <p>Todo esto pudieron conseguir felizmente aquellos tres famosos Lusitanos y Livios Portugueses, Juan de Barros en la grande obra, António Pinto, que de las lunas ilustres de su nobleza pudo prestar tanta luz a la historia, que escribió de la conjuración de los Reyes Orientales, y Francisco de Morais, tanta sombra del mismo ilustre árbol con que se apellida, a la suya bien que fabulosa en parte de Palmerim, que con ellas mismas escurecieron la fama y gloria de los que antes y después escribieron, hablando en su lengua tan elegantes, que con razón les pueden envidiar todos, mas igualar ninguno<note place="bottom">[NDEC] La intervención de Lusitano está enteramente alterada en la edición de 1674: «Todo eso pudieron conseguir felizmente muchos famosos Livios y Cicerones portugueses, que con varias obras escurecieron la fama y gloria de los que antes y después escribieron, hablando en su lengua tan elegantes, que con razón les pueden envidiar todos, mas igualar ninguno» (p. 45). </note>.</p>
+        </sp>
+        <sp who="Sanazaro">
+          <speaker>Sanazaro</speaker>
+        <p>Poderosa planta es la lengua, o pluma, que tan colmado fruto lleva como la amistad, que tan dudosamente se posee, mas no pasemos sin que el gusto le haga la salva.</p>
+        </sp>
+        <!--/section=TextSection-->
+      </div>
+    </body>
+ </text>
+</TEI>
