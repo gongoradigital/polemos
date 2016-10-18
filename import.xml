@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<import version="0.7" author="rodrigoii" date="18-10-16" desc="" name="polemos" rootDir="/Users/rodrigoii/gongoradigital/polemos" script="">
+ <linkGrp type="align"></linkGrp>
+ <corpora>
+    <corpus desc="&lt;pre&gt;&lt;br/&gt;- polemos&lt;br/&gt;- rodrigoii&lt;br/&gt;- 18-10-16&lt;/pre&gt;" cqpid="" encoding="UTF-8" lang="fr" font="" annotate="true" name="POLEMOS">
+       <tokenizer onlyThoseTests="false"></tokenizer>
+       <xslt xsl=""></xslt>
+       <pattributes></pattributes>
+       <sattributes></sattributes>
+       <biblios></biblios>
+       <uis></uis>
+       <editions default="default">
+       	<edition name="default" mode="groovy" page_break_tag="pb" words_per_page="500" build_edition="true" script="pager.groovy"/>
+       </editions>
+       <texts></texts>
+       <queries></queries>
+       <preBuild></preBuild>
+    </corpus>
+ </corpora>
+</import>
