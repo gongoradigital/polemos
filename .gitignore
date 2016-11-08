@@ -1,3 +1,4 @@
 .DS_Store
-gongora_relations.xlsx
+*.xlsx
 ~*
+import.xml
