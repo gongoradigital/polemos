@@ -903,6 +903,7 @@
               la orilla opuesta, forzándolo a volver atrás, pese a los remos que lo impulsaban hacia
               adelante:</p>
             <quote>
+            <lg>
             <l>Resonó en la ribera tiempo escaso</l>
             <l>el canto, que humanar las piedras suele,</l>
             <l>cuando atrás vuelve, y obedece el vaso,</l>
@@ -912,6 +913,7 @@
             <l>y las réprobas almas, con aliento,</l>
             <l>se juzgan revocadas del tormento.<note place="bottom">Canto II, octava 45 en Jáuregui
                 (1993: 451-452).</note></l>
+            </lg>
              </quote>
             <p>Podría parafrasearse como sigue: ‘Resonaba desde hacía poco tiempo en la ribera el
               canto (de Orfeo) que suele infundir en las piedras sentimientos humanos, cuando (el
@@ -4657,8 +4659,7 @@
                 El gran rétor amonestaba también a quienes, pretendiendo imitar la aclamada
                 sobriedad y elegante sencillez de ciertos escritores, incurren en los
                 correspondientes vicios por defecto, cayendo en un estilo pobre, deslavazado y
-                desmañado. Aunque Quintiliano es autoridad de primer plano en nuestro texto, aquí J. solo apela a él 
-                para que rubrique lo dicho por Horacio: los
+                desmañado. Aunque Quintiliano es autoridad de primer plano en nuestro texto, aquí J. solo apela a él para que rubrique lo dicho por Horacio: los
                 malos poetas se engañan confundiendo un fin loable con su caricatura. Por lo demás
                 Horacio es una de las fuentes de inspiración de la <hi rend="i">Institutio
                   oratoria</hi>. Véase Calboli (1995).</note>. Luego <name type="authority"
@@ -5124,25 +5125,22 @@
                 aunque el actual diccionario de la RAE, copiando todavía <hi rend="i">ad pedem
                   litterae</hi> a <hi rend="i">Autoridades</hi>, da como tercera acepción de
                 «fracaso», «caída o ruina de algo con estrépito y rompimiento».</note>:</p>
-            <p><quote><hi rend="i">Entelus vires in ventum effudit; et ultro</hi></quote>
-            </p>
-            <p><quote><hi rend="i">ipse gravis, graviterque ad terram pondere vasto</hi></quote>
-            </p>
-            <p><quote><hi rend="i">concidit</hi><note place="bottom"> Virgilio, <hi rend="i"
+            <quote>
+              <l><hi rend="i">Entelus vires in ventum effudit; et ultro</hi></l>
+              <l><hi rend="i">ipse gravis, graviterque ad terram pondere vasto</hi></l>
+              <l><hi rend="i">concidit</hi><note place="bottom"> Virgilio, <hi rend="i"
                     >Eneida</hi> V, 446-448: ‘Entelo disipó su fuerza en el viento y llevado por su
                   propio peso, cayó pesadamente en el suelo’. La cita es acorde con el texto en las
-                  ediciones actuales, que sin embargo leen «Entellus».</note></quote>.</p>
-
+                  ediciones actuales, que sin embargo leen «Entellus».</note>.</l>
+            </quote>
             <p>Y, en los juegos que describe <name type="authority">Estacio</name>, cuando
               Partenopeo se adelantaba a todos en la carrera, y ponía más esfuerzo en tocar la meta,
               entonces lloró su caída y su pérdida<note place="margin"> li 6 Theb..</note>:</p>
-            <p><quote><hi rend="i">iam finem iuxta dum limina victor</hi></quote>
-            </p>
-            <p><quote><hi rend="i">init, etc.</hi></quote>
-            </p>
-            <p><quote><hi rend="i">Parthenopeus humo, vultumque oculosque madentes</hi></quote>
-            </p>
-            <p><quote><hi rend="i">obruit</hi><note place="bottom"> Estacio, <hi rend="i"
+            <quote>
+              <l><hi rend="i">iam finem iuxta dum limina victor</hi></l>
+              <l><hi rend="i">init, etc.</hi></l>
+              <l><hi rend="i">Parthenopeus humo, vultumque oculosque madentes</hi></l>
+              <l><hi rend="i">obruit</hi><note place="bottom">Estacio, <hi rend="i"
                     >Thebais</hi> (<hi rend="i">Tebaida</hi>), VI, 615-622: «<hi rend="i">Inde dolum
                     iuvenis fraudi accommoda sensit/ tempora.</hi> Iam finem iuxta, dum limina
                   victor/ Parthenopeus<hi rend="i"> init, correpto crine reductum/ occupat, et
@@ -5173,8 +5171,8 @@
                     >Antídoto</hi> achacaba a Góngora haber presumido de su ingenio escribiendo las
                   monstruosas <hi rend="i">Soledades</hi>, queriendo aparecer como poeta ‘grave’,
                   ‘concertado’ y ‘heroico’, cuando solo había nacido para donaires y conceptos
-                  burlescos.</note></quote>.</p>
-
+                  burlescos.</note>.</l>
+            </quote>
             <p>Desmanes propiamente de la <hi rend="i">cacocelía</hi>, y efectos <pb n="f. 5v"/>
               suyos. Los modos de perderse en ella son varios, pero excediendo siempre a la demasía,
               como queda advertido.</p>
@@ -5801,12 +5799,10 @@
               <quote>dura fuerza con las palabras: despojan las cosas de su forma nativa a pesar de
                 ellas mismas, y oblíganlas violentamente a vestirse de ajenos aspectos’.
               </quote></p>
-            <p><quote><hi rend="i">Namque aliqui exercent vim duram, et rebus iniqui</hi></quote>
-            </p>
-            <p><quote><hi rend="i">nativam eripiunt formam indignantibus ipsis</hi>, </quote>
-            </p>
-            <p><quote><hi rend="i">invitasque iubent alienos sumere vultus</hi></quote><note
-                place="bottom"><p rend="noindent"> Marco Girolamo Vida (Cremona 1485-Alba 1566),
+            <quote>
+              <l><hi rend="i">Namque aliqui exercent vim duram, et rebus iniqui</hi></l>
+              <l><hi rend="i">nativam eripiunt formam indignantibus ipsis</hi>,</l>
+              <l><hi rend="i">invitasque iubent alienos sumere vultus</hi><note place="bottom"><p rend="noindent"> Marco Girolamo Vida (Cremona 1485-Alba 1566),
                   literato y eclesiástico del Véneto, debe su fama a la <hi rend="i">Cristiada</hi>,
                   poema épico en latín de matriz virgiliana sobre la proeza de Cristo como Redentor
                   (1550 para la edición del texto definitivo), que fue máximo modelo renacentista de
@@ -5827,8 +5823,8 @@
                   sus quejas y lamentos, y las fuerzan a que muestren a su pesar un semblante
                   ajeno’. Hemos cotejado con la prínceps; <hi rend="i">Marci Hieronymi Vidae
                     Cremonensis de arte poetica libri tres</hi>. París: Robert Estienne,
-                1527.</p></note>.<quote> </quote></p>
-
+                1527.</p></note>.</l>
+            </quote>
             <p>Entendamos esto con ejemplos, aunque fingidos, pues no he de alegar los de otro.
               Supongo que, para describir el mar, traigo metáforas de un libro<note place="bottom">
                 Estas metáforas que resultan extrañas a J. no dejan de vincularse con un antiguo
@@ -5884,8 +5880,7 @@
                   corpulencia’. El texto, idéntico al que se lee en las ediciones modernas,
                   pertenece al episodio en que Lucano describe los efectos de la mordedura de las
                   serpientes líbicas en los soldados de Catón. Golpeado por uno de estos fantásticos
-                  ofidios, el mísero soldado de Catón herido por el mordisco empieza a hincharse y pronto muere ahogado por el
-                  crecimiento incontenible de su propia carne, que sigue aumentando de volumen en el
+                  ofidios, el mísero soldado de Catón herido por el mordisco empieza a hincharse y pronto muere ahogado por el crecimiento incontenible de su propia carne, que sigue aumentando de volumen en el
                   mismo cadáver. En su traducción de <hi rend="i">La Farsalia</hi> Jáuregui vierte
                   así el pasaje: «Sigue tu hazaña el préster espumoso/ bien contrario en efectos
                   exteriores;/ acomete a Nasidio, que animoso/ tienta en vano resguardos luchadores.
@@ -5934,7 +5929,7 @@
                 culpaba en alguna medida de su recuperación por los gongorinos.</note>. Mas, huyendo
               de esta sencillez y estrecheza, porfían en trasponer las palabras, torcer y marañar
               las frases de tal manera que, aniquilando toda gramática, derogando toda ley del
-              idioma, atormentan con su dureza al más sufrido leyente<note place="bottom"> LEYENTE:
+              idioma, atormentan con su dureza al más sufrido leyente<note place="bottom">LEYENTE:
                 el que lee, lector. Tal vez la palabra ‘ lector’ se reservaba preferentemente para
                 el que ‘lee’ en el sentido antiguo de enseñar, dar clase. LECTOR. «Título o grado
                 que en algunas comunidades religiosas equivale a lo mismo que en las universidades
@@ -6019,10 +6014,10 @@
                 sustantivo», por ejemplo: «cuantos me dictó versos dulce musa».</note>. Dividen el
               epíteto del nombre, interponiendo algunas palabras, de que procede este género de
               oraciones:</p>
-            <p><quote>En la moderna de escribir manera</quote>
-            </p>
-            <p><quote>extraños mil se notarán desaires.</quote>
-            </p>
+              <quote>
+            <l>En la moderna de escribir manera</l>
+            <l>extraños mil se notarán desaires.</l>
+              </quote>
             <p>División que en nuestro lenguaje casi siempre desagrada al oído. Contra ella vi
               escrito mucho por <name type="polemista">algún autor enojado<note place="bottom"> Se
                   refiere J. con sorna y desdén a algún censor de Góngora que había criticado su
@@ -6101,11 +6096,10 @@
                   flores,/ que el verde visten prado…</hi>» (Jáuregui 2002: 76-77). Comenta y valora
                 estas reflexiones Joaquín Roses Lozano (Roses 1994: 171).</note>. Véase la
               diferencia:</p>
-            <p><quote>Desaires mil se notarán extraños </quote>
-            </p>
-            <p><quote>en la manera de escribir moderna.</quote>
-            </p>
-
+            <quote>
+              <l>Desaires mil se notarán extraños</l>
+              <l>en la manera de escribir moderna.</l>
+            </quote>
             <p>No sólo es sufrible término, sino agradable. Infinitos le usan, a nadie ofende y así
               es despropósito traerle a cotejo con el primero. Es tanta verdad que no ofende, que
               aun en prosa humilde se admite, como: “Pocos tienen caudal de letras suficiente para
@@ -6127,17 +6121,15 @@
                 epíteto antepuesto o la defectuosa conformación rítmica o fónica. </note>. Diré
               algunos versos de <name type="authority">Garcilaso</name>, donde usa la suave
               trasposición:</p>
-            <p><quote>Y con voz lamentándose quejosa.</quote>
-            </p>
-            <p><quote>Ya de rigor de espinas intratable.</quote>
-            </p>
-            <p><quote>Los accidentes de mi mal primeros.</quote>
-            </p>
-            <p><quote>Guarda del verde bosque verdadera <note place="bottom"> Los cuatro versos de
+            <quote>
+              <l>Y con voz lamentándose quejosa.</l>
+              <l>Ya de rigor de espinas intratable.</l>
+              <l>Los accidentes de mi mal primeros.</l>
+              <l>Guarda del verde bosque verdadera <note place="bottom"> Los cuatro versos de
                   Garcilaso, con texto idéntico al de la edición moderna que manejamos, pertenecen
                   a: <hi rend="i">Égloga</hi>, II, v. 226; <hi rend="i">Égloga</hi>, I, v. 307; <hi
-                    rend="i">Égloga</hi>, II, v. 523 y 610.</note> .</quote>
-            </p>
+                    rend="i">Égloga</hi>, II, v. 523 y 610.</note>.</l>
+            </quote>
             <p><pb n="f. 11r"/> ¿Quién puede argüir dureza en estas divisiones? Antes conceder
               elegancia, porque se oye primero el nombre (aquí apoya la distinción) y después su
               epíteto. Si lo trocásemos, anteponiendo el epíteto, y después el nombre, entonces
@@ -6182,8 +6174,7 @@
               en el sentido de las cosas (como quiera que sean) es que también las afectan con el
               término extraño del decirlas. Aunque son humildes <pb n="f. 11v"/> y mansas, el
               lenguaje las turba y las embravece. Quieren, en la forma que pueden, huir lo ordinario
-              y es sin duda que dicen novedades, pero son vanidades flamantes: «<quote><hi rend="i"
-                  >Dum vitant humum, nubes et inania captant»</hi><note place="bottom"> Melchora
+              y es sin duda que dicen novedades, pero son vanidades flamantes: «<quote><hi rend="i">Dum vitant humum, nubes et inania captant»</hi><note place="bottom"> Melchora
                   Romanos anota que no ha podido localizar este ‘adagio’. Se trata de un verso de
                   Horacio, <hi rend="i">Ars poetica</hi>, v. 330, que cierra el siguiente pasaje:
                     «<hi rend="i">Verum ita risores, ita commendare dicaces/ conveniet Satyros, ita
@@ -6246,15 +6237,14 @@
               él) <quote>‘a los establos de los caballos, lares equinos; o a la grama del campo,
                 crines de la gran madre, me pareciera la misma imprudencia y ceguedad, que ataviar
                 un pigmeo con los vestidos grandísimos de un gigante’</quote>.</p>
-            <p><quote><hi rend="i">Haud magis imprudens mihi erit et luminis expers</hi></quote>
-            </p>
-            <p><quote><hi rend="i">qui puero ingentes habitus det ferre gigantis</hi></quote>
-            </p>
-            <p><quote><hi rend="i">quam si quis stabula alta lares appellet equinos</hi></quote>
-            </p>
-            <p><quote><hi rend="i">aut crines magnae genitrici gramina dicat</hi><note
+            <quote>
+              <l><hi rend="i">Haud magis imprudens mihi erit et luminis expers</hi></l>
+            <l><hi rend="i">qui puero ingentes habitus det ferre gigantis</hi></l>
+            <l><hi rend="i">quam si quis stabula alta lares appellet equinos</hi></l>
+            <l><hi rend="i">aut crines magnae genitrici gramina dicat</hi><note
                   place="bottom"> Marco Girolamo Vida, <hi rend="i">Poeticorum libri tres</hi>, III,
-                  v. 156-159. La cita y la traducción son fieles. </note></quote> . </p>
+                  v. 156-159. La cita y la traducción son fieles. </note>.</l>
+            </quote>
             <p>De estos ejemplos se pueden inferir otros, que se hallan semejantes en las
               composiciones reprobadas.</p>
             <p>El efectuar un escrito es ajustar las voces de un <pb n="f. 12r"/> instrumento, donde
@@ -6498,7 +6488,7 @@
                 discurso (<hi rend="i">peroratio</hi>) debe despertar emociones, lo que se consigue
                 mediante las figuras de pensamiento y de palabra (<hi rend="i">figurae
                   sententiae</hi> (o<hi rend="i"> sententiarum</hi>) y <hi rend="i">figurae
-                  verborum</hi>). </note>. Por querer beberse los mares, no solo las ondas
+                  verborum</hi>).</note>. Por querer beberse los mares, no solo las ondas
               castalias, revientan de poetas (como dice el vulgar) y aun no reconocen su peligro:
               antes le juzgan por sanidad robusta. Así llegan sus obras a ser con pertinacia
               intolerables y su remedio difícil en nuestra esperanza.</p>
@@ -7747,17 +7737,13 @@
               broncas (con que ahogan el grano), no flores tiernas y suaves. A este sentido les
               traigo aquellos versos de Garcilaso<note place="margin"> Egloga I.</note>, profeta del
               presente desorden.</p>
-            <p><quote>La tierra, que de buena</quote>
-            </p>
-            <p><quote>gana nos producía</quote>
-            </p>
-            <p><quote>flores, con que solía</quote>
-            </p>
-            <p><quote>quitar en sólo verlas mil enojos,</quote>
-            </p>
-            <p><quote>produce agora en cambio estos abrojos <note place="bottom"> Garcilaso de la
-                  Vega, <hi rend="i">Égloga I</hi>, v. 303-306. J. urde lo que llama Gracián «concepto por acomodación
-                  de verso antiguo, de algún texto o autoridad» (Gracián 1969: II, 62-68). Véase
+            <quote>
+              <l>La tierra, que de buena</l>
+              <l>gana nos producía</l>
+              <l>flores, con que solía</l>
+              <l>quitar en sólo verlas mil enojos,</l>
+              <l>produce agora en cambio estos abrojos <note place="bottom"> Garcilaso de la
+                  Vega, <hi rend="i">Égloga I</hi>, v. 303-306. J. urde lo que llama Gracián «concepto por acomodación de verso antiguo, de algún texto o autoridad» (Gracián 1969: II, 62-68). Véase
                   Blanco 1988. Su ‘acomodación’ de este verso antiguo es un juego de ingenio. Aplica
                   la imagen garcilasiana de la tierra que ya no da flores sino abrojos, proyección
                   paisajística del desconsuelo del viudo Nemoroso, a un asunto remotísimo y a una
@@ -7789,9 +7775,8 @@
                   momento, renovar y ensanchar la poesía y con ella la lengua, mediante una
                   inyección masiva de formas y motivos cultos admirablemente asimilados y
                   naturalizados, es lo mismo que ahora hace Góngora o pretende hacer. </note>
-                .</quote>
-            </p>
-
+                .</l>
+            </quote>
             <p>En vez de sacar del idioma el licor que buenamente puede exprimirse, le hacen verter
               heces y amargura, como a la naranja. No ha de ser tanto el aprieto. Pudieran
               considerar que ha habido otros no menos deseosos de ilustrar la poesía castellana y
@@ -8146,8 +8131,7 @@
                   reperias, aut quod finxeris egregium esse ducas, huic sententiam accomodare
                   quaeris ac damnum quoddam existimas, si illud alicubi non intruseris, etiam si ad
                   id quod dicitur eo minime sit opus</hi></quote>»<note place="bottom"> El extracto
-                del <hi rend="i">Lexífanes</hi> de <name type="authority">Luciano</name> está tomado de <hi rend="i"
-                  >Luciani Samosatensis Opera</hi> I, p. 972. No hay alteraciones ni errores de
+                del <hi rend="i">Lexífanes</hi> de <name type="authority">Luciano</name> está tomado de <hi rend="i">Luciani Samosatensis Opera</hi> I, p. 972. No hay alteraciones ni errores de
                 transcripción.</note>. A esta suma se reduce el estilo de nuestros <hi rend="i"
                 >cacocelos</hi><note place="bottom"> La palabra está en cursiva en el impreso, como
                 si J., que crea el neologismo hispanizado (de acento algo jocoso), lo marcara como
@@ -8931,17 +8915,13 @@
                 Modesto</quote> (insignes intérpretes) <quote>de qué sirve?, pregunto. Alábense en
                 buen hora tus obras con esa oscuridad. Yo querría que las mías agradasen a cualquier
                 gramático, y sin trabajar su gramática</quote>’<quote>.</quote></p>
-            <p><quote><hi rend="i">Scribere te quae vix intelligat ipse Modestus</hi>, </quote>
-            </p>
-            <p><quote><hi rend="i">et vix Claranus, quid, rogo, Sexte, iuvat</hi>? </quote>
-            </p>
-            <p><quote><hi rend="i">Non lectore tuis opus est sed Apolline libris</hi></quote>
-            </p>
-            <p><quote><hi rend="i">iudice te maior Cinna Marone fuit.</hi></quote>
-            </p>
-            <p><quote><hi rend="i">Sic tua laudentur: sane mea carmina, Sexte</hi></quote>
-            </p>
-            <p><quote><hi rend="i">grammaticis placeant, et sine grammaticis</hi><note
+           <quote>
+             <l><hi rend="i">Scribere te quae vix intelligat ipse Modestus</hi>,</l>
+            <l><hi rend="i">et vix Claranus, quid, rogo, Sexte, iuvat</hi>?</l>
+            <l><hi rend="i">Non lectore tuis opus est sed Apolline libris</hi></l>
+            <l><hi rend="i">iudice te maior Cinna Marone fuit.</hi></l>
+            <l><hi rend="i">Sic tua laudentur: sane mea carmina, Sexte</hi></l>
+            <l><hi rend="i">grammaticis placeant, et sine grammaticis</hi><note
                   place="bottom"> Marcial, <hi rend="i">Epigramas</hi>, X, 21. El texto no difiere
                   del que da la edición moderna que consulto, salvo en la puntuación del verso 5:
                     «<hi rend="i">sic tua laudentur sane: mea carmina, Sexte</hi>». Véase Marcial
@@ -8954,9 +8934,8 @@
                   y lima. Catulo concluye, tras haber contrapuesto esa labor de cuidado exquisito
                   con los pesados e interminables <hi rend="i">Anales</hi> de Volusio: ‘Tenga yo en
                   gran estima las breves poesías de mi amigo,/ mientras el vulgo disfrute con el
-                  retórico Antímaco’. </note> . </quote>
-            </p>
-
+                  retórico Antímaco’.</note>.</l>
+            </quote>
             <p>A Modesto, Clarano, Platón, Virgilio, Plocio<note place="bottom"> Alusión a la cita
                 de Horacio con la que empieza el capítulo y que está constantemente presente como
                 posible contradicción a las ideas de J.</note> y semejantes los queremos para que
@@ -9554,13 +9533,6 @@
               Bastaba no criar luz para que las hubiese: donde ella falta se hallan. Así, para que
               redunde oscuridad en los versos, no es conveniente poner cuidado: antes, descuidarse
               en ponerle. Dar luz es lo difícil; no conseguirla, facilísimo.</p>
-
-
-
-
-
-
-
             <!--/section=TextSection-->
           </div>
         </div>
