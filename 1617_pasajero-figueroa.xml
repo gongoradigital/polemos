@@ -127,7 +127,9 @@
             <p rend="noindent"><hi rend="sc">Alighieri</hi>, Dante:</p>
             <bibl>—, <hi xml:lang="es" rend="i">Divina comedia</hi>.</bibl>
             <p rend="noindent"><hi rend="sc">Herrera</hi>, Fernando de:</p>
-            <bibl>—, <hi rend="i"></hi><ref target="https://books.google.es/books?id=33vJc_oA8SMC">Obras de Garcilaso de la Vega con anotaciones de Fernando de Herrera</ref>, Sevilla: Alonso de la Barrera, 1580.</bibl>
+            <bibl>—, <hi rend="i"><ref target="https://books.google.es/books?id=33vJc_oA8SMC">Obras de Garcilaso de la Vega con anotaciones de Fernando de Herrera</ref></hi>, Sevilla: Alonso de la Barrera, 1580.</bibl>
+            <p rend="noindent"><hi rend="sc">Marino</hi>, Giovan Battista:</p>
+            <bibl>—, <ref target="http://www.e-rara.ch/doi/10.3931/e-rara-5666"><hi xml:lang="it" rend="i">Rime di Gio. Battista Marino […] Parte prima</hi></ref>, Venecia: Giovan Battista Ciotti, 1602.</bibl>
           </div>
           <div>
             <head>10.2 Obras citadas por el editor</head>
@@ -156,8 +158,8 @@ La edición de 1628 (procedente de laBiblioteca Regional de Madrid) se puede con
             <p rend="noindent"><hi rend="sc">Cebrián</hi>, José:</p>
             <bibl>—, <hi xml:lang="es" rend="i">Estudios sobre Juan de la Cueva</hi>, Sevilla, Universidad de Sevilla, 1991.</bibl>
             <p rend="noindent"><hi rend="sc">Domínguez Leal</hi>, José Miguel:</p>
-            <p rend="noindent">—, «Compendio de la poesía macarrónica en España y de su influencia en la literatura española», <hi xml:lang="es" rend="i">Calamus renascens: Revista de Humanismo y Tradición Clásica</hi>, vol. II, 2001, p. 199-221.</p>
-            <p rend="noindent"><hi rend="sc">Flolengo</hi>, Teofilo:</p>
+            <bibl>—, «Compendio de la poesía macarrónica en España y de su influencia en la literatura española», <hi xml:lang="es" rend="i">Calamus renascens: Revista de Humanismo y Tradición Clásica</hi>, vol. II, 2001, p. 199-221.</bibl>
+            <p rend="noindent"><hi rend="sc">Folengo</hi>, Teofilo:</p>
             <bibl>—, <hi xml:lang="es" rend="i">Opere di Teofilo Folengo</hi>, Carlo Cordié (ed.), Milán, Ricciardi, 1977.</bibl>
             <bibl>—, <hi xml:lang="es" rend="i">Baldus</hi>, Emilio Faccioli (ed.), Turín, Einaudi, 1989.</bibl>
             <p rend="noindent"><hi rend="sc">Gracián</hi>, Baltasar:</p>
