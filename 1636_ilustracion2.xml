@@ -5,12 +5,16 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ilustración de la <hi rend="i">Fábula de Píramo y Tisbe</hi></title>
+        <title>Ilustración y defensa de la <hi rend="i">Fábula de Píramo y Tisbe</hi></title>
         <author> Cristóbal de Salazar Mardones</author>
         <editor>Sara Pezzini</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
+        <respStmt>
+          <name>Pedro Conde Parrado</name>
+          <resp>relecture</resp>
+        </respStmt>
         <respStmt>
           <name>Hector Ruiz</name>
           <resp>stylage et édition TEI</resp>
@@ -46,15 +50,6 @@
   <text>
     <body><div>
       <p rend="b"><pb n="[fol. 101r]"/> </p>
-      <p><quote><hi rend="i">Quid refort ori virgis, ferroque necaari</hi>?  
-        </quote> </p>
-      <p><quote><hi rend="i">Autotratus eas? An turpi clausus in arca</hi>, 
-        </quote> </p>
-      <p><quote><hi rend="i">Quo te dimissit peccati conscia berilis</hi></quote> </p>
-      <p><quote><hi rend="i">Contractum genibus tangas caput? etc..</hi></quote> </p>
-      <p>Véase a <name type="authority">Horacio</name>, sátira 2, libro I, y <name type="authority">Apuleyo</name>, libro 8, <title>Asini aurei</title>, que cuentan largas miserias de los enamorados, entre las cuales se puede referir el andar por lugares tan inmundos.</p>
-      <p/>
-      <p>59.<space rend="tab">    </space></p>
       <l xml:lang="es"><quote><hi rend="color_00000a">«Barco ya de vistas – dijo –, </hi></quote> </l>
       <l xml:lang="es"><quote><hi rend="color_00000a">angosto no, sino augusto,</hi></quote> </l>
       <l xml:lang="es"><quote><hi rend="color_00000a">que velas hecho tu lastre </hi></quote> </l>

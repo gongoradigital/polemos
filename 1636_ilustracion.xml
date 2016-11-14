@@ -4,12 +4,16 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Ilustración de la <hi rend="i">Fábula de Píramo y Tisbe</hi></title>
+        <title>Ilustración y defensa de la <hi rend="i">Fábula de Píramo y Tisbe</hi></title>
         <author> Cristóbal de Salazar Mardones</author>
         <editor>Sara Pezzini [Transcripción de Sara Pezzini]</editor>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
+        <respStmt>
+          <name>Pedro Conde Parrado</name>
+          <resp>relecture</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
