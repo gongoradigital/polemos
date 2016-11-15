@@ -13,8 +13,16 @@
       <editionStmt>
         <edition>OBVIL</edition>
         <respStmt>
+          <name>Pedro Conde Parrado</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
           <name>Hector Ruiz</name>
-          <resp>stylage et édition TEI</resp>
+          <resp>édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Aude Plagnard</name>
+          <resp>édition XML/TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
