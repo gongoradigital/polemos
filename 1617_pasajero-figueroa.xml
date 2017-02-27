@@ -199,6 +199,8 @@ La edición de 1628 (procedente de laBiblioteca Regional de Madrid) se puede con
         </div>
       </front>
       <body>
+        <index indexName="resp" n="Suárez de Figueroa, Cristóbal"/>
+        <index indexName="date" n="1617"/>
         <head>Texto de la edición</head>
         <div>
           <head>Fragmento del «Alivio II»</head>
