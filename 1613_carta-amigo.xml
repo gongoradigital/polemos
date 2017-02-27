@@ -715,6 +715,8 @@
       </div>
     </front> 
     <body>
+      <index indexName="resp" n="un amigo de don Luis de Góngora"/>
+      <index indexName="date" n="1613"/>
       <div>
         <head>Texto de la edición</head>
           <pb n="f. 99r"/>
