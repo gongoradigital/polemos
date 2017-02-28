@@ -6,7 +6,7 @@
       <titleStmt>
         <title>Epístolas de <hi rend="i">La Filomena</hi> de Lope de Vega</title>
         <author>Anónimo («un señor de estos reinos»)</author>
-        <author key="Lope de Vega">Lope de <hi rend="sc">Vega</hi></author>
+        <author key="Vega Carpio, Lope de">Lope de <hi rend="sc">Vega</hi></author>
         <editor>Pedro Conde Parrado</editor>
       </titleStmt>
       <editionStmt>
@@ -427,6 +427,8 @@
       </div>
     </front>
     <body>
+      <index indexName="resp" n="Vega Carpio, Lope Félix de"/>
+      <index indexName="date" n="1621"/>
       <div xml:id="introduccion">
         <head>Texto de la edición</head>
         <div>

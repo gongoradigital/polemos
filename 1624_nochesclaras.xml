@@ -41,6 +41,8 @@
   </teiHeader>
  <text> 
   <body>
+    <index indexName="resp" n="Sousa, Manuel de Faria e"/>
+    <index indexName="date" n="1624"/>
     <div>
         <head>Palestra IV</head>
         <p>«Partes de la conversación, Para los habladores en su lengua, y para los que sin su lengua hablan», Palestra IV, pp. 39-56</p>

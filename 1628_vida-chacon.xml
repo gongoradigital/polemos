@@ -55,6 +55,8 @@
   </teiHeader>
   <text>
     <body>
+      <index indexName="resp" n="Paravicino, Fray Hortensio Félix"/>
+      <index indexName="date" n="1628"/>
       <head>Texto de la edición</head>
       <div>
         <pb n="f. V"/>
