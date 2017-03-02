@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <!--?xml-stylesheet type="text/xsl" href="tools/polemos2graph.xsl"?-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" n="1660_apologetico">
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1660_apologetico">
   <!--Odette: 2016-09-27T13:43:26+02:00-->
   <teiHeader>
     <fileDesc>

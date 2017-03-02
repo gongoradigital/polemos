@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1614_parecer">
   <teiHeader>
     <fileDesc>
       <titleStmt>
