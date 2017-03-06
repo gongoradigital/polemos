@@ -331,15 +331,15 @@
           <index indexName="resp" n="fray Fulgencio Maldonado"/>
           <index indexName="date" n="1661-06-01"/>
           <index indexName="addressee" n="Juan de Espinosa Medrano"/>
-          <head><pb n="f. b2r"/> Censura del doctor don fray<note type="app" rend="I"> fray <hi
-                rend="i">B</hi> : frey <hi rend="i">A</hi></note> Fulgencio Maldonado<note
+          <head><pb n="f. b2r"/> Censura del doctor don frey<note type="app" rend="I"> frey <hi rend="i">A</hi> : fray <hi
+                rend="i">B</hi></note> Fulgencio Maldonado<note
               place="bottom"> Nacido en Lima en abril de 1586 y muerto el 28 de octubre de 1661,
               antes de que se imprimiera el <hi rend="i">Apologético</hi>, fray Fulgencio Maldonado
               fue predicador agustino en la provincia de Quito, procurador provincial de la orden y
               doctor en Filosofía y Teología. Viajó al virreinato de Nápoles, donde sirvió de 1620 a
               1627 y a Roma, donde obtuvo de Pablo V la autorización de ingreso en la orden de San
               Juan de Jerusalén, efectiva en 1621, con el consecuente abandono de la regla agustina.
-              Firma esta censura en calidad de capellán de obediencia de la orden de San Juan. En
+              Firma esta censura en calidad de capellán de obediencia de la orden de San Juan, orden militar que le hace merecedor del título de «frey». En
               1627 es capellán de corte en Madrid, y publica un <hi rend="i">Sermón de la Octava que
                 en esta Corte se consagró a la gloria de los veinte y tres Mártires del Japón,
                 Descalzos de la Orden de S. Francisco, que canonizó la Santidad de Urbano VIII…</hi>
@@ -373,7 +373,7 @@
             los llaman con nombre de incógnita etimología<note place="bottom"> La primera aparición
               del término en la lengua española escrita está documentada en 1562 (Vitulli y Solodkow
               2009: 22-25). Corominas, que lo encuentra en José de Acosta (1590), afirma que es de
-              origen portugués: «<hi rend="i">crioulo</hi> ‘el esclavo que nace·en casa de su
+              origen portugués: «<hi rend="i">crioulo</hi> ‘el esclavo que nace en casa de su
               señor’, ‘el negro nacido en las colonias, a distinción del procedente de la trata’,
               ‘blanco nacido en las colonias’, derivado de <hi rend="i">criar</hi>» (Corominas 1984:
               243-245), aunque Dieter Woll, con testimonios documentales más tempranos, sostiene que
@@ -419,8 +419,8 @@
               menor atribuida a Virgilio.</note>. Todo es seguro, como docto todo en estos
             discursos; ni la fe tropieza, ni las costumbres padecen. Así siento en Arequipa, 1 de
             junio de 1660.</p>
-          <p>Doctor don fray<note type="app" rend="I"> fray <hi rend="i">B</hi> : frey <hi rend="i"
-                >A</hi></note> Fulgencio Maldonado</p>
+          <p>Doctor don frey<note type="app" rend="I"> frey <hi rend="i"
+            >A</hi>  : fray <hi rend="i">B</hi></note> Fulgencio Maldonado</p>
         </div>
         <div type="chapter" xml:id="preliminar6">
           <index indexName="resp" n="Alonso Bravo de Paredes y Quiñones"/>
@@ -443,7 +443,7 @@
                 <hi rend="i">Anales del Cuzco</hi> sea posterior a la publicación de los edictos de
               la fe y corresponda al título con el que se le recordaba en el cabildo. De hecho, la
               universidad jesuita de san Ignacio de Loyola, donde Alonso Bravo de Paredes se graduó
-              como licenciado y doctor, sólo fue fundada en 1623 y la portada de su <hi rend="i"
+              como licenciado y doctor, fue fundada en 1623 y la portada de su <hi rend="i"
                 >Sermón en la solemnidad de la Virgen María</hi> nos indica que fue «comisario de la
               Santa Inquisición de la provincia de Quispicancha», pero sólo «visitador general del
               obispado del Cuzco» (Bravo de Paredes y Quiñones 1669: f. []1r). Falleció en el mes de
@@ -475,17 +475,17 @@
             escrito por el doctor <name type="polemista" key="Juan de Espinosa Medrano">Juan de
               Espinosa Medrano</name>, colegial real y catedrático primario de Teología en el
             ilustre colegio de San Antonio Abad; cuando, si no por méritos, por ruegos frecuentes
-            míos y favor singular de su merced, se había de introducir mi dicha a tamaña pretensión:
-              «<quote xml:lang="la" rend="i">Indulgentiae scio istud esse, non iudicii</quote>»<note
+            míos y favor singular de su merced, se había de introducir mi dicha a tamaña pretensión,
+              «<quote xml:lang="la" rend="i">indulgentiae scio istud esse, non iudicii</quote>»<note
               place="margin" resp="author">1 Seneca epist. 45.</note><note place="bottom"> La cita
               se halla en las <hi rend="i">Epístolas morales a Lucilio</hi>, libro 5, epístola 45.
               En la traducción de Ismael Roca Meliá (Séneca 1986: 269), reza así: «Sé que ello es
-              indicio de tu benevolencia, no de tu reflexión».</note>, dijo <name type="authority" key="Séneca"
-              >Séneca</name>. Felicidad es suma ver en esta corta patria un sujeto epílogo
+              indicio de tu benevolencia, no de tu reflexión».</note> (dijo <name type="authority" key="Séneca"
+              >Séneca</name>). Felicidad es suma ver en esta corta patria un sujeto epílogo
             glorioso de muchos grandes.</p>
-          <quote xml:lang="la" rend="i"><l>Quae sparguntur in omnes,</l>
-            <l>In te mixta fluunt, et quae diuisa beatos</l>
-            <l>Efficiunt, collecta tenes<note place="margin" resp="author">1 Paneg. 1 de laud.
+          <quote xml:lang="la" rend="i"><l>Quae sparguntur in omnes</l>
+            <l>in te mixta fluunt et quae diuisa beatos</l>
+            <l>efficiunt collecta tenes<note place="margin" resp="author">1 Paneg. 1 de laud.
                   Stil.<note type="app" rend="I">Stil. <hi rend="i">A</hi> : Scil. <hi rend="i"
                     >B</hi></note></note><note place="bottom"> Claudiano, <hi rend="i">De consulatu
                   Stilichonis</hi> (<hi rend="i">Sobre el consulado de Estilicón</hi>), libro 1, 21,
@@ -501,7 +501,7 @@
               Espinosa Medrano</name>. Miro en este argumento ya no las luces todas de este <name
               type="polemista" key="Juan de Espinosa Medrano">Demóstenes indiano</name>: tienen
             éstas otra esfera mayor a que iluminar brillando, siendo usurero empleo de la atención
-            en los púlpitos<note place="bottom"> Hemos de entender aquí la «usura», como en el <hi
+            en los púlpitos<note place="bottom"> Hemos de entender aquí la «usura», según el <hi
                 rend="i">Diccionario de Autoridades</hi>, como «cualquier ganancia, fruto, utilidad
               o aumento que se saca de alguna cosa en lo físico o moral», y el adjetivo “usurero”
               como derivado de “usurar” o “usurear”, «ganar o adquirir absolutamente con utilidad,
@@ -520,7 +520,7 @@
               líneas de su maestro y de esta fórmula gongorina al concluir su censura al <hi
                 rend="i">Sermón en la solemnidad de la Virgen María</hi> de Alonso Bravo de Paredes
               y Quiñones: «en estos discursos no diviso ápice que se extravíe de la pauta de nuestra
-              santa fe ni del loable arancel de las cristianísimas costumbre, admiro sí títulos
+              santa fe ni del loable arancel de las cristianísimas costumbres, admiro sí títulos
               muchos por donde merecen la prensa, la fama, la inmortalidad» (Bravo de Paredes y
               Quiñones 1669: f. B2v).</note> que, siendo el menor que ha guiado su pluma<note
               place="bottom"> El <hi rend="i">Apologético</hi> sería el vuelo menor de la pluma de
@@ -539,16 +539,16 @@
               que apenas traía a la memoria su origen ovidiano. Sin embargo, en este punto del
               panegírico que le dedica Alonso Bravo a Espinosa Medrano, puede tener especial relieve
               en la composición de una isotopía solar, puesto que pertenece al inicio del libro
-              segundo de las <hi rend="i">Metamorfosis</hi> en el que Ovidio describe el palacio del
+              segundo de las <hi rend="i">Metamorfosis</hi>, en el que Ovidio describe el palacio del
               Sol: las luces de Espinosa Medrano, que Alonso Bravo acaba de mencionar, el brillo de
-              El Lunarejo y sus centellas, le convierten en un émulo del astro del día y este
+              El Lunarejo y sus centellas, le convierten en un émulo del astro del día, y este
               panegírico tiene su fuente, aunque distante, en el palacio solar de Ovidio. Compárese
-              por cierto esta alusión a la repetida asimilación de Góngora con el sol en el <hi
+              por cierto esta alusión con la repetida asimilación de Góngora con el sol en el <hi
                 rend="i">Apologético</hi>, que comienza en la sección III (§ 9) y destaca en otros
               lugares, señaladamente en la sección VII (§ 57).</note>, de nuevo se imprimirá
             inofenso el nombre del <name type="polemista" key="Luis de Góngora">lírico poeta</name>,
             a pesar rabioso<note place="bottom"> Retoma aquí Alonso Bravo la asimilación de Faría
-              con un perro envidioso que se encuentra en los primeros párrafos del <hi rend="i"
+              con un perro envidioso que leemos en los primeros párrafos del <hi rend="i"
                 >Apologético</hi>.</note> del <name type="polemista" key="Manuel de Faría y Sousa"
               >Crisis lusitano</name><note place="bottom"> “Crisis” es apelativo creado por
               antonomasia a partir de la acepción etimológica del término, distinta de la acepción
@@ -563,7 +563,7 @@
             a pelo el griego Budeo a los que en oposición de la dulce complacencia que el consejo de
             los dioses tuvo de haber fabricado a <pb n="f. b3r"/> Venus, idea suma de las
             perfecciones todas, no hallan más punto que atildar en su belleza que ser sus sandalias
-            un tilde o cuando más de pocos puntos, «<quote xml:lang="la" rend="i">Sandalium habet
+            un tilde o, cuando más, de pocos puntos, «<quote xml:lang="la" rend="i">Sandalium habet
               nimis stridulum, et argutum</quote>»<note place="margin" resp="author">1 Budeus in
                 Philolog.<note type="app" rend="I">Philolog. <hi rend="i">em.</hi> : Philog <hi
                   rend="i">AB</hi></note></note><note place="bottom"> En su <hi rend="i">De studio
@@ -601,7 +601,7 @@
               vengativo<note type="app" rend="I"> vengativo <hi rend="i">A</hi> : venga†tivo <hi
                 rend="i">B</hi></note>, ensangrentará al que a él<note place="bottom"> Este segundo
               pronombre se refiere al cedro.</note> osado le hiriere. «<quote xml:lang="la" rend="i"
-              >Eritis, arbores, ab hominum injuriis tutiores, si mecum commoretis</quote>»<note
+              >Eritis, arbores, ab hominum iniuriis tutiores, si mecum commoretis</quote>»<note
               place="margin" resp="author">1 Rovill.<note type="app" rend="I">Rovill. <hi rend="i"
                   >B</hi> : Rouill. <hi rend="i">A</hi></note> in Histor. Plant.</note><note
               place="bottom"> ‘Estaréis, árboles, más a salvo de las ofensas de los hombres, si os
@@ -631,19 +631,18 @@
             su corona <name type="polemista" key="Juan de Espinosa Medrano">Espinosa</name>, que si
               <name type="polemista" key="Juan de Espinosa Medrano">Espinosa</name> es su literal
             escudo en <title>Apologético</title> heroico de tan viva defensa, por consecuencia le
-            teje la guirnalda espinosa, «<quote xml:lang="la" rend="i">Scuto bonae voluntatis
+            teje la guirnalda espinosa: «<quote xml:lang="la" rend="i">Scuto bonae voluntatis
               coronasti eum</quote>»<note place="margin" resp="author">1 Psal. 5 Sic Covarr.<note
-                type="app" rend="I">Covarr. <hi rend="i">em.</hi> : Couarr. <hi rend="i">A</hi> ||
-                Cov. <hi rend="i">B</hi></note> embl. lib 1.<note type="app" rend="I">1 <hi rend="i"
+                type="app" rend="I">Couarr. <hi rend="i">A</hi> : Cov. <hi rend="i">B</hi></note> embl. lib 1.<note type="app" rend="I">1 <hi rend="i"
                   >B</hi> : 10 <hi rend="i">A</hi></note> cap. 32.</note><note place="bottom"> La
               cita original, «<hi rend="i">scuto bonae uoluntatis coronasti nos</hi>», proviene del
                 <hi rend="i">libro de los Salmos</hi>, 5, 13 (<hi rend="i">Vulgata</hi> 1975).
               Aparece aquí alterada en el pronombre final, que pasa de «<hi rend="i">nos</hi>» a
-                «<hi rend="i">eum</hi>», por lo que es posible que Alonso Bravo copie literalmente
+                «<hi rend="i">eum</hi>», porque Alonso Bravo copia literalmente
               la cita, como lo indica su marginalia, del margen del capítulo 32 del libro 1 de los
                 <hi rend="i">Emblemas morales</hi> (Zaragoza: por Alfonso Rodríguez, 1604) de Juan
               de Orozco y Covarrubias, donde se lee (Orozco y Covarrubias 1604: f. 80v): «<hi
-                rend="i">Psalm 5. Scuto bonae voluntatis coronasti eum</hi>» (‘Lo coronastéis con el
+                rend="i">Psalm 5. Scuto bonae voluntatis coronasti eum</hi>» (‘Lo coronasteis con el
               escudo de la buena voluntad’).</note>, cantó el Músico Rey por los que formaban la
             diadema honrosa del presidio favorable<note place="bottom"> La «diadema honrosa del
               presidio favorable» es el corro de defensores y, por extensión, la diadema, que
@@ -665,7 +664,7 @@
                 >B</hi> : Adgust <hi rend="i">A</hi>] tract. 9 in Joan</note><note place="bottom">
               «No solo tiene sabor, sino que embriaga». Agustín de Hipona, <hi rend="i">In Iohannis
                 euangelium tractatus</hi>, tratado 9, párrafo 3: «<hi rend="i">non solum sapit quod
-                legis, sed etiam inebria</hi>t» (Migne 1845c: col. 1459).</note>. No solo es
+                legis, sed etiam inebriat</hi>» (Migne 1845c: col. 1459).</note>. No solo es
             apetitoso al paladar más desabrido, sino que embriaga dulcemente al ingenio más
             hidrópico de erudición. Pero en más precisa obligación le reconoce esta escondida
             América, siendo su ingenio, no el ensaye<note place="bottom"> Siendo el ensaye la prueba
@@ -686,7 +685,7 @@
           <index indexName="addressee" n="Juan de Espinosa Medrano"/>
           <head><pb n="f. b3v"/> Censura del muy reverendo padre fray Miguel de Quiñones<note
               place="bottom"> Sobre el franciscano Miguel de Quiñones, que fue colegial en el
-              seminario de San Antonio el magno, sabemos que fue elegido provinciano de su orden en
+              seminario de San Antonio el Magno, sabemos que fue elegido provinciano de su orden en
               1669, además de ocupar los cargos de los que da noticia el título de la censura.
               Véanse las <hi rend="i">Noticias cronológicas de la gran ciudad del Cuzco</hi> de
               Diego de Esquivel y Navia (1980, tomo 2: 126).</note>, catedrático de prima, guardián
@@ -729,24 +728,22 @@
               ofendido, que no necesita leer a su apologeta para responder a los agravios que le
               hace el portugués. A la pregunta, por tanto de si responde el ofendido don Luis, la
               respuesta implícita es sí: tanta es la elocuencia de El Lunarejo, verdadero Góngora
-              redivivo.</note>? ¡O qué grande elocuencia! Porque son aun las señas con el agravio
+              redivivo.</note>? ¡Oh qué grande elocuencia! Porque son aun las señas con el agravio
             elocuentes en un mudo: el calor de una ofensa suele dictarle, si no términos a la
-            lengua, sangre sí a los ojos, con que o explique su inocencia, o se satisfaga de la
+            lengua, sangre sí a los ojos, con que o explique su inocencia o se satisfaga de la
             ofensa. Juzgo que aunque respondiera <name type="polemista" key="Luis de Góngora">don
               Luis</name> con la misma verdad, porque es toda su alma, mas no con el mismo calor del
             pecho, remitiérase magnánimo a lo que<note type="app" rend="I"> que <hi rend="i"
               >A</hi> : qua <hi rend="i">B</hi></note>
-            <name type="authority" key="Marcial">otro Español</name><note place="bottom"> Refiriéndose a
+            <name type="authority" key="Marcial">otro español</name><note place="bottom"> Refiriéndose a
               Marcial.</note> en la misma ocasión de calumnia.</p>
           <quote xml:lang="la" rend="i"><l>Lector et auditor nostros probat, Aule, libellos,</l>
-            <l>Sed quidam exactos esse poeta negat.</l>
-            <l><pb n="f. b4r"/> Non nimium curo, nam coenae fercula nostrae</l>
-            <l>Mallem convivis, quam placuisse cocis.<note place="margin" resp="author">2
+            <l>sed quidam exactos esse poeta negat.</l>
+            <l><pb n="f. b4r"/> non nimium curo, nam coenae fercula nostrae</l>
+            <l>mallem conuiuis quam placuisse cocis.<note place="margin" resp="author">2
                   Martial<note type="app" rend="I">Martial <hi rend="i">B</hi> : Marcial <hi
                     rend="i">A</hi></note></note><note place="bottom"> Marcial, <hi rend="i"
-                  >Epigramas</hi>, lib. IX, 81, v. 1-4: «<hi rend="i">Lector et auditor nostros
-                  probat, Aule, libellos, / sed quidam exactos esse poeta negat. / non nimium curo:
-                  nam cenae fercula nostrae / malim convivis quam placuisse cocis</hi>.» (Marcial
+                  >Epigramas</hi>, lib. IX, 81, v. 1-4 (Marcial
                 1990: 306). El epigrama 81 se titula «A Aulo, sobre la opinión de un poeta incapaz»
                 y dice así: «El lector y el oyente, Aulo, estiman mis libritos, / pero cierto poeta
                 asegura que no están bien rematados. / No me preocupa en demasía: de hecho,
@@ -763,14 +760,14 @@
               type="polemista" key="Manuel de Faría y Sousa">portugués valiente</name>, quizá fiado
             en que estaban ya frías; pena común de los poetas, se lamenta el mismo:</p>
           <quote xml:lang="la" rend="i"><l>Viventi decus atque sentienti</l>
-            <l>Rari post cineres habent Poetae<note place="bottom"> Marcial, <hi rend="i"
+            <l>rari post cineres habent poetae<note place="bottom"> Marcial, <hi rend="i"
                   >Epigramas</hi>, lib. I, 1, v. 5-6. El primer epigrama del libro primero, «Al
                 lector», dice así: «Aquí está el hombre al que lees y reclamas, / Marcial, conocido
                 en el mundo entero / por sus agudos libros de epigramas. / A él, lector entusiasta,
                 le has dado, / mientras vivía y lo apreciaba, la gloria / que pocos poetas tienen
                 después de su muerte.» (traducción de Antonio Ramírez de Verger, véase Marcial
                 2001b: 21). Los versos citados por Miguel de Quiñones son los dos últimos, ocultando
-                así el sentido original del epigrama para torcer su sentido y afirmar que los poetas
+                así el sentido original del epigrama para torcer su significado y afirmar que los poetas
                 muertos son maltratados por el público. <hi rend="bg0000ff">Como en la cita
                   anterior, un apunte manuscrito en el testimonio B remite a: «lib. 1. Ep.
                 1.».</hi></note></l></quote>
@@ -786,19 +783,15 @@
               de papel» que en el siglo XVII opone a los escritores de estos dos bandos ibéricos,
               véase Galbarro García 2015 (31-63).</note>. Una gota del electro castigó en lucida
             cárcel y dulce sepulcro a una abeja, que maltrató muchas flores por beberles la dulzura:
-            ¡o qué honrada muerte, digna de la ocupación de tal vida! y juzgo, conforme a lo que
+            ¡oh qué honrada muerte!, digna de la ocupación de tal vida, y juzgo conforme a lo que
             ella misma escogiera. Dijo <name type="authority" key="Marcial">Marcial</name>:</p>
-          <quote xml:lang="la" rend="i"><l>Et latet et lucet Phaetontide<note type="app" rend="I">
-                Phaetonide <hi rend="i">A</hi> : Phaetontide <hi rend="i">B</hi></note>condita
+          <quote xml:lang="la" rend="i"><l>Et latet et lucet Phaetontide<note type="app" rend="I">Phaetontide <hi rend="i">B</hi> : Phaetonide <hi rend="i">A</hi></note>condita
               gutta,</l>
-            <l>Ut videatur apis, nectare clausa suo.</l>
+            <l>ut videatur apis nectare clausa suo.</l>
             <l>Dignum tantorum pretium tulit illa laborum,</l>
-            <l>Credibile est, ipsam sic voluisse mori. <note place="margin" resp="author">2
+            <l>credibile est ipsam sic voluisse mori.<note place="margin" resp="author">2
                 Marcial</note>
-              <note place="bottom"> Marcial, <hi rend="i">Epigramas</hi>, lib. IV, 32, v. 1-4: «<hi
-                  rend="i">Et latet et lucet phaethontide condita gutta, / ut videatur apis nectare
-                  clusa suo. / dignum tantorum pretium tulit illa laborum: / credibile est ipsam sic
-                  voluisse mori</hi>» (Marcial 1990: 126). El epigrama 32, «Una abeja encerrada en
+              <note place="bottom"> Marcial, <hi rend="i">Epigramas</hi>, lib. IV, 32, v. 1-4 (Marcial 1990: 126). El epigrama 32, «Una abeja encerrada en
                 ámbar», es el siguiente: «Está escondida y brilla oculta en una gota de Faetón / la
                 abeja, de modo que parece en su néctar encerrada. / Halló aquélla la recompensa
                 merecida a sus muchos esfuerzos: / creíble es que quiso ella una muerte así.»
@@ -808,33 +801,17 @@
                 Miguel de Quiñones sólo podemos elaborar hipótesis, basándonos en la difusión de
                 Marcial en España estudiada por Andrea Bresadola (2008: 14-22). Lo más probable es
                 que la edición manejada sea la expurgada del jesuita alemán Rader, que Espinosa
-                Medrano tenía en su biblioteca (Guibovich 1992: 22, «Martial con Radero»). Las citas
-                de Marcial manejadas por fray Miguel de Quiñones, En el libro IX, epigrama 81, v. 4,
-                la variante «<hi rend="i">mallem convivis</hi>» en lugar de «<hi rend="i">malim
-                  convivis</hi>» se encuentra en parte de la tradición textual de los <hi rend="i"
-                  >Epigrammata</hi>, pero esta misma tradición presenta variantes en el libro IV,
-                epigrama 32 que no se encuentran en la lección de Miguel de Quiñones: entre sus
-                editores, Lindsay señala «<hi rend="i">malorum</hi>» en vez de «<hi rend="i"
-                  >laborum</hi>» en el v. 3 (Marcial 1988) e Izaac añade en el v. 1 «<hi rend="i"
-                  >aure</hi>» en vez de «<hi rend="i">Aule</hi>» (Marcial 1973: 126). Además, según
-                Lindsay, esta tradición omite el epigrama I, 1 que maneja el franciscano (véase
-                Marcial 1988: <hi rend="i">praefatio</hi>), aunque Izaac no documenta dicha omisión
-                (Marcial 1969: 16). La variante «<hi rend="i">clausa</hi>» en lugar de «<hi rend="i"
-                  >clusa</hi>» en el epigrama IV, 32, v. 2, aparece en el discurso IV de la <hi
-                  rend="i">Agudeza y arte de ingenio</hi> de Baltasar Gracián (Gracián 1993: 333)
-                pero no hay constancia de que pertenezca a la misma tradición textual que la
-                variante «<hi rend="i">mallem</hi>» ni en la edición de Lindsay ni en la de Izaac de
-                los <hi rend="i">Epigramas</hi>. <hi rend="bg0000ff">En el testimonio B del <hi
+                Medrano tenía en su biblioteca (Guibovich 1992: 22, «Martial con Radero»). En el testimonio B del <hi
                     rend="i">Apologético</hi>, como en las citas anteriores, un apunte marginal
-                  completa la remisión a Marcial: «lib. 4. Ep. 33.».</hi></note></l>
+                  completa la remisión a Marcial: «lib. 4. Ep. 33.».</note></l>
           </quote>
           <p>Las mejores flores de los hesperios jardines maltrató <name type="polemista"
               key="Manuel de Faría y Sousa">Faría</name>, quizá por beberle la miel; pero de la flor
             de los ingenios le ha caído sola una gota, en que tienen sus injurias lucida cárcel,
-            dulce sepulcro, muerte honrada, juzgo que la misma que él cuando le lea escoja por digno
+            dulce sepulcro, muerte honrada: juzgo que la misma que él cuando le lea escoja por digno
             premio de sus trabajos, pues tan felizmente ve acabadas en el mismo néctar de su
             ocupación gustosa las calumnias de <name type="polemista" key="Luis de Góngora">don
-              Luis</name>; yo no hallo alguna en esta obra, porque no merezca la imprenta, muchas
+              Luis</name>; yo no hallo alguna en esta obra, por que no merezca la imprenta; muchas
             razones sí, porque todos la esperan. Esto es lo que siento, etc. En este convento de
             nuestro padre San Francisco de la ciudad del Cuzco, en 10 días del mes de junio de
             1660.</p>
@@ -846,7 +823,7 @@
           <index indexName="date" n="1660-06-14"/>
           <index indexName="addressee" n="Juan de Espinosa Medrano"/>
           <head><pb n="f. b4v"/> Licencia del Ordinario.</head>
-          <p>El provisor y gobernador del Cuzco y su obispado, etc; por lo que toca a la
+          <p>El provisor y gobernador del Cuzco y su obispado, etc., por lo que toca a la
             jurisdicción del ordinario, dio licencia para que se pueda imprimir este
               <title>Apologético</title>, atento a las aprobaciones de suso. Cuzco, catorce de junio
             de mil y seiscientos y sesenta.</p>
@@ -857,17 +834,17 @@
                 >B</hi></note> Haldon, notario público.</p>
         </div>
         <div type="chapter" xml:id="preliminar9">
-          <index indexName="resp" n="Francisco de Valverde Maldonado y Járaba"/>
+          <index indexName="resp" n="Francisco de Valverde Maldonado y Jaraba"/>
           <index indexName="date" n="1661"/>
           <index indexName="addressee" n="Juan de Espinosa Medrano"/>
-          <head><pb n="f. c1r"/> De don Francisco de Valverde Maldonado y Járaba<note place="bottom"
+          <head><pb n="f. c1r"/> De don Francisco de Valverde Maldonado y Jaraba<note place="bottom"
               > Francisco de Valverde Maldonado nació en Cuzco hacia 1628, hijo de Francisco de
-              Valverde Maldonado, cuzqueño, y de Juana de Járaba y Arnedo, madrileña (Lohmann
+              Valverde Maldonado, cuzqueño, y de Juana de Jaraba y Arnedo, madrileña (Lohmann
               Villena 1993: 228). Investigaciones de Ferdinand de Trazegnies sobre la «descendencia
               peruana del conquistador don Francisco de Valverde» discrepan en cuanto al nombre del
               padre del discípulo de El Lunarejo, que podría llamarse Francisco de Valverde y
               Contreras (o Valverde y Montalvo), e indican que don Francisco Tomás de Valverde
-              Maldonado y Járaba, que fue caballero de Alcántara, «nació en el Cuzco y fue bautizado
+              Maldonado y Jaraba, que fue caballero de Alcántara, «nació en el Cuzco y fue bautizado
               el 1 de julio de 1634 y murió en el Cuzco el 8 de abril de 1699» (Trazegnies 1978:
               356). Según las <hi rend="i">Noticias cronológicas de la gran ciudad del Cuzco</hi> de
               Diego de Esquivel y Navia, el autor de estas décimas fue elegido alcalde ordinario en
@@ -885,24 +862,24 @@
                   >Apologético</hi>, que, como rosa, es corona de don Luis y que, por otra parte, lo
                 defiende con sus espinas, procedentes del nombre de El Lunarejo.</note>:</l>
             <l>sangrienta le dan color</l>
-            <l>las heridas, que señalas,</l>
+            <l>las heridas que señalas,</l>
             <l>bien que en sus purpúreas galas</l>
             <l>no las colora, ni aviva</l>
-            <l>talón de Venus lasciva;<note place="bottom"> El talón de la Venus lasciva que puede
+            <l>talón de Venus lasciva<note place="bottom"> El talón de la Venus lasciva que puede
                 avivar las flores es, por metonimia, el pie de la diosa, puesto que sus pies tienen
                 la virtud de sembrar flores a su paso. Así lo cuenta la <hi rend="i">Teogonía</hi>
-                de Hesíodo en los versos 188 y siguientes (Hesiodo 2008: 22-23) y también Poliziano
+                de Hesíodo en los versos 188 y siguientes (Hesíodo 2008: 22-23) y también Poliziano
                 en sus <hi rend="i">Stanze</hi> (Fiorenza: appresso Bartolomeo Sermartelli, 1577),
                 I, 101, v. 4-5: «<hi rend="i">e, stampata dal piè sacro e divino, / d’herba e di
                   fior l’arena si vestissi</hi>» (Poliziano 1577: <ref
                   target="https://books.google.fr/books?id=JkDOp1nveiYC&amp;vq=divino%20sacro%20arena&amp;hl=fr&amp;pg=PT29#v=onepage&amp;q=vestissi&amp;f=false"
                   >f. C1v</ref>). Véase, sobre la huella de estos pies floridos en el <hi rend="i"
-                  >Nacimiento de Vénus</hi> y <hi rend="i">La primavera</hi> de Botticelli: Warburg
-                2003 (62-63 y 79-80). En particular, la capacidad germinadora del pie de la Vénus
+                  >Nacimiento de Venus</hi> y <hi rend="i">La primavera</hi> de Botticelli: Warburg
+                2003 (62-63 y 79-80). En particular, la capacidad germinadora del pie de Venus
                 tiene especial relación con la rosa, nacida de una herida del talón de la diosa, que
                 al sangrar enrojeció la flor (véase Vescovo 1997: 555). El <hi rend="i"
                   >Apologético</hi> es aquí la culta rosa cuyo color rojo proviene de las heridas de
-                Góngora y no de la sangre lasciva de Vénus.</note></l>
+                Góngora y no de la sangre lasciva de Venus.</note>,</l>
             <l>mano sí de docta Palas<note place="bottom"> La mano de Palas Atenea tiene virtudes
                 agrícolas menos evidentes que los pies de Venus, pero la diosa de la astucia no deja
                 de ser una de las inventoras míticas del arado y sus manos encarnan la habilidad
@@ -916,13 +893,13 @@
             <l>Con una pluma aseguras</l>
             <l>a tu fama muchas alas,</l>
             <l>si es cañón<note place="bottom"> Juega aquí Francisco de Valverde con la polisemia
-                del cañón, entre el arma de artillería y el cálamo de la pluma.</note>, que escupe
-              balas,</l>
+                del cañón, entre el arma de artillería y el cálamo de la pluma.</note> que escupe
+              balas</l>
             <l>cañón que escribe dulzuras:</l>
-            <l>de abrojos, cuando censuras</l>
+            <l>de abrojos, cuando censuras,</l>
             <l>ciñes a la emulación,</l>
             <l>y si a <name type="polemista" key="Manuel de Faría y Sousa">Faría</name> le son</l>
-            <l>zarzas tus rosas divinas;</l>
+            <l>zarzas tus rosas divinas,</l>
             <l>lleven corona de espinas</l>
             <l>los yerros de su pasión<note place="bottom"> Mezclando lo sacro y lo profano,
                 Francisco de Valverde desarrolla el siguiente equívoco sobre la pasión: como Cristo
@@ -985,7 +962,7 @@
                 162r), en el canto primero del <hi rend="i">Orfeo en lengua castellana</hi> (Madrid:
                 viuda de Alonso Martín, 1624) de Juan Pérez de Montalbán (1624: f. 7r) e incluso la
                   <hi rend="i">Fuente de Aganipe</hi> de Manuel de Faría, parte II (Madrid: Juan
-                Sánchez, 1644), poema I, octava 85 (1644: f. 15r). Que los trofeos y las glorias de
+              Sánchez, 1644), poema I, octava 85 (1644: f. 15r). Diego de Loaysa expresa aquí su deseo de que el trofeo y la gloria de Espinosa recorran el mundo entero y se conozcan en todo el orbe siguiendo la trayectoria de Febo, que lo recorre completo a diario. Más allá de este tópico, que los trofeos y las glorias de
                 Espinosa Medrano, émulo de Apolo, giren las líneas del dios puede significar,
                 literalmente, que el sol avanza en su órbita, atraído por el ingenio austral de
                 Espinosa Medrano y, entendiendo líneas como rayos, que Apolo Timbreo orienta su luz
@@ -1007,7 +984,7 @@
                 luciferina que consiste, al defender a Góngora, en igualar a Apolo, para levantar
                 con la luz del día la niebla que rodea al cordobés.</note>,</l>
             <l>pues contra el ferino diente<note place="bottom"> Diego de Loaysa recurre a la
-                paranomasia de Faría y fiera empleada por Espinosa Medrano.</note></l>
+              paranomasia de Faría y fiera empleada por Espinosa Medrano y también, poco después, por Gascón Riquelme en el segundo verso de su soneto.</note></l>
             <l>con espíritu valiente</l>
             <l>sois de <name type="polemista" key="Luis de Góngora">Góngora</name> el Perseo<note
                 place="bottom"> Pese a una desafortunada paronomasia entre Góngora y Gorgona, el
@@ -1027,13 +1004,13 @@
             <l>a sus conceptos sutiles,</l>
             <l>que digo (y no lisonjero)</l>
             <l>lo que Alejandro de Homero<note place="bottom"> Alejandro envidiaba la suerte de
-                Aquiles que tuvo en Homero al mayor poeta para cantar sus glorias. Góngora tiene por
+                Aquiles, que tuvo en Homero al mayor poeta para cantar sus glorias. Góngora tiene por
                 tanto en Espinosa Medrano a un Homero indiano para defenderle.</note></l>
             <l>viendo la historia de Aquiles.</l>
           </lg>
           <lg>
             <l>Así vuestra <title>Apología</title></l>
-            <l>os ladea con Apolo,</l>
+            <l>os ladea<note place="bottom">‘Ladear’ o ‘ladearse’: «significa inclinarse al dictamen, opinión o partido de alguno» (<hi rend="i">Aut.</hi>).</note> con Apolo,</l>
             <l>que como él pudiste solo</l>
             <l>resolver nieblas del día:</l>
             <l>con tan discreta armonía</l>
@@ -1075,7 +1052,7 @@
               Medrano.</note>, presbítero, colegial del insigne seminario de la ciudad del
             Cuzco.</head>
           <lg>
-            <l>Sienta la herida del arpón Indiano<note place="bottom"> Quizás haya aquí una lejana
+            <l>Sienta la herida del arpón indiano<note place="bottom"> Quizás haya aquí una lejana
                 alusión al episodio de las «náuticas venatorias maravillas», la pesca de una foca
                 con arpón, de las <hi rend="i">Soledades</hi>, II, v. 418 y siguientes [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.425"
@@ -1083,14 +1060,14 @@
                     target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.425"
                     >OC264C.425</ref></ref>].</note>,</l>
             <l>Faría, o fiera, y su veneno ardiente</l>
-            <l>sufra el castigo, que le das valiente,</l>
+            <l>sufra el castigo que le das valiente,</l>
             <l>Montero de <name type="polemista" key="Juan de Espinosa Medrano">Espinosa</name>
                 peruano<note place="bottom"> Espinosa Medrano pretendió relacionar su linaje, con
-                fundamento o por auto-promocionarse, con el aristocrático de los Montero de
-                Espinosa, firmando como Juan de Espinosa de los Montero Medrano su <hi rend="i"
+                fundamento o por auto-promocionarse, con el aristocrático de los Monteros de
+                Espinosa, firmando como Juan de Espinosa de los Monteros Medrano su <hi rend="i"
                   >Panegírica declamación</hi> de 1664 (Cisneros y Guibovich 1988: 339). Pedro
                 Guibovich (1992: 4) señala que la biblioteca de El Lunarejo contaba con el <hi
-                  rend="i">Origen de los Montero de Espinosa</hi> de Pedro de la Escalera Guevara
+                  rend="i">Origen de los Monteros de Espinosa</hi> de Pedro de la Escalera Guevara
                 (Madrid, 1632). Además de aludir a esta reivindicación genealógica, este verso
                 contiene un concepto por equívoco. Primero, Espinosa Medrano es un montero, un
                 cazador que se enfrenta a la fiera Faría; además, es un Montero de Espinosa,
@@ -1123,7 +1100,7 @@
                     target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264A#l264A.1"
                     >OC264A.1-3</ref></ref>].</note>,</l>
             <l>no conoció en las hojas el tesoro,</l>
-            <l>que el Orbe admirará por sus edades.</l>
+            <l>que el orbe admirará por sus edades.</l>
           </lg>
           <lg>
             <l>Tú se lo adviertes, tú (por su desdoro)</l>
@@ -1173,13 +1150,13 @@
                     rend="i">Polifemo</hi>; aquí, El Lunarejo es un Encélado peruano y
                 leonino.</hi></note>.</l>
             <l>Doctos pro musis liceat geminare rugitus,</l>
-            <l>quos schola pro <name type="authority" key="Santo Tomás">Thoma</name> nostra <name
-                type="polemista" key="Juan de Espinosa Medrano">Medrane</name> sonat?</l>
+            <l>quos schola pro <name type="authority" key="Santo Tomás">Thoma</name> nostra, <name
+                type="polemista" key="Juan de Espinosa Medrano">Medrane</name>, sonat?</l>
             <l>Nam sacrae poteras axes torquere quadrigae</l>
             <l>penna Aquila, ungue Leo, Bos pede; mente Cherub<note place="bottom"> ‘Ni admiro ni
                 alabo y lo cierto es que yo, que siempre he visto las mayores cosas de tu pluma,
                 ahora miro las menores. Quizá quieres mostrar a los europeos el león por la uña, o
-                al gigante Encélado por un dedo. ¿Será lícito en favor de las Musas redoblar los
+                al gigante Encélado por un dedo. ¿Será lícito, Medrano, redoblar en favor de las Musas los
                 doctos rugidos que suenan en nuestra escuela en favor de Tomás? ¿Podrás, pues,
                 torcer los ejes de la sagrada cuadriga, siendo águila por la pluma, por la uña león,
                 buey por el pie, querubín por la mente?’. En su epigrama, Juan de Lira elogia al
@@ -1242,16 +1219,16 @@
           <index indexName="addressee" n="Juan de Espinosa Medrano"/>
           <head>Magister Franciscus López Mejía<note place="bottom"> Tampoco hay datos relevantes
               sobre este discípulo de Juan de Espinosa Medrano en la crítica.</note>, Antonianus
-            collega sacrae theologiae professor in laudem <title>Apologetici</title> a magistro suo
+            collega, sacrae theologiae professor, in laudem <title>Apologetici</title> a magistro suo
             praeclare editi<note place="bottom"> ‘El Maestro Francisco López Mejía, que profesa
               sagrada teología en el colegio de San Antonio en alabanza del <hi rend="i"
                 >Apologético</hi> excelentemente escrito por su maestro’.</note>.</head>
           <lg>
             <l>Aetereas dum nube vapor petit arduus auras,</l>
-            <l>nunc pluvia exundat; fulmine nunc rutilat:</l>
+            <l>nunc pluvia exundat, fulmine nunc rutilat,</l>
             <l>eloquium, <name type="polemista" key="Juan de Espinosa Medrano">Medrane</name>, tuum
               sic sydera lambit,</l>
-            <l>roret ut e superis imbre; vel igne tonet<note place="bottom"><hi rend="bg00ffff"
+            <l>roret ut e superis imbre vel igne tonet<note place="bottom"><hi rend="bg00ffff"
                   >Francisco López Mejía caracteriza la elocuencia de El Lunarejo con tópicos
                   característicos del estilo sublime, que por lo demás se encuentran en varios
                   lugares del <hi rend="i">Apologético</hi>. La elocuencia que se alza
@@ -1261,18 +1238,18 @@
                   tormentosa del estilo sublime, es por lo demás rocío de los astros, y se acerca
                   por tanto a la definición de la miel por los antiguos (VI, § 49), que en el
                   tratado de El Lunarejo es el referente a partir del cual Góngora forja la «frasi
-                  benemérita del furor verdaderamente poético» (VI, § 48).</hi></note>,</l>
-            <l>en tartesiaci<note place="bottom"><hi rend="i">Tartesiacus</hi>: de Tartessos, zona
+                  benemérita del furor verdaderamente poético» (VI, § 48). El rocío de la elocuencia de Espinosa se refiere a su capacidad persuasiva como orador.</hi></note>;</l>
+            <l>en Tartesiaci<note place="bottom"><hi rend="i">Tartesiacus</hi>: de Tartessos, zona
                 de la cuenca del Guadalquivir, entre las provincias de Córdoba, Sevilla y Huelva.
                 Según fuentes griegas, surgía en dicha zona una importante ciudad del mismo nombre,
                 de localización discutida y de la que no se han hallado vestigios, desaparecida
                 antes del siglo VI a.C. Se llama tartésica la civilización que floreció en esta zona
                 y que para los griegos era la más antigua de Europa occidental. De ella subsisten
                 objetos de piedra, metal y cerámica e inscripciones en una lengua que sigue siendo
-                en gran parte ignota.</note> illustras monumenta poetae,</l>
+                en gran parte ignota.</note> illustras monumenta poetae</l>
             <l>teque ultore loquax caede <name type="polemista" key="Manuel de Faría y Sousa"
-                >Faria</name> jacet.</l>
-            <l>Mordet obunco Aquila innexum sic ungue Draconem<note place="bottom"><hi
+                >Faria</name> iacet:</l>
+            <l>mordet obunco aquila innexum sic ungue draconem<note place="bottom"><hi
                   rend="bg00ffff">El combate del águila y el dragón es un tópico recogido en
                   polianteas y diccionarios, entre ellos el de Autoridades («Las águilas pelean con
                   los dragones», <hi rend="i">Aut.</hi>) o el <hi rend="i">Tesoro</hi> de
@@ -1284,29 +1261,28 @@
                   múltiples nudos y se enlaza con el águila de tal manera que se precipitan juntos»
                   (trad. Luis Alfonso Hernández Miguel en Plinio el Viejo 2003: 360). Este verso,
                   así como el siguiente, puede ser una lejana alusión a las escenas venatorias de la
-                    <hi rend="i">Soledad segunda</hi> de Góngora.</hi></note>.</l>
+                    <hi rend="i">Soledad segunda</hi> de Góngora.</hi></note>;</l>
             <l>littoreas falco sic pede truncat aves.</l>
             <l>Haud secus in cineres fudit Salmonea<note place="bottom"> Salmoneo, hijo de Eolo,
-                quiso igualarse a Zeus conduciendo una cuádriga de bronce e imitando el ruido del
-                trueno con el gran estruendo que esta provocaba, para incitar a sus súbditos a
+                quiso igualarse a Zeus conduciendo una cuadriga de bronce e imitando el ruido del
+                trueno con el gran estruendo que aquella provocaba, para incitar a sus súbditos a
                 rendirle culto. Zeus lo castigó fulminándolo y sumiéndolo en el Tártaro. Véase
                 Grimal 1999: 414 y Virgilio, <hi rend="i">Eneida</hi>, VI, v. 585 y siguientes. El
                 mismo Espinosa Medrano lo compara con Faría en la sección VIII, § 63.</note>
               flagrans</l>
-            <l>dextra Jovis, raucos dum crepat aere sonos.</l>
-            <l>Mens tibi tot Sophiae stellis novus ardet Olympus,</l>
+            <l>dextra Iouis, raucos dum crepat aere sonos.</l>
+            <l>Mens tibi tot sophiae stellis novus ardet Olympus</l>
             <l>ingenioque vibrat tela trisulca tuo.</l>
-            <l>Lector ama; atque time, nam flamma et rore coruscunt,</l>
+            <l>Lector, ama atque time, nam flamma et rore coruscunt,</l>
             <l>sive docet pluvia, fulmine sive nocet<note place="bottom">‘Mientras el vapor se
                 empina en nube hacia las alturas del éter, ya se deshace en lluvia, ya en rayos
-                deslumbra. Así tu elocuencia, Medrano, roza los astros y cae como rocío desde los
-                cielos o bien truena abrasadora. He aquí que ilustras las memorias del poeta de
-                Tartesos, y el deslenguado Faría yace muerto por tu mano vengadora. Así muerde el
-                águila al dragón clavado por su corva garra; así con su pie el halcón trucida a las
+                deslumbra: así tu elocuencia, Medrano, roza los astros para caer como rocío desde los
+                cielos o bien tronar entre rayos. He aquí que ilustras las obras del poeta tartésico, y el deslenguado Faría yace muerto por tu mano vengadora. Así muerde el
+                águila al dragón clavado por su corva uña; así con su garra el halcón destroza a las
                 aves del litoral. No de otro modo la flagrante diestra de Júpiter redujo a cenizas a
                 Salmoneo, mientras este hacía crepitar el bronce con ásperos sonidos. Tu mente
                 aureolada de sabiduría arde cual nuevo Olimpo, y con ingenio vibra fulminantes
-                dardos. Lector, ama y teme; porque refulgen en llama y en rocío, ya enseñe con
+                dardos. Lector, ama y teme, porque refulgen en llama y en rocío, ya enseñe con
                 lluvia, ya hiera con rayo.’ <hi rend="bg00ffff">El panegírico de Francisco López
                   Mejía se basa en dos motivos: la asimilación de Espinosa Medrano con Júpiter
                   tonante y la composición de una imagen de la pugna con Manuel de Faría en la que
@@ -1324,9 +1300,9 @@
                   rebelde, imagen ya de Salmoneo, como el águila era ya atributo del Júpiter
                   justiciero. Preparada por estas imágenes (estilo tonante, águila contra dragón),
                   llega por fin la asimilación de El Lunarejo con Júpiter enfrentado a
-                  Salmoneo-Faría. Cierra el poema la gloria olímpica de Espinosa Medrano y una
-                  apóstrofe al lector, que recapitula la ambivalencia del estilo tonante de El
-                  Lunarejo: el lector ha de amar y temer, pues es tonante por sublime pero también
+                  Salmoneo-Faría. Cierra el poema la gloria olímpica de Espinosa Medrano y un
+                  apóstrofe al lector, que recapitula la ambivalencia del estilo de El
+                  Lunarejo: el lector ha de amar y temer, pues es tonante (y rorante) por sublime pero también
                   por justiciero.</hi></note>.</l>
           </lg>
         </div>
@@ -1335,19 +1311,19 @@
           <index indexName="date" n="1662"/>
           <head><pb n="f. c2v"/> Erratas<note place="bottom"> La fe de erratas desaparece de la
               segunda edición. En la línea correspondiente a la errata de «melifico» por
-              «melificio», del f. 21v, leemos «Aili» en lugar de «Alli», el demostrativo que aparece
+              «melificio», del f. 21v, leemos «Aili» en lugar de «Alli», el deíctico que aparece
               cuando hay varias remisiones a un mismo folio.</note>.</head>
-          <p>Enmienda, Lector, con pluma estos renglones, que no es justo que sobre los míos me
+          <p>Enmienda, lector, con pluma estos renglones, que no es justo que sobre los míos me
             acumules yerros de la imprenta. Son notados de barbaridad en España los indianos y será
             esforzar la calumnia no barrerle aun los indicios a esta sospecha<note place="bottom">
-              Las líneas que editamos constituyen una advertencia que precede la fe de erratas
+              Las líneas que editamos constituyen una advertencia que precede a la fe de erratas
               propiamente dicha. Esta era un imperativo legal cuya finalidad consistía en asegurar
               que el volumen impreso coincidiera con el manuscrito aprobado por los censores. Solo
               de modo secundario podía servir también para que el lector cuidadoso corrigiera él
-              mismo el texto. Del mismo modo que las aprobaciones fueron desviadas de su destinación
-              originaria al servir de prólogos elogiosos, la fe de erratas, este dispositivo legal
+              mismo el texto. Del mismo modo que las aprobaciones fueron desviadas de su destino
+              originario al servir de prólogos elogiosos, la fe de erratas, este dispositivo legal
               que completaba el proceso de censura, pudo llegar a tener una finalidad literaria
-              (Cayuela 1996: 207-208); proceso aun más acentuado con esta advertencia, que repite el
+              (Cayuela 1996: 207-208); proceso aún más acentuado con esta advertencia, que repite el
               tópico del autor que se exculpa de la responsabilidad de las erratas. Pese a la
               primera persona, es difícil atribuir a ciencia cierta estas palabras al mismo Espinosa
               Medrano. Sea él o no su autor, es de notar la aparición de una polémica referencia a
@@ -1365,7 +1341,7 @@
               Luis Méndez de Haro, sexto marqués del Carpio y segundo Conde-Duque de Olivares, nace
               en Valladolid el 17 de febrero de 1598 y muere en Madrid el 16 de noviembre de 1661.
               Fue valido de Felipe IV a partir de 1643. Su mayor acción diplomática, que le vale el
-              título de <hi rend="i">Príncipe de la Paz</hi> que le atribuye Espinosa Medrano, es la
+              título de <hi rend="i">príncipe de la paz</hi> que le atribuye Espinosa Medrano, es la
               Paz de Pirineos firmada con Francia en 1659. Véase Valladares Ramírez 2009 (444-453).
               Espinosa Medrano dedica su <hi rend="i">Apologético</hi> al valido de Felipe IV,
               amparándose en la dedicatoria de las <hi rend="i">Obras de Don Luis de Góngora
@@ -1408,11 +1384,11 @@
             magnificencia y benignidad: hechizo que pudiera contentarse ciñendo su actividad a la
             esfera de toda esa Europa, pero pasa, arrebatando poderosamente las veneraciones, a
             inundar nuevos climas con la fragancia de tan <pb n="f. c3v"/> glorioso nombre. Orlen en
-            hora buena trozos de cadenas rotas, o eslabones desengazados<note place="bottom"> Según
+            hora buena trozos de cadenas rotas o eslabones desengazados<note place="bottom"> Según
               el <hi rend="i">Tesoro</hi> de Covarrubias, engazar es «encadenar una cuenta con otra
               con hilo de oro o de plata, o alambre». Espinosa Medrano recurre a un concepto
               heráldico —muy del gusto de Góngora, véase Blanco (2016: 97-128)—, que glosa los
-              eslabones de cadena en la orla del escudo de Luis Méndez de Haro. Véase la
+              eslabones de cadena que aparecen desengazados en la orla del escudo de Luis Méndez de Haro. Véase la
               representación de este escudo de armas en la portada del <hi rend="i"
               >Apologético</hi>.</note> las armas de vuestra excelencia, que a lazos de más suave
             prisión tiene entregados esta monarquía los cuellos<note place="bottom"> Puede haber
@@ -1439,8 +1415,7 @@
             <l>De paz su diestra, díganlo trepando</l>
             <l>Las ramas de Minerva por su espada.<note place="margin" resp="author"> Gongora in
                   Panegir.<note type="app" rend="I">Panegir. <hi rend="i">A</hi> : Paneg. <hi
-                    rend="i">B</hi></note></note>
-              <note place="bottom"> Góngora, <hi rend="i">Panegírico</hi>, v. 18-20 [<ref
+                    rend="i">B</hi></note></note><note place="bottom"> Góngora, <hi rend="i">Panegírico</hi>, v. 18-20 [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem313#l313.18"
                   >OC313.18-20</ref>].</note></l></quote>
           <p>Celebre Francia las que florecen hoy en dulce vínculo de ambas coronas, pues debe a
@@ -1453,13 +1428,13 @@
               suavísimo austro que aspira María Teresa es el viento que reclama la Esposa del <hi
                 rend="i">Cantar de los cantares</hi>, canto IV, versículo 16: «S<hi rend="i">urge
                 Aquilo et veni Auster. Perfla hortum meum et fluent aromata illius</hi>» (<hi
-                rend="i">Vulgata</hi> 1975): ‘Levanta, aquilón y ven, Austro. Soplad en mi jardín y
+                rend="i">Vulgata</hi> 1975): ‘Levanta, Aquilón, y ven, Austro. Soplad en mi jardín y
               que fluyan sus aromas’. El «<hi rend="i">Veni, Auster</hi>» se usó ya en parecidas
               circunstancias, en una fiesta solemne por la llegada de la Infanta María Ana a
               Zaragoza en 1630, en la decoración de un carro que aludía a su futuro matrimonio con
               el rey de Hungría Fernando III de Habsburgo (Peñasco González 2011: 655-656).</note>.
             Con tal Mercurio<note place="bottom"> En calidad de emisario de la corona, Luis Méndez
-              de Haro es un Mercurio, dios mensajero.</note> ha vuéltose la guerra en copia, en
+              de Haro es un Mercurio, dios mensajero.</note> ha vuéltose la guerra en copia<note place="bottom">‘Copia’ es aquí ‘abundancia’.</note>, en
             concordia el furor, las armas en júbilos, el horror<note type="app" rend="I"> horror <hi
                 rend="i">A</hi> : horor <hi rend="i">B</hi></note> en gozo y en serenidad las
             iras.</p>
@@ -1474,8 +1449,8 @@
             romana milicia, pero con los legados que envió a Marcelo exhibió por caduceo y oliva la
             piel de un lobo. «<quote xml:lang="la" rend="i">De quibusdam Hispaniae populis legitur
               —dice Cartario<note place="margin" resp="author"> Cartarius in Mercur. de imag. Deor.
-                fol. 211.</note>— qui legatos ad Marcellum pro venia, ac pace impetranda miserunt,
-              eos lupi pellem pro Caduceo, aut olea, vel verbena praetulisse</quote>»<note
+                fol. 211.</note>— qui legatos ad Marcellum pro venia ac pace impetranda miserunt,
+              eos lupi pellem pro caduceo aut olea vel verbena praetulisse</quote>»<note
               place="bottom"> Cartari, Vicenzo, <hi rend="i">Imagines Deorum</hi>, «<hi rend="i"
                 >Mercurius</hi>». Véanse las <hi rend="i">Imagines Deorum</hi> (Cartari 1581: 211):
               ‘Se lee que los embajadores que los pueblos de Hispania enviaron a Marcelo para pedir
@@ -1492,38 +1467,31 @@
             ni los pacíficos ramos de Olivares, porque no hay más caduceo ni oliva que los lobos
             que, en el real escudo de los Haros, anuncian prosperidades no fieros, sino leales; no
             truculentos, <pb n="f. c4v"/> sino pacíficos: «<quote xml:lang="la" rend="i">Pro pace
-              impetranda miserunt lupi pellem pro Caduceo, aut olea</quote>». Florezca pues la paz,
+              impetranda miserunt lupi pellem pro caduceo aut olea</quote>». Florezca pues la paz,
             cedan las armas, serénense las musas y abrigue las letras el escudo de tan hermosas
               fieras<note place="bottom"> El escudo de los Haros aparece grabado en la portadilla de
               la edición princeps de 1662.</note>, que si vuestra excelencia es el Apolo que las
-            fomenta, cierto es que por insignia de sus grandezas escogió lobos el mismo Apolo
+            fomenta, cierto es que por insignia de sus grandezas escogió lobos el mismo Apolo,
             árbitro de las artes, padre de las musas. «<quote xml:lang="la" rend="i">Sane aliquot
-              insignis Apollinis lupos adscultos videas</quote>»<note place="margin" resp="author">
+              in signis Apollinis lupos adscultos videas</quote>»<note place="margin" resp="author">
               Pierius Valer. Hierog.<note type="app" rend="I"> Hierog. <hi rend="i">A</hi> : Hiegor.
                   <hi rend="i">B</hi></note> lib. 11. cap. 2.</note><note place="bottom"> Pierio
               Valeriano, <hi rend="i">Hieroglyphica</hi>, libro 11, 1 (<hi rend="i">De lupo</hi>), §
               2 «<hi rend="i">Apollo</hi>»: «<hi rend="i">Sane aliquot in signis Apollinis lupos
-                adsculptos videas</hi>» (‘Verdaderamente verás algunas veces en los estandartes de
-              Apolo lobos grabados’). Véanse los <hi rend="i">Hieroglyphica sive de sacris
+                adsculptos videas</hi>» (‘Verdaderamente verás algunas veces en los estandartes lobos de
+              Apolo grabados’). Véanse los <hi rend="i">Hieroglyphica sive de sacris
                 Aegyptiorum literis commentarii, Ioannis Pierii Valeriani Bolzanii Bellunensis</hi>
               (Basileae: Michael Isengrin, 1556) en Valeriano 1556 (f. 79v). El lobo, atributo de
               Apolo (Grimal 1991: 43), favorece la asimilación del valido y de los lobos de su
               escudo con el dios, con todas sus significaciones favorables, entre las que destacan
               aquí el esplendor y la belleza, la protección de la poesía y de las artes, y el
               carácter solar representado en la portadilla.</note>.</p>
-          <p>A semejante caso debió Gelón Siracusano sus fortunas: precedió a su prosperidad este
+          <p>A semejante caso debió Gelón siracusano sus fortunas: precedió a su prosperidad este
             portento. Cursando estaba la academia con sus condiscípulos, cuando entrándose al
-            general intrépidamente un robustísimo lobo, le quitó los cuadernos de la mano; siguióle
-            sin asombro Gelón<note place="bottom"> La anécdota viene, como la cita anterior, del <hi
+            general<note place="bottom">‘General’: «el aula o pieza donde se enseñan las ciencias» (<hi rend="i">Aut.</hi>).</note> intrépidamente un robustísimo lobo, le quitó los cuadernos de la mano; siguiole
+            sin asombro Gelón<note place="bottom"> La anécdota viene, como la cita anterior, de los <hi
                 rend="i">Hieroglyphica</hi> de Pierio Valeriano, libro 11, 1 (<hi rend="i">De
-                lupo</hi>), § 19 «<hi rend="i">Prosperitas</hi>»: «<hi rend="i">Neque praetereundum
-                quod Geloni Syracusano adhuc puero, et in scholis erudimenta prima discenti, Lupus
-                auxilio fuerit, ut imminenti vitae periculo subduceretur. Nam cum et praeceptor
-                ejus, et frequentes discipuli in ludo literario essent, visendae magnitudinis Lupus
-                irrupit, Gelonisque tabulis morsu arreptis ire foras properabat. Gelon haudquaquam
-                territus, ne tabellis privaretur eas manu non segniter tenens Lupum sequebatur:
-                postea vero quam foras processere, gymnasium repente corruit, magistratumque et
-                condiscipulos oppressit, Gelo incolumis evasit</hi>.» (Valeriano 1556: f. 82r): ‘Y
+                  lupo</hi>), § 19 «<hi rend="i">Prosperitas</hi>»: «<hi rend="i">Neque praetereundum quod Geloni Syracusano adhuc puero et in scholis erudimenta prima discenti, lupus auxilio fuerit, ut imminenti vitae periculo subduceretur. Nam cum et praeceptor eius et frequentes discipuli in ludo literario essent, visendae magnitudinis lupus irrupit Gelonisque tabulis morsu arreptis ire foras properabat. Gelon haudquaquam territus, ne tabellis privaretur, eas manu non segniter tenens lupum sequebatur; postea vero quam foras processere, gymnasium repente corruit magistratumque et condiscipulos oppressit, Gelo incolumis evasit</hi>.» (Valeriano 1556: f. 82r): ‘Y
               no debe omitirse que a Gelón de Siracusa, siendo muy niño todavía y párvulo, le vino a
               socorrer un lobo para sustraerlo a un inminente peligro de perder la vida. Porque un
               día en que su preceptor y sus condiscípulos estaban ejercitándose en las letras,
@@ -2487,7 +2455,7 @@
             diciendo: «<quote xml:lang="es">Nadie consiguió esto<note type="app" rend="I"> esto <hi
                   rend="i">A</hi> : este <hi rend="i">B</hi></note> como don Luis de Góngora, honra
               de su patria y lustre de su nación: pues cada verso es una sentencia y cada palabra
-              una historia, etc</quote>»<note place="margin" resp="author"> L. D. P. de Bustamante,
+              una historia, etc.</quote>»<note place="margin" resp="author"> L. D. P. de Bustamante,
               in censura ad Coment. Gongora<note type="app" rend="I">Gongora <hi rend="i">B</hi> :
                 Gong <hi rend="i">A</hi></note> tom. 2.</note><note place="bottom"> «Aprobación del
               licenciado <name type="polemista" key="Pedro de Bustamante y Torreblanca">don Pedro de
