@@ -1876,13 +1876,13 @@
         <pb n="1" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p01.png"/>
         <head>Texto de la edición</head>
         <p>[1] <hi rend="i">Copia de unos capítulos de un libro manuscrito escrito por don</hi>
-          <persName type="polemista">Francisco del Villar</persName><hi rend="i"> Vicario Juez eclesiástico
+          <persName type="polemista">Francisco del Villar</name><hi rend="i"> Vicario Juez eclesiástico
             de Andújar, por los años de 1630, cuyo original para en poder del marqués de la
             Merced</hi></p>
         <p/>
         <p><hi rend="i">Proposición sexta</hi> «<hi rend="i">En todo género de Poesía fue eminente
             don</hi>
-          <persName type="polemista">Luis de Góngora</persName>».</p>
+          <persName type="polemista">Luis de Góngora</name>».</p>
         <p>Tal es la cortedad de nuestro discurso y su capacidad tan limitada que apenas hay ingenio
           en quien dos facultades se hallen con eminencia, aunque no falta en nuestros tiempos
           presunción (raro despejo<note place="bottom">El mismo vocablo puede indicar tanto el
@@ -1907,19 +1907,19 @@
             prueba irrefutable: «Sus obras mismas harán demonstración matemática». </note>. Sea
           ejemplar la poética, cuyas partes, como si fueran incompatibles o contrarias, raras veces
           las vemos hermanadas en un sujeto. En lo Heroico se ciñeron el laurel <persName 
-            type="authority">Homero</persName> y <persName type="authority">Virgilio</persName>, en lo lírico
-            <persName type="authority">Horacio</persName> y <persName type="authority">Píndaro</persName>, en lo
-          satírico <persName type="authority">Persio</persName> y <persName type="authority">Juvenal</persName>, en
-          lo epigramatario <persName type="authority">Marcial</persName> y <persName type="authority"
-            >Catulo</persName>, en lo cómico <persName type="authority">Plauto</persName> y <persName 
-            type="authority">Terencio</persName>, en lo trágico <persName type="authority">Lucano</persName> y
-            <persName type="authority">Séneca</persName><note place="bottom">En un texto tan difundido como
+            type="authority">Homero</name> y <persName type="authority">Virgilio</name>, en lo lírico
+            <persName type="authority">Horacio</name> y <persName type="authority">Píndaro</name>, en lo
+          satírico <persName type="authority">Persio</name> y <persName type="authority">Juvenal</name>, en
+          lo epigramatario <persName type="authority">Marcial</name> y <persName type="authority"
+            >Catulo</name>, en lo cómico <persName type="authority">Plauto</name> y <persName 
+            type="authority">Terencio</name>, en lo trágico <persName type="authority">Lucano</name> y
+            <persName type="authority">Séneca</name><note place="bottom">En un texto tan difundido como
             los <hi rend="i">Poetices libri septem</hi> de Giulio Cesare Scaligero se aborda el tema
             de los géneros tanto en el libro I o<hi rend="i"> Historicus</hi> (capítulos 3-12 y
             44-46) como en el libro tercero o <hi rend="i">Idea</hi> (capítulos 95-101 y 123-125).
             El humanista propone allí, para cada uno de los tipos, cuáles son los principales
             modelos que debe considerar un escritor neófito para ejercitar la imitación / emulación.
-          </note>. Don <persName type="polemista">Luis de Góngora</persName> parece que supo poner <pb n="3" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p03.png"/> excepción a esta regla, jugando las armas de Apolo a muchas manos y recibiendo cariño
+          </note>. Don <persName type="polemista">Luis de Góngora</name> parece que supo poner <pb n="3" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p03.png"/> excepción a esta regla, jugando las armas de Apolo a muchas manos y recibiendo cariño
           de todas las Musas. Algunos se han persuadido que solo en lo satírico hizo con mejores
           esfuerzos, pero cualesquiera que eche la sonda hallará su profundidad, en lo
           epigramatario, heroico y lírico. Sus obras mismas harán demonstración matemática, que no
@@ -1934,7 +1934,7 @@
             poeticas.</note>. Éstas se subdividen en otras muchas, que será prolijo referirlas, pero
           debemos creer que cada una se gobierna por diferentes leyes y que la comedia no llega a la
           gravedad de la tragedia, ni la tragedia entra con el afeite que la comedia. Como dijo
-            <persName type="authority">Quintiliano</persName><note place="margin"> Quintl. L 2. C.
+            <persName type="authority">Quintiliano</name><note place="margin"> Quintl. L 2. C.
           2.</note>: <quote>sua cuique posita est lex, suus decor, neque comedia<pb n="5" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p05.png"/> in
             cothurnos asurgit neque e contra tragedia succo ingreditur<note place="bottom">El pasaje
               de Quintiliano procede del apartado <hi rend="i">De imitatione</hi>, incluido en el
@@ -1945,7 +1945,7 @@
                 cothurnos adsurgit, nec contra tragoedia socco ingreditur. Habet tamen omnis eloquentia aliquid commune: id imitemur quod commune
                 est</hi>».</note></quote>.</p>
         <p>La grandeza, medianía o humildad del sujeto levanta, detiene o humilla el estilo y así
-          dijo <persName type="authority">Tulio</persName> que el orador perfecto ha de tratar las cosas
+          dijo <persName type="authority">Tulio</name> que el orador perfecto ha de tratar las cosas
           humildes con agudeza, las grandes con gravedad y las medianas con templanza:
             <quote>humilia subtiliter, magna gravitate et mediocria temperitate</quote><note
             place="bottom"> Aduce aquí la famosa definición del orador perfecto, según la fórmula
@@ -1953,7 +1953,7 @@
               eloquens qui et humilia subtiliter et alta graviter et mediocria temperate potest
               dicere</hi>» (‘El perfecto orador es aquel que sabe decir las cosas humildes con
             sencillez, las grandes con solemnidad, las medianas con moderación’).</note>.</p>
-        <p>El padre <persName type="authority">Francisco de Castro</persName> advierte que el orador ha de
+        <p>El padre <persName type="authority">Francisco de Castro</name> advierte que el orador ha de
           usar de diferentes estilos: del humilde para enseñar, del grave para mover y para deleitar
           del <pb n="6" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p06.png"/> mediano<note place="bottom"> La anotación marginal que identifica el
             pasaje resulta exacta, ya que el capítulo cuadragésimo sexto del diálogo tercero del
@@ -1990,8 +1990,8 @@
               breve suma</p><p>el difuso canal de esta agua viva;</p><p>trabajo tal el tiempo no
               consuma,</p><p>pues de laurel ceñido y sacra oliva,</p><p>hacéis a cada lengua, a cada
               pluma,</p><p>que hable néctar y que ambrosïa escriba.</p></note>. <persName 
-            type="authority">Séneca</persName>, <persName type="authority">Fabio</persName> y <persName 
-            type="authority">Cipriano</persName><note place="bottom"> El padre Cipriano Suárez
+            type="authority">Séneca</name>, <persName type="authority">Fabio</name> y <persName 
+            type="authority">Cipriano</name><note place="bottom"> El padre Cipriano Suárez
             (1524-1593) es el autor del compendio retórico más empleado en los colegios de
             Humanidades de la Compañía de Jesús. La primera edición de su <hi xml:lang="es" rend="i"
               >De Arte Rhetorica Libri Tres ex Aristoteles, Cicerone et Quintiliano praecipue
@@ -1999,7 +1999,7 @@
             place="margin"> Sene ep. 74 Quin. L 12. C. 20 Cipria. L 3 C 52.</note><note
             place="bottom"> La apostilla marginal se refiere a Lucio Anneo Séneca, Fabio Quintiliano
             y Cipriano Suárez.</note> con todo el espacio y doctrina que pide, pero entre todos se
-          halla lugar la comparación de <persName type="authority">Lipsio</persName>, cuya advertencia dijo
+          halla lugar la comparación de <persName type="authority">Lipsio</name>, cuya advertencia dijo
           que igualemos el lenguaje con el asunto, de la misma suerte que medimos las velas con la
           grandeza de la nave: <quote>Ut vela pro magnitudine navium, sic verba debent esse pro
             rerum</quote><note place="bottom"> ‘Como el velamen debe guardar la proporción con el
@@ -2024,7 +2024,7 @@
             si no se habla desmadañadamente de asuntos que requieren solemnidad, ni gravemente de
             hechos que son banales» (Aristóteles 1990: 512-513).</note>. No se nos vaya de las manos
           cuando se nos viene tanto a ellas este reparo de <persName type="authority"
-          >Quintiliano</persName>, cuya atención siguiendo los ecos de un filósofo dice: «lo que para
+          >Quintiliano</name>, cuya atención siguiendo los ecos de un filósofo dice: «lo que para
           unos asuntos es magnífico, para otros es sobrado, y el estilo que es humilde para las
           cosas grandes, es acomodado para las menores. Como en una oración vistosa se nota una
           palabra humilde y la juzgamos como mancha, así en el lenguaje humilde disuena una palabra
@@ -2048,7 +2048,7 @@
           engrandece también<note type="app" rend="I"> Añadido entre líneas por el corrector.</note>
           las palabras y estilo y al mismo paso que pretende levantar el ánimo, se empeña en
           términos más significativos. Y así burla la agudeza de <persName type="authority"
-            >Persio</persName><note place="margin"> Pers. sat <hi rend="u">5</hi></note> de quien
+            >Persio</name><note place="margin"> Pers. sat <hi rend="u">5</hi></note> de quien
           habiendo de tratar intento grave, usa de palabras de sumisión o pacíficas: <pb n="9" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p09.png"/>
           <quote>Nescio quid tecum grave cornicaris inepte […], / verba togae sequeris</quote><note
             place="bottom"> En los versos 10-14 de la sátira V, Cornuto se refiere a los
@@ -2068,7 +2068,7 @@
             el lenguaje de la toga, experto en duras combinaciones». Como apunta el profesor Balasch
             en nota a su traducción, la frase «“<hi rend="i">Verba togae sequeris</hi>” se refiere
             al “lenguaje coloquial”, ya que allí “Persio ve con profundidad el problema de la
-            justeza de la lengua» (1991: 544, n. 8).</note>. <persName type="authority">Marcial</persName>,
+            justeza de la lengua» (1991: 544, n. 8).</note>. <persName type="authority">Marcial</name>,
           considerando en su alentada musa algunos humos heroicos, se hace sentar el paso, juzgando
           imposible realzar su cómica humildad al coturno trágico<note place="margin"> Marti. l 8.
             C. 3.</note>: <quote>An jubat ad tragicos poetam transferre cothurnos</quote><note
@@ -2081,7 +2081,7 @@
             en ritmos cadenciosos para que te explique con voz engolada un engreído maestro y te
             odie la adolescente ya crecidita y el niño de buena familia?» (Marcial 2001: t. II,
             56).</note>. Practicando esta doctrina el <persName type="authority">Príncipe de los
-            Poetas</persName>, dice en el principio de su <title>Eneida</title>: <quote>Yo soy aquel que
+            Poetas</name>, dice en el principio de su <title>Eneida</title>: <quote>Yo soy aquel que
             en otro tiempo escribí mis versos en humilde estilo, mas ahora que canto las armas de
             Marte y las hazañas de Eneas, tengo necesidad de que me inspiren las Musas</quote><note
             place="bottom"> Adapta con muchas libertades los cuatro primeros hexámetros atribuidos a
@@ -2100,7 +2100,7 @@
             canciones pastoriles / al son de mi delgado caramillo. Después dejé los bosques / y
             forcé a las campiñas colindantes a plegarse / al codicioso afán de los labriegos. Mi
             obra fue de su agrado. / Y ahora canto las armas horrendas del dios Marte […]» (Virgilio
-            1992: 139).</note>. Sobre el cual paso, <persName type="authority">Diego López</persName><note
+            1992: 139).</note>. Sobre el cual paso, <persName type="authority">Diego López</name><note
             place="bottom"> Izquierdo Izquierdo (1989).</note>, comentador suyo, <pb n="10" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p10.png"/> dice:
             <quote>guardó nuestro Poeta los tres estilos: humilde, mediano y altílocuo. Del primero
             usó en las Églogas, del segundo en las Geórgicas, del tercero en la Eneida, como cosa
@@ -2108,9 +2108,9 @@
             escribía</quote><note place="bottom"> Reelabora aquí Francisco del Villar con sus
             propias palabras el comento de Diego López a la <hi xml:lang="es" rend="i">Eneida</hi>
             (1614: f. 258r).</note>.</p>
-        <p>Las sales de <persName type="authority">Marcial</persName> pidieron diferente espíritu que las
-          armas de <persName type="authority">Lucano</persName>, como los donaires de <persName type="authority"
-            >Plauto</persName> y las severidades de <persName type="authority">Séneca</persName><note
+        <p>Las sales de <persName type="authority">Marcial</name> pidieron diferente espíritu que las
+          armas de <persName type="authority">Lucano</name>, como los donaires de <persName type="authority"
+            >Plauto</name> y las severidades de <persName type="authority">Séneca</name><note
             place="bottom"> Contrapone aquí el tono o las materias propios de cuatro géneros muy
             diversos: epigrama («sal»), epopeya («armas»), comedia («donaires») y tragedia
             («severidades»). Los cuatro modelos latinos respectivos serían Marcial, Lucano, Plauto y
@@ -2135,7 +2135,7 @@
             es algo errado y en la comedia un elemento trágico resulta desagradable. Y también por
             cuanto atañe a los demás géneros, cada uno de ellos se rige por una armonía bien
             definida y un lenguaje bien conocido para aquel capaz de percibirlo»).</note>.</p>
-        <p>Acomodose don <persName type="polemista">Luis de Góngora</persName> a las condiciones
+        <p>Acomodose don <persName type="polemista">Luis de Góngora</name> a las condiciones
           individuales de cada poema con singularísimo primor, costeando los más escondidos puertos
           del Parnaso<note place="bottom">
             <hi rend="i">Costeando los más escondidos puertos del Parnaso</hi>: las imágenes de la
@@ -2201,7 +2201,7 @@
         <p/>
         <p><hi rend="i">Don Luis de Góngora fue singular poeta epigramatario §2</hi></p>
         <p>Aunque en todo género de poesía le tejieron las Musas coronas a <persName type="polemista"
-            >nuestro poeta</persName>, en el genio de las epigramas (que son inscripciones breves y
+            >nuestro poeta</name>, en el genio de las epigramas (que son inscripciones breves y
           agudas) no le ha igualado <pb n="15" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p15.png"/> alguno en Italia ni en Grecia: en superior esfera
           le miran todos, en cada hoja de sus guirnaldas parece que quiso la erudición escribir con
           letras de oro triunfos que le eternizan; mas, ¿qué mucho si su desvelo fue llave
@@ -2217,7 +2217,7 @@
             que respalda la escritura gongorina pondera la «erudición», el «desvelo», el continuo
             aprendizaje de los grandes modelos grecolatinos (la «lección antigua») y una tenaz
             búsqueda de la perfección formal, inasequible al desaliento (la «estudiosa
-            porfía»).</note> Engolfose <persName type="polemista">don Luis</persName> en el océano abundante
+            porfía»).</note> Engolfose <persName type="polemista">don Luis</name> en el océano abundante
           y provechoso de la lección antigua y tomando alturas de seguros polos, halló nuevos y no
           conocidos rumbos, Colón de no menos preciosas Indias con la carta de marear de sus
           estudios a <pb n="16" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p16.png"/> porfía<note place="bottom"> Con sus obras mayores Góngora había
@@ -2250,7 +2250,7 @@
               procacciare, certamente le tante province dal Colombo scoperte sarebbero tuttavia
               sconosciute</hi>» (Chiabrera 1974: 579-580).</note>. No se atreviera por sí sola mi
           atención a tan arrogante censura: así lo publicaron siempre con constante entereza el
-          maestro <persName type="authority">Baltasar de Céspedes</persName><note place="bottom"> Al margen
+          maestro <persName type="authority">Baltasar de Céspedes</name><note place="bottom"> Al margen
             de la mención que aparece en la segunda de las <hi rend="i">Epístolas
               satisfactorias</hi> de Angulo y Pulgar y esta cita del <hi rend="i">Compendio
               poético</hi>, no se ha exhumado hasta la fecha ninguna declaración del humanista
@@ -2279,7 +2279,7 @@
             persona, tuvo la oportunidad de ver en las manos del propio Francisco los “originales”
             de esas dos obras que se había arrogado “un ingenio de los tiempos”, que no es otro que
             Ramírez de Prado, aunque no se lo nombre».</note>, que lo fue de Retórica en la
-          Universidad de Salamanca; el padre <persName type="authority">Martín de Roa</persName><note
+          Universidad de Salamanca; el padre <persName type="authority">Martín de Roa</name><note
             place="bottom"> Martín de Roa (Córdoba, 1561-Montilla, 1637) ingresó en la Compañía de
             Jesús en 1576. Por sus aptitudes e inclinación a las letras, desempeñó las funciones de
             docente de Retórica y Teología en el colegio de Córdoba. También ocupó el cargo de
@@ -2433,14 +2433,14 @@
             Pisierga».</note> y Esgueva hacen en la puente de Simancas junto a los muros de
           Valladolid, epigrama segundo: <quote>Jura Pisuerga, a fe de caballero</quote>, folio
             29<note place="bottom"> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem140#l140.1">OC140.1</ref>]</note>. Habiéndole dado una pensión a <persName 
-            type="polemista">don Luis</persName> cuando era pretendiente de una plaza, trata dejar la
+            type="polemista">don Luis</name> cuando era pretendiente de una plaza, trata dejar la
           corte y recogerse a su patria, huyendo las inclemencias de los inviernos de Castilla:
             <quote>Camina mi pensión con pies de plomo</quote>, folio 30<note place="bottom">
-            [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem392#l392.1">OC392.1</ref>]</note>. A una dama sevillana devota de <persName type="polemista">don Luis</persName>
+            [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem392#l392.1">OC392.1</ref>]</note>. A una dama sevillana devota de <persName type="polemista">don Luis</name>
           que amenazaba con él a quien le daba disgusto: <quote>Con la estafeta pasada</quote>,
           folio 63<note place="bottom"> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem167#l167.1">OC167.1</ref>]</note>. <pb n="23" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p23.png"/> A don Juan de Guzmán,
           corregidor de Córdoba, corriendo en las ferias de una yegua que <persName type="polemista">don
-            Luis</persName> le daba al duque de Béjar: <quote>Ya que al de Béjar le agrada</quote>,
+            Luis</name> le daba al duque de Béjar: <quote>Ya que al de Béjar le agrada</quote>,
           folio 63<note place="bottom"> [OC 294.1]</note>. Al sepulcro de Simón Bonamí enano,
           epigrama: <quote>Yace el gran Bonamí, a quien</quote>, folio 64<note place="bottom">
             [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem277#l277.1">OC277.1</ref>]</note>. A una creciente de Manzanares: <quote>Duélete de esa puente,
@@ -2449,9 +2449,9 @@
         <p>Al sepulcro de una vieja que tuvo 22 años festejo con un caballero Cerda, que murió
           tercera de voluntades, epigrama<note place="bottom"> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem433#l433.1">OC433.1</ref>]</note>: <quote>Yace debajo
             de esta piedra fría</quote>, folio 236. <pb n="24" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p24.png"/> A don <persName type="polemista"
-            >Francisco de Quevedo</persName> habiendo traducido unas <title>elegías</title> de <persName 
-            type="authority">Anacreonte</persName>, poeta griego, epigrama<note place="bottom">
-            [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem442#l442.1">OC442.1</ref>]</note>: <persName type="polemista">Anacreonte español</persName>, <quote>no hay quien
+            >Francisco de Quevedo</name> habiendo traducido unas <title>elegías</title> de <persName 
+            type="authority">Anacreonte</name>, poeta griego, epigrama<note place="bottom">
+            [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem442#l442.1">OC442.1</ref>]</note>: <persName type="polemista">Anacreonte español</name>, <quote>no hay quien
             os tope</quote>. A un mal médico: <quote>Doctor bárbaro y cruel</quote>, folio 65<note
             place="bottom"> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem400#l400.1">OC400.1</ref>]</note>. A un mal abogado: <quote>Oh Jurisprudencia,
             cual</quote>, folio 66<note place="bottom"> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem404#l404.1">OC404.1</ref>]</note>. A un casado que enriqueció
@@ -2466,7 +2466,7 @@
           nuestro señor en el templo: <quote>La vidriera mejor</quote>, folio 74<note place="bottom"
             > [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem291#l291.1">OC291.1</ref>]</note>.</p>
         <p/>
-        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</persName><hi rend="i"> fue en
+        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</name><hi rend="i"> fue en
             todo rigor poeta heroico</hi><note place="bottom"> Mercedes Blanco (2011: 15-16) indica
             que «el empleo de la expresión <hi rend="i">poema heroico</hi> se circunscribe en España
             al área de influencia de dos tratados de Torquato Tasso, los <hi rend="i">Discorsi
@@ -2511,7 +2511,7 @@
             Siglo de Oro», pues afecta a «una creación personal que se hace siempre en competencia
             con alguien o con algo (los colegas o la misma naturaleza) y que da lugar a un proceso
             de afirmación profesional y social» (Portús 2008: 149).</note> de parte de algunos, que
-          con avaricia culpable niegan a <persName type="polemista">don Luis</persName> el blasón de <pb n="26" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p26.png"/> poeta heroico<note place="bottom"> Podría sostenerse que Villar impugna aquí el
+          con avaricia culpable niegan a <persName type="polemista">don Luis</name> el blasón de <pb n="26" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p26.png"/> poeta heroico<note place="bottom"> Podría sostenerse que Villar impugna aquí el
             juicio negativo recogido por Juan de Jáuregui al comienzo y al final de su <hi rend="i"
               >Antídoto</hi> (2002: 3 y 80-81): «Aunque muchos hombres cuerdos y doctos desean con
             buena intención desengañar a V. m. y aconsejarle no escriba versos heroicos, no lo
@@ -2548,7 +2548,7 @@
             esfuerzo del «natural y el arte».</note>. Y no hemos de creer que consiguió más el ocio
           que el desvelo, o que pudo más el descuido que los conatos. Para hacerse conocido el poema
           heroico o épico ha de guardar tres cosas en el principio, como dice <persName type="authority"
-            >Diego López</persName><note place="margin"> Lopez s<hi rend="sup">e</hi>. et lib.
+            >Diego López</name><note place="margin"> Lopez s<hi rend="sup">e</hi>. et lib.
             enei.</note>: <quote>la primera es proponer, la segunda invocar, la tercera contar lo
             que pretende, ejecutando lo uno y lo otro con estilo sublime, letras eruditas y palabras
             ilustres</quote><note place="bottom"> La cita procede probablemente del inicio del
@@ -2607,7 +2607,7 @@
             morales y del saber ya accesible en diccionarios, polianteas, enciclopedias
             mitográficas» (Blanco 2013: 33-35).</note>.</p>
         <p/>
-        <p><pb n="28" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p28.png"/><persName type="authority">El autor del</persName><title>Gran Teatro</title><note
+        <p><pb n="28" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p28.png"/><persName type="authority">El autor del</name><title>Gran Teatro</title><note
             place="margin"> Teatrum 2º Poeta.</note><note place="bottom"> Se refiere a Theodor
             Zwinger y a los ocho volúmenes de su compendio erudito <hi rend="i">Magnum Theatrum
               Humanae Vitae</hi> (1631-1707).</note> da por seña del poema heroico que ha de ser
@@ -2618,8 +2618,8 @@
             aquellos en los que el poeta articula el relato de forma continuada, de manera que el
             verso hexámetro –en el que se cantan las gestas de los héroes– resulta del todo
             apropiado a cada uno de sus discursos, en un curso ininterrumpido’.</note>.</p>
-        <p>Aún no significó tanto este nombre en el oído de <persName type="authority">Ennio</persName>, de
-          quien dice <persName type="authority">Rodiginio</persName><note place="margin"> Rodig L 7 C.
+        <p>Aún no significó tanto este nombre en el oído de <persName type="authority">Ennio</name>, de
+          quien dice <persName type="authority">Rodiginio</name><note place="margin"> Rodig L 7 C.
             6</note>
           <note place="bottom"> La abreviatura se refiere a Celio Rodigino: el verdadero nombre de
             este conocido humanista italiano era Ludovico Ricchieri (Rovigo, 1469 – Padua, 6 de
@@ -2642,7 +2642,7 @@
               longus pes vocatur</hi>» (Ricchièri 1566: 651). </note>. Si la resolución de este
           autor <pb n="29" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p29.png"/> últimamente fue la nuestra<note place="margin"> idem L 27 c 26</note>:
             <quote>heroicum carmen laudes heroum</quote>, el padre <persName type="authority"
-            >Radero</persName><note place="margin"> Rodero Sup[...]r C 32 lib. 5 man</note><note
+            >Radero</name><note place="margin"> Rodero Sup[...]r C 32 lib. 5 man</note><note
             type="app" rend="I"> Corrijo el error evidente del copista, que transcribe literalmente
             «Rodero» tanto en el texto como en la anotación marginal.</note> lo define mejor
           diciendo que el argumento del verso heroico ha de ser severo, grande e ilustre:
@@ -2652,7 +2652,7 @@
             de los <hi rend="i">Epigrammata</hi> de Marcial (1611: 258-259).</note>. La mucha
           erudición y recóndita doctrina (a quien están vinculadas las atenciones y desvelos) hacen
           también conocido el poema heroico; y así ponderando estas obligaciones y precisos empeños
-          deja <persName type="authority">Marcial</persName><note place="margin"> Martial lib. 6 C. 3
+          deja <persName type="authority">Marcial</name><note place="margin"> Martial lib. 6 C. 3
             admian</note> este género de poesía<note type="app" rend="I"> El copista había escrito
             «poema», el corrector rectificaría el término superponiendo la sílaba «si» sobre la
             «m».</note>, como lastimándose de sus profesores, para los que se desvelan y pasan las
@@ -2667,7 +2667,7 @@
             mitad de la noche’.</note>.</l></quote>
         <p rend="noindent">Tan graves han de ser las palabras, tan ilustre el estilo que levanten el
           ánimo y lo alienten a empresas altas. Y así aconseja y solicita lección <persName 
-            type="authority">Quintiliano</persName>: <quote>ut sublimitate heroici carminis animus
+            type="authority">Quintiliano</name>: <quote>ut sublimitate heroici carminis animus
             asurgat et ex magnitudine rerum spiritum ducat</quote><note place="bottom"> Quintiliano,
               <hi xml:lang="fr" rend="i">Institutio Oratoria</hi>, I, 8, 5: «<hi xml:lang="fr"
               rend="i">Interim</hi> <emph>et</emph> <hi xml:lang="fr" rend="i">sublimitate
@@ -2676,7 +2676,7 @@
               xml:lang="fr" rend="i">optimis imbuatur</hi>».</note>. Hasta que llega la madurez de
           la edad y la sazón del discurso no tiene el ingenio los quilates y fondos que pide el
           poema heroico: circunstancia advertida de los expositores de <persName type="authority"
-            >Virgilio</persName> sobre aquella palabra <quote>quondam</quote><note place="bottom">
+            >Virgilio</name> sobre aquella palabra <quote>quondam</quote><note place="bottom">
             Nuevamente apunta al arranque del proemio de la <hi xml:lang="es" rend="i">Eneida</hi>
             –atribuido a Virgilio– donde la colección de <hi xml:lang="es" rend="i">Bucólicas</hi>
             se plantea como obra juvenil («<hi xml:lang="es" rend="i">Ille ego, qui quondam gracili
@@ -2687,16 +2687,16 @@
               splendori. Audi, hoc, adolescens, neque aude id aetatis quod non ausus ingeniorum apex
               Maro</hi>». Como recalca Pedro Conde Parrado, el final de la afirmación del padre de
             la Cerda no significa lo que dice Villar, sino «Oye tú, mancebo, y a esta edad tuya no
-            te atrevas a lo que no se atrevió Marón, el más alto de los ingenios». </note>. <pb n="31" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p31.png"/> Y el padre <persName type="authority">Juan Luis de la Cerda</persName> como
+            te atrevas a lo que no se atrevió Marón, el más alto de los ingenios». </note>. <pb n="31" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p31.png"/> Y el padre <persName type="authority">Juan Luis de la Cerda</name> como
           reprehendiendo los atrevimientos de algunos mozos y aun burlando de ellos dice<note
             place="margin"> Cerd. Sup l 2 eneid. not 2</note>: «<quote>Siendo de pocos años</quote>
-          <persName type="authority">Virgilio</persName> (palabras medidas a nuestro caso) <quote>escribió
+          <persName type="authority">Virgilio</name> (palabras medidas a nuestro caso) <quote>escribió
             cosas ligeras, pero de los poemas heroicos trató en edad sazonada. Oye tú esto, mancebo,
             y no te atrevas a más que la primera regla de los ingenios</quote>. <persName 
-            type="authority">Maro</persName>
+            type="authority">Maro</name>
           <quote>adhuc iuvenis dum aptus heroicae majestati, gravitati, splendori, audi hoc
             adolescens neque aude id aetatis quod non ausus ingeniorum apex</quote>
-          <persName type="authority">Maro</persName>»<note place="bottom"> Al igual que hemos apreciado en
+          <persName type="authority">Maro</name>»<note place="bottom"> Al igual que hemos apreciado en
             la nota 131, de nuevo se produce el mismo error en la copia de los números, ya que la
             cita se corresponde a la nota 1 al libro I de la <hi xml:lang="es" rend="i">Eneida</hi>,
             que Juan Luis de la Cerda había dispuesto como glosa a la voz <hi xml:lang="es" rend="i"
@@ -2705,13 +2705,13 @@
               grauitati, splendori. Audi hoc, adolescens, neque aude id aetatis, quod non ausus
               ingeniorum apex Maro. Ludendum tibi epigrammatis, odis, eclogis, elegiacis; heroica
               dignitas non attigenda nisi maturo iam et vegeto ingenio</hi>».</note>. Todas estas
-          leyes guardó <persName type="polemista">nuestro poeta don Luis</persName> en las
+          leyes guardó <persName type="polemista">nuestro poeta don Luis</name> en las
             <title>Soledades</title>, <title>Polifemo</title>, <title>Panegírico</title>
           <pb n="32" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p32.png"/> y otras obras donde cumplió exactamente las obligaciones de lo heroico, con
           que parece que no nos deja ocasión de dudar<note place="bottom"> En la «Fe de erratas» al
             final del manuscrito se lee: «Pag. 32 línea 3 <hi rend="i">dudar</hi>, lee <hi rend="i"
-              >duda</hi>».</note> y así <persName type="polemista">Pedro Díaz de Rivas</persName> en la
-          edición de Madrid le intitula el <persName type="polemista">Homero español</persName><note
+              >duda</hi>».</note> y así <persName type="polemista">Pedro Díaz de Rivas</name> en la
+          edición de Madrid le intitula el <persName type="polemista">Homero español</name><note
             place="bottom"> Se refiere al famoso título de las <hi rend="i">Obras en verso del
               Homero español, que recogió Juan López de Vicuña</hi>, Madrid: Por la viuda de Luis
             Sánchez, 1627, existe una edición facsímil, con prólogo e índices de Dámaso Alonso
@@ -2721,7 +2721,7 @@
             una segunda entrega que jamás llegó a ver la luz: «Y aun se aumentará el volumen con los
             comentos del <hi rend="i">Polifemo</hi> y <hi rend="i">Soledades</hi> que hizo el
             Licenciado Pedro Díaz de Rivas, lucido ingenio cordobés» (1627: ¶6v).</note>. Del
-            <title>Polifemo</title> el mismo <persName type="polemista">don Luis</persName> confiesa que es
+            <title>Polifemo</title> el mismo <persName type="polemista">don Luis</name> confiesa que es
           heroico, a quien pertenece lo trágico. También lo es el asunto, por ser este gigante hijo
           del dios Neptuno y Europa<note place="bottom"> Sobre el linaje divino del monstruoso
             Polifemo no parecen existir demasiadas variantes mitográficas: hijo de Poseidón y de la
@@ -2801,7 +2801,7 @@
           fácil conjetura para los fines<note place="bottom"> El carácter inconcluso del <hi
               rend="i">opus magnum</hi> gongorino ha sido objeto de una reciente aportación de
             Sánchez Robayna (2011: 289-312).</note>, con alusión a <persName type="authority"
-            >Virgilio</persName>, que hasta el séptimo libro no introdujo las guerras de Turno y Eneas,
+            >Virgilio</name>, que hasta el séptimo libro no introdujo las guerras de Turno y Eneas,
           que eran su acción principal, gastando lo precedente en episodios y digresiones, si bien
           importantes. Lo ilustre y heroico del forastero bien lo explica aquel apóstrofe que el
           poeta hace al Amor<note place="bottom"> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.665">OC264C.665</ref>-671]</note>:</p><quote>
@@ -2841,7 +2841,7 @@
             sugestión visual de la inconclusa obra magna gongorina, inspirado en el paralelo con la
               <hi rend="i">pintura valiente</hi>. Véase a este propósito Blanco (2004: 197-208 y
             2012b: 261-298).</note> las mayores alusiones que presumió formar la idea. Sea ejemplo
-          esta imitación de <persName type="authority">Virgilio</persName> donde nuestro poeta encarece con
+          esta imitación de <persName type="authority">Virgilio</name> donde nuestro poeta encarece con
           briosísimos hipérboles la ligereza de unos pastores tan adelantada que apenas le permite
           competencia a quien desprecia la de los mejores poetas [38] del mundo<note place="bottom">
             [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.1025">OC264B.1025</ref>-1064] </note>.</p>
@@ -2892,25 +2892,25 @@
               se ha escrito sobre la palabra incorrecta «línea», corrigiéndola como «lince». Figura
               al final del manuscrito en la «Fe de erratas».</note>más agudo.</l></lg></quote>
         <p/>
-        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</persName><hi rend="i"> fue
+        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</name><hi rend="i"> fue
             eminente en lo lírico</hi>
         </p>
         <p>Pocos pertrechos de razones y menos aparatos de argumentos serán necesarios <pb n="41" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p41.png"/>
-          para conseguir este intento, pues aunque <persName type="polemista">Pedro Díaz de Rivas</persName>
-          y la edición primera de las <title>Obras</title> de <persName type="polemista">don Luis</persName>
-          le intitula el <persName type="polemista">Homero español</persName><note place="bottom"> Alude al
+          para conseguir este intento, pues aunque <persName type="polemista">Pedro Díaz de Rivas</name>
+          y la edición primera de las <title>Obras</title> de <persName type="polemista">don Luis</name>
+          le intitula el <persName type="polemista">Homero español</name><note place="bottom"> Alude al
               título<hi rend="i"> Obras en verso del Homero español, que recogió Juan López de
               Vicuña…</hi> Sobre los posibles paralelos de la poesía gongorina con los textos de
             Homero pueden consultarse tres estudios recientes: Ponce Cárdenas (2009: 9-109) (en
             especial el apartado «Quiebros de la majestad épica: los poemas homéricos», p. 13-19),
             Bonilla (2011: 207-248) y Blanco (2012: 261-298).</note>, <persName type="polemista">un
-            docto comentador</persName><note place="margin"> Pellicer en lut sol[…].</note> suyo le da el
-          lauro de <persName type="polemista">príncipe de los poetas líricos</persName> y este parecer sigue
+            docto comentador</name><note place="margin"> Pellicer en lut sol[…].</note> suyo le da el
+          lauro de <persName type="polemista">príncipe de los poetas líricos</name> y este parecer sigue
           el mayor resto de los aficionados a sus obras<note place="bottom"> Apunta de manera
             explícita al título de las <hi rend="i">Lecciones Solemnes a las obras de don Luis de
               Góngora y Argote, Píndaro andaluz, Príncipe de los Poetas líricos de España.
               Escribíalas don Joseph Pellicer de Salas y Tovar</hi>, Madrid: Imprenta del Reino,
-            1630.</note>. Y yo, que en el ingenio de <persName type="polemista">tan grande poeta</persName>
+            1630.</note>. Y yo, que en el ingenio de <persName type="polemista">tan grande poeta</name>
           ni he conocido término ni he hallado suelo, sin desistir de mi primer intento, con
           facilidad me acomodo también a este<note place="bottom"> Según los parámetros de la <hi
               rend="i">imitatio</hi> y la <hi rend="i">aemulatio</hi>, en la estimativa de un poeta
@@ -2935,7 +2935,7 @@
           palabras vivas y amorosas y dulzura y profundidad en el concepto, para que las
           consonancias y sentencias entretengan en la música o lira, de donde <pb n="42" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p42.png"/> tomó el
           nombre este poema<note place="margin"> Rodig l 7 cap 3.</note>, como dice <persName 
-            type="authority">Rodiginio</persName><note place="bottom"> Sobre Celio Rodigino, véase la
+            type="authority">Rodiginio</name><note place="bottom"> Sobre Celio Rodigino, véase la
             nota <ref xml:id="ref4" target="ref3">supra</ref>. En el capítulo tercero del libro séptimo
             de los <hi rend="i">Antiquarum Lectionum Libri XXX</hi> se abordan los temas siguientes:
               «<hi rend="i">Poetas quo pacto citra noxam legas. Interim quae dicantur amethysta et
@@ -2948,12 +2948,12 @@
               insigniantur nomine, verum communi appellantur Poetae. Et Lyricorum quidem indicium,
               quo ab reliquis secernuntur et dicitur a Graecis γνώρισμα , id est praecipuum, quod ad
               lyram eorum concinuntur carmina, ut Pindari novem Lyricorum principis</hi>» (Ricchièri
-            1566: 227).</note>. <persName type="polemista">Don Luis</persName> cumplió tan fielmente estas
+            1566: 227).</note>. <persName type="polemista">Don Luis</name> cumplió tan fielmente estas
           obligaciones que el ingenio más presumido desespera el poder imitarlo, hallándolo adornado
           de una claridad artificiosa y una sutileza suave. Y así me atrevo a decir de él, como
-            <persName type="authority">Quintiliano</persName><note place="margin"> Quint. L 20 Cap
+            <persName type="authority">Quintiliano</name><note place="margin"> Quint. L 20 Cap
             2</note><note place="bottom"> Se refiere en realidad a <hi rend="i">Institutio
-              Oratoria</hi>, X, 1, 96.</note> de <persName type="authority">Horacio</persName>, que sus
+              Oratoria</hi>, X, 1, 96.</note> de <persName type="authority">Horacio</name>, que sus
           versos están llenos de gracia y donaires, que sus figuras son<note place="bottom"> Se
             aprecia claramente la corrección con tinta más oscura. Donde aparecía el término
             incorrecto «soi» puede leerse ahora «son». Figura al final del manuscrito en la «Fe de
@@ -3077,7 +3077,7 @@
         <p><pb n="48" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p48.png"/><hi rend="i">Al rendimiento de un amante y porfía del amor</hi>: <quote>Ya no
             más, ceguezuelo hermano</quote><note place="bottom"> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem91#l91.1">OC91.1</ref>]</note>, folio 68.</p>
         <p/>
-        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</persName><hi rend="i"> fue
+        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</name><hi rend="i"> fue
             maestro de lo satírico y jocoso</hi> 4</p>
         <p>Cuestión ha sido controvertida, y su resolución no poco dudosa, qué estilo ha de guardar
           la sátira. Algunos dicen que ha de ser oscuro y dificultoso, lo uno porque la fealdad del
@@ -3087,24 +3087,24 @@
             place="bottom"> Como introducción general a esta materia puede consultarse el magnífico
             panorama de Schwartz (2012: 21-48). De obligada consulta resulta asimismo Schwartz
             (1986).</note>. De este parecer he visto personas bien entendidas, y con ellas el
-          licenciado <persName type="polemista">Francisco Cascales</persName> en una de sus
+          licenciado <persName type="polemista">Francisco Cascales</name> en una de sus
             <title>epístolas</title><note place="bottom"> Véase la edición digital de la
             controversia Cascales-Villar, cuidada por Margherita Mulas <hi rend="bg_ff0000"
               >[1634_carta-cascales-villar].</hi></note>. Otros sienten que el estilo de la sátira
           ha de ser fácil y claro, vulgar y humilde, usando de versos puros y frases propias, así lo
-          siente <persName type="authority">Horacio</persName> y el mismo licenciado <persName type="polemista"
-            >Cascales </persName>en sus <title>Tablas</title><note place="bottom"> Francisco Cascales
+          siente <persName type="authority">Horacio</name> y el mismo licenciado <persName type="polemista"
+            >Cascales </name>en sus <title>Tablas</title><note place="bottom"> Francisco Cascales
             (1975: 180-184) insertaba en el apartado de «Las cinco Tablas de la Poesía <hi rend="i"
               >in specie</hi>» como tercer epígrafe de la <hi rend="i">Tabla Segunda</hi> el
             capitulillo «De la sátira».</note>. La razón es porque siendo su fin reprehender los
           vicios es conveniente retórica el ajustarse a términos que todos entiendan. <persName 
-            type="polemista">Don Luis</persName> usó en ella de ambos estilos y para conmigo su
+            type="polemista">Don Luis</name> usó en ella de ambos estilos y para conmigo su
           autoridad sola puede hacer opinión bastantemente segura<note place="bottom"> Entre las
             aportaciones modernas, véase Pérez Lasheras (1994, 1995 y 2009).</note>. La regla
           general para este poema parece peligrosa porque no todo lo que es sujeto <pb n="50" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p50.png"/> de
           la sátira conviene que se muestre con claridad, ni sea para la vista de todos: antes tal
           vez importa ponerle velos para que parezca decente a los ojos más modestos. Adelantose
-            <persName type="polemista">don Luis</persName> en este género de decir conocidamente a todos los
+            <persName type="polemista">don Luis</name> en este género de decir conocidamente a todos los
           ingenios de España, sin que haya quien niegue esta ventaja, ni aun la dificulte. Picó con
           todo donaire y reprehendió con singular agudeza, pero no sin ofensa de muchos que fueron
           (y aún hoy lo son) fiscales perpetuos de su fama<note place="bottom"> Si deshacemos la
@@ -3145,7 +3145,7 @@
             o ligera, con rebozo o sin él, han ofendido a personas determinadas, o sean de poca o
             mucha calidad, por no renovar a la memoria de don Luis el justo sentimiento que él tenía
             de la publicidad con que han andado hasta ahora» (BNE, ms. RES/45, f. VIIIr).</note>,
-          diciendo ordinariamente <pb n="51" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p51.png"/> con <persName type="authority">Lipsio</persName><note
+          diciendo ordinariamente <pb n="51" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p51.png"/> con <persName type="authority">Lipsio</name><note
             place="margin"> Lips. C. 20.</note>: <quote>utinam rebocare fas sit atque etiam
             delere</quote><note place="bottom"> La frase pertenece a una carta que Justo Lipsio
             envió desde Lovaina a Livino de Succa en septiembre de 1592. Al final de esta misiva
@@ -3176,7 +3176,7 @@
           que se dejaba llevar del interés: <quote>Mientras Corinto en lágrimas deshecho</quote>,
           folio 17<note place="bottom"> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem180#l180.1">OC180.1</ref>]</note>. Al engaño con que los ojos juzgan las
           cosas: <quote>Cuán venerables que son</quote>, folio 6, página 2<note place="bottom">
-            [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem257#l257.1">OC257.1</ref>]</note>. Burla de un lugar de <persName type="authority">Plinio</persName> el cual dice
+            [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem257#l257.1">OC257.1</ref>]</note>. Burla de un lugar de <persName type="authority">Plinio</name> el cual dice
           que poniendo una rana viva sobre el menstruo de la mujer, hasta que allí muera, le hace
           aborrecer el adulterio: <quote>En la manchada holanda del tributo</quote>, folio 29<note
             place="bottom"><p>[NDE] Como se ha indicado anteriormente, Villar estaba leyendo del
@@ -3206,7 +3206,7 @@
               dice» (Trillo y Figueroa 1951: 276-277). Estudió dicho ejercicio imitativo Jammes
               (1956: 479-480).</p></note>.</p>
         <p><hi rend="i">Ejemplares para el estilo claro de don</hi> <persName type="polemista">Luis de
-            Góngora</persName>
+            Góngora</name>
         </p>
         <p>Al túmulo que hicieron las ciudades <pb n="53" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p53.png"/> de Jaén, Écija y Baeza en las honras de
           la reina doña Margarita: <quote>Oh bien allá Jaén, que en lienzo prieto</quote>, folio
@@ -3221,9 +3221,9 @@
           así: <quote>¿Quién es aquel caballero</quote>, [folio] 202<note place="bottom">
             [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem111#l111.1">OC111.1</ref>]</note>.</p>
         <p/>
-        <p><hi rend="i">Don </hi><persName type="polemista">Luis de Góngora</persName><hi rend="i"> fue el
+        <p><hi rend="i">Don </hi><persName type="polemista">Luis de Góngora</name><hi rend="i"> fue el
             primero en burlesco<space rend="tab"> </space>§</hi> 5</p>
-        <p>A lo burlesco, jocoso y entretenido dio <persName type="polemista">don Luis </persName>las
+        <p>A lo burlesco, jocoso y entretenido dio <persName type="polemista">don Luis </name>las
           primeras (pero sin segundas) pinceladas, mostrando y haciendo camino a los principios, al
           mismo punto que ponía él el <hi rend="i">non plus ultra</hi> a los fines<note
             place="bottom"> Pondera cómo alcanzó la excelencia de modo tal que ningún otro poeta
@@ -3239,8 +3239,8 @@
             la pura agramaticalidad por solecismo y barbarismo: es decir, que Góngora había apurado
             al máximo las posibilidades de –digámoslo así- escribir en latín pero empleando el
             castellano». </note>. En su escuela se han aprendido cuantos donaires ilustran la poesía
-          española, sin que <persName type="authority">Marcial</persName> ni <persName type="authority"
-            >Plauto</persName> hayan sido superiores a nuestro poeta<note place="bottom"> La <hi
+          española, sin que <persName type="authority">Marcial</name> ni <persName type="authority"
+            >Plauto</name> hayan sido superiores a nuestro poeta<note place="bottom"> La <hi
               rend="i">Carta de Lope</hi> menciona un detalle similar: «pues fueron sus sales no
             menos celebradas que las de Marcial, y mucho más honestas» (véase el texto en la edición
             digital cuidada por Pedro Conde Parrado). Como bien apunta el latinista de la
@@ -3267,9 +3267,9 @@
           folio 102<note place="bottom"> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem230#l230.1">OC230.1</ref>]</note>, <quote>Arrojóse el mancebito</quote>,
           folio 206<note place="bottom"> [OC 77.1]</note>.</p>
         <p/>
-        <p><hi rend="i">No le faltó a don</hi> <persName type="polemista">Luis de Góngora</persName><hi
+        <p><hi rend="i">No le faltó a don</hi> <persName type="polemista">Luis de Góngora</name><hi
             rend="i"> espíritu para lo sacro §</hi> 6</p>
-        <p>El genio de <persName type="polemista">nuestro poeta</persName> fue universal para todas las
+        <p>El genio de <persName type="polemista">nuestro poeta</name> fue universal para todas las
           musas, sin dejar puerto alguno que no le costeara al Parnaso<note place="bottom">
             <hi rend="i">Sin dejar puerto alguno…costear</hi>: reaparecen algunas imágenes de la
             navegación, ya aclaradas en la nota <ref xml:id="ref8" target="ref7">supra</ref>. </note>. Y
@@ -3280,13 +3280,13 @@
             en la prosa erudita del vicario-juez de Andújar. Por <hi rend="i">subdelegar</hi> se
             entiende la acción de «trasladar o dar su jurisdicción o potestad a otra persona»
             (RAE).</note>
-          <persName type="authority">Marcial</persName> donaires, <persName type="authority">Plauto</persName>
-          elocuencia, <persName type="authority">Ennio</persName> comprehensión, invención <persName 
-            type="authority">Furio</persName>, suavidad <persName type="authority">Propercio</persName>, dulzura
-          y grandeza <persName type="authority">Virgilio</persName>, <persName type="authority">Persio</persName>
-          energía, destreza <persName type="authority">Horacio</persName>, <persName type="authority"
-            >Catulo</persName> agudeza, <persName type="authority">Ovidio</persName> facilidad y <persName 
-            type="authority">Sannazaro</persName> su espíritu<note place="bottom"> En el curioso elenco
+          <persName type="authority">Marcial</name> donaires, <persName type="authority">Plauto</name>
+          elocuencia, <persName type="authority">Ennio</name> comprehensión, invención <persName 
+            type="authority">Furio</name>, suavidad <persName type="authority">Propercio</name>, dulzura
+          y grandeza <persName type="authority">Virgilio</name>, <persName type="authority">Persio</name>
+          energía, destreza <persName type="authority">Horacio</name>, <persName type="authority"
+            >Catulo</name> agudeza, <persName type="authority">Ovidio</name> facilidad y <persName 
+            type="authority">Sannazaro</name> su espíritu<note place="bottom"> En el curioso elenco
             planteado por Villar resulta llamativa la presencia de un autor moderno entre los
             restantes clásicos: Iacopo Sannazaro. También sorprende que figure junto a los máximos
             representantes de la épica (Ennio, Virgilio), el epigrama (Catulo, Marcial), la elegía
@@ -3315,11 +3315,11 @@
           <quote>Nace el niño y velo a velo</quote>, folio 122<note place="bottom">
           [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem409#l409.1">OC409.1</ref>]</note>.</p>
         <p/>
-        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</persName><hi rend="i"> trató con
+        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</name><hi rend="i"> trató con
             propiedad lo cómico §</hi> 6</p>
         <p/>
         <p><pb n="58" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p58.png"/> En la poesía escénica se ejercitó menos <persName type="polemista">nuestro
-            poeta</persName>, mostrando con advertido descuido la comprensión que tuvo de las leyes que
+            poeta</name>, mostrando con advertido descuido la comprensión que tuvo de las leyes que
           los antiguos pusieron a este poema; porque viendo el punto en que están hoy en España las
           comedias, se consideró obligado y sujeto, o a faltar<note type="app" rend="I">
             «saltar»</note> a ellas en el arte, o a los oyentes en el agrado, efectos en su
@@ -3330,7 +3330,7 @@
             Dolfi (2011).</note>.</p>
         <p>La comedia, si hubiéramos de creer a los autores clásicos, es una acción humilde que usa
           de lenguaje casero y vulgar (perdone<note place="margin"> Aul. gel lb. 6. C. 17</note> el
-            <title>Amphitruo</title> de <persName type="authority">Plauto</persName>)<note place="bottom">
+            <title>Amphitruo</title> de <persName type="authority">Plauto</name>)<note place="bottom">
             La referencia a la famosa pieza de enredo plautina se debe seguramente a que el
             comediógrafo latino introdujo en la trama dos divinidades (Mercurio y el mismísimo
             Júpiter, soberano del Olimpo), cuando los númenes sólo podían aparecer en el escenario
@@ -3339,7 +3339,7 @@
             donde vemos que Plauto puso dioses, / como en su <hi xml:lang="es" rend="i"
               >Anfitrión</hi> muestra Júpiter» (1609: f. 204v). </note>, <pb n="59" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p59.png"/> induciendo los
           ánimos a risa y pasatiempo. Y ha de estar tan ajustada a esta sencillez y llaneza que le
-          niega <persName type="authority">Aristóteles</persName> las metáforas: <quote>nam comici poetae
+          niega <persName type="authority">Aristóteles</name> las metáforas: <quote>nam comici poetae
             translationibus non utuntur</quote><note place="bottom">
             <hi rend="i">Retórica</hi>, III, 1406, b 5 y ss.</note>. Y en otra parte dice que no
           pide estudio ni cuidado: <quote>comedia vero quia in ea nullum studium positum est
@@ -3347,7 +3347,7 @@
             <hi rend="i">Poética</hi>, 1449, a 36.</note>. No han ignorado estas leyes nuestros
           poetas, pero o se ha[n] dejado guiar de más acertado dictamen suyo o de más sazonado gusto
           del vulgo y no de los preceptos del arte, de lo cual haciéndose entendido <persName 
-            type="polemista">el príncipe de las nuestras </persName><note place="margin"> Lope de vega
+            type="polemista">el príncipe de las nuestras </name><note place="margin"> Lope de vega
             en su arte de com.</note>
           <note place="bottom"> Debe notarse el elogio sin tasa que entraña referirse a Lope como
             «el príncipe» de «nuestras» comedias, ya que concede al Fénix el primer lugar
@@ -3357,7 +3357,7 @@
             apariencias llenos, a donde acude el vulgo y las mujeres que este triste ejercicio
             canonizan, a aquel hábito bárbaro me vuelvo y cuando he de escribir una comedia, saco
             a</quote>
-          <persName type="authority">Terencio</persName> y <persName type="authority">Plauto</persName>
+          <persName type="authority">Terencio</name> y <persName type="authority">Plauto</name>
           <quote>de mi estudio, para que no me den voces, que suele dar gritos la verdad en versos
             mudos</quote><note place="bottom"><p>[NDE] Cita el pasaje correspondiente a los versos
               33-44 del <hi rend="i">Arte Nuevo de hacer comedias en este tiempo</hi> de Lope de
@@ -3374,15 +3374,15 @@
           burlas el cómico <pb n="61" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p61.png"/> y libertades el satírico; la variedad las compone, la
           grandeza de las personas las autoriza y el decoro las hermosea. La calificada aprobación
           de los buenos dictámenes (dichoso atrevimiento de los ingenios de nuestro siglo) ha
-          mostrado otro arte diferente del que publicó <persName type="authority">Aristóteles</persName>,
-          que <persName type="authority">Homero</persName>, <persName type="authority">Virgilio</persName> y <persName 
-            type="authority">Plauto</persName> quebrantaron tantas veces<note place="bottom"> Según la
+          mostrado otro arte diferente del que publicó <persName type="authority">Aristóteles</name>,
+          que <persName type="authority">Homero</name>, <persName type="authority">Virgilio</name> y <persName 
+            type="authority">Plauto</name> quebrantaron tantas veces<note place="bottom"> Según la
             idea de que nuevos tiempos piden nuevas fórmulas, Francisco del Villar defiende aquí la
             licitud de las novedades dramáticas introducidas por Lope y consolidadas por sus
             seguidores: «dichoso atrevimiento de los ingenios de nuestro siglo». El Fénix se
             convirtió en España y en algunas regiones italianas de influencia hispánica en el máximo
             adalid de un ‘arte anti-aristotélico’.</note>. Díjolo eruditamente don <persName 
-            type="authority">Francisco de Barreda</persName><note place="margin"> Bared. 5º el
+            type="authority">Francisco de Barreda</name><note place="margin"> Bared. 5º el
             panegirico […]dis.</note>, pero gánole a mi sentir por la mano, si bien con tan buen
           padrino salgo más confiado a la tela<note place="bottom"> En la línea habitual que venimos
             observando en otros pasajes, nuevamente el copista comete un error al transcribir el
@@ -3439,7 +3439,7 @@
           principales las bajezas. Si ya no es que la verdad del asunto obliga a ello, que en este
           caso no hablan las leyes de la poética, porque refiere narración cierta y no fingida y así
           pertenece a la jurisdicción de la Historia, con que tiene lugar la doctrina de <persName 
-            type="authority">Horacio</persName>, cuya observancia dice que si la comedia trata de
+            type="authority">Horacio</name>, cuya observancia dice que si la comedia trata de
           narración cierta, sigamos la fama, y si de ficción, la conveniencia: <quote>aut famam
             sequere, aut convenientiam finge</quote><note place="bottom"> Horacio, <hi xml:lang="it"
               rend="i">Ars Poetica</hi>, v. 119-120 (1996: 544-545): «<hi xml:lang="it" rend="i">Aut
@@ -3448,7 +3448,7 @@
               >Arte poética</hi> cuidada por Juan Antonio González Iglesias la traducción del pasaje
             en endecasílabos blancos reza así: «O sigues lo que otros ya dijeron, / escritor, o
             creas algo con su propia / coherencia» (Horacio 2012: 67).</note>. Fue don <persName 
-            type="polemista">Luis de Góngora</persName> tan eficazmente aficionado a los antiguos que
+            type="polemista">Luis de Góngora</name> tan eficazmente aficionado a los antiguos que
           parece que pasó <pb n="64" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p64.png"/> a superstición su respeto, pues sólo por la fe de los
           aciertos de Grecia o Italia se negó a las evidencias de España. Escribió <title>Las
             firmezas de Isabela</title>, el <title>Doctor Carlino</title> y la
@@ -3467,13 +3467,13 @@
               revés– dont nous avons perdu la trace</hi>» (Canavaggio 1965: 252-253). En nota a su
             artículo el cervantista menciona la existencia de un entremés homónimo de Quiñones de
             Benavente y una mojiganga anónima del mismo título.</note>. De éstas puede sacar
-          preceptos <persName type="authority">Terencio</persName> y <persName type="authority">Plauto</persName> y,
+          preceptos <persName type="authority">Terencio</name> y <persName type="authority">Plauto</name> y,
           aunque imperfectas, basta para que por todos caminos se haga conocido el singular talento
           de nuestro poeta.</p>
         <p/>
         <p><hi rend="i">Proposición séptima.</hi></p>
-        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</persName><hi rend="i">
-            fue </hi><persName type="polemista">el mayor poeta de España</persName>
+        <p><hi rend="i">Don</hi> <persName type="polemista">Luis de Góngora</name><hi rend="i">
+            fue </hi><persName type="polemista">el mayor poeta de España</name>
         </p>
         <p><pb n="65" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p65.png"/> Aunque cualesquiera comparación engendra aborrecimiento y parezca empresa
           culpable querer censurar ingenios tan superiores, no puede la inclinación (por más que el
@@ -3488,22 +3488,22 @@
             divinidades, suavidad, laureles, viveza, profundidad, pinceles, conceptos, agudeza»…
             Quizá sería conveniente plantear una <hi rend="i">emendatio ope ingenii</hi>, donde el
             término «orador» podría sustituirse por el sustantivo «ardor». </note> de don <persName 
-            type="authority">Alonso de Ercilla</persName><note type="app" rend="I"> El copista había
+            type="authority">Alonso de Ercilla</name><note type="app" rend="I"> El copista había
             transcrito erróneamente «Ercida». Posteriormente el corrector rectifica y superpone «ll»
-            sobre «d».</note>, el espíritu de <persName type="authority">Cairasco</persName>, las
-          divinidades de <persName type="authority">Figueroa</persName>, la suavidad de <persName 
-            type="authority">Luis de Camoens</persName>, <pb n="66" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p66.png"/> los laureles de <persName 
-            type="authority">Hernando de Herrera</persName>, la viveza del <persName type="authority">conde
-            de Salinas</persName>, la profundidad del doctor <persName type="authority">Mira de
-            Mescua</persName>, los pinceles de <persName type="authority">Josef de Valdivielso</persName>, los
-          conceptos de <persName type="authority">Ledesma</persName>, la agudeza del <persName type="polemista"
-            >conde de Villamediana</persName>, los aciertos de don <persName type="authority">Pedro
-            Calderón</persName>, los pensamientos de <persName type="authority">Alonso de Bonilla</persName>, la
-          facilidad y erudición de los <persName type="authority">Lupercios</persName>, las flores de <persName 
-            type="authority">Anastasio Pantaleón</persName>, los afectos de <persName type="authority"
-            >Villaizán</persName>, la valiente erudición de <persName type="polemista">Pellicer</persName>, los
-          donaires del doctor <persName type="authority">Salinas</persName>, la gala de don <persName 
-            type="authority">Antonio de Mendoza</persName>, que aunque los crio el cielo tan
+            sobre «d».</note>, el espíritu de <persName type="authority">Cairasco</name>, las
+          divinidades de <persName type="authority">Figueroa</name>, la suavidad de <persName 
+            type="authority">Luis de Camoens</name>, <pb n="66" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p66.png"/> los laureles de <persName 
+            type="authority">Hernando de Herrera</name>, la viveza del <persName type="authority">conde
+            de Salinas</name>, la profundidad del doctor <persName type="authority">Mira de
+            Mescua</name>, los pinceles de <persName type="authority">Josef de Valdivielso</name>, los
+          conceptos de <persName type="authority">Ledesma</name>, la agudeza del <persName type="polemista"
+            >conde de Villamediana</name>, los aciertos de don <persName type="authority">Pedro
+            Calderón</name>, los pensamientos de <persName type="authority">Alonso de Bonilla</name>, la
+          facilidad y erudición de los <persName type="authority">Lupercios</name>, las flores de <persName 
+            type="authority">Anastasio Pantaleón</name>, los afectos de <persName type="authority"
+            >Villaizán</name>, la valiente erudición de <persName type="polemista">Pellicer</name>, los
+          donaires del doctor <persName type="authority">Salinas</name>, la gala de don <persName 
+            type="authority">Antonio de Mendoza</name>, que aunque los crio el cielo tan
           aventajados, ellos se han querido hacer menos conocidos<note place="bottom"> El curioso
             elenco de «estrellas que felizmente han influido la poesía española» comprende
             diecinueve autores de los siglos XVI y XVII, algunos de ellos hoy no muy conocidos como
@@ -3521,7 +3521,7 @@
               xml:lang="es" rend="i">estrellas</hi>: «<hi xml:lang="es" rend="i">non ego astrum sum,
               nec quidem inter stellas</hi>». Véase la nota <ref xml:id="ref6" target="ref5">supra</ref>.</note>.</p>
         <p>Ilustres esfuerzos dio a la poesía y lengua española el famoso cordobés <persName 
-            type="authority">Juan de Mena</persName>, cifrando en sus versos grave imitación de poetas
+            type="authority">Juan de Mena</name>, cifrando en sus versos grave imitación de poetas
           latinos, agradable ficción de objetos, briosa facilidad de genio, con erudición continua y
           noticia de buenas letras. Más cortés debió de ser la presunción de aquel siglo, pues
           afectando este poeta la obscuridad por tantos caminos, tomándose ordinariamente <pb n="68" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p68.png"/> peligrosas licencias y tropezando a cada paso en cuantos vicios de la oración notan los
@@ -3529,7 +3529,7 @@
           dejaron de lisonjearle los aplausos de la fama. Obtuvo el principado de la poesía
           castellana sin que le despojara de tan justa posesión la calumnia, ni aun la emulación le
           perturbara. Pero llegó el excelente poeta <persName type="authority">Garcilaso de la
-            Vega</persName> con mejor cultura de estilo, más suave mensura de versos y más pulido adorno
+            Vega</name> con mejor cultura de estilo, más suave mensura de versos y más pulido adorno
           de frases, con que siendo ambos luceros hermosos, los anocheció el uno cuando amaneció el
           otro. Diose a conocer tan superior ingenio, hízose lugar, aun tomó el preeminente, entre
           cuantos <pb n="69" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p69.png"/> españoles pretendieron asiento en el Parnaso y sus merecidas honras,
@@ -3542,9 +3542,9 @@
           prelación por general aclamación en el teatro de aquellos tiempos. Encargose la eternidad
           de sus escritos, celebrándolos todos los bien entendidos y aun la misma Envidia parece que
           no ha tenido cara para perderles el respeto. Ilústranlos con célebres notas
-          el Maestro <persName type="authority">Francisco Sánchez el Brocense</persName>, <persName 
-            type="authority">Hernando de Herrera </persName>y últimamente <pb n="70" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p70.png"/> don <persName 
-            type="authority">Tomás Tamayo de Vargas</persName>, cuya bizarra erudición dando leyes a los
+          el Maestro <persName type="authority">Francisco Sánchez el Brocense</name>, <persName 
+            type="authority">Hernando de Herrera </name>y últimamente <pb n="70" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p70.png"/> don <persName 
+            type="authority">Tomás Tamayo de Vargas</name>, cuya bizarra erudición dando leyes a los
           comentadores le ha tejido el laurel más victorioso<note place="bottom"> Alude aquí a los
             volúmenes de las <hi xml:lang="es" rend="i">Obras del excelente poeta Garcilaso de la
               Vega con anotaciones y enmiendas del licenciado Francisco Sánchez de las Brozas</hi>
@@ -3556,7 +3556,7 @@
           hasta el fin del mundo. Tenga cada uno firme su balanza o porfíen cuanto quisieren o la
           Cortesía o la Justicia, pues cuando nos conformemos en que estos tres ingenios en lo
           natural corrieron iguales parejas y felicidades, comparada la lección de don <persName 
-            type="polemista">Luis de Góngora</persName> con los dos, o bien por el agrado y fuerza del
+            type="polemista">Luis de Góngora</name> con los dos, o bien por el agrado y fuerza del
           uso, o bien por las mejoras de nuestro siglo. Hallaremos que es de más gusto, porque se
           hermosea <pb n="71" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p71.png"/> más con lo jovial y festivo; más varia, porque se acomoda a todo
           género de poesía, y de más provecho, porque nos sirve de llave maestra para abrir cuantos
@@ -3573,7 +3573,7 @@
             lexicalizado <hi xml:lang="es" rend="i">guardar la casa</hi> aparece recogido en 1611 en
             el <hi xml:lang="es" rend="i">Tesoro</hi> de Covarrubias, con el sentido de «no salir de
             ella». </note>) al genio más abundante de nuestro siglo, a la dulzura más fácil y
-          conceptuosa que vieron los pasados: <persName type="polemista">Lope de Vega Carpio</persName>,
+          conceptuosa que vieron los pasados: <persName type="polemista">Lope de Vega Carpio</name>,
           abono no solamente de su fama<note place="bottom">
             <hi rend="i">Abonar</hi>: «acreditar o calificar de bueno», «hacer bueno o útil algo,
             mejorarlo de estado» (RAE).</note>, sino de cuantas cosas le prohijaron el nombre<note
@@ -3585,7 +3585,7 @@
           ignora que los créditos de los poetas tienen menos jurisdicción en la verdad que en el
           deleite. Luciósele en tan celebradas honras la protección del más glorioso mecenas, el
           excelentísimo duque de Sessa, y la piedad del más cortés y agradecido discípulo, el doctor
-            <persName type="authority">Juan Pérez de Montalbán</persName>, que cuando más lastimosamente nos
+            <persName type="authority">Juan Pérez de Montalbán</name>, que cuando más lastimosamente nos
           da a sentir aquella muerte, nos consuela con mostrarse substituto de su espíritu. La barra
             tiraron<note place="bottom">
             <hi xml:lang="es" rend="i">Tirar alguien la barra</hi>: «vender las cosas al mayor
@@ -3599,13 +3599,13 @@
           embargadas todas las alabanzas y ocupados los encarecimientos y ya que la diligencia <pb n="73" facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1636_compendio-poetico/1636_compendio-poetico_p73.png"/> ejecutó créditos tan cortesanos, valgámonos aquí de las demostraciones, pues
           nos las dejan libres. Y vuelvan por mi empeño las experiencias, pues quien a luz
           desengañada mirare las cosas, hallará que entre cuantos poetas galantearon las Musas
-          (concediendo a <persName type="polemista">Lope de Vega</persName> y sus imitadores la primacía en
+          (concediendo a <persName type="polemista">Lope de Vega</name> y sus imitadores la primacía en
           lo cómico<note place="bottom"> En su afán por exaltar la primacía de Góngora como el mayor
             vate de su tiempo, Francisco del Villar se aviene a conceder a Lope de Vega y sus
             discípulos el primado en el campo teatral sin muchas objeciones, pero en las demás
             especies de la poesía se lo otorga al escritor cordobés.</note>) y les<note type="app"
             rend="I"> Quizá debiera corregirse como «le».</note> rondaron la puerta a la retórica,
-          sólo <persName type="polemista">don Luis</persName> fue el admitido por dueño y quien a fuerza de
+          sólo <persName type="polemista">don Luis</name> fue el admitido por dueño y quien a fuerza de
           estudio rompió la cárcel a la erudición castellana; verdad que conocerá cualesquiera
           mediana advertencia, tan sin fatigarse en los sudores que a cada paso tropezará en los
           desengaños.</p>
