@@ -109,7 +109,6 @@
       </div>
       -->
     <front>
-
       <head>Introducción</head>
       <div>
         <head>1. [Título] <lb/>El parecer, un género de la literatura polémica</head>
@@ -2118,11 +2117,10 @@
             Oro, 2006, p. 627-632.</bibl>
         </div>
       </div>
-
-
     </front>
     <body>
-
+      <index indexName="resp" n="Francisco Fernández de Córdoba"/>
+      <index indexName="date" n="1614"/>
       <div>
         <pb
           facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f131r.png"
