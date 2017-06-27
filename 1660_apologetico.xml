@@ -77,9 +77,9 @@
             key="Juan de Espinosa Medrano">Juan de Espinosa Medrano</persName>, colegial real en el
           insigne seminario de San Antonio el Magno, catedrático de Artes y Sagrada Teología en él,
           cura rector de la santa iglesia catedral de la ciudad del Cuzco, cabeza de los reinos del
-          Perú en el Nuevo Mundo. Año 1662<note place="bottom"><hi rend="bg0000ff">Sin la licencia
+          Perú en el Nuevo Mundo. Año 1662<note place="bottom">Sin la licencia
               ni el pie de imprenta, esta página constituye la anteportada del <hi rend="i"
-                >Apologético</hi>.</hi></note>.</head>
+                >Apologético</hi>.</note>.</head>
         <pb n="f. []1v"/>
       </div>
       <div xml:id="portada">
@@ -748,9 +748,8 @@
                 y dice así: «El lector y el oyente, Aulo, estiman mis libritos, / pero cierto poeta
                 asegura que no están bien rematados. / No me preocupa en demasía: de hecho,
                 preferiría que los platos / de mis cenas gustaran a los invitados en vez de a los
-                cocineros.» (traducción de Juan Fernández Valverde en Marcial 2001b: 148). <hi
-                  rend="bg0000ff">Hay un apunte manuscrito en el testimonio B, donde se lee, a
-                  continuación de la remisión marginal a Marcial, «lib. 9. Ep. 83.».</hi></note></l>
+                cocineros.» (traducción de Juan Fernández Valverde en Marcial 2001b: 148). Hay un apunte manuscrito en el testimonio B, donde se lee, a
+                  continuación de la remisión marginal a Marcial, «lib. 9. Ep. 83.».</note></l>
           </quote>
           <p>Pero si la magnanimidad mira el desprecio de las afrentas injustas<note type="app"
               rend="I"> inju stas <hi rend="i">A</hi> : injustas <hi rend="i">B</hi></note>, el celo
@@ -768,9 +767,9 @@
                 después de su muerte.» (traducción de Antonio Ramírez de Verger, véase Marcial
                 2001b: 21). Los versos citados por Miguel de Quiñones son los dos últimos, ocultando
                 así el sentido original del epigrama para torcer su significado y afirmar que los poetas
-                muertos son maltratados por el público. <hi rend="bg0000ff">Como en la cita
+                muertos son maltratados por el público. Como en la cita
                   anterior, un apunte manuscrito en el testimonio B remite a: «lib. 1. Ep.
-                1.».</hi></note></l></quote>
+                1.».</note></l></quote>
           <p>Pero podía temer que si fueron cenizas del <persName type="polemista" key="Luis de Góngora"
               >fénix de los ingenios castellanos</persName>, de ellas mismas saldría <persName 
               type="polemista" key="Juan de Espinosa Medrano">otro fénix de ingenio</persName> que le
@@ -1228,8 +1227,7 @@
             <l>nunc pluvia exundat, fulmine nunc rutilat,</l>
             <l>eloquium, <persName type="polemista" key="Juan de Espinosa Medrano">Medrane</persName>, tuum
               sic sydera lambit,</l>
-            <l>roret ut e superis imbre vel igne tonet<note place="bottom"><hi rend="bg00ffff"
-                  >Francisco López Mejía caracteriza la elocuencia de El Lunarejo con tópicos
+            <l>roret ut e superis imbre vel igne tonet<note place="bottom">Francisco López Mejía caracteriza la elocuencia de El Lunarejo con tópicos
                   característicos del estilo sublime, que por lo demás se encuentran en varios
                   lugares del <hi rend="i">Apologético</hi>. La elocuencia que se alza
                   vertiginosamente hasta los cielos es característica de Góngora en la sección VIII,
@@ -1238,7 +1236,7 @@
                   tormentosa del estilo sublime, es por lo demás rocío de los astros, y se acerca
                   por tanto a la definición de la miel por los antiguos (VI, § 49), que en el
                   tratado de El Lunarejo es el referente a partir del cual Góngora forja la «frasi
-                  benemérita del furor verdaderamente poético» (VI, § 48). El rocío de la elocuencia de Espinosa se refiere a su capacidad persuasiva como orador.</hi></note>;</l>
+                  benemérita del furor verdaderamente poético» (VI, § 48). El rocío de la elocuencia de Espinosa se refiere a su capacidad persuasiva como orador.</note>;</l>
             <l>en Tartesiaci<note place="bottom"><hi rend="i">Tartesiacus</hi>: de Tartessos, zona
                 de la cuenca del Guadalquivir, entre las provincias de Córdoba, Sevilla y Huelva.
                 Según fuentes griegas, surgía en dicha zona una importante ciudad del mismo nombre,
@@ -1408,9 +1406,9 @@
             el ramo de oro, que en tan calamitosa edad vuelve a renovar tan dorados siglos como los
             que hoy goza, ceñida de victoriales palmas la guerra, coronada de fructíferas delicias
             la paz. <pb n="f. c4r"/></p>
-          <quote xml:lang="es"><l>Dígalo armada</l>
-            <l>De paz su diestra, díganlo trepando</l>
-            <l>Las ramas de Minerva por su espada.<note place="margin" resp="author"> Gongora in
+          <quote xml:lang="es"><l>Dígalo, armada</l>
+            <l>de paz su diestra, díganlo trepando</l>
+            <l>las ramas de Minerva por su espada.<note place="margin" resp="author"> Gongora in
                   Panegir.<note type="app" rend="I">Panegir. <hi rend="i">A</hi> : Paneg. <hi
                     rend="i">B</hi></note></note><note place="bottom"> Góngora, <hi rend="i">Panegírico</hi>, v. 18-20 [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem313#l313.18"
@@ -1533,7 +1531,7 @@
             virtud atrás los límites de la emulación, desahuciando los últimos esfuerzos de la
             envidia?</p>
           <quote xml:lang="la" rend="i"><l>Solus hic inuidiae fines virtute reliquit</l>
-            <l>Humanumque modum<note place="margin" resp="author"> Claud. Paneg. lib.<note
+            <l>humanumque modum<note place="margin" resp="author"> Claud. Paneg. lib.<note
                 type="app" rend="I">lib. <hi rend="i">B</hi> : lib <hi rend="i">A</hi></note>
               3.</note><note place="bottom"> Claudiano, <hi rend="i">De consulatu Stilichonis</hi>,
               canto 24, libro 3, v. 39-40 (Claudiano 1985: 226). «Sólo [él: Estilicón] ha
@@ -1543,8 +1541,8 @@
             que Júpiter empuñe por cetro el rayo, de que Febo sea príncipe universal de la
             sabiduría?</p>
           <quote xml:lang="la" rend="i"><l>Quis enim livescere possit</l>
-            <l>Quod numquan pereant stellae, quod Iuppiter olim</l>
-            <l>Possideat coelum, quod noverit omnia Phoebus?<note place="bottom"> Claudiano, <hi
+            <l>quod numquan pereant stellae, quod Iuppiter olim</l>
+            <l>possideat coelum, quod noverit omnia Phoebus?<note place="bottom"> Claudiano, <hi
                   rend="i">De consulatu Stilichonis</hi>, canto 24, libro 3, v. 41-43: «<hi rend="i"
                   >quis enim liuescere possit / quod numquam pereant stellae, quod Iuppiter altum /
                   possideat caelum, quod nouerit omnia Phoebus</hi>?» (Claudiano 1985: 226). «Pues,
@@ -1555,7 +1553,7 @@
             linderos y espacios exentos, adonde jamás arribaron los ímpetus de la envidia más
             poderosa.</p>
           <quote xml:lang="la" rend="i"><l>Est aliquod meriti spatium, quod nulla furentis</l>
-            <l><pb n="f. d1v"/>Inuidiae mensura capit.<note place="bottom"> Claudiano, <hi rend="i">De consulatu Stilichonis</hi>, canto 24,
+            <l><pb n="f. d1v"/>inuidiae mensura capit.<note place="bottom"> Claudiano, <hi rend="i">De consulatu Stilichonis</hi>, canto 24,
               libro 3, v. 44-45 (Claudiano 1985: 226). «Hay un punto de gloria al que no puede
               alcanzar ningún grado de la frenética envidia» (trad. de Miguel Castillo Bejarano,
               véase Claudiano 1993b: 115).</note></l></quote>
@@ -2291,7 +2289,7 @@
             velocidad con que habían de hacer la fuga los troyanos para escapar de la ferocidad de
             Polifemo en el 3º de su <title>Eneida</title>.</p>
           <quote xml:lang="la" rend="i"><l>Sed fugite o miseri, fugite, atque ab littore funem</l>
-            <l>Rumpite<note place="margin" resp="author"> AEneidos<note type="app" rend="I"
+            <l>rumpite<note place="margin" resp="author"> AEneidos<note type="app" rend="I"
                   >AEneidos <hi rend="i">A</hi> : AEneydos <hi rend="i">B</hi></note> 3.</note><note
                 place="bottom"> Virgilio, <hi rend="i">Eneida</hi>, libro III, v. 639: «<hi rend="i"
                   >sed fugite, o miseri, fugite atque ab litore funem rumpite</hi>» (Virgilio 2009:
@@ -2481,17 +2479,17 @@
               poeta</persName><note place="bottom"> Virgilio.</note>, si quisiéramos hacer otra
             retahíla semejante. Habíanse de escribir apartados y con distinción, numerados como
             hacemos aquí:</p>
-          <p>1. §. <quote xml:lang="es"><l>«Rico de cuantos la agua engendra bienes»<note
+          <l>1. §. <quote xml:lang="es"><l>«Rico de cuantos la agua engendra bienes»<note
                   place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 123 [<ref
                     target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.123"
-                    >OC255.123</ref>].</note></l></quote></p>
+                    >OC255.123</ref>].</note></l></quote></l>
           <p>2. §. <quote xml:lang="es"><l>«Marino, si agradable no instrumento.»<note
                   place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 382: «(marino, si
                   agradable no, instrumento)» [<ref
                     target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.382"
                     >OC255.382</ref>].</note></l></quote></p>
           <p>3. §. <quote xml:lang="es"><l>«Viendo el fiero pastor voces él tantas,</l>
-              <l>Y tantas despidió la honda piedras.»<note place="bottom"> Góngora, <hi rend="i"
+              <l>y tantas despidió la honda piedras.»<note place="bottom"> Góngora, <hi rend="i"
                     >Polifemo</hi>, v. 470-471 [<ref
                     target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.470"
                     >OC255.470-471</ref>].</note></l></quote></p>
@@ -2538,8 +2536,8 @@
             es menos lindo, antes más a lo de cabriola, por testimonio de la sutileza del sentido
             con que comentamos eso otro, veislo aquí: <quote xml:lang="es"><l>“Llegó pues el
                 mancebo, y saludado</l>
-              <l>(Sin ambición, sin pompa de palabras)</l>
-              <l>De los conducidores fue de cabras.”<note place="bottom"> Góngora, <hi rend="i"
+              <l>(sin ambición, sin pompa de palabras)</l>
+              <l>de los conducidores fue de cabras.”<note place="bottom"> Góngora, <hi rend="i"
                     >Soledades</hi>, I, v. 90-92, [<ref
                     target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.90"
                     >OC264B.90-92</ref>].</note></l>
@@ -2550,14 +2548,14 @@
               conocimiento caprino, en «entend[er] de cabras».</note>, ayudó los cabreros en la
             conducción de ellas. Venga otro saltico de cabras: <quote xml:lang="es"><l>“Cabras aquí
                 le interrumpieron cuantas</l>
-              <l>Vagas el pie, sacrílegas el cuerno:”<note place="bottom"> Góngora, <hi rend="i"
+              <l>vagas el pie, sacrílegas el cuerno:”<note place="bottom"> Góngora, <hi rend="i"
                     >Polifemo</hi>, v. 466-467, [<ref
                     target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.466"
                     >OC255.466-467</ref>].</note></l>
             </quote> Otro salto ha de venir por la que vende buen vino, aunque salgamos de la esfera
             de nuestro intento. <quote xml:lang="es"><l>“El que de cabras fue dos veces ciento</l>
-              <l>Esposo, etc.</l>
-              <l>Breve de barba; duro no de cuerno,”<note place="bottom"> Góngora, <hi rend="i"
+              <l>esposo, etc.,</l>
+              <l>breve de barba; duro no de cuerno,”<note place="bottom"> Góngora, <hi rend="i"
                     >Soledades</hi>, I, v. 153-154 y v. 159, [<ref
                     target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.153"
                     >OC264B.153-159</ref>].</note></l>
@@ -2842,8 +2840,8 @@
             aquí viniera lindamente, a ser todos los ingenios pajareros como el suyo. Pasa adelante
             con que dan otro salto las cabras en aquellos versos.</p>
           <quote xml:lang="es"><l><pb n="f. 6v"/>Llegó pues el mancebo, y saludado</l>
-            <l>(Sin ambición, sin pompa de palabras)</l>
-            <l>De los conducidores fue de cabras.<note place="bottom"> Góngora, <hi rend="i"
+            <l>(sin ambición, sin pompa de palabras)</l>
+            <l>de los conducidores fue de cabras.<note place="bottom"> Góngora, <hi rend="i"
                   >Soledades</hi>, I, v. 90-92, [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.90"
                   >OC264B.90-92</ref>].</note></l>
@@ -2859,9 +2857,9 @@
               condimentarium factum</quote>»<note place="margin" resp="author"> Tertul. libro<note
                 type="app" rend="I">Tertul. libro <hi rend="i">B</hi> : Terunl. lib. <hi rend="i"
                   >A</hi></note> de Anima cap. 25.</note><note place="bottom"> Tertuliano, <hi
-                rend="i">De anima</hi>, cap. 23 (Tertuliano 1954: l. 20): <hi rend="bgff00ff">‘Me
+                rend="i">De anima</hi>, cap. 23 (Tertuliano 1954: l. 20): ‘Me
                 duelo de buena fe de ver que Platón está hecho proveedor de condimentos de los
-                herejes’.</hi></note>. ¿Qué dijera hoy quien sintió ver a Platón padrino de locuras
+                herejes’.</note>. ¿Qué dijera hoy quien sintió ver a Platón padrino de locuras
             de herejes, viéndole sazonador de herejías de locos? ¡Cosa de risa es querernos
             persuadir manchas en el Sol<note place="bottom"> Gran lector y buen conocedor de las
               ciencias naturales de su época, Espinosa Medrano alude aquí, denunciándola, a la
@@ -2978,7 +2976,7 @@
             lenguaje y verso latino que al castellano, va suelta, llana y humilde la oración; pues
             como el poeta otra vez dijo:</p>
           <quote xml:lang="la" rend="i"><l>Aeream coelo nam Iupiter Irim</l>
-            <l>Demisit<note type="app" rend="I"> Demisit <hi rend="i">B</hi> : Demissit <hi rend="i"
+            <l>demisit<note type="app" rend="I"> Demisit <hi rend="i">B</hi> : Demissit <hi rend="i"
                   >A</hi> :</note><note place="bottom"> Virgilio,<hi rend="i"> Eneida</hi>, libro 9,
                 v. 803-804: «<hi rend="i">sufficere; aeriam caelo nam Iuppiter Irim / demisit
                   germanae haud mollia iussa ferentem</hi>» (Virgilio 1987: 36): «Pues Júpiter de lo
@@ -3049,15 +3047,15 @@
             que es menester sean cabras, Cacos, o Aníbales, para saltar, saltear y romper por ellas;
             y lo que peor es, que después de todo ni la cabra hallará jugo ni el ladrón hacienda ni
             Aníbal gloria.</p>
-          <p>«Orador Faría entonces</p>
-          <p>Las armas jugó de Tulio»<note place="bottom"> Espinosa Medrano cita a Góngora en los
+          <l>«Orador Faría entonces</l>
+          <l>las armas jugó de Tulio»<note place="bottom"> Espinosa Medrano cita a Góngora en los
               versos <quote xml:lang="es">«Orador, Píramo, entonces / las armas jugó de
                 Tulio</quote>» (<hi rend="i">Fábula de Píramo y Tisbe</hi>, v. 269-270 [<ref
                 target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem317#l317.269"
                 >OC317.269-270</ref>]) en lo que Gracián denominaría «concepto por acomodación de
             verso antiguo» (Blanco 2010: 211 y 1988: 105 y siguientes). El Lunarejo se burla del periodo de los lucos, Sierra Morena y alpestres peñascos, con sus <hi rend="i">tricola</hi> en correspondencia con las cabras, los Cacos y los Aníbales. Esta construcción retórica es típica de la retórica ciceroniana y de su célebre <hi rend="i">concinnitas</hi>: el propio Góngora, en los versos anteriores de la <hi rend="i">Fábula de Píramo y Tisbe</hi>, parodiaba ese mismo estilo, con los dos períodos introducidos por «¡Cuántas veces… Cuántas!» (v. 261 y 265). Espinosa Medrano, en las líneas posteriores, juega también a parodiar ese estilo tomando pie en las frases de Faría. Es de notar que en el poema gongorino, unos versos más abajo, el orador Píramo se convierte en «protonecio» y «señor Piramiburro» (<ref
               target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem317#l317.339"
-              >OC317.339-340</ref>), por lo que esta identificación de Faría con el protagonista de la fábula burlesca, además del ataque contra su estilo, contiene una pulla <hi rend="i">ad hominem</hi>, aunque velada.</note>.</p>
+              >OC317.339-340</ref>), por lo que esta identificación de Faría con el protagonista de la fábula burlesca, además del ataque contra su estilo, contiene una pulla <hi rend="i">ad hominem</hi>, aunque velada.</note>.</l>
           <p>12. No hay piedra que no mueva<note place="bottom"> A continuación de la cita de la <hi
                 rend="i">Fábula de Píramo y Tisbe</hi>, Espinosa Medrano inicia su párrafo copiando
               la estructura del verso que continúa el poema gongorino: «Orador, Píramo, entonces, /
@@ -3103,7 +3101,7 @@
             este Aníbal. Y si no veamos el hipérbaton de <persName type="authority" key="Camoens">Camoens</persName>,
             que tanto aquel sublima en este lugar.</p>
           <quote xml:lang="pt" rend="i"><l>Que em terreno</l>
-            <l>Nam cabe o altivo peito tam pequeno<note place="bottom"> Camoens, <hi rend="i"
+            <l>nam cabe o altivo peito tam pequeno<note place="bottom"> Camoens, <hi rend="i"
                   >Lusíadas</hi>, canto III, estancia 94, v. 751-752. Manuel de Faría, <hi rend="i"
                   >Lusiadas</hi>, I, Tomo I, Canto III, estancia 94, v. 7-8, col. 130, A
                 [1639_lusiadas] (Faría 1639a: II, col. 130).</note>.</l></quote>
@@ -3128,7 +3126,7 @@
               peito tam pequeño</quote>», también lo supo decir <persName type="polemista"
               key="Luis de Góngora">Góngora</persName>, cuando del Conde de Salinas cantó:</p>
           <quote xml:lang="es"><l>Del León, que en la Silva apenas cabe,</l>
-            <l>O ya por fiero, o ya por generoso<note place="bottom"> Góngora, soneto «De don
+            <l>o ya por fiero, o ya por generoso<note place="bottom"> Góngora, soneto «De don
                 Rodrigo Sarmiento, conde de Salinas», v. 1-2: «Del león, que en la Silva apenas
                 cabe, / o ya por fuerte, o ya por generoso,» [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem154#l154.1"
@@ -3189,7 +3187,7 @@
                 Anim.<note type="app" rend="I">Tertullianus. lib. de Anim. <hi rend="i">em.</hi> :
                 Tertullinus lib. de Anim. <hi rend="i">A</hi> || Tertul. libro de Ani m. <hi
                   rend="i">B</hi></note> cap. 15.</note> dijo: «<quote xml:lang="la" rend="i"
-              >Retusus Asclepiades capras suas quaerat sine corde balantes, et muscas suas abigat
+                    >Retusus<note type="app" rend="I">Retusus <hi rend="i">em.</hi> : Retussus <hi rend="i">AB</hi></note> Asclepiades capras suas quaerat sine corde balantes, et muscas suas abigat
               sine capite volitantes</quote>»<note place="bottom"> Tertuliano, <hi rend="i">De
                 anima</hi>, cap. 15 (Tertuliano 1954: l. 45): «<hi rend="i">ut uel ab istis retusus
                 Asclepiades capras suas quaerat sine corde balantes et muscas suas abigat sine
@@ -3341,7 +3339,7 @@
               pensamiento razonable».</note>: así en casi todo, de suerte que se cumple<note
               type="app" rend="I"> cumple <hi rend="i">A</hi> : comple <hi rend="i">B</hi></note>
             enteramente en esta lira lo que dice <persName type="authority" key="Cicerón">Cicerón</persName> de los
-            poetas que cantan a ella: “<quote xml:lang="la" rend="i">Quos cum cantu spoliaveris,
+            poetas que cantan a ella: “<quote xml:lang="la" rend="i">Quos cum cantu<note type="app" rend="I">cantu <hi rend="i">A</hi> : canto <hi rend="i">B</hi></note> spoliaveris,
               nuda pene remanet oratio</quote>”<note place="bottom"> Cicerón, <hi rend="i"
                 >Orator</hi>, 55, 183: «<hi rend="i">quos cum cantu spoliaveris, nuda paene remanet
                 oratio</hi>» (Cicerón 1939: 460): ‘quítales la música y apenas quedará más que prosa
@@ -3534,11 +3532,10 @@
               >Eneida</hi>, lib. I, v. 412: «<hi rend="i">et multo nebulae circum dea fudit
                 amictu</hi>» (Virgilio 2009: 21). La traducción de Virgilio por Oroz Reta y Marcos
               Casquero, así como la de Echave-Sustaeta («su poder divino extiende en torno de ellos
-              el denso manto de una nube», Virgilio 1992b: 152), borra la figura <hi rend="bg00ffff"
-                >y, si quisiéramos mantenerla, recordando el “malestar doble” que Asturias convierte
+              el denso manto de una nube», Virgilio 1992b: 152), borra la figura y, si quisiéramos mantenerla, recordando el “malestar doble” que Asturias convierte
                 en «maldoblestar» al inicio de <hi rend="i">El señor presidente</hi> (Asturias 1978:
                 7), habría que enmendarla, por ejemplo, de la manera siguiente: ‘un denso manto de
-                niebla al Venus rededor de ellos extiende</hi>’. El verso virgiliano como ejemplo de
+                niebla al Venus rededor de ellos extiende’. El verso virgiliano como ejemplo de
               tmesis aparece también en Servio, <hi rend="i">Commentarius in Vergilii Aeneidos
                 libros</hi>, vol. 1, lib. I, comm. ad versum 412: «<hi rend="i"><hi rend="sc">Circvm
                   dea fvdit</hi> figura est tmesis, quae fit cum secto uno sermone aliquid
@@ -3994,7 +3991,7 @@
                 rend="i">A</hi> : Collocacion <hi rend="i">B</hi></note> ordinaria como la de
             aquellos bellísimos versos:</p>
           <quote xml:lang="es"><l>El manso de los Céfiros ruido;</l>
-            <l>El denso de los árboles celaje.<note place="bottom"> Góngora, <hi rend="i"
+            <l>el denso de los árboles celaje.<note place="bottom"> Góngora, <hi rend="i"
                   >Soledades</hi>, I, v. 536-537: «el fresco de los céfiros rüido, / el denso de los
                 árboles celaje». [<ref
                   target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.536"
@@ -4614,7 +4611,7 @@
             difícil si ello no fuera tan infelice. Quédanse siempre grandes los que lo son y
             malógranse los filos de quien los quiere cercenar, dejándolos mayores.</p>
           <quote xml:lang="la" rend="i"><l>Corrigere at res est tanto magis ardua, quanto</l>
-            <l>Magnus Aristarcho maior Homerus erat<note place="margin" resp="author"> Ouidius de
+            <l>magnus Aristarcho maior Homerus erat<note place="margin" resp="author"> Ouidius de
                 Ponto libro<note type="app" rend="I">libro <hi rend="i">em.</hi> : libro. <hi
                     rend="i">B</hi> || lib. <hi rend="i">A</hi></note> 3. eleg. 9.</note><note
                 place="bottom"> Ovidio, <hi rend="i">Epistulae ex Ponto</hi>, lib. 3, car. 9, v.
@@ -5539,8 +5536,7 @@
                   paladar»), a lo que estas responden: «Cata que somos viejas y no valemos nada para
                   tu servicio» (Esteban Martín 1992: 112-113). También el <hi rend="i"
                   >Dizionario letterario del lessico amoroso</hi> de Boggione y Casalegno avala este
-                sentido erótico del “servicio” (Boggione y Casalegno 2000: 529-530).<hi
-                  rend="bg00ffff"> La conclusión del cuento de Faría llega con un cambio de tono:
+                sentido erótico del “servicio” (Boggione y Casalegno 2000: 529-530). La conclusión del cuento de Faría llega con un cambio de tono:
                   por primera vez la mujer «libre» habla en primera persona en la <hi rend="i"
                     >pointe</hi> del intercambio. Dejándose de generalidades, afirma tener un
                   “servicio” muy “regalado”: de esta manera ahonda en lo que ya sugería la primera
@@ -5551,7 +5547,7 @@
                   recipientes cotidianos (almirez, bote, caldero, olla o puchero, cf. Alzieu,
                   Jammes, Lissorgues 1984: 330-347). Por último, de la misma manera que en la
                   germanía “barroso” es “jarro” (véase el <hi rend="i">Vocabulario</hi> de Juan
-                  Hidalgo</hi> (Madrid: don Antonio de Sancha, 1779: 157)), podemos considerar el
+                  Hidalgo (Madrid: don Antonio de Sancha, 1779: 157)), podemos considerar el
                 barro como metonimia del servicio, y por tanto del sexo femenino: de «ese» barro
                 obsceno —materia de orinal—, se hacen los regalados servicios, entendidos esta vez
                 como lances de amor, por lo que la mujer «libre» puede estar invirtiendo la crítica
@@ -6389,19 +6385,7 @@
             todo él? Pues por tal le puso allí quien debidamente estimaba sus esplendores. Pero
               <persName type="polemista" key="Manuel de Faría y Sousa">Faría</persName> por desprecio dice
             que esto de la cera y la miel, como lo demás, todo es cera; y cierto que si todo es cera
-            para él, haremos que todo sea cebo<note place="bottom"> Manuel de Faría dice del verso
-              gongorino que «todo es cera» y Espinosa Medrano le responde con el cebo. Si
-              contextualizamos el ataque de Faría, este se encuentra en el fragmento siguiente: «“En
-              ruecas de oro rayos del sol hilan” para decir cera y miel, y la verdad es que es
-              solamente cera el modo de decirlo.» (véase <hi rend="i">supra</hi> Manuel de Faría. §
-              V). El portugués reduce la pareja de la cera y la miel a la peor parte de ella (véase
-              el <hi rend="i">Tesoro</hi> de Covarrubias, que define la cera como «lo craso y hez
-              que queda del panal escurrida y apretada la miel»). Sin embargo, El Lunarejo le
-              redarguye con una paronomasia, pasando de la cera al cebo con el que se atraen a las
-              fieras: al tragar el cebo, la fiera Faría es atrapada, pues muerde el verso gongorino
-              desprevenido de la respuesta de Espinosa Medrano que lo defiende armado de
-              Aristóteles, Virgilio, Plinio el Viejo, Virgilio y Gracián con Bartolomé Leonardo de
-              Argensola.</note>, y parecerale mejor. <pb n="f. 23r"/></p>
+            para él, haremos que todo sea cebo<note place="bottom"> Manuel de Faría dice del verso gongorino que «todo es cera» y Espinosa Medrano le responde con el cebo. Este ataque de Faría se encuentra en el fragmento siguiente: «“En ruecas de oro rayos del sol hilan” para decir cera y miel, y la verdad es que es solamente cera el modo de decirlo.» (véase <hi rend="i">supra</hi> Manuel de Faría. § V). El portugués reduce la pareja de la cera y la miel a la peor parte de ella (véase el <hi rend="i">Tesoro</hi> de Covarrubias, que define la cera como «lo craso y hez que queda del panal escurrida y apretada la miel»). Más aún, detrás del uso de ‘cera’ por Faría puede haber una alusión escatológica, pues el término se empleaba para designar el excremento humano, como lo hace el propio Góngora en su célebre letrilla burlesca sobre el Esgueva, «¿Qué lleva el señor Esgueva?», v. 50 [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem149#l149.50">OC149.50</ref>]. El Lunarejo, que entiende que Faría emplea el término «por desprecio», le redarguye con una paronomasia, pasando de la cera al cebo, convirtiendo a su enemigo poco menos que en coprófago. Esta descalificación extrema entra sin embargo en el sistema metafórico construido alrededor del portugués: el cebo es el alimento con el que se atraen a las fieras, y por él la fiera Faría es atrapada, pues muerde el verso gongorino desprevenido de la respuesta de Espinosa Medrano que lo defiende armado de Aristóteles, Virgilio, Plinio el Viejo, Virgilio y Gracián con Bartolomé Leonardo de Argensola.</note>, y parecerale mejor. <pb n="f. 23r"/></p>
           <p>51. En negra hora se topó con <persName type="authority" key="Macrobio">Macrobio</persName><note
               type="app" rend="I"> Macrobio <hi rend="i">B</hi> : Macobrio <hi rend="i">A</hi>
               [Enmienda recogida en la fe de erratas.</note>, que llamó atrevimiento el haber dicho
@@ -6586,11 +6570,11 @@
                 receptionem et expulsionem corporis subtilioris, ita quod tunc corpus aliquod
                 rarefiat, quando recepit intra suos poros corpus subtilius; tunc vero condensatur,
                 quando huiusmodi pori ita comprimuntur, quod expellant corpus subtilius contentum in
-                poris</hi>» (Murcia de la Llana 1616: 482): <hi rend="bgff00ff">‘En primer lugar
+                poris</hi>» (Murcia de la Llana 1616: 482): ‘En primer lugar
                 afirma que la rarefacción y la condensación se producen por recepción y expulsión de
                 un cuerpo más sutil, así que un cuerpo entonces se rarifica en cierto modo cuando
                 recibe entre sus poros un cuerpo más sutil; pero se condensa, quando esos poros se
-                comprimen hasta expulsar el cuerpo más sutil en ellos comprimido’.</hi> La
+                comprimen hasta expulsar el cuerpo más sutil en ellos comprimido’. La
               biblioteca de El Lunarejo contaba con una «complutense física» (Guibovich 1992: 26)
               que bien podría corresponder a esta <hi rend="i">Selecta circa octo libros physicorum
                 Aristotelis subtilioris doctrinae</hi>, aunque abundaron los manuales del Colegio
@@ -6727,10 +6711,9 @@
               permitido pensar de nuestro fuego, que forma parte sin embargo de los cuerpos mixtos,
               lo mismo que pensamos de ese elemento sutilísimo, absolutamente puro y sin mezcla? Y
               por esa razón, como el fuego y el aire son los cuerpos más fluidos y por ello los más
-              límpidos y traslúcidos (<hi rend="bgffff00"><hi rend="i">διαφανής</hi>, </hi><hi
-                rend="bg00ff00">diáfanos), pienso que “líquido” (<hi rend="i">liquidus</hi>) también
+              límpidos y traslúcidos (<hi rend="i">διαφανής</hi>, diáfanos), pienso que “líquido” (<hi rend="i">liquidus</hi>) también
                 se entiende como claro, puro, sereno, y se opone a turbio, impuro y
-              fangoso’.</hi></note>, y de cuya liquidez participan proporcionalmente la denominación
+              fangoso’.</note>, y de cuya liquidez participan proporcionalmente la denominación
             esos otros. Y dado caso que este atributo fuese peculiar y singularísimo del agua (como
             quiere <persName type="authority" key="Macrobio">Macrobio</persName>) aun con todo debió llamar el poeta
             “líquido” al fuego.</p>
@@ -7047,9 +7030,8 @@
               Cerda, comentario a las <hi rend="i">Bucólicas</hi> de Virgilio, égloga 6, v. 33
               (Virgilio 1608: 117): «<hi rend="i">Non apte Macrobius lib. 6. c. 5. exprompsit in
                 Virgilium suam criticam, cum scripsit audaciae maximae fuisse dici ignem
-                liquidum</hi>», (‘Macrobio, lib 6, cap. 5, con poco acierto <hi rend="bgff00ff"
-                >censuró a Virgilio, escribiendo que había estado sumamente audaz en escribir “fuego
-                líquido”</hi>’).</note>. También <persName type="polemista"
+                liquidum</hi>», (‘Macrobio, lib 6, cap. 5, con poco acierto censuró a Virgilio, escribiendo que había estado sumamente audaz en escribir “fuego
+                líquido”’).</note>. También <persName type="polemista"
               key="Manuel de Faría y Sousa">Faría</persName>, que en eso lo sigue, censura
             ineptísimamente y con menos disculpa que el otro, que sólo dice que fue atrevimiento y
             no más, y cuando esto se le note a <persName type="polemista" key="Luis de Góngora"
@@ -7211,12 +7193,14 @@
             solo observar todas las de la poesía castellana, pero introducido en las clases griega y
             latina, descubrió nuevos preceptos a que regularse y solicitó leyes estrañas a que
             ceñirse? <persName type="polemista" key="Luis de Góngora">Él</persName> lo dijo hablando con los
-            Patos de Aganipe:</p>
+            Patos de Aganipe<note place="bottom">Esta perífrasis referida a los críticos de Góngora retoma la animalización del primer verso, «Patos de la aguachirle castellana» [<ref
+              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem463#l463.1">OC463.1</ref>], del soneto citado a continuación, que a su vez menciona la fuente de Aganipe en el verso 12 [<ref
+                target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem463#l463.12">OC463.12</ref>].</note>:</p>
           <quote xml:lang="es"><lg>
               <l>Pisad graznando la corriente cana</l>
-              <l>Del antiguo idioma, y turba lega</l>
-              <l>Las ondas acusad cuantas os niega</l>
-              <l>Ático estilo, erudición romana.<note place="margin" resp="author"> Soneto 144<note
+              <l>del antiguo idioma y, turba lega,</l>
+              <l>las ondas acusad cuantas os niega</l>
+              <l>ático estilo, erudición romana.<note place="margin" resp="author"> Soneto 144<note
                     type="app" rend="I">144 <hi rend="i">A</hi> : 14. <hi rend="i"
                   >B</hi></note></note><note place="bottom"> Cita Espinosa Medrano el segundo
                   cuarteto del soneto de Góngora «A Lope de Vega y sus secuaces» [<ref
@@ -7376,7 +7360,7 @@
               Góngora tenga seguidores, ya sean muchos y necios o pocos y doctos, no permite valorar
               a Góngora de forma intrínseca, puesto que no supone nada más que contabilizar las
               relaciones que otros sujetos mantienen con el cordobés o su obra. De esta manera,
-              niega que «calificar» tenga el valor calitativo y científico que Faría le atribuía por
+              niega que «calificar» tenga el valor que Faría le atribuía por
               oposición a «esforzar».</note>. Pero aquí este gran lógico ha hallado nuevas
             formalidades que enseñarnos.</p>
           <p>59<note type="app" rend="I"> 59 <hi rend="i">B</hi> : 99 <hi rend="i">A</hi></note>. Si
@@ -7594,7 +7578,7 @@
               que Góngora evoca aquí no son exactamente las alas multicolores de la Fénix, sino, más
               poéticamente, la estela luminosa que su <hi rend="i">vuelo</hi> deja en el cielo,
               parecida a un arco iris, pero horizontal, rectilíneo, <hi rend="i">no corvo</hi>»
-              (Góngora 1994: 290).</note>. Así lo dijo él de sí mismo en cabeza del fénix.</p>
+              (Góngora 1994: 290).</note>. Así lo dijo él de sí mismo en cabeza del fénix:</p>
           <quote xml:lang="es"><l>«el pájaro de Arabia (cuyo vuelo</l>
             <l>arco alado es del cielo,</l>
             <l>no corvo, mas tendido)».<note place="margin" resp="author"> Soledad 1.</note><note
@@ -8289,7 +8273,7 @@
             lujuria de estos <pb n="f. 32r"/> tiempos insaciable, que en los pasados era solo
             comezón importuna, como dijo Juvenal:</p>
           <quote xml:lang="la" rend="i"><l>Tenet insanabile multos</l>
-            <l>Scribendi cacoethes<note type="app" rend="I"> cacoethes <hi rend="i">em.</hi> :
+            <l>scribendi cacoethes<note type="app" rend="I"> cacoethes <hi rend="i">em.</hi> :
                 cacoetes <hi rend="i">A</hi> || cacoëthes <hi rend="i">B</hi></note>.<note
                 place="margin" resp="author"> Juvenal. lib. 3. saty.<note type="app" rend="I">saty.
                     <hi rend="i">B</hi> : sat. <hi rend="i">A</hi></note> 7</note><note
@@ -8446,9 +8430,9 @@
             Mas como no se regula por pliegos el espíritu, podrá aquel decirle lo que <persName type="authority"
               key="Marcial">Marcial</persName> al otro:</p>
           <quote xml:lang="la" rend="i"><l>Tu bis denis grandia libris</l>
-            <l>Qui scribis Priami proelia magnus homo es.</l>
+            <l>qui scribis Priami proelia magnus homo es.</l>
             <l>Nos facimus Bruti puerum, nos Lagona vivum,</l>
-            <l>Tu magnus luteum, Gaure, Giganta facis.<note place="bottom"> Marcial, <hi rend="i"
+            <l>tu magnus luteum, Gaure, Giganta facis.<note place="bottom"> Marcial, <hi rend="i"
                   >Epigramas</hi>, lib. 9, ep. 50, v. 3-6: «<hi rend="i">sed tu bis senis grandia
                   libris / qui scribis Priami proelia, magnus homo es? / nos facimus Bruti puerum,
                   nos Langona vivum: / tu magnus luteum, Gaure, Giganta facis</hi>» (1990: 295). En
@@ -8457,14 +8441,14 @@
                 Bruto algo vivo, lo hago de Langón: / tú, Gauro, el sublime, a un gigante haces de
                 barro» (Marcial 2001b: 131).</note></l></quote>
           <l>Libros grandes, grandes prosas</l>
-          <l>Escribes con grande nombre,</l>
-          <l>Porque es fuerza ser gran<note type="app" rend="I"> gran <hi rend="i">A</hi> : grand
+          <l>escribes con grande nombre,</l>
+          <l>porque es fuerza ser gran<note type="app" rend="I"> gran <hi rend="i">A</hi> : grand
                 <hi rend="i">B</hi></note> hombre</l>
-          <l>Quien escribe grandes cosas.</l>
+          <l>quien escribe grandes cosas.</l>
           <l>Tú en lo grande eres bizarro;</l>
-          <l>Y es chico cuanto yo escribo.</l>
+          <l>y es chico cuanto yo escribo.</l>
           <l>Yo hago un niño, pero vivo,</l>
-          <l>Tú un Gigante, mas de barro.<note place="bottom"> La traducción es del propio
+          <l>tú un Gigante, mas de barro.<note place="bottom"> La traducción es del propio
               Lunarejo.</note></l>
           <p>72. El <title>Polifemo</title> acabado dice que tiene poquísima traza y en verdad que
             se lo hemos de averiguar. Esta poca traza, ¿respecto de cuál es poca? Porque poco y
@@ -8573,7 +8557,7 @@
             responderá <persName type="polemista" key="Luis de Góngora">Góngora</persName> lo que <persName type="authority"
               key="Marcial">Marcial</persName> en semejante caso:</p>
           <quote xml:lang="la" rend="i"><l>Ista tamen mala sunt: quasi nos manifesta negemus,</l>
-            <l>Haec mala sunt, sed tu non meliora<note type="app" rend="I"> meliora <hi rend="i"
+            <l>haec mala sunt, sed tu non meliora<note type="app" rend="I"> meliora <hi rend="i"
                   >B</hi> : meliara <hi rend="i">A</hi> [Enmienda registrada en la fe de erratas. En
                 el testimonio A, corrección manuscrita: meliora.</note> facis<note place="margin"
                 resp="author"> Martial lib. 2. epig.<note type="app" rend="I">epig. <hi rend="i"
@@ -8843,10 +8827,9 @@
           <p>79. Qué de estudio le costaría el comentar aquello del Camoens: «<quote xml:lang="la"
               rend="i">De tecida seda</quote>»<note place="bottom"> Luis de Camoens, <hi rend="i"
                 >Lusíadas</hi>, canto II, estancia 93 [1639_lusiadas] (Faría 1639a: I, col.
-              522).</note>. Donde dice que en aquel coludir<note place="bottom"><hi rend="bg00ffff"
-                >Latinismo, de <hi rend="i">colludere</hi>, “jugar juntas varias personas”, y aquí:
+              522).</note>. Donde dice que en aquel coludir<note place="bottom">Latinismo, de <hi rend="i">colludere</hi>, “jugar juntas varias personas”, y aquí:
                 conjugarse y coordinarse dos sonidos. El étimo del juego insinúa aquí el
-                menosprecio, como frivolidad, del comentario de Faría.</hi></note> de sonidos «<hi
+                menosprecio, como frivolidad, del comentario de Faría.</note> de sonidos «<hi
               rend="i">cida seda</hi>», significó el poeta el ruido de la seda, que con su tejido
             apretado suena «<hi rend="i">cida seda</hi>». Como el tafetán, que en su mismo vocablo
             dice su sonido «tafe tafe»<note place="bottom"> Manuel de Faría, <hi rend="i"
@@ -9168,9 +9151,9 @@
             atención y desprecio del reparo.</p>
           <quote xml:lang="la" rend="i"><l>Ingenti studio componit aranea telam<note place="margin"
                 resp="author"> Camerarius emblem. 73 centur 4.</note></l>
-            <l>Et tamen a cunctis spernitur illud opus.</l>
+            <l>et tamen a cunctis spernitur illud opus.</l>
             <l>Sic magnas magno promis molimine nugas</l>
-            <l>Dum vigilas studiis vane, * Faria<note place="margin" resp="author"> * Sophista</note>,
+            <l>dum vigilas studiis vane, * Faria<note place="margin" resp="author"> * Sophista</note>,
                 tuis.<note place="bottom"> Florens Schoonhoven, <hi rend="i">Emblemata, partim
                   moralia, partim etiam civilia</hi> (Goudae: apud Andream Burier, 1618), emblema
                 64, «<hi rend="i">In Sophistas»: «Ingenti studio componit aranea telam, / et tamen a
@@ -9649,7 +9632,7 @@
               estas tres citas es el siguiente: San Agustín, <hi rend="i">La ciudad de Dios</hi>,
               libro 7, cap. 15: «<hi rend="i">quamvis de illo fulgentissimo sidere apud eos tamquam
                 de malo aureo Iuno Venusque contendant. Luciferum enim quidam Veneris, quidam dicunt
-                esse Iunonis; sed, ut solet, Venus vincit</hi>» (1978: 426). Este es el único lugar
+                esse Iunonis; sed, ut solet, Venus vincit</hi>» (1978: 426). Este pasaje alude al juicio de Paris en el monte Ida, cuando el hijo de Príamo tuvo que elegir a la más hermosa de las diosas Venus, Juno y Minerva. San Agustín asimila el lucero matutino-vespertino al trofeo de este juicio, la manzana de oro por la que compitieron las tres diosas. Este es el único lugar
               en el que la remisión de El Lunarejo a <hi rend="i">La ciudad de Dios</hi>, que
               aparece por ejemplo en IX, § 88 y X, § 96, viene acompañada de una serie de citas,
               aunque breves. Teniendo en cuenta la abundancia de ediciones del obispo de Hipona,
@@ -9724,13 +9707,13 @@
             dedicado a su deidad.</p>
           <quote xml:lang="la" rend="i"><l>Aurea sunt Veneris poma haec: iucundus amaror<note
                 type="app" rend="I"> amaror <hi rend="i">A</hi> : amator <hi rend="i">B</hi></note>
-                indicat,<note place="margin" resp="author"> Alciat. emb. 206</note><note
+            indicat<note
                 place="bottom"> Alciato, <hi rend="i">Emblemas</hi> (<hi rend="i">Omnia Andreae
                   Alciati v. c. emblemata</hi> editados por Claudio Minoe), emblema 206 (Alciato
                 1583: 648): «Estos como de oro son frutos de Venus: su alegre amargura lo indica.»
                 (trad. Pilar Pedraza, véase Alciato 1985: 249). Como queda dicho <hi rend="i"
                   >supra</hi>, Espinosa Medrano tenía un «Alçiato» entre sus libros (Guibovich 1992:
-                28).</note></l>
+              28).</note>,<note place="margin" resp="author"> Alciat. emb. 206</note></l>
           </quote>
           <p>dice Alciato de la cidra y, aquí, Claudio Minoe: «<quote xml:lang="la" rend="i">Medica
               malus, quae et citrus, et apud nostros ob aliquam cum auro similitudinem nomen
@@ -10468,7 +10451,7 @@
               cautela para defraudar a otro de alguna cosa» (<hi rend="i">Aut.</hi>).</note> el
             conocimiento a los méritos con malignidad.</p>
           <quote xml:lang="la" rend="i"><l>Confiteorque tulit, nec enim benefacta maligne</l>
-            <l>Detrectare meum est…<note place="margin" resp="author"> Ovid. lib. 13
+            <l>detrectare meum est…<note place="margin" resp="author"> Ovid. lib. 13
                 Meta.</note><note place="bottom"> Ovidio, <hi rend="i">Metamorfosis</hi>, libro 13,
                 v. 270-271 (1981: 307): «Admito que se armó, pues no me gusta denigrar los méritos
                 ajenos». El Lunarejo toma prestados versos de Ulises en su contienda con Áyax, una
@@ -11048,29 +11031,29 @@
             España, fingiendo que se rio Julio César muerto y en mármol:</p>
           <quote xml:lang="es"><lg>
               <l>En el cuadro de un jardín</l>
-              <l>De un gran señor castellano</l>
-              <l>Estaba un César romano</l>
-              <l>De mármol, medalla en fín.</l>
+              <l>de un gran señor castellano</l>
+              <l>estaba un César romano</l>
+              <l>de mármol, medalla en fín.</l>
             </lg><lg>
               <l>Mirándole un paje un día</l>
-              <l>Le dijo: “César, albricias,</l>
-              <l>Si ver el laurel codicias</l>
-              <l>De la antigua Monarquía,</l>
+              <l>le dijo: “César, albricias,</l>
+              <l>si ver el laurel codicias</l>
+              <l>de la antigua Monarquía,</l>
             </lg><lg>
-              <l>Que hoy el cielo decretó</l>
-              <l>Vuelvas a reinar en Roma”:</l>
+              <l>que hoy el cielo decretó</l>
+              <l>vuelvas a reinar en Roma.”</l>
               <l>Mira si placer se toma,</l>
-              <l>Pues la estatua se rio.</l>
+              <l>pues la estatua se rio</l>
             </lg><lg>
-              <l>Y estuvo así muchos días</l>
-              <l>Hasta que el paje volviendo</l>
-              <l>Le dijo: “¿qué estás riendo</l>
-              <l>Con esperanzas tan frías?</l>
+              <l>y estuvo así muchos días,</l>
+              <l>hasta que el paje volviendo</l>
+              <l>le dijo: “¿Qué estás riendo</l>
+              <l>con esperanzas tan frías?</l>
             </lg><lg>
               <l>Que Octavio es rey, César fiero.”</l>
               <l>Y el mármol como le oyó,</l>
-              <l>Dicen que a poner volvió</l>
-              <l>La boca como primero.<note place="margin" resp="author"> Lope de Vega p. 11 Comedia
+              <l>dicen que a poner volvió</l>
+              <l>la boca como primero.<note place="margin" resp="author"> Lope de Vega p. 11 Comedia
                   Principe perfeto.</note><note place="bottom"> Lope de Vega, <hi rend="i">Onzena
                     parte de las comedias de Lope de Vega Carpio</hi> (en Madrid: por la viuda de
                   Alonso Martín de Balboa, a costa de Alonso Pérez, mercader de libros, 1618), <hi
@@ -11193,7 +11176,7 @@
             sus muchos primores. Además, que es hazaña poco hidalga por cuatro cáscaras de palabras,
             o por tal qué descuido que humanamente se desliza, zaherir a los hombres grandes,
               arriesgando<note type="app" rend="I"> arriesgando <hi rend="i">em.</hi> : arresgando
-                <hi rend="i">AB</hi></note> su nombre y fama a los peligros del descrédito. «<quote
+                <hi rend="i">AB</hi></note> su nombre y fama a los peligros del descrédito: «<quote
               xml:lang="la" rend="i">Illiberale facinus —dice bien Escalígero— propter nescio quas
                 <pb n="f. 45v"/> verborum quisquilias aut propter errorem aliquem qui humanitus<note
                 type="app" rend="I"> humanitus <hi rend="i">A</hi> : hamanitus <hi rend="i"
@@ -11201,7 +11184,7 @@
               famam in periculum vocare</quote>»<note place="margin" resp="author"> Ios. Scaliger
               super Catullum ad Puteanum<note type="app" rend="I">Puteã <hi rend="i">A</hi> : Put.
                   <hi rend="i">B</hi></note></note>. Hagan<note type="app" rend="I"> Hagã <hi
-                rend="i">A</hi> : Hagen <hi rend="i">B</hi></note> esos hombrecillos de bruta
+                rend="i">A</hi> : Hagen <hi rend="i">B</hi></note> eso<note type="app" rend="I">esso <hi rend="i">A</hi> : essos <hi rend="i">B</hi></note> hombrecillos de bruta
             discreción, de necia sutileza, que despuntándose de agudos, gastan el tiempo en hablar
             cardos y pronunciar abrojos: «<quote xml:lang="la" rend="i">Hoc solent facere arguti
               homunciones, qui in huiusmodi acanthologias totam aetatem contriverunt</quote>»<note
@@ -11401,7 +11384,7 @@
               place="bottom"> Las del Betis.</note>, para la afluencia de tanto lustre cuando, como
             dice aquel grave jurisconsulto, es sin primero el segundo Píndaro, el padre de la
             cultura, el esplendor de Córdoba, el ornamento de España y el portento del orbe todo:
-              «<quote xml:lang="la" rend="i">Cui allusit alter Pindarus, crysis pater, Cordubae
+            «<quote xml:lang="la" rend="i">Cui allusit<note type="app" rend="I">allusit <hi rend="i">em.</hi> : allussit <hi rend="i">AB</hi></note> alter Pindarus, crysis pater, Cordubae
               decus et ornamentum totius Hesperiae orbisque portentum don Ludovicus a
               Gongora</quote>»<note place="margin" resp="author"> D. Anton.<note type="app" rend="I"
                 >Anton. <hi rend="i">A</hi> : Anto. <hi rend="i">B</hi></note> de Cabreros Avendaño
