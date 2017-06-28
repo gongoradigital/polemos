@@ -102,8 +102,8 @@
         <p>Con licencia. En Lima. En la imprenta de Juan de Quevedo y Zárate, Año de 1662.</p>
         <pb n="f. []2v"/>
         <epigraph>
-          <quote xml:lang="la" rend="i">Muscae cum in oleo moriuntur ac putrescunt ipsius suavitatem
-            corrumpunt; livor autem ea, quae recta sunt, inficere quidem volet ille, sed non
+          <quote xml:lang="la" rend="i">Muscae cum in oleo moriuntur ac putrescunt ipsius suauitatem
+            corrumpunt; liuor autem ea, quae recta sunt, inficere quidem volet ille, sed non
             poterit; omnium enim rerum fortissima est veritas<note place="bottom">
               <persName type="authority" key="Gregorio Nacianceno">Gregorio Nacianceno</persName>, <hi rend="i"
                 >Orationes</hi>, XXIII [XIII] (<hi rend="i">Tertia de pace</hi>), 4: ‘Las moscas que
@@ -124,7 +124,7 @@
               apud Nicolaum Chesneau, via Iacobeae, sub quercu viridi: Nacianceno 1583b); así es
               como la cita Espinosa Medrano: «orat. 13». La traducción latina de esta última edición
               es la siguiente: «<hi rend="i">Muscae, inquit ille, cum in oleo moriuntur ac
-                putrescunt, ipsius suavitatem corrumpunt: livor autem ea, quae recta sunt, inficere,
+                putrescunt, ipsius suauitatem corrumpunt: liuor autem ea, quae recta sunt, inficere,
                 volet ille quidem, sed non poterit. Omnium etenim rerum fortissima est veritas, ut
                 cum Esdra censeo</hi>» (Nacianceno 1583a: <ref
                 target="https://books.google.fr/books?id=xXVaAAAAcAAJ&amp;dq=Divi%20Gregorii%20Nazianzeni%20cognomento%20theologi.%20Opera%20Omnia%20Quae%20Extant%2C%20Nunc%20Primum%20Propter%20Novam%20Plurimorum%20librorum%20accessionem%20in%20duos&amp;hl=fr&amp;pg=PA429#v=onepage&amp;q&amp;f=false"
@@ -586,7 +586,7 @@
                 llamativa. Véase <hi rend="i">El filólogo</hi> de Budeo’). En el <hi rend="i"
                 >De philologia</hi> de Budeo, sin embargo, no consta esta fábula y Momo aparece una
               sola vez, en el libro primero, cuando Budeo reclama un crítico sin malicia («<hi
-                rend="i">Momi certe haec iam indigent, et Momi sane acris et praevaricationis
+                rend="i">Momi certe haec iam indigent, et Momi sane acris et praeuaricationis
                 inscii</hi>») ante la injusta situación de los filólogos en la república (Budé 1989,
               74-75 y 2001: 82-83). La anécdota de la reprobación de Venus se halla también en los
                 <hi rend="i">Adagia</hi> de Erasmo, que la encuentra en Filostrato (Erasmo 2011:
@@ -1186,7 +1186,7 @@
                 Espinosa Medrano en el <hi rend="i">Apologético</hi>, en la sección VIII, § 64.
                 Aquí, Juan de Lira alude precisamente al versículo 17, que indica que las ruedas del
                 carro no habían de desviarse al avanzar («<hi rend="i">per quattuor partes earum
-                  euntes ibant et non revertebantur cum ambularent</hi>»). Reprueba así en
+                  euntes ibant et non reuertebantur cum ambularent</hi>»). Reprueba así en
                 apariencia la osadía de El Lunarejo, dispuesto casi, por la seducción de las Musas,
                 a torcer los irreversibles ejes del carro de la religión («<hi rend="i">poteras axes
                   torquere</hi>?»). Tal insolencia contradice la verdadera naturaleza de Espinosa
@@ -1255,7 +1255,7 @@
                   (trad. Luis Alfonso Hernández Miguel en Plinio el Viejo 2003: 360). Este verso,
                   así como el siguiente, puede ser una lejana alusión a las escenas venatorias de la
                     <hi rend="i">Soledad segunda</hi> de Góngora.</note>;</l>
-            <l>littoreas falco sic pede truncat aves.</l>
+            <l>littoreas falco sic pede truncat aues.</l>
             <l>Haud secus in cineres fudit Salmonea<note place="bottom"> Salmoneo, hijo de Eolo,
                 quiso igualarse a Zeus conduciendo una cuadriga de bronce e imitando el ruido del
                 trueno con el gran estruendo que aquella provocaba, para incitar a sus súbditos a
@@ -1472,7 +1472,7 @@
               Valeriano, <hi rend="i">Hieroglyphica</hi>, libro 11, 1 (<hi rend="i">De lupo</hi>), §
               2 «<hi rend="i">Apollo</hi>»: «<hi rend="i">Sane aliquot in signis Apollinis lupos
                 adsculptos videas</hi>» (‘Verdaderamente verás algunas veces en los estandartes lobos de
-              Apolo grabados’). Véanse los <hi rend="i">Hieroglyphica sive de sacris
+              Apolo grabados’). Véanse los <hi rend="i">Hieroglyphica siue de sacris
                 Aegyptiorum literis commentarii, Ioannis Pierii Valeriani Bolzanii Bellunensis</hi>
               (Basileae: Michael Isengrin, 1556) en Valeriano 1556 (f. 79v). El lobo, atributo de
               Apolo (Grimal 1991: 43), favorece la asimilación del valido y de los lobos de su
@@ -1538,9 +1538,9 @@
           <p>Porque, ¿quién podrá despecharse de que ardan lucidamente eternidades los astros, de
             que Júpiter empuñe por cetro el rayo, de que Febo sea príncipe universal de la
             sabiduría?</p>
-          <quote xml:lang="la" rend="i"><l>Quis enim livescere possit</l>
+          <quote xml:lang="la" rend="i"><l>Quis enim liuescere possit</l>
             <l>quod numquan pereant stellae, quod Iuppiter olim</l>
-            <l>possideat coelum, quod noverit omnia Phoebus?<note place="bottom"> Claudiano, <hi
+            <l>possideat coelum, quod nouerit omnia Phoebus?<note place="bottom"> Claudiano, <hi
                   rend="i">De consulatu Stilichonis</hi>, canto 24, libro 3, v. 41-43: «<hi rend="i"
                   >quis enim liuescere possit / quod numquam pereant stellae, quod Iuppiter altum /
                   possideat caelum, quod nouerit omnia Phoebus</hi>?» (Claudiano 1985: 226). «Pues,
@@ -1669,7 +1669,7 @@
               doblando el precio de los anteriores. El Lunarejo convierte al cuervo en papagayo
               —pájaros parlantes ambos— a partir de otro cuento romano, esta vez sobre un loro que
               saludó a Julio César con las palabras «<seg rend="latin"><hi rend="i">Caesar,
-                ave</hi></seg>». La anécdota, referida por Plinio y por Marcial, era un tópico,
+                aue</hi></seg>». La anécdota, referida por Plinio y por Marcial, era un tópico,
               ampliamente difundido por la emblemática a partir de imágenes de Durero o Rubens
               (Dundas 2004: 295-296). Espinosa Medrano continúa con esta alusión su ataque criollo
               contra el español. Primero, prolonga la identificación antifrástica del criollo con un
@@ -1841,7 +1841,7 @@
               13.</note><note place="bottom"> Isidoro de Sevilla, <hi rend="i">Sententiae</hi>,
               libro III, cap. 13, sentencia 11 (véase la edición de Pierre Cazier, Isidoro 1998:
               238): «<hi rend="i">Meliores esse grammaticos quam hereticos; heretici enim haustum letiferi sucus hominibus persuadendo
-                propinant; grammaticorum autem doctrina potest etiam proficere ad uitam, dum fuerit
+                propinant; grammaticorum autem doctrina potest etiam proficere ad vitam, dum fuerit
                 in</hi>
               <hi rend="i">meliores</hi><hi rend="i">usus adsumpta</hi>»,
               (‘los gramáticos son mejores que los herejes; los herejes administran a los hombres el
@@ -1940,7 +1940,7 @@
               cita que vendrá luego, una alusión a la epístola de San Jerónimo <hi rend="i">Ad
                 Domnionem.</hi> San Jerónimo, <hi rend="i">Epistulae</hi>, 3, epist. 50 (<hi
                 rend="i">Ad Domnionem</hi>), 1: «<hi rend="i">Scribis eos, immo nescio quem de
-                trivio, de competis, de plateis circumforanum monachum rumigerulum, rabulam, vafrum
+                triuio, de competis, de plateis circumforanum monachum rumigerulum, rabulam, vafrum
                 tantum ad detrahendum, qui per trabem oculi sui festucam alterius nititur eruere,
                 contionari adversum me, et libros quos contra Iovinianum scripsi canino dente
                 rodere, lacerare, convellere</hi>» (Jerónimo de Estridón 1951: 150). Véase también
@@ -2068,13 +2068,13 @@
               el margen la referencia de esta cita. Sobre estas palabras véase la sexta sección de
               Manuel de Faría, <hi rend="i">infra.</hi></note>: pero como no descuide el cielo de la
             tutela de tan divinos cisnes, como cantó <persName type="authority" key="Tibulo">Tibulo</persName>,</p>
-          <quote xml:lang="la" rend="i"><l>Nam divum servat tutela poetas<note place="margin"
+          <quote xml:lang="la" rend="i"><l>Nam diuum servat tutela poetas<note place="margin"
                 resp="author"> Tibullus lib. 2. eleg. 5.</note>.<note place="bottom"> Tibulo, <hi
                   rend="i">Elegiae</hi>, libro 2, elegía 5, v. 113 (1988: 64): «ya que la protección
                 de los dioses defiende a los poetas». Es posible que Espinosa Medrano lea a Tibulo,
                 como a Catulo, en la edición de Joseph Scaliger que se encuentra en el inventario de
                 su biblioteca («Propercio, Catulo y Tíbulo por Escalígero», véase Guibovich 1992:
-                27). La príncipe de <hi rend="i">Catulli, Tibulli, Propertii nova editio. Josephus
+                27). La príncipe de <hi rend="i">Catulli, Tibulli, Propertii noua editio. Josephus
                   Scaliger Julii Caesaris Filius recensuit</hi>, se publicó en 1577 en París (apud
                 Mamert Patisson in officina Robert Estienne). Véase Scaliger (1577:
             116).</note></l></quote>
@@ -2660,9 +2660,9 @@
                 >qualitas sonorum</hi> de Virgilio.</note>. ¿Qué más halló <persName type="authority"
               key="Gerónimo Columna">Gerónimo Columna</persName><note place="margin" resp="author">
                 Hieronymus Columna Georgicor.<note type="app" rend="I">Georgicor. <hi rend="i">em.</hi> : Georgicer <hi rend="i">AB</hi></note> 2.</note> en el del divino poeta, cuando dijo: «<quote
-              xml:lang="la" rend="i">Navigiis pinos, domibus cedrosque, cupressosque</quote>»<note
+              xml:lang="la" rend="i">Nauigiis pinos, domibus cedrosque, cupressosque</quote>»<note
               place="bottom"> Virgilio, <hi rend="i">Geórgicas</hi>, libro 2, v. 443: «<hi rend="i"
-                >navigiis pinus, domibus cedrosque cupressosque</hi>» (Virgilio 1982: 34): «pinos
+                >nauigiis pinus, domibus cedrosque cupressosque</hi>» (Virgilio 1982: 34): «pinos
               para hacer navíos, cedro y cipreses para hacer las casas» (trad. Tomás de la Ascensión
               Recio García en Virgilio 1990: 312).</note>; <pb n="f. 6r"/> donde notó que había
             hecho <persName type="authority" key="Virgilio">Virgilio</persName> un hipermetro, solo porque con lo
@@ -2673,17 +2673,17 @@
               Este <hi rend="i">denotar</hi> del verso acepta otras expresiones en este séptimo
               párrafo («vendernos expresada», «van delineando») y en el siguiente («se estaba
               oyendo», «se expresaba»): todas remiten a una acción durativa, a una construcción
-              progresiva de la <hi rend="i">evidentia</hi>, construcción acorde con una lectura
+              progresiva de la <hi rend="i">euidentia</hi>, construcción acorde con una lectura
               minuciosa y atenta al ritmo, al acento, al orden de las palabras y a la sintaxis del
               verso. El resultado es la expresión, por las características materiales y fónicas del
-              verso, de la imagen del referente; tal es la <hi rend="i">evidentia</hi>, la capacidad
+              verso, de la imagen del referente; tal es la <hi rend="i">euidentia</hi>, la capacidad
               de representar la realidad de esta manera: el verso «exprimió», «denotó». Este arte
               encumbrado por Virgilio –el único que brinda dos ejemplos a la argumentación de
               Espinosa Medrano-, lo comparten Góngora, Camoens y Antonio de Solís. Todos «van
               delineando» con sus versos: realizando una imagen. El expresar, el denotar y el
               delinear pertenecen a la terminología de la representación o visión. Sobre esta
               terminología y sus implicaciones retóricas (retórica de la presencia, <hi rend="i"
-                >evidentia</hi>, procedimientos enárgicos), véase Vega Ramos 1992 (82-84).</note> la
+                >euidentia</hi>, procedimientos enárgicos), véase Vega Ramos 1992 (82-84).</note> la
             longitud, eminencia y largura de los cipreses<note place="bottom"> Es muy probable que
               el verso de Virgilio así como el comentario de Girolamo Colonna vengan ambos de la
               edición de las <hi rend="i">Bucólicas</hi> y las <hi rend="i">Geórgicas</hi> por Juan
@@ -3337,9 +3337,9 @@
               pensamiento razonable».</note>: así en casi todo, de suerte que se cumple<note
               type="app" rend="I"> cumple <hi rend="i">A</hi> : comple <hi rend="i">B</hi></note>
             enteramente en esta lira lo que dice <persName type="authority" key="Cicerón">Cicerón</persName> de los
-            poetas que cantan a ella: “<quote xml:lang="la" rend="i">Quos cum cantu<note type="app" rend="I">cantu <hi rend="i">A</hi> : canto <hi rend="i">B</hi></note> spoliaveris,
+            poetas que cantan a ella: “<quote xml:lang="la" rend="i">Quos cum cantu<note type="app" rend="I">cantu <hi rend="i">A</hi> : canto <hi rend="i">B</hi></note> spoliaueris,
               nuda pene remanet oratio</quote>”<note place="bottom"> Cicerón, <hi rend="i"
-                >Orator</hi>, 55, 183: «<hi rend="i">quos cum cantu spoliaveris, nuda paene remanet
+                >Orator</hi>, 55, 183: «<hi rend="i">quos cum cantu spoliaueris, nuda paene remanet
                 oratio</hi>» (Cicerón 1939: 460): ‘quítales la música y apenas quedará más que prosa
               desnuda’. Las palabras de Cicerón son una desdeñosa apreciación de los líricos
               griegos. Aplicando al estilo gongorino una severa crítica de la poesía griega —y en
@@ -3484,17 +3484,17 @@
               hísteron próteron es una figura que atañe a la lingüística del discurso y,
               concretamente, al orden de la narración.</note>. Pero solo me acuerdo que no era tan
             docto como <persName type="authority" key="Servio">Servio</persName>, que sobre ese verso dice: «<quote
-              xml:lang="la" rend="i">Hyperbaton in sensu, ut progressi subeunt luco, fluviosque
+              xml:lang="la" rend="i">Hyperbaton in sensu, ut progressi subeunt luco, fluuiosque
               relinquunt</quote>»<note place="margin" resp="author"> Servius in lib. 3
               Aeneid.</note><note place="bottom">Servio, <hi rend="i">Commentarius in Vergilii
                 Aeneidos libros</hi>, vol. 1, lib. III, comm. ad versum 662 (Servio 1881: 449): «<hi
                 rend="i"><hi rend="sc">Tetigit flvctvs et ad aeqvora venit</hi> hyperbaton in sensu,
                 ut “progressi subeunt luco fluvium que relinquunt”</hi>», (‘<hi
                   rend="sc">Tetigit flvctvs et ad aeqvora venit</hi>: es un hipérbaton en el
-                sentido, lo mismo que “<hi rend="i">progressi subeunt luco fluviumque
+                sentido, lo mismo que “<hi rend="i">progressi subeunt luco fluuiumque
                   relinquunt</hi>” (suben hacia el bosque y dejan el río)’). El ejemplo de
               hísteron próteron interpolado por Servio, «<hi rend="i">progressi subeunt luco
-                fluviumque relincunt</hi>» se encuentra en <hi rend="i">Eneida</hi>, VIII, 125
+                fluuiumque relincunt</hi>» se encuentra en <hi rend="i">Eneida</hi>, VIII, 125
               (Virgilio 1895b: 592). Espinosa Medrano escribió esta sección o parte de ella leyendo
               a un tiempo a Isidoro y a Servio, llamado este último por los versos de Virgilio
               citados por el hispalense. Según su testamento, El Lunarejo disponía en su biblioteca
@@ -3558,7 +3558,7 @@
           <p>La quinta es sínquisis, en que de todas partes se confunden las voces, de suerte que
             totalmente quede barajada la sentencia, como la del <persName type="authority" key="Virgilio">gran
               Poeta</persName>:</p>
-          <quote xml:lang="la" rend="i"><l>Iuvenes, fortissima frustra</l>
+          <quote xml:lang="la" rend="i"><l>Iuuenes, fortissima frustra</l>
             <l>pectora, si vobis audentem extrema cupido est</l>
             <l>certa sequi, quae sit rebus fortuna videtis.</l>
             <l>Excessere omnes adytis arisque relictis</l>
@@ -3567,12 +3567,12 @@
                   >B</hi></note> urbi</l>
             <l>incensae; moriamur et in media arma ruamus<note place="margin" resp="author"> Virg.
                 AEne. 2.</note><note place="bottom"> Virgilio, <hi rend="i">Eneida</hi>, lib. II, v.
-                348-353: «<hi rend="i">iuvenes, fortissima frustra / pectora, si vobis audendi
+                348-353: «<hi rend="i">iuuenes, fortissima frustra / pectora, si vobis audendi
                   extrema cupido / certa sequi, quae sit rebus fortuna videtis: / excessere omnes
                   adytis arisque relictis / di quibus imperium hoc steterat; succurritis urbi /
                   incensae: moriamur et in media arma ruamus</hi>» (Virgilio 2009: 51). Véase la
                 traducción <hi rend="i">infra</hi>.</note>.</l></quote>
-          <p>Cuyo orden debiera ser este: “<hi rend="i">iuvenes, fortissima pectora, frustra
+          <p>Cuyo orden debiera ser este: “<hi rend="i">iuuenes, fortissima pectora, frustra
               succurritis</hi><note type="app" rend="I"> succurritis <hi rend="i">em.</hi> :
               sucurritis <hi rend="i">A</hi> || succuritis <hi rend="i">B</hi></note><hi rend="i">
               urbi incensae, quia excessere</hi><note type="app" rend="I"> excessere <hi rend="i"
@@ -3792,7 +3792,7 @@
               anteriores y acudiendo a Marcial, indicador de la pulla, la sátira y la
               polémica.</note>.</p>
           <quote xml:lang="la" rend="i"><l>Attonitusque legis terrai frugiferai</l>
-            <l>Attius et quicquid Pacuviusque vomunt.<note place="bottom"> Marcial, <hi rend="i"
+            <l>Attius et quicquid Pacuuiusque vomunt.<note place="bottom"> Marcial, <hi rend="i"
                   >Epigrammata</hi>, lib. XI, ep. 90, v. 5-6. El epigrama empieza, curiosamente, por
                 una defensa del estilo llano opuesto a las cumbres ásperas del estilo sublime: «<hi
                   rend="i">Carmina nulla probas molli quae limite currunt, / sed quae per salebras
@@ -3944,7 +3944,7 @@
             felicidad notable no es hipérbato ni sínquisis, sino una mera disposición de voces
             elegante que los construyentes y sintaxistas llaman colocación<note place="bottom"> El
               término de «<hi rend="i">conlocatio</hi>» se encuentra en Cicerón, <hi rend="i">De
-                oratore</hi>, lib. 1, § 151: «<hi rend="i">Omnes enim, sive artis sunt loci sive
+                oratore</hi>, lib. 1, § 151: «<hi rend="i">Omnes enim, siue artis sunt loci siue
                 ingenii cuiusdam ac prudentiae, qui modo insunt in ea re, de qua scribimus,
                 anquirentibus nobis omnique acie ingeni contemplantibus ostendunt se et occurrunt;
                 omnesque sententiae verbaque omnia, quae sunt cuiusque generis maxime inlustria, sub
@@ -3973,12 +3973,12 @@
             hipérbaton ni por otro tropo poético, sino por lenguaje común y corriente, como<note
               type="app" rend="I"> comun, y corriente, como <hi rend="i">A</hi> : comun, y como <hi
                 rend="i">B</hi></note> «<quote xml:lang="la" rend="i">Gracili modulatus
-              avena</quote>»<note place="bottom"> Virgilio, <hi rend="i">Eneida</hi>, lib. 1, v. 1:
-                «<hi rend="i">Ille ego qui quondam gracili modulatus avena</hi>» (2009: 5).</note> y
+              auena</quote>»<note place="bottom"> Virgilio, <hi rend="i">Eneida</hi>, lib. 1, v. 1:
+                «<hi rend="i">Ille ego qui quondam gracili modulatus auena</hi>» (2009: 5).</note> y
             aquello de «<quote xml:lang="la" rend="i">summas<note type="app" rend="I"> summas <hi
                   rend="i">A</hi> : summa <hi rend="i">B</hi></note> perlabitur undas</quote>»<note
               place="bottom"> Virgilio, <hi rend="i">Eneida</hi>, lib. 1, v. 147, «<hi rend="i"
-                >atque rotis summas levibus perlabitur undas</hi>» (2009: 10). En la traducción de
+                >atque rotis summas leuibus perlabitur undas</hi>» (2009: 10). En la traducción de
               Javier de Echave-Sustaeta: «y se va deslizando por cima de las olas sobre las leves
               ruedas» (Virgilio 1992: 144).</note> y también «<quote xml:lang="la" rend="i">arentia
               temperat arva</quote>»<note place="bottom"> Virgilio, <hi rend="i">Geórgica</hi>, lib.
@@ -4094,21 +4094,21 @@
               1999).</note>. Que en castellano suena: “O Títiro tú de la coposa recostado debajo del
             toldo haya”.</p>
           <p>La divina Eneida: «<quote xml:lang="la" rend="i">Ille ego, qui quondam gracili
-              modulatus avena</quote>»<note place="margin" resp="author"> Virg. AEne. 1.</note><note
+              modulatus auena</quote>»<note place="margin" resp="author"> Virg. AEne. 1.</note><note
               place="bottom"> Virgilio, <hi rend="i">Eneida</hi>, lib. 1, v. 1: «<hi rend="i">Ille
-                ego, qui quondam gracili modulatus avena</hi>»
+                ego, qui quondam gracili modulatus auena</hi>»
               (Virgilio 2009: 5).</note>. “Yo soy aquel que en otro tiempo con rústica canté
             zampoña”.</p>
-          <p>¿Horacio cómo entró? «<quote xml:lang="la" rend="i">Mecoenas atavis edite
+          <p>¿Horacio cómo entró? «<quote xml:lang="la" rend="i">Mecoenas atauis edite
               regibus</quote>»<note place="margin" resp="author"> Horat. ode. 1</note><note
               place="bottom"> Horacio, <hi rend="i">Carmina</hi>, lib. 1, carmen 1, v. 1: «<hi
                 rend="i">Maecenas, atavis edite regibus</hi>» (1995: 1). Es este el quinto ejemplo
               de Francisco del Villar (véase <hi rend="i">supra</hi> y Cascales 1999).</note>. “Oh
             Mecenas de ascendientes procedido reyes”.</p>
-          <p>¿Ovidio cómo empezó? «<quote xml:lang="la" rend="i">In nova fert animus mutatas dicere
+          <p>¿Ovidio cómo empezó? «<quote xml:lang="la" rend="i">In noua fert animus mutatas dicere
               formas corpora</quote>»<note place="margin" resp="author"> Ouid. Meta. lib.
               1.</note><note place="bottom"> Ovidio, <hi rend="i">Metamorfosis</hi>, lib. I, v. 1-2:
-                «<hi rend="i">In nova fert animus mutatas dicere formas / corpora: di, coeptis (nam
+                «<hi rend="i">In noua fert animus mutatas dicere formas / corpora: di, coeptis (nam
                 vos mutastis et illas)</hi>» (1981: 1): «Mi espíritu me induce a relatar cambios de
               forma de unos cuerpos en otros nuevos; dioses, inspirad mis comienzos (puesto que
               también vosotros los cambiasteis)» (trad. José Carlos Fernández Corte y Josefa Cantó
@@ -4142,7 +4142,7 @@
               1577 (145).</note>. “Cintia la primera con sus miserable me cautivó ojuelos<note
               type="app" rend="I"> ojuelos <hi rend="i">B</hi> : ojueles <hi rend="i"
             >A</hi></note>”.</p>
-          <p>Y Tibulo. «<quote xml:lang="la" rend="i">Divitias alius fulvo sibi congerat
+          <p>Y Tibulo. «<quote xml:lang="la" rend="i">Diuitias alius fulvo sibi congerat
               auro</quote>»<note place="margin" resp="author"> Tibull. lib. 1</note><note
               place="bottom"> Tibulo, <hi rend="i">Elegías</hi>, lib. 1, carmen 1, v. 1: «<hi
                 rend="i">Divitias alius fulvo sibi congerat auro</hi>» (1988: 1). Véase también la
@@ -4150,10 +4150,10 @@
               Francisco del Villar en su lista de primeros versos de poemas latinos (véase <hi
                 rend="i">supra</hi> y Cascales 1999).</note>. “Riquezas otro en rubio agregue
             oro”.</p>
-          <p>Y Lucano. «<quote xml:lang="la" rend="i">Bella per Aemathios plusquam civilia
+          <p>Y Lucano. «<quote xml:lang="la" rend="i">Bella per Aemathios plusquam ciuilia
               campos</quote>»<note place="margin" resp="author"> Lucan. lib. 1.</note><note
               place="bottom"> Lucano, <hi rend="i">Farsalia</hi>, lib. 1, v. 1: «<hi rend="i">Bella
-                per Emathios plus quam civilia campos</hi>» (1988: 1). También Francisco del Villar
+                per Emathios plus quam ciuilia campos</hi>» (1988: 1). También Francisco del Villar
               trae este ejemplo, a continuación de las <hi rend="i">Metamorfosis</hi> de Ovidio. Es
               el último de su enumeración (véase <hi rend="i">supra</hi> y Cascales 1999).</note>.
             “Guerra por los Ematios más que civil campos”.</p>
@@ -4161,14 +4161,14 @@
               Nimphae</quote>»<note place="margin" resp="author"> B. Mantua. Parthenic.<note
                 type="app" rend="I"> Mantua. Parthenic. <hi rend="i">A</hi> : Mant. Parthen. <hi
                   rend="i">B</hi></note> lib. 1</note><note place="bottom"> Giovanni Battista
-              Mantovano, <hi rend="i">Parthenice prima sive Mariana</hi>, v. 1 (1957: v.
+              Mantovano, <hi rend="i">Parthenice prima siue Mariana</hi>, v. 1 (1957: v.
             1.).</note>. “Los santos de la Palestina repitiendo<note type="app" rend="I"> repitiendo
                 <hi rend="i">A</hi> : repetiendo <hi rend="i">B</hi></note> principios Virgen”.</p>
-          <p>Y Prudencio. <pb n="f. 12r"/> «<quote xml:lang="la" rend="i">Christe, graves hominum
+          <p>Y Prudencio. <pb n="f. 12r"/> «<quote xml:lang="la" rend="i">Christe, graues hominum
               semper miserate labores</quote>»<note place="margin" resp="author"> Prudent.
                 Physiomach.<note type="app" rend="I">Physiomach. <hi rend="i">A</hi> : Physiom. <hi
                   rend="i">B</hi></note> lib. 1.</note><note place="bottom"> Prudencio, <hi rend="i"
-                >Psychomachia</hi>, v. 1: «<hi rend="i">Christe, graves hominum semper miserate
+                >Psychomachia</hi>, v. 1: «<hi rend="i">Christe, graues hominum semper miserate
                 labores</hi>» (1966: v. 1).</note>. “Oh Cristo, que de los graves de los hombres
             siempre te apiadas trabajos”.</p>
           <p>Y San Alchimo. «<quote xml:lang="la" rend="i">Quod varii eveniunt humana in gente
@@ -4269,8 +4269,8 @@
               place="bottom"> Góngora, <hi rend="i">Panegírico al duque de Lerma, v</hi>. 550. [<ref
                 target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem313#l313.550"
                 >OC313.550</ref>].</note> es lo mismo que “de abuelos procedido reyes”: «<quote
-              xml:lang="la" rend="i">atavis edite regibus</quote>»<note place="bottom"> Horacio, <hi
-                rend="i">Carmina</hi>, lib. 1, carmen 1, v. 1: «<hi rend="i">Maecenas, atavis edite
+              xml:lang="la" rend="i">atauis edite regibus</quote>»<note place="bottom"> Horacio, <hi
+                rend="i">Carmina</hi>, lib. 1, carmen 1, v. 1: «<hi rend="i">Maecenas, atauis edite
                 regibus</hi>» (1995: 1).</note>. Y esto ningún simple lo ha llamado hipérbaton
             poético, y si se lo ha llamado, ha hecho la cuestión de nombre, pues concediéndome (como a
             su pesar deben) que esa colocación anda a millares en cada plana de los oradores y a
@@ -4497,7 +4497,7 @@
               rend="I"> recoja <hi rend="i">A</hi> : recojo <hi rend="i">B</hi></note> esos dos
             yerros por suyos, pues el exceso de hipérbatos a <persName type="authority" key="Virgilio"
               >Virgilio</persName> fue engaño y el usurpar la inversión latina no ha sido sino
-            grandeza, «<quote xml:lang="la" rend="i">Clavam Herculi extorquere</quote>»<note
+            grandeza, «<quote xml:lang="la" rend="i">Clauam Herculi extorquere</quote>»<note
               place="bottom"> El proverbio «<hi rend="i">clauam extorquere Herculi</hi>», un tópico
               de los panegíricos, se encuentra en los <hi rend="i">Adagia</hi> de Erasmo (véase
               Erasmo 1571: 783 y Erasmo 2011: 2055-2056). El apunte marginal de El Lunarejo que, en
@@ -4536,7 +4536,7 @@
               type="polemista" key="Manuel de Faría y Sousa">Faría</persName> es propia esa alhaja de
             colocaciones, no tiene otra ni más variedad, ¿qué necedad es esta de quererla mayor en
             quien lo imita todo? El lugarcillo de <persName type="authority" key="Cicerón">Cicerón</persName> cerca
-            de los músicos, «<quote xml:lang="la" rend="i">Quos cum cantu spoliaveris, nuda pene
+            de los músicos, «<quote xml:lang="la" rend="i">Quos cum cantu spoliaueris, nuda pene
               remanet oratio</quote>»<note place="bottom"> Cicerón, <hi rend="i">Orator</hi>, 55,
               183 (Cicerón 1939: 460). Véase <hi rend="i">supra</hi>.</note>, ni es de importancia
             ni a propósito, pues claro es que si a los músicos les quitan el canto no <pb n="f. 14r"
@@ -4705,8 +4705,8 @@
                 rend="I">cap. <hi rend="i">A</hi> : c. <hi rend="i">B</hi></note> 17.</note><note
               place="bottom">
               <hi rend="i">Vulgata</hi>, libro de los Reyes, 1, cap. 17, v. 38 (<hi rend="i"
-                >Vulgata</hi> 1975): «<hi rend="i">et induit Saul David vestimentis suis et inposuit
-                galeam aeream super caput eius et vestivit eum lorica</hi>», (‘y Saúl cubrió a David
+                >Vulgata</hi> 1975): «<hi rend="i">et induit Saul Dauid vestimentis suis et inposuit
+                galeam aeream super caput eius et vestiuit eum lorica</hi>», (‘y Saúl cubrió a David
               con su propia vestidura y le puso un yelmo de bronce sobre la cabeza y lo revistió de
               una loriga’). La loriga es una armadura de láminas.</note>, que apenas rodaba oprimido
             del peso de tanta malla. Fullería<note place="bottom"> Según el <hi rend="i">Diccionario
@@ -4771,8 +4771,8 @@
             (precindiendo las materias o asuntos) es quererlos equiparar a la elocución de <persName 
               type="polemista" key="Luis de Góngora">Góngora</persName> conferir con Sol flamante al
             candil moribundo<note place="bottom"> Espinosa Medrano apela aquí a una comparación
-              tradicional de la Encarnación, en la que la <hi rend="i">lex nova</hi> de la gracia
-              cristiana nace como <hi rend="i">lux nova</hi>, como el sol cristiano que eclipsa la
+              tradicional de la Encarnación, en la que la <hi rend="i">lex noua</hi> de la gracia
+              cristiana nace como <hi rend="i">lux noua</hi>, como el sol cristiano que eclipsa la
               luz del candil veterotestamentario. El motivo del candil aparece en las <hi rend="i"
                 >Revelationum sancta Brigittae</hi>, lib. VII, cap. XXI, 4, pero en la descripción
               de la santa la <hi rend="i">lux ineffabilis</hi> no es comparable ni al sol ni a la
@@ -5121,8 +5121,8 @@
               >conquegregantur</quote>», pues una hoja antes había dicho «<quote xml:lang="la"
               rend="i">inque peditur</quote>»<note type="app" rend="I"> inque peditur <hi rend="i"
                 >A</hi> : imquepeditur <hi rend="i">B</hi></note> y después «<quote xml:lang="la"
-              rend="i">proquevoluta</quote>» en lugar de “<hi rend="i">impediturque</hi>” y “<hi
-              rend="i">provolutaque</hi>”. Pero vea los catorce quien quisiere en el margen<note
+              rend="i">proqueuoluta</quote>» en lugar de “<hi rend="i">impediturque</hi>” y “<hi
+              rend="i">prouolutaque</hi>”. Pero vea los catorce quien quisiere en el margen<note
               place="margin" resp="author"><p>1. Qua de causa cumque<note place="bottom"> Lucrecio,
                     <hi rend="i">De rerum natura</hi>, lib. VI, v. 85 (1969: 234): «<hi rend="i"
                     >quid faciant et qua de causa cumque ferantur</hi>», (‘lo que hacen y por qué
@@ -5136,7 +5136,7 @@
                     iaciunt ignem quo cuiquest cumque voluntas</hi>» (‘y lanzan a todas partes fuego
                   según si voluntad’). Secciona <hi rend="i">quocumque</hi>.</note></p><p>4. Quibus
                 aduersabile cumque<note place="bottom"> Lucrecio, <hi rend="i">De rerum natura</hi>,
-                  lib. VI, v. 390 (1969: 245): «<hi rend="i">cur quibus incautum scelus aversabile
+                  lib. VI, v. 390 (1969: 245): «<hi rend="i">cur quibus incautum scelus auersabile
                     cumquest</hi>» (‘por qué a todos los que cometen con descaro un odioso crimen’).
                   Se parte la palabra <hi rend="i">quibuscumquest</hi>.</note></p><p>5.
                   Inquepeditur<note place="bottom"> Lucrecio, <hi rend="i">De rerum natura</hi>,
@@ -5181,7 +5181,7 @@
                   Proque voluta<note place="bottom"> Lucrecio, <hi rend="i">De rerum natura</hi>,
                   lib. VI, v. 1264 (1969: 279): «<hi rend="i">multa siti prostrata viam per proque
                     voluta</hi>» (‘muchos [cuerpos</note>, postrados por la sed, revueltos aquí y
-                allá por la calle’). Se corta la palabra <hi rend="i">provoluta</hi>.]</p><p>14.
+                allá por la calle’). Se corta la palabra <hi rend="i">prouoluta</hi>.]</p><p>14.
                   Perque voluta<note place="bottom"> Lucrecio, <hi rend="i">De rerum natura</hi>,
                   lib. VI, v. 1264: «<hi rend="i">multa siti prostrata viam per pro que voluta</hi>»
                   (1969: 279). El verso citado aquí es el mismo que en punto anterior, aunque la
@@ -5314,7 +5314,7 @@
             sus poetas<note place="bottom">«Arrastrar a alguno: vale lo mismo
                 que traerle fatigado y ahogado sin permitirle descanso» (<hi rend="i">Aut.</hi>):
                 así prolonga maliciosamente Espinosa Medrano la sensual imagen de las Musas atraídas
-                por los poetas hispanos, , mientras trata de dar cuenta del <hi rend="i">averterunt</hi> de Muret.</note> a querer imitar aquel natural orgullo de los
+                por los poetas hispanos, , mientras trata de dar cuenta del <hi rend="i">auerterunt</hi> de Muret.</note> a querer imitar aquel natural orgullo de los
             otros. Confiésalo <persName type="authority" key="Marco Antonio Mureto">Marco Antonio Mureto</persName>
             (bien que apasionado y sentido de que el ingenio español hiciese tal contaminación, como
             él dice): «<quote xml:lang="la" rend="i">Hispani poetae praecipue et Romani sermonis
@@ -5377,7 +5377,7 @@
               (Jean Lézeau): <hi rend="i">Jo. Laezii Rupellani de poeticorum studiorum utilitate. In
                 Orationem M. Tullii Ciceronis pro A. Licinio Archia poeta</hi> (Antverpiae: ex
               officina Christophori Plantini, 1560), en particular el f. 51v. En su comentario, Jean
-              Lézeau escribe: «<hi rend="i"><hi rend="sc">Cordubae natis</hi>] Civitas est ea
+              Lézeau escribe: «<hi rend="i"><hi rend="sc">Cordubae natis</hi>] Ciuitas est ea
                 Hispaniae, quae doctor viros permultos olim edidit, Annaeum Gallionem, Melam
                 aliosque. Item Poetas Seneca et Lucanum, de quibus tamen idem hodie video
                 doctissimos viros iudicare, quod hic Cicero de sui temporis poetis. Sonant enim
@@ -5441,7 +5441,7 @@
               quoddam</quote>») está tan lejos de anublarle el aplauso que <persName type="authority" key="Alciato"
               >Alciato</persName> le recomendó con ese elogio, y calificó la majestuosa corriente de
             su locución con lo inflado y soberbio de su lenguaje: «<quote xml:lang="la" rend="i">Sed
-              gravior Tacitus inflaturque magis, sive quod rerum dignitas hoc expostulet, sive
+              grauior Tacitus inflaturque magis, siue quod rerum dignitas hoc expostulet, siue
               quod sub Vespasianis id dicendi genus magis placuerit</quote>»<note place="margin"
               resp="author"> Alciat annotat. in Tacitus<note type="app" rend="I">Tacitū <hi rend="i"
                   >A</hi> : Tacit. <hi rend="i">B</hi></note> ad Galeatium<note type="app" rend="I"
@@ -5466,11 +5466,11 @@
               Marcial que repite El Lunarejo. El proverbio «<hi rend="i">Naso agere</hi>» procede de
               Tertuliano, del <hi rend="i">Liber adversus Marcionem</hi> (1844a: col.
             0238A).</note>, y es vulgar lo de <persName type="authority" key="Plinio el Mayor">Plinio</persName>:
-              «<quote xml:lang="la" rend="i">Nasum novi mores subdolae irrissioni
-              dicavere</quote>»<note place="margin" resp="author"> Plin. lib. 11 cap. 37</note><note
+              «<quote xml:lang="la" rend="i">Nasum noui mores subdolae irrissioni
+              dicauere</quote>»<note place="margin" resp="author"> Plin. lib. 11 cap. 37</note><note
               place="bottom"> Plinio el Mayor, <hi rend="i">Historia natural</hi>, lib. 11, 158:
                 «<hi rend="i">Infra eas hilaritatem risumque indicantes buccae, et altior homini
-                tantum, quem novi mores subdolae inrisioni dicavere, nasus</hi>.» (1947: 78). En la
+                tantum, quem noui mores subdolae inrisioni dicauere, nasus</hi>.» (1947: 78). En la
               traducción de María Luisa Arribas Hernáez: «Debajo de las mejillas, revelando la
               alegría y la risa, está la boca y, más prominente solamente en el hombre, la nariz,
               que las nuevas costumbres han consagrado al escarnio malévolo» (Plinio el Viejo 2003:
@@ -5725,7 +5725,7 @@
             transposición que los oradores llaman latamente hipérbato (no siéndolo poético) es una
             de las hermosuras de la oración, cuando <persName type="authority" key="Antonio de Nebrija">el
               Nebrisense</persName> por haber dicho <persName type="authority" key="Cicerón">Tulio</persName>
-              «<quote xml:lang="la" rend="i">in duas divisam esse partes</quote>»<note
+              «<quote xml:lang="la" rend="i">in duas diuisam esse partes</quote>»<note
               place="bottom"> Es ejemplo común del orden sintáctico propio del latín, hiperbático
               incluso en prosa, y aparece en Quintiliano (<hi rend="i">Institutio oratoria</hi>,
               lib. 4, cap. 1, párrafo 36 y lib. 8, cap. 6, párrafo 65). Véase Quintiliano (1971a:
@@ -5747,8 +5747,8 @@
               restituye fielmente lo que este significaba para el rétor latino. Espinosa Medrano, en
               cambio, trae a colación la misma cita como ejemplo de un tipo de ornato estilístico
               que Quintiliano aprueba, aunque el orador tenga por él que alejarse de la manera más sencilla y directa de construir la frase, sin
-              beneficio para el sentido. En nada difiere «<hi rend="i">in duas divisam partes</hi>»
-              de “<hi rend="i">in duas partes divisam</hi>”, en lo tocante al significado. La figura
+              beneficio para el sentido. En nada difiere «<hi rend="i">in duas diuisam partes</hi>»
+              de “<hi rend="i">in duas partes diuisam</hi>”, en lo tocante al significado. La figura
               ciceroniana merece el aplauso de Quintiliano solo por la belleza formal (<hi rend="i"
                 >decus</hi>) del ritmo y la variedad. El Lunarejo lo recalca: «es una de las
               hermosuras de la oración». Con ello queda probado que no se necesita novedad ni
@@ -5781,7 +5781,7 @@
               lib. 8 cap. 6.</note>. Enójesenos ahora <persName type="polemista"
               key="Manuel de Faría y Sousa">Faría</persName>, y dígale también al <persName type="authority"
               key="Cicerón">mayor orador del mundo</persName> que decir «<quote xml:lang="la"
-              rend="i">in duas divisam esse partes</quote>», ¿qué concepto?, ¿qué juicio?, ¿qué ingenio?,
+              rend="i">in duas diuisam esse partes</quote>», ¿qué concepto?, ¿qué juicio?, ¿qué ingenio?,
             ¿qué elegancia arguye?</p>
         </div>
         <div type="chapter" xml:id="seccion6_Faria">
@@ -6177,7 +6177,7 @@
               de la miel aérea”. Hasta el día de hoy en la India y en Arabia se recolecta
               encontrándola, en forma de sal, adherida a las ramas. Toda miel es, no obstante,
               dulce. Sin embargo, la miel de Cerdeña es amarga a causa del ajenjo con que, abundante
-              en esta región, se alimentan las abejas. El panal se llama <hi rend="i">favus</hi>
+              en esta región, se alimentan las abejas. El panal se llama <hi rend="i">fauus</hi>
               porque, más que beberlo, se come; y en griego “comer” se dice <hi rend="i"
                 >phagein</hi>.» (traducción de José Oroz Reta y Manuel-A. Marcos Casquero en Isidoro
               2004: 1330-1333).</note>, no se le quedó atrás quien la adelantó a ser «<quote
@@ -6201,14 +6201,14 @@
                 <hi rend="i">em.</hi> : toda via <hi rend="i">AB</hi></note> retiene aquella dulzura
             soberana y causa aquel deleite de su celestial naturaleza. Hasta aquí Plinio, y si le
             preguntáis que qué es al fin ese humor celeste que las flores baña, responde: «<quote
-              xml:lang="la" rend="i">sive ille est coeli sudor, sive quaedam siderum saliva, sive
+              xml:lang="la" rend="i">siue ille est coeli sudor, siue quaedam siderum saliua, siue
               purgantis se aeris succus</quote>»<note place="margin" resp="author"> Plinius lib. 11.
               cap. 12</note><note place="bottom">
               <persName type="authority" key="Plinio el Mayor">Plinio el Mayor</persName>, <title>Historia
                 natural</title>, lib. 11, párrafo 30 (1947: 38). Cito a continuación <hi rend="i">in
                 extenso</hi> el pasaje de Plinio dedicado a la naturaleza de la miel, que Espinosa
-              Medrano traduce y parafrasea: «<hi rend="i">sive ille est caeli sudor sive quaedam
-                siderum saliva, sive purgantis se aëris sucus; utinamque esset purus ac liquidus et
+              Medrano traduce y parafrasea: «<hi rend="i">siue ille est caeli sudor siue quaedam
+                siderum saliua, siue purgantis se aëris sucus; utinamque esset purus ac liquidus et
                 suae naturae, qualis defluit primo</hi>! 31.<hi rend="i"> Nunc vero e tanta cadens
                 altitudine multumque, dum venit, sordescens et obvio terrae halitu infectus,
                 praeterea e fronde ac pabulis potus et in utriculos congestus apium —ore enim eum
@@ -6632,10 +6632,10 @@
             <title>Eneida</title> cuando le rasgaban las alas de aquella célebre paloma<note
               place="bottom"> Se trata de la paloma con la que Virgilio compara la nave de Mnesteo a
               la que alude la cita que trae a continuación El Lunarejo.</note>:</p>
-          <quote xml:lang="la" rend="i"><l>Radit iter liquidum, celeres neque commovet alas<note
+          <quote xml:lang="la" rend="i"><l>Radit iter liquidum, celeres neque commouet alas<note
                 place="margin" resp="author"> Virg. Aeney. lib. 5.</note><note place="bottom">
                 Virgilio, <hi rend="i">Eneida</hi>, V, v. 217: «<hi rend="i">radit iter liquidum
-                  celeris neque commovet alas</hi>» (1989: 12): «y va hendiendo el espacio
+                  celeris neque commouet alas</hi>» (1989: 12): «y va hendiendo el espacio
                 transparente y no llega a mover sus raudas alas» (trad. Javier de Echave-Sustaeta en
                 Virgilio 1992b: 274).</note>.</l></quote>
           <p>Y <persName type="authority" key="Claudiano">Claudiano</persName>: «<quote xml:lang="la" rend="i"
@@ -6780,7 +6780,7 @@
               <title>capítulo 1 del Génesis</title>, refiriendo que Dios, al segundo día de las
             infancias del orbe, mandó conglobarse el firmamento entre las aguas, dividiendo las
             ínfimas de las superiores: «<quote xml:lang="la" rend="i">Dixitque Deus: fiat firmamentum
-              in medio aquarum et dividat aquas ab aquis. Et fecit Deus firmamentum divisitque
+              in medio aquarum et diuidat aquas ab aquis. Et fecit Deus firmamentum diuisitque
               aquas quae erant sub firmamento ab iis quae erant super firmamentum, et factum est
               ita</quote>»<note place="margin" resp="author"> Genes. cap. I</note><note
               place="bottom">
@@ -6791,7 +6791,7 @@
             fuego, porque a haberlos, ya estarían las aguas superiores divididas de las inferiores
             por el aire y el fuego, y consiguientemente no las hubiera Dios dividido con el
             firmamento, ni refiriera la Escritura había dicho Dios: «<quote xml:lang="la" rend="i"
-              >Fiat firmamentum in medio aquarum et dividat aquas</quote>». Siendo así, pues, que ese
+              >Fiat firmamentum in medio aquarum et diuidat aquas</quote>». Siendo así, pues, que ese
             intersticio o espacio que ahora ocupa el firmamento no estuviese vacío desde el
             principio de la creación del cielo y tierra hasta el segundo día en que fue construido
             el firmamento, ni haya otro cuerpo que hubiese llenado esa capacidad si no son las aguas
@@ -6855,11 +6855,11 @@
             filosóficos para llamar congruentísimamente “líquido” al fuego, habiendo sido buen
             filósofo el primero que lo dijo, que fue <persName type="authority" key="Lucrecio"
             >Lucrecio</persName>:</p>
-          <quote xml:lang="la" rend="i"><l>Devolet in terram liquidi calor aureus ignis.<note
+          <quote xml:lang="la" rend="i"><l>Deuolet in terram liquidi calor aureus ignis.<note
                 place="margin" resp="author"> Lucretius lib.<note type="app" rend="I">lib. <hi
                     rend="i">A</hi> : l. <hi rend="i">B</hi></note> 6.</note>
               <note place="bottom"> Lucrecio, <hi rend="i">De rerum natura</hi>, lib. 6, v. 205:
-                  «<hi rend="i">devolet in terram liquidi color aureus ignis</hi>» (1969: 238): «ese
+                  «<hi rend="i">deuolet in terram liquidi color aureus ignis</hi>» (1969: 238): «ese
                 movedizo color dorado del claro fuego vuela a tierra» (trad. Francisco Socas en
                 Lucrecio 2003: 407). La variante <hi rend="i">calor</hi> proviene directamente de
                 Macrobio, <hi rend="i">Saturnalia</hi>, lib. 6, cap. 5, párrafo 4 (1970a: 375). Con
@@ -6998,7 +6998,7 @@
                 rend="i">Breviarium Theologicum</hi> de Jean Polman (Mechlinae: typis Laurentii
               Vander Elst, typographi in foro majori sub signo S. Francisci, s. a., aprobado el 8 de
               julio de 1729: f. *4v). La definición de «<hi rend="i">Formaliter</hi>» por oposición
-              a «<hi rend="i">Causaliter sive efficienter</hi>» reza: «<hi rend="i">Formaliter
+              a «<hi rend="i">Causaliter siue efficienter</hi>» reza: «<hi rend="i">Formaliter
                 dicitur aliquid tale vel tale quod formam illius continet; sic manus calida est
                 formaliter calida, diciturque formaliter talis a calore quem habet. Causaliter
                 dicitur aliquid tale vel tale, quod est causa illius formae. Sic Sol causaliter est
@@ -7043,7 +7043,7 @@
                 memorabilia</hi>, lib. 3, cap. 2 «<hi rend="i">De fortitudine</hi>» (‘Sobre la
               fortaleza de ánimo’), párrafo 22: «<hi rend="i">Ne Acilium quidem praeterire possumus,
                 qui, cum decimae legionis miles pro C. Caesaris partibus maritima pugna
-                proeliaretur, abscisa dextra, quam Massiliensium navi iniecerat, laeva puppim
+                proeliaretur, abscisa dextra, quam Massiliensium naui iniecerat, laeua puppim
                 apprehendit nec ante dimicare destitit quam captam profundo mergeret.</hi>» (2000:
               256): «Y en verdad no podemos pasar por alto a Acilio, que cuando estaba luchando como
               soldado de la décima legión en el ejército de Gayo César, en el combate naval entre
@@ -7174,7 +7174,7 @@
               a dar la más impía, soez y afrentosa sentencia contra el mayor poeta de nuestros
               siglos, condenándole no menos que a Mahoma de los ingenios».</note>, que predicando
             que venía a mejorarla en España, la inficionó con errores: “<quote xml:lang="la"
-              rend="i">Cogitavit ut faceret uvas: et fecit labruscas</quote>”<note place="bottom">Véase <hi rend="i">infra</hi>, VII, § 59.</note>.»<note place="bottom">
+              rend="i">Cogitauit ut faceret uuas: et fecit labruscas</quote>”<note place="bottom">Véase <hi rend="i">infra</hi>, VII, § 59.</note>.»<note place="bottom">
               Manuel de Faría, <hi rend="i">Lusiadas</hi>, I, Tomo II, Canto III, estancia 94, col.
               135 A-B, [1639_lusiadas] (Faría 1639a: II, col. 135). Espinosa Medrano copia el texto
               de Faría añadiendo dos variantes, pues el original reza «ni tengo por ignorantes los
@@ -7396,13 +7396,13 @@
             Góngora «Mahoma que inficionó de errores a España», porque aquí no tratamos de vengar
             oprobios con oprobios, que es puerilidad, sino de satisfacer calumnias con razones y
             desvanecer escrúpulos con evidencias. Pésanos de que tan indignamente traiga un texto
-            sagrado para profanarle con su mordacidad, con ser que el «<hi rend="i">Cogitavit ut
+            sagrado para profanarle con su mordacidad, con ser que el «<hi rend="i">Cogitauit ut
               faceret uvas et fecit labruscas</hi><note type="app" rend="I"> labruscas <hi rend="i"
                 >em.</hi> : labuscas <hi rend="i">AB</hi></note>»<note place="bottom">
               <hi rend="i">Vulgata</hi>, Isaías (trad. de San Jerónimo), 5, v. 2 (<hi rend="i"
-                >Vulgata</hi> 1975): «<quote xml:lang="la" rend="i">expectavit ut faceret uvas et
+                >Vulgata</hi> 1975): «<quote xml:lang="la" rend="i">expectauit ut faceret uuas et
                   fecit labruscas</quote>» (‘creyendo que haces uvas, en realidad haces labruscas’). Faría no es el primeo que emplea en la polémica gongorina esta cita del libro de Isaías, pues ya aparece en el último verso de uno de los sonetos antigongorinos atribuidos a Quevedo («¿Socio otra vez? ¡Oh tú, que desbudelas...!»): véase Conde Parrado y García Rodríguez (2005: 111).</note> por más que adulteró el «<hi rend="i"
-              >expectavit</hi>» en «<hi rend="i">cogitavit</hi>», ni es a propósito, ni él lo
+              >expectauit</hi>» en «<hi rend="i">cogitauit</hi>», ni es a propósito, ni él lo
             entiende.</p>
         </div>
         <div type="chapter" xml:id="seccion8_Faria">
@@ -7835,7 +7835,7 @@
             que muchas veces fue más fácil hacer más que hacer otro tanto: tan ardua es de recabarse
             una semejanza, que apenas acierta a dibujarla aun la naturaleza misma. «<quote
               xml:lang="la" rend="i">Adde quod plerumque facilius est plus facere quam idem: tantam
-              enim difficultatem habet similitudo, ut ne ipsa natura in hoc ita evaluerit<note
+              enim difficultatem habet similitudo, ut ne ipsa natura in hoc ita eualuerit<note
                 place="margin" resp="author"> Idem ibidem</note><note place="bottom"> Quintiliano,
                   <hi rend="i">Institutio oratoria</hi>, lib. 10, cap. 2, párrafo 10 (1971b: 263):
                 «A esto se junta el que las más veces es más fácil hacer más que lo mismo. Porque la
@@ -7890,7 +7890,7 @@
             que no pudieron dieron que reír a Quintiliano con dar a entender que ya le tenían
             imitado con solo largar el «<quote xml:lang="la" rend="i">esse videatur</quote>».
             Soñándose cicerones, porque iban remachando con un «<quote xml:lang="la" rend="i">esse
-              videatur</quote>» una y otra cláusula. «<quote xml:lang="la" rend="i">Noveram quosdam
+              videatur</quote>» una y otra cláusula. «<quote xml:lang="la" rend="i">Noueram quosdam
               qui se pulchre expressisse genus illud coelestis huius in dicendo viri sibi
               viderentur, si in clausula posuissent: ‘esse videatur’<note place="margin"
                 resp="author"> Quintil. lib. 10. cap. 2.</note><note place="bottom"> Quintiliano,
@@ -8774,7 +8774,7 @@
               (140). La edición de 1586 de los <hi rend="i">Hieroglyphica</hi> es la primera que
               incluye la vida de Pierio Valeriano por Antoine du Verdier, que se reimprimirá en las
               sucesivas ediciones (La Charité 2012: 133-136). Véanse por ejemplo los <hi rend="i"
-                >Hieroglyphica sive de sacris Aegyptiorum aliarumque gentium literis, Commentariorum
+                >Hieroglyphica siue de sacris Aegyptiorum aliarumque gentium literis, Commentariorum
                 Libri LVIII</hi> (Francofurti ad Moenum: Wendelini Moewaldi, 1678), Valeriano 1678
               (f. C3r).</note>. Esto le valió a Francisco, rey de Francia, para acallar el
             mordacísimo espíritu de <persName type="authority" key="Pedro Aretino">Pedro Aretino</persName> (<persName 
@@ -9002,7 +9002,7 @@
             príncipes de Roma, por no confesarlos alumnos de una mujer deshonesta, los celebró
             colgados de las ubres de una fiera, juzgando más decente a la majestad el que Rómulo y
             Remo mamasen de una loba, que no que debiesen pecho a pechos de una perdida.</p>
-          <quote xml:lang="la" rend="i"><l>Hic patrius Mavortis amor, foetusque notantur</l>
+          <quote xml:lang="la" rend="i"><l>Hic patrius Mauortis amor, foetusque notantur</l>
             <l>Romulei, post amnis inest, et bellua nutrix.<note place="margin" resp="author">
                 Claudia. Paneg. lib. 5</note>
               <note place="bottom"> Claudiano, <hi rend="i">Panegyricus dictus Olybrio et Probino
@@ -9151,7 +9151,7 @@
             <l>Sic magnas magno promis molimine nugas</l>
             <l>dum vigilas studiis vane, * Faria<note place="margin" resp="author"> * Sophista</note>,
                 tuis.<note place="bottom"> Florens Schoonhoven, <hi rend="i">Emblemata, partim
-                  moralia, partim etiam civilia</hi> (Goudae: apud Andream Burier, 1618), emblema
+                  moralia, partim etiam ciuilia</hi> (Goudae: apud Andream Burier, 1618), emblema
                 64, «<hi rend="i">In Sophistas»: «Ingenti studio componit aranea telam, / et tamen a
                   cunctis spernitur illud opus. / Sic magnas magno promis molimine nugas / dum
                   vigilas studiis vane, Sophista, tuis</hi>» (1618: 190). En una nota marginal, El
@@ -9338,8 +9338,8 @@
                 itaque Esaias propheta Dominum et reduxit umbram per lineas quibus iam descenderat
                 in horologio Ahaz retrorsum decem gradibus</hi>». Véase también: <hi rend="i"
                 >Vulgata</hi>, Isaías (trad. de San Jerónimo), 38, v. 7 (<hi rend="i">Vulgata</hi>
-              1975): «<hi rend="i">ecce ego reverti faciam umbram linearum per quas descenderat in
-                horologio Ahaz in sole retrorsum decem lineis et reversus est sol decem lineis per
+              1975): «<hi rend="i">ecce ego reuerti faciam umbram linearum per quas descenderat in
+                horologio Ahaz in sole retrorsum decem lineis et reuersus est sol decem lineis per
                 gradus quos descenderat</hi>», (‘he aquí que yo haré volver la sombra de las líneas,
               por las cuales había descendido en el reloj de sol de Ahaz, diez líneas en sentido
               retrógrado; y el sol retrocedió diez líneas por los grados que había
@@ -9468,8 +9468,8 @@
               El Lunarejo lo lea en el comentario de Servio al verso 484 del libro IV de la <hi
                 rend="i">Eneida</hi> de Virgilio, que reza así (1881: 552): «<hi rend="i">Hesperidum
                 templi custos epulasque draconi</hi>». El comentarista escribe: «<hi rend="i">unde
-                mala fingitur sustulisse, hoc est oves: nam μῆλα dicuntur, unde μηλονόμος dicitur
-                pastor ovium</hi>. [[<hi rend="i">propter ruborem autem lanae, quae similis auro
+                mala fingitur sustulisse, hoc est oues: nam μῆλα dicuntur, unde μηλονόμος dicitur
+                pastor ouium</hi>. [[<hi rend="i">propter ruborem autem lanae, quae similis auro
                 est, existimasse eos qui audierant, mala aurea in Africa nasci, est et alia
                 fabula</hi>.», (‘de ahí que cuenten que robó manzanas (<hi
                   rend="i">mala)</hi> es decir ovejas: que se llaman <hi rend="i">μῆλα</hi>, de ahí
@@ -9489,7 +9489,7 @@
                 <hi rend="i">Mitología</hi>, en un capítulo sobre las Hespérides que Espinosa
               Medrano cita a continuación en el párrafo 93. No he hallado indicios de que El
               Lunarejo consulte la suma más completa de la tradición mitográfica y botánica sobre
-              los pomos de oro: los <hi rend="i">Hesperides sive de malorum aureorum cultura et usu
+              los pomos de oro: los <hi rend="i">Hesperides siue de malorum aureorum cultura et usu
                 libri quatuor</hi>. Se trata de un hermoso libro ilustrado por Nicolas Poussin y
               recopilado por Giovanni Battista Ferrari, jesuita, e impreso en 1646, en Roma, por
               Hermann Scheus (Ferrari 1646).</note>, y como tenían vellones dorados o pajizos
@@ -9582,7 +9582,7 @@
             dragón jardinero hicieron al zodiaco de los signos que como sierpe en luciente rosca
             voltea por todo el globo. «<quote xml:lang="la" rend="i">At quis est Draco qui haec
               mala servabat? Signiferum circulum nonnulli sunt arbitrati»<note place="bottom">
-                Natale Conti, <hi rend="i">Mythologiae sive Explicationum fabularum libri decem</hi>
+                Natale Conti, <hi rend="i">Mythologiae siue Explicationum fabularum libri decem</hi>
                 (Venetiis: [ad signum Fontis], 1568), lib. 7, cap. 7, «De Hesperedibus» (1568: f.
                 217v): «<quote xml:lang="la" rend="i">Hesperides igitur ut alii volunt Hesperi
                   filiae fuerunt, ut alii Atlantis, quae sidera sunt. Earum pater coelum aut
@@ -9732,10 +9732,10 @@
             en el occidente aquel solar esas doradas frutas, como dice Ferécides, libro 10<note
               place="margin" resp="author"> Pherecydes lib.<note type="app" rend="I">lib. <hi
                   rend="i">A</hi> : l. <hi rend="i">B</hi></note> 10</note>, citado por Natal
-              Cómite<note place="bottom"> Natale Conti, <hi rend="i">Mythologiae sive Explicationum
+              Cómite<note place="bottom"> Natale Conti, <hi rend="i">Mythologiae siue Explicationum
                 fabularum libri decem</hi>, lib. 7, cap. 7, «<hi rend="i">De Hesperedibus</hi>»
               (1568: f. 217r): «<quote xml:lang="la" rend="i">at Pherecydes lib. 10 ubi nuptias
-                Iunonis commemoravit, terram oceano proximam in occidente aurei coloris poma tulisse
+                Iunonis commemorauit, terram oceano proximam in occidente aurei coloris poma tulisse
                 inquit</quote>» (‘pero Ferécides en su libro 10, allí donde recuerda las bodas de
               Juno, dice que la tierra próxima al océano en Occidente daba manzanas de color dorado’).</note>. Pero
             traigoos un autor que nunca habréis visto citado para el caso<note place="bottom"
@@ -9790,11 +9790,11 @@
             decoro. Por eso fingieron a Júpiter penetrando la torre y la clausura de Dánae en
             lluvias de oro, como enseñan Lactancio Firmiano<note place="margin" resp="author">
               Lactant. lib. I de falsa doctrina.</note><note place="bottom"> Lactancio (Lucio
-              Cecilio Firmiano Lactancio), <hi rend="i">Divinarum institutionum</hi>, lib. 1 «<hi
+              Cecilio Firmiano Lactancio), <hi rend="i">Diuinarum institutionum</hi>, lib. 1 «<hi
                 rend="i">De falsa religione</hi>», 11: «<hi rend="i">Danaen violaturus, aureos numos
                 largiter in sinum eius infudit</hi>». Entre las abundantes ediciones de la obra de
               Lactancio, véase por ejemplo <hi rend="i">L. Coelii Lactantii Firmiani Opera quae
-                extant omnia</hi> (Lugduni Batavorum: ex officina Petri Leffen, 1652) en Lactancio
+                extant omnia</hi> (Lugduni Batauorum: ex officina Petri Leffen, 1652) en Lactancio
               1652 <ref
                 target="https://books.google.es/books?id=jHdRAAAAcAAJ&amp;hl=fr&amp;pg=PA32#v=onepage&amp;q&amp;f=false"
                 >(32)</ref>.</note>, Catsio<note place="margin" resp="author"> Catsius emb.
@@ -9806,7 +9806,7 @@
                 est tam sanctum quod non uiolari, nihil tam munitum quod non expugnari pecunia
                 possit</hi>» (1622: 77). La cita original reza: «<hi rend="i">nihil esse…</hi>»
               (Cicerón 1928: 72).</note>, Natal<note place="bottom"> Natale Conti, <hi rend="i"
-                >Mythologiae sive Explicationum fabularum libri decem</hi>, lib. 1, cap. 18, «<hi
+                >Mythologiae siue Explicationum fabularum libri decem</hi>, lib. 1, cap. 18, «<hi
                 rend="i">De Perseo</hi>»: «<hi rend="i">Quod Danae inclusa ita fuerit, et Iupiter
                 in aurum versus illam vitiarit, nihil aliud significat, quam largitionibus cuncta
                 patere, et ab avaritia nihil esse tutum</hi>» (1568: f. 234v).</note>, y
@@ -9884,7 +9884,7 @@
                 rend="i">ad tertium Aeneidos</hi>», comentario al verso 57 (Pontanus 1599: col. 994,
               por errata marcada como col. 964): «<hi rend="i">Homo sacer is est, inquit Festus,
                 quem populus iudicauit ob maleficium neque fas est eum immolari, sed qui eum
-                occidit, parricidii non damnatur. Ex quo quivis homo malus, atque improbus sacer
+                occidit, parricidii non damnatur. Ex quo quiuis homo malus, atque improbus sacer
                 appellari solet</hi>», (‘Es hombre sacro, dice Festo, aquel de quien el pueblo juzgó
               que a causa de su crimen ni siquiera es lícito inmolarlo, aunque quien lo mata no es
               reo de parricido. Por lo que a cualquier hombre malvado e inicuo se le suele llamar
@@ -9986,7 +9986,7 @@
               contengan en los límites de la gramática, ya salgan de ellos y vayan a cazar en las
               tierras de la filosofía, ya hagan ambas cosas, como Isidoro, son tratantes en una
               mercancía peligrosa y llena de azares’). La cita se encuentra en la primera parte de
-              la edición regia de Isidoro, <hi rend="i">Divi Isidori Hispal. Episcopi opera</hi>
+              la edición regia de Isidoro, <hi rend="i">Diui Isidori Hispal. Episcopi opera</hi>
               (Madriti: ex typographia regia, 1599), véase el prólogo a las <hi rend="i"
                 >Etimologías</hi> en Isidoro 1599a (f. ¶¶2r). Es posible que la metáfora comercial
               del contado y la libranza provenga de estas líneas de Juan Grial.</note>. Díganlo
@@ -10107,7 +10107,7 @@
                   >A</hi> : Persiu† <hi rend="i">B</hi></note> saty. 4</note></l><note place="bottom">Persio, <hi rend="i">Sátiras</hi>, IV, v. 10: «et potis es nigrum vitio praefigere theta» (2004: 88). Véase la traducción en la nota anterior.</note></quote>
           <p>Y Marcial:</p>
           <quote xml:lang="la" rend="i"><l>Nosti mortiferum quaestoris, Castrice, signum?</l>
-            <l>Est operae pretium discere theta novum.<note place="margin" resp="author"> Martial.
+            <l>Est operae pretium discere theta nouum.<note place="margin" resp="author"> Martial.
                 lib. 7 epigr.<note type="app" rend="I">epigr. <hi rend="i">A</hi> : epig. <hi
                     rend="i">B</hi></note> 36.</note><note place="bottom"> Marcial, <hi rend="i"
                   >Epigramas</hi>, lib. VII, 37, v. 1-2 (Marcial 1990: 223): «¿Conoces, Cástrico, la
@@ -10183,13 +10183,13 @@
             hábito o infundirseles por inspiración. Como sucedió con Beseleel, a quien en el <title>Éxodo</title>
             se le concedieron<note type="app" rend="I"> concedieron <hi rend="i">A</hi> :
               considieron <hi rend="i">B</hi></note> esas facultades mecánicas para la fábrica del
-            tabernáculo de Dios: «<quote xml:lang="la" rend="i">Et implevi eum spiritu Dei
+            tabernáculo de Dios: «<quote xml:lang="la" rend="i">Et impleui eum spiritu Dei
               sapientia, intelligentia et scientia in omni opere ad excogitandum fabre quicquid
                 fieri<note type="app" rend="I"> fabre quicquid fieri <hi rend="i">A</hi> : quidquid
                 fabrefieri <hi rend="i">B</hi></note> poterit ex auro et argento</quote>»<note
               place="margin" resp="author"> Exod. c. 31</note><note place="bottom">
               <hi rend="i">Vulgata</hi>, Éxodo (trad. de San Jerónimo), XXXI, v. 3 (<hi rend="i"
-                >Vulgata</hi> 1975): «<hi rend="i">et implevi eum spiritu Dei sapientia,
+                >Vulgata</hi> 1975): «<hi rend="i">et impleui eum spiritu Dei sapientia,
                 intelligentia et scientia in omni opere ad excogitandum fabre quicquid fieri potest
                 ex auro et argento et aere</hi>», (‘y lo llené con el espíritu de Dios de sabiduría
               e inteligencia y ciencia en toda obra para concebir artificiosamente cualquier cosa
@@ -10243,7 +10243,7 @@
             Ovidio como por boca de Augustino: «<quote xml:lang="la" rend="i">Dicebant non aliter
               esse corpus Christi in pane altaris quam in alio pane et in<note type="app" rend="I">
                 in <hi rend="i">A</hi> : ln <hi rend="i">B</hi></note> qualibet re, sicque Deum
-              loquutum fuisse in Ovidio, sicut in Augustino</quote>»<note place="margin"
+              loquutum fuisse in Ouidio, sicut in Augustino</quote>»<note place="margin"
               resp="author"> Caessar. Heisterbac.<note type="app" rend="I">Caessar. Heisterbac. <hi
                   rend="i">A</hi> : Cesar. Heisterb. <hi rend="i">B</hi></note> dialo. Mirac. de
               Daemonibus lib. 5 cap. 22.</note><note place="bottom"> Cesáreo de Heisterbach, <hi
@@ -10341,7 +10341,7 @@
               volumen de la edición de 1542 de las obras del santo papa (s. l.: apud Hugonem et
               Haeredes Aemonis a porta), en que leemos la cita en cuestión en el «<hi rend="i">caput
                 LXXXIIII</hi>» del «<hi rend="i">liber quartus</hi>» del <hi rend="i">Epistolarum ex
-                registro Divi Gregorii</hi> (1542: f. 183r).</note>, y hoy se ven comparadas no solo
+                registro Diui Gregorii</hi> (1542: f. 183r).</note>, y hoy se ven comparadas no solo
             a las poesías de Camoens, sino a las de Virgilio y Homero. Aquí pudiera exclamar el
             apóstol: «<quote xml:lang="la" rend="i">Quae societas luci ad tenebras? Quae autem
               conventio Christi ad Belial? Qui autem consensus templo Dei cum idolis?</quote>»<note
@@ -11183,8 +11183,8 @@
                 rend="i">A</hi> : Hagen <hi rend="i">B</hi></note> eso<note type="app" rend="I">esso <hi rend="i">A</hi> : essos <hi rend="i">B</hi></note> hombrecillos de bruta
             discreción, de necia sutileza, que despuntándose de agudos, gastan el tiempo en hablar
             cardos y pronunciar abrojos: «<quote xml:lang="la" rend="i">Hoc solent facere arguti
-              homunciones, qui in huiusmodi acanthologias totam aetatem contriverunt</quote>»<note
-              place="margin" resp="author"> Idem ibidem</note><note place="bottom"> Joseph Juste Scaliger, <hi rend="i">Catulli, Tibulli, Propertii nova editio.
+              homunciones, qui in huiusmodi acanthologias totam aetatem contriuerunt</quote>»<note
+              place="margin" resp="author"> Idem ibidem</note><note place="bottom"> Joseph Juste Scaliger, <hi rend="i">Catulli, Tibulli, Propertii noua editio.
                 Josephus Scaliger Julii Caesaris Filius recensuit. In eosdem Castigationum liber. Ad
                 Claudium Puteanum consiliarium regium in suprema curia Parisiensi</hi> (Paris: apud
               Mamert Patisson in officina Robert Estienne 1577), epístola dedicatoria «<hi rend="i"
@@ -11358,12 +11358,12 @@
               Torreblanca Villalpando, <hi rend="i">Epitomes delictorum in quibus aperta vel oculta
                 invocatio daemonis intervenit libri IV</hi> (Hispali: apud Ildephonsum Rodriguez
               Gamarra et Franciscum de Lira typographos, 1618), libro I «<hi rend="i">In magiam
-                divinatricem</hi>», cap. 7: «<hi rend="i">ut sic merito totius encyclopediae laude
-                unus nostro aevo clarissimus concivis, et amicus noster D. Ludovic. de
+                diuinatricem</hi>», cap. 7: «<hi rend="i">ut sic merito totius encyclopediae laude
+                unus nostro aeuo clarissimus conciuis, et amicus noster D. Ludouic. de
                 Gongora</hi>» (1618: f. 14r).</note>), dice el erudito Villalpando en su
               <title>Magia</title>. Débensele estos honores por los que con su ingenio logró el
             idioma español, venerándole por su primera y más ínclita gloria el Betis:</p>
-          <quote xml:lang="la" rend="l"><l>Boetis oliviferi Gongora primus honor.<note
+          <quote xml:lang="la" rend="l"><l>Boetis oliuiferi Gongora primus honor.<note
                 place="margin" resp="author"> Nicol. Albiz elog. ad com. Christophori
                 Salaçarii</note><note place="bottom">
                 <persName type="polemista" key="Nicolás de Albiz">Nicolás de Albiz</persName>, en <persName 
@@ -11381,7 +11381,7 @@
             dice aquel grave jurisconsulto, es sin primero el segundo Píndaro, el padre de la
             cultura, el esplendor de Córdoba, el ornamento de España y el portento del orbe todo:
             «<quote xml:lang="la" rend="i">Cui allusit<note type="app" rend="I">allusit <hi rend="i">em.</hi> : allussit <hi rend="i">AB</hi></note> alter Pindarus, crysis pater, Cordubae
-              decus et ornamentum totius Hesperiae orbisque portentum don Ludovicus a
+              decus et ornamentum totius Hesperiae orbisque portentum don Ludouicus a
               Gongora</quote>»<note place="margin" resp="author"> D. Anton.<note type="app" rend="I"
                 >Anton. <hi rend="i">A</hi> : Anto. <hi rend="i">B</hi></note> de Cabreros Avendaño
               lib. 2 de Met. c. 4 n. 15 </note><note place="bottom"> Antonio Cabreros Avendaño, <hi
