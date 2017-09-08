@@ -108,7 +108,6 @@
       </div>
         -->
     <front>
-      <div>
         <head>Introducción</head>
         <div>
           <head>1. Título: De la polémica epistolar a los grandes comentarios</head>
@@ -3404,10 +3403,9 @@
             </div>
           </div>
         </div>
-      </div>
+      
     </front>
     <body>
-      <div>
         <head>ANOTACIONES A LA SEGUNDA SOLEDAD DE DON LUIS DE GONGORA POR PEDRO DIAZ<note
             place="margin"> Natural de Córdoba v<hi rend="sup">e.</hi> Bibl. Hisp. tomo 2 pág.
             150 –– v<hi rend="sup">e.</hi> hic pág. 68.</note><note place="bottom"> La nota
@@ -8162,7 +8160,7 @@
                   Philosophica</hi>, 1830: p. 453).</note>.</quote></p>
           <p>Laudetur Christus</p>
         </div>
-      </div>
+      
     </body>
   </text>
 </TEI>
