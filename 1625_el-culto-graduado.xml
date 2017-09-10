@@ -58,7 +58,7 @@
   </teiHeader>
   <text>
     <front>
-      <p><!--1625_el-culto-graduado</p>
+      <!--1625_el-culto-graduado</p>
       <div type="standard">
         <head>Datos bibliográficos</head>
         <table>
@@ -113,8 +113,7 @@
             <cell>1614_advertencias</cell>
           </row>
         </table>
-      </div>--></p>
-      <div>
+      </div>-->
         <head>Introducción<note place="bottom">Este trabajo se inscribe también en el marco del Proyecto I+d+i del MINECO <hi rend="i">La novela corta del siglo XVII: estudio y edición (y II)</hi> (2014-2018) (FFI2013-41264-P). Agradezco las precisas y atentas sugerencias de Mercedes Blanco (Universidad de la Sorbona) y su ‘cónclave digital’, Jaime Galbarro, Sara Pezzini y Héctor Ruiz, bien como a Antonio Carreira y Pedro Conde Parrado por sus atentas lecturas.</note></head>
         <div>
           <head>1. [Título] <hi rend="i">Ritratto di un</hi> «culto» <hi rend="i">in un interno</hi></head>
@@ -508,7 +507,6 @@
             <bibl>—, «<hi rend="i">Lector in fabula: La cruel aragonesa</hi> de Castillo Solórzano o de la dama monstruo», <hi rend="i">Edad de Oro</hi>, XXIII (2014), p. 241-256.</bibl>
           </div>
         </div>
-      </div>
     </front>
     <body>
       <index indexName="resp" n="Castillo Solórzano, Alonso de"/>
