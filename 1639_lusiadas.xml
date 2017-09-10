@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1614_parecer">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,7 +41,7 @@
   </teiHeader>
   <text>
     <body>
-      <p rend="heading" xml:lang="fr">Lusiadas / de Luis de Camoens, / principe de los poetas de España / comentadas por Manuel de Faria i Sousa</p>
+      <head>Lusiadas / de Luis de Camoens, / principe de los poetas de España / comentadas por Manuel de Faria i Sousa</head>
       <div>
         <head>Vida del poeta</head>
         <div>
