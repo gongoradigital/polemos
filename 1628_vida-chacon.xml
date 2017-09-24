@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1628_vida-chacon">
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -745,7 +746,7 @@
             después de hablar de otros fuegos en su <hi rend="i">Praxis alchimiae</hi>, concluye que
               «<hi rend="i">Hoc intensior est ignis cinerum</hi>» (Francofurti: Ioanes Saurius,
             1604, p. 17).</note> de tantos amigos se había apagado. Juntolas en vida de <persName 
-            type="polemist" key="Góngora, Luis de" key="Góngora, Luis de">don Luis</persName> con afición y cuidado, comunicolas<note place="bottom">
+            type="polemist" key="Góngora, Luis de">don Luis</persName> con afición y cuidado, comunicolas<note place="bottom">
             Se emplea en el texto «la regla de que los pronombres inacentuados en principio de frase
             o después de una pausa habían de ir tras el verbo pero en los demás casos se les
             anteponían» (Lapesa 1981: 407). </note> con él con libertad y doctrina<note
