@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<!--?xml-stylesheet type="text/xsl" href="tools/polemos2graph.xsl"?-->
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1660_apologetico">
   <!--Odette: 2017-08-26T13:43:26+02:00-->
   <teiHeader>
@@ -321,7 +321,7 @@
         </quote>
         <p>O el siguiente:</p>
         <quote>
-          <p>Georgica <hi rend="i">em.</hi> : Georgia <hi rend="i">AB</hi> [Enmienda recogida en la fe de erratas. En el testimonio <seg rend="fuentedeparrafopredeter">A</seg> encontramos la corrección manuscrita: Georgica.</p>
+          <p>Georgica <hi rend="i">em.</hi> : Georgia <hi rend="i">AB</hi> [Enmienda recogida en la fe de erratas. En el testimonio <hi rend="i">A</hi> encontramos la corrección manuscrita: Georgica.</p>
         </quote>
         <p>Entre las demás enmiendas añadidas en <hi rend="i">B</hi> hay casos de <hi rend="i">lectio facilior</hi>, como cuando se cambia el título de Fulgencio Maldonado en la firma y el título de su censura, pese a que como miembro de la orden militar de San Juan merece el que trae <hi rend="i">A</hi>:</p>
         <quote>
@@ -1281,7 +1281,7 @@
           <quote xml:lang="la" rend="i">Muscae cum in oleo moriuntur ac putrescunt ipsius suauitatem
             corrumpunt; liuor autem ea, quae recta sunt, inficere quidem volet ille, sed non
             poterit; omnium enim rerum fortissima est veritas<note place="bottom">
-              <persName type="authority" key="Gregorio Nacianceno">Gregorio Nacianceno</persName>, <hi rend="i"
+              <persName type="authority" key="Gregorio Nacianceno" precision="4" unit="quote" quantity="1">Gregorio Nacianceno</persName>, <hi rend="i"
                 >Orationes</hi>, XXIII [XIII] (<hi rend="i">Tertia de pace</hi>), 4: ‘Las moscas que
               mueren y se pudren en el aceite corrompen esa materia tan suave. Así la envidia quiere
               infectar lo bueno pero no puede. La verdad siempre prevalece sobre todas las cosas’.
@@ -8253,8 +8253,8 @@
                 type="app" rend="I"> Illescas <hi rend="i">em.</hi> : Illes as <hi rend="i">A</hi>
                 || Nescas <hi rend="i">B</hi></note> Hist. Pont. clem. 7</note><note place="bottom">
               Gonzalo de Illescas, <hi rend="i">Segunda parte de la historia pontifical y
-                católica</hi> (<seg rend="valor">Salamanca: en casa de Vincente de Portonariis,
-                1573</seg>), lib. 6, cap. XXIV (vida de León X), § VIII «De la conquista y
+                católica</hi> (Salamanca: en casa de Vincente de Portonariis,
+                1573), lib. 6, cap. XXIV (vida de León X), § VIII «De la conquista y
               conversión de la Nueva España y de la gran ciudad de México y parte de los
               esclarecidos hechos del famoso Hernando Cortés, marqués del Valle»: «Para remediar
               todos estos inconvenientes, después de haber revuelto en su pecho muy grandes cosas,
