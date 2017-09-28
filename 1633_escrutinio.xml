@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1633_escrutinio">
   <teiHeader>
     <fileDesc>
@@ -1700,6 +1701,7 @@
       
   </front>
         <body>
+          <div>
           <index indexName="resp" n="Pérez de Ribas, José"/>
         <head>Escrutinio sobre las impresiones de las obras poéticas de don <persName type="polemist" key="Góngora, Luis de"
             >Luis de Góngora y Argote</persName><note place="bottom">Véase «Título».</note></head>
@@ -3485,7 +3487,7 @@
             Aun sin ser él el colector, sería bastante lógico que quisiera publicitar este
             manuscrito que corrige los errores que va enumerando en su texto.</note>; y
           será la paga dejar su nombre glorioso a buen seguro.</p>
-      
+          </div>
         </body>
   </text>
 </TEI>
