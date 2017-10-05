@@ -3,7 +3,7 @@
 
 * [1613_carta-amigo](1613_carta-amigo.xml)
 * [1614_parecer](1614_parecer.xml)
-* [1616,soledad-segunda-diaz](1616_soledad-segunda-diaz.xml)
+* [1616,soledad-segunda-diaz](1616,soledad-segunda-diaz.xml)
 * [1617_pasajero-figueroa](1617_pasajero-figueroa.xml)
 * [1621_censura-lope](1621_censura-lope.xml)
 * [1624,nochesclaras](1624,nochesclaras.xml)
@@ -17,7 +17,7 @@
 * [1631_obras-quevedo](1631_obras-quevedo.xml)
 * [1633_escrutinio](1633_escrutinio.xml)
 * [1633_tragedia](1633_tragedia.xml)
-* [1635,epistolas](1635_epistolas.xml)
+* [1635,epistolas](1635,epistolas.xml)
 * [1636,ilustracion1](1636,ilustracion1.xml)
 * [1636,ilustracion2](1636,ilustracion2.xml)
 * [1636_compendio-poetico](1636_compendio-poetico.xml)
