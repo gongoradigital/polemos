@@ -1,12 +1,25 @@
-Site Github
-http://gongoradigital.github.io/polemos/
 
+[http://gongoradigital.github.io/polemos/](http://gongoradigital.github.io/polemos/)
 
-[2016-01-11]
-Importation du projet Góngora de svn vers GitHub.
-
-[2016-01-14]
-Tentative de commit via tortoise git
-
-[2016-04-19]
-François-Xavier arrive dans l’équipe
+* [1613_carta-amigo](1613_carta-amigo.xml)
+* [1614_parecer](1614_parecer.xml)
+* [1616_soledad-segunda-diaz](1616_soledad-segunda-diaz.xml)
+* [1617_pasajero-figueroa](1617_pasajero-figueroa.xml)
+* [1621_censura-lope](1621_censura-lope.xml)
+* [1624,nochesclaras](1624,nochesclaras.xml)
+* [1624_colmenares-contra-lope](1624_colmenares-contra-lope.xml)
+* [1624_discurso-poetico](1624_discurso-poetico.xml)
+* [1624_opusculo-curioso](1624_opusculo-curioso.xml)
+* [1625_el-culto-graduado](1625_el-culto-graduado.xml)
+* [1628_vida-chacon](1628_vida-chacon.xml)
+* [1629_pusilipo-figueroa](1629_pusilipo-figueroa.xml)
+* [1630_vida-mayor](1630_vida-mayor.xml)
+* [1631_obras-quevedo](1631_obras-quevedo.xml)
+* [1633_escrutinio](1633_escrutinio.xml)
+* [1633_tragedia](1633_tragedia.xml)
+* [1635_epistolas](1635_epistolas.xml)
+* [1636,ilustracion1](1636,ilustracion1.xml)
+* [1636,ilustracion2](1636,ilustracion2.xml)
+* [1636_compendio-poetico](1636_compendio-poetico.xml)
+* [1639,lusiadas](1639,lusiadas.xml)
+* [1660_apologetico](1660_apologetico.xml)
