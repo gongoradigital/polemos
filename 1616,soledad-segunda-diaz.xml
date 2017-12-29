@@ -1,43 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1616_soledad-segunda-diaz">
-      <div>
-        <head>16. <quote><l rend="center">al lascivo ostión<note place="bottom">
-              <ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.83"
-                >OC264C.83</ref></note></l></quote></head>
-        <p>Llámanle los griegos y latinos <hi rend="i">ostreum</hi> de la voz griega <hi rend="i"
-            >ostrea</hi> que significa la concha o hueso con que fortalece lo blando de la carne
-          interior. Contábase entre las delicias de los romanos; fuera de esto, es incentivo de la
-          lujuria como dice el poeta. Y ansí el <persName type="authority">Jovio</persName>
-          <hi rend="i">in</hi>
-          <title>tractatu de piscibus</title>: <quote><hi rend="i">In uniuersum ostrea, ut ait
-              Galenus, falsum humorem aggenerant, et praesertim si cruda comendantur, propterea
-              tentiginem</hi><note type="app" rend="I"> tentiginem <hi xml:lang="fr" rend="i"
-                >em.</hi>: tentoginem<hi xml:lang="fr" rend="i"> CS</hi></note><hi rend="i">in
-              salacibus plurimum adaugent</hi><note place="bottom"> Pauli Iovii Novocomensis Medici
-              et Episcopi Nucerini, <hi xml:lang="fr" rend="i">De Romanis piscibus libellus</hi>,
-              Basileae: per Henricum Petri et Petrum Pernam, 1561. Cap. XLI <hi rend="i">De Ostreis
-                et aliis testaceis</hi>, p. 177: ‘En general, las ostras, como afirma Galeno,
-              generan un humor vicioso, sobre todo si se consumen crudas: y a causa de ello
-              potencian la erección en los hombres lujuriosos’.</note></quote>; <persName
-            type="authority">Platina</persName>, lib. 9. <title>De honesta voluptate</title>:
-              <quote><hi rend="i">de ostreis dicamus, quae, quia demortuam etiam venerem</hi><note
-              type="app" rend="I"> demortuam etiam venerem<hi xml:lang="en" rend="i"> em. et
-                add</hi>: demortram venerem <hi xml:lang="en" rend="i">CS</hi></note><hi rend="i"
-              >excitant, apud lautos et libidinosos in precio sunt</hi><note place="bottom"> Sacchi,
-              Bartolommeo, llamado «Il Platina», <hi xml:lang="it" rend="i">De honesta voluptate et
-                valetudine</hi>…, Parisiis: In aedibus Ioannis Parui, 1530, f. I.XXXIX vº: ‘hablemos
-              de las ostras que, porque estimulan la potencia sexual amortiguada, son muy apreciadas
-              por los sibaritas y libidinosos’. La cita no corresponde al libro IX sino al X <hi
-                rend="i">De coquendis piscibus, De Ostreis.</hi> Bartolomeo Sacchi, conocido como el
-              Platina (1421-1481), humanista, escritor, maestro y gastrónomo, fue prefecto de la
-              biblioteca del Vaticano. Es el autor del primer libro de cocina del siglo XV, impreso
-              en los tiempos modernos (<hi xml:lang="it" rend="i">De honesta voluptate et
-                valitudine</hi>, 1475), que es el aquí citado. Se le deben varias obras muy
-              eruditas, entre las cuales se destaca una <hi xml:lang="it" rend="i">Vida de los
-                papas</hi>.</note>.</quote></p>
-      </div>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -3879,6 +3842,43 @@
           en el barco sacaron las menores, que las otras no pudieron sino desde la playa con ayuda
           de jabegueros<note place="bottom"> Se dice ‘jabegueros’ a los pescadores de las
             embarcaciones de pesca llamadas jábegas.</note>.</p>
+      </div>
+      <div>
+        <head>16. <quote><l rend="center">al lascivo ostión<note place="bottom">
+          <ref
+            target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.83"
+            >OC264C.83</ref></note></l></quote></head>
+        <p>Llámanle los griegos y latinos <hi rend="i">ostreum</hi> de la voz griega <hi rend="i"
+          >ostrea</hi> que significa la concha o hueso con que fortalece lo blando de la carne
+          interior. Contábase entre las delicias de los romanos; fuera de esto, es incentivo de la
+          lujuria como dice el poeta. Y ansí el <persName type="authority">Jovio</persName>
+          <hi rend="i">in</hi>
+          <title>tractatu de piscibus</title>: <quote><hi rend="i">In uniuersum ostrea, ut ait
+            Galenus, falsum humorem aggenerant, et praesertim si cruda comendantur, propterea
+            tentiginem</hi><note type="app" rend="I"> tentiginem <hi xml:lang="fr" rend="i"
+              >em.</hi>: tentoginem<hi xml:lang="fr" rend="i"> CS</hi></note><hi rend="i">in
+                salacibus plurimum adaugent</hi><note place="bottom"> Pauli Iovii Novocomensis Medici
+                  et Episcopi Nucerini, <hi xml:lang="fr" rend="i">De Romanis piscibus libellus</hi>,
+                  Basileae: per Henricum Petri et Petrum Pernam, 1561. Cap. XLI <hi rend="i">De Ostreis
+                    et aliis testaceis</hi>, p. 177: ‘En general, las ostras, como afirma Galeno,
+                  generan un humor vicioso, sobre todo si se consumen crudas: y a causa de ello
+                  potencian la erección en los hombres lujuriosos’.</note></quote>; <persName
+                    type="authority">Platina</persName>, lib. 9. <title>De honesta voluptate</title>:
+          <quote><hi rend="i">de ostreis dicamus, quae, quia demortuam etiam venerem</hi><note
+            type="app" rend="I"> demortuam etiam venerem<hi xml:lang="en" rend="i"> em. et
+              add</hi>: demortram venerem <hi xml:lang="en" rend="i">CS</hi></note><hi rend="i"
+                >excitant, apud lautos et libidinosos in precio sunt</hi><note place="bottom"> Sacchi,
+                  Bartolommeo, llamado «Il Platina», <hi xml:lang="it" rend="i">De honesta voluptate et
+                    valetudine</hi>…, Parisiis: In aedibus Ioannis Parui, 1530, f. I.XXXIX vº: ‘hablemos
+                  de las ostras que, porque estimulan la potencia sexual amortiguada, son muy apreciadas
+                  por los sibaritas y libidinosos’. La cita no corresponde al libro IX sino al X <hi
+                    rend="i">De coquendis piscibus, De Ostreis.</hi> Bartolomeo Sacchi, conocido como el
+                  Platina (1421-1481), humanista, escritor, maestro y gastrónomo, fue prefecto de la
+                  biblioteca del Vaticano. Es el autor del primer libro de cocina del siglo XV, impreso
+                  en los tiempos modernos (<hi xml:lang="it" rend="i">De honesta voluptate et
+                    valitudine</hi>, 1475), que es el aquí citado. Se le deben varias obras muy
+                  eruditas, entre las cuales se destaca una <hi xml:lang="it" rend="i">Vida de los
+                    papas</hi>.</note>.</quote></p>
       </div>
       <div>
         <head>17. <quote><l rend="center">el congrio<note place="bottom">
