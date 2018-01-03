@@ -2175,10 +2175,9 @@
           diremos de sus composiciones de vuestra merced:<pb
             facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f131v.png"
             n="f. 131v"/></p>
-        <quote>
+        <quote><persName type="authority" key="Propercio" precision="4" unit="quote" quantity="1"></persName>
           <l>Cedite romani scriptores, cedite Graii,</l>
-          <l>Nescio quid majus nascitur Iliade<note place="bottom"><persName type="authority"
-                >Propercio</persName>, <title>Elegías</title>, II, 34, v. 65-66. «Silencio, escritores
+          <l>Nescio quid majus nascitur Iliade<note place="bottom">Propercio, <title>Elegías</title>, II, 34, v. 65-66. «Silencio, escritores
               romanos, silencio, griegos: algo está naciendo superior a la <hi rend="i">Iliada</hi>»
               (traducción propia). Así hablaba Propercio de la <hi rend="i">Eneida</hi>, aún en
               gestación, cuando escribió estos versos. El abad de Rute compara la novedad que
@@ -3155,8 +3154,7 @@
             Olimpio, Nemesiano, Tito, Calpurnio en sus <hi rend="i">Bucólicas</hi>» (Artigas 1925:
               417, modernizo la ortografía).</note>, <persName type="authority" key="Virgilio" precision="3">Virgilio</persName><note
             place="bottom">Citado por las <hi rend="i">Bucólicas</hi>, poema que definió el género
-                de la égloga.</note>, <persName type="authority" key="Titus
-                  Calpurnius Siculus" precision="3">Calpurnio</persName><note place="bottom">Titus
+                de la égloga.</note>, <persName type="authority" key="Titus Calpurnius Siculus" precision="3">Calpurnio</persName><note place="bottom">Titus
             Calpurnius Siculus, poeta latino contemporáneo de Nerón, autor de <hi rend="i"
               >Églogas</hi>. Primera edición: <hi rend="i">Calpurnii Eclogae VII. Nemesiani Eclogae
               IV</hi>, Romae: typis Conradi Sweynheym et Arnoldi Pannartz, 1471.</note>, <persName 
@@ -3741,7 +3739,7 @@
             ligeramente la traducción en prosa de Andrea Gilio, manteniéndose más fiel al texto
             virgiliano. Andrea Gilio escribía como equivalente de la hipálage: «<hi rend="i">tepidus
               locus novae caedis, sive pro nova caede</hi>».</note>. Del <persName type="authority" key="Petrarca" precision="2" unit="quote" quantity="1">
-                >Petrarca</persName> trae un ejemplo el mismo <persName type="authority" key="Fabriano, Giovanni Andrea Gilio" precision="4" unit="quote" quantity="1">Juan Andrea
+                Petrarca</persName> trae un ejemplo el mismo <persName type="authority" key="Fabriano, Giovanni Andrea Gilio" precision="4" unit="quote" quantity="1">Juan Andrea
           Gilio</persName>:</p>
         <quote>
           <l>L’altro è colui che’l re di Siria cinse</l>
