@@ -4567,11 +4567,11 @@
                 «bajo especie de perfección» (« <hi rend="i">specie recti</hi> »). Como se irá
                 viendo, la famosa sentencia de Horacio, posiblemente citada de memoria, sirve de
                 piedra angular y de leitmotiv al discurso. </note> aquellas sentencias comunes del
-              <persName type="authority" key="Horacio" precision="3">gran Lírico</persName><note place="margin"> Ad Pisones.</note>:
+              <persName type="authority" key="Horacio" precision="4" unit="quote" quantity="3">gran Lírico</persName><note place="margin"> Ad Pisones.</note>:
                   «<quote><hi rend="i">Maxima pars vatum decipimur specie recti. In vitium ducit
                   culpae fuga, si caret arte</hi>»<note place="bottom"> Son fragmentos desgajados de
                   un pasaje del «gran Lírico» por antonomasia, que es al propio tiempo sumo maestro
-                  del «arte» poética: <persName type="authority" key="Horacio" precision="3">Horacio</persName>, <hi rend="i">Ars
+                  del «arte» poética: Horacio, <hi rend="i">Ars
                     poetica</hi>, 24-31: «Maxima pars vatum, <hi rend="i">pater et iuvenes patre
                     digni</hi>/ decipimur specie recti. <hi rend="i">Brevis esse laboro,/ obscurus
                     fio: sectantem lenia nervi/ deficiunt animique: professus grandia turget;/
@@ -4629,7 +4629,7 @@
               vitupero los engañosos medios, y los errados efectos en la ejecución. Porque,
               aspirando a lo excelente y mayor, sólo aprehenden lo liviano y lo menos. Y, creyendo
               usar valentías y grandezas, sólo ostentan hinchazones vanas y temeridades inútiles.
-              Advirtiolo en breve <persName type="authority" key="Quintiliano" precision="3">Quintiliano</persName> donde dijo<note
+              Advirtiolo en breve <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="2">Quintiliano</persName> donde dijo<note
                 place="margin"> lib. 10. c. 2.</note>: ‘<quote>Hay autores que se abrazan de los
                 vicios cercanos a las virtudes; en vez de ser grandes son hinchados y, en vez de
                 fuertes, temerarios</quote>’. «<quote><hi rend="i">Proxima virtutibus vitia
@@ -4665,7 +4665,7 @@
                 desmañado. Aunque Quintiliano es autoridad de primer plano en nuestro texto, aquí J. solo apela a él para que rubrique lo dicho por Horacio: los
                 malos poetas se engañan confundiendo un fin loable con su caricatura. Por lo demás
                 Horacio es una de las fuentes de inspiración de la <hi rend="i">Institutio
-                  oratoria</hi>. Véase Calboli (1995).</note>. Luego <persName type="authority" key="Aulo Gelio" precision="4" unit="quote" quantity="1">Gelio</persName>, acerca de los estilos<note place="margin"> lib 7, c. 14. </note>:
+                  oratoria</hi>. Véase Calboli (1995).</note>. Luego <persName type="authority" key="Aulo Gelio" precision="4" unit="quote" quantity="2">Gelio</persName>, acerca de los estilos<note place="margin"> lib 7, c. 14. </note>:
                 ‘<quote>Para estas virtudes (dice) hay otros tantos vicios, que mienten su modo y su
                 hábito con falsos simulacros; así muchas veces los hinchados y llenos de viento
                 engañan por abundantes y fértiles’. </quote>«<quote><hi rend="i">His
@@ -4730,8 +4730,8 @@
                 allá y es incapaz de progresar con firmeza y virilmente […]. Los que no pueden
                 desenvolverse con facilidad en ese habla tenue tan agradable, caen en un género
                 árido y exangüe al que viene de perlas el nombre de escuálido’). </note> el <persName 
-                type="authority" key="Demetrio Falereo" precision="3">Autor a Herenio</persName><note place="margin"> Rhetor. lib. 4.</note>.
-              Y antes que todo <persName type="authority" key="Demetrio Falereo" precision="3">Demetrio Falereo</persName><note place="margin"> De
+                type="authority" key="Autor a Herenio" precision="3">Autor a Herenio</persName><note place="margin"> Rhetor. lib. 4.</note>.
+              Y antes que todo <persName type="authority" key="Demetrio Falereo" precision="4" unit="quote" quantity="1">Demetrio Falereo</persName><note place="margin"> De
                   elocutione.</note> definiendo en particular esta demasía y sellando mi intento: ‘<quote>De la
                 manera </quote>(dice) <quote>que algunos malos defectos se acercan a virtudes
                 loables, como la sobrada vergüenza a la modestia, y el arrojamiento al valor, de la
@@ -4790,14 +4790,14 @@
                   retórica de Horacio en la citada obra del Brocense, impresa en Salamanca en 1591,
                   pero también en algún otro de los muchos comentarios del <hi rend="i">Arte
                     poética</hi> de Horacio que venían publicándose desde los inicios del humanismo
-                  (Mañas 2012). </note>. Diremos primero del que se acerca al estilo magnífico. A
-                  este vicio le llaman frígido, cuyo nombre define </quote><persName type="authority" key="Teofrasto" precision="4" unit="quote" quantity="1">Teofrasto</persName><quote>, diciendo: ‘Frígida locución es aquella que sobra a si
+                  (Mañas 2012). </note></quote>. Diremos primero del que se acerca al estilo magnífico. A
+                  este vicio le llaman frígido, cuyo nombre define <persName type="authority" key="Teofrasto" precision="4" unit="quote" quantity="1">Teofrasto</persName>, diciendo: <quote>‘Frígida locución es aquella que sobra a si
                 propia, y a lo mismo que pretende decir</quote>’. Traducido por <persName 
                   type="authority" key="Victorio, Pedro" precision="4" unit="quote" quantity="1">Pedro Victorio</persName>, suena así: «<quote><hi rend="i">Quemadmodum
                   autem sunt improba quaedam quibusdam probis, ac laude dignis, ceu fidentiae quidem
                   audacia, verecundia autem pudori, eodem pacto locutionis notis vicinae sunt
                   vitiosae quaedam. Primum autem de ea, quae vicina est magnificae dicamus. Nomen
-                  igitur ipsi impositum est frigidum: definit autem frigidum Theophrastus hoc pacto.
+                  igitur ipsi impositum est frigidum: definit autem frigidum <persName type="authority" key="Teofrasto" precision="1">Theophrastus</persName> hoc pacto.
                   Frigidum est quod excedit suam, propriamque enuntiationem</hi></quote>»<note
                 place="bottom"> La cita está copiada y traducida con exactitud. J. declara que
                 procede de la traducción de «Pedro Victorio». Se refiere a la edición del <hi
@@ -4820,9 +4820,9 @@
               espíritu, le desgracia y le hiela.</p>
             <p>Lastimosos efectos de la demasía, siempre más ostensible que la cortedad<note
                 place="margin"> In Oratore.</note>. «<quote><hi rend="i">Etsi enim suus cuique modus
-                  est</hi></quote> (dice <persName type="authority" key="Cicerón" precision="3">Tulio</persName> a Bruto) <quote><hi
+                  est</hi></quote> (dice <persName type="authority" key="Cicerón" precision="4" unit="quote" quantity="1">Tulio</persName> a Bruto) <quote><hi
                   rend="i">tamen magis offendit nimium quam parum</hi></quote>»<note place="bottom">
-                <persName type="authority" key="Cicerón" precision="3">Cicerón</persName>, <hi rend="i">Orator</hi>, XXII, 73: «<hi
+                Cicerón, <hi rend="i">Orator</hi>, XXII, 73: «<hi
                   rend="i">In omnibusque rebus videndum est quatenus;</hi> etsi enim suus cuique
                 modus est, tamen magis offendit nimium quam parum<hi rend="i">; in quo Apelles
                   pictores quoque eos peccare dicebat qui non sentirent quid esse satis</hi>» (‘En
@@ -4960,7 +4960,7 @@
                 Por error el folio 4 lleva el número 7 en el ejemplar de la Complutense que
                 transcribo.</note>, porque peleen con armas, y sepan lo más que se halla en defensa
               aparente de sus demasías<note place="margin"> De tranquil. an. in fine.</note>.
-              ‘<quote>No puede hablar cosas grandes </quote>(dice <persName type="authority" key="Séneca" precision="4" unit="quote" quantity="1">Séneca</persName>) <quote>y superiores a otros, sino conmovida la mente<note
+              ‘<quote>No puede hablar cosas grandes </quote>(dice <persName type="authority" key="Séneca" precision="4" unit="quote" quantity="2">Séneca</persName>) <quote>y superiores a otros, sino conmovida la mente<note
                   place="bottom"> El texto de Séneca, citado justo después, dice literalmente :
                   «Solo la mente conmovida [<hi rend="i">mota mens</hi>] puede hablar algo grande y
                   superior a los demás». J. traduce dando a ‘mente conmovida’ papel adverbial e
@@ -5113,7 +5113,7 @@
               barra, que desliza de la mano y quebranta el brazo, dejando el tiro más corto en vez
               de adelantarle. Ejemplos de estos desaires se refieren por grandes poetas. Cuando el
               esgrimidor o <hi rend="i">pugil</hi> Entelo levantó la diestra con mayor ímpetu para
-              aterrar al contrario, entonces (dice <persName type="authority" key="Virgilio" precision="3">Virgilio</persName><note
+              aterrar al contrario, entonces (dice <persName type="authority" key="Virgilio" precision="4" unit="quote" quantity="1">Virgilio</persName><note
                   place="margin"> Aenedi.5.</note>) se vio el mismo ir a tierra con gran
                 fracaso<note place="bottom"> FRACASO. «Precipicio, caída o ruina de alguna cosa, por
                 lo regular con quiebra y rompimiento. Latín. <hi rend="i">Casus. Excidium.
@@ -5132,7 +5132,7 @@
                   propio peso, cayó pesadamente en el suelo’. La cita es acorde con el texto en las
                   ediciones actuales, que sin embargo leen «Entellus».</note>.</l>
             </quote>
-            <p>Y, en los juegos que describe <persName type="authority" key="Estacio" precision="3">Estacio</persName>, cuando
+            <p>Y, en los juegos que describe <persName type="authority" key="Estacio" precision="4" unit="quote" quantity="1">Estacio</persName>, cuando
               Partenopeo se adelantaba a todos en la carrera, y ponía más esfuerzo en tocar la meta,
               entonces lloró su caída y su pérdida<note place="margin"> li 6 Theb..</note>:</p>
             <quote>
@@ -5297,13 +5297,14 @@
                 por consiguiente sus palabras ‘peregrinas’ carecen de legitimidad. </note>. Lo mismo
               repite en diversas partes. Ignorancia sería que, atenidos a este precepto, usásemos en
               poesía castellana mixtura de voces latinas, italianas, francesas o tudescas. Sería
-              abusar torpemente de la permisión del Filósofo, y calumniarle sin causa. Él habla en
+              abusar torpemente de la permisión del <persName 
+                type="authority" key="Aristóteles" precision="3">Filósofo</persName>, y calumniarle sin causa. Él habla en
               estos lugares observando el estilo de <persName type="authority" key="Homero" precision="3">Homero</persName>,
               <pb n="f. 6r"/> que insertó en sus poemas, no peregrinos lenguajes de otras naciones,
               que es engaño, sino la diversidad de dialectos que usaban las provincias de Grecia,
               cuyas hablas diferían algo, mas reputándose todas por lengua griega. Los dialectos
               eran el ático, jónico, dórico, eólico, y el común. Así lo observan los gramáticos,
-              mayormente <persName type="authority" key="Plutarco" precision="3">Plutarco</persName> donde comienza: «<quote><hi rend="i"
+              mayormente <persName type="authority" key="Plutarco" precision="4" unit="quote" quantity="1">Plutarco</persName> donde comienza: «<quote><hi rend="i"
                   >Dictione varia usus Homerus cuius libet linguae Graecorum insignia
                 immiscuit</hi></quote>»<note place="bottom"> Anota Melchora Romanos que el texto
                 procede del <hi rend="i">De vita et poesi Homeri</hi>, II, 8, opúsculo (mal)
@@ -5330,11 +5331,11 @@
                 sido numeradas a mano y la cita se halla en la parte latina del libro, p. 216. Es
                 posible que un ejemplar de esta obra llegara a manos de J. pero también cabe pensar
                 que la frase se diseminara por diccionarios, gramáticas o
-                enciclopedias.</note><quote>.</quote> Lo insigne de las lenguas de Grecia dice que
+                enciclopedias.</note>. Lo insigne de las lenguas de Grecia dice que
               mezcló, no de las distantes y extrañas. Esta mixtura, pues, tenía observada <persName 
-                type="authority" key="Aristóteles" precision="3">Aristóteles </persName>en las obras de Homero, y a ella mira en los
+                type="authority" key="Aristóteles" precision="3">Aristóteles</persName> en las obras de Homero, y a ella mira en los
               lugares citados, conociendo que era toda una lengua, en cuanto ser toda griega. Al
-              modo mismo considera <persName type="authority" key="Quintiliano" precision="3">Quintiliano</persName><note place="margin"> lib.I, c.
+              modo mismo considera <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="1">Quintiliano</persName><note place="margin"> lib.I, c.
                   2.</note> la suya latina, donde diferenciaban algo los tuscos, sabinos,
               prenestinos y patavos<note place="bottom"> Como indica Melchora Romanos, la
                 localización marginal de la cita en <hi rend="i">Institutio oratoria</hi>, I, 2 es
@@ -5343,8 +5344,8 @@
                 pequeños en casa o mandarlos a la escuela. Las secciones siguientes, que tratan del
                 niño ya párvulo en la escuela de un maestro de gramática, abordan el aprendizaje de
                 la lengua escrita. Quintiliano se ocupa de la corrección del vocabulario y de la
-                sintaxis en los capítulos 4 y 5. </note> y, porque Veccio usaba voces de todos, le
-              reprende <persName type="authority" key="Lucilio" precision="3">Lucilio</persName>, no obstante que era todo lengua
+                sintaxis en los capítulos 4 y 5. </note> y, porque <persName type="authority" key="Veccio" precision="1">Veccio</persName> usaba voces de todos, le
+              reprende <persName type="authority" key="Lucilio" precision="1">Lucilio</persName>, no obstante que era todo lengua
               romana: «<quote><hi rend="i">Licet omnia Italica pro Romanis habeam</hi></quote>»<note
                 place="bottom"> J. recoge una <hi rend="i">sententia</hi> de Quintiliano, con un
                 colorido patriótico muy propio de este autor, extraída del pasaje en que aconseja al
@@ -5358,7 +5359,8 @@
                 ¡dejéseme pensar que todo lo itálico es patrimonio romano!’).</note>. Como si en
               Castilla usásemos voces particulares de Andalucía o Aragón, o como si en poesía
               toscana se insertasen dicciones y modos de otras provincias de Italia, donde, aunque
-              hay alguna diferencia, todo al fin es lenguaje italiano. No permite más el filósofo,
+              hay alguna diferencia, todo al fin es lenguaje italiano. No permite más <persName 
+                type="authority" key="Aristóteles" precision="3">el filósofo</persName>,
               ni cabía en tan sabio juicio consentir a los poetas la mezcla de lenguas remotas, como
               algunos entienden, por <pb n="f. 6v"/> no entenderle. Cinuclo en <persName 
                 type="authority" key="Ateneo" precision="4" unit="quote" quantity="1">Ateneo</persName> advierte<note place="margin"> li.3 c. 21.</note>,
@@ -5390,7 +5392,7 @@
                   como la bilingüe greco-latina de Isaac Casaubon, cuya prínceps es de 1597. No hay
                   indicios suficientes para decir cuál manejó J. o si se trata, como parece probable
                   en este caso y en otros varios de este capítulo del discurso, de una cita de
-                  segunda mano. </note></quote>. <persName type="authority" key="Ovidio" precision="3">Ovidio</persName>, en su
+                  segunda mano. </note></quote>. <persName type="authority" key="Ovidio" precision="4" unit="quote" quantity="1">Ovidio</persName>, en su
               destierro del Ponto, como quien se recela de incurrir en un gran barbarismo, dice<note
                 place="margin"> de Trist. li 4, eleg 41.</note>: ‘<quote>Creedme que llego a temer
                 no leáis mezcladas en mis versos algunas palabras pónticas</quote>’<note
@@ -5429,8 +5431,8 @@
                   Astronomicon libri quinque. Josephus Scaliger Jul. Caes. F. recensuit ac pristino
                   ordini suo restituit. Eiusdem Ios. Scaligeri Commentarius</hi> […]. París: Robert
                 Estienne, 1579. El texto se conserva sin cambios en las ediciones modernas y es
-                fielmente citado por J.</note><quote>.</quote> Escándalo fue de <persName 
-                type="authority" key="Aulo Gelio" precision="3">Gelio</persName> la licencia de <persName type="authority" key="Laberio" precision="3">Laberio</persName>
+                fielmente citado por J.</note>. Escándalo fue de <persName 
+                type="authority" key="Aulo Gelio" precision="4" unit="quote" quantity="1">Gelio</persName> la licencia de <persName type="authority" key="Laberio" precision="3">Laberio</persName>
                 poeta<note place="margin"> li. 7. c. 16.</note>, y aun desvergüenza la llama, sólo
               porque alteró algunas voces latinas, no porque las usurpase de otras lenguas, pues los
               ejemplos que alega son de esta especie: «<quote><hi rend="i">adulteritatem,
@@ -5459,9 +5461,9 @@
                   petulantiusque</hi>. Como sospecha Jesús Ponce, la facilidad con que acuden esas
                 calificaciones ofensivas a la mente de nuestro autor podría obedecer al conocimiento
                 más o menos difuso de que en los mimos eran habituales la desnudez y los
-                bailes con contorsiones e incitación lúbrica.</note>. En <persName type="authority" key="Virgilio" precision="3">Virgilio</persName> son bien notables tres o cuatro extranjeras, que se llevaron a la
+                bailes con contorsiones e incitación lúbrica.</note>. En <persName type="authority" key="Virgilio" precision="4" unit="quote" quantity="3">Virgilio</persName> son bien notables tres o cuatro extranjeras, que se llevaron a la
               latinidad: <hi rend="i">gaza</hi>, del persa; <hi rend="i">uri, d</hi>el galo; <hi
-                rend="i">magalia</hi>, del afro. A que añade <persName type="authority" key="Macrobio" precision="3">Macrobio</persName><note
+                rend="i">magalia</hi>, del afro. A que añade <persName type="authority" key="Macrobio" precision="4" unit="quote" quantity="1">Macrobio</persName><note
                   place="margin"> Satur. li.6. cap. 4.</note> la voz <hi rend="i"
                 >camuris</hi><note place="bottom"> Macrobio, <hi rend="i">Saturnales</hi>, VI, 4,
                 22: «<hi rend="i">Sed hac licentia largius usi sunt veteres, parcius Maro; quippe
@@ -5485,12 +5487,12 @@
                 Macrobio, <hi rend="i">Aurelii Macrobii Ambrosii Theodosii In somnium Scipionis
                   libri II. Eiusdem Conviviorum Saturnaliorum libri VII</hi>, París: Henri Estienne,
                 1585, p. 477.</note>, como peregrina, aunque sin darnos su origen. Y es de advertir
-              que no fue el primero Virgilio en introducir estas voces<note place="margin"> Lucre.
+              que no fue el primero <persName type="authority" key="Virgilio" precision="3">Virgilio</persName> en introducir estas voces<note place="margin"> Lucre.
                 de rer na li.2. Caes. de bel. gal; L. 6. Sallust de be. Iug.</note>: que antes había
-              dicho <persName type="authority" key="Lucrecio" precision="3">Lucrecio</persName>, <hi rend="i">gazae</hi>; <persName 
-                type="authority" key="Julio César" precision="3">César</persName>, <hi rend="i">uri</hi> (son ciertos bueyes) y <persName 
-                type="authority" key="Salustio" precision="3">Salustio</persName>
-              <hi rend="i">mapalia</hi><note place="bottom">En su nota a este lugar (p. 74, n. 11),
+              dicho <persName type="authority" key="Lucrecio" precision="4" unit="quote" quantity="1">Lucrecio</persName>, <quote><hi rend="i">gazae</hi></quote>; <persName 
+                type="authority" key="Julio César" precision="4" unit="quote" quantity="1">César</persName>, <quote><hi rend="i">uri</hi></quote> (son ciertos bueyes) y <persName 
+                  type="authority" key="Salustio" precision="4" unit="quote" quantity="1">Salustio</persName>
+              <quote><hi rend="i">mapalia</hi></quote><note place="bottom">En su nota a este lugar (p. 74, n. 11),
                 Melchora Romanos ha localizado precisamente estas palabras. Copio los datos reunidos
                 por ella: «GAZA (palabra persa): tesoro real; en Virgilio, <hi rend="i">Eneida</hi>,
                 XI, v. 119; en Lucrecio, <hi rend="i">De rerum natura</hi>, II, 37. URI (palabra
@@ -5508,8 +5510,8 @@
                 4, 23, lo considera ‘<hi rend="i">vocabulum peregrinum</hi>’».</note>; indicio de
               que ya las tenía admitidas el latino. En efecto el usar los poetas palabras extrañas
                 <pb n="f. 7r"/> jamás oídas es caso muy singular, y vedado severamente por <persName 
-                  type="authority" key="Julio César" precision="4" unit="quote" quantity="1">Cayo César</persName><note place="margin">in A.Gel. li. 1. c.
-                10.</note>: ‘<quote>Ten siempre en la memoria</quote> (decía) y <quote>en el
+                  type="authority" key="Julio César" precision="4" unit="quote" quantity="2">Cayo César</persName><note place="margin">in A.Gel. li. 1. c.
+                10.</note>: ‘<quote>Ten siempre en la memoria</quote> (decía) <quote>y en el
                 corazón el huir, como de un escollo, las palabras inauditas e insólitas’</quote>.
                   «<quote><hi rend="i">Habe semper in memoria, atque in pectore, ut tamquam scopulum
                   sic fugias inauditum, atque insolens verbum</hi></quote>»<note place="bottom">Aulo
@@ -5536,7 +5538,7 @@
                 o forjadas. En base a ese capítulo debaten ásperamente Colmenares y Lope de Vega.
                 Véase 1624_colmenares-contra-lope.</note>. Palabras que no han de entenderse, ni
               mostrar nuestro intento, ¿de qué sirven? ¿o para qué se inventaron? Así lo pregunta el
-              jurisconsulto <persName type="authority" key="Tuberón" precision="3">Tuberón</persName> referido por <persName 
+              jurisconsulto <persName type="authority" key="Tuberón" precision="2">Tuberón</persName> referido por <persName 
                 type="authority" key="Juvencio Celso" precision="4" unit="quote" quantity="1">Celso</persName><note place="margin"> in lib. Labeo D. de supellectile
                   legata.</note>: «<quote><hi rend="i">Quorsum nomina, nisi ut demonstrent
                   voluntatam dicentis?</hi>»</quote><note place="bottom">La cita del jurisconsulto
@@ -5598,7 +5600,7 @@
                   xml:id="ref13" target="ref14">infra</ref></note>. Mas de esto se hablará a lo
               último. Las que admitió <persName type="authority" key="Virgilio" precision="3">Virgilio</persName> con más licencia, y
               otros latinos, fueron las griegas, como parientas de su lengua, y muy conocidas. Así
-              lo consiente <persName type="authority" key="Horacio" precision="3">Horacio</persName>, con escaseza: «<quote><hi rend="i"
+              lo consiente <persName type="authority" key="Horacio" precision="4" unit="quote" quantity="1">Horacio</persName>, con escaseza: «<quote><hi rend="i"
                   >Si Graeco fonte cadant, parce detorta</hi></quote>»<note place="bottom"> Horacio,
                   <hi rend="i">Ars poetica</hi>, v. 52-53: «<hi rend="i">Et nova fictaque nuper
                   habebunt verba fidem, si/ Graeco fonte cadent, parce detorta</hi>…». En la
@@ -5629,12 +5631,12 @@
                 opaca, puede hacerse fácil y brillante si se le prepara el terreno y se la inserta
                 con habilidad, arte que, según él, Góngora posee en grado sumo. Véase la edición de
                 Héctor Ruiz de 1660_apologético.</note>. Y por no hablar yo solo, oiremos a <persName 
-                  type="authority" key="Demetrio" precision="4" unit="quote" quantity="1">Demetrio</persName><note place="margin"> De elocutione.</note>:
+                  type="authority" key="Demetrio" precision="4" unit="quote" quantity="2">Demetrio</persName><note place="margin"> De elocutione.</note>:
                 ‘<quote>Debe proponer </quote>(dice)<quote> el que innova alguna dicción: lo
                 primero, que sea clara; demás de esto semejante a las que están en uso, no le
                 parezca a alguno que en medio de nuestra lengua y vocablos griegos admitimos los
                 frigios y scíticos’. «<hi rend="i">Proponere sibi oportet</hi>
-              </quote>(traduce Victorio)<quote><hi rend="i"> primum in novando nomine ut planum sit
+              </quote>(traduce <persName type="authority" key="Victorio" precision="3">Victorio</persName>)<quote><hi rend="i"> primum in novando nomine ut planum sit
                   et ex consuetudine; deinde similitudinem ad ea nomina quae usu</hi><note
                   type="app" rend="I"> En el ejemplar que manejo: <hi rend="i">in usu</hi> en vez de
                     <hi rend="i">usu</hi>.</note><hi rend="i"> sunt, ne aliquis videatur Phrygium
@@ -5722,7 +5724,7 @@
                 francés <hi rend="i">banquet.</hi></note>; y, siendo unas de baja etimología, otras
               tan usadas de los rústicos, nada las envilece, todas son nobles y hallan lugar en los
               versos porque acertó su forma a sonar de buen aire en nuestros oídos y ser bien acepta
-              al lenguaje. Así <persName type="authority" key="Teofrasto" precision="1">Teofrasto</persName> (alegado por <persName 
+              al lenguaje. Así <persName type="authority" key="Teofrasto" precision="2">Teofrasto</persName> (alegado por <persName 
                 type="authority" key="Demetrio" precision="3">Demetrio</persName>), definiendo cuál fuese la pulcritud<note
                 place="bottom"> Con manifiesto latinismo, y casi contradiciendo lo que él mismo
                 dice, J. traduce ‘pulchritudo’ por ‘pulcritud’, usando esta palabra con el sentido
@@ -5801,10 +5803,9 @@
                 se desadornen, ahoguen y confundan».</note>. No dejan verbo o nombre en su propio
               sentido sino remotos cuanto es posible; los fuerzan a que sirvan donde nunca pensaron,
               del todo repugnando al oficio en que los ocupan. Esta violencia de traslaciones
-              considera <pb n="f. 9r"/>ingeniosamente <persName type="authority" key="Vida, Girolamo" precision="3">Jerónimo Vida</persName><note
+              considera <pb n="f. 9r"/>ingeniosamente <persName type="authority" key="Vida, Girolamo" precision="4" unit="quote" quantity="2">Jerónimo Vida</persName><note
                   place="margin"> lib 3.</note>: ‘<quote>Hay autores inicuos</quote> (dice en
-              su <title>Poetica</title>) <quote>que ejercen</quote>
-              <quote>dura fuerza con las palabras: despojan las cosas de su forma nativa a pesar de
+              su <title>Poetica</title>) <quote>que ejercen dura fuerza con las palabras: despojan las cosas de su forma nativa a pesar de
                 ellas mismas, y oblíganlas violentamente a vestirse de ajenos aspectos’.
               </quote></p>
             <quote>
@@ -5884,7 +5885,7 @@
               nuestros, no sólo traslaciones tales, sino con aspereza doble, porque aun las mismas
               metáforas metaforizan. No juzgan suficiente un disfraz en la voz y oración, sino que
               la revisten con muchos y queda sumergido el concepto en la corpulencia exterior<note
-                place="margin"> Lucanus lib. 9.</note>: «<quote><hi rend="i">Ipse latet penitus
+                place="margin"> <persName type="authority" key="Lucano" precision="4" unit="quote" quantity="1">Lucanus</persName> lib. 9.</note>: «<quote><hi rend="i">Ipse latet penitus
                   congesto corpore mersus</hi><note place="bottom"> Lucano, <hi rend="i">De bello
                     civili</hi>, IX, 796: ‘…el hombre casi desaparece sumido en su propia
                   corpulencia’. El texto, idéntico al que se lee en las ediciones modernas,
@@ -5909,8 +5910,7 @@
             <p><pb n="f. 9v"/> Demás<note place="bottom"> Además de esto: forma común en la lengua
                 clásica (M. Romanos).</note> de esto han oído que la oración poética en estilo
               magnífico debe huir el camino llano, la carrera de locución derecha consecutiva y la
-              cortedad de las cláusulas<note place="bottom">
-                <persName type="authority" key="Tasso, Torquato" precision="3"> Torquato Tasso </persName>considera como característico del
+              cortedad de las cláusulas<note place="bottom">Torquato Tasso considera como característico del
                 estilo heroico el uso de cláusulas largas y de casos oblicuos. Por casos oblicuos
                 entiende cláusulas que empiezan no por el sujeto ni por el verbo ni por el objeto
                 (acusativo) sino por algún dativo o ablativo, nominal o proposicional (Tasso 1964:
@@ -5955,7 +5955,7 @@
               Todos estos defectos se reprueban juntos por <persName type="authority" key="Cicerón" precision="3">Cicerón</persName> y
               de todos dice procede la oscuridad<note place="margin"> De Oratore li. 3.</note>. De
               ésta hablaremos después en distinto capítulo. Aquí basta proponer algo <persName 
-                type="authority" key="Cicerón" precision="3">del insigne orador</persName>, bien que sus leyes sean más estrechas
+                type="authority" key="Cicerón" precision="4" unit="quote" quantity="3">del insigne orador</persName>, bien que sus leyes sean más estrechas
               que las poéticas<note place="bottom"> Se refiere a las «leyes» de Cicerón: Craso, su portavoz en <hi rend="i">De
                   oratore</hi>, insiste en que el orador tiene estricta obligación de ser claro para
                 que sus oyentes le sigan sin hastío y sin cansancio. Jáuregui sabe que ciertos
@@ -6128,7 +6128,7 @@
                 séptima sílaba que hacen perder al verso su calidad musical. No se sabe por
                 consiguiente si lo que vuelve el verso áspero y «repugnante» es el hipérbaton con
                 epíteto antepuesto o la defectuosa conformación rítmica o fónica. </note>. Diré
-              algunos versos de <persName type="authority" key="Garcilaso" precision="4" unit="quote" quantity="1">Garcilaso</persName>, donde usa la suave
+              algunos versos de <persName type="authority" key="Garcilaso" precision="4" unit="quote" quantity="4">Garcilaso</persName>, donde usa la suave
               trasposición:</p>
             <quote>
               <l>Y con voz lamentándose quejosa.</l>
@@ -6224,7 +6224,7 @@
                   sostenían opiniones vigorososas, como puso de relieve Fumaroli (1980:
                   425-584).</note></quote>. En su intento, a lo menos, no ha de haber acción
               moderada, sino que, en vigor de su estilo, todo pierda de vista la templanza. Diré un
-              ejemplo que trae <hi rend="i">Demetrio</hi> no sin donaire. Para decir un autor que en
+              ejemplo que trae <persName type="authority" key="Demetrio" precision="4" unit="quote" quantity="2">Demetrio</persName> no sin donaire. Para decir un autor que en
               la mesa no se pone la taza sin suelo, dijo, no se enarbola sin pedestal, y más
               hinchado suena en el griego. Así añade Demetrio<quote>: «Las cosas pequeñas no
                 comportan locución tan hinchada. «<hi rend="i">Res enim qui parva est, non sustinet
@@ -6242,7 +6242,7 @@
                   Sobre esta metáfora de la frialdad del estilo que teorizó Teofrasto y que ya
                   utiliza el maestro de Teofrasto, Aristóteles, en la <hi rend="i">Retórica</hi>,
                   véase Chiron 2001: 169-171.</note></quote>.También merecen oírse dos frases que
-              alega el docto Vida<note place="margin"> Poet. li. 3.</note>: Si alguno llamase (dice
+              alega el docto <persName type="authority" key="Vida" precision="4" unit="quote" quantity="2">Vida</persName><note place="margin"> Poet. li. 3.</note>: Si alguno llamase (dice
               él) <quote>‘a los establos de los caballos, lares equinos; o a la grama del campo,
                 crines de la gran madre, me pareciera la misma imprudencia y ceguedad, que ataviar
                 un pigmeo con los vestidos grandísimos de un gigante’</quote>.</p>
@@ -6301,7 +6301,7 @@
               que quien los usa no conoce su temple y, cuando levanta la entonación, no sabe decir:
                 <hi rend="i">Bueno está</hi>. Así reprehendía Apeles el yerro de aquellos pintores
               que no juzgaban ni sentían <hi rend="i">quid esset satis</hi>, cuál fuese lo
-              suficiente en el afecto de extremar sus obras. <persName type="authority" key="Cicerón" precision="3">Cicerón</persName>
+              suficiente en el afecto de extremar sus obras. <persName type="authority" key="Cicerón" precision="4" unit="quote" quantity="2">Cicerón</persName>
               lo refiere<note place="margin"> In Oratore. </note>. «<quote><hi rend="i">In quo
                   Apeles pictores quoque eos peccare dicebat, qui non sentirent, quid esset
                   satis</hi>»<note place="bottom"> Este fragmento de Cicerón, 2XXII, 73 es
@@ -6341,13 +6341,13 @@
             <p>Y lo que más dificulta el remedio, o le imposibilita, en tan desordenados excesos es
               que quien los comete no sólo desconoce el error, mas le juzga <pb n="f. 12v"/> virtud
               y le ama. Yerra pensando que acierta, que es el vicio más pernicioso, como nota
-              agudamente <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="1">Quintiliano</persName><note place="margin"> lib. 8,
+              agudamente <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="2">Quintiliano</persName><note place="margin"> lib. 8,
                 c.2.</note>. «<quote>Cacocelon</quote> (dice) <quote>se llama lo que excede
                 allende la virtud. Siempre que el ingenio carece de elección y juicio, y se engaña
                 con una especie de bueno, es en la elocuencia el pésimo de todos los vicios. Porque
                 los demás se huyen y éste se busca. «<hi rend="i">Κακόζελον vocatur quidquid est
                   ultra virtutem. Quoties ingenium iudicio caret et specie boni</hi>
-              </quote>(así dijo Horacio<note place="bottom"> Alude al «<hi rend="i">specie
+              </quote>(así dijo <persName type="authority" key="Horacio" precision="3">Horacio</persName><note place="bottom"> Alude al «<hi rend="i">specie
                   recti</hi>» del v. 25 de la <hi rend="i">Ars poetica</hi>, que es un claro
                 leitmotiv, apunta Pedro Conde, de este discurso.</note>)<quote><hi rend="i">
                   fallitur; omnium in eloquentia vitiorum pessimum: nam caetera cum vitentur, hoc
@@ -6376,7 +6376,7 @@
               desórdenes que condenamos son pretendidos de propósito por los mismos que no los
               conocen? Mal pueden abstenerse del yerro en que presumen acierto. No hay más peligrosa
               enfermedad que la que el hombre juzga por salud. Si se imagina sano, mal buscará
-              remedio al peligro. Este símil es de <quote>Luciano</quote>, traído al mismo propósito
+              remedio al peligro. Este símil es de <persName type="authority" key="Lucano" precision="4" unit="quote" quantity="2">Luciano</persName>, traído al mismo propósito
               en <title>Lexífanes</title>, de que se dirá mucho adelante<note place="bottom"> El
                 diálogo de Luciano <hi rend="i">Lexífanes</hi> es una de las fuentes capitales del
                   <hi rend="i">Discurso poético</hi>, y ya había sido nombrado en glosa marginal
@@ -6580,10 +6580,10 @@
                 crítica, en principio, es puramente estética. Veremos luego que las cosas no están
                 tan claras. Citamos por Séneca 1945-1964.</note>. Mas sólo traigo de su respuesta lo
               que dice contra las repeticiones frecuentes de lo extraordinario uniforme, y contra
-              aquellos que, en agradándose de algo, no saben jamás callarlo. Cuenta que Aruncio,
-              historiador, se inclinaba a las locuciones extrañas de Salustio; y, en hallando
+              aquellos que, en agradándose de algo, no saben jamás callarlo. Cuenta que <persName type="authority" key="Aruncio" precision="2">Aruncio</persName>,
+              historiador, se inclinaba a las locuciones extrañas de <persName type="authority" key="Salustio" precision="2">Salustio</persName>; y, en hallando
               alguna, la amaba y abrazaba de suerte que la repetía en cada hoja: «<quote><hi
-                  rend="i">Est apud Sallustium</hi></quote> (dice Séneca) <quote><hi rend="i"
+                rend="i">Est apud Sallustium</hi></quote> (dice <persName type="authority" key="Séneca" precision="4" unit="quote" quantity="2">Séneca</persName>) <quote><hi rend="i"
                   >‘Exercitum argento fecit’; hoc Arruntius amare coepit, posuit illud omnibus
                   paginis</hi>»</quote>. A éste siguen otros ejemplos, hasta donde repite:
                 ‘<quote>Todo el libro de Aruncio es tejido de estas cosas: las que en Salustio
@@ -6633,14 +6633,14 @@
                   >hiems</hi>, invierno, o de utilizar en plural una palabra como ‘<hi rend="i"
                     >fama’</hi>, cuyo concepto implica el singular. No se trata pues de neologismos
                   sino de un modo rebuscadamente elegante de tratar las palabras
-                comunes.</note></quote>. No es bien dilatarnos con Séneca; basta haberse entendido
+                  comunes.</note></quote>. No es bien dilatarnos con <persName type="authority" key="Séneca" precision="3">Séneca</persName>; basta haberse entendido
               cuán ostensibles sean las locuciones peregrinas, si con frecuencia se reiteran e
               inculcan, como vemos hoy con extremo en los afectados modernos, pues la novedad que
               mil veces no se replica les parece quedar mal lograda.</p>
             <p>Y no sólo siendo unas mismas las locuciones, ofenden repetidas. Mas aun siendo
               varias, si son peregrinas y nuevas, basta el frecuentar novedades para que causen
               molestia, embarazando y afeando la obra donde se acumulan. Pues, como nota
-                Quintiliano<note place="margin"> lib 9, c. 3.</note>: ‘<quote>El que afectare
+              <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="2">Quintiliano</persName><note place="margin"> lib 9, c. 3.</note>: ‘<quote>El que afectare
                 demasiado lo vario, aun aquella misma gracia de la variedad perderá’. Y poco
                 después: ‘las figuras de oración ocultas, retiradas del uso vulgar, y por el mismo
                 caso más nobles, así como despiertan y alegran el oído con </quote><pb n="f. 14v"
@@ -6677,8 +6677,8 @@
               por las conveniencias de razón en que se funda. En esta manera.</p>
             <p>Todas las novedades poéticas y osadías de elocuencia, aunque se acierten, son de su
               naturaleza culpas o vicios. Así me atrevo a decirlo y, si lo pruebo, justamente
-              debemos reprobar su abundancia. Juzgue primero Séneca si son vicios; así llama a las
-              locuciones audaces de Salustio que imitaba Aruncio, aunque eran lustrosas y elegantes
+              debemos reprobar su abundancia. Juzgue primero <persName type="authority" key="Séneca" precision="4" unit="quote" quantity="2">Séneca</persName> si son vicios; así llama a las
+              locuciones audaces de <persName type="authority" key="Salustio" precision="3">Salustio</persName> que imitaba <persName type="authority" key="Aruncio" precision="3">Aruncio</persName>, aunque eran lustrosas y elegantes
               como lo muestran en el lugar que antes alegamos<note place="margin"> Sen. epist.
                 114.</note>: «<quote><hi rend="i">Vides autem quid sequatur ubi alicui vitium pro
                   exemplo est</hi>»<note place="bottom"> Séneca, <hi rend="i">Epístolas a
@@ -6711,13 +6711,13 @@
                   importante e integrado en el canon de los clásicos, porque de ello podría
                   inferirse que los autores a quienes él mismo censura llegarán a ser tan famosos y
                   respetados como el historiador romano.</note></quote>. Vicios los llama no porque
-              en la abstinencia de Salustio y en su artificio dejen de ser aciertos, ni pueda caber
+              en la abstinencia de <persName type="authority" key="Salustio" precision="3">Salustio</persName> y en su artificio dejen de ser aciertos, ni pueda caber
               en ellos el nombre de culpas, sino porque, abstraídos del lugar que allí tienen, y
               usados por otro con demasía y mal juicio, les <pb n="f. 15r"/> queda solo una viciosa
               forma. Que al fin aquellas novedades vician (si bien se advierte) y quebrantan los
               decretos y leyes del idioma latino, y sólo con el arte y destreza de quien sabe
               lograrlas, se oyen gustosamente. Allí reciben nombre de osadías felices y llegan a
-              transformarse en virtudes. Notando <persName type="authority" key="Demetrio Falereo" precision="4" unit="quote" quantity="1">Falereo</persName> algunos
+              transformarse en virtudes. Notando <persName type="authority" key="Demetrio Falereo" precision="4" unit="quote" quantity="2">Falereo</persName> algunos
               excesos de <persName type="authority" key="Safo" precision="1">Safo</persName> bien logrados, dice discretamente<note
                 place="margin">
                 <hi rend="i">De elocutione.</hi></note>: ‘<quote>Por el mismo caso es admirable la
@@ -6732,13 +6732,13 @@
                     Commentarii in librum Demetrii Phalerei de elocutione</hi>, ed. cit., p. 117. La
                   cita y la traducción son fieles.</note></quote>. Con esta advertencia (a lo que yo
               juzgo) dice <persName type="authority" key="Petronio" precision="4" unit="quote" quantity="1">Petronio</persName> del poeta Lírico: «<quote><hi
-                  rend="i">Et Horatii curiosa felicitas</hi></quote>». Porque mediante la industria
-              y artificio de Horacio, tuvieron felicidad sus atrevimientos poéticos. Reparemos en la
+                rend="i">Et <persName type="authority" key="Horacio" precision="1">Horatii</persName> curiosa felicitas</hi></quote>». Porque mediante la industria
+              y artificio de <persName type="authority" key="Horacio" precision="3">Horacio</persName>, tuvieron felicidad sus atrevimientos poéticos. Reparemos en la
               voz <hi rend="i">curiosus</hi>, que, en el más notorio sentido de los latinos,
               significa el demasiado diligente en inquirir novedades. Es vicio la curiosidad, vicio
               que excede todo límite en la diligencia, y se distingue de ella tanto, como la
-              superstición de la religión<note place="margin"> Quint. li.8, cap. 3.</note>:
-              «<quote><persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="1"></persName>ut a diligenti curiosus, et a religione superstitio distat»<note
+              superstición de la religión<note place="margin"><persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="1">Quint.</persName> li.8, cap. 3.</note>:
+              «<quote>ut a diligenti curiosus, et a religione superstitio distat»<note
                   place="bottom">
                   Quintiliano, <hi rend="i">Institutio oratoria</hi>,
                   VIII, 3, 55: «<hi rend="i">Est etiam quae periergia vocatur, supervacua, ut sic
@@ -6748,12 +6748,12 @@
                   de la aplicación loable como el hombre curioso del diligente o la superstición de
                   la religión’). Precede inmediatamente la definición de la cacocelía, ya citada.
                 </note></quote>. De suerte que <persName type="authority" key="Petronio" precision="3">Petronio</persName>, atribuyendo a
-                <persName type="authority" key="Horacio" precision="1">Horacio</persName> la curiosa felicidad, muestra que fue feliz en
+                <persName type="authority" key="Horacio" precision="3">Horacio</persName> la curiosa felicidad, muestra que fue feliz en
               lo vicioso, que excedió venturosamente<note place="bottom"> Texto inmediatamente
                 contiguo al ya citado de Petronio, y que dimos en la nota correspondiente.</note>. Y
               más encarece el exceso diciendo <pb n="f. 15v"/>
               <hi rend="i">curiosa felicitas</hi> que si dijera <hi rend="i">felix curiositas</hi>
-              porque, según <persName type="authority" key="Nigidio" precision="1">Nigidio</persName> (a quien <persName type="authority" key="Aulo Gelio" precision="4" unit="quote" quantity="1">Gelio</persName> llama doctísimo)<note place="margin"> In A. Gel. lib. 4 c. 9.</note>,
+              porque, según <persName type="authority" key="Nigidio" precision="3">Nigidio</persName> (a quien <persName type="authority" key="Aulo Gelio" precision="4" unit="quote" quantity="1">Gelio</persName> llama doctísimo)<note place="margin"> In A. Gel. lib. 4 c. 9.</note>,
               este modo de fenecer<note place="bottom">FENECER: terminar, acabar</note> las
               dicciones, <hi rend="i">vinosus, mulierosus, religiosus, nummosus</hi>, explica un
               exceso grande en aquello de que se habla<note place="bottom">
@@ -6842,7 +6842,7 @@
                 que poner uno tras otro varios verbos, nombres u otras palabras semejantes, porque
                 las mismas virtudes engendran tedio, si no las asiste la gracia de la variedad’).
                 </note><quote>.</quote>
-              <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="1">Quintiliano</persName> lo advierte, y mejor en otro lugar<note
+              <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="2">Quintiliano</persName> lo advierte, y mejor en otro lugar<note
                 place="margin"> li. 11, c. 3.</note>: «<quote><hi rend="i">In quibusdam virtutes non
                   habet gratiam, in quibusdam vitia ipsa delectant</hi><note place="bottom">
                   Quintiliano, <hi rend="i">Institutio oratoria</hi>, XI, 3, 178. La cita y la
@@ -6943,7 +6943,7 @@
               al contrario, el que sin elección y modo agrava sus versos de figuras y los colma y
               rebosa, es cierto que ha de afearlos y envilecerlos. Puede tanto la demasía que no se
               excusará esta desgracia aunque las figuras sean varias y bien inventadas. De éstas
-              habla una sentencia célebre de la poetisa <persName type="authority" key="Corina" precision="4" unit="quote" quantity="1">Corina</persName>:
+              habla una sentencia célebre de la poetisa <persName type="authority" key="Corina" precision="4" unit="quote" quantity="2">Corina</persName>:
                   «<quote><hi rend="i">Manu (inquit) serere oportet, non toto canistro</hi><note
                   place="bottom"> El dicho es atribuido por Plutarco (<hi rend="i">De gloria
                     Atheniensium</hi>, 4) a la poetisa de Tanagra Corina, que lo profirió en tono de
@@ -6967,19 +6967,19 @@
               que allí redoblen imperfección. Los venerables <persName type="authority" key="Ennio" precision="3">Ennio</persName> y
                 <persName type="authority" key="Lucrecio " precision="3">Lucrecio </persName>usaron solecismos <pb n="f. 17r"/> notorios,
               que no sólo se excusan en <persName type="authority" key="Aulo Gelio" precision="3">Aulo Gelio</persName><note place="margin"> li.
-                  13 c. 9.</note>, sino se alaban, siguiendo el parecer de Probo Valerio. <hi
-                rend="i">Cupressus</hi> es voz femenina, y Ennio le trueca el género diciendo, <hi
-                rend="i">rectos cupressos. Aër</hi> es masculino y le usa femenino, <hi rend="i"
-                >aêre fulva. Funis</hi>, que es también masculino, Lucrecio le afemina, <hi rend="i"
-                >aurea funis. Fretum</hi> y <hi rend="i">peccatum</hi> hacen el ablativo <hi
-                rend="i">freto, peccato</hi>, y <persName type="authority" key="Cicerón" precision="3">Cicerón</persName> por elegancia
-              los termina en <hi rend="i">u: fretu perangusto, manifesto peccatu</hi>. La voz <hi
-                rend="i">antistites</hi> suena así en primer caso de plural y el mismo Tulio le
-              trueca la terminación y declinación, diciendo por las sacerdotisas <hi rend="i"
-                >sacerdotes antistitae</hi>. Éstas y otras singularidades contra las leyes latinas y
-              griegas observa Gelio, así en <persName type="authority" key="Lucrecio" precision="3">Lucrecio</persName> y <persName 
-                type="authority" key="Ennio">Enio</persName>, como en <persName type="authority" key="Cicerón" precision="3">Cicerón</persName>, <persName 
-                type="authority" key="Virgilio">Virgilio</persName> y <persName type="authority" key="Homeroi" precision="3">Homero</persName>, y pondera
+                13 c. 9.</note>, sino se alaban, siguiendo el parecer de <persName type="authority" key="Probo Valerio" precision="3">Probo Valerio</persName>. <hi
+                  rend="i">Cupressus</hi> es voz femenina, y <persName type="authority" key="Ennio" precision="4" unit="quote" quantity="2">Ennio</persName> le trueca el género diciendo, <quote><hi
+                    rend="i">rectos cupressos</hi></quote>. <hi rend="i">Aër</hi> es masculino y le usa femenino, <quote><hi rend="i"
+                      >aêre fulva</hi></quote>. <hi rend="i">Funis</hi>, que es también masculino, <persName type="authority" key="Lucrecio" precision="4" unit="quote" quantity="1">Lucrecio</persName> le afemina, <quote><hi rend="i"
+                >aurea funis</hi></quote>. <hi rend="i">Fretum</hi> y <hi rend="i">peccatum</hi> hacen el ablativo <hi
+                  rend="i">freto, peccato</hi>, y <persName type="authority" key="Cicerón" precision="4" unit="quote" quantity="2">Cicerón</persName> por elegancia
+                        los termina en <hi rend="i">u</hi>: <quote><hi rend="i">fretu perangusto</hi></quote>, <quote><hi rend="i">manifesto peccatu</hi></quote>. La voz <hi
+                          rend="i">antistites</hi> suena así en primer caso de plural y el mismo <persName type="authority" key="Cicerón" precision="4" unit="quote" quantity="1">Tulio</persName> le
+              trueca la terminación y declinación, diciendo por las sacerdotisas <quote><hi rend="i"
+                >sacerdotes antistitae</hi></quote>. Éstas y otras singularidades contra las leyes latinas y
+              griegas observa <persName type="authority" key="Aulo Gelio" precision="3">Gelio</persName>, así en <persName type="authority" key="Lucrecio" precision="3">Lucrecio</persName> y <persName 
+                type="authority" key="Ennio" precision="3">Enio</persName>, como en <persName type="authority" key="Cicerón" precision="3">Cicerón</persName>, <persName 
+                type="authority" key="Virgilio" precision="3">Virgilio</persName> y <persName type="authority" key="Homero" precision="3">Homero</persName>, y pondera
               sus ingenios y arte que, consultando el buen gusto del oído, hallaron razones de
               hermosear las fealdades y virtualizar<note place="bottom"> VIRTUALIZAR. Al igual que
                 Melchora Romanos, no hemos hallado ningún ejemplo de utilización antigua o moderna
