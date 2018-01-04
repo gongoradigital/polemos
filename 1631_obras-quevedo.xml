@@ -3173,7 +3173,7 @@
             rend="I"> Augusto <hi xml:lang="en" rend="i">em.</hi>: Agusto <hi xml:lang="en" rend="i"
               >A</hi> y <hi xml:lang="en" rend="i">M.</hi></note>, y veneración cuando le apadrina
           en esta parte tan gran Padre de la Iglesia.</p>
-        <p>Reprendió estos escritores, como si hoy los leyera, <persName type="authority" key="Andreini de Pistoia, Francisco" precision="4">Francisco
+        <p>Reprendió estos escritores, como si hoy los leyera, <persName type="authority" key="Andreini de Pistoia, Francisco" precision="4" unit="quote" quantity="1">Francisco
             Andreini de Pistoia</persName>, cómico geloso<note place="bottom"> Francesco Andreini da
             Pistoia (Pistoia, ca. 1548-Mantua, 1624) empezó su carrera como actor vinculado a la <hi
               xml:lang="en" rend="i">Compagnia dei Gelosi</hi>. Aparte de sus actividades como
@@ -3268,7 +3268,7 @@
             p. XXII de la edición citada, con referencia a Pulci). Ver también Tobar (2013:
             191).</note>.</p>
         <p>Este modo de sentir, con suma elegancia se oye en el donaire de nuestro <persName
-            type="authority" key="Macial" precision="4">Marcial</persName>, lib. X, epig. XXI<note place="bottom">Epigrammatum
+          type="authority" key="Macial" precision="4"  unit="quote" quantity="2">Marcial</persName>, lib. X, epig. XXI<note place="bottom">Epigrammatum
             libri XV</note>:</p>
         <quote>
           <l>Scribere te quae vix intelligat ipse Modestus</l>
@@ -3346,7 +3346,7 @@
           <l>que sin gramaticales prevenciones</l>
           <l>agraden a los más gramaticones.</l>
         </quote>
-        <p>Y <persName type="authority" key="Estacio" precision="4">Estacio</persName><note place="bottom"><p>
+        <p>Y <persName type="authority" key="Estacio" precision="4" unit="quote" quantity="1">Estacio</persName><note place="bottom"><p>
                 <hi rend="i">Estacio</hi>: Publius Papinius Statius (h. 45 d. C.-96 d. C.), poeta
                 romano de la Edad de Plata, nacido en Nápoles; autor de numerosas obras poéticas,
                 entre ellas, el poema épico <hi rend="i">Thebaida</hi>, y de una colección de 32
@@ -3408,7 +3408,7 @@
               <hi xml:lang="en" rend="i">vaticinio</hi>: Quevedo refiere específicamente a que los
               versos conservados se presentaban como el discurso de un mensajero que relataba las
               profecías de Casandra.</note></title>. Que la palabra <hi rend="i">ater</hi> es
-          condenada en el estilo de los poetas, consta de <persName type="authority" key="Horacio" precision="4">Horacio</persName> en
+          condenada en el estilo de los poetas, consta de <persName type="authority" key="Horacio" precision="4"  unit="quote" quantity="1">Horacio</persName> en
           la <title>Arte poética</title>:</p>
         <quote>
           <l>Vir bonus et prudens versus reprehendit inertes,</l>
@@ -3427,7 +3427,7 @@
                 bonus et prudens versus reprehendit inertis</hi>».</note></l>
         </quote>
         <p>Tradúcelos <anchor xml:id="_GoBack"/>con elegancia el docto y ingenioso <persName
-          type="authority" key="Espinel, Vicente" precision="4">Vicente Espinel </persName>en sus <title>Rimas<note place="bottom"> Véase,
+          type="authority" key="Espinel, Vicente" precision="4" unit="quote" quantity="1">Vicente Espinel </persName>en sus <title>Rimas<note place="bottom"> Véase,
                 <hi xml:lang="en" rend="i">Diversas / Rimas de Vicente Espinel/ Beneficiado de las
                 iglesias de Ronda, con el Arte Poetica y algunas odas de Horacio, traducidas en
                 verso castellano</hi>, Madrid, por Luis Sánchez, 1591.</note></title>:</p>
@@ -3442,7 +3442,7 @@
         </quote>
         <p>De suerte que no sólo es reprensible escribir oscuro, sino poco claro. No le perdonó esta
           reprensión al poeta oscuro en la <title>Alexandra</title>
-          <persName type="authority" key="Demetrio Falereo" precision="4">Falereo</persName> cuando dijo: <quote><hi rend="i">Dictione iniqua.
+          <persName type="authority" key="Demetrio Falereo" precision="4" unit="quote" quantity="1">Falereo</persName> cuando dijo: <quote><hi rend="i">Dictione iniqua.
               Aristoteles ait frigidum quatuor modis fieri, scilicet: quando utimur peregrino et
               obscuro vocabulo, ut Licofron, Xerxem, Pelorium hominem</hi><note place="bottom">
               Quevedo retorna al texto de <hi xml:lang="en" rend="i">De elocutione</hi> de Demetrio,
@@ -3481,7 +3481,7 @@
         <p>¿Adónde<note type="app" rend="I"> En los impresos, no aparece como interrogación.
             Seguimos la lectura de Rivers y Azaustre.</note> irán por defensa los que, escribiendo
           hoy de galantería a una afición amorosa, escriben estos <pb n="30"/> escondrijos
-          denegridos, cuando <persName type="authority" key="Propercio" precision="4">Propercio</persName> los reprende (lib. I, elegía
+          denegridos, cuando <persName type="authority" key="Propercio" precision="4" unit="quote" quantity="1">Propercio</persName> los reprende (lib. I, elegía
             9<note place="bottom">
             <title>Elegiae.</title></note>) con tan ingeniosos gritos?:</p>
         <quote>
@@ -3525,7 +3525,7 @@
           <l>y escribe en blando y dulce y fácil verso</l>
           <l>cosas que cualquier niña entender pueda.</l>
         </quote>
-        <p>El arte es acomodar la locución al sujeto. Todo lo dijo <persName type="authority" key="Petronio" precision="4">Petronio
+        <p>El arte es acomodar la locución al sujeto. Todo lo dijo <persName type="authority" key="Petronio" precision="4" unit="quote" quantity="1">Petronio
             Árbitro</persName> mejor que todos<note place="bottom"> Quevedo reitera su adhesión total al
             principio aristotélico y horaciano ya comentado del decoro, mientras continúa su trabajo
             de ensamblaje de citas de <hi xml:lang="en" rend="i">auctoritates</hi> que legitimen su
@@ -3760,7 +3760,7 @@
             los ciegos a la jerigonza») y en la <hi rend="i">Carta a don Luis de Góngora en razón de
               las Soledades</hi>: «aunque otros entienden ha inventado esta jerigonza para rematar
             el seso de Mendoza».</note>. <pb n="34"/> Sabrosamente y con sazón bien elegante lo dijo
-            <persName type="authority" key="Antífanes" precision="4">Antífanes</persName>, hablando de Filógeno en sus fragmentos<note
+          <persName type="authority" key="Antífanes" precision="4" unit="quote" quantity="1">Antífanes</persName>, hablando de Filógeno en sus fragmentos<note
             type="app" rend="I"> fragmentos <hi xml:lang="en" rend="i">em</hi>.: fracmentos <hi
               xml:lang="en" rend="i">A</hi> y <hi xml:lang="en" rend="i">M</hi></note>: <quote><hi
               rend="i">Longe sane est supra poetas omnes Philogenus: primum enim nominibus propriis
@@ -3857,8 +3857,7 @@
             licenciosas, que cuando fueran tropos muy legítimos, por ser tan continuos y seguidos
             unos tras otros, habían de engendrar oscuridad, intrincamiento y embarazo?».</note>.
           Lugar es ajustado y que dice lo uno y lo otro.</p>
-        <p>Cansose de este lenguaje broma el sumamente elegante <persName type="authority" key="Aristófanes" precision="4"
-            >Aristófanes</persName> en la comedia intitulada <title>Ranas</title>, que hasta el título
+        <p>Cansose de este lenguaje broma el sumamente elegante <persName type="authority" key="Aristófanes" precision="4" unit="quote" quantity="1">Aristófanes</persName> en la comedia intitulada <title>Ranas</title>, que hasta el título
           de la comedia se apropia al estilo, que hace ruido desapacible y no se entiende, y es, por
           lo oscuro y turbio, música del cieno. Acto 4, <pb n="36"/> escen. 2: <quote><hi rend="i"
               >Omnino igitur decet utiliter nos loqui. Euri.: An ergo Licabetos et Parnasos cum tu
@@ -3904,7 +3903,7 @@
           dices «Licabetos» y «Parnasos», es hablar bien y ajustadamente, cuando conviene hablar
           como humano?).</p>
         <p>Excelentísimo señor, hablar como humano llamaban la habla decente y propia a lo que se
-          escribía; así <persName type="authority" key="Petronio" precision="4">Petronio</persName> se burló del poeta: <quote><hi
+          escribía; así <persName type="authority" key="Petronio" precision="4" unit="quote" quantity="1">Petronio</persName> se burló del poeta: <quote><hi
               rend="i">Saepius poetice quam humane locutus es</hi></quote> (Más veces has hablado
           como poeta que como humano)<note place="bottom"> Véase <hi xml:lang="en" rend="i"
               >Satiricon</hi>, 90 (Petronio 1987: 210). Eumolpo, en un templo, se propuso describir
@@ -3922,7 +3921,7 @@
               xml:lang="en" rend="i">Satiricon</hi> (véase Azaustre 2003b: 148, n. 73).</note>.
             Gravemente<note type="app" rend="I"> gravemente <hi xml:lang="en" rend="i">em.</hi>:
             grauemene <hi xml:lang="en" rend="i">A</hi> y <hi xml:lang="en" rend="i">M</hi></note>
-          afrenta estos fanfarrones de voces <persName type="authority" key="Epicteto" precision="4">Epicteto</persName> (<title>apud
+          afrenta estos fanfarrones de voces <persName type="authority" key="Epicteto" precision="4" unit="quote" quantity="1">Epicteto</persName> (<title>apud
             Arrianum lib. Disertationum</title>) con tales palabras: <quote><hi rend="i"
               >Scholasticum esse animal quod ab omnibus irridetur</hi></quote> (El culto es animal
           de quien todos se ríen)<note place="bottom"> Nueva referencia a otra autoridad, que refrenda sus reiteradas críticas: Epicteto de
@@ -3982,7 +3981,7 @@
             (1967: 2-23).</note>. Severo<pb n="37"/> censor es <persName type="authority" key="Quintiliano" precision="3"
             >Quintiliano</persName>, y en el lib. 8 de sus <title>Instituciones</title>, cap. 3, alaba
           en <persName type="authority" key="Virgilio" precision="1">Virgilio</persName> lo que un mal culto usurpador de este buen
-          renombre arrojara por bajo y asqueroso. <persName type="authority" key="Virgilio" precision="4">Virgilio</persName> en la
+          renombre arrojara por bajo y asqueroso. <persName type="authority" key="Virgilio" precision="4" unit="quote" quantity="1">Virgilio</persName> en la
             <title>Geórgica</title>, libro 4: <quote><hi rend="i">Saepe exiguus mus</hi></quote>
           (Muchas veces el pequeño ratón)<note place="bottom"> Virgilio, <hi xml:lang="en" rend="i"
               >Geórgicas</hi>; la cita procede en realidad del libro I (vv. 181-182). Al describir
@@ -3999,7 +3998,7 @@
             el lector espere demasiado, mientras que el uso de <hi xml:lang="en" rend="i">mus</hi>
             en singular con el que concluye el verso también produce un efecto placentero. Para
             corroborar su interpretación recuerda un uso semejante en Horacio.</note>
-          <persName type="authority" key="Quintiliano" precision="4">Fabio</persName><note place="bottom"> Quintiliano.</note>: <quote><hi
+          <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="1">Fabio</persName><note place="bottom"> Quintiliano.</note>: <quote><hi
               rend="i">Nam epitheton exiguus aptum proprium efficit, ne plus expectaremus; et casus
               singularis magis decuit, et clausula ipsa unius syllabae</hi><note type="app" rend="I"
               > syllabae <hi xml:lang="en" rend="i">em</hi>.: sylaba <hi xml:lang="en" rend="i"
@@ -4020,7 +4019,7 @@
             238-239).</note></quote> (Porque el epíteto pequeño, acomodado y propio, previene para
           que no esperemos más, y el caso singular fue más conveniente, y la cláusula de una sílaba
           añadió gracia. Las dos cosas imitó Horacio: Nacerá el ridículo ratón).</p>
-        <p>Diferentes cosas estima <persName type="authority" key="Quintiliano" precision="4">Quintiliano</persName> que los supersticiosos
+        <p>Diferentes cosas estima <persName type="authority" key="Quintiliano" precision="4"  unit="quote" quantity="1">Quintiliano</persName> que los supersticiosos
           y legos. En estas cosas se debe imitar a los poetas, no en los achaques que no pudieron
           excusar por la ley del ritmo: como las transposiciones latinas que introdujo la posición
           de vocales mudas y líquidas<note place="bottom">
@@ -4095,7 +4094,7 @@
             > La primera edición del <hi xml:lang="en" rend="i">Cancionero General de Hernando del
               Castillo</hi> salió publicada en Valencia en 1511.</note>, en <persName type="authority" key="Boscán" precision="3"
             >Boscán</persName> y <persName type="authority" key="Garcilaso" precision="3">Garcilaso</persName>. Alguna vez <persName
-              type="authority" key="Figueroa, Francisco de" precision="4">Francisco de Figueroa</persName><note place="bottom">Francisco de Figueroa, que
+              type="authority" key="Figueroa, Francisco de" precision="4" unit="quote" quantity="1">Francisco de Figueroa</persName><note place="bottom">Francisco de Figueroa, que
               nació en Alcalá de Henares hacia 1530 y murió después de 1585, fue soldado, «continuo»
               en la corte de Felipe II desde 1560, diplomático y poeta petrarquista; vivió en Roma,
               Bolonia, probablemente también en Nápoles y en otros lugares de Italia. Compuso poesía
@@ -4116,7 +4115,7 @@
               véase Figueroa (1988: 267). Aparece, pues, como un ejemplo esporádico, es decir,
               ocasional, del hipérbaton en Figueroa, que representaba evidentemente una estética
               clasicista frente a los defensores de la nueva poesía barroca.</note></quote>. El
-          capitán <persName type="authority" key="Aldana, Francisco de" precision="4">Francisco de Aldana</persName>, doctísimo español,
+          capitán <persName type="authority" key="Aldana, Francisco de" precision="4" unit="quote" quantity="1">Francisco de Aldana</persName>, doctísimo español,
             elegantísimo<note type="app" rend="I"> elegantísimo <hi xml:lang="en" rend="i">em</hi>.:
             elegentissimo <hi xml:lang="en" rend="i">A</hi> y <hi xml:lang="en" rend="i"
             >M</hi></note> poeta, valiente y famoso soldado en muerte y en vida,<note place="bottom"
@@ -4138,7 +4137,7 @@
               preparar una edición de los poemas de Aldana que no llegó a concretarse; véase Rivers
               (1999). Cervantes lo admiraba como a Boscán y a Garcilaso y así lo exaltó en su «Canto
               de Calíope» del libro VI de <hi xml:lang="en" rend="i">La
-                Galatea.</hi></note></quote>. Léese en <persName type="authority" key="Barahona de Soto, Luis" precision="4">Soto Barahona</persName><note
+                Galatea.</hi></note></quote>. Léese en <persName type="authority" key="Barahona de Soto, Luis" precision="4" unit="quote" quantity="1">Soto Barahona</persName><note
               place="bottom"> Luis Barahona de Soto (1548-1595): nació en Lucena, fue discípulo del
               humanista Juan de Vilches en Antequera y estudió en Granada. En esta ciudad alternó
               con otros poetas, como Hernando de Acuña, Diego Hurtado de Mendoza y Gregorio
@@ -4160,7 +4159,7 @@
               famosos poetas del mundo, no sólo de España, y fue felicísimo en la tradución de
               algunas fábulas de Ovidio»; véase asimismo la edición de Lara Garrido de trabajos de
               autores varios sobre Barahona (Lara 2002).</note> y en don <persName
-                type="authority" key="Ercilla, Alonso de" precision="4">Alonso de Ercilla</persName><note type="app" rend="I"> Ercilla <hi xml:lang="en"
+                type="authority" key="Ercilla, Alonso de" precision="4" unit="quote" quantity="1">Alonso de Ercilla</persName><note type="app" rend="I"> Ercilla <hi xml:lang="en"
                 rend="i">em</hi>.: Ercila <hi xml:lang="en" rend="i">A</hi> y <hi xml:lang="en"
                 rend="i">M</hi></note>
           <note place="bottom"> La nómina de poetas españoles del siglo XVI rescatados por Quevedo,
@@ -4198,7 +4197,7 @@
             función que había desempeñado.</note>. En los griegos, por ser las voces de muchas
           vocales, hubo otra necesidad más frecuente que las transposiciones latinas para medir los
           versos, y fue el partir las voces en el principio de uno y en el <pb n="39"/> fin del
-          otro. <persName type="authority" key="Píndaro" precision="4">Pindarus</persName>,
+          otro. <persName type="authority" key="Píndaro" precision="4" unit="quote" quantity="1">Pindarus</persName>,
           <title>Olimpia</title> I<note place="bottom"> Quevedo había adquirido una edición de la
             poesía de Píndaro que conservaba en su biblioteca: <hi rend="i">Pindari poetae
               vetustissimi, lyricorum facile principis. Olympia, Pythia, Nemea, Isthmia…</hi>,
@@ -4234,7 +4233,7 @@
           <l>nis.</l>
         </quote>
         <p>Y así muchas veces en cada plana, cosa que disuena, y bien áspera al oído y a la vista. Y
-          con todo eso <persName type="authority" key="Horacio" precision="4">Horacio</persName> lo imitó una vez, como se ve en sus
+          con todo eso <persName type="authority" key="Horacio" precision="4" unit="quote" quantity="1">Horacio</persName> lo imitó una vez, como se ve en sus
           obras (<title>Carminum</title>, lib. 4, Od. 2):</p>
         <quote>
           <l>Pindarum quisquis studet aemulari, I-</l>
@@ -4249,7 +4248,7 @@
               xml:lang="en" rend="i">em</hi>.: immitable<hi xml:lang="en" rend="i"> A</hi> y <hi
               xml:lang="en" rend="i">M</hi></note>, y parece ingenio mostrarlo con la imitación que
           hace de él en esta parte, que él frecuentó tanto, de partir las voces. Sin esta necesidad
-          lo hizo <persName type="authority" key="Horacio" precision="4">Horacio</persName> en el lib. 2 <title>Carminum</title>, Od.
+          lo hizo <persName type="authority" key="Horacio" precision="4" unit="quote" quantity="1">Horacio</persName> en el lib. 2 <title>Carminum</title>, Od.
           2:</p>
         <quote>
           <l>Labitur<note type="app" rend="I"> Labitur<hi xml:lang="en" rend="i"> em</hi>.: Labirur
@@ -4260,7 +4259,7 @@
               mantuvo la división que trae Quevedo: «<hi xml:lang="en" rend="i">labitur ripa Ioue
                 non probante u- / xorius amnis</hi>».</note>.</l>
         </quote>
-        <p>Y no faltó quien imitase esto. El capitán <persName type="authority" key="Aldana, Francisco de" precision="4">Francisco de
+        <p>Y no faltó quien imitase esto. El capitán <persName type="authority" key="Aldana, Francisco de" precision="4" unit="quote" quantity="1">Francisco de
             Aldana</persName> en unas estancias, reprendiendo la codicia, dice:</p>
         <quote>
           <l>Aguija, corre, ve, camina, perma-</l>
@@ -4270,7 +4269,7 @@
               camina, perma- / neciendo siempre en tantas desventuras» (Aldana 1985:
             243).</note>.</l>
         </quote>
-        <p>Y nuestro autor el doctísimo <persName type="authority" key="León, fray Luis de" precision="4">fray Luis de León</persName>, en la
+        <p>Y nuestro autor el doctísimo <persName type="authority" key="León, fray Luis de" precision="4" unit="quote" quantity="1">fray Luis de León</persName>, en la
           traducción que hizo de la nave de <persName type="authority" key="Horacio" precision="1">Horacio</persName>, cuando juzgó las
           traducciones de Francisco de Espinosa, de Francisco Sánchez de las Brozas y de Juan de
             Almeida<note place="bottom"> Véase, en la edición de Cristóbal Cuevas de la obra de fray
@@ -4392,7 +4391,7 @@
             ejemplo, en el subgénero de la <hi xml:lang="en" rend="i">cansó</hi>. En este tipo de
             poema el trovador podía expresar la tristeza que ocasionaría su ausencia.</note>.</p>
         <p>Hoy, señor, por no decir lo que sin asco ni escrúpulo es lícito, hay algunos que dicen lo
-          que es torpe y abominable; <persName type="authority" key="Quintiliano" precision="4">Quintiliano</persName> lo enseña: <quote><hi
+          que es torpe y abominable; <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="1">Quintiliano</persName> lo enseña: <quote><hi
               rend="i">Obscena vitabimus et sordida et humilia</hi><note place="bottom"> Véase <hi
                 xml:lang="fr" rend="i">Institutio oratoriae</hi>, VIII, 2, 1: «<hi xml:lang="fr"
                 rend="i">Perspicuitas in verbis praecipuam habet proprietatem, sed proprietas ipsa
@@ -4461,8 +4460,7 @@
             aun cuenta a vezes las letras, y las pesa y las mide y las compone, para que no
             solamente digan con claridad lo que se pretende dezir, sino también con armonía y
             dulçura» (León 1997: 497). En el elogio de Quevedo encontramos algunos puntos aquí
-            evocados por fray Luis.</note>. Encarécela con tales palabras <persName type="authority" key="Lulio, Antonio" precision="4"
-            >Antonio Lulio</persName>, lib. 6<title> De oratione</title>, cap. 2: <quote><hi rend="i">Ac
+            evocados por fray Luis.</note>. Encarécela con tales palabras <persName type="authority" key="Lulio, Antonio" precision="4"  unit="quote" quantity="1">Antonio Lulio</persName>, lib. 6<title> De oratione</title>, cap. 2: <quote><hi rend="i">Ac
               de claritate quidem</hi></quote><pb n="44"/><quote><hi rend="i"> principio dicendum
               videtur, quae prima semper et maxima virtus existimata est orationis. Hanc alii
               puritate et castimonia quadam dictionis assequuntur, alii explanatione seu
@@ -4502,8 +4500,7 @@
           claridad, que siempre es la primera y la mayor virtud de la oración. Esta, unos la
           alcanzan con cierta pureza y castidad de las dicciones; otros con la explicación,
           distinción y elegancia; otros, finalmente, con la evidencia, y poniendo delante de los
-          ojos lo que dicen). Por eso, siendo vulgar sentimiento, dijo <persName type="authority" key="Virgilio" precision="4"
-            >Virgilio</persName> en el 4 de la <title>Eneida</title>:</p>
+          ojos lo que dicen). Por eso, siendo vulgar sentimiento, dijo <persName type="authority" key="Virgilio" precision="4" unit="quote" quantity="2">Virgilio</persName> en el 4 de la <title>Eneida</title>:</p>
         <quote>
           <l>I, sequere Italiam ventis<note place="bottom"><hi xml:lang="en" rend="i">I, sequere
                 Italiam ventis</hi>: Virgilio, <hi xml:lang="en" rend="i">Eneida</hi>, lib. IV, v.
