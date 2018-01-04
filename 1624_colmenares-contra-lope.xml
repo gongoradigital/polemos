@@ -613,7 +613,7 @@
       </front><body>
 
       <head>Texto de la edición</head>
-        <div>
+        <div xml:id="Respuesta a la censura antecedente">
           <index indexName="resp" n="Colmenares, Diego"/>
           <index indexName="date" n="1624"/><head>I
 <lb/>Respuesta a la censura antecedente</head>
@@ -660,7 +660,7 @@
           <p>De Segovia, en trece de noviembre de 1621 años<note place="bottom" type="app" rend="I"> años <hi rend="i">B : om.</hi> C</note>.</p>
           <p>Licenciado Diego de Colmenares.</p>
         </div>
-        <div>
+        <div xml:id="A un señor de estos reinos">
           <index indexName="resp" n="Vega Carpio, Lope Félix de"/>
           <index indexName="date" n="1624"/>
           <head>II
@@ -682,7 +682,7 @@
           <p>Lea, pues, vuestra excelencia esa égloga con mucho gusto y verá poner las manos en el instrumento de nuestra lengua al Príncipe con la mayor limpieza –excelencia suprema de los músicos– que hombre jamás las <pb n="f. 194v"/> puso. ¿Qué dirá de esa claridad castellana?, ¿de esa hermosa exornación?, ¿de ese estilo tan levantado con la propia verdad de nuestra lengua? Sin andar a buscar para cada verso tantas metáforas de metáforas, gastando en los afeites lo que falta de facciones y enflaqueciendo el alma con el peso de tan excesivo cuerpo; cosa que ha destruido gran parte de los ingenios de España con tan lastimoso ejemplo, que poeta insigne que escribiendo en sus fuerzas naturales y lengua propia, nacida en ciudad que por las leyes de la patria es juez árbitro entre las porfías de la propiedad de las dicciones y vocablos, fue leído con general aplauso, y después que se pasó al culteranismo, lo perdió todo<note place="bottom">Ignoro a quién puede referirse Lope aquí. No parece que sea al propio Góngora, porque él habría sido el creador del «culteranismo», bando al que, por tanto, no pudo «pasarse», y porque la alusión a esa ciudad que era «juez árbitro» sobre la propiedad a la hora de hablar castellano remite muy probablemente a Toledo (téngase en cuenta que en esa época se creía que tal preeminencia y prerrogativa había sido sancionada por las propias «leyes de la patria» ya desde los tiempos de Alfonso X, quien lo habría establecido en ciertas Cortes allí celebradas). Tubau (2007: 147-148 y 2008: 368) apunta a Juan de Jáuregui, evidente candidato tras su espantada del bando antigongorino con el <hi rend="i">Orfeo</hi>, pero el propio estudioso apunta las dificultades cronológicas que plantea esa hipótesis. En mi opinión, también se opone a ello la consideración de la Sevilla de Jáuregui, y más por parte de Lope, como esa ciudad que marcaba la norma del correcto castellano. Montero (2008: 197 n. 57) opina que Lope se refiere aquí a Góngora y a Córdoba, lo que es muy improbable, pues no tiene sentido que lo aluda de esa manera cuando desde los primeros documentos de esta polémica se deja bien claro que es él, aunque en ningún momento se escriba su nombre, el objeto central de ella, por lo que parece claro que estas últimas líneas apuntan a un imitador suyo y, además, a un «tránsfuga» literario. Es posible, incluso, que todo sea un invento de Lope y no haya nadie real detrás de esta última alusión.</note>.</p>
           <p><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Lope Felix de Vega Carpio</p>
         </div>
-        <div>
+        <div xml:id="Respuesta a la carta antecedente, por sus mismos puntos">
           <index indexName="resp" n="Colmenares, Diego"/>
           <index indexName="date" n="1624"/>
 <head>III
