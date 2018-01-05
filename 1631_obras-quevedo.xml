@@ -2618,7 +2618,7 @@
             divierte [la] intención y engaña los oyentes. En esto le imitaron en España,
             profesándolo don Luis de Góngora y Hortensio [Paravicino]». Para la postura de Cascales
             sobre la <hi xml:lang="en" rend="i">obscuritas</hi>, viciosa o virtuosa, véase Schwartz
-            (2014).</note>. <persName type="authority" key="Plinio" precision="4">Plinio</persName><title>, Naturalis Historia</title>,
+            (2014).</note>. <persName type="authority" key="Plinio" precision="4" unit="quote" precision="2">Plinio</persName><title>, Naturalis Historia</title>,
           cap. 22, lib. 11: <quote><hi rend="i">Irridenda facundia quae rem non explicat, sed
               inuoluit</hi></quote> (Hase de menospreciar la facundia que antes envuelve la
           sentencia que la declara)<note place="bottom">
@@ -2685,7 +2685,7 @@
               época por la cual los ciegos rezaban por los prisioneros que iban a ser ajusticiados y
               sus oraciones eran difíciles de entender; ya señalado en Azaustre 2003b: 129, n. 14, y
               por el mismo estudioso en Quevedo 2003a: 105, n. 70.</p></note> y no ser inteligibles,
-            <persName type="authority" key="san Jerónimo" precision="4">san Jerónimo</persName>
+          <persName type="authority" key="san Jerónimo" precision="4"  unit="quote" precision="2">san Jerónimo</persName>
           <title>ad Nepotianum</title> los desnuda de esta presunción cuando dice: <quote><hi
               rend="i">Nihil tam facile quam vilem plebeculam et indoctam contionem linguae
               volubilitate decipere, quae quidquid non intelligit plus miratur.</hi></quote> (No hay
@@ -2722,7 +2722,7 @@
             de los hombres doctos, hablar de manera que a ellos les parezca griego; pues no se han
             de dar las piedras preciosas a animales de cerda».</note>.</p>
         <p>Dispuesto este discurso con tal autoridad, propondré el texto del escándalo, que en la
-            <title>Poética</title> de <persName type="authority" key="Aristóteles" precision="4">Aristóteles</persName> dice así: <quote><hi
+          <title>Poética</title> de <persName type="authority" key="Aristóteles" precision="4" unit="quote" precision="1">Aristóteles</persName> dice así: <quote><hi
               rend="i">λέξεως δὲ ἀρετή</hi>;</quote> basta, porque haga más fe, empezar el texto de
           que es tal la versión<note place="bottom"> Para la opinión de Jáuregui en su <hi
               xml:lang="en" rend="i">Discurso Poético</hi>, consúltese la nota 366 en la edición de
@@ -2849,7 +2849,7 @@
             n="20"/>, si lenguas)<note type="app" rend="I"> barbarismo, si lenguas <hi xml:lang="en"
               rend="i">em</hi>: barbarismos, y lenguas <hi xml:lang="en" rend="i">A y M</hi>.
             Aceptamos la enmienda de Azaustre.</note>.</p>
-        <p>Aquel <hi rend="i">vel</hi> que la versión puso, <persName type="authority" key="Aristóteles" precision="4"
+        <p>Aquel <hi rend="i">vel</hi> que la versión puso, <persName type="authority" key="Aristóteles" precision="4" unit="quote" precision="1"
             >Aristóteles</persName> en el texto lo usurpa por <hi rend="i">et</hi>, <quote><hi rend="i"
               >ἠ αἴυιγμα</hi><note type="app" rend="I"> Variante: αἴνιγμα.</note><hi rend="i"> ἠ
               βαρβαρισμός</hi></quote>, y débese entender así<note place="bottom">
@@ -2867,7 +2867,7 @@
             siguientes restricciones que imponía Aristóteles. Quevedo los había ya acusado de
             incapaces: <hi xml:lang="en" rend="i">son hombres que despiden el estudio en llegando a
               la cláusula que desean.</hi></note>; y porque no se dude qué es enigma en estos
-          estilos, el propio <persName type="authority" key="Aristóteles" precision="4">Aristóteles</persName> prosiguiendo lo dice:
+          estilos, el propio <persName type="authority" key="Aristóteles" precision="4" unit="quote" precision="1">Aristóteles</persName> prosiguiendo lo dice:
               <quote><hi rend="i">Aenigmatis forma ea erit oratio scilicet quae ex minime
               congruentibus ex se constet</hi></quote> (Aquella será la forma del enigma que
           constare de cosas menos congruentes entre<note type="app" rend="I"> entre <hi
@@ -3020,8 +3020,7 @@
             personas conocidamente estragadas en las costumbres y sin méritos […]» y cómo resolver
             los «casos criminales». Ver Elliott (1986: 284). Rivers incluyó y comentó la carta en su
             edición (véase el Apéndice II y las p. 18-19, 66-67 y 75-80); véase también Tierno
-            Galván (1951-1952).</note>. Admitió con benignidad las obras de <persName type="authority" key="Herrera, Fernando de" precision="3"
-            >Fernando de Herrera</persName>, tesoro de la cultura española, siempre admirado de los
+            Galván (1951-1952).</note>. Admitió con benignidad las obras de <persName type="authority" key="Herrera, Fernando de" precision="3">Fernando de Herrera</persName>, tesoro de la cultura española, siempre admirado de los
           buenos juicios<note place="bottom"><hi xml:lang="en" rend="i"> admitió con benignidad las
               obras de Fernando de Herrera</hi>: se refiere a la publicación de <hi xml:lang="en"
               rend="i">Versos de Fernando de Herrera. Emendados y divididos por él en tres
@@ -3058,8 +3057,8 @@
             secretario de Olivares, ya conde-duque, y Quevedo aún intentaba congraciarse con el
             poder.</note>. Prendas son todas que alentaron este discurso para enriquecerse con su
           nombre y asegurarse, pues sale cobrando enemigos de balde.</p>
-        <p>Pues lo que <persName type="authority" key="Aristóteles" precision="2">Aristóteles</persName> dice no es malicia mía, y menos
-          cuando <persName type="authority" key="Demetrio Falereo" precision="4">Demetrio Falereo</persName>, en el libro <title>De
+        <p>Pues lo que <persName type="authority" key="Aristóteles" precision="2" unit="quote" precision="1">Aristóteles</persName> dice no es malicia mía, y menos
+          cuando <persName type="authority" key="Demetrio Falereo" precision="4" unit="quote" precision="2">Demetrio Falereo</persName>, en el libro <title>De
             elocutione</title>, parece que le traslada y le repite: <quote><hi rend="i">Dictionem
               autem in hac figura orationis exquisitam et immutatam nec nimis vulgarem oportet esse;
               sic enim amplitudinem et dignitatem habebit. Propria autem et usitata dictio dilucida
@@ -3131,7 +3130,7 @@
           oscuridad y los enigmas<note place="bottom"> Nueva crítica de la oscuridad que según
             Aristóteles producía enigmas; Maggi citaba a Demetrio para reiterar esta norma de la <hi
               xml:lang="en" rend="i">Poética</hi>.</note>.</p>
-        <p>Grande ejemplo es el que <pb n="24"/> trae <persName type="authority" key="Erasmo" precision="4">Erasmo</persName> en las
+        <p>Grande ejemplo es el que <pb n="24"/> trae <persName type="authority" key="Erasmo" precision="4" unit="quote" precision="1" >Erasmo</persName> en las
           <title>Apophtegmas de los filósofos</title>, tratando de <persName type="authority" key="Augusto" precision="1">Augusto</persName><note place="bottom"> La
             confirmación del precepto aristotélico se apoya aquí en la autoridad de un «moderno»
             renacentista; Erasmo recogió este relato en el libro IV de sus apotegmas, según las
