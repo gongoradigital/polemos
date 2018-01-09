@@ -2685,7 +2685,7 @@
               época por la cual los ciegos rezaban por los prisioneros que iban a ser ajusticiados y
               sus oraciones eran difíciles de entender; ya señalado en Azaustre 2003b: 129, n. 14, y
               por el mismo estudioso en Quevedo 2003a: 105, n. 70.</p></note> y no ser inteligibles,
-          <persName type="authority" key="san Jerónimo" precision="4"  unit="quote" precision="2">san Jerónimo</persName>
+          <persName type="authority" key="san Jerónimo" precision="4"  unit="quote" quantity="2">san Jerónimo</persName>
           <title>ad Nepotianum</title> los desnuda de esta presunción cuando dice: <quote><hi
               rend="i">Nihil tam facile quam vilem plebeculam et indoctam contionem linguae
               volubilitate decipere, quae quidquid non intelligit plus miratur.</hi></quote> (No hay
@@ -3057,8 +3057,8 @@
             secretario de Olivares, ya conde-duque, y Quevedo aún intentaba congraciarse con el
             poder.</note>. Prendas son todas que alentaron este discurso para enriquecerse con su
           nombre y asegurarse, pues sale cobrando enemigos de balde.</p>
-        <p>Pues lo que <persName type="authority" key="Aristóteles" precision="2" unit="quote" precision="1">Aristóteles</persName> dice no es malicia mía, y menos
-          cuando <persName type="authority" key="Demetrio Falereo" precision="4" unit="quote" precision="2">Demetrio Falereo</persName>, en el libro <title>De
+        <p>Pues lo que <persName type="authority" key="Aristóteles" precision="2" unit="quote" quantity="1">Aristóteles</persName> dice no es malicia mía, y menos
+          cuando <persName type="authority" key="Demetrio Falereo" precision="4" unit="quote" quantity="2">Demetrio Falereo</persName>, en el libro <title>De
             elocutione</title>, parece que le traslada y le repite: <quote><hi rend="i">Dictionem
               autem in hac figura orationis exquisitam et immutatam nec nimis vulgarem oportet esse;
               sic enim amplitudinem et dignitatem habebit. Propria autem et usitata dictio dilucida
