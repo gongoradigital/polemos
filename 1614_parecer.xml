@@ -2280,7 +2280,7 @@
         <p rend="noindent"><pb
             facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f132r.png"
             n="f. 132r"/> Respecto de lo cual son casi convertibles poeta y profeta, según la
-          autoridad irrefragable de <persName type="authority" key="San Pablo" precision="3">San Pablo</persName>: <quote>«ut dixit quidam ex
+          autoridad irrefragable de <persName type="authority" key="San Pablo" precision="4" unit="quote" quantity="2">San Pablo</persName>: <quote>«ut dixit quidam ex
             illis proprius ipsorum propheta»</quote><note place="margin">ad Titum, cap. 1°</note>
           <note place="bottom"><title>Biblia, Tito</title>, 1, 12 «Como lo dijo uno de ellos [un
             cretense] su propio profeta». La cita de San Pablo, destinada a refrendar con una
