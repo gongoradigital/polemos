@@ -49,7 +49,7 @@
     </fileDesc>
     <encodingDesc>
       <p>L’édition comporte trois niveaux de notes. note[@place="bottom"]: notes d’éditeur (décimal
-        par défaut) note[@place="margin"]: notes marginales de l’auteur (pas de numérotation)
+        par défaut) note[@place="margin" n="A"]: notes marginales de l’auteur (pas de numérotation)
         note[@type="app" rend="I"]: notes d’apparat (I = romain) </p>
     </encodingDesc>
     <profileDesc>
@@ -3383,7 +3383,7 @@
     <body>
       <div>
         <head>ANOTACIONES A LA SEGUNDA SOLEDAD DE DON LUIS DE GONGORA POR PEDRO DIAZ<note
-            place="margin"> Natural de Córdoba v<hi rend="sup">e.</hi> Bibl. Hisp. tomo 2 pág. 150
+            place="margin" n="B"> Natural de Córdoba v<hi rend="sup">e.</hi> Bibl. Hisp. tomo 2 pág. 150
             –– v<hi rend="sup">e.</hi> hic pág. 68.</note><note place="bottom"> La nota marginal del
             manuscrito está escrita con letra y tinta diferente, evidentemente agregada con
             posterioridad dadas las fechas de la edición de Nicolás Antonio citada. La precisa
@@ -4212,7 +4212,7 @@
             place="bottom"> Una vez más, DR pone de relieve el valor de la hipérbole. </note>. Ansí,
           de los hombres insignes que hacen cosas dignas de memoria se puede decir que su sepultura
           es el orbe, pues viven en las memorias de todos, y el peregrino desea esta sepultura, o
-          memoria de su fe, en todo el mundo<note place="margin"> Véase Claudio Minos sobre la <hi
+          memoria de su fe, en todo el mundo<note place="margin" n="C"> Véase Claudio Minos sobre la <hi
               rend="i">Emblema 133</hi> de Alciato y en las notas posteriores, donde trae elegantes
             lugares a este propósito.</note>
           <note place="bottom"> La extensa anotación del comentarista de Alciato, entre otras
@@ -4321,7 +4321,7 @@
                 >OC264C.168</ref></note></l></quote></head>
         <p>Un gran poeta de Sevilla alaba mucho este modo de decir, como quien sabía bien lo poético
           y galán que tiene, y si otros les cayera en suerte tan buen juicio hallaran en este divino
-          poema mucho que admirar y poco que condenar<note place="margin"> Don Jŭ de Arguijo.</note>
+          poema mucho que admirar y poco que condenar<note place="margin" n="D"> Don Jŭ de Arguijo.</note>
           <note place="bottom"> Juan de Arguijo (1567-1623) es definido por DR como un gran poeta
             sevillano, y al enfrentarlo en la nota a «otros» poetas, es evidente que se está
             refiriendo a Juan de Jáuregui, instalando también la polémica en la <hi rend="i">Soledad
@@ -4659,7 +4659,7 @@
             type="authority">Virgilio</persName>, lib. 4 <title>Geórgicas</title><note type="app"
             rend="I"> En el manuscrito se lee «<hi rend="i">georgi, eneid.</hi>», lo que es un
             evidente error del copista, ya que la <hi rend="i">Eneida</hi> aparece citada más
-            abajo.</note>: <note place="margin"> no porque a par de los escollos vive– </note>
+            abajo.</note>: <note place="margin" n="F"> no porque a par de los escollos vive– </note>
           <note place="bottom"> Glosa parte del verso 210 y el verso 211: «<hi rend="i">… no ya
               tanto / porque a la par de los escollos vive</hi>». </note></p>
         <quote><l><hi rend="i">hunc et Nymphae veneramur et ipse</hi></l>
@@ -4668,7 +4668,7 @@
                 ipse / grandaeuus Nereus</hi>»: ‘lo veneramos también las ninfas y el mismo anciano
               Nereo’.</note>,</l></quote>
         <p>Y, por ser deidad muy principal, en las aguas lo fingen con tridente. El mismo <persName
-            type="authority">Virgilio</persName>, lib. 2 <title>Eneida</title>:<note place="margin">
+            type="authority">Virgilio</persName>, lib. 2 <title>Eneida</title>:<note place="margin" n="E">
             ni porque el mar preside comarcano. </note>
           <note place="bottom"> Glosa el verso 212: «<hi rend="i">porque en el mar preside
               comarcano</hi>». Se observa que repite la negación implícita en el v. 210.</note></p>
@@ -4721,7 +4721,7 @@
             >Hesíodo</persName> in <title>Theogonia</title><note place="bottom"> Hesíodo, <hi
               rend="i">Deorum Generatio</hi>, v. 233 y ss.: «<hi rend="i">Nereumque alienum a
               mendacio, et veracem genuit Pontus, </hi>[...]»: ‘El Ponto también engendró al veraz
-            Nereo, que desconoce toda mentira’.</note>. <note place="margin"> cuanto / por seis
+            Nereo, que desconoce toda mentira’.</note>. <note place="margin" n="G"> cuanto / por seis
             hijas </note>
           <note place="bottom"> Copia parte de los versos 213-214: «… <hi rend="i">cuanto / por seis
               hijas, por seis deidades bellas</hi>,».</note></p>
@@ -5009,7 +5009,7 @@
                 <hi rend="i">Geórgicas</hi>, lib. IV, v. 65-66: «Mas si, por el contrario, saliesen
               a campaña, pues con frecuencia con alboroto grande una discordia se origina entre los
               reyes» (Virgilio 1990: 360). El libro IV de las <hi rend="i">Geórgicas</hi> está
-              dedicado a las abejas.</note><note place="margin"> Véase Maiolo, Colloquio 5, mihi
+              dedicado a las abejas.</note><note place="margin" n="H"> Véase Maiolo, Colloquio 5, mihi
               pág. 225. </note><note place="bottom">
               <hi rend="color_00ffff">Simon Maioli</hi> (1520-1597) fue un obispo y autor italiano.
               Su enciclopedia <title>Dies Caniculares</title> trata temas de historia natural,
@@ -6406,7 +6406,7 @@
             <hi rend="color_00ffff">Plinio</hi> desarrolla el tema de la púrpura en su
               <title>Naturalis Historiae</title>, lib. IX, capítulos 36 a 39.</note>. Llámala tirio
           veneno imitando a <persName type="authority">Claudiano</persName>
-          <title>in Epigramma de Phoenice</title>: <note place="margin">
+          <title>in Epigramma de Phoenice</title>: <note place="margin" n="I">
             <hi xml:lang="it" rend="i">Servus in schedis Danielis explicat cur purpura venenum
               dicatur.</hi>
           </note>
@@ -6873,7 +6873,7 @@
                     memorabilium</hi>, que contiene una breve descripción del mundo antiguo, con
                 detalles que responden a cuestiones históricas, sociales, religiosas y naturales. La
                 mayor parte está tomada de la <hi rend="i">Naturalis Historia</hi> de Plinio el Viejo
-                y de la geografía de Pomponio Mela.</note>.<note place="margin"> Lo mismo dice Solino cap. 1.</note>
+                y de la geografía de Pomponio Mela.</note>.<note place="margin" n="J"> Lo mismo dice Solino cap. 1.</note>
             </quote> Aunque comúnmente refutan a Plinio,
           negando casi todos los modernos que el coral produzga alguna fruta. <persName
             type="authority">Andrea Mathioli</persName><note place="bottom">
@@ -7029,7 +7029,7 @@
               >Mentre che l’aureo crin v’ondeggia intorno</hi>» mientras que DR transcribe un
             fragmento de la <hi rend="i">Jerusalén</hi>. </note>. El <persName type="authority"
             >Camoês</persName> es uno de los mejores poetas que ha habido en todas lenguas:<note
-            place="margin"> P<hi rend="sup">te</hi> 1ª de sus <hi rend="i">Rimas</hi>, soneto
+            place="margin" n="K"> P<hi rend="sup">te</hi> 1ª de sus <hi rend="i">Rimas</hi>, soneto
             58.</note></p>
         <quote><l><hi rend="i">Se as penas, com que amor tão mal me trata</hi></l>
           <l><hi rend="i">quizer que tanto tempo viva dellas</hi>, </l>
