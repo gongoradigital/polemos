@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Discurso poético de don Juan de Jáuregui</title>
+        <author key="Jáuregui, Juan de">Juan de Jáuregui</author>
         <editor>Mercedes Blanco</editor>
       </titleStmt>
       <editionStmt>
@@ -4567,7 +4568,7 @@
                 «bajo especie de perfección» (« <hi rend="i">specie recti</hi> »). Como se irá
                 viendo, la famosa sentencia de Horacio, posiblemente citada de memoria, sirve de
                 piedra angular y de leitmotiv al discurso. </note> aquellas sentencias comunes del
-              <persName type="authority" key="Horacio" precision="4" unit="quote" quantity="3">gran Lírico</persName><note place="margin"> Ad Pisones.</note>:
+              <persName type="authority" key="Horacio" precision="4" unit="quote" quantity="1">gran Lírico</persName><note place="margin"> Ad Pisones.</note>:
                   «<quote><hi rend="i">Maxima pars vatum decipimur specie recti. In vitium ducit
                   culpae fuga, si caret arte</hi>»<note place="bottom"> Son fragmentos desgajados de
                   un pasaje del «gran Lírico» por antonomasia, que es al propio tiempo sumo maestro
@@ -5955,7 +5956,7 @@
               Todos estos defectos se reprueban juntos por <persName type="authority" key="Cicerón" precision="3">Cicerón</persName> y
               de todos dice procede la oscuridad<note place="margin"> De Oratore li. 3.</note>. De
               ésta hablaremos después en distinto capítulo. Aquí basta proponer algo <persName 
-                type="authority" key="Cicerón" precision="4" unit="quote" quantity="3">del insigne orador</persName>, bien que sus leyes sean más estrechas
+                type="authority" key="Cicerón" precision="4" unit="quote" quantity="2">del insigne orador</persName>, bien que sus leyes sean más estrechas
               que las poéticas<note place="bottom"> Se refiere a las «leyes» de Cicerón: Craso, su portavoz en <hi rend="i">De
                   oratore</hi>, insiste en que el orador tiene estricta obligación de ser claro para
                 que sus oyentes le sigan sin hastío y sin cansancio. Jáuregui sabe que ciertos
