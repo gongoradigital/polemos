@@ -16,6 +16,7 @@
 * [1630_vida-mayor](1630_vida-mayor.xml)
 * [1631_obras-quevedo](1631_obras-quevedo.xml)
 * [1633_escrutinio](1633_escrutinio.xml)
+* [1633_vida-hoces](1633_vida-hoces.xml)
 * [1633_tragedia](1633_tragedia.xml)
 * [1635,epistolas](1635,epistolas.xml)
 * [1636,ilustracion1](1636,ilustracion1.xml)
