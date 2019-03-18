@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="apologetico.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1617_pasajero-figueroa">
 <!--Odette: 2016-10-31T11:18:10+01:00-->
   <teiHeader>
@@ -29,7 +30,8 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
+        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/1617_pasajero-figueroa</idno>
         <date when="2016"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
@@ -115,8 +117,8 @@
             <cell/>
           </row>
         </table>-->
-      <front>
-        <div>
+      <body>
+        <div type="introduction">
           <head>9. Establecimiento del texto</head>
           <p>Para nuestra edición crítica hemos cotejado la edición de Madrid (1617) y la de Barcelona (1618). A la primera le damos la sigla M y a la segunda B, para identificar la procedencia de las variantes que señalamos en las notas de la edición crítica (números romanos).</p>
         </div>
@@ -197,8 +199,7 @@ La edición de 1628 (procedente de laBiblioteca Regional de Madrid) se puede con
             <bibl>—, <hi rend="i">Discurso sobre el estilo de don Luis de Góngora</hi>, Saiko Yoshida (ed.), en Francis Cerdan y Marc Vitse (eds.), <hi rend="i">Autour des Solitudes. En torno a las Soledades de Luis de Góngora</hi>, Toulouse, Presses Universitaires du Mirail, 1995, p. 89-106.</bibl>
           </div>
         </div>
-      </front>
-      <body>
+      <div>
         <index indexName="resp" n="Suárez de Figueroa, Cristóbal"/>
         <index indexName="date" n="1617"/>
         <head>Texto de la edición</head>
@@ -246,6 +247,7 @@ La edición de 1628 (procedente de laBiblioteca Regional de Madrid) se puede con
           <p>DON LUIS. Si en esto, respecto de lo poco que sé, puedo opinar, el soneto me parece admirable. No deja cosa por tocar. Narra a lo lacónico, y descubre maravillosamente lo más interior, los afectos, las pasiones. Es singular la distribución del fin en ambos, con que la conclusión viene a ser preciosa.</p>
           <p/>
         </div>
+      </div>
       </body>
   </text>
 </TEI>

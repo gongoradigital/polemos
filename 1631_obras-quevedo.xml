@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="apologetico.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1631_obras-quevedo">
   <teiHeader>
     <fileDesc>
@@ -29,8 +29,8 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date when="2017"/>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
+        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/1631_obras-quevedo</idno><date when="2017"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
             >http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
@@ -101,8 +101,8 @@
         </table>
       </div>
       -->
-    <front>
-      <div>
+    <body>
+      <div type="introduction">
         <head>Introducción</head>
         <div>
           <head>1. Título</head>
@@ -2208,8 +2208,6 @@
           </div>
         </div>
       </div>
-    </front>
-    <body>
       <div>
         <index indexName="resp" n="Quevedo, Francisco de"/>
         <index indexName="date" n="1631"/>
