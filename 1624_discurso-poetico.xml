@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="apologetico.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1624_discurso-poetico">
   <teiHeader>
     <fileDesc>
@@ -53,8 +53,8 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date when="2016"/>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
+        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/1624_discurso-poetico</idno><date when="2016"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
             >http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
@@ -84,8 +84,8 @@
       </ref> 1624_discurso-poético</head><table><row><cell>Editor científico</cell><cell>Mercedes Blanco</cell></row><row><cell>Autor</cell><cell>Juan de Jáuregui</cell></row><row><cell>Destinatario / dedicatario</cell><cell>Gaspar de Guzmán, conde de Olivares</cell></row><row><cell>Título</cell><cell>Discurso poético</cell></row><row><cell>Fecha</cell><cell>1624</cell></row><row><cell>Fuentes</cell><cell><p rend="noindent"><hi rend="i">- Discurso poetico de don Iuan de Jauregui</hi>, En Madrid: Por Iuan Gonçalez, 1624. Descripción: [2], 40 h. ; 4º;</p><list type="ul" rend="-"><item rend="listparagraph">Biblioteca Histórica Marqués de Valdecilla (Universidad Complutense), BH FLL Res. 1046(3) - Ex libris de la Condesa del Campo de Alange. Sello de la librería de Campo-Alange, 1891. Encuadernado con otras obras. Ingresó en la Biblioteca Histórica procedente de la Facultad de Filología en 2000. Encuadernación de pergamino - R. i31466795</item></list><p rend="noindent">Fuente manuscrita:</p><list type="ul" rend="-"><item rend="listparagraph">BNE, ms. 3980 (Codex descriptus del impreso según José Manuel Rico. Contiene el <hi rend="i">Discurso</hi> y el <hi rend="i">Orfeo</hi> de Jáuregui).</item></list></cell></row><row><cell>Ediciones modernas</cell><cell><p>- José Jordán de Urríes, <hi rend="i">Biografía y estudio crítico de Jáuregui</hi>, Madrid, Suc. de Rivadeneyra, 1899. Recoge el <hi rend="i">Discurso poético</hi> en las pp. 220-260.</p><list type="ul" rend="-"><item rend="listparagraph">Marcelino Menéndez Pelayo, <hi rend="i">Historia de las ideas estéticas en España</hi>, Madrid, CSIC, 1974, vol. II, pp. 814-821 (edición parcial).</item><item rend="listparagraph"><hi rend="i">Discurso poético</hi>, edición facsímil de Antonio Pérez Gómez, Valencia, «… la fonte que mana y corre», 1957.</item><item rend="listparagraph"><hi rend="i">Discurso poético</hi>, ed. Melchora Romanos, Madrid, Editora Nacional, 1978.</item><item rend="listparagraph">Alberto Porqueras Mayo, <hi rend="i">La teoría poética en el Manierismo y Barroco españoles</hi>, Barcelona: Puvill Libros, 1989, pp. 126-138 (edición parcial).</item><item rend="listparagraph"><hi rend="i">La literatura española a través de sus poéticas, retóricas, manifiestos y textos programáticos: (Edad Media y Siglos de Oro)</hi>, edición y selección de José María Reyes Cano, Madrid, Cátedra, 2010, pp. 553-594. Edición íntegra, pero sigue de cerca la edición de Melchora Romanos.</item></list></cell></row><row><cell>Responde a otro texto</cell><cell>No</cell></row><row><cell>Referencias a la polémica</cell><cell>No hay referencias explícitas, sí muchas alusiones inequívocas a textos de Lope de Vega (1621_censura-lope y 1624_colmenares-contra-Lope), y otras verosímiles a textos en defensa de Lope, especialmente los del Abad de Rute y Díaz de Rivas.</cell></row></table>
             </div>
       -->
-    <front>
-      <div>
+    <body>
+      <div type="introduction">
         <head>Introducción</head>
         <div>
           <head>1. Título [La estrategia de lo indefinido]</head>
@@ -2497,7 +2497,6 @@
           </div>
           <div>
             <head>2. Las citas como sistema</head>
-            
             <table rend="data">
               <row>
                 <cell role="label"/>
@@ -4162,11 +4161,9 @@
           </div>
         </div>
       </div>
-    </front>
-    <body>
-      <index indexName="resp" n="Jáuregui, Juan de"/>
-      <index indexName="date" n="1624"/>
       <div>
+        <index indexName="resp" n="Jáuregui, Juan de"/>
+        <index indexName="date" n="1624"/>
         <head>Discurso poético de don Juan de Jáuregui</head>
         <div>
           <p>Al excelentísimo señor don Gaspar de Guzmán, conde de Olivares, sumiller de corps,

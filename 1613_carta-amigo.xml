@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="apologetico.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1613_carta-amigo">
   <teiHeader>
     <fileDesc>
@@ -49,8 +50,8 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date when="2016"/>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
+        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/1613_carta-amigo</idno><date when="2016"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
         </availability>
@@ -107,10 +108,10 @@
           <row>
             <cell>Ediciones modernas</cell>
             <cell>
-              <p xml:lang="it">Carreira (1994: vol. I, 151-171)</p>
-              <p xml:lang="it">Carreira (1998: 241-245)</p>
-              <p xml:lang="it">Góngora (2000: vol. II, 513-518)</p>
-              <p xml:lang="it">Sliwa (2004: 587-591)</p>
+              <p>Carreira (1994: vol. I, 151-171)</p>
+              <p>Carreira (1998: 241-245)</p>
+              <p>Góngora (2000: vol. II, 513-518)</p>
+              <p>Sliwa (2004: 587-591)</p>
             </cell>
           </row>
           <row>
@@ -124,8 +125,8 @@
          </table>
       </div>
       -->
-    <front>
-      <div>
+    <body>
+      <div type="introduction">
         <head>Introducción de Daria Castaldo</head>
         <div>
           <head>[1. Título] El parecer temprano de un desconocido autor</head>
@@ -150,18 +151,18 @@
         </div>
         <div>
           <head>[3. Cronología] En los umbrales de la polémica</head>
-          <p>Como se ha dicho, la <hi rend="i">Carta de un amigo</hi> se encuentra en un manuscrito tardío, fechado en la segunda mitad del siglo XVII y actualmente conservado en la Biblioteca Pública Municipal de Oporto. Fue trasmitido por un único testimonio, del cual fue probablemente colector, como señala Carreira<note place="bottom">Antonio Carreira ofrece una pormenorizada descripción del manuscrito (1998: 240-245), así como Juan Manuel Daza Samoano (2011: 275-276).</note>, el poeta y jurista portugués Christóvão Alão de Moraes<note place="bottom">Biblioteca Pública Municipal de Oporto, ms. 626, <hi xml:lang="pt" rend="i">Poesias de Alão</hi>, f. 99 r.-102r.</note>.</p>
+          <p>Como se ha dicho, la <hi rend="i">Carta de un amigo</hi> se encuentra en un manuscrito tardío, fechado en la segunda mitad del siglo XVII y actualmente conservado en la Biblioteca Pública Municipal de Oporto. Fue trasmitido por un único testimonio, del cual fue probablemente colector, como señala Carreira<note place="bottom">Antonio Carreira ofrece una pormenorizada descripción del manuscrito (1998: 240-245), así como Juan Manuel Daza Samoano (2011: 275-276).</note>, el poeta y jurista portugués Christóvão Alão de Moraes<note place="bottom">Biblioteca Pública Municipal de Oporto, ms. 626, <hi rend="i">Poesias de Alão</hi>, f. 99 r.-102r.</note>.</p>
           <p>El manuscrito contiene un significativo <hi rend="i">corpus</hi> gongorino, formado por textos de la polémica y poemas (sonetos, romances y letrillas). El interés del colector por la poesía del cordobés se traduce también en la inclusión de una fábula en octavas sobre Polifemo y Galatea, titulada <hi rend="i">Cyclope enamorado</hi>, en lengua portuguesa y compuesta por su mano. En la elección de los textos de la polémica se puede detectar un criterio no casual. La serie empieza con el <hi rend="i">Antídoto</hi> y los <hi rend="i">Discursos apologéticos</hi>, ataque y defensa celebérrimos de las <hi rend="i">Soledades</hi>. A continuación figuran tres epístolas: la carta de nuestro autor, la famosa carta anónima que ha sido modernamente atribuida a Lope<note place="bottom">[1615_carta-amigo-gongora]</note>, aunque sin pruebas fehacientes, y la <hi rend="i">Respuesta</hi> gongorina<note place="bottom">[1615_carta-gongora]</note>, que constituyen un bloque compacto. Si consideráramos que el orden de las piezas es cronológico, podríamos acotar la datación de nuestra carta, pero la fecha «inverosímil»<note place="bottom">Daza Samoano (2011: 277).</note> de 1617 que aparece en las dos misivas mencionadas nos obliga a valorar estos elementos con la máxima cautela. Según el orden de aparición en el manuscrito se podría conjeturar que nuestra carta es muy probablemente la más antigua dentro de este bloque epistolar y que, además, separa dos parejas de textos claramente distinguibles. Sus datos internos, como veremos a continuaciόn, confirman la hipótesis de que es posterior al <hi rend="i">Antídoto</hi> y a los <hi rend="i">Discursos</hi>.</p>
           <p>Contextualizar este texto en la fase epistolar de la polémica implica acudir a más datos que permitan establecer un lapso de tiempo lo más preciso posible, datos que se pueden extraer de la misma carta.</p>
           <p>De la <hi rend="i">Soledad primera</hi>, el anónimo autor cita siete fragmentos y hace referencia al verso 473 sin mencionarlo por completo, así como el verso 66 de la <hi rend="i">Soledad segunda</hi>. Los versos comentados del poema gongorino ofrecen un solo dato seguro: el texto que manejó el anónimo autor, y que el mismo Góngora le envió, recogía la <hi rend="i">Solededad primera</hi> y al menos los primeros sesenta y seis versos de la <hi rend="i">Segunda</hi>.</p>
           <p>La cita de los versos 333-334 de la <hi rend="i">Soledad Primera</hi>, «y con razón, que el tálamo desdeña/ la sombra aun de lisonja tan pequeña», protagonizados por el inquieto gamo ofrecido a los novios, nos proporciona alguna información más sobre el autor y sobre la posible fecha de su carta. Gracias a estos versos, de hecho, se excluye con absoluta seguridad que haya leído la versión primitiva, donde aparecía la variante «si el tálamo», modificada posteriormente por Góngora<note place="bottom">La reconstrucción de la versión primitiva de las <hi rend="i">Soledades</hi>, realizada por Dámaso Alonso (1982b: VI, 423-442) en la primera mitad del siglo pasado, ha ido adquiriendo contribuciones más que significativas en los años siguientes por medio del descubrimiento de nuevos testimonios manuscritos. La tradición del poema gongorino se ha enriquecido a lo largo del tiempo gracias a algunas copias desconocidas que han permitido definir las etapas de su proceso redaccional. Sobre la cuestión son imprescidibles los estudios de Dámaso Alonso (1978a y 1978b, 1982b), Valente y Glendling (1959), y Jammes (1984, 1994 y 1995) y ahora Rojas (2015).</note>. Esta variante contiene justamente «la partícula <hi rend="i">si</hi>», cuyo uso excesivo Pedro de Valencia criticó en su carta<note place="bottom">Pedro de Valencia (2000: 464). [1613_carta-valencia]</note>. Quizá los mismos versos estaban incluidos en la lista de reparos, desgraciadamente perdida, que el erudito adjuntó a su censura. En la versión definitiva de su poema, Góngora redujo sensiblemente el uso de la conjunción<note place="bottom">Jammes contó hasta treinta y tres casos de supresión por parte de Góngora de contraposiciones cuales: si…no, no…sí, no...sino, sí y si adversativo (Jammes 1995: 127-129).</note>, y este fragmento concreto nos induce a considerar el texto de nuestra carta como posterior a la de Pedro de Valencia.</p>
-          <p rend="commentaire">Por el contrario, tampoco se puede excluir que, dada la relación de amistad que lo unía al poeta o la cercanía al círculo cordobés, haya podido tener acceso a una redacción intermedia entre la primitiva y la que corresponde a la segunda fase de la redacción según Jammes. Si damos crédito a la afirmación del estudioso gongorino según la cual, «pendiente de la respuesta de Pedro de Valencia y de las reacciones de algunos lectores», Góngora habría «tardado algunos meses en emprender la segunda <hi rend="i">Soledad</hi>» y que la habría empezado «verosímilmente durante el otoño siguiente, momento en que solicita el parecer del Abad de Rute»<note place="bottom">Jammes (1994: 17-18).</note>, no parece improbable proponer el otoño del 1613 como fecha de composición de nuestra carta. Podría confirmar esta propuesta la enmienda que afecta los versos 333 y 334 y la redacción de la <hi rend="i">Sylva a las Soledades</hi> de Manuel Ponce. Como afirma Antonio Azaustre, Manuel Ponce «en noviembre de 1613 disponía de una versión del texto posterior a la primitiva y cercana a la definitiva»<note place="bottom">Azaustre (2015: 76).</note> y los versos 333-334, en su versión definitiva, están anotados por «el primer comentarista de Góngora»<note place="bottom">Alonso (1982a).</note>. Adquiere por tanto mayor probabilidad que nuestro autor manejara una redacción intermedia, y podría asumirse como un indicio más el hecho de que en nuestro <hi rend="i">parecer</hi> solo se encuentre una referencia a la <hi rend="i">Soledad segunda</hi> (en el verso 66).</p>
+          <p>Por el contrario, tampoco se puede excluir que, dada la relación de amistad que lo unía al poeta o la cercanía al círculo cordobés, haya podido tener acceso a una redacción intermedia entre la primitiva y la que corresponde a la segunda fase de la redacción según Jammes. Si damos crédito a la afirmación del estudioso gongorino según la cual, «pendiente de la respuesta de Pedro de Valencia y de las reacciones de algunos lectores», Góngora habría «tardado algunos meses en emprender la segunda <hi rend="i">Soledad</hi>» y que la habría empezado «verosímilmente durante el otoño siguiente, momento en que solicita el parecer del Abad de Rute»<note place="bottom">Jammes (1994: 17-18).</note>, no parece improbable proponer el otoño del 1613 como fecha de composición de nuestra carta. Podría confirmar esta propuesta la enmienda que afecta los versos 333 y 334 y la redacción de la <hi rend="i">Sylva a las Soledades</hi> de Manuel Ponce. Como afirma Antonio Azaustre, Manuel Ponce «en noviembre de 1613 disponía de una versión del texto posterior a la primitiva y cercana a la definitiva»<note place="bottom">Azaustre (2015: 76).</note> y los versos 333-334, en su versión definitiva, están anotados por «el primer comentarista de Góngora»<note place="bottom">Alonso (1982a).</note>. Adquiere por tanto mayor probabilidad que nuestro autor manejara una redacción intermedia, y podría asumirse como un indicio más el hecho de que en nuestro <hi rend="i">parecer</hi> solo se encuentre una referencia a la <hi rend="i">Soledad segunda</hi> (en el verso 66).</p>
           <p>Sin embargo, el polemista sabe que durante el curso de la narración se desvelarán progresivamente detalles sobre el origen noble del peregrino<note place="bottom">Jammes (1994: 47-50).</note> y lo dice claramente, dejando entender que el texto entre sus manos va más allá de los fragmentos citados. Pero, ¿y si fuera solo una anticipación filtrada?</p>
           <p>Se trata de una hipótesis que no se puede descartar con total seguridad y que nos invita a la siguiente reflexión. El anónimo autor, al definir el asunto de la obra gongorina, afirma: «el intento principal de vuestra merced –es– describirnos la vida pastoral de suerte que el peregrino y su viaje es un camino o medio que vuestra merced elige para alcanzar el principal fin, que fue imitar en la <hi rend="i">Primera Soledad</hi> [la] del ganadero, la del pescador en la <hi rend="i">Segunda</hi>; y así las demás». Deja, por tanto, suponer que sabe del plan originario de las cuatro <hi rend="i">Soledades</hi> que nos refieren Pedro Díaz de Rivas, el Abad de Rute y luego Pellicer con interpretación alegórica adjunta. Considerando la cercanía de nuestro autor y de los autores cordobeses al poeta, adquirimos aquí un dato que refuerza la opinión de que Góngora «comentase alguna vez a sus amigos más cercanos su idea de un poema en varias partes» y que el proyecto original no fue solo conjetura de los primeros comentaristas<note place="bottom">Véase Sánchez Robayna (2011: 306-307).</note>. Por todo ello, el conocimiento del plan originario de la obra que tenía este anónimo y su cercanía al poeta permiten situar la carta en los momentos iniciales de la composición de la <hi rend="i">Soledad segunda</hi>.</p>
           <p>Conjeturar la existencia de una redacción intermedia supone aceptar como consecuencia la posibilidad de que nuestra epístola sea anterior al <hi rend="i">Parecer</hi> del Abad de Rute. La relación entre los dos textos resulta determinante para comprender el lugar que nuestra carta ocupa en el tiempo y en el espacio literario de la polémica.</p>
           <p>La proximidad entre los dos textos no solo es posible, sino muy probable puesto que comparten el doble estatuto de epístola y <hi rend="i">parecer</hi>. Partiendo de este punto en común entre las dos cartas que se vislumbra como más interesante, hay que precisar que ambas proponen para las <hi rend="i">Soledades</hi> el género bucólico. Huelga recordar la evidente negación de esta adscripción genérica por parte del Abad de Rute en su <hi rend="i">Examen</hi>, dictada por la intención apologética que no tenía en los tiempos del <hi rend="i">Parecer</hi>, cuando todavía el <hi rend="i">Antídoto</hi> no había intervenido en el debate en torno al poema gongorino.</p>
           <p>La necesidad especulativa que modela la reflexión sobre el género, y que se traduce en el análisis de las cuatro condiciones necesarias para la épica que nos van conduciendo hasta la prueba más convincente a favor del género bucólico, está totalmente ausente en el <hi rend="i">Parecer</hi> del Abad de Rute. Sus observaciones sobre el género se exponen en función de la crítica de la oscuridad y del estilo sublime inadecuado para el género bucólico, considerándolo, por tanto, como algo evidente, o probado de una vez por todas, a lo que no hay que prestar mayor atención.</p>
-          <p rend="commentaire">La forma de tratar el tema de la oscuridad en los dos textos es muy distinta. El autor de la <hi rend="i">Carta</hi> desarrolla una defensa ingenua y débil. Trata con inseguridad una cuestión compleja, despachándola someramente. Según el Abad de Rute, la oscuridad es fruto de la «demasía de tropos y esquemas, paréntesis, aposiciones, contraposiciones, interposiciones, sinécdoques, metáforas y otras figuras artificiosas y bizarras»<note place="bottom">[1614_parecer]</note>, y contra este presunto exceso pronuncia una firme condena. Apoyado por la <hi rend="i">communis opinio</hi> de la república literaria española –ya que «sienten lo mismo en Córdoba, en Granada, en Sevilla, en Madrid»<note place="bottom">[1614_parecer]</note>–, pone en guardia a Góngora:</p>
+          <p>La forma de tratar el tema de la oscuridad en los dos textos es muy distinta. El autor de la <hi rend="i">Carta</hi> desarrolla una defensa ingenua y débil. Trata con inseguridad una cuestión compleja, despachándola someramente. Según el Abad de Rute, la oscuridad es fruto de la «demasía de tropos y esquemas, paréntesis, aposiciones, contraposiciones, interposiciones, sinécdoques, metáforas y otras figuras artificiosas y bizarras»<note place="bottom">[1614_parecer]</note>, y contra este presunto exceso pronuncia una firme condena. Apoyado por la <hi rend="i">communis opinio</hi> de la república literaria española –ya que «sienten lo mismo en Córdoba, en Granada, en Sevilla, en Madrid»<note place="bottom">[1614_parecer]</note>–, pone en guardia a Góngora:</p>
           <quote>
           <p>Podrá ser que, <hi rend="i">multiplicatis intercessoribus</hi>, restituya vuestra merced a su casa la claridad y venustidad antigua con que han salido y sido tan justamente celebradas por el mundo sus obras. Crea vuestra merced que muchos ven esto, aunque se lo digan pocos, parte de los cuales lo dejan por no confesarse menos agudos en el entender, parte por no atreverse, parte por mostrarse eruditos defendiendo la oscuridad y otras cosillas (si las hay) en que se pudiera reparar, anteponiendo con esto la adulación y estimación de sus ingenios a la verdadera amistad<note place="bottom">[1614_parecer]</note>.</p>
           </quote>
@@ -258,17 +259,17 @@
             <div>
               <head>10.2.1 Manuscritos</head>
               <bibl>—, BNE, ms. 3726: <hi rend="i">Obras de Góngora y referentes a su obra. Contiene el Antidoto contra la pestilente Poesia de las Soledades aplicado a su Autor para defenderle de si mismo</hi>, f. 224r-248r.</bibl>
-              <bibl>—, Biblioteca Pública Municipal de Oporto (BPMO), ms. 626, <hi xml:lang="pt" rend="i">Poesias de Alão</hi>, f. 99r-102r.</bibl>
+              <bibl>—, Biblioteca Pública Municipal de Oporto (BPMO), ms. 626, <hi rend="i">Poesias de Alão</hi>, f. 99r-102r.</bibl>
             </div>
             <div>
               <head>10.2.2 Impresos anteriores a 1800</head>
               <p rend="noindent"><hi rend="sc">Escalígero</hi>, Julio César:</p>
               <bibl>—, <ref target="https://books.google.co.uk/books?id=vOZBAAAAcAAJ"><hi rend="i">Poetices libri</hi><hi rend="i">septem</hi></ref>, Lugduni: apud Antonium Vincentium, 1561.</bibl>
               <p rend="noindent"><hi rend="sc">Espinosa</hi>, Pedro:</p>
-              <bibl>—, <ref target="http://alfama.sim.ucm.es/dioscorides/consulta_libro.asp?ref=B19438187&amp;idioma=0"><hi xml:lang="it" rend="i">Primera parte de las Flores de poetas ilustres de España</hi></ref>, En Valladolid: por Luys Sanchez, 1605.</bibl>
+              <bibl>—, <ref target="http://alfama.sim.ucm.es/dioscorides/consulta_libro.asp?ref=B19438187&amp;idioma=0"><hi rend="i">Primera parte de las Flores de poetas ilustres de España</hi></ref>, En Valladolid: por Luys Sanchez, 1605.</bibl>
               <p rend="noindent"><hi rend="sc">Minturno</hi>, Antonio:</p>
               <bibl>—, <ref target="http://bvpb.mcu.es/es/consulta/registro.cmd?id=436356"><hi rend="i">De poeta, ad Hectorem Pignatellum vibonensium ducem libri sex</hi></ref> […], Venetiis: apud Franciscum Rampazetum, 1559.</bibl>
-              <bibl>—, <ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10163809.html"><hi xml:lang="it" rend="i">L’arte poetica di Antonio Minturno, della quale si contengono i precetti eroici, tragici, comici e d’ogn’altra poesia, con le postille del dottor Valvassori</hi></ref>, in Venetia: per Gio. Andrea Valvassori, 1563.</bibl>
+              <bibl>—, <ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10163809.html"><hi rend="i">L’arte poetica di Antonio Minturno, della quale si contengono i precetti eroici, tragici, comici e d’ogn’altra poesia, con le postille del dottor Valvassori</hi></ref>, in Venetia: per Gio. Andrea Valvassori, 1563.</bibl>
               <p rend="noindent"><hi rend="sc">Pellicer de Salas y Tovar</hi>, José:</p>
               <bibl>—, <hi rend="i">Lecciones solemnes a las obras de Don Luis de Góngora y Argote</hi>, Madrid: Imprenta del Reino, 1630.</bibl>
             </div>
@@ -287,16 +288,16 @@
               <bibl>—, «El muflón sardo en unos versos de Góngora. Dificultades de interpretación», <hi rend="i">Revista de Filología española</hi>, XLV, 1962, p. 1-18.</bibl>
               <p rend="noindent"><hi rend="sc">Aristóteles</hi>:</p>
               <bibl>—, <hi rend="i">Poétique</hi>, Joseph Hardy (ed. y trad.), Paris, Les Belles Lettres, 1965.</bibl>
-              <bibl>—, <hi xml:lang="it" rend="i">Poética</hi>, Valentín García Yebra (trad.), Madrid, Gredos, 1974.</bibl>
+              <bibl>—, <hi rend="i">Poética</hi>, Valentín García Yebra (trad.), Madrid, Gredos, 1974.</bibl>
               <p rend="noindent"><hi rend="sc">Artigas</hi>, Miguel:</p>
               <bibl>—, <hi rend="i">Don Luis de Góngora y Argote. Biografía y estudio crítico</hi>, Madrid, Real Academia Española, Tipografía de la Revista de Archivos, 1925.</bibl>
               <p rend="noindent"><hi rend="sc">Azaustre Galiana</hi>, Antonio:</p>
               <bibl>—, «El uso rétorico de las <hi rend="i">Autoridades</hi> en las polémicas literarias sobre el estilo culto», Salvador Montesa Peydró (ed.), <hi rend="i">A zaga de tu huella. Homenaje al profesor Cristóbal Cueva</hi>, Málaga, <ref target="https://dialnet.unirioja.es/servlet/editor?codigo=3391">Asociación para el Estudio, Difusión e Investigación de la Lengua y Literatura Españolas</ref>, 2005, vol. I, p. 309-334.</bibl>
               <bibl>—, «Ideas retóricas de Manuel Ponce a propósito de las<hi rend="i"> Soledades</hi>», <hi rend="i">Bulletin Hispanique</hi>, vol. 117, n.° 1, 2015, p. 65- 94.</bibl>
               <p rend="noindent"><hi rend="sc">Blanco</hi>, Mercedes:</p>
-              <bibl>—, «El toro nupcial de la <hi xml:lang="it" rend="i">Soledad Primera</hi>. Idiolecto y agudeza en la poética barroca de las <hi rend="i">Soledades</hi>», A. J. Morales Martínez (dir.),<hi rend="i"> Congreso Internacional Andalucía barroca. Literatura, Música, Fiesta</hi>, Sevilla, Junta de Andalucía, 2009, vol. III, p. 41–52.</bibl>
+              <bibl>—, «El toro nupcial de la <hi rend="i">Soledad Primera</hi>. Idiolecto y agudeza en la poética barroca de las <hi rend="i">Soledades</hi>», A. J. Morales Martínez (dir.),<hi rend="i"> Congreso Internacional Andalucía barroca. Literatura, Música, Fiesta</hi>, Sevilla, Junta de Andalucía, 2009, vol. III, p. 41–52.</bibl>
               <bibl>—, «El <hi rend="i">Panegírico al duque de Lerma</hi> como poema heroico», Juan Matas Caballero, José María Micó y Jesús Ponce Cárdenas (dirs.),<hi rend="i"> El duque de Lerma: poder y literatura en el Siglo de Oro</hi>, Madrid, Centro de Estudios Europa Hispánica, 2011, p. 11-56.</bibl>
-              <bibl>—, <hi xml:lang="it" rend="i">Góngora heroico. Las</hi> Soledades <hi rend="i">y la tradición épica</hi>, Madrid, Centro de Estudios Europa Hispánica, 2012a.</bibl>
+              <bibl>—, <hi rend="i">Góngora heroico. Las</hi> Soledades <hi rend="i">y la tradición épica</hi>, Madrid, Centro de Estudios Europa Hispánica, 2012a.</bibl>
               <bibl>—, <hi rend="i">Góngora o la invención de una lengua</hi>, León, Universidad de León, 2012b.</bibl>
               <bibl>—, «Las <hi rend="i">Soledades</hi> a la luz de la polémica», Begoña Capllonch, Sara Pezzini, Giulia Poggi, y Jesús Ponce Cárdenas (coords.), <hi rend="i">La Edad del Genio: España e Italia en tiempo de Góngora</hi>, Pisa, Edizioni ETS, 2013, p. 7-40.</bibl>
               <p rend="noindent"><hi rend="sc">Carreira</hi>, Antonio:</p>
@@ -310,7 +311,7 @@
               <p rend="noindent"><hi rend="sc">Daza Somoano</hi>, Juan Manuel:</p>
               <bibl>—, «Los testimonios de la polémica epistolar Lope-Góngora (1615-1616), con edición de la respuesta de Góngora», Begoña López Bueno (ed.), <hi rend="i">El poeta Soledad. Góngora (1609-1615)</hi>, Zaragoza, Prensas universitarias de Zaragoza, 2011, p. 271-287.</bibl>
               <p rend="noindent"><hi rend="sc">Díaz de Rivas</hi>, Pedro:</p>
-              <bibl>—, <hi xml:lang="it" rend="i">Discursos apologéticos</hi>, Eunice Joiner Gates (ed.), <hi xml:lang="it" rend="i">Documentos gongorinos</hi>, México, El Colegio de México, 1960, p. 35-67.</bibl>
+              <bibl>—, <hi rend="i">Discursos apologéticos</hi>, Eunice Joiner Gates (ed.), <hi rend="i">Documentos gongorinos</hi>, México, El Colegio de México, 1960, p. 35-67.</bibl>
               <p rend="noindent"><hi rend="sc">Egido</hi>, Aurora:</p>
               <bibl>—, «<hi rend="i">Sin poéticas hay poetas</hi>. Sobre la teoría de la égloga en el Siglo de Oro», <hi rend="i">Criticón</hi>, 30, 1985, p. 43-77.</bibl>
               <p rend="noindent"><hi rend="sc">Espinosa</hi>, Pedro:</p>
@@ -372,9 +373,9 @@
               <bibl>—, «Una copia desconocida de las <hi rend="i">Soledades</hi> de Góngora», <hi rend="i">Bulletin of Hispanic Studies</hi>, XXXVI, 1959, pp 1-14.</bibl>
               <p rend="noindent"><hi rend="sc">Tasso</hi>, Torquato:</p>
               <bibl>—, <hi rend="i">Discorsi dell’arte poetica e del poema eroico</hi>, Luigi Poma (ed.), Laterza, Bari, 1964.</bibl>
-              <p rend="noindent"><bibl><hi xml:lang="it" rend="i">Trattati di poetica e retorica del Cinquecento</hi>, Bernard Weinberg (ed.), Laterza, Bari, 1970-1974, 4 vols.</bibl></p>
+              <p rend="noindent"><bibl><hi rend="i">Trattati di poetica e retorica del Cinquecento</hi>, Bernard Weinberg (ed.), Laterza, Bari, 1970-1974, 4 vols.</bibl></p>
               <p rend="noindent"><hi rend="sc">Valencia</hi>, Pedro de:</p>
-              <bibl>—, <hi xml:lang="it" rend="i">Carta de Pedro de Valencia a don Luis de Góngora en censura y juicio que hace de su poesía</hi>, Luis de Góngora y Argote, <hi rend="i">Obras completas</hi>, Antonio Carreira (ed.), Madrid, Biblioteca Castro, 2000, vol. II, p. 461-469.</bibl>
+              <bibl>—, <hi rend="i">Carta de Pedro de Valencia a don Luis de Góngora en censura y juicio que hace de su poesía</hi>, Luis de Góngora y Argote, <hi rend="i">Obras completas</hi>, Antonio Carreira (ed.), Madrid, Biblioteca Castro, 2000, vol. II, p. 461-469.</bibl>
               <p rend="noindent"><hi rend="sc">Virgilio</hi>:</p>
               <bibl>—, <hi rend="i">Enéide</hi>, Jacques Perret (ed. y trad.), Paris, Les Belles Lettres, 1977 (t. 1: libros I-IV), 1978 (t. 2: libros V-VIII), 1980 (t. 3: libros IX-XII).</bibl>
               <bibl>—, <hi rend="i">Bucoliques</hi>, Eugène de Saint-Denis (ed. y trad.), Paris, Les Belles Lettres, 1970.</bibl>
@@ -423,7 +424,7 @@
             <row>
               <cell>p</cell>
               <cell>
-                <p rend="tableau">Su zapatilla<note place="bottom">RAE: Rasgo horizontal que suelen llevar por adorno los trazos rectos de las letras.</note> es más recta y abierta (f. 99r, línea 6).</p>
+                <p>Su zapatilla<note place="bottom">RAE: Rasgo horizontal que suelen llevar por adorno los trazos rectos de las letras.</note> es más recta y abierta (f. 99r, línea 6).</p>
               </cell>
               <cell>Su zapatilla es más curva y cerrada (f. 100v, línea 4).</cell>
             </row>
@@ -435,19 +436,19 @@
             <row>
               <cell>D</cell>
               <cell>
-                <p rend="tableau">Su asta describe una curva pequeña (f. 99r, línea 2).</p>
+                <p>Su asta describe una curva pequeña (f. 99r, línea 2).</p>
               </cell>
               <cell>
-                <p rend="tableau">Su asta describe una curva que envuelve la letra (f. 100v, línea 10 y 26).</p>
+                <p>Su asta describe una curva que envuelve la letra (f. 100v, línea 10 y 26).</p>
               </cell>
             </row>
             <row>
               <cell>A</cell>
               <cell>
-                <p rend="tableau">Al final del primer trazo vertical de esta letra se forman un punto (f. 99r, línea 2, 22 y 27).</p>
+                <p>Al final del primer trazo vertical de esta letra se forman un punto (f. 99r, línea 2, 22 y 27).</p>
               </cell>
               <cell>
-                <p rend="tableau">El último trazo vertical de la letra se curva envolviéndola y creando el trazo horizontal que cierra la letra (f. 100v línea 16 y 19).</p>
+                <p>El último trazo vertical de la letra se curva envolviéndola y creando el trazo horizontal que cierra la letra (f. 100v línea 16 y 19).</p>
               </cell>
             </row>
           </table>
@@ -458,30 +459,30 @@
             <row>
               <cell>Localización</cell>
               <cell>
-                <p rend="tableau">Bloque 1</p>
-                <p rend="tableau">(f. 99r-100r)</p>
+                <p>Bloque 1</p>
+                <p>(f. 99r-100r)</p>
               </cell>
               <cell>Abreviatura desarrollada</cell>
               <cell>
-                <p rend="tableau">Bloque 2</p>
-                <p rend="tableau">(f. 100v-102r)</p>
+                <p>Bloque 2</p>
+                <p>(f. 100v-102r)</p>
               </cell>
               <cell>Localización</cell>
             </row>
             <row>
               <cell rows="3">
-                <p rend="tableau">F. 99r, líneas 5 y 11.</p>
+                <p>F. 99r, líneas 5 y 11.</p>
                 <p rend="noindent">F. 99v, líneas 2, 15 y 28.</p>
                 <p rend="noindent">F. 100r, líneas 2, 9 y 11.</p>
               </cell>
               <cell rows="3">VḾD</cell>
               <cell rows="3">vuestra merced</cell>
               <cell>
-                <p rend="tableau">Vm’</p>
+                <p>Vm’</p>
                 <p/>
               </cell>
               <cell>
-                <p rend="tableau">F. 100v, línea 20.</p>
+                <p>F. 100v, línea 20.</p>
               </cell>
             </row>
             <row>
@@ -491,20 +492,20 @@
             <row>
               <cell>Vm.</cell>
               <cell>
-                <p rend="tableau">F. 101v, línea 6 y 8.</p>
+                <p>F. 101v, línea 6 y 8.</p>
                 <p rend="noindent">F. 102r, líneas 16 y 21.</p>
               </cell>
             </row>
             <row>
               <cell>
-                <p rend="tableau">F. 99r, líneas 2, 3, 4, 5, 9, 11, 16 y 18.</p>
+                <p>F. 99r, líneas 2, 3, 4, 5, 9, 11, 16 y 18.</p>
                 <p rend="noindent">F. 99v, líneas 7, 11, 18 y 24. F. 100r, líneas 10, 12, 15 y 20.</p>
               </cell>
               <cell>q’</cell>
               <cell>que</cell>
               <cell>No se abrevia esta palabra</cell>
               <cell>
-                <p rend="tableau">F. 100v, líneas 5, 14 y 15.</p>
+                <p>F. 100v, líneas 5, 14 y 15.</p>
                 <p rend="noindent">F. 101r, líneas 10, 13 y 23.</p>
                 <p rend="noindent">F. 101v, líneas 1, 2, 3, 12, 14, 16, 23 y 24.</p>
                 <p rend="noindent">F. 102r, línea 1, 2, 17, 18, 21 y 22.</p>
@@ -512,7 +513,7 @@
             </row>
             <row>
               <cell>
-                <p rend="tableau">F. 99r, líneas 13, 20 y 23.</p>
+                <p>F. 99r, líneas 13, 20 y 23.</p>
                 <p rend="noindent">F. 99v, líneas 1, 13, 17 y 19.</p>
                 <p rend="noindent">F.100r, líneas 11, 17, 18 y 24.</p>
               </cell>
@@ -520,7 +521,7 @@
               <cell>que</cell>
               <cell>No se abrevia esta palabra</cell>
               <cell>
-                <p rend="tableau">F. 100v, líneas 5, 14 y 15.</p>
+                <p>F. 100v, líneas 5, 14 y 15.</p>
                 <p rend="noindent">F. 101r, líneas 10, 13 y 23.</p>
                 <p rend="noindent">F. 101v, líneas 1, 2, 3, 12, 14, 16, 23 y 24.</p>
                 <p rend="noindent">F. 102r, líneas 1, 2, 17, 18, 21 y 22.</p>
@@ -544,12 +545,12 @@
             <row>
               <cell>Localización</cell>
               <cell>
-                <p rend="tableau">Bloque1: abreviaturas latinas sin enmiendas</p>
+                <p>Bloque1: abreviaturas latinas sin enmiendas</p>
               </cell>
               <cell>Abreviaturas desarrolladas</cell>
               <cell>Localización</cell>
               <cell>
-                <p rend="tableau">Bloque 2: abreviaturas latinas con enmiendas</p>
+                <p>Bloque 2: abreviaturas latinas con enmiendas</p>
               </cell>
               <cell>Abreviaturas desarrolladas</cell>
             </row>
@@ -717,11 +718,9 @@
           <p>Finalmente hemos de señalar que, tradicionalmente, se ha considerado que el testimonio estudiado era autógrafo del polemista Christóvão Alão de Moraes, hecho que creemos queda desmentido por la participación en la copia de, al menos, dos profesionales, uno de los cuales no estaba siquiera familiarizado con la figura de Góngora y su obra. El literato portugués Christóvão Alão de Moraes no pudo ser ninguno de los dos copistas que hemos distinguido; en cambio es posible que sea él ese corrector de mayor formación y competencia gráfica cuyas intervenciones hemos señalado y que no coincide, como hemos visto, con uno ni otro. Por lo que creemos muy aconsejable un cotejo caligráfico entre las enmiendas señaladas y un autógrafo acreditado del polemista portugués.</p>
         </div>
       </div>
-    </front> 
-    <body>
-      <index indexName="resp" n="un amigo de don Luis de Góngora"/>
-      <index indexName="date" n="1613"/>
       <div>
+        <index indexName="resp" n="un amigo de don Luis de Góngora"/>
+        <index indexName="date" n="1613"/>
         <head>Texto de la edición</head>
           <pb n="f. 99r"/>
         <div>
@@ -738,7 +737,7 @@
           </quote>
           <p>y la reina de Cartago en el cuarto libro:</p>
           <quote>
-            <p><hi xml:lang="lat" rend="i">Anna soror, quae me suspensam insomnia terrent</hi><note place="bottom"> Virgilio, <title>Eneida</title>, lib. IV, v. 6: «<hi rend="i">Anna soror, quae me suspensam insomnia terrent!</hi>» (Virgilio 1977: 110): «“Ana, querida hermana, ¡qué ensueños me desvelan y me angustian!”».</note> </p>
+            <p><hi rend="i">Anna soror, quae me suspensam insomnia terrent</hi><note place="bottom"> Virgilio, <title>Eneida</title>, lib. IV, v. 6: «<hi rend="i">Anna soror, quae me suspensam insomnia terrent!</hi>» (Virgilio 1977: 110): «“Ana, querida hermana, ¡qué ensueños me desvelan y me angustian!”».</note> </p>
           </quote>     
           <p>
             <pb n="f. 99v"/>
@@ -757,7 +756,7 @@
             <ref xml:id="ref1003" target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.366"><l>¿Cuál tigre la más fiera...?<note place="bottom"> [OC264B.366]</note></l></ref>
           </quote>
           <p>Sea la segunda condición que la heroica imita solo en el lenguaje, a diferencia de los poemas activos, en que juntos con el lenguaje tienen su lugar la música y la danza; contra esta se puede argüir procedió vuestra merced en su poema, en el cual los pastores danzan y bailan a los novios, siendo ajeno de la dignidad épica. Y aunque se puede responder que es permitido por modo narrativo, como al fin del libro primero de la <title>Eneida</title> observamos que el músico Iopas cantó a los amantes mientras se brindaban, no satisface, pues allí el poeta solo dice cantó el músico, no empero trae la canción ni coros, por ser acción perteneciente a la cómica<note place="bottom"> La segunda condición muestra una confusión entre medios y modos de la imitación. El autor anónimo observa que la épica imita solo usando el lenguaje poético, mientras que las <hi rend="i">Soledades</hi>, que narran el canto y los bailes en honor de los esposos, usan los medios propios de los poemas activos, transgrediendo por lo tanto la gravedad de la épica. Una solución de compromiso se puede encontrar, afirma nuestro autor, recurriendo a la modalidad narrativa, como, de hecho, sucede en la <hi rend="i">Eneida</hi>. El primer libro acaba con el banquete ofrecido en honor a Eneas animado con la música de Iopa, pero su canto lo refiere la voz narradora. Con esto el autor anónimo da una prueba tangible de su incierto dominio de las categorías aristotélicas y su error al superponerlas. Además, se equivoca rotundamente al considerar música y danza como exclusivas de la comedia, ignorando que ellas también pertenecen a la tragedia y, por tanto, son medios absolutamente adecuados a la gravedad que esta comparte con la épica.</note>.</p>
-          <p>La tercera condición es que se guarde una misma forma de metro en la épica, según ya hicieron los heroicos griegos, latinos y vulgares, y no reparo tanto en esta por ser según <persName type="authority" key="Aristóteles" precision="3">el Filósofo</persName> condición accidental, la cual podía vuestra merced, con su autoridad dejar de seguir<note place="bottom"> La tercera condición, sobre el uso de la épica de un solo metro, se considera accidental, y por tanto la alternancia métrica de endecasílabos y heptasílabos de las <hi rend="i">silvas</hi> no constituye una infracción significativa. La opinión del anónimo sobre este punto es consonante con la preceptiva de los siglos XVI y XVII, donde gana cada vez más terreno el dictamen aristotélico según el cual el verso pierde el valor de elemento definitorio de la poesía. Cascales, que debía mucho a los tratadistas italianos, así como a El Pinciano, resume en sus <hi rend="i">Tablas</hi>: «[...] el poeta tiene su etymología de la imitación en la qual consiste toda la excelencia de la poesía; y no del verso, el qual es una cosa menos principal y más perteneciente al ornato [...]; la armonía y número son accidentes de la poesía, y los metros son partes del número y armonía» (Cascales 1975: 34-35). Para la épica, Minturno admite claramente la posibilidad de elegir metros diferentes: «<hi xml:lang="it" rend="i">è il vero, che propriamente l’Epica poesia si fa imitando, e consiste ne’ versi, o d’un modo solo, qual’è l’Omerica, e la Virgiliana; o di varj modi, della qual niuno esemplo abbiamo</hi>» (Minturno, <hi xml:lang="it" rend="i">L’arte poetica di Antonio Minturno, nella quale si contengono i precetti eroici, tragici, comici e d’ogn’altra poesia</hi>…, Venetia: per Gio. Andrea Valvassori, 1563, p. 4). Sin embargo, en la <hi rend="i">Poética</hi> aristotélica, se aclara que el verso más adecuado para la épica es el heroico, o sea, el hexámetro (Aristóteles 1965: 68).</note>. Y sea la última condición en la cual <pb n="f. 100r"/> se deba esencial y necesariamente guardar en cuanto a la persona imitada; la cual, como vuestra merced en esto y lo demás perteneciente al arte mejor sabe, ha de ser un varón o heroico príncipe digno por sus hazañas y virtudes de ser imitado y querido. Tal describe <persName type="authority" key="Homero" precision="3">Homero</persName> un valeroso Aquiles; <persName type="authority" key="Virgilio" precision="3">Virgilio</persName> un piedoso<note type="app" rend="I">La grafía del manuscrito, «piedoso» por «piadoso» en español actual, se conserva aquí por dos motivos: por una parte, esta forma derivada de la base léxica «p<hi rend="i">ie</hi>dad» está documentada en textos castellanos de la época; por otra parte, el manuscrito se copió en Portugal, donde la forma debía de ser más frecuente que en Castilla pues la palabra sigue igual en portugués hoy en día.</note> Eneas<note place="bottom"> Aquí se puede leer una reminiscencia de los <hi rend="i">Discorsi dell’arte poetica e del poema eroico</hi> de Torquato Tasso, donde, al definir las virtudes de los personajes como asunto necesario del poema heroico, afirma que este: «[…] <hi rend="i">vuole nelle persone il sommo delle virtù, le quali eroiche da la virtù eroica sono nominate. Si ritrova in Enea l’eccellenza della pietà, della fortezza militare in Achille; della prudenza in Ulisse</hi>» (Tasso 1964: 12).</note>; <persName type="authority" key="Lucano" precision="3">Lucano</persName> un César invencible; delo cual infiero no convenir a la <title>Soledad</title> nombre de heroica, por haber sido el intento principal de vuestra merced describirnos la vida pastoral de suerte que el peregrino y su viaje es un camino o medio que vuestra merced elige para alcanzar el principal fin, que fue imitar en la <title>Primera Soledad</title> [la] del ganadero, la del pescador en la <title>Segunda</title>; y así las demás. Bien entiendo está la respuesta cerca diciendo que los rotos y mojados<note place="bottom"> La expresión «rotos y mojados» para describir los paños de un náufrago fue utilizada por el licenciado Bartolomé Martínez en su traducción de una oda horaciana (I, 5). Recogida en la <hi rend="i">Primera parte de las Flores de poetas ilustres de España</hi>, En Valladolid: por Luys Sanchez, 1605, f. 81v-82r, llama particularmente la atención que en esta oda amorosa el autor «se
+          <p>La tercera condición es que se guarde una misma forma de metro en la épica, según ya hicieron los heroicos griegos, latinos y vulgares, y no reparo tanto en esta por ser según <persName type="authority" key="Aristóteles" precision="3">el Filósofo</persName> condición accidental, la cual podía vuestra merced, con su autoridad dejar de seguir<note place="bottom"> La tercera condición, sobre el uso de la épica de un solo metro, se considera accidental, y por tanto la alternancia métrica de endecasílabos y heptasílabos de las <hi rend="i">silvas</hi> no constituye una infracción significativa. La opinión del anónimo sobre este punto es consonante con la preceptiva de los siglos XVI y XVII, donde gana cada vez más terreno el dictamen aristotélico según el cual el verso pierde el valor de elemento definitorio de la poesía. Cascales, que debía mucho a los tratadistas italianos, así como a El Pinciano, resume en sus <hi rend="i">Tablas</hi>: «[...] el poeta tiene su etymología de la imitación en la qual consiste toda la excelencia de la poesía; y no del verso, el qual es una cosa menos principal y más perteneciente al ornato [...]; la armonía y número son accidentes de la poesía, y los metros son partes del número y armonía» (Cascales 1975: 34-35). Para la épica, Minturno admite claramente la posibilidad de elegir metros diferentes: «<hi rend="i">è il vero, che propriamente l’Epica poesia si fa imitando, e consiste ne’ versi, o d’un modo solo, qual’è l’Omerica, e la Virgiliana; o di varj modi, della qual niuno esemplo abbiamo</hi>» (Minturno, <hi rend="i">L’arte poetica di Antonio Minturno, nella quale si contengono i precetti eroici, tragici, comici e d’ogn’altra poesia</hi>…, Venetia: per Gio. Andrea Valvassori, 1563, p. 4). Sin embargo, en la <hi rend="i">Poética</hi> aristotélica, se aclara que el verso más adecuado para la épica es el heroico, o sea, el hexámetro (Aristóteles 1965: 68).</note>. Y sea la última condición en la cual <pb n="f. 100r"/> se deba esencial y necesariamente guardar en cuanto a la persona imitada; la cual, como vuestra merced en esto y lo demás perteneciente al arte mejor sabe, ha de ser un varón o heroico príncipe digno por sus hazañas y virtudes de ser imitado y querido. Tal describe <persName type="authority" key="Homero" precision="3">Homero</persName> un valeroso Aquiles; <persName type="authority" key="Virgilio" precision="3">Virgilio</persName> un piedoso<note type="app" rend="I">La grafía del manuscrito, «piedoso» por «piadoso» en español actual, se conserva aquí por dos motivos: por una parte, esta forma derivada de la base léxica «p<hi rend="i">ie</hi>dad» está documentada en textos castellanos de la época; por otra parte, el manuscrito se copió en Portugal, donde la forma debía de ser más frecuente que en Castilla pues la palabra sigue igual en portugués hoy en día.</note> Eneas<note place="bottom"> Aquí se puede leer una reminiscencia de los <hi rend="i">Discorsi dell’arte poetica e del poema eroico</hi> de Torquato Tasso, donde, al definir las virtudes de los personajes como asunto necesario del poema heroico, afirma que este: «[…] <hi rend="i">vuole nelle persone il sommo delle virtù, le quali eroiche da la virtù eroica sono nominate. Si ritrova in Enea l’eccellenza della pietà, della fortezza militare in Achille; della prudenza in Ulisse</hi>» (Tasso 1964: 12).</note>; <persName type="authority" key="Lucano" precision="3">Lucano</persName> un César invencible; delo cual infiero no convenir a la <title>Soledad</title> nombre de heroica, por haber sido el intento principal de vuestra merced describirnos la vida pastoral de suerte que el peregrino y su viaje es un camino o medio que vuestra merced elige para alcanzar el principal fin, que fue imitar en la <title>Primera Soledad</title> [la] del ganadero, la del pescador en la <title>Segunda</title>; y así las demás. Bien entiendo está la respuesta cerca diciendo que los rotos y mojados<note place="bottom"> La expresión «rotos y mojados» para describir los paños de un náufrago fue utilizada por el licenciado Bartolomé Martínez en su traducción de una oda horaciana (I, 5). Recogida en la <hi rend="i">Primera parte de las Flores de poetas ilustres de España</hi>, En Valladolid: por Luys Sanchez, 1605, f. 81v-82r, llama particularmente la atención que en esta oda amorosa el autor «se
             
             expande, frente a Horacio, [...] en las ideas de prisión y engaño unidas a la experiencia de amor y, especialmente, en la metáfora náutica del náufrago de amor, clave del desarrollo de la composición» (2005: 215). A la luz de esta afinidad temática, la presencia de idéntico sintagma no parece absolutamente casual. Agradezco a Jaime Galbarro que me señalara esta correspondencia .</note> paños del peregrino joven visten un noble y valeroso príncipe, que en progreso de la obra se dará a conocer; a lo cual respondo que no basta para bautizarse con tal nombre, pues vemos que también la trágica imita héroes, así que el énfasis no en esto, mas en seguir por asunto principal las alabanzas, hechos y valor de un príncipe y adornarlo de virtudes morales para aficionar los ánimos. De esta, pues, demos nombre a la <title>Soledad</title>, ya que la excluimos de la épica y, según a mi ver, ninguno otro le cuadra como el de bucólica, égloga o <pb n="f. 100v"/> pastoral, por la razón arriba dicha de lo imitado. Verdad es que siendo especies comprendidas debajo de los géneros de poética, las habemos de reducir a uno de ellos. Para lo cual se supone que siendo la bucólica poema extravagante<note place="bottom"> La definición de ‘extravagante’ procede de la <hi rend="i">Philosophía Antigua Poética</hi> de El Pinciano, que la elabora para describir el carácter irregular de algunos poemas, los cuales, a diferencia de los regulares «puestos siempre debajo de un mismo modo de escritura [...], agora están debajo deste modo, agora de aquél» (López Pinciano 1998: 157). Aplica esta definición a los poemas líricos y pastorales. Estos últimos «una vez se hallan enarrativos, como en la égloga cuarta y décima de Virgilio; otras, en activo, como en el mismo Virgilio, égloga primera, tercera, quinta, nona; y otras, en el común, como en la segunda, sexta, séptima y octava» (López Pinciano 1998: 158). Véase la nota <ref xml:id="ref1" target="ref2">infra</ref>.</note>, tal vez se reduce a la activa, como la primera égloga de <persName type="authority" key="Virgilio" precision="4" unit="quote" quantity="5">Virgilio</persName>:</p>
           <quote>
@@ -769,7 +768,7 @@
           </quote>
           <p>Tal reduce a la narrativa, donde solo el poeta canta, como la cuarta del mismo varón:</p>
           <quote>
-          <p><hi xml:lang="lat" rend="i">Sicelides Musae, paulo maiora canamus</hi><note place="bottom">Virgilio, <title>Bucólicas</title>, IV, v. 1: «Cantemos, ¡oh musas sicilianas!, mayores asuntos» (Virgilio 1970: 60).</note>;</p>
+          <p><hi rend="i">Sicelides Musae, paulo maiora canamus</hi><note place="bottom">Virgilio, <title>Bucólicas</title>, IV, v. 1: «Cantemos, ¡oh musas sicilianas!, mayores asuntos» (Virgilio 1970: 60).</note>;</p>
           </quote>
           <p>y tal a la común, cual la segunda, en que se introduce el poeta, que cuenta los amores de Coridón [y] Alexis:</p>
           <quote>
@@ -803,9 +802,9 @@
           </quote>
           <p>y luego:</p>
           <quote>
-          <p><hi xml:lang="lat" rend="i">Singula quaeque locum teneant sortita decenter</hi><note place="bottom"> Horacio, <title>Arte poética</title>, v. 92: «<hi rend="i">Singula quaeque locum teneant sortita decentem</hi>» (Horacio 1967: 207): «Ha de mantener cada asunto su lugar adecuado, el que se le ha atribuido» (Horacio 2008: 389). En el texto se encuentra la variante <hi rend="i">decenter</hi>, ampliamente atestiguada en la tradición manuscrita e impresa de la epístola horaciana, presente también en la cita del Abad de Rute en su <hi rend="i">Parecer</hi>.</note>.</p>
+          <p><hi rend="i">Singula quaeque locum teneant sortita decenter</hi><note place="bottom"> Horacio, <title>Arte poética</title>, v. 92: «<hi rend="i">Singula quaeque locum teneant sortita decentem</hi>» (Horacio 1967: 207): «Ha de mantener cada asunto su lugar adecuado, el que se le ha atribuido» (Horacio 2008: 389). En el texto se encuentra la variante <hi rend="i">decenter</hi>, ampliamente atestiguada en la tradición manuscrita e impresa de la epístola horaciana, presente también en la cita del Abad de Rute en su <hi rend="i">Parecer</hi>.</note>.</p>
           </quote>
-          <p>Del mismo modo se podrían notar algunos símiles y translaciones, como llamar <ref xml:id="ref1007" target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.473">«bisagra»</ref><note type="app" rend="I"> bisagra <hi rend="i">em</hi>. : bisagras</note> al estrecho del mar<note place="bottom">[OC264B.473]</note>, y aquella de la <ref xml:id="ref1008" target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.66">«Coya peruana»</ref><note type="app" rend="I"> peruana <hi rend="i">em.</hi> : preuana</note> de la <title>Segunda Soledad</title><note place="bottom">[OC264C.66]</note>, reprehendidas de <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="1">Quintiliano</persName><pb n="f. 101v"/> –si menos al poeta que al orador–, que se atreve al decir de <persName type="authority" key="Horacio" precision="3">Horacio</persName>, padre del <title>Arte</title>, que llama <hi rend="i">capitis nubes</hi><note place="bottom">Error de copia por «capitis niues» en Quintiliano, <hi rend="i">Instituciones oratorias</hi>, lib. VIII, 6, 17.</note> a las canas<note place="bottom">La frase, bastante confusa, se entiende sin embargo suponiendo que el sujeto implícito de «se atreve a» es el propio Quintiliano. Querría decir algo como: aunque Quintiliano tolera más audacias en el poeta que en el orador, si bien incluso en el poeta no lo admite todo puesto que «se atreve al decir de Horacio» criticando algunas metáforas de este poeta que califica de duras (<hi rend="i">durae</hi>). El verbo «atreverse» solía usarse en la época directamente conectado con su complemento por medio de la preposición a, en frases como «atreverse a los cielos» (recogida en <hi rend="hi">Autoridades</hi>), que significa algo así como «atreverse a enfrentarse o rebelarse contra ellos». En este caso, según el autor de la carta, Quintiliano «se atrevió a» la manera de escribir del gran Horacio.</note> y en otro verso que dice:</p>
+          <p>Del mismo modo se podrían notar algunos símiles y translaciones, como llamar <ref xml:id="ref1007" target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.473">«bisagra»</ref><note type="app" rend="I"> bisagra <hi rend="i">em</hi>. : bisagras</note> al estrecho del mar<note place="bottom">[OC264B.473]</note>, y aquella de la <ref xml:id="ref1008" target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.66">«Coya peruana»</ref><note type="app" rend="I"> peruana <hi rend="i">em.</hi> : preuana</note> de la <title>Segunda Soledad</title><note place="bottom">[OC264C.66]</note>, reprehendidas de <persName type="authority" key="Quintiliano" precision="4" unit="quote" quantity="1">Quintiliano</persName><pb n="f. 101v"/> –si menos al poeta que al orador–, que se atreve al decir de <persName type="authority" key="Horacio" precision="3">Horacio</persName>, padre del <title>Arte</title>, que llama <hi rend="i">capitis nubes</hi><note place="bottom">Error de copia por «capitis niues» en Quintiliano, <hi rend="i">Instituciones oratorias</hi>, lib. VIII, 6, 17.</note> a las canas<note place="bottom">La frase, bastante confusa, se entiende sin embargo suponiendo que el sujeto implícito de «se atreve a» es el propio Quintiliano. Querría decir algo como: aunque Quintiliano tolera más audacias en el poeta que en el orador, si bien incluso en el poeta no lo admite todo puesto que «se atreve al decir de Horacio» criticando algunas metáforas de este poeta que califica de duras (<hi rend="i">durae</hi>). El verbo «atreverse» solía usarse en la época directamente conectado con su complemento por medio de la preposición a, en frases como «atreverse a los cielos» (recogida en <hi rend="i">Autoridades</hi>), que significa algo así como «atreverse a enfrentarse o rebelarse contra ellos». En este caso, según el autor de la carta, Quintiliano «se atrevió a» la manera de escribir del gran Horacio.</note> y en otro verso que dice:</p>
           <quote>
           <p><hi rend="i">Juppiter hibernas cana niue conspuit Alpes</hi><note place="bottom"> El anónimo autor remite al mismo fragmento de Quintiliano, donde se subraya la dureza de las metáforas horacianas, especialmente las que comparan la nieve con la canicie. En su <hi rend="i">Institutio</hi>, Quintiliano cita dos lugares de la obra horaciana: el verso 12 de la oda XIII de su cuarto libro, donde el poeta describe la belleza perdida de Lice, y el verso 41 de la quinta sátira del segundo libro, en relación al cual proporciona dos variantes que aparecen exclusivamente en su tratado y que nuestro polemista utiliza. Al respecto, las ediciones modernas leen: «<hi rend="i">Furius hibernas cana niue conspuet Alpis</hi>» (Horacio 2011: 184): «Furio […] escupa canosa nieve en invierno sobre los Alpes» (Horacio 2008: 170). Horacio parodia aquí al poeta neotérico Furio Bibáculo por la misma razón que Quintiliano le reprocha: la estridente asimilación entre la nieve que reviste las cumbres alpinas y los cabellos que se vuelven blancos.</note>.</p>
           </quote>
@@ -819,7 +818,7 @@
           <quote>
           <lg>
           <l><hi rend="i">Et nova fictaque nuper habebunt verba</hi></l>
-          <l><hi rend="i">Si graeco fonte cadant parce detorta</hi><note place="bottom">Horacio, <title>Arte poética</title>, v. 52-53: «<hi xml:lang="lat" rend="i">Et nova fictaque nuper habebunt verba fidem, si / Graeco fonte cadent parce detorta</hi> [...]» (Horacio 1967: 207): «las nuevas palabras y las recién acuñadas tendrán crédito si dimanan de fuente griega, parcamente vertidas» (Horacio 2008: 386). La cita horaciana refleja dos intervenciones del corrector. La primera atañe a «fictaque» y consiste en la superposición del grupo ‘cta’; la segunda corresponde a la modificación de la ‘e’ de «greco» para convertirla en el signo tironiano que abrevia ‘ae’.</note>.</l>
+          <l><hi rend="i">Si graeco fonte cadant parce detorta</hi><note place="bottom">Horacio, <title>Arte poética</title>, v. 52-53: «<hi rend="i">Et nova fictaque nuper habebunt verba fidem, si / Graeco fonte cadent parce detorta</hi> [...]» (Horacio 1967: 207): «las nuevas palabras y las recién acuñadas tendrán crédito si dimanan de fuente griega, parcamente vertidas» (Horacio 2008: 386). La cita horaciana refleja dos intervenciones del corrector. La primera atañe a «fictaque» y consiste en la superposición del grupo ‘cta’; la segunda corresponde a la modificación de la ‘e’ de «greco» para convertirla en el signo tironiano que abrevia ‘ae’.</note>.</l>
           </lg>
           </quote>
           <p>Allí, en <hi rend="i">parce detorta</hi>, dejadas otras interpretaciones, parece no admitir la mucha frecuencia; y si vuestra merced no raras veces las usa, puede como rey del arte introducir nuevas leyes.</p>
