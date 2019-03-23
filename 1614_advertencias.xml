@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="apologetico.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1616_soledad-segunda-diaz">
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1614_advertencias">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -3342,6 +3342,8 @@
     <body>
       <head>Texto de la edición</head>
       <div>
+        <index indexName="resp" n="Almansa y Mendoza, Andrés de"/>
+        <index indexName="date" n="1614"/>
         <pb n="f. 147r"/>
         <head> ADVERTENCIAS DE ANDRÉS DE ALMANSA Y MENDOZA PARA INTELIGENCIA DE LAS SOLEDADES DE DON
           LUIS DE GÓNGORA</head>

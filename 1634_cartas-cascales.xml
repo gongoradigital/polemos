@@ -3377,6 +3377,8 @@ Cartas Philologicas (Madrid: Antonio Sancha, 1779)</cell>
       <div>
         <head>Texto de la edición</head>
         <div>
+          <index indexName="resp" n="Cascales, Francisco"/>
+          <index indexName="date" n="1634"/>
           <head>Epístola VIII. Al licenciado Luis Tribaldo de Toledo<note place="bottom"> El
               apellido correcto es “Tribaldos”; no corregimos porque el error tal vez sea atribuible
               a Cascales y señal de su poca familiaridad con la persona a quien se dirigía. Luis
@@ -4565,6 +4567,8 @@ Cartas Philologicas (Madrid: Antonio Sancha, 1779)</cell>
             De Murcia y noviembre 15</p>
         </div>
         <div>
+          <index indexName="resp" n="Villar, Francisco de"/>
+          <index indexName="date" n="1634"/>
           <head>Epístola IX. Don Francisco del Villar al Padre Maestro Fray Juan Ortiz<note
               place="bottom"> Sobre Juan Ortiz, trinitario que ejerció cargos de superior en su
               orden y predicador estimado, véase la introducción.</note>, Ministro de la Santísima
@@ -5025,6 +5029,8 @@ Cartas Philologicas (Madrid: Antonio Sancha, 1779)</cell>
             servicio personal; a quien nuestro Señor, etc.</p>
         </div>
         <div>
+          <index indexName="resp" n="Cascales, Francisco"/>
+          <index indexName="date" n="1634"/>
           <head>Epístola X. A don Francisco del Villar, el licenciado Francisco de Cascales</head>
           <p>Por lo que yo he visto en la apología de vuestra merced, y por lo que me ha dicho
             nuestro padre ministro, fray <name type="polemista">Juan Ortiz</name>, oráculo de letras
