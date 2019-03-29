@@ -35,7 +35,7 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/1614_parecer</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer</idno>
         <date when="2015"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
@@ -2168,7 +2168,7 @@
         <index indexName="resp" n="Francisco Fernández de Córdoba"/>
         <index indexName="date" n="1614"/>
         <pb
-          facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f131r.png"
+          facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f131r.png"
           n="f. 131r"/>
         <head>Parecer de don Francisco de Córdoba acerca de las <title>Soledades</title> a instancia
           de su autor</head>
@@ -2219,7 +2219,7 @@
             género».</note>, pues con razón lo que de las de <persName type="authority"
             key="Virgilio" precision="4" unit="quote" quantity="1">Virgilio</persName> diremos de
           sus composiciones de vuestra merced:<pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f131v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f131v.png"
             n="f. 131v"/></p>
         <quote><persName type="authority" key="Propercio" precision="4" unit="quote" quantity="1"/>
           <l>Cedite romani scriptores, cedite Graii,</l>
@@ -2328,7 +2328,7 @@
               excudebat, 1564, f. 27r, posible fuente, entre otras.</note>.</l>
         </quote>
         <p rend="noindent"><pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f132r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f132r.png"
             n="f. 132r"/> Respecto de lo cual son casi convertibles poeta y profeta, según la
           autoridad irrefragable de <persName type="authority" key="San Pablo" precision="4"
             unit="quote" quantity="2">San Pablo</persName>: <quote>«ut dixit quidam ex illis
@@ -2391,7 +2391,7 @@
               no supieron callar».</note>.</l>
         </quote>
         <p>Y así me pareció que era impertinente cualquier <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f132v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f132v.png"
             n="f. 132v"/>aviso en materia de las <title>Soledades</title>, pues no había de obrar
           más que los pasados y, por dicha o desdicha mía, caería crudo sobre indigesto<note
             place="bottom">Alusión a los primeros consejos que dio el abad de Rute sobre el <hi
@@ -2451,7 +2451,7 @@
             véase Marín López (1972).</note>; y que los<note place="bottom"><hi rend="i">los</hi>: o
             los errores o los reformadores (ambas lecturas tienen sentido).</note> haya en obras
           grandes y pequeñas, y con razón, no es maravilla, <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f133r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f133r.png"
             n="f. 133r"/> pues <quote><persName type="authority" key="Horacio" precision="4"
               unit="quote" quantity="1"/>«quandoque bonus dormitat Homerus»</quote><note
             place="bottom">Horacio, <title>Ars poetica</title>, v. 359, «el buen Homero duerme a
@@ -2530,7 +2530,7 @@
           <l>Arboribus densam veniens signator in Idam,</l>
           <l>Anxius ingentis circumspicit omnia silvae,</l>
           <l><pb
-              facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f133v.png"
+              facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f133v.png"
               n="f. 133v"/> Unde opus incipiat, quae primo justa labori</l>
           <l>Causa sit: haud alia mentem ratione fatigat</l>
           <l>Nunc mihi materiae pondus grave fine carentis<note place="bottom">Teócrito, <hi
@@ -2582,7 +2582,7 @@
             mismo tema, según el modelo de la tercera égloga de Virgilio.</note>:</p>
         <quote>
           <ref xml:id="ref1001"
-            target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.94"
+            target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.94"
               ><l>Oh bienaventurado</l>
             <l>albergue, a cualquier hora<note place="bottom">[OC264B.94-95]</note>,</l></ref>
         </quote>
@@ -2619,7 +2619,7 @@
             oscuridad de las <hi rend="i">Soledades</hi> es una posición de principio del poeta,
             luego llevada a la práctica, no un descuido, efecto de la naturaleza profunda del
             poeta.</note>, tanto más viciosa, pero seguida <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f134r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f134r.png"
             n="f. 134r"/>de vuestra merced; a quien yo no quiero persuadir con autoridad mía (que no
           me atribuyo tanta), sino con la de los más graves autores del mundo, que procuran
           desterrarla de los escritos bien formados.</p>
@@ -2678,7 +2678,7 @@
               rígida Antigüedad».</note>,</l>
         </quote>
         <p><pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f134v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f134v.png"
             n="f. 134v"/> se apelare para los modernos, oigamos a <persName type="authority"
             key="Minturno, Antonio" precision="4" unit="quote" quantity="1">Antonio
             Minturno</persName>, hombre judiciosísimo en los libros que hizo<note place="bottom"
@@ -2745,7 +2745,7 @@
           las narraciones es la perspicuidad, tan culpable y para ser huida es su contraria, la
           oscuridad; y si ésta naciera en las <title>Soledades</title> de brevedad fuera menos mal,
           pues por buscar una virtud se diera en un vicio <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f135r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f135r.png"
             n="f. 135r"/>cercano a ella; quien en vez de liberal da en pródigo, pase; y quien
           buscando la fortaleza da en temerario:</p>
         <quote><persName type="authority" key="Horacio" precision="4" unit="quote" quantity="1"
@@ -2773,7 +2773,7 @@
           pues serviría de ofuscar<note place="bottom"><hi rend="i">ofuscar</hi>: oscurecer y hacer
             sombra.</note> y encubrir su hermosura, antes que de acrecentarla, tal concurso y
           muchedumbre de joyas con que ni ella luciría, ni <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f135v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f135v.png"
             n="f. 135v"/> lucirían ellas, por preciosa que fuese cada una<note place="bottom">Este
             fragmento se inspira en gran parte en el proemio del libro VIII del <hi rend="i">De
               Institutione oratoria</hi> de Quintiliano. Prueba de que tenía en mente este texto el
@@ -2828,7 +2828,7 @@
             <quote>«Peregrinum voco varietatem linguarum, translationem, extensionem, tum quodcumque
             a proprio alienum est. Verum si quis haec omnia simul congerat, vel ænigma efficiet vel
             barbarismum; ænigma quidem, si translationes; barbarismum <pb
-              facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f136r.png"
+              facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f136r.png"
               n="f. 136r"/>vero, si linguas»</quote><note place="margin">cap. 21</note>
           <note place="bottom">Aristóteles, <hi rend="i">Poética</hi>, cap. 22. [La numeración de
             los capítulos de la <hi rend="i">Poética</hi>, editada por Alejandro Paccio, es distinta
@@ -2890,7 +2890,7 @@
           poesía no es deleitar o aprovechar o ambas cosas juntas, como dijo <persName
             type="authority" key="Horacio" precision="4" unit="quote" quantity="1"
             >Horacio</persName>?<pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f136v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f136v.png"
             n="f. 136v"/></p>
         <quote>
           <l>Aut prodesse volunt aut delectare poetae</l>
@@ -2939,7 +2939,7 @@
           qué entender a tantos. No se la perdonó, pues, otro tanto <persName type="authority"
             key="Luciano de Samosata" precision="4" unit="quote" quantity="1">Luciano</persName> a
           Apolo: <quote>«Itaque et Apollinem in dandis oraculis rideri <pb
-              facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f137r.png"
+              facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f137r.png"
               n="f. 137r"/> a nonnullis video, dum multa securo animo involvit et data opera
             obscurat, ne omnino audientes otio indulgeant, sed expendant versiculos»</quote><note
             place="margin">in Iove tragedo.</note> <note place="bottom">Luciano de Samosata
@@ -3004,7 +3004,7 @@
         </quote>
         <p rend="noindent"><persName type="authority" key="Máximo de Tiro" precision="4"
             unit="quote" quantity="1">Máximo Tirio</persName> dijo del poeta: <quote>«Poeta autem<pb
-              facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f137v.png"
+              facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f137v.png"
               n="f. 137v"/> mollis habetur, et multitudinem oblectat, ut pote qui propter voluptatem
             a populo diligitur»</quote><note place="bottom">Pequeño error de copia del abad de Rute
             o del copista (<hi rend="i">diligitur</hi> en vez de <hi rend="i">diligatur</hi>, en la
@@ -3075,7 +3075,7 @@
             finibus</title>: <quote>«Satisne igitur videor vim verborum tenere, an<note
               place="bottom" type="app" rend="I">an <hi rend="i">em</hi>. : aut <hi rend="i"
               >G</hi></note> sum etiam nunc græce<pb
-              facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f138r.png"
+              facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f138r.png"
               n="f. 138r"/> loqui vel latine docendus? Et tamen vide, ne, si ego non intelligam,
             quid Epicurus loquatur, cum græce, ut videor, luculenter sciam, sit aliqua culpa ejus,
             qui ita loquatur ut non intelligatur»</quote><note place="bottom">Cicerón, <hi rend="i"
@@ -3121,7 +3121,7 @@
           venustidad, como hechas a fuerza, según dijo Apeles a Protógenes viendo aquella excelente
           pintura de Yáliso, en que había gastado siete años; refiérelo <persName type="authority"
             key="Eliano" precision="3">Eliano</persName>, libro 12, capítulo <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f138v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f138v.png"
             n="f. 138v"/> 12<note place="bottom"><hi rend="i">12</hi>: Error de lectura achacable al
             abad de Rute (en realidad se trata del capítulo 42), que se explica por la mala
             impresión del número del capítulo (el «XLI» se confunde con un «XII»), en la edición
@@ -3188,7 +3188,7 @@
             estilo sublime.</note>. Pero eso se entiende, según ellos, en poema grave, trágico,
           heroico u otro semejante; que, siendo de su naturaleza ilustres, piden estilo y modo de
           decir fuera del vulgar, como lo hiciera vuestra merced si aplicara su ingenio<pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f139r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f139r.png"
             n="f. 139r"/> y genio a lo épico, de que diera mejor que otro ninguno. Pero un poema,
           cuando no lírico, de materia humilde, bucólico en lo<note place="bottom" type="app"
             rend="I">lo <hi rend="i">em.</hi> : la <hi rend="i">G</hi></note> que descubre hasta
@@ -3336,7 +3336,7 @@
             stampata in Parigi: da Roberto Stephano, regio stampatore, 1546).</note>, y el divino
             <persName type="authority" key="Garcilaso" precision="3">Garcilaso</persName> y otros, y
             <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f139v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f139v.png"
             n="f. 139v"/> echarase de ver cuán claro estilo han seguido y cuán acomodado al sujeto
           de que trataron.</p>
         <p>A lo segundo respondo que, aunque haya habido poetas oscuros, no es bueno imitarlos en
@@ -3380,7 +3380,7 @@
             >Referencia a la carta del humanista Pedro de Valencia [1613_carta-valencia]. Góngora le
             mandó su poema para que lo censurara y le diese su opinión.</note>. Vi la carta original
           en Granada el verano pasado en poder de Juan de Villegas,<pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f140r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f140r.png"
             n="f. 140r"/> el gobernador de Luque<note place="bottom">Sobre esta carta véase la
             introducción.</note>, y, aunque no creo que tengo mayor facundia ni más viveza de
           razones que él para persuadir a vuestra merced, por lo que debo a nuestra amistad y desear
@@ -3426,7 +3426,7 @@
         <p rend="noindent">Vuestra merced, por amor de Dios, se temple en esta parte, que como su
           servidor y amigo se lo suplico.</p>
         <p>Lo mismo deseo haga en el uso de palabras peregrinas, digo derivadas de latín y <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f140v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f140v.png"
             n="f. 140v"/> toscano; y no tanto en la muchedumbre de ellas, pues todas son muy buenas,
           y a la verdad eso es enriquecer nuestra lengua y muy conforme a los preceptos del arte
           (según <persName type="authority" key="Aristóteles" precision="3">Aristóteles</persName>,
@@ -3491,12 +3491,12 @@
           lo usara<note place="bottom">Resulta raro que el abad de Rute censure la repetición de
             esta palabra porque solo se emplea una vez en la primera <hi rend="i">Soledad</hi>: <ref
               xml:id="ref1002"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.415"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.415"
               >«Conculcado hasta allí de otro ninguno»</ref> [OC264B.415] ¿Será que consultó una
             versión de las <hi rend="i">Soledades</hi> todavía diferente de las que conocemos de
             momento? También la emplea una vez en el <hi rend="i">Polifemo</hi>: <ref
               xml:id="ref1003"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.469"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.469"
               >«mas conculcado el pámpano más tierno»</ref> [OC255.469]. ¿Recordaba esta palabra por
             haberla censurado ya en su parecer del <hi rend="i">Polifemo</hi>? Podía llamar la
             atención por tratarse de un cultismo. Joaquín Roses escribe: «Dámaso Alonso documenta la
@@ -3507,7 +3507,7 @@
             Hierosme Víctor Bolonois […]. Tampoco a Juan de Jáuregui le agradará el vocablo, que
             será censurado en su <hi rend="i">Antídoto</hi>» (Roses 1994: 155, n. 2).</note>.</p>
         <p>Pero no solo en la repetición de las extranjeras<pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f141r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f141r.png"
             n="f. 141r"/> querría se fuese vuestra merced a la mano<note place="bottom"><hi rend="i"
               >irse a la mano</hi>: con cautela y moderación.</note>, mas aun de las propias y
           comunes nuestras, no frecuentando el «ya», ni el «si, no»; pues, aunque con este modo se
@@ -3519,29 +3519,29 @@
           veces <quote>«mariposa de cristal», «mariposa de esto», «mariposa de eso
             otro»</quote><note place="bottom">Las metáforas que utilizan la palabra mariposa son
             dos: <ref xml:id="ref1004"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.86"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.86"
               >«y la que desvïada / luz poca pareció, tanta es vecina, / que yace en ella robusta
               encina, / mariposa en cenizas desatada»</ref> [OC264B.86-89] y en la <hi rend="i"
               >Soledad</hi> segunda: <ref xml:id="ref1005"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.1"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.1"
               >«Éntrase el mar por un arroyo breve / que a recibillo con sediento paso / de su roca
               natal se precipita, / y mucha sal no solo en poco vaso, / mas en su ruina bebe, / y a
               su fin, cristalina (mariposa / no alada, sino undosa) / en el farol de Tetis
               solicita»</ref> [OC264C.1-8].</note>; en ésta del novillo: <quote><ref
               xml:id="ref1006"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.19"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.19"
               >«mal lunada la frente»</ref></quote><note place="bottom">[OC264C.19]</note>; del toro
           en la primera:</p>
         <quote>
           <ref xml:id="ref1007"
-            target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.3"
+            target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.3"
               ><l>media luna las armas de su frente<note place="bottom">[OC264B.3]</note>.</l></ref>
         </quote>
         <p rend="noindent">En la primera hace vuestra merced navíos y en ésta barcos de
             <quote>«haya»</quote><note place="bottom">[<ref xml:id="ref1008"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.375"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.375"
               >OC264B.375</ref>] y [<ref xml:id="ref1009"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264C.45"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264C.45"
               >OC264C.45</ref>]</note> muchas veces, demás de que, como advertí en el
             <title>Polifemo</title>, no la usa la navegación, si no es en remos; y, para
           certificarme más, busqué con Francisco de Gálvez lo que dicen de ese árbol <persName
@@ -3559,38 +3559,38 @@
             repetición de la metáfora de la bisagra desaparece en la versión definitiva de las <hi
               rend="i">Soledades</hi>, prueba de que Góngora tomó en cuenta la advertencia del abad
             de Rute. La versión final es la siguiente: <ref xml:id="ref1010"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.47"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.47"
               >«…de una y otra playa / vínculo desatado, instable puente»</ref>
             [OC264C.47-48].</note>; allá <quote>«bisagra de un océano y otro»</quote><note
             place="bottom">La cita exacta es la siguiente: <ref xml:id="ref1011"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.472"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.472"
               >«cuando halló de fugitiva plata / la bisagra (aunque estrecha) abrazadora / de un
               océano con otro, siempre uno»</ref> [OC264B.472-474].</note>;
             <quote>«leños»</quote><note place="bottom">[<ref xml:id="ref1012"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.21"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.21"
               >OC264B.21</ref>], [<ref xml:id="ref1013"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.127"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.127"
               >OC264B.127</ref>], [<ref xml:id="ref1014"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.397"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.397"
               >OC264B.397</ref>], [<ref xml:id="ref1015"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.430"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.430"
               >OC264B.430</ref>] y [<ref xml:id="ref1016"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.54"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.54"
               >OC264C.54</ref>].</note> tantas veces por navíos; <quote>«cuernos»</quote><note
             place="bottom">[<ref xml:id="ref1017"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.203"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.203"
               >OC264B.203</ref>], [<ref xml:id="ref1018"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.159"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.159"
               >OC264B.159</ref>], [<ref xml:id="ref1019"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.18"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.18"
               >OC264C.18</ref>], [<ref xml:id="ref1020"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.52"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.52"
               >OC264C.52</ref>], [<ref xml:id="ref1021"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.307"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.307"
               >OC264C.307</ref>] y [<ref xml:id="ref1022"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.331"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.331"
               >OC264C.331</ref>].</note> de esto y de lo otro. Si <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f141v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f141v.png"
             n="f. 141v"/> reprehende <persName type="authority" key="Escalígero" precision="4"
             unit="quote" quantity="2">César Escalígero</persName> en los
             <title>Endecasílabos</title> del <persName type="authority" key="Bembo, Pietro"
@@ -3659,7 +3659,7 @@
             cuales son, y se les ha de acomodar el puesto que más les cuadre» (Quintiliano
             1887).</note>. Pero no ha de ser todo hipérbaton, que será menester traer en la manga un
           intérprete que a los oyentes o lectores declare el sentido de lo que queremos decir, <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f142r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f142r.png"
             n="f. 142r"/> que, de otra suerte, parecerán bernardinas<note place="bottom"><hi
               rend="i">bernardinas</hi>: «bernardinas son unas razones que ni atan, ni desatan, y no
             significando nada, pretende el que las dice, con su disimulación, engañar a los que le
@@ -3738,7 +3738,7 @@
             modernizo la ortografía).</note></p>
         <p>Esto es, en común, lo que siento de las <title>Soledades</title> y en particular de la
           primera. Confesaré algunos pecadillos, o al menos que yo <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f142v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f142v.png"
             n="f. 142v"/> los he juzgado por tales. El primero, más grave, y en que (si hubiese
           lugar de penitencia) sería bien usar de enmienda, es el encontrarse la dedicación de esta
           obra con la del <title>Polifemo</title>, pues, aunque cada una de por sí es excelente, no
@@ -3747,7 +3747,7 @@
         <p>Reparo después en aquellos versos:</p>
         <quote>
           <ref xml:id="ref1023"
-            target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.271"
+            target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.271"
               ><l>El sileno buscaba</l>
             <l>de aquellas que la sierra dio bacantes,</l>
             <l>ya que ninfas les niega ser, errantes,</l>
@@ -3783,10 +3783,10 @@
             >Bacantes</hi>: ‘A Tebas, la primera de esta tierra helena, la he hecho vibrar con mis
             gritos ciñendo al cuerpo la nébride y entregando en sus manos el tirso, dardo de
             hiedra’ «(Conti 1988: 354).</note>); <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f143r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f143r.png"
             n="f. 143r"/> y que no lo trujese confiésalo vuestra merced, llamándolas cuatro versos
           después: <quote><ref xml:id="ref1024"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.278"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.278"
               >«escuadrón de amazonas desarmado»</ref></quote><note place="bottom"
             >[OC264B.278]</note>. Que los y las bacantes, o bacos, trajesen tirsos en las manos
           pruébase con muchos lugares de autores; referiré algunos: <persName type="authority"
@@ -3828,7 +3828,7 @@
           mejor que todos, <persName type="authority" key="Diodoro Sículo" precision="4"
             unit="quote" quantity="1">Diodoro Sículo</persName>: <quote>«Unde et in multis graecis
             urbibus triennio Bacchides mulieres conveniunt<pb
-              facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f143v.png"
+              facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f143v.png"
               n="f. 143v"/> apud quas de more virgines thyrsum ferunt in honorem dei bacchantes.
             Eique per cœtus sacrificantes»</quote><note place="margin">Lib 5° cap 1º</note>
           <note place="bottom">Diodoro Sículo (o Diodoro de Sicilia), <title>Biblioteca
@@ -3848,10 +3848,10 @@
           merced que venían, aunque bailando algunas, con <quote>«ojos honestos»</quote> y
             <quote>«métrica armonía»</quote><note place="bottom">La primera cita no conserva el
             grecismo del v. 257: <ref xml:id="ref1025"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.257"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.257"
               >«mas los ojos honesta»</ref> [OC264B.257]. La segunda cita corresponde al v. 270
               [<ref xml:id="ref1026"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.270"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.270"
               >OC264B.270</ref>]. Nótese que la expresión de <hi rend="i">métrica harmonía</hi>
             debió de ser muy comentada. Fue percibida como típicamente gongorina, porque aparece en
             la sátira antigongorina de Quevedo, la <hi rend="i">Receta para hacer Soledades en un
@@ -3862,7 +3862,7 @@
         <p>Dice luego vuestra merced de los muchos conejos que uno traía a cuestas:</p>
         <quote>
           <ref xml:id="ref1027"
-            target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.307"
+            target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.307"
               ><l>trofeo ya su número es a un hombro,</l>
             <l>si carga no y asombro<note place="bottom">[OC264B.307-308]</note>.</l></ref>
         </quote>
@@ -3906,7 +3906,7 @@
               Et oltre di questo, se insegna à conoscere, il genere, i luochi topici, e con bel
               modo, ancora le figure</hi>, in Venetia: appresso Oratio de’ Gobbi, 1580, f.
             51r.</note>; y se comete cuando la calidad <pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f144r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f144r.png"
             n="f. 144r"/> y propiedad de una cosa se atribuye a otra, como:</p>
         <quote><persName type="authority" key="Virgilio" precision="4" unit="quote" quantity="3"/>
           <l>[…] dare classibus austros<note place="bottom">Virgilio, <hi rend="i">Eneida</hi>, III,
@@ -3961,7 +3961,7 @@
         </quote>
         <p>En este fragmento de la segunda <title>Soledad</title> dudo por cuál razón llame vuestra
           merced <quote><ref xml:id="ref1028"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.10"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.10"
               >«centauro espumoso»</ref></quote> a la ría o arroyo<note place="bottom"
             >[OC264C.10]</note>, porque si por ser de dos naturalezas, también lo eran los Panes o
           Faunos, también el Minotauro, y lo son otros animales; cuanto más que la agua de la mar y
@@ -3969,10 +3969,10 @@
           compuesto el<note place="bottom" type="app" rend="I">el <hi rend="i">em</hi>. : en <hi
               rend="i">G</hi></note> centauro, sino esencial y substancialmente una: difieren en el
           sabor y grosedad, que son diferentes.<pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f144v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f144v.png"
             n="f. 144v"/></p>
         <p>Al <quote><ref xml:id="ref1029"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.18"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.18"
               >«bien nacido cuerno»</ref></quote> no le hallo sujeto capaz de<note place="bottom"
             type="app" rend="I">de <hi rend="i">add.</hi></note> epíteto tan honrado; «de bien o mal
           crecido», sí<note place="bottom">[OC264C.10-21] Fernández de Córdoba censura el uso del
@@ -3983,7 +3983,7 @@
             que se acomodaba mal a las connotaciones positivas del verbo nacer.</note>.</p>
         <quote>
           <ref xml:id="ref1030"
-            target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.37"
+            target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.37"
               ><l>Ruiseñor en los bosques, no, más blando</l>
             <l>el verde robre, que es barquillo ahora,</l>
             <l>saludar vio el Aurora<note place="bottom">[OC264C.37-39] El abad de Rute censura que
@@ -4008,7 +4008,7 @@
           diciendo:</p>
         <quote>
           <ref xml:id="ref1031"
-            target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.220"
+            target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.220"
               ><l>[…] a quien debe</l>
             <l>su púrpura la rosa, el lilio nieve<note place="bottom"
             >[OC264C.220-221]</note>.</l></ref>
@@ -4016,13 +4016,13 @@
         <p rend="noindent">También en la primera parte dijo vuestra merced lo mismo de las serranas
           y vaqueras<note place="bottom">Alusión posible a los versos 244, 545-549 y 627 que tratan
             de la blancura de las serranas [<ref xml:id="ref1032"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.244"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.244"
               >OC264B.244</ref>], [<ref xml:id="ref1033"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.545"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.545"
               >OC264B.545-549</ref>], [<ref xml:id="ref1034"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.627"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.627"
               >OC264B.627</ref>] y clara referencia a los versos 875-878 [<ref xml:id="ref1035"
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.875"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.875"
               >OC264B.875-878</ref>], que describen la blanca mano de una vaquera. Es de notar que
             Juan de Jáuregui [jauregui] censurará el mismo fragmento en el <hi rend="i"
               >Antídoto</hi> [1614_antidoto].</note>, y extraño esto, porque no sé que se halle
@@ -4043,7 +4043,7 @@
         <p>Yo he dicho lo que he sentido sinceramente, a ley de cristiano<note place="bottom"><hi
               rend="i">a ley de cristiano</hi>: modismo utilizado para apoyar la verdad que se
             declara.</note> y amigo, como lo he protestado<pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f145r.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f145r.png"
             n="f. 145r"/> y profesado en cuanto alcanza mi juicio. Vuestra merced con el suyo, pues
           es tan bueno, lo pondere y vea lo que se debe hacer; y consúltelo (si le pareciere) con
           hombres de letras, y echará de ver que le aconsejo como hombre de bien y servidor suyo,
@@ -4105,7 +4105,7 @@
           servidor que, resolviéndose vuestra merced a proseguir ese poema con el estilo hasta aquí,
           sin mudar de frasis ni modos, si hubiere (que no habrá) tan atrevido presuntuoso que le
             impugne,<pb
-            facs="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/img/1614_parecer/1614_parecer_f145v.png"
+            facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f145v.png"
             n="f. 145v"/> estando tan bien defendido con solo el nombre de su autor, <quote>«tecum
             paratus sum, et in carcerem et in mortem [ire]»</quote><note place="bottom"
               ><title>Biblia, Lucas</title>, 22, 33. «Yo estoy dispuesto a ir a la cárcel y aun a la

@@ -26,7 +26,7 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/1633_vida-hoces</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/gongora/1633_vida-hoces</idno>
         <date when="2018"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
@@ -127,7 +127,7 @@
           <head>1. [Título] La primera biografía de Góngora y su reescritura</head>
           <p>Como se ha dicho en el estudio correspondiente de la «Vida y escritos de don Luis de
               Góngora»<note place="bottom">Véase la sección «Título” en <ref
-                target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
                 >1628_vida-chacon</ref>.</note>, las ediciones de Gonzalo de Hoces y Córdoba de 1633
             recogen una versión algo diferente del texto biográfico del poeta cordobés compuesto por
             fray Hortensio Paravicino para los preliminares del manuscrito Chacón. Aunque compartan
@@ -145,7 +145,7 @@
             dedicaremos el presente estudio, remitiendo, en su mayor parte, al aparato crítico que
             acompaña la edición de la «vida» que figura en el manuscrito Chacón y que también es
             parte de este proyecto<note place="bottom">Véase la sección «Estudio» en <ref
-                target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
                 >1628_vida-chacon</ref>.</note>.</p>
           <p>A modo de resumen, y para mayor aclaración, recogemos a continuación los títulos y
             localización de las <hi rend="i">vitae</hi> mencionadas:</p>
@@ -156,7 +156,7 @@
               3918 (llamada «Vida y escritos de don Luis de Góngora. Defensa de su estilo por don
               Joseph Pellicer Salas y Tovar» en los preliminares de las <hi rend="i">Lecciones
                 solemnes</hi>) <note place="bottom">Reyes (1958: 30-58) y (<ref
-                  target="http://obvil.sorbonne-universite.site/corpus/gongora/1630_vida-mayor"
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1630_vida-mayor"
                   >1630_vida-mayor</ref>).</note>.</item>
             <item>«Vida y escritos de don Luis de Góngora» de las ediciones de Gonzalo de Hoces.
               Llamada más tarde por Pellicer en su <hi rend="i">Bibliotheca</hi> «Vida de don Luis
@@ -195,7 +195,7 @@
             biográfica <hi rend="i">Varones ilustres de Córdoba</hi><note place="bottom"><p/><p
                 rend="noindent">Véase, en el ámbito de este proyecto, la edición y estudio de ambos
                 textos a cargo de François-Xavier Guerry (<ref
-                  target="http://obvil.sorbonne-universite.site/corpus/gongora/1633_escrutinio"
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1633_escrutinio"
                   >1633_escrutinio</ref>) y María Ángeles Garrido
             (1685_varones_gongora).</p></note>.</p>
           <p>El testimonio de Pellicer, dado el ingente volumen de páginas que escribió a lo largo
@@ -296,7 +296,7 @@
             ingenio devoto, cuando por mayor se cargó de la vida de don Luis, de describir su efigie
             con el pincel de su pluma, quizá con más felicidad que salió la lámina del buril»<note
               place="bottom">(<ref
-                target="http://obvil.sorbonne-universite.site/corpus/gongora/1633_escrutinio"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1633_escrutinio"
                 >1633_escrutinio</ref>). Véase el estudio del <hi rend="i">Escrutinio</hi> a cargo
               de François-Xavier Guerry.</note>. Se extraña el crítico de la edición de Hoces de que
             el biógrafo se olvidara de incluir la descripción física del poeta, como solía hacerse
@@ -323,7 +323,7 @@
             Al fin, lector, toda esta mal taraceada armonía se resuelve solo en que el curioso sepa
             que eligió mal buenas noticias, así de las obras de don <name type="polemista"
               >Luis</name>, como de sus acciones<note place="bottom">(<ref
-                target="http://obvil.sorbonne-universite.site/corpus/gongora/1633_escrutinio"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1633_escrutinio"
                 >1633_escrutinio</ref>).</note>.</quote>
           <p>El anónimo del <hi rend="i">Escrutinio</hi> llama al texto «arenga inculta» y
             «taraceada armonía» de las obras y acciones del poeta y relaciona a su autor con un
@@ -991,8 +991,8 @@
               <bibl>–, «Escrutinio sobre las impresiones de las obras poéticas de don Luis de
                 Góngora», François-Xavier Guerry, (ed.), en Mercedes Blanco (dir.), <title>Édition
                   digitale et étude de la polémique autour de Góngora</title>, OBVIL. <ref
-                  target="http://obvil.sorbonne-universite.site/corpus/gongora/1633_escrutinio"
-                  >http://obvil.sorbonne-universite.site/corpus/gongora/1633_escrutinio</ref></bibl>
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1633_escrutinio"
+                  >http://obvil.sorbonne-universite.fr/corpus/gongora/1633_escrutinio</ref></bibl>
               <p><seg rend="sc">Blanco</seg>, Mercedes:</p>
               <bibl><hi rend="b"><hi rend="i">–</hi></hi>, «Ut poesis, oratio». La oficina poética
                 de la oratoria sacra en Hortensio Félix Paravicino», <title>Lectura y signo: revista
@@ -1036,8 +1036,8 @@
                   instancia de su autor</title>, Muriel Elvira (ed.), en Mercedes Blanco (dir.),
                   <title>Édition digitale et étude de la polémique autour de Góngora</title>, OBVIL.
                 Disponible en <ref
-                  target="http://obvil.paris-sorbonne.fr/corpus/gongora/1614_parecer/"
-                  >http://obvil.paris-sorbonne.fr/corpus/gongora/1614_parecer/</ref></bibl>
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer/"
+                  >http://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer/</ref></bibl>
               <bibl>–, «Examen del Antídoto o Apología por las Soledades de don Luis de Góngora
                 contra el autor del Antídoto», en <title>Don Luis de Góngora y Argote. Biografía y
                   estudio crítico</title>, Madrid, Real Academia Española, Tipografía de la «Revista
@@ -1099,8 +1099,8 @@
               <bibl>–, Estudio y edición de los <title>Fragmentos del Compendio poético</title> de
                 Francisco del Villar, en Mercedes Blanco (dir.), <title>Édition digitale et étude de
                   la polémique autour de Góngora</title>, OBVIL. Disponible en <ref
-                  target="http://obvil.paris-sorbonne.fr/corpus/gongora/1636_compendio-poetico?q=ponce#mark1"
-                  >http://obvil.paris-sorbonne.fr/corpus/gongora/1636_compendio-poetico?q=ponce#mark1</ref></bibl>
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1636_compendio-poetico?q=ponce#mark1"
+                  >http://obvil.sorbonne-universite.fr/corpus/gongora/1636_compendio-poetico?q=ponce#mark1</ref></bibl>
               <p><seg rend="sc">Reyes</seg>, Alfonso:</p>
               <bibl>–, <title>Cuestiones gongorinas. Obras Completas VII</title>, México, Fondo de
                 Cultura Económica, 1958. </bibl>
@@ -1139,7 +1139,7 @@
           meses y trece días brevísimo periodo fue <hi rend="b">de vida, curso arrebatado</hi><note
             place="bottom">Este primer añadido respecto a la <hi rend="i">vita</hi> original de
             Paravicino (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>), y muchos de los que veremos a lo largo de esta reescritura,
             evocan algunos giros o formulismos gongorinos que sugieren que quien interviene en el
             texto conocía bien la obra de Góngora y que, o lo está homenajeando con esos guiños, o
@@ -1161,7 +1161,7 @@
             la ingratitud de la patria para con tal insigne hijo, idea a la volverá el interpolador
             más adelante.</note>. Su sangre fue <hi rend="b">noble</hi><note place="bottom">Respecto
             a la <hi rend="i">vita</hi> original (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>), se atenúa el superlativo «nobilísimo».</note> de un padre y
           otro. Su padre, don Francisco de Argote, corregidor de esta villa y de muchas ciudades,
           padre de don Luis de Góngora. Su madre, doña Leonor de Góngora, igual en la dicha del
@@ -1179,7 +1179,7 @@
             justificada que oculta</hi><note place="bottom"><hi rend="i">justificada</hi>: o sea,
             que tiene justas razones. Esta última oración, la primera que se añade respecto a la <hi
               rend="i">vita</hi> original (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>), corrige la idea de un antagonismo entre Fortuna y
             Naturaleza. Decir que la Fortuna no pudo arrebatarle a la Naturaleza ese encumbrado
             lugar alcanzado por los padres es hablar por descuido, distracción o falta de respeto
@@ -1198,7 +1198,7 @@
             ingenios» en «los espíritus más elevados». </note> de su nación, quizá<note type="app"
             rend="I"> En el texto, creemos que por errata, se lee <hi rend="i">quieta</hi>, pero la
             lección que elegimos es <hi rend="i">quizá</hi>, que es la de Chacón (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>).</note> digo del mundo en esto. Pasó los años infantes, hasta
           quince, con el decoro y cuidado que pedía la educación de su sangre, advertida de
           esperanzas mayores que, con el sol de la razón, comenzaron a amanecer en sus menores <hi
@@ -1240,7 +1240,7 @@
             letras humanas.</note> de la violencia natural y amor de las letras humanas <hi rend="b"
             >(que inhumanas se han hecho ya, mas no siendo humanas no deben de ser
             letras)</hi>,<note place="bottom">Es otro añadido importante respecto a la vida original
-              (<ref target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              (<ref target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>) y alude a la polémica, es decir, al momento en que las letras
             se han vuelto crueles, inhumanas e inmisericordes dejando, por lo tanto, de ser letras.
             Nótese la intensificación expresiva con el uso de la derivación (humana/inhumana) cuando
@@ -1302,7 +1302,7 @@
             del náufrago de las <hi rend="i">Soledades</hi>. Absolver a Góngora de la fama de poeta
             satírico es tema recurrente entre los defensores de la polémica, como sucede en este
             añadido y como leemos también, por ejemplo, en el <hi rend="i">Escrutinio</hi> (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1633_escrutinio"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1633_escrutinio"
               >1633_escrutinio</ref>): «Los que no trataron este ingenio le tuvieron por satírico, y
             aun algunos de sus devotos. ¡Notable engaño!». Después de haber intercalado y
             desarrollado la metáfora, el interpolador retoma el hilo del texto original en la
@@ -1331,7 +1331,7 @@
             pasado a ellos les pasa a muchísimos, incluso a los personajes de mayor reverencia. Como
             nota Ponce Cárdenas, Francisco del Villar dice algo parecido en su <hi rend="i"
               >Compendio poético</hi> (<ref
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/1636_compendio-poetico?q=ponce#mark1"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1636_compendio-poetico?q=ponce#mark1"
               >1636_compendio-poetico</ref>), tal vez por haberlo leído en la <hi rend="i"
             >Vita</hi>: «Adelantose don Luis en este género de decir conocidamente a todos los
             ingenios de España, sin que haya quien niegue esta ventaja, ni aun la dificulte. Picó
@@ -1378,9 +1378,9 @@
             tantas obras) y los aplausos que recibieran de tantas gentes. </note> y, no sin generosa
           vergüenza (confesó él) de algún amigo de menor edad<note place="bottom">Este «amigo de
             menor edad», como deja entrever en la versión original de esta <hi rend="i">vita</hi>
-              (<ref target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              (<ref target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>), o como explicará con más detalle Pellicer en su biografía
-              (<ref target="http://obvil.sorbonne-universite.site/corpus/gongora/1630_vida-mayor"
+              (<ref target="http://obvil.sorbonne-universite.fr/corpus/gongora/1630_vida-mayor"
               >1630_vida-mayor</ref>), es el mismo Paravicino. Esta velada alusión se desarrolla con
             una frase interpolada («que desde los primeros años vio sino conseguir, arrebatarse»),
             que vuelve a destacar el benéfico influjo y la intervención salvadora del amigo en la
@@ -1407,10 +1407,10 @@
             entonces abarcan también a los autores de la latinidad tardía, profanos como Claudiano o
             cristianos como Ambrosio o Agustín». También nos encontramos la palabra en la <hi
               rend="i">vita</hi> de Pellicer (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1630_vida-mayor"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1630_vida-mayor"
               >1630_vida-mayor</ref>) y en los <hi rend="i">Discursos apologéticos</hi> de Díaz de
             Rivas (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1617_soledad-segunda-diaz"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1617_soledad-segunda-diaz"
               >1617_soledad-segunda-diaz</ref>). </note><hi rend="b"> a la sublimidad o alteza de la
             cultura, que tan odiosa intenta hacer la ignorancia</hi>, se empeñó a la grandeza del
             <hi rend="i">Polifemo, Soledades</hi> y otros, <hi rend="b">si no</hi><note
@@ -1418,7 +1418,7 @@
             reescritura. </note> más breves, <hi rend="b">no menores</hi> poemas que enseñará <hi
             rend="b">la</hi><note place="bottom">Aquí cambia el demostrativo de ‘esta estampa’ de la
               <hi rend="i">vita</hi> de Paravicino (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>) que se refiere al ms. Chacón, por un artículo definido más
             general: ‘la estampa’.</note> estampa. Discurrir de la <hi rend="b">estimación</hi> de
           este estilo, o sus calumnias, <hi rend="b">y buscar la razón aun de lo que no la
@@ -1481,7 +1481,7 @@
             su testimonio (poco antes había calificado sus borrones de ‘amistosos’ y ‘apenas
             libres’). Se trata de una preterición, porque en realidad, y más aún en este texto que
             en la <hi rend="i">vita</hi> del manuscrito Chacón (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>), hay múltiples referencias a la polémica que sugirieren que
             la envidia y el rencor fueron el motivo de los ataques y tocan la única objeción
             aparentemente razonable a los versos del poeta: su excesiva dificultad. En la liza, los
@@ -1495,7 +1495,7 @@
             nombre. Este fragmento es el mismo de la <hi rend="i">vita</hi> de Paravicino y en él el
             religioso se refiere veladamente a su influencia en Góngora. Nótese el cambio de «el
             autor de esta prefación» de la <hi rend="i">vita</hi> original (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>), a «el que escribe esta prefación».</note> a las <hi rend="i"
             >Obras de don Luis</hi> no hace, por ahora, más profesión que de amigo suyo; lega y
           brevemente refiere la verdad <hi rend="b">y entre la ternura de haberle él perdido</hi>
@@ -1757,7 +1757,7 @@
             anónimo del <hi rend="i">Escrutinio</hi>: «Es cierto que no le llevó a la Corte ambición
             ni interés, pues en su casa tuvo un cuento de renta sin obligaciones, bastante caudal
             para un bonete» (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1633_escrutinio"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1633_escrutinio"
               >1633_escrutinio</ref>). </note><hi rend="b"> no en desengaños ni esperanzas, que de
             un afecto y otro trajo sobre caudal experiencias; la necesidad lo trajo, la necesidad le
             detuvo: no sé si diga que lo acabó. Gran nota</hi><note place="bottom"><hi rend="i"
@@ -1789,9 +1789,9 @@
             Enrique IV de Francia y María de Médicis, que casó con Felipe IV en 1615. Góngora le
             dedica dos sonetos antes de su ascenso al trono: «Del rey y reina, nuestros señores, en
             el Pardo, antes de reinar» [<ref
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem334"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem334"
               >OC334</ref>]; y el que comienza «Peinaba al Sol Belisa sus cabellos» [<ref
-              target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem335#l335.1"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem335#l335.1"
               >OC335</ref>]. Que tuvo algún trato con la reina se deduce de una carta del 25 de
             noviembre de 1625, en la que el poeta cuenta que, al ir a felicitarla por su parto, se
             encontró con el conde-duque, que le dio muestras de afecto y de querer ocuparse de sus
@@ -1834,7 +1834,7 @@
             ser un olvido del impresor al introducir el adverbio «cristianísimamente» entre el verbo
             ‘reconocer’ y el complemento directo («Reconoció lo que debía a su profesión y a su
             sangre») del original (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida-chacon</ref>).</note> a que le<hi rend="b"> obligaron</hi> su profesión, su
             sangre<note place="bottom">Es decir, confesó sus obligaciones o voluntades para con la
             iglesia y su familia.</note>, y <hi rend="b">el segundo día de la Pascua de Espíritu
@@ -1853,7 +1853,7 @@
             ravignani, al suo Creatore rendé il faticato spirito…» (Boccaccio, p. 52)</note>
           <hi rend="b">plácidamente</hi>. Dejó consuelo de su muerte a sus amigos, descansó<note
             place="bottom">En la <hi rend="i">vita</hi> del manuscrito Chacón (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vida_chacon</ref>), no aparece acentuado y en edición de dicho texto respetamos
             la lección del sustantivo ‘descanso’ tal como aparece; en esta reescritura figura como
             verbo en pretérito y así lo entendemos: es decir, que con su muerte el poeta dejó
@@ -1967,7 +1967,7 @@
             <hi rend="b">Finalmente será esta publicidad para quietud</hi> de muchas naciones,
           adonde acaso de los escritos de don Luis no llegó más pluma que las de su fama<note
             place="bottom">El epílogo de la <hi rend="i">vita</hi> Chacón (<ref
-              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_vida-chacon"
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
               >1628_vita-chacon</ref>) se reescribe y se expande aquí para reivindicar la publicidad
             dada a los escritos de Góngora mediante la reunión de sus textos que la <hi rend="i"
               >vita</hi> prologa. Muchas naciones, a quienes ha llegado la fama de don Luis, no han

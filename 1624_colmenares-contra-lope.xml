@@ -32,7 +32,7 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/1624_colmenares-contra-lope</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/gongora/1624_colmenares-contra-lope</idno>
         <date when="2015"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
@@ -123,11 +123,11 @@
           </row>
           <row>
             <cell>Responde a otro texto</cell>
-            <cell>El texto I responde a la carta de Lope de Vega sobre la «nueva poesía» publicada en 1621 en <hi rend="i">La Filomena</hi> (<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope">1621_censura-lope</ref>) / el texto II responde al texto I / el texto III responde al texto II</cell>
+            <cell>El texto I responde a la carta de Lope de Vega sobre la «nueva poesía» publicada en 1621 en <hi rend="i">La Filomena</hi> (<ref target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope">1621_censura-lope</ref>) / el texto II responde al texto I / el texto III responde al texto II</cell>
           </row>
           <row>
             <cell>Referencias a la polémica</cell>
-            <cell><ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope">1621_censura-lope</ref></cell>
+            <cell><ref target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope">1621_censura-lope</ref></cell>
           </row>
         </table>
              </div>
@@ -166,7 +166,7 @@
             <p>Se presenta Lope en <hi rend="i">La Circe</hi> (1624) escribiendo de nuevo una
               epístola a un (presunto) «señor de estos reinos», que se supone que es el mismo al que
               remitió la incluida en 1621 en <hi rend="i">La Filomena</hi> (<ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>); de nuevo la inserta en una miscelánea entre otras varias
               epístolas, todas en verso, dirigidas a diferentes personajes y sobre diversos asuntos;
               y también de nuevo la incluye seguida de una composición poética ajena (en este caso
@@ -273,7 +273,7 @@
               poco más puede añadirse a lo explicado en la introducción a su carta-«censura» de <hi
                 rend="i">La Filomena</hi> (1621) acerca de su posicionamiento, tanto público como
               privado, por entonces ante Góngora y la «nueva poesía»<note place="bottom">Véase <ref
-                  target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                   >1621_censura-lope</ref>.</note>.</p>
           </div>
         </div>
@@ -2452,7 +2452,7 @@
               popular <hi rend="i">Thesaurus Ciceronianus</hi> de Nizzoli (<hi rend="i">s.v.</hi>
               Plato): véase la nota 70 a la edición de la carta de Lope en <hi rend="i">La
                 Filomena</hi>: <ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>). Y Cicerón añade que «un poema complejo debe lograr la
               aprobación de una minoría, y un discurso popular el beneplácito de la masa». La
               formulación del texto ciceroniano que ofrecen las ediciones actuales es: «poema enim
@@ -2472,7 +2472,7 @@
               devuelve el golpe a Lope con una cita procedente de la misma célebre epístola de Pico
               della Mirandola a Hermolao Barbaro fechada en 1485 que citaba aquel (véase la nota 56
               a la edición de la carta de Lope en <hi rend="i">La Filomena</hi>: <ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>; ed. cit. allí, p. 332). El adagio 466 de Erasmo de
               Rotterdam es «Non omnia pari filio conueniunt», y su explicación la inicia el
               humanista holandés indicando que «Pro prouerbio Picus Mirandulanus protulit, e medio
@@ -2499,7 +2499,7 @@
                 Agellius 11 noct. 7 </note>
               <note place="bottom"> Véase la nota 49 a la edición de la carta de Lope en <hi
                   rend="i">La Filomena</hi> (<ref
-                  target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                   >1621_censura-lope</ref>). La cita de Aulo Gelio reproducida por Colmenares es
                 correcta y no presenta los errores de la de Lope, aunque tampoco el segoviano, sea
                 por descuido suyo, sea por fallo de imprenta, está libre de introducir lecturas
@@ -2542,14 +2542,14 @@
             propósito, las anfibologías dialécticas<note place="margin"> Cicer. 2 ad
               Heren.</note><note place="bottom">Véase la nota 70 a la edición de la carta de Lope en
                 <hi rend="i">La Filomena</hi> (<ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>).</note>. Y nuestro Apolo español <persName
               type="authority" key="Arias Montano, Benito" precision="3">Arias Montano</persName>
             declaró esta causa mejor que todos en sus <title>Retóricos</title>, que podrá ser estén
             en el librico de la remuneración que aquel señor envió a vuestra merced<note
               place="bottom"> Parece referirse Colmenares a la respuesta del «señor de estos reinos»
               a la primera carta de Lope en <hi rend="i">La Filomena</hi> (<ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>): allí le anuncia, como «remuneración» por las molestias,
               el envío de las obras completas de Lipsio y de los <hi rend="i">Humanae salutis
                 monumenta</hi> de Arias Montano. No termino de entender por qué le dice aquí
@@ -2633,7 +2633,7 @@
                 los doctos, sino como suelen decirlo los indoctos»). Puede verse el fragmento
                 completo (así como el de la nota anterior) traducido en la nota 87 a la edición de
                 la carta de Lope en <hi rend="i">La Filomena</hi> (<ref
-                  target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                   >1621_censura-lope</ref>).</note>. Traslado lugares por la fuerza que vuestra
               merced pone en el de este santo doctor diciendo –lo que es tan llano– que no habrá
               ninguno tan atrevido<note place="bottom" type="app" rend="I"> tan atrevido <hi
@@ -2751,7 +2751,7 @@
               verso citado por Colmenares, que en la versión <hi rend="i">recepta</hi> dice, en
               realidad, «arrima a un fresno el fresno», es el decimotercero de la dedicatoria de las
                 <hi rend="i">Soledades</hi> de Luis de Góngora al duque de Béjar [<ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264A#l264A.13"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264A#l264A.13"
                 >OC264A.13</ref>], y en él se lee la misma palabra empleada en sentido propio o
               recto (el <hi rend="i">árbol</hi> fresno) y en sentido figurado, recurriendo a la
               metonimia del «material de que está hecho un objeto por el objeto mismo» (el venablo
@@ -2773,13 +2773,13 @@
             octava 61: <quote>«Viendo el fiero jayán con paso mudo / correr al mar la fugitiva
               nieve»</quote><note place="bottom">
               <ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.481"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.481"
                 >OC255.481</ref>-482.</note>; ni aquello<note place="bottom" type="app" rend="I">
               aquello <hi rend="i">B</hi> : aquel <hi rend="i">C</hi></note> de la segunda parte de
             las <title>Soledades</title>: <quote>«Cristal pisando azul con pies
               veloces»</quote><note place="bottom">
               <ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.46"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.46"
                 >OC264B.46</ref>. Lo cierto es que yo, lo mismo que Colmenares, tampoco observo
               mucho pleonasmo en esos versos. Pero no es menos cierto que esos ejemplos, por así
               decirlo, se los saca caprichosamente de la manga, pues Lope, en su «censura» de 1621,
@@ -3154,7 +3154,7 @@
                 libera fiunt carmina, quid iam non carmen erit?</hi><note place="bottom"> La cita
                 procede de una de las cartas del cruce epistolar, que ya alegaba Lope en su carta de
                   <hi rend="i">La Filomena</hi> (<ref
-                  target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                   >1621_censura-lope</ref>), entre Scala y Poliziano, y referido allí en la nota 95
                 (puede verse en la p. 471 de la edición mencionada en dicha nota: <hi rend="i"
                   >Angeli Politiani et aliorum virorum illustrium epistolarum libri XII</hi>, Hanau:
@@ -3291,7 +3291,7 @@
                 ingenium</hi> de <hi rend="i">Sententiae et exempla</hi> de Andrés Eborense (<hi
                 rend="i">Andreas Eborensis</hi>; véase la nota 25 a la edición de la carta de Lope
               en <hi rend="i">La Filomena</hi>: <ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>). La primera de las sentencias tomadas <hi rend="i">Ex
                 sacris</hi> («De autores cristianos») es precisamente esta: «Ars infoecunda est sine
               usu, et usus temerarius est sine arte. Chrysost. sup. Psal. 6».</note>. Y no importa
@@ -3498,7 +3498,7 @@
               key="Cicerón" precision="3">Cicerón</persName>
             <title>a Herenio</title><note place="bottom">Hoy no se considera obra de Cicerón: véase
               la nota 76 a la edición de la carta de Lope en <hi rend="i">La Filomena</hi> (<ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>).</note> y en <persName type="authority" key="Virgilio"
               precision="3">Virgilio</persName> en el 4 de la <title>Eneida</title>, que también se
             introduce por forma, como allí por la Fama; o la aposiopesis, precisión o reticencia, el
@@ -3813,7 +3813,7 @@
             primero discurso que anda impreso<note place="bottom">Es decir, en la <hi rend="i"
                 >censura</hi> de la «nueva poesía» que había publicado en 1621 en <hi rend="i">La
                 Filomena</hi> (<ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>), donde efectivamente se aborda esta cuestión. Con la
               expresión «lengua antigua» seguramente se refiera Lope no tanto al latín, cuanto a la
               latinizante manera de expresión en castellano presente en autores como Juan de Mena y
@@ -4112,7 +4112,7 @@
               que saca su información de esas obras en que se compilaba una multitud de datos
               eruditos, lo que, como bien se sabe hoy y se muestra en las notas a sus dos cartas (el
               texto II, aquí editado, y <ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>), es muy cierto (por ejemplo, la poliantea de Andrés
               Eborense), si bien lo es igualmente que algunos autores parece alegarlos en esta
               polémica a partir de una lectura directa de sus obras. Pero de nuevo podemos volverle
@@ -4356,7 +4356,7 @@
               Argensola, los dos poetas «aragoneses» por antonomasia en ese tiempo (célebres sobre
               todo por su poesía moral y sus sátiras, especialmente el primero de ellos; son los
               «dos Lupercios» que menciona Lope en su carta en <hi rend="i">La Filomena</hi> –<ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                 >1621_censura-lope</ref>–); y Francisco López de Zárate, poeta y dramaturgo
               logroñés, conocido como «el caballero de la rosa» y buen amigo de Lope, quien escribió
               la aprobación para su volumen de <hi rend="i">Varias poesías</hi> (Madrid: por la
@@ -4888,7 +4888,7 @@
                   >inventio</hi> que al de la <hi rend="i">elocutio</hi>.</note>; y diré yo aquí lo
               que vuestra merced en su primer discurso<note place="bottom">Esto es, en la carta de
                 Lope en <hi rend="i">La Filomena</hi> (<ref
-                  target="http://obvil.paris-sorbonne.fr/corpus/gongora/1621_censura-lope"
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/1621_censura-lope"
                   >1621_censura-lope</ref>).</note>: <quote>Que ninguno habrá tan atrevido, que
                 contradiga la autoridad de san Agustín</quote>; y otros juzguen cuál le cita más a
               propósito, coligiendo nosotros, de paso, que en los tropos y figuras consisten los

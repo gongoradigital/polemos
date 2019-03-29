@@ -30,7 +30,7 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/1625_el-culto-graduado</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/gongora/1625_el-culto-graduado</idno>
         <date when="2015"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
@@ -2359,7 +2359,7 @@ El editor considera que las Advertencias para la inteligencia de las Soledades, 
               pues figura en el íncipit de las <hi rend="i">Soledades</hi>: «Era del año la estación
               florida / en que el mentido robador de Europa / (media luna las armas de su frente, /
               y el Sol todos los rayos de su pelo), / luciente honor del cielo, / <ref
-                target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.6"
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.6"
                 xml:id="ref1">en campos de zafiro pace estrellas</ref>» (Góngora, 2000: 366, v.
               1-6).</note></seg>.</l>
         <l><space rend="tab"> </space>Desmayado esplendor en corto giro</l>
