@@ -7,7 +7,7 @@
       <titleStmt>
         <title>Epístolas de <hi rend="i">La Filomena</hi> de Lope de Vega</title>
         <author>Anónimo («un señor de estos reinos»)</author>
-        <author key="Vega Carpio, Lope de">Lope de <hi rend="sc">Vega</hi></author>
+        <author key="Vega Carpio, Lope de">Lope de Vega</author>
         <editor>Pedro Conde Parrado</editor>
       </titleStmt>
       <editionStmt>
@@ -1138,12 +1138,11 @@
         <index indexName="resp" n="Vega Carpio, Lope Félix de"/>
         <index indexName="date" n="1621"/>
         <head>Texto de la edición</head>
-        <div>
           <div
-            xml:id="Papel que escribió un señor de estos reinos a Lope de Vega Carpio en razón de la nueva poesía">
-            <head>[I] <pb
-                facs="http://gongoradigital.github.io/img/1621_censura-lope/1621_censura-lope_f189v.jpg"
-                n="f. 189v"/>Papel que escribió un señor de estos reinos a Lope de Vega Carpio en
+            xml:id="PapelqueescribióunseñordeestosreinosaLopedeVegaCarpioenrazóndelanuevapoesía">
+            <pb
+              facs="http://gongoradigital.github.io/img/1621_censura-lope/1621_censura-lope_f189v.jpg"
+              n="f. 189v"/> <head>[I] Papel que escribió un señor de estos reinos a Lope de Vega Carpio en
               razón de la nueva poesía</head>
             <p>Con mucho gusto he leído los dos poemas de <persName type="polemist"
                 key="Góngora, Luis de">ese caballero</persName><note place="bottom">Se supone que
@@ -1180,10 +1179,10 @@
               le conozco y porque yo fío de su modestia que a nadie le parecerá mal su censura, y yo
               le quedaré en mucha obligación. Dios guarde a vuestra merced como deseo.</p>
           </div>
-          <div xml:id="Respuesta de Lope de Vega Carpio">
-            <head>[II] <pb
-                facs="http://gongoradigital.github.io/img/1621_censura-lope/1621_censura-lope_f190v.jpg"
-                n="f. 190v"/>Respuesta de Lope de Vega Carpio</head>
+          <div xml:id="RespuestadeLopedeVegaCarpio">
+            <pb
+              facs="http://gongoradigital.github.io/img/1621_censura-lope/1621_censura-lope_f190v.jpg"
+              n="f. 190v"/><head>[II] Respuesta de Lope de Vega Carpio</head>
             <p>Mándame vuestra excelencia que le diga mi opinión acerca de esta nueva poesía, como
               si concurrieran en mí las calidades necesarias a su censura: de que me siento confuso
               y atajado, porque por una parte me fuerza su imperio –en mis obligaciones ley precisa–
@@ -2385,7 +2384,7 @@
               <l>en círculos de sol irá tu fama.</l>
             </quote>
           </div>
-          <div xml:id="Del mismo señor a Lope de Vega">
+          <div xml:id="DelmismoseñoraLopedeVega">
             <pb
               facs="http://gongoradigital.github.io/img/1621_censura-lope/1621_censura-lope_f200r.jpg"
               n="f. 200r"/>
@@ -2434,7 +2433,7 @@
               cuantos están escritos, la Antigüedad perdone.</p>
             <p rend="center">Dios guarde a vuestra merced como deseo.</p>
           </div>
-          <div xml:id="La respuesta">
+          <div xml:id="Larespuesta">
             <pb
               facs="http://gongoradigital.github.io/img/1621_censura-lope/1621_censura-lope_f200v.jpg"
               n="f. 200v"/>
@@ -2584,7 +2583,7 @@
                 todos).</note> y veneración justa de su patria.</p>
             <p>Dios guarde a vuestra excelencia muchos años, como deseo.</p>
           </div>
-        </div>
+        
       </div>
     </body>
   </text>

@@ -4800,9 +4800,9 @@
           </note> con ellos.</p>
       </div>
       <div>
-        <head>[1]<note place="bottom">Aunque Almansa no numera sus anotaciones, en total 26, me ha
+        <head rend="center">[1]<note place="bottom">Aunque Almansa no numera sus anotaciones, en total 26, me ha
             parecido oportuno hacerlo entre corchetes para facilitar las referencias internas, tanto
-            aquí como en el Estudio introductorio.</note> ¶ <quote><l rend="center"><ref
+            aquí como en el Estudio introductorio.</note> ¶ <quote><lb/><ref
                 xml:id="ref1001"
                 target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.6"
                 >Zafiros pisa, si no pace estrellas</ref><note place="bottom">OC264B.6, según la
@@ -4825,7 +4825,7 @@
                 196-198 y 590-591). Sorprendente resulta que la versión primitiva «zafiros pisa, si
                 no pace estrellas» del ms. RAE RM-6709 y de Almansa sea la que mantenga varios años
                 después el anónimo autor de la <hi rend="i">Soledad primera ilustrada y
-                  defendida</hi> (Osuna 2008: 164). </note></l></quote></head>
+                  defendida</hi> (Osuna 2008: 164). </note></quote></head>
         <p>Está en el octavo<note place="bottom">Parece evidente que se refiere al octavo cielo, el
             de las Estrellas fijas, según la cosmología aristotélico-ptolemaica que concebía la
             Tierra como una esfera inmóvil en el centro del universo sobre la que giraban
@@ -4860,7 +4860,7 @@
             «humilde». </note></p>
       </div>
       <div>
-        <head>[2] ¶ <quote><l rend="center"><ref xml:id="ref1002"
+        <head>[2] ¶ <quote><lb/><ref xml:id="ref1002"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.14"
           >Segundo de Arión dulce instrumento</ref><note place="bottom">OC264B.14.
                   Arión o Aríon de Metimna, virtuoso de la cítara en la corte de Corinto entre los
@@ -4872,41 +4872,41 @@
                   señala Almansa a continuación en la nota, el gemido del peregrino de las <hi
                     rend="i">Soledades</hi> fue como una segunda lira de Arión. Salcedo Coronel se
                   detiene en la explicación y orígenes de este pasaje mitológico (Salcedo 1636: f.
-                  16v-17).</note></l></quote></head>
+                  16v-17).</note></quote></head>
         <p>El gemido de este navegante enfrenó el mar y fue instrumento como el de Arión, sacado a
           tierra por el delfín.</p>
       </div>
       <div>
-        <head>[3] ¶ <quote><l rend="center"><ref xml:id="ref1003"
+        <head>[3] ¶ <quote><lb/><ref xml:id="ref1003"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.20"
           >Que a una Libia de ondas su camino</ref><note place="bottom"
-                  >OC264B.20.</note></l></quote></head>
+                  >OC264B.20.</note></quote></head>
         <p><pb n="f. 154v"/> Los arenales de Libia: el aire meneando las arenas hace montañas de
           ellos, y como el mismo azotando el mar hace montañas de agua, usó este término que es muy
           propio.</p>
       </div>
       <div>
-        <head>[4] ¶ <quote><l rend="center"><ref xml:id="ref1004"
+        <head>[4] ¶ <quote><lb/><ref xml:id="ref1004"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.28"
           >De Júpiter el ave</ref><note place="bottom"
-            >OC264B.28.</note></l></quote></head>
+            >OC264B.28.</note></quote></head>
         <p>Es el águila.</p>
       </div>
       <div>
-        <head>[5] ¶ <quote><l rend="center"><ref xml:id="ref1005"
+        <head>[5] ¶ <quote><lb/><ref xml:id="ref1005"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.48"
           >Entre espinas crepúsculos pisando</ref><note place="bottom"
-                  >OC264B.48.</note></l></quote></head>
+                  >OC264B.48.</note></quote></head>
         <p>Los intermedios tiempos del romper y cerrar la noche llamamos crepúsculos, y dice que al
           anochecer, entre la incertidumbre y guerra de la luz y las sombras, riscos que aun
           igualara mal volando la más expedida<note place="bottom">Forma hoy desusada de
             «expedita».</note> ala, entre espinas los pisa.</p>
       </div>
       <div>
-        <head>[6] ¶ <quote><l rend="center"><ref xml:id="ref1006"
+        <head>[6] ¶ <quote><lb/><ref xml:id="ref1006"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.53"
           >Del mar siempre sonante</ref><note place="bottom"
-              >OC264B.53.</note></l></quote></head>
+              >OC264B.53.</note></quote></head>
         <p>El <name type="authority">Profeta Rey</name>: <quote><hi rend="i">multitudo sonitus
               aquarum</hi></quote><note place="bottom"><p rend="noindent">David. <hi rend="i"
                 >Salmos</hi> 76:18: «<hi rend="i">Multitudo sonitus aquarum vocem dederunt nubes
@@ -4918,7 +4918,7 @@
       </div>
       <div>
         <pb n="f. 155r"/>
-        <head> [7] ¶ <quote><l rend="center"><ref xml:id="ref1007"
+        <head> [7] ¶ <quote><lb/><ref xml:id="ref1007"
                 target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.73"
                 >Animal, si nocturno, tan luciente</ref><note place="bottom">OC264B.[75<hi rend="i"
                   >b</hi>] de la versión primitiva del ms. RAE RM-6709 (cf. Jammes 1984: 12 y 1994:
@@ -4928,7 +4928,7 @@
                 que van del 73 al 76 en la versión definitiva sustituyeron a estos seis de la
                 primitiva: «diadema o tiara / de bien indigna frente / (si tradición apócrifa no
                 miente) / piedra que engendra en sí y consigo cría / animal si nocturno tan luciente
-                / que menosprecia con razón el día».</note></l></quote></head>
+                / que menosprecia con razón el día».</note></quote></head>
         <p>Es el carbunco<note place="bottom">El carbunclo («carbunco», según Almansa) es una piedra
             preciosa de color rojo intenso y transparente, relacionada por ello con el rubí y el
             granate, a la que se da aquel nombre porque su brillo se parece a los destellos del
@@ -4944,10 +4944,10 @@
           ilustra con la piedra de su frente la región de la oscuridad.</p>
       </div>
       <div>
-        <head>[8] ¶ <quote><l rend="center"><ref xml:id="ref1008"
+        <head>[8] ¶ <quote><lb/><ref xml:id="ref1008"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.83"
           >O el austro brame o el arboleda cruja</ref><note place="bottom"
-                  >OC264B.83.</note></l></quote></head>
+                  >OC264B.83.</note></quote></head>
         <p>Esta voz <hi rend="i">cruja</hi> es provincial<note place="bottom">Manuel Ponce utiliza
             la misma expresión a propósito del término <hi rend="i">coscoja</hi>: «Esta voz […]
             dicen es provincial. Yo no la desobedezco, porque soy novicio en su religión, aunque no
@@ -4957,23 +4957,22 @@
           por toda España, aunque es voz que tiene <hi rend="i">R</hi>, que muestra gravedad.</p>
       </div>
       <div>
-        <head>[9] ¶ <quote><l rend="center"><ref xml:id="ref1009"
+        <head>[9] ¶ <quote><lb/><ref xml:id="ref1009"
                 target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.99"
                 >Las agujas que ilustran tu edificio</ref><note place="bottom">OC264B.[100] de la
                 versión primitiva del ms. RAE RM-6709 (cf. Jammes 1984: 13 y 1994: 218). Los versos
                 99-100 de la versión definitiva sustituyeron a estos dos de la primitiva: «al
                 pespuntar los cielos / las agujas que ilustran tu edificio», que era redacción muy
-                lograda, según afirma Jammes con toda la razón.</note></l></quote></head>
+                lograda, según afirma Jammes con toda la razón.</note></quote></head>
         <p>Toda forma piramidal se llama aguja, y como el fuego, como remata en punta le llama el
           griego <hi rend="i">Pirus</hi>, y la choza remata en esa forma, que es la de aguja, y como
           hecha de ramos, el cielo no bosquejó modelos sino sacola del primer embrión.</p>
       </div>
       <div>
-        <head>[10] ¶ <quote><l rend="center"><ref xml:id="ref1010"
+        <head>[10] ¶ <quote><lb/><ref xml:id="ref1010"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.110"
-          >Ni la que su alimento</ref></l>
-              <l rend="center">el áspid es gitano<note place="bottom"
-              >OC264B.110-111.</note></l></quote></head>
+          >Ni la que su alimento / el áspid es gitano</ref><note place="bottom"
+              >OC264B.110-111.</note></quote></head>
         <p>Fingieron los poetas que la envidia se sustentaba <pb n="f. 155v"/> de áspides<note
             place="bottom">Ovidio, <hi rend="i">Met</hi>., II, 768-770: «…<hi rend="i">Videt intus
               edentem /vipereas carnes, vitiorum alimenta suorum, /Invidiam visaque oculos
@@ -4984,10 +4983,10 @@
           serpientes.</note>.</p>
       </div>
       <div>
-        <head>[11] ¶ <quote><l rend="center"><ref xml:id="ref1011"
+        <head>[11] ¶ <quote><lb/><ref xml:id="ref1011"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.128"
           >Trofeos dulces de un canoro sueño</ref><note place="bottom"
-                  >OC264B.128.</note></l></quote></head>
+                  >OC264B.128.</note></quote></head>
         <p>Canoro por la dulzura con que se duerme<note place="bottom">Poco hábil estuvo Almansa en
             esta glosa para explicar una forma de hipálage muy común en Góngora, pues habría que
             decir que ‘canoro en tanto que inducido por la dulzura del canto de la adulación’. No
@@ -4997,13 +4996,13 @@
             palacio <hi rend="i">trofeos dulces de canoro sueño</hi>?» (Rico 2002: 77).</note>.</p>
       </div>
       <div>
-        <head>[12] ¶ <quote><l rend="center"><ref xml:id="ref1012"
+        <head>[12] ¶ <quote><lb/><ref xml:id="ref1012"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.181"
           >Rayó el verde obelisco de la choza</ref><note place="bottom">OC264B.181.
                   El texto dice «chosa»; podría tratarse de un andalucismo (como antes «poecía»,
                     <ref xml:id="ref165" target="ref166">n. 251</ref>), aunque parece raro, pues
                   pocas líneas más arriba (f. 155r) había dicho
-          «choça».</note></l></quote></head>
+          «choça».</note></quote></head>
         <p>Lo mismo es obelisco que pirámide.</p>
       </div>
       <div>
@@ -5035,7 +5034,7 @@
         <p>No son tan verdes las islas cuanto fresca y agradable la metáfora.</p>
       </div>
       <div>
-        <head>[14] ¶ <quote><l rend="center"><ref xml:id="ref1014"
+        <head>[14] ¶ <quote><lb/><ref xml:id="ref1014"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.271"
           >El Sileonio buscaba</ref><note place="bottom">OC264B.271. Sileonio es
                   Sileno (Silvano en la mitología latina), sátiro y dios menor de la embriaguez,
@@ -5043,7 +5042,7 @@
                   explica así: «Sileno es dios de las selvas a quien las ninfas llamaban y hacían
                   fiestas en ellas. Ve a Alex ab Alexº. l 6 [Alexander ab Alexandro]. Dice aquí que
                   buscaba el garzón de aquellas serranas porque estaban entonces solas» (<hi
-                    rend="i">Silva</hi>, f. 50r).</note></l></quote></head>
+                    rend="i">Silva</hi>, f. 50r).</note></quote></head>
         <p>Teniéndolas por ninfas, buscaba el fauno de aquellas montañas<note place="bottom"
             >Mientras que en la versión definitiva de la <hi rend="i">Soledad</hi> primera lo que
             buscaba el peregrino era al Sileno que acompañaría a las serranas caso de que estas
@@ -5054,7 +5053,7 @@
             19).</note>.</p>
       </div>
       <div>
-        <head>[15] ¶ <quote><l rend="center"><ref xml:id="ref1015"
+        <head>[15] ¶ <quote><lb/><ref xml:id="ref1015"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.275"
           >O si del Termodonte</ref><note place="bottom">OC264B.275. El río
                   Termodonte, que aparece en el texto como «Fermodonte» (en realidad «fermo donte»,
@@ -5066,7 +5065,7 @@
                   monte amazonio, y pasa por Themyscira, ciudad de Capadozia. Plin. l. 5. C. 9.
                   Famoso por las Amazonas que habitaron sus riberas, así en el ejercicio de la
                   guerra, como en el de la caza. Ovid. l. 3. <hi rend="i">De ponto</hi>. Sil. Ytal.
-                  l. 8» (<hi rend="i">Silva</hi>, f. 50r-50v).</note></l></quote></head>
+                  l. 8» (<hi rend="i">Silva</hi>, f. 50r-50v).</note></quote></head>
         <p>Nombre propio de un río cerca del cual tenían las amazonas su vivienda.</p>
       </div>
       <div>
@@ -5143,22 +5142,22 @@
       </div>
       <div>
         <pb n="f. 156v"/>
-        <head> [17] ¶ <quote><l rend="center"><ref xml:id="ref1017"
+        <head> [17] ¶ <quote><lb/><ref xml:id="ref1017"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.304"
           >No el torcido taladro de la tierra</ref><note place="bottom"
-                  >OC264B.304.</note></l></quote></head>
+                  >OC264B.304.</note></quote></head>
         <p>Taladro es voz usada en la samblería<note place="bottom">Ensamblaje, obra de carpintería
             (Cov.: ENSAMBLAR. «Los carpinteros […] y por las molduras, en quanto ajustan unas con
             otras, especialmente en las esquinas y ángulos, se llaman ensambladores; y el hacer
             estas juntas ensamblar»).</note> y tiene gallarda propiedad.</p>
       </div>
       <div>
-        <head>[18] ¶ <quote><l rend="center"><ref xml:id="ref1018"
+        <head>[18] ¶ <quote><lb/><ref xml:id="ref1018"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.372"
           >Vaga clicie del viento</ref><note place="bottom">OC264B.372. Clicie es
                   ninfa convertida en heliotropo o girasol, quien, enamorada de Apolo y tras ser
                   abandonada por él, sigue su curso a lo largo del día (Ovidio, <hi rend="i"
-                    >Met</hi>., IV, 256-270). </note></l></quote></head>
+                    >Met</hi>., IV, 256-270). </note></quote></head>
         <p>Clicie, gigantea, gira o mirasol son nombres de aquella flor que va volviendo al sol; y
           aunque el glorioso Padre <name type="authority">San Teodoreto</name><note place="bottom"
             >Teodoreto de Ciro (Antioquía, <hi rend="i">ca.</hi> 393 – Ciro, <hi rend="i">ca</hi>.
@@ -5199,17 +5198,17 @@
               Antídoto</hi> (Artigas 1925: 412).</note>.</p>
       </div>
       <div>
-        <head>[19] ¶ <quote><l rend="center"><ref xml:id="ref1019"
+        <head>[19] ¶ <quote><lb/><ref xml:id="ref1019"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.375"
           >Monstruo escamado de inconstantes hayas</ref><note place="bottom"
                   >OC264B.375. Es versión primitiva del ms. RAE RM-6709 (cf. Jammes 1984: 23 y 1994:
                   274); en la versión definitiva «inconstantes» se sustituyó por
-                «robustas».</note></l></quote></head>
+                «robustas».</note></quote></head>
         <p>Llama monstruo al mar escamado de bajeles y llámanse hayas por hacerse de ellas, y
           también leños o pinos.</p>
       </div>
       <div>
-        <head>[20] ¶ <quote><l rend="center"><ref xml:id="ref1020"
+        <head>[20] ¶ <quote><lb/><ref xml:id="ref1020"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.379"
           >Náutica industria investigó ya piedra</ref><note place="bottom"
                   >OC264B.379. Es versión primitiva del ms. RAE RM-6709 (cf. Jammes 1984: 23 y 1994:
@@ -5223,7 +5222,7 @@
                   Coronel 1636: f. 80) y de Dámaso Alonso (1982: 638): en la de este último se
                   atribuye el descubrimiento de la piedra imán a los navegantes modernos, mientras
                   en la más acertada de aquellos, el descubrimiento de dichos navegantes fue
-                  utilizar el imán para orientarse en la navegación.</note></l></quote></head>
+                  utilizar el imán para orientarse en la navegación.</note></quote></head>
         <p>Esta estancia, que empezado en este y en diez y ocho versos siguientes<note
             place="bottom">El pasaje sobre la piedra imán va desde el v. 379 al 396, tanto en la
             versión primitiva como en la definitiva; está formado, pues, por 18 versos y no por 19,
@@ -5237,14 +5236,14 @@
         <head>[21] ¶ <quote><ref xml:id="ref1021"
               target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.416"
               >Y viendo las que al sol el occidente / le corre en leche azul de aguas marinas /
-              turquesadas cortinas<note place="bottom">OC264B.416-418. El v. 416 «y viendo» sigue la
+          turquesadas cortinas</ref><note place="bottom">OC264B.416-418. El v. 416 «y viendo» sigue la
                 versión primitiva del ms. RAE RM-6709 (cf. Jammes 1984: 24 y 1994: 282); en la
                 definitiva se sustituyó por «besando». Pero a la versión primitiva Almansa le añade
                 de su cosecha todo un disparate en el v, 417 al cambiar «lecho» (que así aparecía ya
                 desde la versión primitiva y se mantuvo en la definitiva) por «leche». Lo más
                 sorprendente es la justificación que hace a continuación en su comentario (véase n.
                 siguiente). Volver a la nota <ref xml:id="ref66" target="ref65"
-              >186</ref>.</note></ref></quote></head>
+              >186</ref>.</note></quote></head>
         <p>La vía láctea, como está en el cielo y es de leche, la llama leche azul o turquesada, y
           hacen correspondencia con ellas las aguas del mar, y por esa semejanza usó tan gallarda
             locución<note place="bottom">Es evidente que el «lecho azul de aguas marinas» del v. 417
@@ -5259,10 +5258,10 @@
               >186</ref>.</note>.</p>
       </div>
       <div>
-        <head>[22] ¶ <quote><l rend="center"><ref xml:id="ref1022"
+        <head>[22] ¶ <quote><lb/><ref xml:id="ref1022"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.452"
           >Cabo le hizo de esperanza buena</ref><note place="bottom"
-                  >OC264B.452.</note></l></quote></head>
+                  >OC264B.452.</note></quote></head>
         <p rend="noindent">Dobló el cabo de su nombre<note place="bottom">Muy al contrario, el cabo
             tomó el nombre de su circunstancia de convertirse en la esperanza de llegar por fin a
             Oriente; por eso los portugueses lo llamaron Cabo da Boa Esperança, cambiando la
@@ -5286,14 +5285,14 @@
           tan galante <pb n="f. 157v"/> metáfora.</p>
       </div>
       <div>
-        <head>[24] ¶ <quote><l rend="center"><ref xml:id="ref1024"
+        <head>[24] ¶ <quote><lb/><ref xml:id="ref1024"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.498"
           >Fue templado Catón, casta Lucrecia</ref><note place="bottom">OC264B.498.
                   Este verso fue también ilustrado por Manuel Ponce: «Esto se entenderá en la
                   prefación de Salust. en su <hi rend="i">Catilinario</hi>, pues dice que hasta que
                   se conocieron en Roma los preciosos y delicados manjares, guardaron sus ciudadanos
                   constancia y sus matronas honestidad» (<hi rend="i">Silva</hi>, f.
-                63r).</note></l></quote></head>
+                63r).</note></quote></head>
         <p>Como dio Egipto los olores<note place="bottom">En rigor, el texto del poema se refiere
             específicamente al clavo de olor, la más famosa de las especias de las Islas Molucas,
             que transportada a través del Nilo, tardó en llegar a Grecia y más a Roma. Sobre sus
@@ -5306,7 +5305,7 @@
         <head>[25] ¶ <quote><ref xml:id="ref1025"
               target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.503"
               >En suspiros con esto / y el mar anegó en lágrimas el resto / de su discurso el
-              montañés prolijo / que el viento su caudal, el mar su hijo<note place="bottom"
+              montañés prolijo / que el viento su caudal, el mar su hijo</ref><note place="bottom"
                 >OC264B.503-506. El v. 504 es de la cosecha de Almansa o más probablemente del
                 copista, sin duda una <hi rend="i">lectio facilior</hi> frente a la correcta (que ya
                 aparecía en el ms. RAE RM-6709 y se mantuvo en la versión definitiva) que dice: «y
@@ -5317,16 +5316,16 @@
                 posibilidad de comprensión: buena prueba de ello es que el propio Almansa en su
                 paráfrasis posterior parece seguir sorprendentemente la versión correcta (?), lo que
                 sería indicativo de que la mala lectura provendría en este caso del copista. Volver
-                a la nota <ref xml:id="ref70" target="ref69">186</ref>.</note></ref></quote></head>
+                a la nota <ref xml:id="ref70" target="ref69">186</ref>.</note></quote></head>
         <p>Acaba el viejo su discurso náutico anegándole en suspiros y en lágrimas como el mar había
           anegado su hacienda y su hijo volcando la nave<note place="bottom">Véase la explicación de
             nota anterior.</note>.</p>
       </div>
       <div>
-        <head>[26] ¶ <quote><l rend="center"><ref xml:id="ref1026"
+        <head>[26] ¶ <quote><lb/><ref xml:id="ref1026"
           target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.634"
           >A robusto nogal que acequia lava</ref><note place="bottom"
-                  >OC264B.634.</note></l></quote></head>
+                  >OC264B.634.</note></quote></head>
         <p>Acequia es nombre propio del Andalucía, agua guiada por alguna zanja a huertas y
           molinos.</p>
         <p><pb n="f. 158r"/> Como este papel ha tenido nombre de defensa y no de apología<note
