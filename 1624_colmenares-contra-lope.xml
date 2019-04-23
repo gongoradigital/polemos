@@ -2365,7 +2365,7 @@
       </div>
       <div>
         <head>Texto de la edición</head>
-        <div xml:id="Respuesta a la censura antecedente">
+        <div xml:id="Respuestaalacensuraantecedente">
           <index indexName="resp" n="Colmenares, Diego"/>
           <index indexName="date" n="1624"/>
           <head>I <lb/>Respuesta a la censura antecedente</head>
@@ -2562,13 +2562,13 @@
             <l>et conare nouas non intermittere voces,</l>
             <l>ni ratio et rerum nouitas postulet, ut sic</l>
             <l>dissimules studium et tantum dixisse puteris</l>
-            <l>quod res ipsa petit pro causa et pondere causae</l><note place="margin"> Arias
+            <l>quod res ipsa petit pro causa et pondere causae<note place="margin"> Arias
               Montan. 3 rhetor. </note><note place="bottom"> Benito Arias Montano, <hi rend="i"
                 >Rhetoricorum libri quattuor</hi> (Amberes: Ex officina Christophori Plantini,
               1569): «Has de ser, por tanto, siempre amante de tu propio idioma / y no has de poner
               tu empeño en emplear nuevos vocablos,/ sin pedirlo la razón ni la novedad del asunto:/
               que, ocultando tu esmero, se piense que tú has dicho sólo/ lo que el tema exigía en
-              razón de la causa y su peso» (1569: III, 1100-1104).</note>.</quote>
+              razón de la causa y su peso» (1569: III, 1100-1104).</note>.</l></quote>
           <p>En esta conformidad y preceptos de la retórica hablan todos los lugares citados en
               <persName type="authority" key="Cicerón" precision="3">Cicerón</persName>, <persName
               type="authority" key="Aulo Gelio" precision="3">A. Gelio</persName><note
@@ -2578,11 +2578,11 @@
               >Quintiliano</persName>, porque al poeta</p>
           <quote>
             <l>licuit semperque licebit</l>
-            <l>signatum praesente nota producere nomen</l><note place="margin"> Horat. in
+            <l>signatum praesente nota producere nomen<note place="margin"> Horat. in
               Poet.</note><note place="bottom">
               <persName type="authority" key="Horacio" precision="3">Horacio</persName>, <hi
                 rend="i">Ars poetica</hi>, v. 58-59: «Lícito ha sido, y lo será siempre,/ palabras
-              poner a circular con la marca de lo actual».</note>,</quote>
+                poner a circular con la marca de lo actual».</note>,</l></quote>
           <p>como vuestra merced tiene bien visto en esto<note place="bottom" type="app" rend="I">
               esto <hi rend="i">B</hi> : este <hi rend="i">C</hi></note> y los demás preceptos que
             le acompañan.</p>
@@ -3024,11 +3024,11 @@
           <quote>
             <l>Plotius et Varius, Maecenas Virgiliusque,</l>
             <l>Valgius: et probet haec Octavius optimus atque</l>
-            <l>Fuscus, et haec utinam Viscorum laudet uterque</l><note place="margin"> I Sat. 3
+            <l>Fuscus, et haec utinam Viscorum laudet uterque<note place="margin"> I Sat. 3
               </note><note place="bottom"> Error: Horacio, <title>Satyrae</title>, I, 10, 81-83:
               «Que Plocio y que Vario, y que Mecenas y Virgilio/ y Valgio y el mejor, Octavio, den
               su aprobación a esto/ y también Fusco, y ojalá lo alaben también los dos
-              Viscos».</note>.</quote>
+              Viscos».</note>.</l></quote>
           <p>Los poetas de ahora, como cristianos, proceden con más humildad, sujetándose a más de
             lo que parece justo<note place="bottom" type="app" rend="I"> parece justo <hi rend="i"
                 >B</hi> : fuera razón <hi rend="i">C</hi></note>. Pero yo con vuestra merced hablo:
@@ -3139,11 +3139,11 @@
             acompañen igualmente naturaleza y arte:</p>
           <quote>
             <l>alterius sic</l>
-            <l>altera poscit opem res, et coniurat amice</l><note place="margin"> Horat. in Poet.
+            <l>altera poscit opem res, et coniurat amice<note place="margin"> Horat. in Poet.
               </note><note place="bottom"> Horacio, <title>Ars poetica</title>, 410-411: «así se
               piden ayuda entre sí y amigablemente se alían». Horacio se refiere ahí, efectivamente,
               al <hi rend="i">ars</hi> y a la <hi rend="i">natura</hi> o<hi rend="i">
-              ingenium</hi>.</note>;</quote>
+                ingenium</hi>.</note>;</l></quote>
           <p>para que la naturaleza influya<note place="bottom" type="app" rend="I"> influya <hi
                 rend="i">B</hi> : dé <hi rend="i">C</hi></note> la facilidad, y el arte dé<note
               place="bottom" type="app" rend="I"> dé <hi rend="i">B : om. C</hi></note> la
@@ -3221,7 +3221,7 @@
               años <hi rend="i">B : om.</hi> C</note>.</p>
           <p>Licenciado Diego de Colmenares.</p>
         </div>
-        <div xml:id="A un señor de estos reinos">
+        <div xml:id="Aunseñordeestosreinos">
           <index indexName="resp" n="Vega Carpio, Lope Félix de"/>
           <index indexName="date" n="1624"/>
           <head>II <lb/>A un señor de estos reinos <lb/>Epístola séptima<note place="bottom"
@@ -3992,7 +3992,7 @@
               rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>Lope Felix
             de Vega Carpio</p>
         </div>
-        <div xml:id="Respuesta a la carta antecedente, por sus mismos puntos">
+        <div xml:id="Respuestaalacartaantecedenteporsusmismospuntos">
           <index indexName="resp" n="Colmenares, Diego"/>
           <index indexName="date" n="1624"/>
           <head>III <lb/>Respuesta a la carta antecedente, por sus mismos puntos</head>
