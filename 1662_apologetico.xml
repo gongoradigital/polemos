@@ -2,7 +2,6 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="apologetico.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1662_apologetico">
-  <!--Odette: 2017-08-26T13:43:26+02:00-->
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -4661,9 +4660,7 @@
                 alusión al episodio de las «náuticas venatorias maravillas», la pesca de una foca
                 con arpón, de las <hi rend="i">Soledades</hi>, II, v. 418 y siguientes [<ref
                   target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.425"
-                    ><ref
-                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.425"
-                    >OC264C.425</ref></ref>].</note>,</l>
+                    >OC264C.425</ref>].</note>,</l>
             <l>Faría, o fiera, y su veneno ardiente</l>
             <l>sufra el castigo que le das valiente,</l>
             <l>Montero de <persName type="polemist" key="Espinosa Medrano, Juan de"
@@ -4986,9 +4983,7 @@
               hombro ilustra luego suficiente / el peso de ambos mundos, soberano, / cual la
               estrellada máquina luciente / doctas fuerzas de monte hoy africano» (<ref
                 target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem313#l313.249"
-                  ><ref
-                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem313#l313.249"
-                  >OC313.249-252</ref></ref>). Véase al respecto Teresa Zapata Fernández de la Hoz
+                  >OC313.249-252</ref>). Véase al respecto Teresa Zapata Fernández de la Hoz
               2011.</note>, delicias del orbe español, padre de la patria, príncipe de la
             paz.</head>
           <p>Mucho padrino es vuestra excelencia, príncipe excelentísimo, para que mi pequeñez
@@ -5319,8 +5314,8 @@
               el gasto’). El emperador, divertido por la involuntaria franqueza, compra el cuervo
               doblando el precio de los anteriores. El Lunarejo convierte al cuervo en papagayo
               —pájaros parlantes ambos— a partir de otro cuento romano, esta vez sobre un loro que
-              saludó a Julio César con las palabras «<seg rend="latin"><hi rend="i">Caesar,
-                aue</hi></seg>». La anécdota, referida por Plinio y por Marcial, era un tópico,
+              saludó a Julio César con las palabras «<hi rend="i">Caesar,
+                aue</hi>». La anécdota, referida por Plinio y por Marcial, era un tópico,
               ampliamente difundido por la emblemática a partir de imágenes de Durero o Rubens
               (Dundas 2004: 295-296). Espinosa Medrano continúa con esta alusión su ataque criollo
               contra el español. Primero, prolonga la identificación antifrástica del criollo con un
@@ -6175,10 +6170,10 @@
               poeta</persName><note place="bottom"> Virgilio.</note>, si quisiéramos hacer otra
             retahíla semejante. Habíanse de escribir apartados y con distinción, numerados como
             hacemos aquí:</p>
-          <l>1. §. <quote xml:lang="es"><l>«Rico de cuantos la agua engendra bienes»<note
+          <p>1. §. <quote xml:lang="es"><l>«Rico de cuantos la agua engendra bienes»<note
                   place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 123 [<ref
                     target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.123"
-                    >OC255.123</ref>].</note></l></quote></l>
+                    >OC255.123</ref>].</note></l></quote></p>
           <p>2. §. <quote xml:lang="es"><l>«Marino, si agradable no instrumento.»<note
                   place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 382: «(marino, si
                   agradable no, instrumento)» [<ref
@@ -14072,7 +14067,7 @@
               type="app" rend="I"> no tiene <hi rend="i">em.</hi> : No tienen <hi rend="i"
               >AB</hi></note> tal pezón, ni tal punto, sino atravesada en diámetro una línea Θ<note
               place="margin" resp="author">
-              <seg rend="unicode">Θ θ</seg></note>, y fue tan célebre este rasgo, saeta o flechilla
+              Θ θ</note>, y fue tan célebre este rasgo, saeta o flechilla
             que divide el círculo, que los jueces para condenar a muerte señalaban el nombre del reo
             con esta letra, que en aquel dardo denotaba la muerte, de donde se llamó carácter<note
               type="app" rend="I"> caracter <hi rend="i">A</hi> : carracter <hi rend="i"
@@ -14086,8 +14081,8 @@
                 Véase también Isidoro 1599a <ref
                   target="https://books.google.es/books?id=YVa0CooumxsC&amp;vq=Hyperbaton%20transcensio%2C%20cum%20verbum%20aut%20sententia%20ordine&amp;hl=fr&amp;pg=PA2#v=onepage&amp;q&amp;f=false"
                   >(2)</ref>. En la traducción de José Oroz Reta y Manuel-A. Marcos Casquero: «La
-                segunda, la <seg rend="unicode">Θ</seg>, que significa la muerte. En efecto, los
-                jueces colocaban el signo <seg rend="unicode">Θ</seg> delante de los nombres de los
+                segunda, la Θ, que significa la muerte. En efecto, los
+                jueces colocaban el signo Θ delante de los nombres de los
                 condenados a muerte. Se la llama <hi rend="i">zeta</hi> [theta], por derivar de <hi
                   rend="i">thanatos</hi>, esto es, muerte. De aquí también el que presente en la
                 mitad una cuchillada, es decir, una señal de muerte. Alguien dijo de ella: “¡Oh,
@@ -14112,7 +14107,7 @@
               «También en los registros en que nuestros antepasados escribían los nombres de los
               soldados se utilizaban unas siglas particulares por las que se hacía el recuento de
               cuántos eran los soldados supervivientes y cuántos los caídos en la lucha. Una T, tau,
-              delante del nombre indicaba que era un superviviente; una <seg rend="unicode">Θ</seg>,
+              delante del nombre indicaba que era un superviviente; una Θ,
               zeta [theta], en cambio, era lo que se colocaba junto al nombre del caído. De ahí que
               esta letra presente en su mitad una cuchillada, es decir, una señal de muerte. De ella
               dice Persio (4, 13): “Y puedes una negra zeta anteponerle al vicio”» (Isidoro 2004:
@@ -14792,8 +14787,8 @@
             comparación de <persName type="polemist" key="Góngora, Luis de">Góngora</persName> con
               <persName type="authority" key="Camões">Luis de Camões</persName>, porque los estilos
             y asuntos a que cada uno se dio no lo sufren. Y es la razón por que yerran <persName
-              type="polemist" key="Vicuña">los que le llaman <persName type="authority" key="Homero"
-                >Homero</persName> a Góngora</persName>, y por que no errarán en llamar <persName
+              type="polemist" key="Vicuña">los que le llaman</persName> <persName type="authority" key="Homero"
+                >Homero</persName> a Góngora, y por que no errarán en llamar <persName
               type="authority" key="Homero">Homero</persName> y <persName type="authority"
               key="Virgilio">Virgilio</persName> a <persName type="authority" key="Camões"
               >Camões</persName>, y <persName type="authority" key="Marcial">Marcial</persName> a
@@ -15422,7 +15417,7 @@
             Villalpando en su <title>Magia</title>. Débensele estos honores por los que con su
             ingenio logró el idioma español, venerándole por su primera y más ínclita gloria el
             Betis:</p>
-          <quote xml:lang="la" rend="l"><l>Boetis oliuiferi Gongora primus honor.<note
+          <quote xml:lang="la"><l>Boetis oliuiferi Gongora primus honor.<note
                 place="margin" resp="author"> Nicol. Albiz elog. ad com. Christophori
                 Salaçarii</note><note place="bottom">
                 <persName type="polemist" key="Albiz, Nicolás de">Nicolás de Albiz</persName>, en
