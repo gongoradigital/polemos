@@ -616,7 +616,7 @@
             hallarlas en el escritor admirado representaba descubrirle un secreto, hombrearse con
             él, atraerse parte de su prestigio. Pero había también el noble intento de entender y de
               glorificar<note place="bottom">F. Lázaro Carreter (1979: 98-99).</note>.</quote>
-          <p rend="footer">Esta breve enumeración de las muchas posibilidades comprendidas en las
+          <p>Esta breve enumeración de las muchas posibilidades comprendidas en las
               <hi rend="i">Anotaciones</hi> de Díaz de Rivas nos enfrenta con la necesidad,
             anteriormente formulada, de trazar para esta Introducción ciertas coordenadas básicas de
             análisis. La lectura pormenorizada de los textos y un exhaustivo análisis de sus
@@ -739,7 +739,7 @@
                   se reunían los modelos, pero también –como veremos– nuestro comentarista se nutría
                   ampliamente de las ediciones anotadas de otros autores que utilizaba con
                   frecuencia.</p>
-                <p rend="footer">Esta circunstancia formaba parte del contexto cultural de la época
+                <p>Esta circunstancia formaba parte del contexto cultural de la época
                   y Góngora no resulta ser una excepción, ya que el influjo ejercido sobre sus obras
                   por los grandes escritores de Grecia, de acuerdo con lo que se puede observar en
                   las <hi rend="i">Anotaciones</hi> de Díaz de Rivas, es menor que el de los poetas
@@ -924,7 +924,7 @@
                   concreta pues dice: «Llámala tirio veneno imitando a Claudiano <hi rend="i">in
                     Epigramma de Phoenice: tyrio pinguntur crura veneno</hi>»<note place="bottom"
                     >Claudiano, <title>Carminum Minorum Corpusculum</title>, XXVII (XLIV): <hi
-                      xml:lang="it" rend="i">Phoenix</hi>., v. 20</note>. En cuanto a la nota 142,
+                      rend="i">Phoenix</hi>., v. 20</note>. En cuanto a la nota 142,
                   traza una relación atenuada: «Parece imita a Claudiano <hi rend="i">in Epigramma
                     de Phoenice</hi>, donde describiéndolo [al azor britano] dice:<hi rend="i">
                     tyrio pinguntur crura veneno</hi>».</p>
@@ -1587,7 +1587,7 @@
               poeta a sí mismo, ansí por ser sobre manera elegante como por ser argumento que hasta
               hoy ningún poeta de ninguna lengua ha tocado»<note place="bottom">Nota 133,
                 OC264C.745, f. 275v.</note>.</p>
-            <p rend="footer noindent"><space rend="tab"> </space>Tampoco puede pasar inadvertido por
+            <p>Tampoco puede pasar inadvertido por
               parte de nuestro comentarista el canto o «métrico llanto» del peregrino al que dedica
               una serie de notas en las que pondera la creación de Góngora, pues, como bien señala:
               «Esta canción es muy elegante, dulce y afectuosa. Habla el peregrino, al principio, de
@@ -2303,25 +2303,25 @@
             <p><hi rend="sc">Alciato,</hi> Andrea:</p>
             <bibl>–, <hi rend="i">Andreae Alciati, Emblemata cum Claudii Minois I. C.
                 comentariis</hi>, Antuerpiae: ex Officina Plantiniana Raphelengi, 1608. </bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Alighieri,</hi> Dante:</p>
             <bibl>–, <hi rend="i">La Divina Commedia</hi></bibl>
-            <p/>
+            
             <p rend="noindent sc">Apolonio de Rodas:</p>
             <bibl>–, <hi rend="i">Argonautica</hi></bibl>
-            <p/>
+            
             <p rend="noindent sc">Arato:</p>
             <bibl>–, <hi rend="i">Arati Φαινομενων fragmentum, Germanico Caesare interprete. Eiudem
                 Phaenomena Graece, cum interpretatione latina,</hi> en<hi rend="i"> C. Iulii Hygini
                 Augusti Liberti Fabularum Liber, ad omnium poetarum lectionem mire necessarius &amp;
                 ante hac nunquam excusus. Eiusdem Poeticon Astronomicon, libri quatuor</hi> […],
               Basileae: apud Ioan. Hervagium, 1535.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Argote de Molina</hi>, Gonzalo:</p>
             <bibl>–, <hi rend="i">Discurso sobre el Libro de la Montería que mandó a escribir el muy
                 alto y muy poderoso Rey Don Alonso de Castilla y de León</hi>, Sevilla: por Andrea
               Pescioni, 1582.</bibl>
-            <p/>
+            
             <p rend="noindent sc">Aristóteles</p>
             <bibl>–, <hi rend="i">De anima</hi></bibl>
             <bibl>–, <hi rend="i">De caelo</hi></bibl>
@@ -2330,33 +2330,30 @@
             <bibl>–, <hi rend="i">Metaphysica</hi></bibl>
             <bibl>–, <hi rend="i">Meteorologica</hi></bibl>
             <bibl>–, <hi rend="i">Problemata</hi></bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Ausonio,</hi> Décimo Magno:</p>
-            <bibl>–, <hi xml:lang="en" rend="i">Edyllia</hi></bibl>
-            <p xml:lang="en"/>
+            <bibl>–, <hi rend="i">Edyllia</hi></bibl>
+            <p/>
             <p rend="noindent"><hi rend="sc">Berchorius</hi>, Petrus:</p>
-            <bibl>–, <hi xml:lang="en" rend="i">Reductorii moralis</hi>, […]<hi xml:lang="en"
+            <bibl>–, <hi rend="i">Reductorii moralis</hi>, […]<hi
                 rend="i"> libri quattuordecim</hi>, Parissiis: apud Claudium Cheuallon, 1521.</bibl>
-            <p xml:lang="en"/>
+            <p/>
             <p rend="noindent sc">Calímaco:</p>
             <bibl>–, <hi rend="i">Epigrammata</hi></bibl>
-            <p/>
+            
             <p rend="noindent sc">Calpurnio:</p>
             <bibl>–, <hi rend="i">M. Aurelii Olympii Nemesiani Carthaginiensis, T. Calphurnii Siculi
                 Bucoli</hi> [...], Florentiae: apud Philippum Iunctam, 1590.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Camoens</hi>, Luis de:</p>
             <bibl>–, <hi rend="i">Rimas</hi></bibl>
-            <p/>
             <p rend="noindent"><hi rend="sc">Caro</hi>, Aníbal:</p>
             <bibl>–, <hi rend="i">Rime del commendatore Annibal Caro</hi> […], in Venetia: Appresso
               Aldo Manutio, 1572.</bibl>
-            <p xml:lang="it"/>
             <p rend="noindent"><hi rend="sc">Castiglione</hi>, Baltasar:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Carminum Liber</hi>, en <hi xml:lang="fr" rend="i"
+            <bibl>–, <hi rend="i">Carminum Liber</hi>, en <hi rend="i"
                 >Carmine Quinque Illustrium Poetarum</hi> […], Venetiis: Presb. Hieronymus Lilius,
               et socii excudebant, 1558.</bibl>
-            <p xml:lang="fr"/>
             <p rend="noindent"><hi rend="sc">Cerda,</hi> Juan Luis de la:</p>
             <bibl>–, <hi rend="i">P. Virgilii Maronis Bucolica Georgica Argumentis, explicationibus,
                 notis illustrata, auctore Io. Lvdovico De La Cerda Toletano, Societatis Iesu, in
@@ -2371,7 +2368,7 @@
                 explicationibus notis illustrati, auctore Ioanne Ludouico De La Cerda [...], editio
                 que non ante lucem vidit</hi> [...],<hi rend="i"> Index Erythraei ad faciliorem
                 vocum disquisitionem,</hi> Lugduni: Sumptibus Horatii Cardon, 1617.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Chiabrera</hi>, Gabriello:</p>
             <bibl>–, <hi rend="i">Rime del Sig. Gabriello Chiabrera</hi> [...]<hi rend="i">, Parte
                 Prima</hi>, raccolta da Piergirolamo Gentile, in Venetia: apresso Sebastiano Combi,
@@ -2380,7 +2377,7 @@
               da Giuseppe Pavoni, in Venetia: apresso Sebastiano Combi, 1610.</bibl>
             <bibl>–, <hi rend="i">Delle Rime</hi> [...], <hi rend="i">Parte Terza</hi>, raccolta da
               Giuseppe Pavoni, in Venetia: apresso Sebastiano Combi, 1610.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Cicerón</hi>, Marco Tulio:</p>
             <bibl>–, <hi rend="i">Marci Tullii Ciceronis omnia, quae in hunc usque diem extare
                 putantur opera, in tres secta tomos</hi> [...], Basilea: ex aedibvs A. Cratandri,
@@ -2388,262 +2385,255 @@
             <bibl>–, <hi rend="i">M. Tullii Ciceronis ad Titum Pomponium Atticum</hi> [...], <hi
                 rend="i">Epistolarum Libri XX</hi> [...], Parisiis: apud Simonem Colinaeum,
               1532.</bibl>
-            <p xml:lang="fr"/>
             <p rend="noindent"><hi rend="sc">Cirilo de Alejandría</hi>:</p>
             <bibl>–, <title>Commentarius in Amos Prophetam</title></bibl>
-            <p xml:lang="fr"/>
-            <p xml:lang="fr" rend="noindent sc">Claudiano:</p>
+            <p rend="noindent"><hi rend="sc">Claudiano</hi>:</p>
             <bibl>–, <hi rend="i">Claudianus, Theod Pulmanni Craneburgii diligentia et fide</hi>
               [...] <hi rend="i">restitutus</hi> [...] cum M. A. del Rio notis [...], Antuerpiae:
               Officina plantiniana, 1607.</bibl>
-            <p rend="fuentedeparrafopredeter1"/>
             <p rend="noindent"><hi rend="sc">Conimbricenses</hi>, Padres:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Commentarii Collegii Conimbricensis Societatis Iesv,
+            <bibl>–, <hi rend="i">Commentarii Collegii Conimbricensis Societatis Iesv,
                 in Libros Meteororvm Aristotelis Stagiritae, Priuilegia, approbationes,
                 facultatesque ad typographicam editionem horum librorum continentur in principio
                 huius. Tomi ante exordium librorum de coelo,</hi> Ollisipone: Ex officina Simonis
               Lopesii, 1593.</bibl>
-            <p/>
             <p rend="noindent"><hi rend="sc">Cornuto</hi>, Lucio Anneo:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Cornuti siue Phurnuti De natura deorum gentilium
+            <bibl>–, <hi rend="i">Cornuti siue Phurnuti De natura deorum gentilium
                 commentarius, et graeco in latinum conuersus, per Conradum Clauserum Tigurinum,
                 Palaephati poeticarum fabularum explicationes, siue de non credendis fabulosis
                 narrationibus</hi> [...], Basileae: s.n., 1543.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Juan Cris</hi>ó<hi rend="sc">stomo</hi>, San:</p>
             <bibl>–, <hi rend="i">Ultimus tomus operum Divi Ioannis Crysostomi</hi> [...], Basileae:
               Officina Frobeniana, 1530.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Dion Cris</hi>ó<hi rend="sc">stomo</hi>:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Dionis Chrysostomi Orationes LXXX</hi> […],
+            <bibl>–, <hi rend="i">Dionis Chrysostomi Orationes LXXX</hi> […],
               Lutetiae: ex officina Typographica Claudii Morelli, 1604.</bibl>
-            <p xml:lang="fr"/>
-            <p xml:lang="fr" rend="noindent sc">Dionisio Uticense:</p>
-            <bibl>–, Casii Dionysii Uticensis, <hi xml:lang="fr" rend="i">De Agricultura Libri
+            <p rend="noindent sc">Dionisio Uticense:</p>
+            <bibl>–, Casii Dionysii Uticensis, <hi rend="i">De Agricultura Libri
                 XX</hi> [...], Lugduni: apud Antonium Vincentium, 1543.</bibl>
-            <p/>
             <p rend="noindent sc">Dioscórides:</p>
             <bibl>–, <hi rend="i">Pedacio Dioscorides Anazarbeo, acerca de la materia medicinal, y
                 de los venenos mortíferos</hi>, traducido de lengua griega, en la vulgar castellana
               e ilustrado con claras y substanciales annotationes, y con las figuras de innumeras
               plantas exquisitas y raras, por el Doctor Andres de Laguna [...], en Salamanca: por
               Mathias Gast., 1563.</bibl>
-            <p/>
+            
             <p rend="noindent sc">Eliano:</p>
             <bibl>–, <title>De natura animalium</title></bibl>
-            <p/>
+            
             <p rend="noindent sc">Ennio:</p>
             <bibl>–, <hi rend="i">Annalium</hi></bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Escalígero</hi>, Julio César:</p>
             <bibl>–, <hi rend="i">Exotericarum Exercitationum</hi></bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Estacio,</hi> Publio Papinio:</p>
             <bibl>–, <hi rend="i">Silvarum</hi></bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Estobeo</hi>, Juan de:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Ioannis Stobaei, Sententiae ex Thesauris Graecorum
+            <bibl>–, <hi rend="i">Ioannis Stobaei, Sententiae ex Thesauris Graecorum
                 delectae, quarum authores circiter ducentos et quinquaginta citat: et in sermones
                 sive locos communes digestae, a Conrado Gesnero Doctore Medico Tigurino in latinum
                 sermonem traductae, sicut Latina Graecis e regione respondeant</hi> [...], Basileae:
               ex officina Ioannis Oporini, Sumptibus Christophori Froschoveri, 1559.</bibl>
-            <p xml:lang="fr"/>
-            <p rend="noindent sc">Estrabón:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Geografía</hi></bibl>
             <p/>
+            <p rend="noindent sc">Estrabón:</p>
+            <bibl>–, <hi rend="i">Geografía</hi></bibl>
+            
             <p rend="noindent sc">Eurípides:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Euripides poeta tragicorum princeps, in Latinum
+            <bibl>–, <hi rend="i">Euripides poeta tragicorum princeps, in Latinum
                 sermonem conversus, adjecto e regione textu Graeco cum annotationibus et
                 praefationibus in omnes ejus Tragoedias</hi>, autore Gasparo Stiblino [...],
               Basileae: per J. Oporinum, 1562.</bibl>
-            <p xml:lang="fr"/>
-            <p xml:lang="fr"/>
+            <p/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Fernández de Córdoba</hi>, Francisco:</p>
             <bibl>–, <hi rend="i">Francisci Fernandii de Cordova Cordubensis, Didascalia
                 Multiplex</hi>, Lugduni: Sumptibus Horatii Cardon, 1615.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Filóstrato</hi>:</p>
             <bibl>–, <hi rend="i">Apollonii Tyanei Vita</hi> en <hi rend="i">Photii Biblioteca</hi>
               [...] <hi rend="i">Andreae Schotti Antuerpiani</hi> [...], <hi rend="i">s.l.</hi>:
               Augustae Vindelicorum, 1606.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Firmiano Sinfosio</hi>, Celio:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Aenigmata.</hi></bibl>
-            <p xml:lang="fr"/>
+            <bibl>–, <hi rend="i">Aenigmata.</hi></bibl>
+            <p/>
             <p rend="noindent"><hi rend="sc">Flaco,</hi> Valerio:</p>
             <bibl>–, <hi rend="i">Argonautica</hi></bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Flaminio,</hi> Marco Antonio:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Carmine Quinque Illustrium Poetarum</hi> […] <hi
-                xml:lang="fr" rend="i">M. Antonii Flaminii libellis nunquam antea impressis</hi>,
+            <bibl>–, <hi rend="i">Carmine Quinque Illustrium Poetarum</hi> […] <hi
+                rend="i">M. Antonii Flaminii libellis nunquam antea impressis</hi>,
               Venetiis: Presb. Hieronymus Lilius, et socii excudebant, 1558.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Fracastoro</hi>, Girolamo:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Hieronymi Fracastorii, Syphilis, sive Morbus
+            <bibl>–, <hi rend="i">Hieronymi Fracastorii, Syphilis, sive Morbus
                 Gallicus</hi>, Basileae: Bebel, 1536.</bibl>
-            <p xml:lang="fr"/>
-            <p xml:lang="fr" rend="noindent sc">Giovio, Paulo:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Pauli Iovii Novocomensis episcopi Nucerini
+            <p/>
+            <p rend="noindent sc">Giovio, Paulo:</p>
+            <bibl>–, <hi rend="i">Pauli Iovii Novocomensis episcopi Nucerini
                 Historiarum sui temporis Tomus Secundus</hi>, Florentiae: in officina Laurentii
               Torrentini ducalis Typographi, 1552.</bibl>
             <bibl>–, <hi rend="i">Pauli Iovii Novocomensis Medici et Episcopi Nucerini De Romanis
                 piscibus libellus</hi>, Basileae: per Henricum Petri et Petrum Pernam, 1561.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Guarini,</hi> Gian Battista:</p>
             <bibl>–, <hi rend="i">Il Pastor Fido, Tragicommedia Pastorale</hi> […], <hi
-                xml:lang="en" rend="i">ora in questa XX, impressione di curiose, e dotte
+                rend="i">ora in questa XX, impressione di curiose, e dotte
                 Annotationi</hi> […], in Venetia: Appresso Gio. Battista Ciotti, 1602.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Herrera,</hi> Fernando de:</p>
             <bibl>–, <hi rend="i">Obras de Garci Lasso de la Vega con Anotaciones de Fernando de
                 Herrera</hi> [...], en Sevilla: por Alonso de la Barrera, 1580.</bibl>
-            <p/>
+            
             <p rend="noindent sc">Hesíodo:</p>
             <bibl>–, <hi rend="i">Hesiodo Ascraei quae extant, cum notis, ex probatissimis quibusdam
                 Authoribus, brevissimis, selectissimisque</hi> [...], opera et studio Cornelii
               Schrevelii, Lugd. Batavorum: Typis Francisci Hackii, 1601.</bibl>
-            <p/>
+            
             <p rend="noindent sc">Higino:</p>
             <bibl>–, <hi rend="i">C. Iulii Hygini Augusti Liberti Fabularum Liber, ad omnium
                 poetarum lectionem mire necessarius &amp; ante hac nunquam excusus, eiusdem Poeticon
                 Astronomicon, libri quatuor</hi> […]<hi rend="i">, liber I, Arati Φαινομενων
                 fragmentum, Germanico Caesare interprete, eiudem Phaenomena Graece, cum
                 interpretatione latina</hi> […], Basileae: apud Ioan. Hervagium, 1535.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Horacio Flaco,</hi> Quinto:</p>
             <bibl>–, <hi rend="i">Carmina</hi></bibl>
             <bibl>–, <hi rend="i">Satyrae</hi></bibl>
-            <p/>
+            
             <p rend="noindent sc">Isidoro de Sevilla:</p>
             <bibl>–, <hi rend="i">Isidori Hispalensis Episcopi Originum libri viginti ex antiquitate
                 eruti</hi> [...], Basileae: per Petrum Pernam, 1577.</bibl>
-            <p xml:lang="en"/>
-            <p xml:lang="fr" rend="noindent sc">Justino:</p>
+            <p/>
+            <p rend="noindent sc">Justino:</p>
             <bibl>–, <title>Historiae Philipicae</title></bibl>
             <p rend="noindent sc">Juvenal:</p>
             <bibl>–, <hi rend="i">Satyrae</hi></bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Leonardo de Argensola,</hi> Bartolomé de:</p>
             <bibl>–, <hi rend="i">Rimas</hi></bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Laguna,</hi> Andrés de</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Annotationes in Dioscoridem Anazarbeum</hi> [...],
+            <bibl>–, <hi rend="i">Annotationes in Dioscoridem Anazarbeum</hi> [...],
               Lugduni: apud Gulielmum Rouillium, 1554.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Lucano,</hi> Marco Anneo:</p>
             <bibl>–, <hi rend="i">Pharsalia</hi></bibl>
-            <p/>
+            
             <p rend="noindent sc">Lucrecio:</p>
             <bibl>–, <hi rend="i">De rerum natura</hi></bibl>
-            <p/>
+            
             <p rend="noindent sc">Maiolo:</p>
-            <bibl>–, <hi xml:lang="it" rend="i">Dies Caniculares, Illustrissimi et Reverendissimi
+            <bibl>–, <hi rend="i">Dies Caniculares, Illustrissimi et Reverendissimi
                 Praesulis, Dn. Simonis Maioli Episcopi Vulturariensis</hi>, Moguntiae: Impensis
               Ioannis Theobaldi Schönwetter, 1615.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Marcial</hi>, Marco Valerio:</p>
             <bibl>–, <hi rend="i">Epigrammata</hi></bibl>
-            <p xml:lang="it"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Marino</hi>, Giovanni Battista:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Rime di Gio. Battista Marino, Parte Prima, all’
+            <bibl>–, <hi rend="i">Rime di Gio. Battista Marino, Parte Prima, all’
                 Illustrissimo et Reuerendiss Monsig. Melchior Crescentio Chierico di Camera, con
                 privilegi, in questa sesta impressione corrette e accresciute dall’istesso
                 autore</hi>, in Venetia: apresso Bernardo Ciunti et Cio. Batª Ciotti, 1609.</bibl>
-            <bibl>–, <hi xml:lang="it" rend="i">Rime del Marino, Seconda Parte, Madrigali e Canzoni,
+            <bibl>–, <hi rend="i">Rime del Marino, Seconda Parte, Madrigali e Canzoni,
                   all’Illust.<hi rend="sup">mo</hi> Sig. Tomaso Melchiori, con privilegio</hi>, in
               Venetia: presso Gio. Batt. Ciotti, 1609.</bibl>
-            <bibl>–, <hi xml:lang="fr" rend="i">Il Ritratto del Serenissimo don Carlo Emanuello duca
+            <bibl>–, <hi rend="i">Il Ritratto del Serenissimo don Carlo Emanuello duca
                 di Saudia, Panegirico del Marino, al Figino, con privilegio e licenza de
                 Superiori</hi>, in Venetia: apresso Bernardo Giunti et Gio. Batª Ciotti,
               1609.</bibl>
-            <p xml:lang="it"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Mathioli,</hi> Andrea:</p>
             <bibl>–, <hi rend="i">I Discorsi di M. Pietro Andrea Matthioli</hi> […] <hi rend="i">nei
                 sei Libbri di Pedacio Dioscoride Anazarbeo della materia Medicinale</hi></bibl>
-            <p/>
-            <p rend="retraitcorpsdetexte2 noindent sc">Máximo de Tiro:</p>
+            <p rend="noindent"><hi rend="sc">Máximo de Tiro</hi>:</p>
             <bibl>–, <hi rend="i">Maximi Tyrii Dissertationes philosophicae cum interpretatione et
                 notis Danielis Heinsii</hi>, Lugduni Batavorum: apud Ioannem Patium, 1614.</bibl>
-            <p xml:lang="en"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Mela,</hi> Pomponio:</p>
             <bibl>–, <hi rend="i">De Situ Orbis</hi></bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Mercurial,</hi> Girolamo:</p>
             <bibl>–, <hi rend="i">De morbis cutaneis et omnibus corporis humani excrementis
                 tractus</hi> […], Venetiis: apud Ivntas, 1601.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Mignault</hi>, Claude:</p>
             <bibl>–, <hi rend="i">Andreae Alciati, Emblemata cum Claudii Minois I. C.
                 comentariis</hi>, Antuerpiae: ex Officina Plantiniana Raphelengi, 1608.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Molza,</hi> Francesco:</p>
             <bibl>–, <hi rend="i">Delle Poesie volgari e latine</hi></bibl>
-            <p xml:lang="it"/>
-            <p rend="noindent"><hi rend="sc">Mureto,</hi> Marco Antonio:</p>
-            <bibl>–, <hi xml:lang="it" rend="i">Catullus et in eum Commentarius M. Antonii
-                Mureti</hi> […], Venetiis: apud Paulum Manutium, 1554.</bibl>
             <p/>
+            <p rend="noindent"><hi rend="sc">Mureto,</hi> Marco Antonio:</p>
+            <bibl>–, <hi rend="i">Catullus et in eum Commentarius M. Antonii
+                Mureti</hi> […], Venetiis: apud Paulum Manutium, 1554.</bibl>
+            
             <p rend="noindent"><hi rend="sc">Nebrija</hi>, Antonio de:</p>
-            <bibl>–, <hi xml:lang="en" rend="i">Dictionarium</hi> […] <hi xml:lang="en" rend="i"
+            <bibl>–, <hi rend="i">Dictionarium</hi> […] <hi rend="i"
                 >Grammatici, Chronographi Regii</hi> [...], apud inclytam Granatam: s.n.,
               1552.</bibl>
-            <p xml:lang="en"/>
-            <p xml:lang="en" rend="noindent sc">Nemesiano:</p>
-            <bibl>–, <hi xml:lang="en" rend="i">M. Aurelii Olympii Nemesiani Carthaginiensis, T.
+            <p/>
+            <p rend="noindent sc">Nemesiano:</p>
+            <bibl>–, <hi rend="i">M. Aurelii Olympii Nemesiani Carthaginiensis, T.
                 Calphurnii Siculi Bucoli</hi> [...], Florentiae: apud Philippum Iunctam,
               1590.</bibl>
-            <p xml:lang="it"/>
+            <p/>
             <p rend="noindent sc">Opiano:</p>
-            <bibl>–, <hi xml:lang="it" rend="i">Oppiani Anazarbei De piscatu libri V, Laurentio
+            <bibl>–, <hi rend="i">Oppiani Anazarbei De piscatu libri V, Laurentio
                 Lippio interprete, De venatione libri IIII</hi> [...], Parisiis: apud Guil.
               Morelium, 1555.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Osorio,</hi> Jerónimo:</p>
             <bibl>–, <hi rend="i">D. Hieronymi Osorii Lusitani Episcopi Syluensis, de Regis
                 institutione et diciplina, lib. VIII</hi> [...], Olysipponae: ex officina Ioannis
               Hispani, 1572.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Ovidio Nasón</hi>, Publio:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Amores</hi></bibl>
-            <bibl>–, <hi xml:lang="fr" rend="i">Ars Amatoria</hi></bibl>
-            <bibl>–, <hi xml:lang="fr" rend="i">Metamorphoses</hi></bibl>
-            <p/>
-            <p xml:lang="fr" rend="noindent sc">Palladio:</p>
+            <bibl>–, <hi rend="i">Amores</hi></bibl>
+            <bibl>–, <hi rend="i">Ars Amatoria</hi></bibl>
+            <bibl>–, <hi rend="i">Metamorphoses</hi></bibl>
+            
+            <p rend="noindent sc">Palladio:</p>
             <bibl>–, <hi rend="i">De insitionibus</hi></bibl>
-            <p/>
+            
             <p rend="noindent sc">Pausanias:</p>
-            <bibl>–, <hi xml:lang="en" rend="i">Pausaniae De Florentiss. Veteris Graeciae
+            <bibl>–, <hi rend="i">Pausaniae De Florentiss. Veteris Graeciae
                 Regionibus</hi>, Basileae: per M. Isingrinium, 1557.</bibl>
-            <p xml:lang="en"/>
+            <p/>
             <p rend="noindent sc">Persio:</p>
             <bibl>–, <hi rend="i">Satyrae</hi></bibl>
-            <p/>
+            
             <p><hi rend="sc">Petrarca</hi>, Francisco:</p>
             <bibl>–, <hi rend="i">Trionfi</hi></bibl>
-            <p/>
+            
             <p><hi rend="sc">Pico de la Mirándola</hi>, Juan Francisco:</p>
             <bibl>–, <hi rend="i">Opera omnia</hi>, Basileae: ex Officina Henricpetrina,
               1572.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Platón</hi>:</p>
-            <bibl>–, <hi xml:lang="it" rend="i">Omnia divini Platonis Opera tralatione Marsilii
+            <bibl>–, <hi rend="i">Omnia divini Platonis Opera tralatione Marsilii
                 Ficini, emendatione, et ad graecum codicem collatione Simonis Grynaei</hi> [...],
               Lugduni: apud Godefridum et Marcellum Beringos, fratres, 1548.</bibl>
-            <p xml:lang="it"/>
+            <p/>
             <p rend="noindent sc">Plinio:</p>
             <bibl>–, <hi rend="i">Naturalis Historiae</hi></bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Pontano,</hi> Giovanni Gioviano:</p>
             <bibl>–, <hi rend="i">Amorum libri II, ejusdem De amore conjugali libri III, Tumulorum
                 libri II</hi> [...], Argentinae: J. Knoblouch, 1515.</bibl>
-            <p/>
+            
             <p rend="noindent sc">Plutarco:</p>
             <bibl>–, <hi rend="i">Moralia</hi></bibl>
             <bibl>–, <hi rend="i">Vitae</hi></bibl>
-            <p/>
+            
             <p rend="noindent sc">Propercio:</p>
             <bibl>–, <hi rend="i">Elegiae</hi></bibl>
-            <p/>
+            
             <p rend="noindent sc"><hi rend="sc">Río</hi>, Martín del:</p>
             <bibl>–, <hi rend="i">Martini Antonii Delrii ex Societate Iesu, Syntagma Tragoediae
                 Latinae, in tres partes distinctum</hi>, Antverpiae: ex officina Plantiniana, apud
@@ -2655,32 +2645,32 @@
                 Pars ultima, seu Novus Commentarius in decem Tragoedias, quae vulgo Senecae
                 ascribuntur</hi> [...], Antverpiae: ex officina Plantiniana, apud Viduam et Ioannem
               Moretum, 1593.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Roa</hi>, Martín de:</p>
             <bibl>–, <hi rend="i">Discurso del nombre, antigüedad, sitio de Xerez de la Frontera,
                 valor de sus ciudadanos</hi>, Sevilla: Alonso Rodríguez Gamarra, 1617.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Sabélico,</hi> Marco Antonio:</p>
             <bibl>–, <hi rend="i">Rapsodiae Historiarum Enneadum Marci Antonii Coccii Sabellici ab
                 orbe condito, Pars Prima quinque complectens Enneadis</hi> […], Lugduni: in aedibus
               Vicentii de Portonariis, 1535.</bibl>
-            <p xml:lang="it"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Sacchi</hi>, Bartolommeo, llamado «Il Platina»:</p>
             <bibl>–, <hi rend="i">Bap. Platinae Cremonensis, De honesta voluptate et valetudine, De
                 ratione victus et modo vivendi, De natura rerum et arte conquendi, libri X</hi>,
               Parisiis: in aedibus Ioannis Parui, 1530.</bibl>
-            <p xml:lang="fr"/>
-            <p xml:lang="fr" rend="noindent sc">Salustio:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Bellum Catilinarium et Iugurthinum</hi></bibl>
-            <p xml:lang="fr"/>
+            <p/>
+            <p rend="noindent sc">Salustio:</p>
+            <bibl>–, <hi rend="i">Bellum Catilinarium et Iugurthinum</hi></bibl>
+            <p/>
             <p rend="noindent"><hi rend="sc">Sannazaro</hi>, Jacopo:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Arcadia di M. Iacopo Sannazaro nuovamente corretta,
+            <bibl>–, <hi rend="i">Arcadia di M. Iacopo Sannazaro nuovamente corretta,
                 e ornata d’alcune Annotationi da Thomaso Porcacchi</hi> [...], Vinegia: apresso
               Gabriel Giolito de Ferrari, 1567.</bibl>
-            <bibl>–, <hi xml:lang="fr" rend="i">Iacobi Sannazarii Opera quorum Indicem sequens
+            <bibl>–, <hi rend="i">Iacobi Sannazarii Opera quorum Indicem sequens
                 pagella continet. His Adiecta Sunt selecta Poemata</hi> […], Roma: apud Iacobum
               Tornerium, 1590.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Séneca</hi>, Lucio Anneo:</p>
             <bibl>–, <hi rend="i">Martini Antonii Delrii ex Societate Iesu, Syntagma Tragoediae
                 Latinae, in tres partes distinctum</hi>, Antverpiae: ex officina Plantiana, apud
@@ -2692,93 +2682,93 @@
                 Pars ultima, seu Novus Commentarius in decem Tragoedias, quae vulgo Senecae
                 ascribuntur</hi> [...], Antverpiae: ex officina Plantiniana, apud Viduam et Ioannem
               Moretum, 1593.</bibl>
-            <p xml:lang="fr"/>
-            <p xml:lang="fr" rend="noindent sc">Servio:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Pvb. Virgilii Maronis Bvcolicorvm, Eclogæ X,
+            <p/>
+            <p rend="noindent sc">Servio:</p>
+            <bibl>–, <hi rend="i">Pvb. Virgilii Maronis Bvcolicorvm, Eclogæ X,
                 Georgicorvm, libri IIII, et in ea, Mauri Servii Honorati</hi> [...], Coloniae
               Allobrogum: Excudebat Stephanus Gamonetus, 1610.</bibl>
-            <p xml:lang="it"/>
-            <p xml:lang="it" rend="noindent sc">Silio Itálico:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Punicorum</hi></bibl>
-            <p xml:lang="it"/>
+            <p/>
+            <p rend="noindent sc">Silio Itálico:</p>
+            <bibl>–, <hi rend="i">Punicorum</hi></bibl>
+            <p/>
             <p rend="noindent"><hi rend="sc">Sipontino</hi>, Nicolò Perotti:</p>
-            <bibl>–, <hi xml:lang="it" rend="i">Cornucopiae seu latinae linguae commentarii
+            <bibl>–, <hi rend="i">Cornucopiae seu latinae linguae commentarii
                 locupletissimi, Nicolao Perotto, Sipontino pontifice autore denuo ad veteris
                 codicis, &amp; scriptorum, unde illos deprompserat, fidem, diligentissime
                 recogniti</hi> [...], Basileae: apud Valentinum Curionem, 1526.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Solino (C.</hi> Iulii Solini):</p>
-            <bibl>–, <ref target="http://www.thelatinlibrary.com/solinus.html"><hi xml:lang="it"
+            <bibl>–, <ref target="http://www.thelatinlibrary.com/solinus.html"><hi
                   rend="i">Collectanea rerum memorabilium</hi></ref>.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Stigliani,</hi> Tommaso:</p>
             <bibl>–, <hi rend="i">Delle Rime del signor Tomaso Stigliani, Parte Prima</hi> […], in
               Venetia: presso Gio. Battista Ciotti, 1601.</bibl>
-            <p xml:lang="fr"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Suárez de Salazar</hi>, Juan Bautista:</p>
             <bibl>–, <hi rend="i">Grandezas y Antigüedades de la isla y ciudad de Cádiz</hi> […], en
               Cádiz: impresso por Clemente Hidalgo, año 1610.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Suetonio Tranquilo</hi>, Gayo:</p>
             <bibl>–, <hi rend="i">De vita duodecim Caesarum, libri XII</hi>, s.l.: in aedibus
               Joannis Prüss, 1520.</bibl>
-            <p/>
+            
             <p rend="noindent sc">Tácito:</p>
-            <bibl>–, <hi xml:lang="fr" rend="i">Annales</hi></bibl>
-            <p/>
+            <bibl>–, <hi rend="i">Annales</hi></bibl>
+            
             <p rend="noindent"><hi rend="sc">Tamayo de Vargas</hi>, Tomás:</p>
             <bibl>–, <hi rend="i">Historia General de España del P. D. Iuan de Mariana defendida por
                 el Doctor Don Thomas Tamaio de Vargas contra las advertencias de Pedro
               Mantuano</hi>, en Toledo: por Diego Rodríguez, 1616.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Tasso</hi>, Bernardo:</p>
             <bibl>–, <hi rend="i">Rime di messer Bernardo Tasso, divise in cinque libri nuovamente
                 stampate, con la sua tavola per ordine di Alfabeto, con privilegio</hi>, Vinegia:
               appresso Gabriel Giolito de’Ferrari, 1560.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Tasso</hi>, Torcuato:</p>
             <bibl>–, <hi rend="i">Aminta</hi></bibl>
             <bibl>–, <hi rend="i">La Gerusalemme liberata</hi></bibl>
             <bibl>–, <hi rend="i">Le Sette Giornate del Mondo Creato</hi> […], in Milano: appresso
               Girolamo Bordoni, &amp; Pietro Martire Locarni, 1608.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Thevet,</hi> André:</p>
-            <bibl>–, <hi xml:lang="en" rend="i">La Cosmographie Universelle d’André Thevet
+            <bibl>–, <hi rend="i">La Cosmographie Universelle d’André Thevet
                 Cosmographe du Roy</hi> […], Paris: Pierre L’Huilier et Guillaume Chaudière,
               1575.</bibl>
-            <p xml:lang="en"/>
-            <p xml:lang="en" rend="noindent sc">Teodoreto:</p>
-            <bibl>–, <hi xml:lang="en" rend="i">Theodoriti Cyrensis episcopi de Euangelicae
+            <p/>
+            <p rend="noindent sc">Teodoreto:</p>
+            <bibl>–, <hi rend="i">Theodoriti Cyrensis episcopi de Euangelicae
                 veritatis ex Graecorum atque gentium philosophia cognitione, siue de Graecarum
                 affectionum curatione, libri duodecim, Zenobio Acciaolo interprete</hi> [...],
               Antuerpiae: apud Ioannem Steelsium, in scuto Burgundiae, 1540.</bibl>
-            <p xml:lang="en"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Titelman,</hi> Francisco:</p>
-            <bibl>–, <hi xml:lang="en" rend="i">Compendium Naturalis Philosophiae, libri
+            <bibl>–, <hi rend="i">Compendium Naturalis Philosophiae, libri
                 duodecim,</hi>
-              <hi xml:lang="en" rend="i">per Patrem Franciscum Titelmannum Hassellensem</hi>,
+              <hi rend="i">per Patrem Franciscum Titelmannum Hassellensem</hi>,
               Parisiis: apud Ioannem Lodoicum Remensis, 1545.</bibl>
-            <p xml:lang="en"/>
+            <p/>
             <p rend="noindent sc">Valerio Máximo:</p>
             <bibl>–, <hi rend="i">Valerii Maximi Dictorum factorumque memorabilium, libri IX,
                 Infinitis mendis ex veterum exemplarium fide repurgati, atque in meliorem ordinem
                 restituti per Stephanum Pighium Campensem</hi> [...], Antuerpiae: ex officina
               Christophori Plantini, Architypographi Regii, 1574.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Valerianus</hi>, Pierio:</p>
-            <bibl>–, <hi xml:lang="it" rend="i">Hieroglyphica, sive de sacris Aegyptiorum,
+            <bibl>–, <hi rend="i">Hieroglyphica, sive de sacris Aegyptiorum,
                 aliarumque gentium literis [sic] commentarii, Ioannis Pierii Valeriani Bolzanii
                 [...],</hi>
-              <hi xml:lang="it" rend="i">a Caelio Augustino Curione duobus libris aucti &amp; multis
+              <hi rend="i">a Caelio Augustino Curione duobus libris aucti &amp; multis
                 imaginibus illustrati</hi>, Basileae: per Thomam Guarinum, 1575.</bibl>
-            <p xml:lang="it"/>
+            <p/>
             <p rend="noindent sc">Varrón:</p>
             <bibl>–, <hi rend="i">De re rustica</hi></bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Vida,</hi> Gerónimo:</p>
             <bibl>–, <hi rend="i">Marci Hieronymi Vidae Cremonensis, Albae Episcopi Opera</hi>
               [...], Lugduni: apud Seb. Gryphium, 1554.</bibl>
-            <p/>
+            
             <p rend="noindent"><hi rend="sc">Virgilio</hi>: </p>
             <bibl>–, <hi rend="i">P. Virgilii Maronis Bvcolica Georgica Argumentis, Explicationibus,
                 notis illustrata, auctore Io. Lvdovico De La Cerda Toletano, Societatis Iesu, in
@@ -2791,10 +2781,10 @@
               Horatii Cardon, 1612.</bibl>
             <bibl>–, <hi rend="i">P. Virgilii Maronis Posteriores Sex Libri Aeneidos Argumentis,
                 Explicationibus notis illustrati, auctore Ioanne Ludouico De La Cerda, editio que
-                non ante lucem vidit,</hi> [...],<hi xml:lang="en" rend="i"> Index Erythraei ad
+                non ante lucem vidit,</hi> [...],<hi rend="i"> Index Erythraei ad
                 faciliorem vocum disquisitionem,</hi> Lugduni: Sumptibus Horatii Cardon,
               1617.</bibl>
-            <p xml:lang="en"/>
+            <p/>
             <p rend="noindent"><hi rend="sc">Vives</hi>, Juan Luis:</p>
             <bibl>–, <hi rend="i">Io. Lodovici Vivis Valentini Opera, in duos distincta tomos:
                 quibus omnes ipsius lucubrationes</hi> […], Basileae: per Nic. Episcopium Juniorem,
@@ -2813,86 +2803,86 @@
               <p rend="noindent"><hi rend="sc">Antonio</hi>, Nicolás:</p>
               <bibl>–, <hi rend="i">Bibliotheca Hispana sive Hispanorum</hi> […], Roma: Nicolai
                 Angeli Tinassii, 1672, 1ra. ed.</bibl>
-              <p/>
+              
               <p rend="noindent sc">Apolonio de rodas:</p>
               <bibl>–, <hi rend="i">Apollonii Rhodi Argonauticorum Libri Quatuor, edidit nova fere
                   interpretatione illustravit, priorum editorum notas praecipuas selegit</hi> [...]
-                  <hi xml:lang="en" rend="i">Joannes Shaw, A.M.</hi> [...] <hi rend="i">Tomus
+                  <hi rend="i">Joannes Shaw, A.M.</hi> [...] <hi rend="i">Tomus
                   Secundus</hi>, Oxonii: e tipographeo clarendoniano, 1777.</bibl>
-              <p/>
+              
               <p rend="noindent sc">Aristóteles:</p>
               <bibl>–, <hi rend="i">De Historia Animalium</hi>, en <hi rend="i">Aristotelis
                   Stagiritae Peripateticorum Principis De Historia, Partibus, Incessuque Animalium,
                   ac de ipsa Anima libri omnes</hi> […], Pars Quinta, Venetiis: ad signum
                 Seminantis, 1572.</bibl>
-              <p/>
+              
               <p rend="noindent sc">Calímaco:</p>
               <bibl>–,<hi rend="i"> Novus Graecorum Epigrammatum et Poematon Delectus cum Nova
                   Versione et Notis, Opera Thomae Johnson A. M.</hi> [...], Londini: Typis J.
                 Bettenham, impensis Gulielmi Innys, in vico vulgo dicto, Pater-noster Row,
                 1751.</bibl>
-              <p xml:lang="en"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Camoens</hi>, Luis de:</p>
               <bibl>–, <hi rend="i">Rimas de Luis de Camoês Principe dos Poetas Portugueses,
                   Primeira, Segunda e Terceira Parte</hi> [...], Lisboa: na Officina de Antonio
                 Craesbeeck de Mello, 1666.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Daniel</hi>, Petrus:</p>
-              <bibl>–, <hi xml:lang="en" rend="i">Pub. Virgilii Maronis Bucolicorum Eclogae X,
+              <bibl>–, <hi rend="i">Pub. Virgilii Maronis Bucolicorum Eclogae X,
                   Georgicorum, libri IIII, Aeneidos, libri XII, et in ea, Mauri Servii Honorati</hi>
-                [...], <hi xml:lang="en" rend="i">ex Bibliotheca Petri Danielis</hi> [...], Genevae:
+                [...], <hi rend="i">ex Bibliotheca Petri Danielis</hi> [...], Genevae:
                 apud Petrum et Iacobum Chouët, 1636.</bibl>
-              <p xml:lang="en"/>
+              <p/>
               <p rend="noindent sc">Erasmo:</p>
               <bibl>–, <hi rend="i">Desiderii Erasmi Roterodami Proverbiorum Epitome</hi> [...],
                 Lipsiae: sumtibus Haered Lankisian, 1759.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Escalígero</hi>:</p>
               <bibl>–, <hi rend="i">Iulii Caesaris Scaligeri Exotericarum Exercitationum, liber XV,
                   De subtilitate, ad Hieronymum Cardanum, in fine sunt Indices, prior breuisculus,
                   continens sententias nobiliores, alter opulentissimus, pene omnia complectens, cum
                   gratia et privileg. S. Rom. Imp.,</hi> Hanoviae: Typis Wechelianis, sumptibus
                 clementis Schleichii et Petri de Zetter, 1634.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Estacio</hi>:</p>
               <bibl>–, <hi rend="i">P. Papinii Statii, Silvarum Libri Quinque, ex vetustis
                   exemplaribus recensuit et Notas atque Emendationes adjetic Fer. Marklandus</hi>
                 [...], Londini: Typis Guilielmi Bowyer, 1728.</bibl>
-              <p xml:lang="en"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Herrera,</hi> Fernando de:</p>
               <bibl>–, <hi rend="i">Versos de Fernando de Herrera, enmendados y divididos por él en
                   tres libros</hi> [...], Sevilla: Gabriel Ramos Vejarano, 1619.</bibl>
-              <p/>
-              <p xml:lang="fr" rend="noindent sc">Homero:</p>
+              
+              <p rend="noindent sc">Homero:</p>
               <bibl>–, <hi rend="i">Poetarum omnium seculorum longe principis Homeri Ilias</hi>
                 [...], <hi rend="i">Helio Eobano Hesso interprete</hi> [...], Basileae: in Officina
                 Roberti Winter, 1540.</bibl>
-              <p xml:lang="fr"/>
-              <p xml:lang="fr" rend="noindent sc">Justino:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Justini Historiae Philipicae</hi> [...], <hi
-                  xml:lang="fr" rend="i">The Third Edition,</hi> London: Hitch, Mumby, Mace and
-                Hammond, 1742.</bibl>
-              <p xml:lang="en"/>
-              <p rend="noindent"><hi rend="sc">Juvenal</hi>:</p>
-              <bibl>–, <hi xml:lang="en" rend="i">Decii Junii Juvenalis et A. Persii Flacci,
-                  Satyrae</hi> [...], Londini: Typis J. Brindley, 1744.</bibl>
               <p/>
+              <p rend="noindent sc">Justino:</p>
+              <bibl>–, <hi rend="i">Justini Historiae Philipicae</hi> [...], <hi
+                  rend="i">The Third Edition,</hi> London: Hitch, Mumby, Mace and
+                Hammond, 1742.</bibl>
+              <p/>
+              <p rend="noindent"><hi rend="sc">Juvenal</hi>:</p>
+              <bibl>–, <hi rend="i">Decii Junii Juvenalis et A. Persii Flacci,
+                  Satyrae</hi> [...], Londini: Typis J. Brindley, 1744.</bibl>
+              
               <p rend="noindent"><hi rend="sc">Leonardo de Argensola,</hi> Bartolomé de:</p>
               <bibl>–, <hi rend="i">Las Rimas que se han podido recoger de Lupercio y del Doctor
                   Bartolome Leonardo de Argensola</hi> [...], <hi rend="i">dedícalas al Rey don
                   Felipe nuestro S</hi><hi rend="u"><hi rend="i"><hi rend="sup">r</hi></hi></hi><hi
                   rend="i"> Cuarto deste nombre entre los reyes de Castilla</hi> [...], en Zaragoza:
                 en el Hospital Real i General de Nuestra Señora de Gracia, 1634.</bibl>
-              <p/>
+              
               <p rend="noindent sc">Lucrecio:</p>
               <bibl>–, <hi rend="i">Titi Lucretii Cari, De Rerum Natura, libros Sex</hi> [...],
                 Venetiis: apud Remondini, 1788.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Mathioli</hi>, Pietro:</p>
               <bibl>–, <hi rend="i">I Discorsi di M. Pietro Andrea Matthioli</hi> […], <hi rend="i"
                   >nei sei Libbri di Pedacio Dioscoride Anazarbeo della materia Medicinale</hi> […],
                 in Venezia: presso Nicolo Pezzana, 1712.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Molza,</hi> Francisco:</p>
               <bibl>–, <hi rend="i">Delle Poesie volgari e latine</hi> [...]<hi rend="i">, corrette,
                   illustrate, ed accresciute colla vita dell’ autore, scritta da Pierantonio
@@ -2901,51 +2891,51 @@
               <bibl>–, <hi rend="i">Delle Poesie volgari e latine</hi> [...], <hi rend="i">volume
                   Secondo contenente le cose inedite</hi> [...], in Bergamo: appresso Pietro
                 Lancellotti, 1750.</bibl>
-              <p xml:lang="it"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Paredes</hi>, Antonio de:</p>
               <bibl>–, <hi rend="i">Rimas de don Antonio de Paredes, a don Pedro de Cárdenas y
                   Angulo</hi>, Córdoba: por Salvador Cea Tesa, 1622.</bibl>
-              <p xml:lang="it"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Pellicer de Salas y Tovar</hi>, José:</p>
               <bibl>–, <hi rend="i">Lecciones solemnes a las obras de don Luis de Góngora</hi>
                 [...], Madrid: Imprenta del Reino, 1630.</bibl>
-              <p xml:lang="it"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Persio</hi>:</p>
-              <bibl>–, <hi xml:lang="it" rend="i">Decii Junii Juvenalis et A. Persii Flacci,
+              <bibl>–, <hi rend="i">Decii Junii Juvenalis et A. Persii Flacci,
                   Satyrae</hi> [...], Londini: Typis J. Brindley, 1744.</bibl>
-              <p xml:lang="it"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Roa</hi>, Martín de:</p>
               <bibl>–, <hi rend="i">Écija, sus santos, su antigüedad eclesiástica y seglar</hi>, por
                 el P. Martín de Roa de la Compañía de Jesús, Sevilla: Manuel de Sande, 1629.</bibl>
-              <p/>
+              
               <p><hi rend="sc">Salcedo Coronel</hi>, García de:</p>
               <bibl>–, <hi rend="i">El Polifemo de Don Luis de Góngora comentado por García de
                   Salcedo Coronel [...]</hi>, en Madrid por Juan González, 1629, a costa de su
                 autor.</bibl>
               <bibl>–, <hi rend="i">Soledades de Don Luis de Góngora comentadas</hi>, Madrid:
                 Imprenta Real, 1636.</bibl>
-              <p/>
-              <p xml:lang="fr" rend="noindent sc">Salustio:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">C. Crispi Sallustii, Bellum Catilinarium, et
-                  Iugurthinum</hi> [...], <hi xml:lang="fr" rend="i">cum commentariis Joannis
+              
+              <p rend="noindent sc">Salustio:</p>
+              <bibl>–, <hi rend="i">C. Crispi Sallustii, Bellum Catilinarium, et
+                  Iugurthinum</hi> [...], <hi rend="i">cum commentariis Joannis
                   Minellii</hi>, Matriti: apud Michaelem Escribano, 1775.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Siria</hi>, Pedro de:</p>
               <bibl>–, <hi rend="i">Arte de la verdadera navegación</hi> [...]<hi rend="i">,
                   compuesta por Pedro de Syria</hi> [...], impresa en Valencia: en casa de Juan
                 Chrysostomo Garriz, 1602.</bibl>
-              <p/>
-              <p xml:lang="it" rend="noindent sc">Tácito:</p>
+              
+              <p rend="noindent sc">Tácito:</p>
               <bibl>–, <hi rend="i">C. Cornelii Taciti Opera</hi> [...], <hi rend="i">Tomus
                   Tertius</hi>, Parisiis: ex Typographia L. F. Delatour, 1776.</bibl>
-              <p xml:lang="it"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Textor</hi>, Ravisio:</p>
               <bibl>–, <hi rend="i">Ioannis Ravisii Textoris nivernensis Epitheta</hi> [...],
                 Parrhisiis: apud Reginaldum Chauldiere, 1524.</bibl>
-              <p/>
+              
               <p rend="noindent sc">Varrón:</p>
               <bibl>–, <hi rend="i">Scriptores Rei Rusticae veteres latini Cato, Varro, Columella,
-                  Palladius</hi> [...], <hi xml:lang="en" rend="i">Tomus Primus</hi>, Lipsiae:
+                  Palladius</hi> [...], <hi rend="i">Tomus Primus</hi>, Lipsiae:
                 sumtibus Caspari Fritsch, 1773.</bibl>
             </div>
             <div>
@@ -2953,15 +2943,15 @@
               <p><hi rend="sc">Alciato</hi>:</p>
               <bibl>–, <hi rend="i">Emblemas</hi>, Santiago Sebastián (ed.), Madrid, Ediciones Akal,
                 1985.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Alighieri,</hi> Dante:</p>
               <bibl>–, <hi rend="i">Obras Completas</hi>, Madrid, Biblioteca de Autores Cristianos,
                 1973.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Alighiero Manacorda</hi>, Mario:</p>
               <bibl>–, <hi rend="i">Historia de la educación I, de la antigüedad al 1500</hi>,
                 México, Siglo XXI, [1987] 9ª edición, 2006.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Alonso</hi>, Dámaso:</p>
               <bibl>–, «Las <hi rend="i">Obras en verso del Homero Español.</hi> Hechos y problemas
                 en torno a la edición de Vicuña» en Góngora, Luis de, <hi rend="i">Obras en verso
@@ -2976,17 +2966,17 @@
                   Gongorismo</hi>, Madrid, Gredos, 1982.</bibl>
               <bibl>–, <hi rend="i">Obras completas</hi> VII, <hi rend="i">Góngora y el
                   Gongorismo</hi>, Madrid, Gredos, 1998.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Arce</hi>, Joaquín:</p>
               <bibl>–, <hi rend="i">Tasso y la literatura española</hi>, Barcelona, Planeta,
                 1973.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Argote de Molina</hi>, Gonzalo:</p>
               <bibl>–, <hi rend="i">Discurso sobre la montería</hi> […], <hi rend="i">con otro
                   discurso y notas del Excmo. Señor D. José Gutiérrez de la Vega</hi>, Tomo único,
                 Madrid, Establecimiento tipográfico de los sucesores de Rivadeneyra, Impresores de
                 la Real Casa, 1882.</bibl>
-              <p/>
+              
               <p rend="noindent sc">Aristóteles:</p>
               <bibl>–, <hi rend="i">Aristotelis Opera edidit Academia Regia Borussica</hi>[...],
                 Berolini, apud Georgium Reimerum, 1831.</bibl>
@@ -2997,18 +2987,18 @@
                 Madrid, Gredos, 1996.</bibl>
               <bibl>–, <hi rend="i">Poética</hi>, Valentín García Yebra (trad.), Madrid, Gredos,
                 1974.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Artigas</hi>, Miguel:</p>
               <bibl>–, <hi rend="i">Don Luis de Góngora, Biografía y estudio crítico</hi>, Madrid,
                 Tipografía de la Revista de Archivos, 1925.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Ausonio,</hi> Décimo Magno:</p>
               <bibl>–, <hi rend="i">Edyllia</hi>, en <hi rend="i">D. Magni Ausonii Burdigalensis,
                   Opera Omnia ex editione bipontina cum et interpretatione, in usum Delphini</hi>
                 […], <hi rend="i">Volumen Secundum,</hi> Londini, A. J. Valpy, 1823.</bibl>
               <bibl>–, <hi rend="i">Obras II</hi>, Antonio Alvar Ezquerra (ed.), Madrid, Gredos,
                 1990.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Blanco</hi>, Mercedes:</p>
               <bibl>–, <hi rend="i">Góngora heroico. Las ‘Soledades’ y la tradición épica</hi>,
                 Madrid, CEEH, 2012.</bibl>
@@ -3017,52 +3007,52 @@
                   y representaciones</hi>, Córdoba, Diputación de Córdoba, 2014, p. 301-328.</bibl>
               <bibl>–,<hi rend="i"> Góngora o la invención de una lengua</hi>, León, Publicaciones
                 de la Universidad de León, 2ª ed., 2016.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Cardigni</hi>, Julieta:</p>
               <bibl>–, <hi rend="i">El comentario como género tardoantiguo: «Commentarii in Somnium
                   Scipionis» de Macrobio</hi>, Buenos Aires, Editorial de la Facultad de Filosofía y
                 Letras, UBA, 2013.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Catulo</hi>, Gayo Valerio:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Poésies</hi> (texte établi et traduit par Georges
+              <bibl>–, <hi rend="i">Poésies</hi> (texte établi et traduit par Georges
                 Lafaye), Paris, Les Belles Lettres, 1922.</bibl>
               <bibl>–, <hi rend="i">Poemas, Elegías</hi>, Arturo Ruiz Soler (ed.), Madrid, Gredos,
                 1993.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Chevalier</hi>, Maxime:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">L'Arioste en Espagne (1530-1650): recherches sur
-                  l’influence du</hi> «<hi xml:lang="fr" rend="i">Roland furieux»</hi>, Bordeaux,
+              <bibl>–, <hi rend="i">L'Arioste en Espagne (1530-1650): recherches sur
+                  l’influence du</hi> «<hi rend="i">Roland furieux»</hi>, Bordeaux,
                 Féret et Fils, 1966.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Cicerón</hi>:</p>
               <bibl>–, <hi rend="i">Discursos VI</hi>, José María Muñoz Jiménez (ed.), Madrid,
                 Gredos, 2006</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Cirilo de Alejandría</hi>:</p>
               <bibl>–,<hi rend="i"> S.P.N. Cyrilli, Alexandriae Archiepiscopi, opera quae reperiri
                   potuerunt omnia</hi> [...], Tomus Quartus [...], Lutetiae Parisiorum, Migne, 1864
                 (Tomo LXXI de la<hi rend="i"> Patrología graeca</hi>).</bibl>
               <p rend="noindent sc">Claudiano:</p>
-              <bibl>–, <hi xml:lang="en" rend="i">Claudian with an English Translation by Maurice
+              <bibl>–, <hi rend="i">Claudian with an English Translation by Maurice
                   Platnauer</hi> [...] In Two Volumes, The Loeb Classical Library, London, William
                 Heinemann, 1922.</bibl>
               <bibl>–, <hi rend="i">Poemas</hi>, Miguel Castillo Bejarano (ed.), Madrid, Gredos,
                 1993, 2 vol.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Codoñer</hi>, Carmen:</p>
               <bibl>–, «Comentaristas de Garcilaso», en Víctor García de la Concha (ed.), <hi
                   rend="i">Garcilaso, Actas de la IV Academia Literaria Renacentista</hi>,
                 Salamanca, Ediciones Universidad de Salamanca, 1986, p. 185-200.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Corominas</hi> Joan – José <hi rend="sc">A.
                   Pascual</hi>:</p>
               <bibl>–, <hi rend="i">Diccionario crítico etimológico castellano e hispánico</hi>,
                 Madrid, Gredos, 1981.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Eliano</hi>, Claudio:</p>
               <bibl>–, <hi rend="i">De natura animalium</hi>, Jenae, apud Fridericum Fromannum,
                 1832.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Elvira</hi>, Muriel:</p>
               <bibl>–, Introducción a su edición del <hi rend="i">Parecer de don Francisco de
                   Córdoba acerca de las «Soledades», a instancia de su autor</hi>, edición digital
@@ -3072,46 +3062,46 @@
               <bibl>–, «La biblioteca en construcción del abad de Rute», <hi rend="i">ILCEA</hi> [En
                 ligne], 25 | 2016, &lt;<ref target="http://ilcea.revues.org/3699"
                   >http://ilcea.revues.org/3699</ref>&gt;.</bibl>
-              <p xml:lang="en"/>
+              <p/>
               <p rend="noindent sc">Ennio:</p>
-              <bibl>–, <hi xml:lang="en" rend="i">Quinti Ennii, Annalium, libb. XVIII,
+              <bibl>–, <hi rend="i">Quinti Ennii, Annalium, libb. XVIII,
                   Fragmenta</hi> [..], Lipsiae, sumtibus Librariae Hahnianae, 1825.</bibl>
               <bibl>–, <hi rend="i">Fragmentos</hi>, Juan Martos (ed.), Madrid, Gredos, 2006.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Estacio</hi>, Publio Papinio:</p>
-              <bibl>–,<hi xml:lang="fr" rend="i"> Publius Papinius Statius</hi>, Loeb Classical
-                Library, Statius, <hi xml:lang="fr" rend="i">Thebaid</hi>, Books 8-11, <hi
-                  xml:lang="fr" rend="i">Achilleid</hi>, Edited and Translated by D. R. Shackleton
+              <bibl>–,<hi rend="i"> Publius Papinius Statius</hi>, Loeb Classical
+                Library, Statius, <hi rend="i">Thebaid</hi>, Books 8-11, <hi
+                  rend="i">Achilleid</hi>, Edited and Translated by D. R. Shackleton
                 Bailey, Harvard, Harvard University Press, 2003.</bibl>
               <bibl>–, <hi rend="i">Silvas</hi>, Francisco Torrent Rodríguez (ed.), Madrid, Gredos,
                 2002.</bibl>
-              <p xml:lang="en"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Estrabon</hi>:</p>
-              <bibl>–, <hi xml:lang="en" rend="i">Géographie de Strabon</hi>, traduction nouvelle
+              <bibl>–, <hi rend="i">Géographie de Strabon</hi>, traduction nouvelle
                 par Amédée Tardieu [...], Tome Premier, Paris, Librairie de L. Hachette,
                 1867.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Festini</hi>, Patricia:</p>
               <bibl>–, «“Solo por desplegar las velas de su elocuencia” o los modos de descifrar las
                 Anotaciones de Díaz de Rivas», Florencia Calvo y Gloria Chicote (comp.), <hi
                   rend="i">Buenos Aires - Madrid - Buenos Aires. Homenaje a Melchora Romanos</hi>,
                 Buenos Aires, Eudeba, 2017, p. 237-250.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Firmiano Sinfosio</hi>, Celio:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Caelii Symposii Aenigmata, hanc novam
-                  editionem</hi> […], <hi xml:lang="fr" rend="i">curavit Lucius M. Sargent</hi>,
+              <bibl>–, <hi rend="i">Caelii Symposii Aenigmata, hanc novam
+                  editionem</hi> […], <hi rend="i">curavit Lucius M. Sargent</hi>,
                 Bostoniae, Nov. Angl., Prelo Belcher et Armstrong, 1807.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Flaco,</hi> Valerio:</p>
               <bibl>–, <hi rend="i">C. Valerii Flacci Setini Balbi Argonauticon Libros Octo</hi>
                 [...], Berolini, apud Weidmannos, 1871.</bibl>
               <bibl>–, <hi rend="i">Argonáuticas</hi>, Jean Soubiran (ed.), Louvain-Paris, Peeters,
                 2002.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Fucilla</hi>, Joseph G.:</p>
               <bibl>–, <hi rend="i">Estudios sobre el petrarquismo en España</hi>, Madrid, C.S.I.C.,
                 1953, p. 252-253 (Anejo 59 de la <hi rend="i">RFE</hi>).</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Gallardo,</hi> Bartolomé José:</p>
               <bibl>–, <hi rend="i">Ensayo de una biblioteca española de libros raros y
                   curiosos</hi> [...], Tomo Primero, Madrid, Imprenta y Estereotipia de M.
@@ -3119,48 +3109,48 @@
               <bibl>–, <hi rend="i">Ensayo de una biblioteca española de libros raros y
                   curiosos</hi> [...], Tomo Tercero, Madrid, Imprenta y Estereotipia de M.
                 Rivadeneyra, 1888.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Gallego Morell</hi>, Antonio:</p>
               <bibl>–, <hi rend="i">Garcilaso de la Vega y sus comentaristas</hi>, Granada,
                 Universidad de Granada, 1966.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Gates</hi>, Eunice Joiner:</p>
               <bibl>–, «Anotaciones a la Canción de la toma de Larache de Pedro Díaz de Rivas», <hi
                   rend="i">Revista de Filología Hispánica</hi>, XLIV, 1961, p. 69-94.</bibl>
               <bibl>–, (ed.) <hi rend="i">Discursos apologéticos</hi> de Díaz de Rivas, en <hi
                   rend="i">Documentos gongorinos</hi>, México, Colegio de México, 1960, p.
                 31-67.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Góngora</hi>, Luis de:</p>
               <bibl>–, <hi rend="i">Obras completas</hi>, Antonio Carreira (ed.), Madrid, Fundación
                 José Antonio de Castro, 2000, II.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Horacio Flaco,</hi> Quinto:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Épîtres</hi> (texte établi et traduit par Francois
+              <bibl>–, <hi rend="i">Épîtres</hi> (texte établi et traduit par Francois
                 Villeneuve), Paris, Les Belles Lettres (Collection des Universités de France),
                 1934</bibl>
-              <bibl>–, <hi xml:lang="fr" rend="i">Odes et épodes</hi>. Paris, Les Belle Lettres,
+              <bibl>–, <hi rend="i">Odes et épodes</hi>. Paris, Les Belle Lettres,
                 1927, I.</bibl>
               <bibl>–,<hi rend="i"> Odas, Canto secular, Epodos</hi>, José Luís Moralejo (ed.),
                 Madrid, Gredos, 2007.</bibl>
               <bibl>–,<hi rend="i"> Sátiras, Epístolas, Arte poética</hi>, José Luís Moralejo (ed.),
                 Madrid, Gredos, 2008.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Iglesias Feijoo</hi>, Luis:</p>
               <bibl>–, «Una carta inédita de Quevedo, y algunas noticias sobre los comentaristas de
                 Góngora, con Pellicer al fondo», <hi rend="i">Boletín de la Biblioteca Menéndez
                   Pelayo</hi>, LIX, 1983, p. 141-203.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Jammes</hi>, Robert:</p>
               <bibl>–, «Études sur Nicolás Antonio. Nicolás Antonio commentateur de Góngora», <hi
                   rend="i">Bulletin hispanique</hi>, LXII, 1960, p. 193-215.</bibl>
               <bibl>–, (ed.), Luis de Góngora, <hi rend="i">Soledades</hi>, Madrid, Castalia,
                 1994.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Juvenal</hi>:</p>
               <bibl>–, <hi rend="i">Sátiras</hi>, Bartolomé Segura Ramos (ed.), Madrid, Consejo
                 superior de investigaciones científicas, 1996.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Lázaro Carreter</hi>, Fernando:</p>
               <bibl>–, «Imitación compuesta y diseño retórico en la Oda a Juan de Grial», <hi
                   rend="i">Anuario de estudios filológicos</hi>, Universidad de Extremadura, II,
@@ -3168,73 +3158,73 @@
               <p rend="noindent"><hi rend="sc">Leonardo de Argensola,</hi> Bartolomé de,</p>
               <bibl>–, <hi rend="i">Rimas</hi> […], José Manuel Blecua (ed.), Zaragoza: CSIC, 1950,
                 2 vol.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Lida</hi>, María Rosa:</p>
               <bibl>–, <hi rend="i">La tradición clásica en España</hi>, Barcelona, Ariel,
                 1975.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">López Pinciano,</hi> Alonso:</p>
               <bibl>–,<hi rend="i"> Philosophía Antigua Poética</hi>, A. Carballo Picazo (ed.),
                 Madrid, C.S.I.C., 1953, 3 vols.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Lucano,</hi> Marco Anneo:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">La guerre civile</hi> (<hi xml:lang="fr" rend="i"
+              <bibl>–, <hi rend="i">La guerre civile</hi> (<hi rend="i"
                   >La Pharsale</hi>). Tome I (Livres I-V) (texte établi et traduit par A. Bourgery),
                 Paris, Les Belles Lettres, 1926.</bibl>
-              <bibl>–, <hi xml:lang="fr" rend="i">La guerre civile</hi> (<hi xml:lang="fr" rend="i"
+              <bibl>–, <hi rend="i">La guerre civile</hi> (<hi rend="i"
                   >La Pharsale</hi>). Tome II (Livres VI-X) (texte établi et traduit par A. Bourgery
                 et Max Ponchont), Paris, Les Belles Lettres, 1929.</bibl>
               <bibl>–, <hi rend="i">Farsalia</hi>, Antonio Holgado Redondo (ed.), Madrid, Gredos,
                 1984.</bibl>
-              <p/>
+              
               <p rend="noindent sc">Lucrecio:</p>
               <bibl>–, <hi rend="i">La naturaleza</hi>, Francisco Socas (ed.), Madrid, Gredos,
                 2003.</bibl>
-              <p xml:lang="en"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Marcial</hi>, Marco Valerio:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Épigrammes</hi>, Tome I (Livres I-VII) (texte
+              <bibl>–, <hi rend="i">Épigrammes</hi>, Tome I (Livres I-VII) (texte
                 établi et traduit par H. J. Izaac), Paris, Les Belles Lettres, 1930.</bibl>
-              <bibl>–, <hi xml:lang="fr" rend="i">Épigrammes</hi>, Tome II 1° parte (Livres
+              <bibl>–, <hi rend="i">Épigrammes</hi>, Tome II 1° parte (Livres
                 VIII-XII), Paris, Les Belles Lettres, 1933.</bibl>
-              <bibl>–, <hi xml:lang="fr" rend="i">Épigrammes</hi>, Tome II 2° Parte (Livres
+              <bibl>–, <hi rend="i">Épigrammes</hi>, Tome II 2° Parte (Livres
                 XIII-XIV), Paris, Les Belles Lettres, 1933.</bibl>
               <bibl>–,<hi rend="i"> Epigramas</hi>, 2 vol., Juan Fernández Valverde y Antonio
                 Ramírez de Verger (ed.), Madrid, Gredos, 2001.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Mela</hi>, Pomponio:</p>
               <bibl>–, <hi rend="i">Pompinii Melae. De Situ Orbis Libri III</hi> [...], Lipsiae,
                 Sumtibus et typis Car. Tauchnitii, 1831.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Molho,</hi> Maurice:</p>
               <bibl>–, «Apuntes para una teoría del cultismo». <hi rend="i">Bulletin
                 hispanique</hi>, LXXXVII, 3-4, 1985, p. 471-484</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Morros</hi>, Bienvenido:</p>
               <bibl>–, «Las fuentes y su uso en las <hi rend="i">Anotaciones a Garcilaso</hi>»,
                 Begoña López Bueno y Alberto Blecua (dir.), <hi rend="i">Las</hi> «<hi rend="i"
                   >Anotaciones</hi>» <hi rend="i">de Fernando de Herrera: doce estudios (Encuentro
                   Internacional de Poesía del Siglo de Oro, 4, 1996)</hi>. Sevilla, Universidad de
                 Sevilla, 1997, p. 37-89.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Moya del Baño</hi>, Francisca:</p>
               <bibl>–, «Val. Fl. 1, 9: "Otra lectura" de Iulos», <hi rend="i">Fortunatae: Revista
                   canaria de filología, cultura y humanidades clásicas</hi>, nº 18, 2007, p.
                 125-134.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Osuna Cabezas</hi>, María José:</p>
               <bibl>–, <hi rend="i">Gongora vindicado: «Soledad primera ilustrada y defendida»</hi>,
                 Zaragoza, Prensas Universitarias de Zaragoza, 2008.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Ovidio Nasón,</hi> Publio:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Les Métamorphoses</hi>, Tome I (I-V) (texte établi
+              <bibl>–, <hi rend="i">Les Métamorphoses</hi>, Tome I (I-V) (texte établi
                 et traduit par Georges Lafaye), Paris, Les Belles Lettres, 1928.</bibl>
-              <bibl>–, <hi xml:lang="fr" rend="i">Les Métamorphoses</hi>, Tome II (VI-X), Paris, Les
+              <bibl>–, <hi rend="i">Les Métamorphoses</hi>, Tome II (VI-X), Paris, Les
                 Belles Lettres, 1928.</bibl>
-              <bibl>–, <hi xml:lang="fr" rend="i">Les Métamorphoses</hi>, Tome III (XI-XV), Paris,
+              <bibl>–, <hi rend="i">Les Métamorphoses</hi>, Tome III (XI-XV), Paris,
                 Les Belles Lettres, 1930.</bibl>
-              <bibl>–, <hi xml:lang="fr" rend="i">L’Art d’Aimer</hi> (texte établi et traduit par
+              <bibl>–, <hi rend="i">L’Art d’Aimer</hi> (texte établi et traduit par
                 Henri Bornecque), Paris, Les Belles Lettres, 1929.</bibl>
-              <bibl>–, <hi xml:lang="fr" rend="i">Les Amours</hi>, Paris, Les Belles Lettres,
+              <bibl>–, <hi rend="i">Les Amours</hi>, Paris, Les Belles Lettres,
                 1930.</bibl>
               <bibl>–,<hi rend="i"> Cartas de las Heroínas, Ibis</hi>, Ana Pérez Vega (ed.), Madrid,
                 Gredos, 1994.</bibl>
@@ -3242,20 +3232,20 @@
                 Llorca (ed.), Madrid, Gredos, 2008-2012.</bibl>
               <bibl>–,<hi rend="i"> Tristes, Pónticas</hi>, José González Vázquez (ed.), Madrid,
                 Gredos, 1992.</bibl>
-              <p xml:lang="fr"/>
-              <p xml:lang="fr" rend="noindent sc">Palladio:</p>
+              <p/>
+              <p rend="noindent sc">Palladio:</p>
               <bibl>–, <hi rend="i">De insitionibus</hi> en <hi rend="i">Poetae Latini Minores, De
                   Re Hortensi et Villatica Carmina Columellae, Palladii, Vomani, et aliorum</hi>
                 [...] Parisiis, Colligebat Nicolaus Eligius Lemaire, 1826.</bibl>
-              <p/>
+              
               <p rend="noindent sc">Persio:</p>
               <bibl>–, <hi rend="i">Sátiras</hi>, Manuel Balasch y Recort, Miquel Dolç (ed.),
                 Madrid, Gredos, 1991.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Petrarca</hi>, Francisco:</p>
               <bibl>–,<hi rend="i"> Rime, trionfi e poesie latine</hi>, Milano, R. Ricciardi,
                 1951.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Platón</hi>:</p>
               <bibl>–, <hi rend="i">Platonis Dialogi Latine Juxta Interpretationem Ficini
                   aliorumque,</hi> Vol. X, Londini, Excudebat A. J. Valpy, A. M. Sumptibus Ricardi
@@ -3263,24 +3253,24 @@
               <p rend="noindent sc">Plinio:</p>
               <bibl>–, <hi rend="i">C. Plini Secundi Naturalis Historiae Libri XXXVII</hi> [...],
                 Lipsiae, in Aedibus B. G. Teubneri, 1870-1898.</bibl>
-              <bibl>–, <hi xml:lang="en" rend="i">Histoire Naturelle, Livre I</hi>, Texte établi,
+              <bibl>–, <hi rend="i">Histoire Naturelle, Livre I</hi>, Texte établi,
                 traduit et commenté par Jean Beaujeu [...], Paris, Les Belles Lettres, 1950.</bibl>
-              <bibl>–, <hi xml:lang="en" rend="i">Histoire Naturelle, Livre II</hi>, Texte établi,
+              <bibl>–, <hi rend="i">Histoire Naturelle, Livre II</hi>, Texte établi,
                 traduit et commenté par Jean Beaujeu, Paris, Les Belles Lettres, 1950.</bibl>
-              <bibl>–, <hi xml:lang="en" rend="i">Histoire Naturelle, Livre VIII</hi>, Texte établi,
+              <bibl>–, <hi rend="i">Histoire Naturelle, Livre VIII</hi>, Texte établi,
                 traduit et commenté par A. Ernout, Paris, Les Belles Lettres, 1952.</bibl>
-              <bibl>–, <hi xml:lang="en" rend="i">Histoire Naturelle, Livre IX</hi>, Texte établi,
+              <bibl>–, <hi rend="i">Histoire Naturelle, Livre IX</hi>, Texte établi,
                 traduit et commenté par E. de Saint-Denis, Paris, Les Belles Lettres, 1955.</bibl>
-              <bibl>–, <hi xml:lang="en" rend="i">Histoire Naturelle, Livre X</hi>, Texte établi,
+              <bibl>–, <hi rend="i">Histoire Naturelle, Livre X</hi>, Texte établi,
                 traduit et commenté par E. de Saint-Denis, Paris, Les Belles Lettres, 1961.</bibl>
-              <bibl>–, <hi xml:lang="en" rend="i">Histoire Naturelle, Livre XI</hi>, Texte établi,
+              <bibl>–, <hi rend="i">Histoire Naturelle, Livre XI</hi>, Texte établi,
                 traduit et commenté par A. Ernout et le Dr. R. Pépin, Paris, Les Belles Lettres,
                 1947.</bibl>
-              <bibl>–, <hi xml:lang="en" rend="i">Histoire Naturelle, Livre XVI</hi>, Texte établi,
+              <bibl>–, <hi rend="i">Histoire Naturelle, Livre XVI</hi>, Texte établi,
                 traduit et commenté par J. André, Paris, Les Belles Lettres, 1962.</bibl>
-              <bibl>–, <hi xml:lang="en" rend="i">Histoire Naturelle, Livre XVII</hi>, Texte établi,
+              <bibl>–, <hi rend="i">Histoire Naturelle, Livre XVII</hi>, Texte établi,
                 traduit et commenté par J. André, Paris, Les Belles Lettres, 1964.</bibl>
-              <bibl>–, <hi xml:lang="en" rend="i">Histoire Naturelle, Livre XXXII</hi>, Texte
+              <bibl>–, <hi rend="i">Histoire Naturelle, Livre XXXII</hi>, Texte
                 établi, traduit et commenté par E. de Saint-Denis, Paris, Les Belles Lettres,
                 1966.</bibl>
               <bibl>–,<hi rend="i"> Historia natural</hi>, Libros VII-XI, Francisco Manzanero Cano,
@@ -3289,35 +3279,35 @@
               <bibl>–,<hi rend="i"> Historia natural</hi>, Libros XII-XVI, Francisco Manzanero Cano,
                 Ignacio García Arribas, María Luisa Arribas Hernáez (ed.), Madrid, Gredos,
                 2010.</bibl>
-              <p xml:lang="en"/>
+              <p/>
               <p rend="noindent sc">Plutarco:</p>
               <bibl>–, <hi rend="i">Cuestiones romanas</hi> (Manuel-Antonio Marcos Casquero, ed.),
                 Madrid, Akal Clásica, 1992.</bibl>
               <bibl>–, <hi rend="i">Vitae secundum codices parisinos recognovit Theod. Doehner.
                   Graece et Latine, Volumen Secundum</hi>, Parisiis, Editore Ambrosio Firmin-Didot,
                 1877.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Ponce Cárdenas</hi>, Jesús:</p>
               <bibl>–, <hi rend="i">Cinco ensayos polifémicos</hi>, Málaga, Universidad de Málaga,
                 2009.</bibl>
               <bibl>–, «De nombres y deidades: claves piscatorias en la <hi rend="i">Soledad
                   Segunda</hi>», <hi rend="i">Calíope</hi>, XVIII, nº 3, 2013, p. 85-125.</bibl>
-              <p/>
+              
               <p rend="noindent sc">Propercio:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Élégies</hi>, Paris, Les Belles Lettres,
+              <bibl>–, <hi rend="i">Élégies</hi>, Paris, Les Belles Lettres,
                 1947.</bibl>
               <bibl>–, <hi rend="i">Elegías</hi>, Antonio Ramírez de Verger (ed.), Madrid, Gredos,
                 1989.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Ramírez de Arellano</hi>, Rafael:</p>
               <bibl>–, <hi rend="i">Ensayo de un catálogo biográfico de escritores de la provincia y
                   diócesis de Córdoba</hi>, Madrid, Biblioteca Nacional, 1921-1923, 2 vols., I, p.
                 181-186.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Reyes</hi>, Alfonso:</p>
               <bibl>–, <hi rend="i">Cuestiones gongorinas, Obras completas</hi>, VII, México, Fondo
                 de Cultura Económica, 1958.</bibl>
-              <p xml:lang="it"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Romanos</hi>, Melchora:</p>
               <bibl>–, «Las fuentes virgilianas de un comentarista de Góngora», <hi rend="i">Actas
                   del VII Simposio Nacional de Estudios Clásicos</hi>, Buenos Aires, Asociación
@@ -3344,85 +3334,85 @@
                 Góngora», <hi rend="i">Letras del Siglo de Oro español</hi>, Graciela Balestrino y
                 Marcela Beatriz Sosa (eds.), Salta, Universidad Nacional de Salta, 2012, p.
                 53-60.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Roses</hi>, Joaquín:</p>
               <bibl>–, <hi rend="i">Góngora: «Soledades» habitadas</hi>, Málaga, Universidad de
                 Málaga, 2007.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Rozas</hi>, Juan Manuel:</p>
               <bibl>–, <hi rend="i">Sobre Marino y España</hi>, Madrid, Editora Nacional,
                 1978.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Ruiz Pérez,</hi> Pedro: </p>
               <bibl>–, «Los repertorios latinos en la edición de textos áureos. La Officina poética
                 de Ravisio Textor», <hi rend="i">La edición de textos: actas del I congreso
                   internacional de hispanistas del Siglo de Oro</hi>, Pablo Jauralde Pou, Dolores
                 Noguera Guirao, Alfonso Rey Álvarez (coords), Londres, Tamesis Books, 1990, p.
                 431-440.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Sánchez Mariana,</hi> Manuel:</p>
               <bibl>–, «Los manuscritos poéticos del Siglo de Oro», <hi rend="i">Edad de Oro</hi>,
                 VI (1987), p. 201-207</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Schwartz Lerner</hi>, Lía:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Metáfora y sátira en la obra de Quevedo</hi>,
+              <bibl>–, <hi rend="i">Metáfora y sátira en la obra de Quevedo</hi>,
                 Madrid, Taurus, 1983.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Séneca</hi>, Lucio Anneo:</p>
-              <bibl><title xml:lang="en">–, L. Annaei Senecae Pars prima sive Opera
+              <bibl><title>–, L. Annaei Senecae Pars prima sive Opera
                   Philosophica</title> [...], Parisiis, Colligebat Nicolaus Eligius Lemaire,
                 1830.</bibl>
-              <bibl><hi xml:lang="en" rend="b"><hi rend="i">–</hi></hi>, <hi rend="i"
+              <bibl><hi rend="b"><hi rend="i">–</hi></hi>, <hi rend="i"
                 >Tragedias</hi>, 2 vol., Jesús Luque Moreno (ed.), Madrid, Gredos, 1979-1980.</bibl>
-              <p/>
-              <p xml:lang="fr" rend="noindent sc">Servio:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Maurus Servius Honoratus. In Vergilii carmina
+              
+              <p rend="noindent sc">Servio:</p>
+              <bibl>–, <hi rend="i">Maurus Servius Honoratus. In Vergilii carmina
                   comentarii, Servii Grammatici qui feruntur in Vergilii carmina commentarii,
                   recensuerunt Georgius Thilo et Hermannus Hagen, Georgius Thilo</hi>, Leipzig, B.
                 G. Teubner, 1881.</bibl>
-              <p/>
-              <p xml:lang="it" rend="noindent sc">Silio Itálico:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Caius Silius Italicus, Punicorum Libri
-                  Septemdecim</hi> [...], <hi xml:lang="it" rend="i">Volumen Prius,</hi> Parisiis,
+              
+              <p rend="noindent sc">Silio Itálico:</p>
+              <bibl>–, <hi rend="i">Caius Silius Italicus, Punicorum Libri
+                  Septemdecim</hi> [...], <hi rend="i">Volumen Prius,</hi> Parisiis,
                 Colligebat Nicolaus Eligius Lemaire, 1823.</bibl>
-              <p xml:lang="it"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Simón Díaz,</hi> José:</p>
-              <bibl>–, <hi xml:lang="fr" rend="i">Bibliografía de la Literatura Hispánica</hi>,
+              <bibl>–, <hi rend="i">Bibliografía de la Literatura Hispánica</hi>,
                 Madrid, CSIC, 1971.</bibl>
-              <p xml:lang="it"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Solino (C.</hi> Iulii Solini):</p>
-              <bibl>–, <ref target="http://www.thelatinlibrary.com/solinus.html"><hi xml:lang="it"
-                    rend="i">Collectanea rerum memorabilium</hi></ref>, <hi xml:lang="it" rend="i"
+              <bibl>–, <ref target="http://www.thelatinlibrary.com/solinus.html"><hi
+                    rend="i">Collectanea rerum memorabilium</hi></ref>, <hi rend="i"
                   >Iterum recensvit, Th. Mommsen,</hi> Berolini, apud Weidmannos, 1895, consultado
                 en la edición digital siguiente: <ref
                   target="https://archive.org/stream/collectanearerum00soliuoft#page/40/mode/2up"
                   >https://archive.org/stream/collectanearerum00soliuoft#page/n3/mode/2up</ref></bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Tasso</hi>, Torcuato:</p>
               <bibl>–, <hi rend="i">Aminta</hi>, Milano, Vallardi, 1936.</bibl>
               <bibl>–, <hi rend="i">La Gerusalemme liberata</hi>, Milano, Biblioteca Universale
                 Rizzoli, 1950.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Thomas</hi>, Lucien-Paul:</p>
               <bibl>–, <hi rend="i">Góngora et le gongorisme considérés dans leurs rapports avec le
                   marinisme</hi>, Paris, Champion, 1911.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Vázquez Siruela</hi>, Martín:</p>
               <bibl>–, <hi rend="i">Discurso sobre el estilo de don Luis de Góngora y carácter
                   legítimo de la Poética, a Don García Coronel de Salcedo</hi>, presentación,
                 edición y notas de Saiko Yoshida, <hi rend="i">En torno a las «Soledades» de Luis de
                   Góngora</hi>, F. Cerdan y M. Vitse (eds.), Toulouse, Anejos de <hi rend="i"
                   >Criticón</hi>, nº 4, Presses Universitaires du Mirail, 1995, p. 89-106.</bibl>
-              <p/>
+              
               <p rend="noindent"><hi rend="sc">Vega</hi>, Garcilaso de la:</p>
               <bibl>–, <hi rend="i">Obras completas</hi>, Elías L. Rivers (ed.), Madrid, Castalia,
                 1964.</bibl>
-              <p xml:lang="fr"/>
+              <p/>
               <p rend="noindent"><hi rend="sc">Vilanova</hi>, Antonio:</p>
               <bibl>–, <hi rend="i">Las fuentes y los temas del Polifemo de Góngora</hi>, Madrid,
                 C.S.I.C., 1957, dos vols. (<hi rend="i">Revista de Filología Española</hi>, Anejo
                 LXVI).</bibl>
-              <p/>
+              
               <p rend="noindent sc">Virgilio:</p>
               <bibl>–, <hi rend="i">Bucoliques</hi>, Jean-Pierre Néraudau (ed.), Paris, Les Belles
                 Lettres, 1998.</bibl>
@@ -3464,15 +3454,15 @@
         <head>1.<note place="bottom"> En esta primera nota, en el manuscrito, aparece el número uno
             después del verso. Como se trata de un caso único, lo transcribimos siguiendo el modelo
             del resto de la anotación.</note>
-          <quote><ref xml:id="ref1001"
-              target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.1"
-                ><l rend="center">Éntrase el mar por un arroyo breve<note place="bottom">
+          <quote rend="center"><l><ref xml:id="ref1001"
+            target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.1"
+            >Éntrase el mar por un arroyo breve</ref></l><note place="bottom">
                   OC264C.1</note><note place="bottom"> Díaz de Rivas (en adelante, DR) inicia su
                   comentario a la <hi rend="i">Soledad Segunda</hi>, poniendo de relieve el uso de
                   la descripción de la ría y ponderando la elaboración poética del fragmento; y, de
                   acuerdo con el criterio defensivo con que opera, se apoya en autoridades clásicas
                   y modernas para sostener su valoración positiva de
-            Góngora.</note></l></ref></quote></head>
+            Góngora.</note></quote></head>
         <p>Convenientísimo principio es una descripción para entrar en la narración de cualquiera
           obra poética, y ansí por ella comenzaron gravísimos escritores. El nuestro describe aquí
           un arroyo que entraba en el mar, desatando el de su fecundidad, elegancia y erudición en
@@ -3526,7 +3516,7 @@
               OC264C.4</note></l></ref></quote></head>
         <p>Quiere decir que el arroyo con su breve vaso de aguas se va perdiendo y bebiendo la sal
           del mar.</p>
-        <p/>
+        
         <p>[f. 248 v]</p>
       </div>
       <div>
@@ -3554,8 +3544,8 @@
                 Neptuno progenitum alii Scythium, alii Schironem, alii Arionem dicunt fuisse
                 nominatum. Et ideo dicitur equum invenisse: quia velox est eius numen, et mobile,
                 sicut mare. Unde etiam Castor et Pollux, quia eorum velocissimae stellae sunt, equos
-                in tutela habere dicuntur</hi>» (<hi xml:lang="fr" rend="i">Pub. Virgilii
-                Maronis</hi> [...] <hi xml:lang="fr" rend="i">et in ea Mauri Servii Honorati
+                in tutela habere dicuntur</hi>» (<hi rend="i">Pub. Virgilii
+                Maronis</hi> [...] <hi rend="i">et in ea Mauri Servii Honorati
                 Grammatici Commentarii</hi> […] Coloniae Allobrogum: Excudebat Stephanus Gamonetus,
               1610, p. 62): ‘De modo que para invocar a Neptuno hace referencia a aquel don suyo,
               porque hablará de los caballos en el libro tercero; de otro modo hubiera sido
@@ -3568,13 +3558,13 @@
             >Virgilio</persName> en el mismo lugar:</p>
         <quote><l><hi rend="i">Tuque o, cui prima frementem</hi></l>
           <l><hi rend="i">fudit equum magno tellus percussa tridenti</hi><note place="bottom">
-              Virgilio, <title>Geórgicas</title>, lib. I, v. 12-13: «<hi xml:lang="it" rend="i"
+              Virgilio, <title>Geórgicas</title>, lib. I, v. 12-13: «<hi rend="i"
                 >Tuque o, cui prima frementem / fudit equum magno tellus percussa tridenti</hi>, /
-                [<hi xml:lang="it" rend="i">Neptune</hi>]»: «Y tú, Neptuno, en cuyo honor la tierra
+                [<hi rend="i">Neptune</hi>]»: «Y tú, Neptuno, en cuyo honor la tierra
               herida por tu gran tridente brotó al punto el relinchante caballo» (Virgilio 1990:
-              258). De igual modo que con el texto de la <hi xml:lang="it" rend="i">Eneida</hi>,
-              cotejamos los versos citados de las <hi xml:lang="it" rend="i">Geórgicas</hi> y de las
-                <hi xml:lang="it" rend="i">Bucólicas</hi> con la edición del padre La Cerda (<hi
+              258). De igual modo que con el texto de la <hi rend="i">Eneida</hi>,
+              cotejamos los versos citados de las <hi rend="i">Geórgicas</hi> y de las
+                <hi rend="i">Bucólicas</hi> con la edición del padre La Cerda (<hi
                 rend="i">Bucolica, Georgica Argumentis</hi>, Lugduni: Sumptibus Horatii Cardon,
               1619).</note>.</l></quote>
         <p>y ahí lo explican largamente los comentadores <persName type="authority"
@@ -3586,15 +3576,15 @@
             en forma manuscrita y que luego se adjuntaron a los comentarios de Servio y de otros
             comentaristas de la obra virgiliana.</note> y el <persName type="authority">Padre
             Cerda</persName><note place="bottom"> El Padre La Cerda se refiere a este tema en la
-            nota 18 (<hi xml:lang="it" rend="i">Equum</hi>) al verso 13 del libro I de las <hi
-              rend="i">Geórgicas</hi>: «<hi xml:lang="it" rend="i">Producti equi a Neptuno fabula
+            nota 18 (<hi rend="i">Equum</hi>) al verso 13 del libro I de las <hi
+              rend="i">Geórgicas</hi>: «<hi rend="i">Producti equi a Neptuno fabula
               aliter a Servio narratur, aliter Varrone. Perstringam utrumque breviter, quod ad rem
               meam necessarium: contendebant Neptunus et Pallas uter nomen Athenis daret. Indicarunt
               Dii, ut is daret, qui melius munus mortalibus produxisset. Pallas oleam produxit,
               Neptunus equum. Indicatum est pro Pallade, victus Neptunus, nam olea equo praestare
               existimatae est. Itaque Pallas a se Athenas nominauit. Ita Servius. Sed Varro, cum
               paria narret, in hoc dissidet, quod a Neptuno in ea contentione aquam productam dicat,
-              non equum</hi>: [...]<hi xml:lang="it" rend="i"> Hinc est, ut in versu Virgilii, quem
+              non equum</hi>: [...]<hi rend="i"> Hinc est, ut in versu Virgilii, quem
               habeo in manibus, aliqui legant, Fudit aquam magno Tellus percussa tridente, quod
               admonet Servius Danielis.</hi>» (<hi rend="i">Bucolica, Georgica Argumentis</hi>...,
             p. 183): ‘La fábula de cómo Neptuno produjo los caballos la cuenta Servio de una manera,
@@ -3635,7 +3625,7 @@
           doctísimo <persName type="authority">Escalígero</persName>, <title>Exercitatione
             52</title><note place="bottom"> Véase la nota siguiente sobre Escalígero.</note>, y
           otros muchos. </p>
-        <p/>
+        
         <p>[f. 249 r]</p>
       </div>
       <div>
@@ -3648,10 +3638,10 @@
             place="bottom">
             <persName type="authority">Escalígero</persName>, <title>Exotericarum Exercitationum
               Liber XV De Subtilitate ad Hieronymum Cardanum</title> (Hanoviae: Typis Wechelianis,
-            sumptibus clementis Schleichii, et Petri de Zetter, 1634). <hi xml:lang="it" rend="i"
+            sumptibus clementis Schleichii, et Petri de Zetter, 1634). <hi rend="i"
               >Exercitatio LII, De maris motu</hi>, p. 186-193.</note>. En el mar Ligústico y
           Tirreno es breve o casi ninguno, pero en el mar Gótico<note place="bottom"> El mar Gótico
-            es el mar Báltico, como puede comprobarse en el <hi xml:lang="it" rend="i">Arte de la
+            es el mar Báltico, como puede comprobarse en el <hi rend="i">Arte de la
               verdadera navegación</hi> de Pedro de Siria (Valencia: Juan Chrysostomo Garriz, 1602):
             «[...] hace el Océano otro mar diferente entre Alemania y Dinamarca, nombrado el mar
             Gótico y nómbrase así porque antiguamente Dinamarca, que es la principal provincia que
@@ -3660,9 +3650,9 @@
           leguas, como notan los <persName type="authority">padres Coimbrenses </persName><hi
             rend="i">in lib.</hi>
           <title>Metheororum</title>, <hi rend="i">tractatu</hi> 8, c. 3<note place="bottom">
-            <hi xml:lang="it" rend="i">Comentarii Collegii Conimbricensis Societatis Iesu In Libros
+            <hi rend="i">Comentarii Collegii Conimbricensis Societatis Iesu In Libros
               Meteororum Aristotelis Stagiritae</hi>, Olisipone: Ex officina Simonis Lopesii, 1593.
-              <hi xml:lang="it" rend="i">Tractatu 8, c. 3, Varii motus, quibus mare cietur</hi>, p.
+              <hi rend="i">Tractatu 8, c. 3, Varii motus, quibus mare cietur</hi>, p.
             78-79. Conimbricenses es el nombre por el que eran conocidos los jesuitas de la
             Universidad de Coimbra, en Portugal. Hacia finales del siglo XVI y principios del siglo
             XVII, la universidad produjo voluminosos comentarios sobre los escritos filosóficos de
@@ -3688,7 +3678,7 @@
               la lección moderna (<hi rend="i">gemina cornua</hi>), por tratarse de una variante de
               la tradición manuscrita.</note><hi rend="i">vultu</hi></l>
           <l><hi rend="i">Eridanus</hi><note place="bottom"> Virgilio, <hi rend="i">Geórgicas</hi>,
-              lib. IV, v. 371-372: «<hi xml:lang="it" rend="i">et gemina auratus taurino cornua
+              lib. IV, v. 371-372: «<hi rend="i">et gemina auratus taurino cornua
                 vultu / Eridanus</hi>»: «y el Erídano, que ostenta en su faz taurina dos cuernos de
               oro» (Virgilio 1990: 375).</note>.</l></quote>
         <p>El mismo lib. 8 <title>Eneida</title>, hablando del Tíber:</p>
@@ -3723,7 +3713,7 @@
               >Hieroglyphica, sive de sacris Aegyptiorum, aliarumque gentium literis
               commentarii</ref> (Basileae: per Thomam Guarinum, 1575). Piero Valeriano Bolzani
             (1477-1558) fue un humanista italiano favorecido por los Médici, autor, entre otras
-            obras, de la citada <hi xml:lang="it" rend="i">Hieroglyphica</hi>, un libro
+            obras, de la citada <hi rend="i">Hieroglyphica</hi>, un libro
             pseudo-egipcio de jeroglíficos, considerado el primer diccionario renacentista de
             símbolos. Valeriano diserta sobre los ríos en figura de toros en el cap. IX del libro
             III, p. 25. El célebre humanista cita como autoridades las mismas que menciona DR:
@@ -3732,16 +3722,16 @@
             que con cuernos en la frente, ya sea a causa del mugido que los ríos parecen emitir a la
             manera de los toros, o porque, al igual que los toros, son formidables, o, como dice
             Festo, porque se atribuyen cuernos a los ríos a causa de sus movimientos sinuosos’.
-            Transcribimos el texto latino: «<hi xml:lang="it" rend="i">quem tamen Athenienses humana
+            Transcribimos el texto latino: «<hi rend="i">quem tamen Athenienses humana
               facie figurabant, cornibus tantum a fronte prominentivus: sive propter mugitum, quem,
               ut dictum, ciere flumina taurorum instar vindentur, &amp; taurorum instar atrocia
               sunt, ut Festus ait; sive quod cornua fluminibus ab flexuosis eorum lapsibus
               attribuuntur</hi>».</note>.</p>
       </div>
       <div>
-        <head>8. <quote><ref xml:id="ref1008"
+        <head>8. <quote rend="center"><ref xml:id="ref1008"
               target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.19"
-                ><l rend="center">mal lunada la frente<note place="bottom">
+                ><l>mal lunada la frente<note place="bottom">
               OC264C.19</note></l></ref></quote></head>
         <p>Porque traía los cuernos pequeños que aún no formaban una media luna. <persName
             type="authority">Claudiano</persName>, lib. 1 <title>De raptu</title>:</p>
@@ -3828,10 +3818,10 @@
               cuernos a los vientos sin resistencia» (Catulo 1993: 144).</note>.</l></quote>
         <p><persName type="authority">Virgilio</persName>, lib. 3 <title>Geórgicas</title>:</p>
         <quote><l><hi rend="i">ventosque lacessit</hi><note type="app" rend="I"> lacessit <hi
-                xml:lang="en" rend="i">em.</hi>: lascessit <hi xml:lang="en" rend="i"
+                rend="i">em.</hi>: lascessit <hi rend="i"
             >CS</hi></note></l>
           <l><hi rend="i">ictibus, et sparsa ad pugnam proludit arena</hi><note place="bottom">
-              Virgilio, <hi xml:lang="en" rend="i">Geórgicas</hi>, lib. III, v. 233-234: «[...] <hi
+              Virgilio, <hi rend="i">Geórgicas</hi>, lib. III, v. 233-234: «[...] <hi
                 rend="i">temptat sese atque irasci in cornua discit / arboris obnixus trunco,</hi>]
                 <hi rend="i">ventosque lacessit / ictibus, et sparsa ad pugnam proludit arena</hi>»:
               «pruébase a sí mismo y, luchando contra un tronco de árbol, aprende a servirse de los
@@ -3914,29 +3904,29 @@
           <hi rend="i">in</hi>
           <title>tractatu de piscibus</title>: <quote><hi rend="i">In uniuersum ostrea, ut ait
               Galenus, falsum humorem aggenerant, et praesertim si cruda comendantur, propterea
-              tentiginem</hi><note type="app" rend="I"> tentiginem <hi xml:lang="fr" rend="i"
-                >em.</hi>: tentoginem<hi xml:lang="fr" rend="i"> CS</hi></note><hi rend="i">in
+              tentiginem</hi><note type="app" rend="I"> tentiginem <hi rend="i"
+                >em.</hi>: tentoginem<hi rend="i"> CS</hi></note><hi rend="i">in
               salacibus plurimum adaugent</hi><note place="bottom"> Pauli Iovii Novocomensis Medici
-              et Episcopi Nucerini, <hi xml:lang="fr" rend="i">De Romanis piscibus libellus</hi>,
+              et Episcopi Nucerini, <hi rend="i">De Romanis piscibus libellus</hi>,
               Basileae: per Henricum Petri et Petrum Pernam, 1561. Cap. XLI <hi rend="i">De Ostreis
                 et aliis testaceis</hi>, p. 177: ‘En general, las ostras, como afirma Galeno,
               generan un humor vicioso, sobre todo si se consumen crudas: y a causa de ello
               potencian la erección en los hombres lujuriosos’.</note></quote>; <persName
             type="authority">Platina</persName>, lib. 9. <title>De honesta voluptate</title>:
               <quote><hi rend="i">de ostreis dicamus, quae, quia demortuam etiam venerem</hi><note
-              type="app" rend="I"> demortuam etiam venerem<hi xml:lang="en" rend="i"> em. et
-                add</hi>: demortram venerem <hi xml:lang="en" rend="i">CS</hi></note><hi rend="i"
+              type="app" rend="I"> demortuam etiam venerem<hi rend="i"> em. et
+                add</hi>: demortram venerem <hi rend="i">CS</hi></note><hi rend="i"
               >excitant, apud lautos et libidinosos in precio sunt</hi><note place="bottom"> Sacchi,
-              Bartolommeo, llamado «Il Platina», <hi xml:lang="it" rend="i">De honesta voluptate et
+              Bartolommeo, llamado «Il Platina», <hi rend="i">De honesta voluptate et
                 valetudine</hi>…, Parisiis: In aedibus Ioannis Parui, 1530, f. I.XXXIX vº: ‘hablemos
               de las ostras que, porque estimulan la potencia sexual amortiguada, son muy apreciadas
               por los sibaritas y libidinosos’. La cita no corresponde al libro IX sino al X <hi
                 rend="i">De coquendis piscibus, De Ostreis.</hi> Bartolomeo Sacchi, conocido como el
               Platina (1421-1481), humanista, escritor, maestro y gastrónomo, fue prefecto de la
               biblioteca del Vaticano. Es el autor del primer libro de cocina del siglo XV, impreso
-              en los tiempos modernos (<hi xml:lang="it" rend="i">De honesta voluptate et
+              en los tiempos modernos (<hi rend="i">De honesta voluptate et
                 valitudine</hi>, 1475), que es el aquí citado. Se le deben varias obras muy
-              eruditas, entre las cuales se destaca una <hi xml:lang="it" rend="i">Vida de los
+              eruditas, entre las cuales se destaca una <hi rend="i">Vida de los
                 papas</hi>.</note>.</quote></p>
       </div>
       <div>
@@ -3970,7 +3960,7 @@
           lib. 10, 31:</p>
         <quote><l><hi rend="i">mullus tibi quattuor emptus</hi></l>
           <l><hi rend="i">librarum cenae pompa caputque fuit</hi><note place="bottom"> Marcial,
-                <title>Epigramas</title>, lib. X, 31, v. 3-4: «<hi xml:lang="it" rend="i">mullus
+                <title>Epigramas</title>, lib. X, 31, v. 3-4: «<hi rend="i">mullus
                 tibi quattuor emptus / librarum cenae pompa caputque fuit</hi>»: «un salmonete de
               cuatro libras que compraste constituyó el menú y el plato principal de la cena»
               (Marcial 2001: vol. II, 178).</note>.</l></quote>
@@ -4008,8 +3998,8 @@
                   OC264C.108</note></l></ref></quote></head>
         <p>Elegante descripción del albergue de los pescadores que estaba en una isla de quien se
           hace mención abajo. <persName type="authority">Musoneo</persName> en <persName
-            type="authority">Estobeo</persName><note type="app" rend="I"> Estobeo <hi xml:lang="en"
-              rend="i">em.</hi>: Strobeo <hi xml:lang="en" rend="i">CS</hi></note> atribuye a la
+            type="authority">Estobeo</persName><note type="app" rend="I"> Estobeo <hi
+              rend="i">em.</hi>: Strobeo <hi rend="i">CS</hi></note> atribuye a la
           vida rústica: <quote><hi rend="i">honestatem, pulchritudinem, felicitatem</hi><note
               place="bottom"> Se trata del Discurso LIV, <title>De Agricultura, quod bona
                 sit</title>, escrito por Cayo Musonio Rufo, y que el Padre La Cerda debió de leer en
@@ -4127,7 +4117,7 @@
                 rend="i">pronos</hi>, esta «es una variante textual documentada en la tradición de
               Claudiano».</note></l>
           <l><hi rend="i">inuitant tympana remos</hi><note place="bottom"> Claudiano, <hi
-                xml:lang="it" rend="i">De consulatu Stilichonis</hi>, lib. III, v. 364-365 (se trata
+                rend="i">De consulatu Stilichonis</hi>, lib. III, v. 364-365 (se trata
               del lib. III y no del II como se lee en el manuscrito): « <hi rend="i">taurinaque
                 pulsu / Baccharum Bromios inuitant tympana remos</hi>»: «los tímpanos de piel de
               toro, batidos por las Bacantes, estimulan a los remeros de Bromio» (Claudiano 1993:
@@ -4156,7 +4146,7 @@
               piscatoriae</hi>»: ‘haliéutica, de hecho, por semejanza con la barca del pescador’
               (<hi rend="i">Andreae Alciati, Emblemata cum Claudii Minois I. C. comentariis</hi>.
             Antuerpiae: Ex Officina Plantiniana Raphelengi, 1608, p. 105).</note>.</p>
-        <p/>
+        
         <p>[f. 252 r]</p>
       </div>
       <div>
@@ -4178,8 +4168,8 @@
           se puede distinguir en artículos y partes, a quien corresponden diferentes
           significaciones, notas y caracteres. Véase <persName type="authority">Titelman</persName>,
             <hi rend="i">in </hi><title>Compendium naturalis philosophiae</title>, lib. 9, c.
-            10<note place="bottom">Franz Titelmans, <hi xml:lang="en" rend="i">Compendium naturalis
-              philosophiae</hi>, Parisiis: apud Ioannem Lodoicum Remensis, 1545. <hi xml:lang="en"
+            10<note place="bottom">Franz Titelmans, <hi rend="i">Compendium naturalis
+              philosophiae</hi>, Parisiis: apud Ioannem Lodoicum Remensis, 1545. <hi
               rend="i">Liber Nonus. Considerationis Physicae, de sensibus exterioribus, eorumque
               organis et sensibilibus. Caput X. Quomodo respiratio item et lingua ad plura conducit,
               et vocali arteria.</hi> Franz Titelmans, franciscano flamenco que fue catedrático de
@@ -4275,13 +4265,13 @@
               <quote><hi rend="i">eorum laudes intulit qui pro tali patria fortiter bellando
               occubuissent, eos felices beatosque dictitans quibus perpetuum virtutis monumentum
               esset ante suorum ciuium oculos publice constitutum. In quo non magis ipsi siti
-              essentquam sempiterna</hi><note type="app" rend="I"> sempiterna <hi xml:lang="fr"
-                rend="i">em.</hi>: sepiterna <hi xml:lang="fr" rend="i">CS</hi></note><hi
-              xml:lang="fr" rend="i">ipsorum gloria. Caeterum illustrium virorum totam terram
+              essentquam sempiterna</hi><note type="app" rend="I"> sempiterna <hi
+                rend="i">em.</hi>: sepiterna <hi rend="i">CS</hi></note><hi
+              rend="i">ipsorum gloria. Caeterum illustrium virorum totam terram
               sepulchrum merito dici posse, neque enim domesticorum saxorum inscriptionem</hi><note
-              type="app" rend="I"> inscriptionem <hi xml:lang="fr" rend="i">em.</hi>: inscriptione
-                <hi xml:lang="fr" rend="i">CS</hi>
-            </note><hi xml:lang="fr" rend="i">defunctorum virtutem solum testari, sed si nulla etiam
+              type="app" rend="I"> inscriptionem <hi rend="i">em.</hi>: inscriptione
+                <hi rend="i">CS</hi>
+            </note><hi rend="i">defunctorum virtutem solum testari, sed si nulla etiam
               existeret, in exteras gentes virorum fortium memoriam extendi, magisque apud animum
               cuiusque quam apud urnam hospitari</hi><note place="bottom">
               <title>Rapsodiae Historiarum Enneadum Marci Antonii Coccii Sabellici ab orbe condito.
@@ -4334,9 +4324,9 @@
                 <hi rend="i">em.</hi>: Horacio <hi rend="i">CS</hi></note><hi rend="i">serra
             </hi></l>
           <l><hi rend="i">per la cui gloria il mondo è picciol vaso</hi><note place="bottom">
-              Bernardo Tasso, <title>Rime</title>, soneto «<hi xml:lang="it" rend="i">Alza, Tebro
+              Bernardo Tasso, <title>Rime</title>, soneto «<hi rend="i">Alza, Tebro
                 dolente, un Mausoleo</hi>». Es el cuarto de los sonetos dedicados a la muerte del
-              duque Horatio Farnese. La cita pertenece al primer terceto: «<hi xml:lang="it"
+              duque Horatio Farnese. La cita pertenece al primer terceto: «<hi
                 rend="i">Con una inscrittion, ch’en breue carme / dica: questa urna el grande
                 Horatio serra / per la cui gloria il mondo è picciol uaso</hi>» (Vinegia: appresso
               Gabriel Giolito de’Ferrari, 1560, p. 32): ‘Con una inscripción que diga en breve
@@ -4437,9 +4427,9 @@
         <p><persName type="authority">Virgilio</persName>, lib. 7 <title>Eneida</title>:</p>
         <quote><l><hi rend="i">ossaque nomen</hi></l>
           <l><hi rend="i">Hesperia in Magna (si qua est ea gloria) signat</hi><note type="app"
-              rend="I"> signat <hi xml:lang="fr" rend="i">em.</hi>: signet <hi xml:lang="fr"
-                rend="i">CS</hi></note><note place="bottom"> Virgilio, <hi xml:lang="fr" rend="i"
-                >Eneida</hi>, lib. VII, v. 3-4: «[<hi xml:lang="it" rend="i">et nunc seruat honos
+              rend="I"> signat <hi rend="i">em.</hi>: signet <hi
+                rend="i">CS</hi></note><note place="bottom"> Virgilio, <hi rend="i"
+                >Eneida</hi>, lib. VII, v. 3-4: «[<hi rend="i">et nunc seruat honos
                 sedem tuus</hi>]<hi rend="i">; ossaque nomen / Hesperia in Magna (si qua est ea
                 gloria) signat»</hi>: «y ahora el honor tuyo protege tu sede y tu nombre marca / en
               la gran Hesperia –si es eso motivo alguno de gloria– tus huesos» (Virgilio, 2011: vol.
@@ -4534,8 +4524,8 @@
               <l rend="center">en su undosa campaña<note place="bottom">
               OC264C.177-178</note></l></ref></quote></head>
         <p>Cosa común es en los poetas fingir el mar como campaña y darle las propiedades que a ella
-            le<note type="app" rend="I"> le <hi xml:lang="fr" rend="i">em.</hi>: les <hi
-              xml:lang="fr" rend="i">CS</hi></note> vienen<note place="bottom"> Esta es otra de las
+            le<note type="app" rend="I"> le <hi rend="i">em.</hi>: les <hi
+              rend="i">CS</hi></note> vienen<note place="bottom"> Esta es otra de las
             notas en la que DR despliega autoridades reunidas por el padre La Cerda en sus
             comentarios a los versos citados de Virgilio.</note>. [f. 254 v] <persName
             type="authority">Virgilio</persName>, lib. 6 <title>Eneida</title>:</p>
@@ -4614,8 +4604,8 @@
               rend="i">CS</hi></note>, el <persName type="authority">Petrarca</persName>, can. 4 del
             <hi rend="i">Triunfo del amor</hi>:</p>
         <quote><l><hi rend="i">giace oltra ove l’Egeo sospira e piagne</hi></l>
-          <l><hi rend="i">un’isoletta</hi><note type="app" rend="I"> un’isoletta <hi xml:lang="it"
-                rend="i">em.</hi>: un issoleta <hi xml:lang="it" rend="i">CS</hi></note><hi rend="i"
+          <l><hi rend="i">un’isoletta</hi><note type="app" rend="I"> un’isoletta <hi
+                rend="i">em.</hi>: un issoleta <hi rend="i">CS</hi></note><hi rend="i"
               >delicata e molle</hi><note place="bottom"> Petrarca, <title>Triunfos</title>, Canción
               IV, v. 100-101:‘yace más allá del Egeo que suspira y llora un islote delicado y
               blando’</note>.</l></quote>
@@ -4629,7 +4619,7 @@
           lib. 4, ondas repetidas<note place="bottom"> DR puntualiza la fuente en la que, según su
             opinión, se inspiró Góngora.</note>:</p>
         <quote><l><hi rend="i">Ac ne quid</hi><note type="app" rend="I"> Ac ne quid <hi
-                xml:lang="en" rend="i">em.</hi>: aut nequit <hi xml:lang="en" rend="i"
+                rend="i">em.</hi>: aut nequit <hi rend="i"
               >CS</hi></note><hi rend="i">Sicoris repetitis audeat undis</hi><note place="bottom">
               Lucano, <title>Farsalia</title>, lib. IV, v. 141: «Y, para que el Segre no se atreva a
               nuevas inundaciones” (Lucano 1984: 118). De acuerdo con una observación de Pedro
@@ -4739,7 +4729,7 @@
           suyas, llamadas Nereides<note place="bottom"> Se trata en realidad de Fornuto (y no
             Fortunato, como figura en el manuscrito): <hi rend="i">Cornuti siue Phurnuti De natura
               deorum gentilium commentarius</hi>, (Basileae: s.n., 1543, p. 55): «<hi rend="i">De
-              Nereo: Nereus mare est.</hi> […]<hi xml:lang="en" rend="i"> Fingunt Nereum uirum esse
+              Nereo: Nereus mare est.</hi> […]<hi rend="i"> Fingunt Nereum uirum esse
               senem. Causa est, quod ceu canicies aliqua in mediis fluctibus spuma cernatur. Nam
               Leucothoe, quae Nerei filia est, tale quiddam indicat, quasi sit albedo spumae</hi>»:
             ‘Nereo es el mar. Representan a Nereo como a un anciano, porque la espuma, en medio del
@@ -5063,16 +5053,16 @@
               autor italiano. Su enciclopedia <title>Dies Caniculares</title> trata temas de
               historia natural, demonología, e incluso hombres lobos. La primera impresión data de
               1597. En la edición consultada (Moguntiae: Impensis Ioannis Theobaldi Schönwetter,
-              1615), la entrada ‘<hi xml:lang="it" rend="i">apes</hi>’ corresponde a las páginas
+              1615), la entrada ‘<hi rend="i">apes</hi>’ corresponde a las páginas
               93-95.</note>.</l></quote>
         <p>Dice el poeta: de más casto ejército que el de las amazonas, las cuales viven sin
           maridos, porque de las abejas dice Plinio, lib. 11, c. 16: <quote><hi rend="i">Fetus
-              quonam modo</hi><note type="app" rend="I"> quonam modo <hi xml:lang="en" rend="i"
-                >em.</hi>: quod ad modo <hi xml:lang="en" rend="i">CS</hi></note><hi rend="i"
+              quonam modo</hi><note type="app" rend="I"> quonam modo <hi rend="i"
+                >em.</hi>: quod ad modo <hi rend="i">CS</hi></note><hi rend="i"
               >progenerarent magna inter eruditos et subtilis questio fuit</hi><note type="app"
               rend="I">] En las versiones impresas consultadas se lee <hi rend="i">fuit
                 quaestio</hi>.</note><hi rend="i">: apium</hi><note type="app" rend="I"> apium <hi
-                xml:lang="en" rend="i">em.</hi>: appum <hi xml:lang="en" rend="i">CS</hi></note><hi
+                rend="i">em.</hi>: appum <hi rend="i">CS</hi></note><hi
               rend="i">enim coitus visus est numquam. Plures existimauere oportere confici</hi><note
               type="app" rend="I">] En las versiones impresas consultadas se lee <hi rend="i">ore
                 confingi</hi>.</note><hi rend="i">floribus compositis apte atque utiliter</hi><note
@@ -5206,12 +5196,12 @@
         <p><persName type="authority">Dionisio Uticensi</persName>, lib. 15, c. 2: <quote><hi
               rend="i">Regum optimi sunt colore flaui</hi></quote><note place="bottom"> Casii
             Dionysii Uticensis, <title>De Agricultura Libri XX</title>; (Lugduni: Apud Antonium
-            Vincentium, 1543, p. 295, lib. 15, c. 2): «<hi xml:lang="it" rend="i">Regum optimi sunt
+            Vincentium, 1543, p. 295, lib. 15, c. 2): «<hi rend="i">Regum optimi sunt
               colore flaui, magnitudine sesquialtere pro portione apis</hi>»: ‘Los mejores de los
             reyes son de color de oro, y su tamaño es como el de una abeja y media’. Casio Dionisio
             de Útica (siglo II a.C.) fue un escritor griego que compiló un manual de cultivo basado,
             en parte, en la traducción de la obra del escritor púnico Magón. Su tratado <hi
-              xml:lang="it" rend="i">De agricultura</hi> fue citado en varias ocasiones por
+              rend="i">De agricultura</hi> fue citado en varias ocasiones por
             Columela, Plinio el Viejo y Varrón. </note>. Y el <persName type="authority"
             >Tasso</persName> elegantemente, <hi rend="i">giornata</hi> 5 de la <title>Divina
             Settimana</title>:</p>
@@ -5240,8 +5230,8 @@
               miel; y si alguno ha estado por la mañana al aire libre, se da cuenta de que sus ropas
               están humedecidas por un líquido y su cabello, apelmazado, sea aquél un sudor del
               cielo o una especie de saliva de los astros o un jugo del aire que se depura a sí
-              mismo» (Plinio El Viejo 2003: 470). En el manuscrito figura «<hi xml:lang="it"
-                rend="i">sub dio fuere</hi>» en lugar de «<hi xml:lang="it" rend="i">sub diu
+              mismo» (Plinio El Viejo 2003: 470). En el manuscrito figura «<hi
+                rend="i">sub dio fuere</hi>» en lugar de «<hi rend="i">sub diu
                 fuere</hi>», que es como aparece en la lección de la edición
             consultada.</note>.</quote></p>
       </div>
@@ -5279,8 +5269,8 @@
                 ><l rend="center">plebeyo enjambre leve<note place="bottom">
               OC264C.301</note></l></ref></quote></head>
         <p>Porque no había reina en estos enjambres. <persName type="authority">Plinio</persName>
-          lib. 11 c. 10<note type="app" rend="I"> c. 10 <hi xml:lang="en" rend="i">em.</hi>: c. 11
-              <hi xml:lang="en" rend="i">CS</hi></note>: <quote><hi rend="i">Domos primum
+          lib. 11 c. 10<note type="app" rend="I"> c. 10 <hi rend="i">em.</hi>: c. 11
+              <hi rend="i">CS</hi></note>: <quote><hi rend="i">Domos primum
               plebeis</hi><note type="app" rend="I"> En las versiones impresas consultadas se lee
                 <hi rend="i">plebei</hi>.</note><hi rend="i">exaedificant, deinde regibus</hi><note
               place="bottom"> Plinio, <title>Naturalis Historiae</title>, lib. XI, cap. 10: «Primero
@@ -5318,8 +5308,8 @@
               faciunt</hi><note place="bottom"> Plinio, <title>Naturalis Historiae</title>: «Su
               mordisco es mortal para los árboles. También vuelven estéril al olivo con solo
               lamerlo» (Plinio el Viejo 2003: 208-209). </note></quote>; y en el lib. 12, [f. 259 r]
-          c. 17<note type="app" rend="I"> lib. 12, c. 17 <hi xml:lang="en" rend="i">em.</hi>: lib.
-            50, c. 8 <hi xml:lang="en" rend="i">CS</hi>. Parece que el copista, por error,
+          c. 17<note type="app" rend="I"> lib. 12, c. 17 <hi rend="i">em.</hi>: lib.
+            50, c. 8 <hi rend="i">CS</hi>. Parece que el copista, por error,
             transcribe los números de la cita anterior de Plinio, invirtiendo el orden. </note>:
               <quote><hi rend="i">capra maleficum frondibus animal</hi><note place="bottom"> En las
               ediciones de Plinio de la época –tal como puede verificarse en la Cerda–, corresponde
@@ -5370,7 +5360,7 @@
         <p>El <persName type="authority">Tasso</persName> en las <title>Rimas</title>:</p>
         <quote><l><hi rend="i">per cui serpendo al mar dal’herbe ascoso</hi></l>
           <l><hi rend="i">porta limpido rio suoi dolci humori</hi><note place="bottom"> Bernardo
-              Tasso, <hi xml:lang="it" rend="i">Rime amorose</hi>, Soneto XLI, 1er. cuarteto, v. 3 y
+              Tasso, <hi rend="i">Rime amorose</hi>, Soneto XLI, 1er. cuarteto, v. 3 y
               4.</note>.</l></quote>
         <p>Al contrario, a la sierpe celeste que está entre las dos Osas llaman arroyo. El mismo
             <persName type="authority">Séneca</persName> in <title>Thyeste</title>, <hi rend="i"
@@ -5462,7 +5452,7 @@
           12</hi>».</note>.</p>
         <p><persName type="authority">Séneca</persName> in <title>Medea</title>, actu 1:</p>
         <quote><l><hi rend="i">candida thyrsigeri</hi><note type="app" rend="I"> thyrsigeri <hi
-                xml:lang="en" rend="i">em.</hi>: thyrsegeri <hi xml:lang="en" rend="i">CS.</hi>
+                rend="i">em.</hi>: thyrsegeri <hi rend="i">CS.</hi>
               Corregimos la palabra en los tres lugares en que aparece en la anotación, puesto que
               en la edición de Martín del Río manejada por DR, la forma es la correcta.</note><hi
               rend="i">proles generosa Lyaei</hi><note place="bottom"> Séneca, <hi rend="i"
@@ -5558,7 +5548,7 @@
         <p>Y por la misma razón, Égloga 2 dijo:</p>
         <quote><l><hi rend="i">quam diues pecoris niuei</hi><note type="app" rend="I"> niuei <hi
                 rend="i">em.</hi>: niues <hi rend="i">CS</hi></note><note place="bottom"> Virgilio,
-                <title>Bucólicas</title>, <hi rend="i">Egloga</hi> 2, v. 20: «<hi xml:lang="it"
+                <title>Bucólicas</title>, <hi rend="i">Egloga</hi> 2, v. 20: «<hi
                 rend="i">Quam diues pecoris niuei,</hi> [<hi rend="i">quam lactis abundans</hi>]»:
               «cuán rico en ganado y cuán abundoso en nívea leche» (Virgilio 1990:
           176).</note>.</l></quote>
@@ -5588,7 +5578,7 @@
               (Séneca 1980: 116).</note>.</l></quote>
         <p>Y <persName type="authority">Calpurnio</persName>:</p>
         <quote><l><hi rend="i">et obest arguti glarea riui</hi><note place="bottom"> Calpurnio,
-                <title>In Bucolica Calphurnii</title>, <hi xml:lang="it" rend="i">Égloga</hi> VI, v.
+                <title>In Bucolica Calphurnii</title>, <hi rend="i">Égloga</hi> VI, v.
               65 (Florentiae: Apud Philippum Iunctam, 1590: 154): ‘y molesta la grava del ruidoso
               arroyo’. Calpurnio Sículo (s. I d.C), poeta romano del tiempo de Nerón, autor de
               poesía bucólica de tipo virgiliano, inspirada también en el modelo de Teócrito. La
@@ -5756,7 +5746,7 @@
             felicidad»</note>.</quote></p>
         <p>Lo mismo refiere <persName type="authority">Valerio Máximo</persName>, lib. 7<note
             place="bottom"> Valerio Máximo, <title>Dictorum factorumque memorabilium</title>, lib.
-            VII, cap. 1, <hi xml:lang="fr" rend="i">De felicitate</hi> (Antuerpiae: Ex officina
+            VII, cap. 1, <hi rend="i">De felicitate</hi> (Antuerpiae: Ex officina
             Christophori Plantini, Architypographi Regii, 1574: p. 269).</note>, c. 1; <persName
             type="authority">Plinio</persName>, lib. 7, c. 46<note place="bottom"> Plinio,
               <title>Naturalis historiae</title>, lib. VII, c. 46. </note>.</p>
@@ -5798,7 +5788,7 @@
         <quote><l><hi rend="i">atque illi stellatus iaspide fulua</hi></l>
           <l><hi rend="i">ensis erat</hi><note place="bottom"> Virgilio, <hi rend="i">Eneida</hi>,
               lib. IV, v. 261-262: «[<hi rend="i">Aenean</hi> (...) <hi rend="i">conspicit</hi>]<hi
-                xml:lang="it" rend="i"> atque illi stellatus iaspide fulua / ensis erat, </hi>[<hi
+                rend="i"> atque illi stellatus iaspide fulua / ensis erat, </hi>[<hi
                 rend="i">Tyrioque ardebat murice laena / demissa ex umeris</hi>]»: «ve a Eneas (...)
               y aquél tenía una espada constelada de rubio jaspe y ardía de tiria púrpura su capote
               / colgando de los hombros» (Virgilio 2011: vol. II, 28). <hi rend="bg_ffff00"><ref
@@ -5886,11 +5876,11 @@
               las arenas desiertas: el basilisco» (Lucano 1984: 289-290).</note>.</l></quote>
         <p>Otros dijeron también el vulgo o plebe de las flores. El <persName type="authority"
             >Marino</persName> en la canción <hi rend="i">De la rosa</hi>:</p>
-        <quote><l><hi rend="i">Sorge</hi><note type="app" rend="I"> Sorge <hi xml:lang="fr" rend="i"
-                >em</hi>: Scorge <hi xml:lang="fr" rend="i">CS</hi></note><hi rend="i"> da l’humil
+        <quote><l><hi rend="i">Sorge</hi><note type="app" rend="I"> Sorge <hi rend="i"
+                >em</hi>: Scorge <hi rend="i">CS</hi></note><hi rend="i"> da l’humil
               herba</hi>, </l>
           <l><hi rend="i">tra la plebe de'fior donna superba</hi><note place="bottom">
-              <hi xml:lang="fr">Marino</hi>, <title>Rime</title>, <hi xml:lang="it" rend="i">Seconda
+              <hi>Marino</hi>, <title>Rime</title>, <hi rend="i">Seconda
                 Parte..., Canz. VIII. Stanze 6</hi>, dos últimos versos, p. 57. La misma canción
               está citada en la nota 153 al verso 727 de la <hi rend="i">Soledad primera</hi>: ‘Se
               alza de la humilde hierba como altiva dama entre la plebe de las
@@ -6019,10 +6009,10 @@
         <quote><l><hi rend="i">Questo, che quasi un pargoletto scoglio</hi>, </l>
           <l><hi rend="i">per durissima scorza aspro, e sassoso</hi><note type="app" rend="I"> e
               sassoso <hi rend="i">em.</hi>: essasoso <hi rend="i">CS</hi></note></l>
-          <l><hi rend="i">Lilla</hi><note type="app" rend="I"> Lilla <hi xml:lang="fr" rend="i"
-                >em.</hi>: (lila) <hi xml:lang="fr" rend="i">CS</hi></note><hi rend="i">, e di
-              scaglie</hi><note type="app" rend="I"> scaglie <hi xml:lang="fr" rend="i">em.</hi>:
-              scagli <hi xml:lang="fr" rend="i">CS</hi></note><hi rend="i">rigido e nodoso</hi><note
+          <l><hi rend="i">Lilla</hi><note type="app" rend="I"> Lilla <hi rend="i"
+                >em.</hi>: (lila) <hi rend="i">CS</hi></note><hi rend="i">, e di
+              scaglie</hi><note type="app" rend="I"> scaglie <hi rend="i">em.</hi>:
+              scagli <hi rend="i">CS</hi></note><hi rend="i">rigido e nodoso</hi><note
               place="bottom"> Marino, <title>Rime</title>, <hi rend="i">Parte Prima, Marittime,
                 sonetto </hi>[<hi rend="i">sopra in’Ostrica</hi>], 1º cuarteto, vv. 1-3, p. 52:
               ‘Esta que como un diminuto escollo, áspero y pétreo con su durísima corteza, Lilla, y
@@ -6056,7 +6046,7 @@
               río caliente» (Virgilio 2011: vol. III, 148).</note></l>
           <l>[…]</l>
           <l><hi rend="i">pectus abit: reddit specus</hi><note type="app" rend="I"> specus <hi
-                xml:lang="en" rend="i">em.</hi>: pectus <hi xml:lang="en" rend="i">CS</hi>
+                rend="i">em.</hi>: pectus <hi rend="i">CS</hi>
             </note><hi rend="i">atri vulneris undam</hi><note place="bottom"> Virgilio, <hi rend="i"
                 >Eneida</hi>, lib. IX, v. 700: «[<hi rend="i">uolat Itala cornus</hi> / <hi rend="i"
                 >aera per tenuem stomachoque infixa sub altum</hi> /] <hi rend="i">pectus abit;
@@ -6166,7 +6156,7 @@
           <l><hi rend="i">vibri per l’acque</hi><note place="bottom"> Marino, <title>Rime</title>,
                 <hi rend="i">Parte Prima...</hi>, <title>Rime</title><hi rend="i"> Marittime</hi>.
                 <hi rend="i">Sonetto Al pesce spada</hi>, 1º cuarteto, p. 46. Transcribimos el
-              cuarteto completo: «<hi xml:lang="it" rend="i">O terror d’ogni rete, e d’ogni nassa, /
+              cuarteto completo: «<hi rend="i">O terror d’ogni rete, e d’ogni nassa, /
                 Pesce guerrier, che la lucente spada / Vibri per l’acque, e de l’algosa strada /
                 Cerchi la parte più riposta, e bassa</hi>» (‘Oh terror de las redes y las nasas, pez
               guerrero que vibras por las aguas la espada luciente y del camino algoso buscas la
@@ -6195,8 +6185,8 @@
               Cuando divisan a una doncella incauta dirigiendo sus pasos tranquilos por la orilla
               húmeda, la raptan’. Se trata de dos elegías dedicadas al mismo asunto: <hi rend="i">Ad
                 puellam in litore ambulantem</hi>. La citada es la Elegía primera; la segunda
-              comienza: «<hi xml:lang="it" rend="i">Tu ne iterum demens hesterni oblita
-              pericli</hi>, / <hi xml:lang="it" rend="i">litora festino pergis adire gradu</hi>?»:
+              comienza: «<hi rend="i">Tu ne iterum demens hesterni oblita
+              pericli</hi>, / <hi rend="i">litora festino pergis adire gradu</hi>?»:
               ‘Tú que olvidaste, loca, los peligros de ayer, ¿de nuevo sigues dirigiéndote a la
               orilla con paso apresurado?’.</note>.</l>[f. 265 r] </quote>
 
@@ -6234,7 +6224,7 @@
                 rend="i"> em.</hi>: cantu <hi rend="i">CS</hi></note><hi rend="i">pares, nec dispare
               forma</hi>:</l>
           <l><hi rend="i">ambo genas leues, intonsi crinibus ambo</hi><note place="bottom">
-              Nemesiano, <hi rend="i">Égloga II</hi>, v. 16-17 (<hi xml:lang="en" rend="i">M.
+              Nemesiano, <hi rend="i">Égloga II</hi>, v. 16-17 (<hi rend="i">M.
                 Aurelii Olympii Nemesiani Carthaginiensis</hi> [...] Florentiae: Apud Philippum
               Iunctam, 1590: p. 20-21): ‘ambos de igual edad e iguales en el canto, no disímiles en
               la belleza: ambos tienen las mejillas tersas, el pelo largo’. Marco Aurelio Nemesiano
@@ -6282,15 +6272,15 @@
               de este plátano, afligidos, cantan alternativamente sus fatigas y sus solaces: Idas
               con su caramillo, Alcón con unos versos’.</note>.</l></quote>
         <p>[f. 265 v] <persName type="authority">Sannazaro</persName>: <quote><hi rend="i"
-              >commandando a Logisto</hi><note type="app" rend="I"> Logisto <hi xml:lang="fr"
-                rend="i">em.</hi>: Logistillo <hi xml:lang="fr" rend="i">CS</hi></note><hi rend="i"
-              >che cominciasse et</hi><note type="app" rend="I"> et <hi xml:lang="fr" rend="i"
-                >em.</hi>: &amp;ª <hi xml:lang="fr" rend="i">CS</hi></note><hi rend="i">ad Elpino,
+              >commandando a Logisto</hi><note type="app" rend="I"> Logisto <hi
+                rend="i">em.</hi>: Logistillo <hi rend="i">CS</hi></note><hi rend="i"
+              >che cominciasse et</hi><note type="app" rend="I"> et <hi rend="i"
+                >em.</hi>: &amp;ª <hi rend="i">CS</hi></note><hi rend="i">ad Elpino,
               che alternando a vicenda</hi><note type="app" rend="I"> vicenda <hi rend="i">em.</hi>:
               vincenda <hi rend="i">CS</hi></note><hi rend="i">, rispondesse</hi><note
               place="bottom"> Sannazaro, <title>Arcadia</title>,<hi rend="i"> Prosa</hi> 4 (Vinegia:
               apresso Gabriel Giolito de Ferrari, 1567, p. 47). Transcribimos el fragmento
-              correspondiente: «<hi xml:lang="it" rend="i">El cossi detto, fe’ cenno ad Ophelia che
+              correspondiente: «<hi rend="i">El cossi detto, fe’ cenno ad Ophelia che
                 sonasse la sampognia, comandando ad Logisto che cominciasse et a Elpino che,
                 alternando ad vicenda, rispondesse</hi>»: 'Y dicho esto, hizo seña a Ofelia que
               tocase la zampoña, mandando a Logisto que empezase y a Elpino, que alternando por
@@ -6385,12 +6375,12 @@
         <p>El mismo, lib. 7 <title>Eneida</title>:</p>
         <quote><l><hi rend="i">atque ossibus implicat ignem</hi><note place="bottom"> Virgilio,
                 <title>Eneida</title>, lib. VII, v. 355: «[<hi rend="i">ac dum prima lues udo
-                sublapsa veneno pertemptat / sensus</hi>] <hi xml:lang="it" rend="i">atque ossibus
+                sublapsa veneno pertemptat / sensus</hi>] <hi rend="i">atque ossibus
                 implicat ignem</hi>»: ‘y mientras el primer contagio resbalando con húmedo veneno
               perturba el sentido y hace penetrar el fuego en los huesos’.</note>.</l></quote>
         <p>y lib. 4 <title>Eneida</title>:</p>
         <quote><l><hi rend="i">est mollis flamma medullas</hi><note place="bottom"> Virgilio,
-                <title>Eneida</title>, lib. IV, v. 66: «<hi xml:lang="it" rend="i">est mollis flamma
+                <title>Eneida</title>, lib. IV, v. 66: «<hi rend="i">est mollis flamma
                 medullas</hi>»: ‘tiene la llama metida en las médulas’.</note>.</l></quote>
         <p><persName type="authority">Catulo</persName>:</p>
         <quote><l><hi rend="i">ignis mollibus ardet in medullis</hi><note place="bottom"> Catulo,
@@ -6408,7 +6398,7 @@
               target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.556"
                 ><l rend="center">Las rugosas veneras<note place="bottom">
               OC264C.556</note></l></ref></quote></head>
-        <p>Las conchas cuyas canales<note place="bottom"> ‘canal’: fem. en <hi xml:lang="fr"
+        <p>Las conchas cuyas canales<note place="bottom"> ‘canal’: fem. en <hi
               rend="i">Aut.</hi></note> parecen rugas.</p>
       </div>
       <div>
@@ -6422,7 +6412,7 @@
             capítulos 36 a 39.</note>. Llámala tirio veneno imitando a <persName type="authority"
             >Claudiano</persName>
           <title>in Epigramma de Phoenice</title>: <note place="margin" n="I">
-            <hi xml:lang="it" rend="i">Servus in schedis Danielis explicat cur purpura venenum
+            <hi rend="i">Servus in schedis Danielis explicat cur purpura venenum
               dicatur.</hi>
           </note>
           <note place="bottom"> El comentario al que se refiere la anotación al margen parece ser el
@@ -6437,14 +6427,14 @@
               maiores fuisse constat. Iuvenalis. “Peregrina et ignota nobis ad scelus atque nefas
               quaecumque est purpura ducit”</hi>» (‘Púrpura. Consta que entre nuestros antepasados
             fue causa de vicio y deshonor. Juvenal: ‘Extranjera e ignota entre nosotros, / sea lo
-            que sea, la púrpura incita al crimen y a la impiedad’’). Véase <hi xml:lang="en"
-              rend="i">Pub. Virgilii Maronis</hi> [...] <hi xml:lang="en" rend="i">Et in ea, Mauri
+            que sea, la púrpura incita al crimen y a la impiedad’’). Véase <hi
+              rend="i">Pub. Virgilii Maronis</hi> [...] <hi rend="i">Et in ea, Mauri
               Servii Honorati</hi> [...] <hi rend="i">Ex Bibliotheca Petri Danielis</hi> [...]…, p.
             120 y p. 583. Los <hi rend="i">Scholia</hi> de Servio fueron editados por P. Daniel en
             1600, tomando el nombre de <hi rend="i">Scholia Danielina</hi>. Se trata de una edición
             aumentada (<hi rend="i">Servius auctus</hi>) posterior a Servio. </note></p>
         <quote><l><hi rend="i">tyrio pinguntur crura veneno</hi><note place="bottom"> Claudiano,
-                <title>Epigrammata</title>, <hi xml:lang="it" rend="i">Phoenix</hi>., v. 20: «sus
+                <title>Epigrammata</title>, <hi rend="i">Phoenix</hi>., v. 20: «sus
               patas están teñidas de tirio veneno» (Claudiano 1993: vol. II, 278).
           </note>.</l></quote>
         <p>Y <persName type="authority">Virgilio</persName>, lib. 2 <title>Geórgicas</title>:</p>
@@ -6662,8 +6652,8 @@
               aqua inerat</hi>»: «Sobre un cristal que contenía una gota de agua» (Claudiano 1993:
             vol. II, 301).</note>. <persName type="authority">Séneca</persName> siente lo mismo,
           lib. 3 <title>Naturalium quaestionum</title><note place="bottom"> Seneca, <hi
-              xml:lang="fr" rend="i">Naturalium Quaestionum</hi>, lib. III, cap. 25, 10: «<hi
-              xml:lang="fr" rend="i">Quis non grauissimas esse aquas credat quae in crystallum
+              rend="i">Naturalium Quaestionum</hi>, lib. III, cap. 25, 10: «<hi
+              rend="i">Quis non grauissimas esse aquas credat quae in crystallum
               coeunt? Contra autem est: tenuissimis enim hoc euenit, quas frigus ob ipsam tenuitatem
               facillime gelat</hi> [...]»: ‘¿Quién no creería que el agua contenida en el cristal es
             muy pesada? Pero sucede todo lo contrario, pues éste procede de aguas muy tenues que el
@@ -6676,7 +6666,7 @@
             vidrio y esas piedras que se llaman fusibles’.</note> y <persName type="authority"
             >Tebeto</persName>, [f. 268 r] lib. 5 <title>Cosmographie</title>, c. 5, que se ha de
           contar entre los minerales, y esta es opinión más cierta<note place="bottom">
-            <hi xml:lang="fr" rend="i">La Cosmographie Universelle d’André Thevet Cosmographe du
+            <hi rend="i">La Cosmographie Universelle d’André Thevet Cosmographe du
               Roy.</hi> […] (Paris: chez Guillaume Chaudiere…, 1575). La referencia al cristal se
             encuentra en el Tomo II, libro XXIII, cap. 4 (f. 1015 v) y no en libro V, cap. 5, como
             figura en el manuscrito. André de Thevet (1516-1590) fue un explorador, escritor y
@@ -6704,10 +6694,10 @@
                 etiam</hi>) y el padre La Cerda prefiere la segunda lección, que es también la que
               retienen las ediciones modernas. La discrepancia prueba por lo demás que la versión de
               Virgilio que manejaba DR en ese momento de sus anotaciones no era la edición del
-              jesuita. Transcribimos su comentario sobre esta variante textual: «<hi xml:lang="it"
+              jesuita. Transcribimos su comentario sobre esta variante textual: «<hi
                 rend="i">Sic legendum, etiam in primo versu cum doctis omnibus. Quin Lucas Frut.
                 lib. 1. Veris . c. 2 Pierium reprehendit, qui legit</hi> Pan Deus, Arcadia mecum si
-              iudice certet<hi xml:lang="fr" rend="i">. Nam sic (ait) languida efficitur
+              iudice certet<hi rend="i">. Nam sic (ait) languida efficitur
                 sententia</hi>» (P<hi rend="i">. Virgilii Maronis Bucolica et Georgica</hi>…, p. 78)
               ‘Léase así: <hi rend="i">etiam</hi> en el primer verso según opinión de todos los
               doctos’.</note>.</l></quote>
@@ -6716,11 +6706,11 @@
         <quote><l><hi rend="i">quae digna formae laus erit igneae</hi>? </l>
           <l><hi rend="i">te Leda mallet quam dare Castorem.</hi></l>
           <l><hi rend="i">Praefert Achilli te proprio</hi><note type="app" rend="I"> proprio <hi
-                xml:lang="en" rend="i">em.</hi>: propio <hi xml:lang="en" rend="i">CS</hi></note><hi
+                rend="i">em.</hi>: propio <hi rend="i">CS</hi></note><hi
               rend="i">Thetis</hi></l>
           <l><hi rend="i">victum fatetur Delos Apollinem</hi></l>
-          <l><hi rend="i">credit</hi><note type="app" rend="I"> credit <hi xml:lang="en" rend="i"
-                >em.</hi>: gedit <hi xml:lang="en" rend="i">CS</hi></note><hi rend="i"> minorem
+          <l><hi rend="i">credit</hi><note type="app" rend="I"> credit <hi rend="i"
+                >em.</hi>: gedit <hi rend="i">CS</hi></note><hi rend="i"> minorem
               Lydia liberum</hi><note place="bottom"> Claudiano, <hi rend="i">Fescennina de nuptiis
                 Honorii Augusti</hi>, v. 5-9: «¿qué alabanza será digna de tu resplandeciente
               belleza? Leda hubiera preferido darte a luz a ti mejor que a Cástor; Tetis te antepone
@@ -6828,14 +6818,14 @@
                 stillatim fundit in terram, verum dentium / Multum plangit candorem anhelitu
                 fervido</hi>»: ‘Él derrama espuma en tierra, gota a gota; de sus dientes brota gran
               cantidad de humor blanco en un hálito férvido’. Opiano es el nombre del autor de dos
-              poemas didácticos: <hi xml:lang="it" rend="i">Cinegética</hi> o <hi xml:lang="it"
-                rend="i">De la Caza</hi> y <hi xml:lang="it" rend="i">Haliéutica</hi> o <hi
-                xml:lang="it" rend="i">De la Pesca</hi>, aunque las biografías conservadas, las
+              poemas didácticos: <hi rend="i">Cinegética</hi> o <hi
+                rend="i">De la Caza</hi> y <hi rend="i">Haliéutica</hi> o <hi
+                rend="i">De la Pesca</hi>, aunque las biografías conservadas, las
               dedicatorias y el contenido de los poemas inducen a pensar que se trata de dos autores
-              distintos. Las <hi xml:lang="it" rend="i">Haliéuticas</hi> de Opiano de Cilicia está
+              distintos. Las <hi rend="i">Haliéuticas</hi> de Opiano de Cilicia está
               considerado el poema didáctico en lengua griega más importante de la época imperial.
               Compuesto hacia el año 180 d.C. y dedicado a Marco Aurelio y a su hijo Cómodo, tuvo
-              gran éxito e influyó en otras composiciones didácticas, como las <hi xml:lang="it"
+              gran éxito e influyó en otras composiciones didácticas, como las <hi
                 rend="i">Cinegéticas</hi> de Opiano de Apamea, compuestas pasado el año 198 d.C. y
               dedicadas a Caracalla. Sin embargo, se debe tener en cuenta que durante el
               Renacimiento, ambas obras se editaron juntas y se consideraba que estaban escritas por
@@ -6935,9 +6925,9 @@
             >Bercoreo</persName> in <title>Reductorio morali</title>, lib. 11, c. 64: <quote><hi
               rend="i">sunt rami eius sub aqua albi et molles, qui exinde extracti durescunt et
               rubescunt</hi><note place="bottom">
-              <hi xml:lang="fr" rend="i">Reductorii Moralis Fratris Petri Berchorii libri
+              <hi rend="i">Reductorii Moralis Fratris Petri Berchorii libri
                 quattuordecim</hi> (Parrissiis: apud Claudium Cheuallon, 1521), lib. XI, cap. 64, f.
-              CCXLVII. <hi xml:lang="it" rend="i">De lapide corallio</hi>. En la versión consultada,
+              CCXLVII. <hi rend="i">De lapide corallio</hi>. En la versión consultada,
               los verbos finales de la cita van en orden inverso: «<hi rend="i">rubesiunt et
                 durescunt</hi>». Petrus Berchorius (ca. 1290-1362), también conocido como Pierre
               Bersuire, fue un monje francés que tradujo a Tito Livio, además de escribir, entre
@@ -6980,9 +6970,9 @@
         <quote><l><hi rend="i">et primum pedibus talaria nectit</hi></l>
           <l><hi rend="i">aurea, quae sublimem alis, siue aequora supra</hi>, </l>
           <l><hi rend="i">seu terram, rapido pariter cum flamine portant</hi><note place="bottom">
-              Virgilio, <hi xml:lang="it" rend="i">Eneida</hi>, lib. IV, v. 239-241: «[<hi
-                xml:lang="it" rend="i">ille patris magni parere parabat / imperio</hi>:] <hi
-                xml:lang="it" rend="i">et primum pedibus talaria nectit / aurea, quae sublimem alis,
+              Virgilio, <hi rend="i">Eneida</hi>, lib. IV, v. 239-241: «[<hi
+                rend="i">ille patris magni parere parabat / imperio</hi>:] <hi
+                rend="i">et primum pedibus talaria nectit / aurea, quae sublimem alis,
                 siue aequora supra, / seu terram, rapido pariter cum flamine portant</hi>»: «Aquél
               se disponía a obedecer la orden de su gran / padre, y primero ata a sus pies los
               talares / de oro, que con sus alas lo llevan en volandas ya vaya / sobre el mar ya
@@ -7073,7 +7063,7 @@
           <l><hi rend="i">fu da mille donzelle e mille amanti.</hi></l>
           <l><hi rend="i">Così trapassa al trapassar d’un giorno</hi></l>
           <l><hi rend="i">della vita mortale il fiore e il verde;</hi></l>
-          <l>[…]<note place="bottom"> Faltan dos versos: «<hi xml:lang="it" rend="i">nè, perchè
+          <l>[…]<note place="bottom"> Faltan dos versos: «<hi rend="i">nè, perchè
                 faccia indietro april ritorno, / si rinfiora ella mai nè si
             rinverde</hi>».</note></l>
           <l><hi rend="i">Coglian la rosa in sul mattino adorno</hi>, </l>
@@ -7094,13 +7084,13 @@
         <quote><l><hi rend="i">Godi mentre verdeggia</hi></l>
           <l><hi rend="i">in sua stagione Aprile.</hi></l>
           <l><hi rend="i">Questo, che hor si lampeggia</hi>,</l>
-          <l><hi rend="i">viuo spirto</hi><note type="app" rend="I"> spirto <hi xml:lang="en"
-                rend="i">em.</hi>: spirtu <hi xml:lang="en" rend="i">CS</hi></note><hi rend="i"
+          <l><hi rend="i">viuo spirto</hi><note type="app" rend="I"> spirto <hi
+                rend="i">em.</hi>: spirtu <hi rend="i">CS</hi></note><hi rend="i"
               >gentile</hi></l>
           <l><hi rend="i">conuien che cangi stile</hi>: </l>
           <l><hi rend="i">e quegli occhi homicidi</hi></l>
-          <l><hi rend="i">fien sepolchri</hi><note type="app" rend="I"> sepolchri <hi xml:lang="en"
-                rend="i">em.</hi>: sepulchri <hi xml:lang="en" rend="i">CS</hi></note><hi rend="i"
+          <l><hi rend="i">fien sepolchri</hi><note type="app" rend="I"> sepolchri <hi
+                rend="i">em.</hi>: sepulchri <hi rend="i">CS</hi></note><hi rend="i"
               >d’Amor, come son nidi</hi></l>
           <l>[…]</l>
           <l><hi rend="i">Del tempo, che lo strugge</hi></l>
@@ -7113,7 +7103,7 @@
           <l><hi rend="i">che pentimento, e duol ne la membranza</hi><note type="app" rend="I">
               membranza <hi rend="i">em.</hi>: lembranza <hi rend="i">CS</hi></note><note
               place="bottom"> Marino, <title>Rime..</title><hi rend="i">. Seconda Parte</hi>, Canz.
-              X, <hi xml:lang="it" rend="i">Bellezza caduca</hi>, estancias 16 y 19, p. 84-88: ‘Goza
+              X, <hi rend="i">Bellezza caduca</hi>, estancias 16 y 19, p. 84-88: ‘Goza
               mientras está verde abril en su estación. Este que ahora relampaguea, vivo espíritu
               gentil, tendrá que cambiar de estilo, y esos ojos homicidas serán sepulcros de amor,
               como hoy son nidos. Del tiempo que lo deshace el bello rostro se vuelve trofeo;
@@ -7145,10 +7135,10 @@
             se extiende también a los «elegantísimos poetas italianos».</note>. El Marino
             soneto<note type="app" rend="I"> soneto <hi rend="i">em.</hi>: soneto soneto <hi
               rend="i">CS</hi></note>
-          <hi rend="i">Andianne</hi><note type="app" rend="I"> Andianne <hi xml:lang="en" rend="i"
-              >em.</hi>: Andiane <hi xml:lang="en" rend="i">CS</hi></note>:</p>
-        <quote><l><hi rend="i">Purche</hi><note type="app" rend="I"> Purché <hi xml:lang="en"
-                rend="i">em.</hi>: por che <hi xml:lang="en" rend="i">CS</hi></note><hi rend="i">tu
+          <hi rend="i">Andianne</hi><note type="app" rend="I"> Andianne <hi rend="i"
+              >em.</hi>: Andiane <hi rend="i">CS</hi></note>:</p>
+        <quote><l><hi rend="i">Purche</hi><note type="app" rend="I"> Purché <hi
+                rend="i">em.</hi>: por che <hi rend="i">CS</hi></note><hi rend="i">tu
               da le rose almi soaui</hi></l>
           <l><hi rend="i">delle tua labbra poi sugger mi lassi</hi></l>
           <l><hi rend="i">quel mel, cui cedon d’Hibla i biondi faui</hi><note place="bottom">
@@ -7452,7 +7442,7 @@
               <l rend="center">coyundas impedidas<note place="bottom">
               OC264C.680-681</note></l></ref></quote></head>
         <p>El mismo <persName type="authority">Ovidio</persName> hablando del carro del Sol:</p>
-        <p/>
+        
         <quote><l><hi rend="i">aurea summae</hi></l>
           <l><hi rend="i">curuatura rotae, radiorum argenteus ordo;</hi></l>
           <l><hi rend="i">per iuga chrysolithi positaeque ex ordine gemmae</hi><note place="bottom">
@@ -7583,7 +7573,7 @@
         <p>[f. 274 v] Y de esta fábula <persName type="authority">Varrón</persName>, lib. 2
             <title>De re rustica</title><note place="bottom"> La referencia a Varrón está sacada de
             la nota del padre La Cerda a los versos 271-275 de las <hi rend="i">Geórgicas</hi> de
-            Virgilio. El texto aludido es el siguiente: «<hi xml:lang="it" rend="i">In fetura res
+            Virgilio. El texto aludido es el siguiente: «<hi rend="i">In fetura res
               incredibilis est in Hispania, sed est vera, quod in Lusitania ad Oceanum in ea
               regione, ubi est oppidum Olyssipo monte Tagro, quaedam e vento concipiunt certo
               tempore equae</hi>» (comprobada en <hi rend="i">Scriptores Rei Rusticae veteres latini
@@ -7599,8 +7589,8 @@
               cum caeteris omnibus lapsus, quod Lusitanos aut Calleicos equos pernicissimos esse
               Hispanorum omnium crediderit, cum tamen certo certius sit Boeticos, Cordubenses
               praecipue (dicto absit inuidia), reliquos omnes et pedum velocitate</hi><note
-              type="app" rend="I"> et pedum velocitate <hi xml:lang="fr" rend="i">em.</hi>:
-              velocitate pedum <hi xml:lang="fr" rend="i">CS</hi></note><hi rend="i">et corporis
+              type="app" rend="I"> et pedum velocitate <hi rend="i">em.</hi>:
+              velocitate pedum <hi rend="i">CS</hi></note><hi rend="i">et corporis
               pulchritudine longe anteire</hi><note place="bottom">Francisco Fernández de Córdoba,
                 <title>Didascalia Multiplex</title>, ed. cit., p. 384.: ‘sin embargo cayó en el
               error común a muchos de creer que los caballos lusitanos o gallegos son los mejores de
@@ -7669,10 +7659,10 @@
           c. 25: <quote><hi rend="i">Ordo autem naturae annuus ita se habet: primus est conceptus
               flare incipiente uento Fauonio circiter fere idus Februarii</hi><note type="app"
               rend="I"> Mantenemos la transcripción del copista que ofrece variantes en relación con
-              el texto de Plinio de las ediciones modernas: <hi xml:lang="it" rend="i">ex a.d. fere
-                VI idus Febr.</hi> ('a partir del VI de los <hi xml:lang="it" rend="i">Idus</hi> de
+              el texto de Plinio de las ediciones modernas: <hi rend="i">ex a.d. fere
+                VI idus Febr.</hi> ('a partir del VI de los <hi rend="i">Idus</hi> de
               febrero'). Por su parte, Pedro Conde señala que en ediciones de la época se lee <hi
-                xml:lang="it" rend="i">circiter fere sextum idus</hi>.</note><hi rend="i">;hoc enim
+                rend="i">circiter fere sextum idus</hi>.</note><hi rend="i">;hoc enim
               maritantur uiuescentiae terra, quo etiam equae in Hispania, ut diximus. Hic est
               genitalis spiritus mundi, a fouendo dictus, ut quidam existimauere. Flat ab occasu
               aequinoctiali uer inchoans.Catulicionem rusticiuocant, gestiente natura semina
@@ -7749,23 +7739,23 @@
           modernos con diligencia y cuidado han investigado muchas especies suyas, poniéndoles
           varios nombres, como notó bien nuestro <persName type="authority">Antonio de
             Lebrija</persName>, in prologo ad <title>Dictionarium</title><note type="app" rend="I">
-            Dictionarium <hi xml:lang="en" rend="i">em.</hi>: Diccionarium <hi xml:lang="en"
+            Dictionarium <hi rend="i">em.</hi>: Diccionarium <hi
               rend="i">CS</hi></note>: <quote><hi rend="i">Accipitres eos, qui sic proprie</hi><note
-              type="app" rend="I"> proprie <hi xml:lang="en" rend="i">em.</hi>: propie <hi
-                xml:lang="en" rend="i">CS</hi></note><hi rend="i">appellantur et quibus tempestati
+              type="app" rend="I"> proprie <hi rend="i">em.</hi>: propie <hi
+                rend="i">CS</hi></note><hi rend="i">appellantur et quibus tempestati
               nostri aucupes utuntur, in duo genera distinxit Aristoteles, autor omnium
               diligentissimus, atque humipetas et sublimipetas appellat, nos açores et halcones
               dicimus. Sed quod illis temporibus ars haec accipitraria nondum erat inuenta, neque
-              accipitrum usus adeo</hi><note type="app" rend="I"> adeo <hi xml:lang="en" rend="i"
-                >em.</hi>: adhui <hi xml:lang="en" rend="i">CS</hi></note><hi rend="i">frequens,
+              accipitrum usus adeo</hi><note type="app" rend="I"> adeo <hi rend="i"
+                >em.</hi>: adhui <hi rend="i">CS</hi></note><hi rend="i">frequens,
               satis habuerunt illos ex ratione volatus in duo genera partiri. Nostri vero, quibus
               haec ars est in maximo honore, complures in utroque genere differentias fecerunt
               gavilanes, azores, girifaltes</hi><note type="app" rend="I"> girifaltes <hi
-                xml:lang="en" rend="i">em.</hi>: girofaltes <hi xml:lang="en" rend="i"
+                rend="i">em.</hi>: girofaltes <hi rend="i"
               >CS</hi></note>, <quote><hi rend="i">neblíes, sacres, alfaneques, baharíes, tagarotes,
                 tum plumarum ratione, tum</hi></quote> [f. 276 r] <quote><hi rend="i">nascendi
                 ordine, tum patriae, praedae, victus morumque varietate
-              distinguentes</hi></quote><note place="bottom"> Nebrija, <hi xml:lang="en" rend="i"
+              distinguentes</hi></quote><note place="bottom"> Nebrija, <hi rend="i"
                 >Dictionarium Aelii Antonii Nebrissensis, Grammatici, Chronographi Regii</hi>, [...]
               (Apud inclytam Granatam, s.n. 1552), <hi rend="i">Praefatio</hi>, f. 2 v – 3 r. Como
               la lectura resulta muy difícil y no es sencillo reproducir las abreviaturas, hemos
@@ -7796,8 +7786,8 @@
           <l><hi rend="i">col piedi</hi><note type="app" rend="I"> piedi <hi rend="i">em.</hi>:
               piede <hi rend="i">CS</hi></note><hi rend="i">i lampi, i fulmini col morso</hi><note
               place="bottom">Marino, <title>Rime</title><hi rend="i">..., Parte Prima, Rime
-                Boscherecce</hi>, Soneto <hi xml:lang="it" rend="i">Lionzo quì, cui pari al dente,
-                al corso</hi> [<hi xml:lang="it" rend="i">In morte d’un Cane</hi>], 1º cuarteto, v.
+                Boscherecce</hi>, Soneto <hi rend="i">Lionzo quì, cui pari al dente,
+                al corso</hi> [<hi rend="i">In morte d’un Cane</hi>], 1º cuarteto, v.
               3-4, p. 99.</note>.</l></quote>
         <p><persName type="authority">Ovidio</persName>, lib. 8 <title>Metamorfosis</title>, dijo de
           un jabalí:</p>
@@ -8024,7 +8014,7 @@
             type="authority">Claudiano</persName>
           <hi rend="i">in Epigrama de Phoenice</hi>, donde describiéndolo dice:</p>
         <quote><l><hi rend="i">Tyrio pinguntur crura veneno</hi><note place="bottom"> Claudiano,
-                <title>Epigrammata</title>, <hi xml:lang="it" rend="i">Phoenix</hi>., v. 20. Aquí,
+                <title>Epigrammata</title>, <hi rend="i">Phoenix</hi>., v. 20. Aquí,
               DR repite la nota 95. </note>.</l></quote>
         <p>[f. 277 v]</p>
       </div>
@@ -8096,7 +8086,7 @@
           y natural, más hábil para cualquier acto de virtud, lo cual, también afirma <persName
             type="authority">Plinio</persName>, lib. 2, capite 78<note place="bottom"> Plinio,
               <title>Naturalis historiae</title>, lib. II, cap. 78. </note>.</p>
-        <p/>
+        
         <p>[f. 278 r]</p>
       </div>
       <div>
@@ -8127,10 +8117,10 @@
               Jerónimo de Osorio se lee ‘<hi rend="i">nec</hi>’.</note><hi rend="i">illum hostes
               metuent neque ciues amabunt; magnitudo enim animi sine moderatione furor immanis est
               et odium acerbum concitat; moderatio vero sine animi</hi><note type="app" rend="I">
-              animi <hi xml:lang="en" rend="i">add.</hi>
+              animi <hi rend="i">add.</hi>
             </note><hi rend="i">magnitudine negligentia quaedam est et dissolutio, et ideo non sine
-              ratione contemnitur</hi><note type="app" rend="I"> contemnitur <hi xml:lang="en"
-                rend="i">em.</hi>: comtenitur <hi xml:lang="en" rend="i">CS</hi></note>
+              ratione contemnitur</hi><note type="app" rend="I"> contemnitur <hi
+                rend="i">em.</hi>: comtenitur <hi rend="i">CS</hi></note>
             <note place="bottom">
               <hi rend="i">Hieronymi Osorii Lusitani, Episcopi Syluensis, De regis institutione et
                 disciplina</hi>, lib. IV (Olysipponae: Ex officina Ioannis Hispani, 1572, f. 117
@@ -8177,7 +8167,7 @@
         <p><persName type="authority">Claudiano</persName>, <title>De quarto Honorii</title>, paneg.
           4:</p>
         <quote><l><hi rend="i">spumosis morsibus aurum</hi></l>
-          <l><hi rend="i">fumat</hi><note place="bottom"> Claudiano, <hi xml:lang="it" rend="i"
+          <l><hi rend="i">fumat</hi><note place="bottom"> Claudiano, <hi rend="i"
                 >Panegyricus de quarto consulatu Honorii Augusti</hi>, v. 549-550: «el oro de su
               freno humea con sus espumeantes mordiscos» (Claudiano 1993: vol. I,
           231).</note>.</l></quote>
@@ -8185,7 +8175,7 @@
           giornata 5:</p>
         <quote><l><hi rend="i">E col fren d’oro al suo destrier spumante</hi></l>
           <l><hi rend="i">regger soleva il polveroso corso</hi><note place="bottom"> Torcuato Tasso,
-                <hi xml:lang="it" rend="i">Le sette giornate del mondo creato</hi>, V, 1508-1509 (In
+                <hi rend="i">Le sette giornate del mondo creato</hi>, V, 1508-1509 (In
               Milano: Appresso Girolamo Bordoni, &amp; Pietro Martire Locarni, 1608, p. 207): ‘Y con
               el freno de oro solía regir la carrera polvorosa de su espumeante
           corcel’.</note>.</l></quote>
@@ -8249,7 +8239,7 @@
               reddidit, per humentes campos quaedam nondum perfecta animalia, sed tum primum
               accipientia spiritum, et ex parte iam formata, ex parte adhuc terrea
               visuntur</hi><note place="bottom"> La indicación de la cita de Pomponio Mela es
-              errónea, pues se trata del lib. 1, c. 9 (<hi xml:lang="it" rend="i">Particularis Asiae
+              errónea, pues se trata del lib. 1, c. 9 (<hi rend="i">Particularis Asiae
                 descriptio. Aegyptus</hi> de <title>De situ orbis</title>, 1831: p. 12): ‘Esto es
               manifiesto porque, cuando cesó la inundación, y el río volvió a su cauce, por las
               llanuras humedecidas se vieron animales todavía no acabados, sino que acaban de
@@ -8311,10 +8301,10 @@
             palabra ‘<hi rend="i">arundine</hi>’, estableciendo una relación entre las cañas que
             crecen al borde de las aguas y las orlas que guarnecen las túnicas.</note>. <persName
             type="authority">Virgilio</persName>, lib. 3 <title>Geórgicas</title>:</p>
-        <quote><l><hi rend="i">Mincius</hi><note type="app" rend="I"> Mincius <hi xml:lang="fr"
-                rend="i">em.</hi>: Mintius <hi xml:lang="fr" rend="i">CS</hi></note><hi rend="i">,
-              et tenera</hi><note type="app" rend="I"> et tenera praetexit <hi xml:lang="fr"
-                rend="i">em.</hi>: et tenerus et teneras praetexit <hi xml:lang="fr" rend="i"
+        <quote><l><hi rend="i">Mincius</hi><note type="app" rend="I"> Mincius <hi
+                rend="i">em.</hi>: Mintius <hi rend="i">CS</hi></note><hi rend="i">,
+              et tenera</hi><note type="app" rend="I"> et tenera praetexit <hi
+                rend="i">em.</hi>: et tenerus et teneras praetexit <hi rend="i"
                 >CS</hi></note><hi rend="i">praetexit arundine ripas</hi><note place="bottom">
               Virgilio, <hi rend="i">Geórgicas</hi>, lib. III, v. 15: «[<hi rend="i">tardis ingens
                 ubi flexibus errat</hi>] / <quote><hi rend="i">Mincius,et tenera praetexit arundine
@@ -8372,13 +8362,13 @@
               153).</note>.</l></quote>
         <p><persName type="authority">Plutarco</persName>, <title>In vita Alexandri</title>:
               <quote><hi rend="i">aues similes nubibus</hi><note place="bottom"> Plutarco, <hi
-                xml:lang="it" rend="i">In vita Alexandri</hi>: ‘aves semejantes a nubes’. Tanto esta
+                rend="i">In vita Alexandri</hi>: ‘aves semejantes a nubes’. Tanto esta
               cita como la siguiente de Plinio están tomadas de la anotación del Padre La Cerda al
-              sintagma <hi xml:lang="it" rend="i">Facta nube</hi> del verso 254, del libro XII de la
-                <hi xml:lang="it" rend="i">Eneida</hi> (<hi xml:lang="it" rend="i">P. Virgilii
+              sintagma <hi rend="i">Facta nube</hi> del verso 254, del libro XII de la
+                <hi rend="i">Eneida</hi> (<hi rend="i">P. Virgilii
                 Maronis posteriores sex libri Aeneidos</hi>, p. 701). La referencia a Plutarco en
               las anotaciones a Virgilio aparece tanto en griego como en latín, y fueron comprobadas
-              en una edición de <hi xml:lang="it" rend="i">Vitae</hi> del siglo XIX (París:
+              en una edición de <hi rend="i">Vitae</hi> del siglo XIX (París:
               1877).</note></quote></p>
         <p><persName type="authority">Plinio</persName>, <hi rend="i">de cicadis</hi>:<note
             place="bottom"> En el manuscrito figura «<hi rend="i">de cicadis</hi>» (‘cigarras’)
@@ -8407,8 +8397,8 @@
             OC264C.915</note></l></ref></quote></head>
         <p>Muy sabido es llamar todos los escritores a los griegos mentirosos y engañosos, de aquí
             <persName type="authority">Virgilio</persName>, lib. 2 <title>Eneida</title>:</p>
-        <quote><l><hi rend="i">fallaces</hi><note type="app" rend="I"> fallaces <hi xml:lang="fr"
-                rend="i">em.</hi>: falaces <hi xml:lang="fr" rend="i">CS</hi></note><hi rend="i"
+        <quote><l><hi rend="i">fallaces</hi><note type="app" rend="I"> fallaces <hi
+                rend="i">em.</hi>: falaces <hi rend="i">CS</hi></note><hi rend="i"
               >Graios, simulataque dona Mineruae</hi><note place="bottom"> ‘los engañosos griegos,
               los dones simulados de Minerva’. El verso pertenece a un comentario sobre la obra de
               Virgilio probablemente procedente de un ejercicio escolar: <hi rend="i">Scholastici
@@ -8482,7 +8472,7 @@
               desidunt</hi><note place="bottom"> Seneca, <hi rend="i">Naturalium Quaestionum</hi>,
               lib. IV, c. 10: ‘Todo aire es más grueso cuando más cercano a la tierra. Como en el
               agua y en todo líquido la hez es lo que está más bajo, así en el aire, todas las
-              partes más espesas se depositan’ (en <hi xml:lang="en" rend="i">L. Annaei Senecae Pars
+              partes más espesas se depositan’ (en <hi rend="i">L. Annaei Senecae Pars
                 prima sive Opera Philosophica</hi>, 1830: p. 453).</note>.</quote></p>
         <p rend="right">Laudetur Christus</p>
       </div>
