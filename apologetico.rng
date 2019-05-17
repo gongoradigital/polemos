@@ -678,6 +678,8 @@ Zero width non joiner: x‌x‌x‌x‌x‌x‌x‌x‌x‌x
             <ref name="num"/>
             <ref name="ref"/>
             <ref name="indexable"/>
+            <ref name="quote-c"/>
+            <ref name="quote-p"/>
           </choice>
         </oneOrMore>
       </element>
