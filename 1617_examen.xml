@@ -125,7 +125,7 @@
       </div>
     <front>
       -->
-    <front>
+    <body>
       <div type="introduction">
         <head>Introducción</head>
         <div>
@@ -4946,8 +4946,6 @@
           </div>
         </div>
       </div>
-    </front>
-    <body>
       <div>
         <head>Examen del <hi rend="i">Antídoto</hi> o Apología por las <hi rend="i">Soledades</hi> de don Luis de
           Góngora contra el autor del <hi rend="i">Antídoto</hi></head>
