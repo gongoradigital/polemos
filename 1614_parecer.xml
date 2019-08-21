@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="apologetico.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1614_parecer">
+<TEI xml:lang="spa" xmlns="http://www.tei-c.org/ns/1.0" n="1614_parecer">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -57,7 +57,7 @@
         <date when="1614"/>
       </creation>
       <langUsage>
-        <language ident="es"/>
+        <language ident="spa"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -2286,7 +2286,7 @@
               arriba de las nubes. Por una ley de los dioses, la discordia conturba a los seres más
               pequeños; los grandes conservan la paz» (Lucano 1984: 68).</note>.</l>
         </quote>
-        <p rend="noindent">Y, si ya no es profanar la sagrada escritura (<foreign xml:lang="lat"
+        <p rend="noindent">Y, si ya no es profanar la sagrada escritura (<foreign 
             >quod absit a nobis<note place="bottom">Locución latina de autoría desconocida: «lejos
               de mí esta idea».</note></foreign>), está hecho vuestra merced <quote>«mons Dei <hi
               rend="n">(que en aquel lenguaje quiere decir altísimo, inaccesible)</hi> mons, in quo
@@ -2711,7 +2711,7 @@
                 transparens vocat: Graeci διαϕανές</hi>:». Conservo la puntuación del original,
               coherente con el corte realizado en el texto original.</note>.Talis esse debet oratio,
             etenim in obscura»</quote>
-          <quote xml:lang="lat">haeret animus, neque transmittit se ad rem quam significat; in
+          <quote>haeret animus, neque transmittit se ad rem quam significat; in
             perspicua nihil obstat menti nostrae, quin aciem suam ad rem usque ipsam
             appellat»</quote><note place="margin">cap 1º</note>
           <note place="bottom">Julio César Escalígero, <hi rend="i">Poetices libri VII</hi>, 1561,
@@ -3594,9 +3594,9 @@
             n="f. 141v"/> reprehende <persName type="authority" key="Escalígero" precision="4"
             unit="quote" quantity="2">César Escalígero</persName> en los
             <title>Endecasílabos</title> del <persName type="authority" key="Bembo, Pietro"
-            precision="1">Bembo</persName> la repetición de <quote xml:lang="lat">«elegancias,
+            precision="1">Bembo</persName> la repetición de <quote>«elegancias,
             facetias, lepores»</quote>, y en los <title>Epitafios</title>
-          <quote xml:lang="lat">«charites, veneres, cupidines, lirios»</quote><note place="bottom"
+          <quote>«charites, veneres, cupidines, lirios»</quote><note place="bottom"
             >Escalígero, <title>Poetices libri VII</title>, 1561, p. 309, C1. El abad de Rute
             parafrasea y traduce un fragmento del texto de Escalígero dedicado al defecto, común
             entre los poetas, de repetir de forma excesiva sintagmas, sean imitados o no de Cicerón:

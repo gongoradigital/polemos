@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="apologetico.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1614_advertencias">
+<TEI xml:lang="spa" xmlns="http://www.tei-c.org/ns/1.0" n="1614_advertencias">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -56,7 +56,7 @@
         <date when="1614"/>
       </creation>
       <langUsage>
-        <language ident="es"/>
+        <language ident="spa"/>
       </langUsage>
     </profileDesc>
     <!--
@@ -109,7 +109,6 @@
       -->
   </teiHeader>
   <text>
-    
     <body>
       <div type="introduction">
         <head>Introducción</head>
@@ -1762,7 +1761,7 @@
               los grandes comentarios aristotélicos, el de Francesco Robortello <hi rend="i">In
                 librum Aristotelis De Arte Poetica Explicationes</hi>:</p>
             <quote>
-              <p><hi xml:lang="fr" rend="i">Primus imitandi modus est, qualis visitur in tragoedia,
+              <p><hi  rend="i">Primus imitandi modus est, qualis visitur in tragoedia,
                   et comoedia. Secundus est, qualis olim fuit in poesi dithyrambica, nam in ea,
                   omnia narrabat ipse poeta, neque alios faciebat loquentes. Tertius modus est qui
                   conflatur ex superioribus duobus, qualis in epico, seu heroico poemate
@@ -2639,13 +2638,13 @@
             <p rend="noindent sc">Javoleno Prisco</p>
             <p/>
             <p rend="noindent sc">Jerónimo, san</p>
-            <bibl>–, <hi xml:lang="en" rend="i">Comentarii in librum Job. Prologus</hi>.</bibl>
+            <bibl>–, <hi  rend="i">Comentarii in librum Job. Prologus</hi>.</bibl>
             <p rend="noindent"><hi rend="sc">Lipsio</hi>, Justo:</p>
             <bibl>–, <hi rend="i">Diálogos</hi>.</bibl>
             <p rend="noindent"><hi rend="sc">Minturno</hi>, Antonio Sebastiano:</p>
             <bibl>–, <hi rend="i">L’Arte Poetica</hi>, Venetia: Gio. Andrea Valuassori, 1564.</bibl>
             <p rend="noindent"><hi rend="sc">Seneca</hi>, Lucio Anneo:</p>
-            <bibl>–, <hi xml:lang="en" rend="i">Epistulae ad Lucilium</hi>.</bibl>
+            <bibl>–, <hi  rend="i">Epistulae ad Lucilium</hi>.</bibl>
             <p rend="noindent"><hi rend="sc">Tasso</hi>, Torquato:</p>
             <bibl>–, <ref target="https://books.google.es/books?id=D-ATAAAAQAAJ"><hi rend="i"
                   >Discorsi […] dell’Arte Poetica, et in particolare del Poema Heroico
@@ -2735,7 +2734,7 @@
               <bibl>–, <title>Emblemas morales</title>, Madrid: Luis Sánchez, 1610: véase <hi
                   rend="sc">Peñasco González</hi>, Sandra María.</bibl>
               <p rend="noindent"><hi rend="i"><hi rend="sc">Digesto</hi></hi>:</p>
-              <bibl><title xml:lang="en">–, Digestorum seu Pandectarum Libri Quinquaginta</title>,
+              <bibl><title >–, Digestorum seu Pandectarum Libri Quinquaginta</title>,
                 Florentia: In officina Laurentii Torrentini ducalis Typographi, 1553.</bibl>
               <bibl><title>–</title>, <ref
                   target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433008817607;view=1up;seq=9"
@@ -3264,7 +3263,7 @@
                     >Frases y expresiones latinas de uso actual, con un anexo sobre las
                     instituciones jurídicas romanas</hi></ref>, Bilbao, Universidad de Deusto, 2006. </bibl>
               <p rend="noindent"><hi rend="sc">Siecienski</hi>, A. Edward:</p>
-              <bibl>–, <title xml:lang="en">The Filioque: History of a Doctrinal Controversy, Oxford
+              <bibl>–, <title >The Filioque: History of a Doctrinal Controversy, Oxford
                   Studies in Historical Theology</title>, New York, Oxford University Press,
                 2010.</bibl>
               <p rend="noindent"><hi rend="sc">Silva y Mendoza</hi>, Diego, Conde de Salinas:</p>
@@ -3279,7 +3278,7 @@
               <bibl>–, «Cervantes y el entorno humanista de los Ramírez de Prado», <title>Edad de
                   Oro</title>, XXXV, 2016, p. 97-120.</bibl>
               <p rend="noindent"><hi rend="sc">Spingarn</hi>, Joel Elias:</p>
-              <bibl>–<title xml:lang="en">, A History of Literary Criticism in the
+              <bibl>–<title >, A History of Literary Criticism in the
                   Renaissance</title> (1908, 2ª ed.); reimpr. Westport, Greenwood Press Publishers,
                 1976.</bibl>
               <p rend="noindent"><hi rend="sc">Suárez de Figueroa</hi>, Cristóbal:</p>
@@ -3322,7 +3321,7 @@
                     >Aforismos legales o diccionario de las reglas del Derecho acerca de todas las
                     materias de este</hi></ref>, Madrid, Compañía Tipográfica, 1841. </bibl>
               <p rend="noindent"><hi rend="sc">Weinberg</hi>, Bernard:</p>
-              <bibl>–, <title xml:lang="en">A History of Literary Criticism in the Italian
+              <bibl>–, <title >A History of Literary Criticism in the Italian
                   Renaissance</title>, The University Chicago Press, 1961.</bibl>
               <bibl>–, <title>Trattati di Poetica e Retorica del’500</title>, Bari, Laterza,
                 1970-1974, 4 vols.</bibl>
@@ -3431,7 +3430,7 @@
               inter vos, nisi Jesum Christum, et hunc crucifixum. Et ego in infirmitate, et timore,
               et tremore multo fui apud vos: et sermo meus, et praedicatio mea non in
               persuasibilibus humanae sapientiae verbis</hi>, sed in ostensione spiritus et
-            virtutis» (<hi xml:lang="en" rend="i">1 Corintios</hi> 2:1-4. <hi rend="i">Biblia sacra
+            virtutis» (<hi  rend="i">1 Corintios</hi> 2:1-4. <hi rend="i">Biblia sacra
               Vulgata</hi>, en línea) («Así que, hermanos, cuando yo fui a ustedes para anunciarles
             el misterio de Dios, no fui con excelencia de palabras o de sabiduría. Porque me propuse
             no saber nada entre ustedes, sino a Jesucristo, y a él crucificado. Y estuve entre
@@ -4586,7 +4585,7 @@
             suele utilizar Almansa en estos casos), resulta muy difícil localizar la cita.
             Improductivas resultan las búsquedas en la recopilación de la jurisprudencia romana que
             constituye el <hi rend="i">Digesto</hi> de Justiniano del 533 d.C., cuya mejor edición
-            humanística es <hi xml:lang="en" rend="i">Digestorum seu Pandectarum Libri
+            humanística es <hi  rend="i">Digestorum seu Pandectarum Libri
               Quinquaginta</hi> (Florentia: In officina Laurentii Torrentini ducalis Typographi,
             1553). He consultado una edición francesa del siglo XIX del <hi rend="i">Digesto</hi>
               (<hi rend="i">Les cinquante livres du Digeste ou des Pandectes de l’empereur Justinien
