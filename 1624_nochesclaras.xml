@@ -38,10 +38,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><hi rend="i">Noches claras</hi>, En Madrid, por la viuda de Cosme Delgado, 1624. BNE,
-          R. 5924.</bibl>
-        <bibl><hi rend="i">Noches claras, Divinas y humanas flores</hi>, en la officina de Antonio
-          Craesbeeck de Mello Impressor de S. Alteza. Año 1674. BNE, R. 1098 P.</bibl>
+        <bibl><title><hi rend="i">Noches claras</hi></title>, En <pubPlace>Madrid</pubPlace>, por la <publisher>viuda de Cosme Delgado</publisher>, <date>1624</date>. BNE, R. 5924.</bibl>
+        <bibl><title><hi rend="i">Noches claras, Divinas y humanas flores</hi></title>, <pubPlace>Madrid</pubPlace>, en la officina de <publisher>Antonio Craesbeeck</publisher> de Mello Impressor de S. Alteza. Año <date>1674</date>. BNE, R. 1098 P.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>

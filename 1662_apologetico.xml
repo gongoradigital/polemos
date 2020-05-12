@@ -43,9 +43,14 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><hi rend="i">Apologético en favor de don Luis de Góngora, príncipe de los poetas
-            líricos de España, contra Manuel de Faría y Sousa, caballero portugués</hi>, Lima: Juan
-          de Quevedo y Zárate, 1662, NYPL, KE 1662</bibl>
+        <bibl><title><hi rend="i">Apologético en favor de don Luis de Góngora, príncipe de los
+              poetas líricos de España, contra Manuel de Faría y Sousa, caballero
+            portugués</hi></title>, <pubPlace>Lima</pubPlace>: <publisher>Juan de Quevedo y
+            Zárate</publisher>, <date>1662</date> ( NYPL, KE 1662).</bibl>
+        <bibl><title>Apologético en favor de d. Luis de Gongora principe de los poetas líricos de
+            España: contra Manuel de Faria y Sousa caballero portugués</title>,
+            <pubPlace>Lima</pubPlace>: <publisher>Juan de Quevedo y Zárate</publisher>,
+            <date>1694</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -3624,7 +3629,7 @@
           </div>
         </div>
       </div>
-      
+
       <div xml:id="anteportada">
         <index indexName="resp" n="Espinosa Medrano, Juan de"/>
         <index indexName="date" n="1660"/>
@@ -3647,19 +3652,19 @@
           n="f. []1v"/>
       </div>
       <div xml:id="portada">
-        <pb
-          facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fa2r.jpg"
-          n="f. []2r"/><head>Apologético en favor de don Luis de Góngora, príncipe de los poetas
-          líricos de España<note place="bottom"> Desde el título, haciendo de Góngora el «príncipe
-            de los poetas <hi rend="i">líricos</hi> de España» (subrayo), Espinosa Medrano responde
-            a Manuel de Faría, que titula su comentario de las <hi rend="i">Lusiadas</hi> (en
-            Madrid: por Juan Sánchez, a costa de Pedro Coello, mercader de libros, 1639): «<hi
-              rend="i">Lusiadas</hi> de Luis de Camões, príncipe de los poetas de España. Al rey
-            nuestro señor Felipe Cuarto el Grande. Comentadas por Manuel de Faría i Sousa, Cavallero
-            de la Orden de Christo, i de la Casa Real» (Faría 1639a: f. †1r).</note>, contra
-            <persName type="polemist" key="Faria e Sousa, Manuel de">Manuel de Faría y
-            Sousa</persName>, caballero portugués, que dedica al excelentísimo señor don Luis Méndez
-          de Haro, duque conde de Olivares, etc., su autor el doctor <persName type="polemist"
+        <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fa2r.jpg"
+          n="f. []2r"/>
+        <head>Apologético en favor de don Luis de Góngora, príncipe de los poetas líricos de
+            España<note place="bottom"> Desde el título, haciendo de Góngora el «príncipe de los
+            poetas <hi rend="i">líricos</hi> de España» (subrayo), Espinosa Medrano responde a
+            Manuel de Faría, que titula su comentario de las <hi rend="i">Lusiadas</hi> (en Madrid:
+            por Juan Sánchez, a costa de Pedro Coello, mercader de libros, 1639): «<hi rend="i"
+              >Lusiadas</hi> de Luis de Camões, príncipe de los poetas de España. Al rey nuestro
+            señor Felipe Cuarto el Grande. Comentadas por Manuel de Faría i Sousa, Cavallero de la
+            Orden de Christo, i de la Casa Real» (Faría 1639a: f. †1r).</note>, contra <persName
+            type="polemist" key="Faria e Sousa, Manuel de">Manuel de Faría y Sousa</persName>,
+          caballero portugués, que dedica al excelentísimo señor don Luis Méndez de Haro, duque
+          conde de Olivares, etc., su autor el doctor <persName type="polemist"
             key="Espinosa Medrano, Juan de">Juan de Espinosa Medrano</persName>, colegial real en el
           insigne seminario de San Antonio el Magno, catedrático de Artes y Sagrada Teología en él,
           cura rector de la santa iglesia catedral de la ciudad del Cuzco, cabeza de los reinos del
@@ -3728,22 +3733,22 @@
           <index indexName="resp" n="fray Gonzalo Tenorio"/>
           <index indexName="date" n="1661-10-16"/>
           <index indexName="addressee" n="Espinosa Medrano, Juan de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb1r.jpg"
-              n="f. b1r"/><head> Aprobación del muy reverendo padre fray Gonzalo Tenorio<note
-              place="bottom"> La primera de las aprobaciones, del franciscano peruano fray Gonzalo
-              Tenorio (su biografía más citada y más documentada es, hasta la fecha, la de Antonio
-              Eguiluz 1959: 257-261), es un texto escueto y que, a falta de mayor documentación, no
-              permite establecer cuáles eran sus relaciones con Espinosa Medrano. Este franciscano
-              criollo, nacido en 1602 y fallecido en 1682 (Martínez 2013: 60), es conocido por su
-              destacada carrera eclesiástica y su obra de inspiración milenarista, proyectada en 16
-              volúmenes y aún inédita, merecedora de entrar en una eventual historia de los
-              heterodoxos peruanos (Mujica Pinilla 2001a y 2001b: 316-323). Sus sermones agradaban y
-              fue misionero de indios. En 1650 fue elegido provincial y comisario general interino
-              del Perú en el capítulo de su orden, en sustitución de Pedro de Alva y Astorga
-              (Eguiluz 1959: 259; Lara 2013: 151-152). En 1659, una carta del arzobispo de Lima,
-              Pedro de Villagómez, al rey Felipe IV, fechada a 26 de julio, acredita la categoría
-              del franciscano, propuesto como obispo por la cabeza seglar de la Iglesia peruana. No
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb1r.jpg"
+            n="f. b1r"/>
+          <head> Aprobación del muy reverendo padre fray Gonzalo Tenorio<note place="bottom"> La
+              primera de las aprobaciones, del franciscano peruano fray Gonzalo Tenorio (su
+              biografía más citada y más documentada es, hasta la fecha, la de Antonio Eguiluz 1959:
+              257-261), es un texto escueto y que, a falta de mayor documentación, no permite
+              establecer cuáles eran sus relaciones con Espinosa Medrano. Este franciscano criollo,
+              nacido en 1602 y fallecido en 1682 (Martínez 2013: 60), es conocido por su destacada
+              carrera eclesiástica y su obra de inspiración milenarista, proyectada en 16 volúmenes
+              y aún inédita, merecedora de entrar en una eventual historia de los heterodoxos
+              peruanos (Mujica Pinilla 2001a y 2001b: 316-323). Sus sermones agradaban y fue
+              misionero de indios. En 1650 fue elegido provincial y comisario general interino del
+              Perú en el capítulo de su orden, en sustitución de Pedro de Alva y Astorga (Eguiluz
+              1959: 259; Lara 2013: 151-152). En 1659, una carta del arzobispo de Lima, Pedro de
+              Villagómez, al rey Felipe IV, fechada a 26 de julio, acredita la categoría del
+              franciscano, propuesto como obispo por la cabeza seglar de la Iglesia peruana. No
               mereció el beneplácito del patronato regio, pese a otras dos recomendaciones en cartas
               del 3 de abril de 1660 y del 8 de julio de 1663 y, por tanto, no alcanzó el obispado
               (Eguiluz 1959:258-259). Firma pues su aprobación para Espinosa Medrano como provincial
@@ -3779,11 +3784,11 @@
           <index indexName="resp" n="Juan de Montalvo"/>
           <index indexName="date" n="1661-09-20"/>
           <index indexName="addressee" n="Espinosa Medrano, Juan de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb1v.jpg"
-              n="f. b1v"/><head> Aprobación del doctor don Juan de Montalvo<note place="bottom"> Juan
-              Jiménez de Montalvo fue racionero de la catedral limeña desde el 19 de octubre de 1650
-              (Bermúdez 1903: 93) hasta el 27 de septiembre de 1664, cuando fue nombrado canónigo
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb1v.jpg"
+            n="f. b1v"/>
+          <head> Aprobación del doctor don Juan de Montalvo<note place="bottom"> Juan Jiménez de
+              Montalvo fue racionero de la catedral limeña desde el 19 de octubre de 1650 (Bermúdez
+              1903: 93) hasta el 27 de septiembre de 1664, cuando fue nombrado canónigo
               penitenciario (Bermúdez 1903: 123), cargo que ostentó hasta su muerte. En junio de
               1671 fue nombrado juez de idolatrías, encargado por lo tanto de juzgar la ortodoxia de
               los indios (Bermúdez 1903: 137). Muere el 15 de mayo de 1674 (Bermúdez 1903: 141). La
@@ -3904,22 +3909,22 @@
           <index indexName="resp" n="frey Fulgencio Maldonado"/>
           <index indexName="date" n="1661-06-01"/>
           <index indexName="addressee" n="Espinosa Medrano, Juan de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb2r.jpg"
-              n="f. b2r"/><head> Censura del doctor don frey<note type="app" rend="I"> frey <hi rend="i"
-                >A</hi> : fray <hi rend="i">B</hi></note> Fulgencio Maldonado<note place="bottom">
-              Nacido en Lima en abril de 1586 y muerto el 28 de octubre de 1661, antes de que se
-              imprimiera el <hi rend="i">Apologético</hi>, frey Fulgencio Maldonado fue predicador
-              agustino en la provincia de Quito, procurador provincial de la orden y doctor en
-              Filosofía y Teología. Viajó al virreinato de Nápoles, donde sirvió de 1620 a 1627 y a
-              Roma, donde obtuvo de Pablo V la autorización de ingreso en la orden de San Juan de
-              Jerusalén, efectiva en 1621, con el consecuente abandono de la regla agustina. Firma
-              esta censura en calidad de capellán de obediencia de la orden de San Juan, orden
-              militar que le hace merecedor del título de «frey». En 1627 es capellán de corte en
-              Madrid, y publica un <hi rend="i">Sermón de la Octava que en esta Corte se consagró a
-                la gloria de los veinte y tres Mártires del Japón, Descalzos de la Orden de S.
-                Francisco, que canonizó la Santidad de Urbano VIII…</hi> en las prensas de la viuda
-              de Luis Sánchez, impresora del reino. Dos años más tarde, es chantre de la catedral de
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb2r.jpg"
+            n="f. b2r"/>
+          <head> Censura del doctor don frey<note type="app" rend="I"> frey <hi rend="i">A</hi> :
+              fray <hi rend="i">B</hi></note> Fulgencio Maldonado<note place="bottom"> Nacido en
+              Lima en abril de 1586 y muerto el 28 de octubre de 1661, antes de que se imprimiera el
+                <hi rend="i">Apologético</hi>, frey Fulgencio Maldonado fue predicador agustino en
+              la provincia de Quito, procurador provincial de la orden y doctor en Filosofía y
+              Teología. Viajó al virreinato de Nápoles, donde sirvió de 1620 a 1627 y a Roma, donde
+              obtuvo de Pablo V la autorización de ingreso en la orden de San Juan de Jerusalén,
+              efectiva en 1621, con el consecuente abandono de la regla agustina. Firma esta censura
+              en calidad de capellán de obediencia de la orden de San Juan, orden militar que le
+              hace merecedor del título de «frey». En 1627 es capellán de corte en Madrid, y publica
+              un <hi rend="i">Sermón de la Octava que en esta Corte se consagró a la gloria de los
+                veinte y tres Mártires del Japón, Descalzos de la Orden de S. Francisco, que
+                canonizó la Santidad de Urbano VIII…</hi> en las prensas de la viuda de Luis
+              Sánchez, impresora del reino. Dos años más tarde, es chantre de la catedral de
               Arequipa y destaca como predicador tanto en esta ciudad, donde publica tres sermones
               entre 1655 y 1658, como en Lima, donde ya en 1632 publica una oración funeral al
               virrey y un prólogo a las <hi rend="i">Fiestas que celebró la Ciudad de los Reyes del
@@ -4003,12 +4008,12 @@
           <index indexName="resp" n="Alonso Bravo de Paredes y Quiñones"/>
           <index indexName="date" n="1660-06-08"/>
           <index indexName="addressee" n="Espinosa Medrano, Juan de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb2v.jpg"
-              n="f. b2v"/><head> Aprobación del doctor Alonso Bravo de Paredes y Quiñones<note type="app"
-              rend="I"> Quiñones <hi rend="i">A</hi> : Quinones <hi rend="i">B</hi></note><note
-              place="bottom"> De la mayoría de los cargos de Alonso Bravo de Paredes y Quiñones se
-              tiene conocimiento por el título de esta aprobación y por su <hi rend="i">Sermón en la
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb2v.jpg"
+            n="f. b2v"/>
+          <head> Aprobación del doctor Alonso Bravo de Paredes y Quiñones<note type="app" rend="I">
+              Quiñones <hi rend="i">A</hi> : Quinones <hi rend="i">B</hi></note><note place="bottom"
+              > De la mayoría de los cargos de Alonso Bravo de Paredes y Quiñones se tiene
+              conocimiento por el título de esta aprobación y por su <hi rend="i">Sermón en la
                 solemnidad de la Virgen María</hi>, publicado en Lima en 1669 (Bravo de Paredes y
               Quiñones 1669: f. []1r). Luis Jaime Cisneros y Pedro Guibovich afirman que nació en
               los últimos años del siglo XVI y que probablemente fue un hombre rico (1982: 142-146).
@@ -4266,16 +4271,15 @@
           <index indexName="resp" n="fray Miguel de Quiñones"/>
           <index indexName="date" n="1660-06-10"/>
           <index indexName="addressee" n="Espinosa Medrano, Juan de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb3v.jpg"
-              n="f. b3v"/><head> Censura del muy reverendo padre fray Miguel de Quiñones<note
-              place="bottom"> Sobre el franciscano Miguel de Quiñones, que fue colegial en el
-              seminario de San Antonio el Magno, sabemos que fue elegido provinciano de su orden en
-              1669, además de ocupar los cargos de los que da noticia el título de la censura.
-              Véanse las <hi rend="i">Noticias cronológicas de la gran ciudad del Cuzco</hi> de
-              Diego de Esquivel y Navia (1980, tomo 2: 126).</note>, catedrático de prima, guardián
-            y regente de los estudios del convento de nuestro padre San Francisco de la ciudad del
-            Cuzco.</head>
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb3v.jpg"
+            n="f. b3v"/>
+          <head> Censura del muy reverendo padre fray Miguel de Quiñones<note place="bottom"> Sobre
+              el franciscano Miguel de Quiñones, que fue colegial en el seminario de San Antonio el
+              Magno, sabemos que fue elegido provinciano de su orden en 1669, además de ocupar los
+              cargos de los que da noticia el título de la censura. Véanse las <hi rend="i">Noticias
+                cronológicas de la gran ciudad del Cuzco</hi> de Diego de Esquivel y Navia (1980,
+              tomo 2: 126).</note>, catedrático de prima, guardián y regente de los estudios del
+            convento de nuestro padre San Francisco de la ciudad del Cuzco.</head>
           <p>Por mandado del señor doctor don Francisco Henríquez<note place="bottom"> Véase la
               «Aprobación del doctor Alonso Bravo de Paredes y Quiñones», <hi rend="i"
               >supra</hi>.</note>, chantre de la santa iglesia catedral de la ciudad del Cuzco,
@@ -4413,9 +4417,9 @@
           <index indexName="resp" n="Alonso Díaz"/>
           <index indexName="date" n="1660-06-14"/>
           <index indexName="addressee" n="Espinosa Medrano, Juan de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb4v.jpg"
-              n="f. b4v"/><head> Licencia del Ordinario.</head>
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fb4v.jpg"
+            n="f. b4v"/>
+          <head> Licencia del Ordinario.</head>
           <p>El provisor y gobernador del Cuzco y su obispado, etc., por lo que toca a la
             jurisdicción del ordinario, dio licencia para que se pueda imprimir este
               <title>Apologético</title>, atento a las aprobaciones de suso. Cuzco, catorce de junio
@@ -4430,22 +4434,22 @@
           <index indexName="resp" n="Francisco de Valverde Maldonado y Jaraba"/>
           <index indexName="date" n="1661"/>
           <index indexName="addressee" n="Espinosa Medrano, Juan de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fc1r.jpg"
-              n="f. c1r"/><head> De don Francisco de Valverde Maldonado y Jaraba<note place="bottom">
-              Francisco de Valverde Maldonado nació en Cuzco hacia 1628, hijo de Francisco de
-              Valverde Maldonado, cuzqueño, y de Juana de Jaraba y Arnedo, madrileña (Lohmann
-              Villena 1993: 228). Investigaciones de Ferdinand de Trazegnies sobre la «descendencia
-              peruana del conquistador don Francisco de Valverde» discrepan en cuanto al nombre del
-              padre del discípulo de El Lunarejo, que podría llamarse Francisco de Valverde y
-              Contreras (o Valverde y Montalvo), e indican que don Francisco Tomás de Valverde
-              Maldonado y Jaraba, que fue caballero de Alcántara, «nació en el Cuzco y fue bautizado
-              el 1 de julio de 1634 y murió en el Cuzco el 8 de abril de 1699» (Trazegnies 1978:
-              356). Según las <hi rend="i">Noticias cronológicas de la gran ciudad del Cuzco</hi> de
-              Diego de Esquivel y Navia, el autor de estas décimas fue elegido alcalde ordinario en
-              1655 y procurador general el año siguiente (1980, tomo 2: 111 y 113).</note>,
-            caballero del orden de Alcántara, vecino feudatario de la ciudad del Cuzco y discípulo
-            del autor en Sagrada Teología. Décimas.</head>
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fc1r.jpg"
+            n="f. c1r"/>
+          <head> De don Francisco de Valverde Maldonado y Jaraba<note place="bottom"> Francisco de
+              Valverde Maldonado nació en Cuzco hacia 1628, hijo de Francisco de Valverde Maldonado,
+              cuzqueño, y de Juana de Jaraba y Arnedo, madrileña (Lohmann Villena 1993: 228).
+              Investigaciones de Ferdinand de Trazegnies sobre la «descendencia peruana del
+              conquistador don Francisco de Valverde» discrepan en cuanto al nombre del padre del
+              discípulo de El Lunarejo, que podría llamarse Francisco de Valverde y Contreras (o
+              Valverde y Montalvo), e indican que don Francisco Tomás de Valverde Maldonado y
+              Jaraba, que fue caballero de Alcántara, «nació en el Cuzco y fue bautizado el 1 de
+              julio de 1634 y murió en el Cuzco el 8 de abril de 1699» (Trazegnies 1978: 356). Según
+              las <hi rend="i">Noticias cronológicas de la gran ciudad del Cuzco</hi> de Diego de
+              Esquivel y Navia, el autor de estas décimas fue elegido alcalde ordinario en 1655 y
+              procurador general el año siguiente (1980, tomo 2: 111 y 113).</note>, caballero del
+            orden de Alcántara, vecino feudatario de la ciudad del Cuzco y discípulo del autor en
+            Sagrada Teología. Décimas.</head>
           <lg>
             <l>Estime, ilustre doctor,</l>
             <l><persName type="polemist" key="Góngora, Luis de">Góngora</persName> tan culta
@@ -4660,7 +4664,7 @@
                 alusión al episodio de las «náuticas venatorias maravillas», la pesca de una foca
                 con arpón, de las <hi rend="i">Soledades</hi>, II, v. 418 y siguientes [<ref
                   target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.425"
-                    >OC264C.425</ref>].</note>,</l>
+                  >OC264C.425</ref>].</note>,</l>
             <l>Faría, o fiera, y su veneno ardiente</l>
             <l>sufra el castigo que le das valiente,</l>
             <l>Montero de <persName type="polemist" key="Espinosa Medrano, Juan de"
@@ -4712,13 +4716,13 @@
           <index indexName="resp" n="Juan de Lira"/>
           <index indexName="date" n="1661"/>
           <index indexName="addressee" n="Espinosa Medrano, Juan de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fc2r.jpg"
-              n="f. c2r"/><head> Magistri Joannis de Lyra<note place="bottom"> De Juan de Lyra o Lira,
-              discípulo de El Lunarejo, no sabemos prácticamente nada salvo lo que aquí consta. Hay
-              noticia de otro Juan de Lyra, también cuzqueño, procesado por la Inquisición «por
-              comisión a delegados de funciones no delegables», cuyo proceso tuvo lugar en los años
-              de actividad del licenciado Antonio Gutiérrez de Ulloa, entre 1571 y 1597 (Escandell
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fc2r.jpg"
+            n="f. c2r"/>
+          <head> Magistri Joannis de Lyra<note place="bottom"> De Juan de Lyra o Lira, discípulo de
+              El Lunarejo, no sabemos prácticamente nada salvo lo que aquí consta. Hay noticia de
+              otro Juan de Lyra, también cuzqueño, procesado por la Inquisición «por comisión a
+              delegados de funciones no delegables», cuyo proceso tuvo lugar en los años de
+              actividad del licenciado Antonio Gutiérrez de Ulloa, entre 1571 y 1597 (Escandell
               Bonet 1972: 402).</note>, praeceptori suo, in laudem <title>Apologetici</title>.
             Epigramma.</head>
           <lg>
@@ -4915,12 +4919,12 @@
         <div type="chapter" xml:id="preliminar14">
           <index indexName="resp" n="Espinosa Medrano, Juan de"/>
           <index indexName="date" n="1662"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fc2v.jpg"
-              n="f. c2v"/><head> Erratas<note place="bottom"> La fe de erratas desaparece de la segunda
-              edición. En la línea correspondiente a la errata de «melifico» por «melificio», del f.
-              21v, leemos «Aili» en lugar de «Alli», el deíctico que aparece cuando hay varias
-              remisiones a un mismo folio.</note>.</head>
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fc2v.jpg"
+            n="f. c2v"/>
+          <head> Erratas<note place="bottom"> La fe de erratas desaparece de la segunda edición. En
+              la línea correspondiente a la errata de «melifico» por «melificio», del f. 21v, leemos
+              «Aili» en lugar de «Alli», el deíctico que aparece cuando hay varias remisiones a un
+              mismo folio.</note>.</head>
           <p>Enmienda, lector, con pluma estos renglones, que no es justo que sobre los míos me
             acumules yerros de la imprenta. Son notados de barbaridad en España los indianos y será
             esforzar la calumnia no barrerle aun los indicios a esta sospecha<note place="bottom">
@@ -4945,14 +4949,14 @@
           <index indexName="resp" n="Espinosa Medrano, Juan de"/>
           <index indexName="date" n="1661-11-26"/>
           <index indexName="addressee" n="Luis Méndez de Haro"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fc3r.jpg"
-              n="f. c3r"/><head> Al excelentísimo señor don Luis Méndez de Haro<note place="bottom"> Luis
-              Méndez de Haro, sexto marqués del Carpio y segundo Conde-Duque de Olivares, nace en
-              Valladolid el 17 de febrero de 1598 y muere en Madrid el 16 de noviembre de 1661. Fue
-              valido de Felipe IV a partir de 1643. Su mayor acción diplomática, que le vale el
-              título de <hi rend="i">príncipe de la paz</hi> que le atribuye Espinosa Medrano, es la
-              Paz de Pirineos firmada con Francia en 1659. Véase Valladares Ramírez 2009 (444-453).
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fc3r.jpg"
+            n="f. c3r"/>
+          <head> Al excelentísimo señor don Luis Méndez de Haro<note place="bottom"> Luis Méndez de
+              Haro, sexto marqués del Carpio y segundo Conde-Duque de Olivares, nace en Valladolid
+              el 17 de febrero de 1598 y muere en Madrid el 16 de noviembre de 1661. Fue valido de
+              Felipe IV a partir de 1643. Su mayor acción diplomática, que le vale el título de <hi
+                rend="i">príncipe de la paz</hi> que le atribuye Espinosa Medrano, es la Paz de
+              Pirineos firmada con Francia en 1659. Véase Valladares Ramírez 2009 (444-453).
               Espinosa Medrano dedica su <hi rend="i">Apologético</hi> al valido de Felipe IV,
               amparándose en la dedicatoria de las <hi rend="i">Obras de Don Luis de Góngora
                 comentadas</hi> de <persName type="polemist" key="Salcedo Coronel, García de "
@@ -4983,7 +4987,7 @@
               hombro ilustra luego suficiente / el peso de ambos mundos, soberano, / cual la
               estrellada máquina luciente / doctas fuerzas de monte hoy africano» (<ref
                 target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem313#l313.249"
-                  >OC313.249-252</ref>). Véase al respecto Teresa Zapata Fernández de la Hoz
+                >OC313.249-252</ref>). Véase al respecto Teresa Zapata Fernández de la Hoz
               2011.</note>, delicias del orbe español, padre de la patria, príncipe de la
             paz.</head>
           <p>Mucho padrino es vuestra excelencia, príncipe excelentísimo, para que mi pequeñez
@@ -5227,9 +5231,9 @@
         <div type="chapter" xml:id="preliminar16">
           <index indexName="resp" n="Espinosa Medrano, Juan de"/>
           <index indexName="date" n="1661-12"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fd2r.jpg"
-              n="f. d2r"/><head> Al lector</head>
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fd2r.jpg"
+            n="f. d2r"/>
+          <head> Al lector</head>
           <p>En la palestra nos ves, lector mío, pero en palestra de entendimientos: peléase aquí
             entre estos límites, sin que pase el desidio<note place="bottom">El desidio es voz
               inusual y probable latinismo, del verbo <hi rend="i">desidere</hi>, “permanecer
@@ -5314,24 +5318,23 @@
               el gasto’). El emperador, divertido por la involuntaria franqueza, compra el cuervo
               doblando el precio de los anteriores. El Lunarejo convierte al cuervo en papagayo
               —pájaros parlantes ambos— a partir de otro cuento romano, esta vez sobre un loro que
-              saludó a Julio César con las palabras «<hi rend="i">Caesar,
-                aue</hi>». La anécdota, referida por Plinio y por Marcial, era un tópico,
-              ampliamente difundido por la emblemática a partir de imágenes de Durero o Rubens
-              (Dundas 2004: 295-296). Espinosa Medrano continúa con esta alusión su ataque criollo
-              contra el español. Primero, prolonga la identificación antifrástica del criollo con un
-              «bruto», en este caso el papagayo. Cabe recordar que El Lunarejo ya se ha identificado
-              con un «ave peregrina» en la dedicatoria a Luis Méndez de Haro. Segundo, renuncia a
-              desengañar a europeos que tercamente porfían en su error, y constata, para acabar, la
-              vanidad de su empresa intelectual, merecedora de mayor estima en eventuales bestias
-              que en criollos con severos estudios e ingenio.</note>, Dios te guarde, etc.</p>
+              saludó a Julio César con las palabras «<hi rend="i">Caesar, aue</hi>». La anécdota,
+              referida por Plinio y por Marcial, era un tópico, ampliamente difundido por la
+              emblemática a partir de imágenes de Durero o Rubens (Dundas 2004: 295-296). Espinosa
+              Medrano continúa con esta alusión su ataque criollo contra el español. Primero,
+              prolonga la identificación antifrástica del criollo con un «bruto», en este caso el
+              papagayo. Cabe recordar que El Lunarejo ya se ha identificado con un «ave peregrina»
+              en la dedicatoria a Luis Méndez de Haro. Segundo, renuncia a desengañar a europeos que
+              tercamente porfían en su error, y constata, para acabar, la vanidad de su empresa
+              intelectual, merecedora de mayor estima en eventuales bestias que en criollos con
+              severos estudios e ingenio.</note>, Dios te guarde, etc.</p>
         </div>
         <div type="chapter" xml:id="preliminar17">
           <index indexName="resp" n="Espinosa Medrano, Juan de"/>
           <index indexName="date" n="1661"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fd3r.jpg"
-              n="f. d3r"/><head> Catálogo de los escritores que autorizan este
-            <title>Apologético</title>.</head>
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_fd3r.jpg"
+            n="f. d3r"/>
+          <head> Catálogo de los escritores que autorizan este <title>Apologético</title>.</head>
           <p>San Alchimo, Alciato, Alfonso de Mendoza, Antonio Verderio, don Antonio de Solís, don
             Antonio Cabreros, Apolonio, Acquario Lodola, Ambrosio de Morales, Alvar Gómez, Apuleyo,
             Aretino, Aristóteles, Aristófanes, Ascensio, Asclepíades, san Augustín, Alejandre de
@@ -5371,15 +5374,15 @@
         </div>
       </div>
       <div xml:id="apologetico">
-        <pb
-            facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_f1r.jpg"
-            n="f. 1r"/><head> Apologético en favor de don Luis de Góngora, Príncipe de los Poetas Líricos
-          de España</head>
+        <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_f1r.jpg"
+          n="f. 1r"/>
+        <head> Apologético en favor de don Luis de Góngora, Príncipe de los Poetas Líricos de
+          España</head>
         <div type="chapter" xml:id="seccion1">
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_f1r.jpg"
-              n="f. 1r"/><head> Apologético en favor de don Luis de Góngora, Príncipe de los Poetas
-            Líricos de España</head>
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_f1r.jpg"
+            n="f. 1r"/>
+          <head> Apologético en favor de don Luis de Góngora, Príncipe de los Poetas Líricos de
+            España</head>
           <head>Sección I</head>
           <p>1<note place="bottom"> El párrafo entero construye un retrato del enemigo Faría
               mediante autoridades: es un perro hereje, gramático y envidioso. El tema de la envidia
@@ -5809,85 +5812,85 @@
                   >Lusiadas</hi>, I, Tomo I, Canto III, estancia 94, col. 131, D (Faría 1639a: II,
                 col. 131): «que viene a ser esto de nuestro poeta en este lugar y poco más».</note>
               más, y en <persName type="polemist" key="Góngora, Luis de">don Luis</persName> esto
-              que se sigue:</p><quote xml:lang="es"><l>“Rico de cuantos la agua engendra
-                    bienes<note place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 123 [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.123"
-                      >OC255.123</ref>].</note>.</l></quote>
-              <quote xml:lang="es"><l>Dulce ya concediéndole risueña</l>
-                <l>Pasos no al sueño, treguas sí al reposo<note type="app" rend="I"> reposo <hi
-                      rend="i">A</hi> : resposo <hi rend="i">B</hi></note><note place="bottom">
-                    Góngora, <hi rend="i">Polifemo</hi>, v. 307-308: «dulce ya concediéndole, y
-                    risueña, / paces no al sueño, treguas sí al reposo.» [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.307"
-                      >OC255.307-308</ref>].</note></l>
-              </quote>
-              <quote xml:lang="es"><l>A la del viento cuando no sea cama</l>
-                <l>De fresca sombra, de menuda grama<note place="bottom"> Góngora, <hi rend="i"
-                      >Polifemo</hi>, v. 215-216: «a la, de viento cuando no sea, cama / de frescas
-                    sombras, de menuda grama.» [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.216"
-                      >OC255.216</ref>].</note>.<note place="bottom"> En Manuel de Faría, <hi
-                      rend="i">Lusiadas</hi>, I, Tomo I, Canto III, estancia 94, col. 131, D (Faría
-                    1639a: II, col. 131): «Rico de cuantos la agua engendra bienes. / A la de viento
-                    cuando no sea cama / de fresca sombra, de menuda grama. / Dulce ya concediéndole
-                    risueña / Paces no al sueño; treguas sí al reposo».</note></l></quote>
-              <quote xml:lang="es"><l>Marino, si agradable no instrumento.<note place="bottom">
-                    Góngora, <hi rend="i">Polifemo</hi>, v. 382: «(marino, si agradable no,
-                    instrumento)» [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.382"
-                      >OC255.382</ref>].</note></l></quote>
-              <quote xml:lang="es"><l>A las, que esta montaña engendra harpías.<note place="bottom">
-                    Góngora, <hi rend="i">Polifemo</hi>, v. 448 [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.448"
-                      >OC255.448</ref>].</note></l>
-              </quote>
-              <quote xml:lang="es"><l>Viendo el fiero pastor voces él tantas,</l>
-                <l>Y tantas despidió la honda piedras.<note place="bottom"> Góngora, <hi rend="i"
-                      >Polifemo</hi>, v. 470-471 [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.470"
-                      >OC255.470-471</ref>].</note></l>
-              </quote>
-              <quote xml:lang="es"><l>Si mucho poco mapa las despliega<note place="bottom"> Góngora,
-                      <hi rend="i">Soledades</hi>, I, v. 194: «Si mucho poco mapa les despliega,»
-                      [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.194"
-                      >OC264B.194</ref>].</note></l>
-              </quote>
-              <quote xml:lang="es"><l>A las que tanto mar dividió playas.<note place="bottom">
-                    Góngora, <hi rend="i">Soledades</hi>, I, v. 376: «a las, que tanto mar divide,
-                    playas,» [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.376"
-                      >OC264B.376</ref>].</note></l>
-              </quote>
-              <quote xml:lang="es"><l>Tantas del primer atrevimiento señas.<note place="bottom">
-                    Góngora, <hi rend="i">Soledades</hi>, I, v. 439-440: «con tantas del primer
-                    atrevimiento / señas, aun a los bueitres lastimosas,» [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.439"
-                      >OC264B.439-440</ref>].</note></l>
-              </quote>
-              <quote xml:lang="es"><l>El fresco de los Céfiros ruido.</l>
-                <l>El verde de los árboles celaje<note place="bottom"> Góngora, <hi rend="i"
-                      >Soledades</hi>, I, v. 536-537: «el fresco de los céfiros rüido, / el denso de
-                    los árboles celaje,» [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.536"
-                      >OC264B.536-537</ref>].</note>.</l></quote>
-              <quote xml:lang="es"><l>Mientras el viejo tanta acusa tea</l>
-                <l>Al de las bodas Dios no alguna sea</l>
-                <l>De nocturno Faetón carroza<note place="bottom"> Góngora, <hi rend="i"
-                      >Soledades</hi>, I, v. 653-655: «mientras el viejo tanta acusa tea / al de las
-                    bodas dios, no alguna sea / de nocturno Faetón carroza ardiente,» [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.653"
-                      >OC264B.653-655</ref>].</note></l>
-              </quote>
-              <quote xml:lang="es"><l>Tanta ofrecen los álamos zagala<note place="bottom"> Góngora,
-                      <hi rend="i">Soledades</hi>, I, v. 664 [<ref
-                      target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.664"
-                      >OC264B.664</ref>].</note>”.»<note place="margin" resp="author"> Tomo 1. canto
-                    3. estanc. 94.<note type="app" rend="I">estanc. 94. <hi rend="i">em.</hi> :
-                      estanc. 49. <hi rend="i">A</hi> || estan. 49 <hi rend="i">B</hi></note> fol.
-                    131.</note><note place="bottom"> Manuel de Faría, <hi rend="i">Lusiadas</hi>, I,
-                    Tomo II, Canto III, estancia 94, col. 131, D [1639_lusiadas] (Faría 1639a: II,
-                    col. 131-132).</note></l></quote></quote>
+              que se sigue:</p><quote xml:lang="es"><l>“Rico de cuantos la agua engendra bienes<note
+                  place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 123 [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.123"
+                    >OC255.123</ref>].</note>.</l></quote>
+            <quote xml:lang="es"><l>Dulce ya concediéndole risueña</l>
+              <l>Pasos no al sueño, treguas sí al reposo<note type="app" rend="I"> reposo <hi
+                    rend="i">A</hi> : resposo <hi rend="i">B</hi></note><note place="bottom">
+                  Góngora, <hi rend="i">Polifemo</hi>, v. 307-308: «dulce ya concediéndole, y
+                  risueña, / paces no al sueño, treguas sí al reposo.» [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.307"
+                    >OC255.307-308</ref>].</note></l>
+            </quote>
+            <quote xml:lang="es"><l>A la del viento cuando no sea cama</l>
+              <l>De fresca sombra, de menuda grama<note place="bottom"> Góngora, <hi rend="i"
+                    >Polifemo</hi>, v. 215-216: «a la, de viento cuando no sea, cama / de frescas
+                  sombras, de menuda grama.» [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.216"
+                    >OC255.216</ref>].</note>.<note place="bottom"> En Manuel de Faría, <hi rend="i"
+                    >Lusiadas</hi>, I, Tomo I, Canto III, estancia 94, col. 131, D (Faría 1639a: II,
+                  col. 131): «Rico de cuantos la agua engendra bienes. / A la de viento cuando no
+                  sea cama / de fresca sombra, de menuda grama. / Dulce ya concediéndole risueña /
+                  Paces no al sueño; treguas sí al reposo».</note></l></quote>
+            <quote xml:lang="es"><l>Marino, si agradable no instrumento.<note place="bottom">
+                  Góngora, <hi rend="i">Polifemo</hi>, v. 382: «(marino, si agradable no,
+                  instrumento)» [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.382"
+                    >OC255.382</ref>].</note></l></quote>
+            <quote xml:lang="es"><l>A las, que esta montaña engendra harpías.<note place="bottom">
+                  Góngora, <hi rend="i">Polifemo</hi>, v. 448 [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.448"
+                    >OC255.448</ref>].</note></l>
+            </quote>
+            <quote xml:lang="es"><l>Viendo el fiero pastor voces él tantas,</l>
+              <l>Y tantas despidió la honda piedras.<note place="bottom"> Góngora, <hi rend="i"
+                    >Polifemo</hi>, v. 470-471 [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.470"
+                    >OC255.470-471</ref>].</note></l>
+            </quote>
+            <quote xml:lang="es"><l>Si mucho poco mapa las despliega<note place="bottom"> Góngora,
+                    <hi rend="i">Soledades</hi>, I, v. 194: «Si mucho poco mapa les despliega,»
+                    [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.194"
+                    >OC264B.194</ref>].</note></l>
+            </quote>
+            <quote xml:lang="es"><l>A las que tanto mar dividió playas.<note place="bottom">
+                  Góngora, <hi rend="i">Soledades</hi>, I, v. 376: «a las, que tanto mar divide,
+                  playas,» [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.376"
+                    >OC264B.376</ref>].</note></l>
+            </quote>
+            <quote xml:lang="es"><l>Tantas del primer atrevimiento señas.<note place="bottom">
+                  Góngora, <hi rend="i">Soledades</hi>, I, v. 439-440: «con tantas del primer
+                  atrevimiento / señas, aun a los bueitres lastimosas,» [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.439"
+                    >OC264B.439-440</ref>].</note></l>
+            </quote>
+            <quote xml:lang="es"><l>El fresco de los Céfiros ruido.</l>
+              <l>El verde de los árboles celaje<note place="bottom"> Góngora, <hi rend="i"
+                    >Soledades</hi>, I, v. 536-537: «el fresco de los céfiros rüido, / el denso de
+                  los árboles celaje,» [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.536"
+                    >OC264B.536-537</ref>].</note>.</l></quote>
+            <quote xml:lang="es"><l>Mientras el viejo tanta acusa tea</l>
+              <l>Al de las bodas Dios no alguna sea</l>
+              <l>De nocturno Faetón carroza<note place="bottom"> Góngora, <hi rend="i"
+                    >Soledades</hi>, I, v. 653-655: «mientras el viejo tanta acusa tea / al de las
+                  bodas dios, no alguna sea / de nocturno Faetón carroza ardiente,» [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.653"
+                    >OC264B.653-655</ref>].</note></l>
+            </quote>
+            <quote xml:lang="es"><l>Tanta ofrecen los álamos zagala<note place="bottom"> Góngora,
+                    <hi rend="i">Soledades</hi>, I, v. 664 [<ref
+                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.664"
+                    >OC264B.664</ref>].</note>”.»<note place="margin" resp="author"> Tomo 1. canto
+                  3. estanc. 94.<note type="app" rend="I">estanc. 94. <hi rend="i">em.</hi> :
+                    estanc. 49. <hi rend="i">A</hi> || estan. 49 <hi rend="i">B</hi></note> fol.
+                  131.</note><note place="bottom"> Manuel de Faría, <hi rend="i">Lusiadas</hi>, I,
+                  Tomo II, Canto III, estancia 94, col. 131, D [1639_lusiadas] (Faría 1639a: II,
+                  col. 131-132).</note></l></quote></quote>
         </div>
         <div type="chapter" xml:id="seccion2">
           <head>Apologético. Sección II</head>
@@ -6171,22 +6174,25 @@
             retahíla semejante. Habíanse de escribir apartados y con distinción, numerados como
             hacemos aquí:</p>
           <quote xml:lang="es"><l>1. §. «Rico de cuantos la agua engendra bienes»<note
-                  place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 123 [<ref
-                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.123"
-                    >OC255.123</ref>].</note></l></quote><quote xml:lang="es"><l>2. §. «Marino, si agradable no instrumento.»<note
-                  place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 382: «(marino, si
-                  agradable no, instrumento)» [<ref
-                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.382"
-                    >OC255.382</ref>].</note></l></quote><quote xml:lang="es"><l>3. §. «Viendo el fiero pastor voces él tantas,</l>
-              <l>y tantas despidió la honda piedras.»<note place="bottom"> Góngora, <hi rend="i"
-                    >Polifemo</hi>, v. 470-471 [<ref
-                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.470"
-                      >OC255.470-471</ref>].</note></l></quote><quote xml:lang="es"><l>4. §. «El fresco de los Céfiros ruido.</l>
-              <l>El verde de los árboles celaje»<note place="bottom"> Góngora, <hi rend="i"
-                    >Soledades</hi>, I, v. 536-537: «el fresco de los céfiros rüido, / el denso de
-                  los árboles celaje,» [<ref
-                    target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.536"
-                    >OC264B.536-537</ref>].</note>, etc.</l></quote>
+                place="bottom"> Góngora, <hi rend="i">Polifemo</hi>, v. 123 [<ref
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.123"
+                  >OC255.123</ref>].</note></l></quote>
+          <quote xml:lang="es"><l>2. §. «Marino, si agradable no instrumento.»<note place="bottom">
+                Góngora, <hi rend="i">Polifemo</hi>, v. 382: «(marino, si agradable no,
+                instrumento)» [<ref
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.382"
+                  >OC255.382</ref>].</note></l></quote>
+          <quote xml:lang="es"><l>3. §. «Viendo el fiero pastor voces él tantas,</l>
+            <l>y tantas despidió la honda piedras.»<note place="bottom"> Góngora, <hi rend="i"
+                  >Polifemo</hi>, v. 470-471 [<ref
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.470"
+                  >OC255.470-471</ref>].</note></l></quote>
+          <quote xml:lang="es"><l>4. §. «El fresco de los Céfiros ruido.</l>
+            <l>El verde de los árboles celaje»<note place="bottom"> Góngora, <hi rend="i"
+                  >Soledades</hi>, I, v. 536-537: «el fresco de los céfiros rüido, / el denso de los
+                árboles celaje,» [<ref
+                  target="http://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.536"
+                  >OC264B.536-537</ref>].</note>, etc.</l></quote>
           <p>Descuido sería el dejarlo de advertir, mas esme preciso mirarle a las manos a la
               envidia<note place="bottom"> «Mirar a las manos» es «recelarse de alguno, tener poca
               confianza de él y andar con cuidado por temer que hurte o defraude» (<hi rend="i"
@@ -6194,9 +6200,9 @@
         </div>
         <div type="chapter" xml:id="seccion3_Faría">
           <index indexName="resp" n="Faria e Sousa, Manuel de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_f5r.jpg"
-              n="f. 5r"/><head> Manuel de Faría. § II.</head>
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_f5r.jpg"
+            n="f. 5r"/>
+          <head> Manuel de Faría. § II.</head>
           <quote xml:lang="es">«¿Mas adónde se nos quedaba esto? “<quote xml:lang="es">Cuanto las
               cumbres ásperas cabrío</quote>”<note place="bottom"> Góngora, <hi rend="i"
                 >Polifemo</hi>, v. 46, [<ref
@@ -9833,19 +9839,19 @@
               en <persName type="authority" key="Virgilio">Virgilio</persName> metáforas altísimas y
               remotas, las cuales de esta manera son entendidas del mundo todo. Y sea ejemplo cuando
               de lo que precede se saca lo por venir, el que se ve en el octavo de la
-                <title>Eneida</title> adonde dice de Caco: </quote></p><quote xml:lang="es"><l>“Vomita por la
-                  boca espeso humo,</l>
-                <l>la casa envuelve de tiniebla ciega,</l>
-                <l>arrebata la vista de los ojos</l>
-                  <l>y mezcla claro a escuro en noche humosa.”</l></quote><p><quote xml:lang="es"> ¿Quién, pregunto,
-              entendiera la altísima algarabía del último verso, que no estuviera apercebido con el
-                primero?<note place="margin" resp="author"> Pincianus<note type="app" rend="I"
-                  >Pincianus <hi rend="i">A</hi> : Pincian.<hi rend="i"> B</hi></note> Philos antig
-                  epis.<note type="app" rend="I">epis. <hi rend="i">em.</hi> : epis <hi rend="i"
-                    >A</hi> || epis, <hi rend="i">B</hi></note> 6. fragm 6. num. 7</note><note
-                place="bottom"> Alonso López Pinciano, <hi rend="i">Philosophia antigua
-                poetica</hi>, epístola VI (del poético lenguaje), 7, «En el metro las cosas y
-                personas más excelentes, y cómo» <ref
+                <title>Eneida</title> adonde dice de Caco: </quote></p>
+          <quote xml:lang="es"><l>“Vomita por la boca espeso humo,</l>
+            <l>la casa envuelve de tiniebla ciega,</l>
+            <l>arrebata la vista de los ojos</l>
+            <l>y mezcla claro a escuro en noche humosa.”</l></quote>
+          <p><quote xml:lang="es"> ¿Quién, pregunto, entendiera la altísima algarabía del último
+              verso, que no estuviera apercebido con el primero?<note place="margin" resp="author">
+                  Pincianus<note type="app" rend="I">Pincianus <hi rend="i">A</hi> : Pincian.<hi
+                    rend="i"> B</hi></note> Philos antig epis.<note type="app" rend="I">epis. <hi
+                    rend="i">em.</hi> : epis <hi rend="i">A</hi> || epis, <hi rend="i">B</hi></note>
+                6. fragm 6. num. 7</note><note place="bottom"> Alonso López Pinciano, <hi rend="i"
+                  >Philosophia antigua poetica</hi>, epístola VI (del poético lenguaje), 7, «En el
+                metro las cosas y personas más excelentes, y cómo» <ref
                   target="https://books.google.fr/books/ucm?id=LtcqoKkR_2AC&amp;pg=PA265#v=onepage&amp;q&amp;f=false"
                   >(López Pinciano 1596: 265)</ref>. Espinosa Medrano amputa un paréntesis del
                 Pinciano: «Eso mismo tambien (dijo Ugo, y Fadrique) dicen los
@@ -12172,9 +12178,9 @@
         </div>
         <div type="chapter" xml:id="seccion9_Faría">
           <index indexName="resp" n="Faria e Sousa, Manuel de"/>
-          <pb
-              facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_f31v.jpg"
-              n="f. 31v"/><head> Manuel de Faría. § VIII</head>
+          <pb facs="http://gongoradigital.github.io/img/1662_apologetico/1662_apologetico_f31v.jpg"
+            n="f. 31v"/>
+          <head> Manuel de Faría. § VIII</head>
           <quote xml:lang="es">«Hablo en general, que en particular no hay duda que en el
               <title>Polifemo</title> y <title>Soledades</title> hay cláusulas beneméritas de
               poeta<note type="app" rend="I"> Poëta <hi rend="i">B</hi> : Poetas <hi rend="i">A</hi>
@@ -14063,12 +14069,11 @@
               type="polemist" key="Faria e Sousa, Manuel de">Faría</persName> pinta) no tiene<note
               type="app" rend="I"> no tiene <hi rend="i">em.</hi> : No tienen <hi rend="i"
               >AB</hi></note> tal pezón, ni tal punto, sino atravesada en diámetro una línea Θ<note
-              place="margin" resp="author">
-              Θ θ</note>, y fue tan célebre este rasgo, saeta o flechilla
-            que divide el círculo, que los jueces para condenar a muerte señalaban el nombre del reo
-            con esta letra, que en aquel dardo denotaba la muerte, de donde se llamó carácter<note
-              type="app" rend="I"> caracter <hi rend="i">A</hi> : carracter <hi rend="i"
-              >B</hi></note> infeliz, letra infausta como dijo aquel versillo:</p>
+              place="margin" resp="author"> Θ θ</note>, y fue tan célebre este rasgo, saeta o
+            flechilla que divide el círculo, que los jueces para condenar a muerte señalaban el
+            nombre del reo con esta letra, que en aquel dardo denotaba la muerte, de donde se llamó
+              carácter<note type="app" rend="I"> caracter <hi rend="i">A</hi> : carracter <hi
+                rend="i">B</hi></note> infeliz, letra infausta como dijo aquel versillo:</p>
           <quote xml:lang="la" rend="i"><l>O multum ante alias infoelix littera Theta.<note
                 place="bottom"> Isidoro, <hi rend="i">Etimologías</hi>, lib. I, cap. 3, 8: «<hi
                   rend="i">Secunda Θ, quae mortem [significat]. Nam iudices eandem litteram Θ
@@ -14078,12 +14083,12 @@
                 Véase también Isidoro 1599a <ref
                   target="https://books.google.es/books?id=YVa0CooumxsC&amp;vq=Hyperbaton%20transcensio%2C%20cum%20verbum%20aut%20sententia%20ordine&amp;hl=fr&amp;pg=PA2#v=onepage&amp;q&amp;f=false"
                   >(2)</ref>. En la traducción de José Oroz Reta y Manuel-A. Marcos Casquero: «La
-                segunda, la Θ, que significa la muerte. En efecto, los
-                jueces colocaban el signo Θ delante de los nombres de los
-                condenados a muerte. Se la llama <hi rend="i">zeta</hi> [theta], por derivar de <hi
-                  rend="i">thanatos</hi>, esto es, muerte. De aquí también el que presente en la
-                mitad una cuchillada, es decir, una señal de muerte. Alguien dijo de ella: “¡Oh,
-                letra zeta, la más desdichada de todas!”» (Isidoro 2004: 271).</note></l>
+                segunda, la Θ, que significa la muerte. En efecto, los jueces colocaban el signo Θ
+                delante de los nombres de los condenados a muerte. Se la llama <hi rend="i"
+                  >zeta</hi> [theta], por derivar de <hi rend="i">thanatos</hi>, esto es, muerte. De
+                aquí también el que presente en la mitad una cuchillada, es decir, una señal de
+                muerte. Alguien dijo de ella: “¡Oh, letra zeta, la más desdichada de todas!”»
+                (Isidoro 2004: 271).</note></l>
           </quote>
           <p>102. Así mismo en los padronos o matrículas de milicia, se usaba de las dos letras Tau
             y Tita. Los soldados vivos denotábanse con la T o Tau, signo de vida, los que
@@ -14104,12 +14109,11 @@
               «También en los registros en que nuestros antepasados escribían los nombres de los
               soldados se utilizaban unas siglas particulares por las que se hacía el recuento de
               cuántos eran los soldados supervivientes y cuántos los caídos en la lucha. Una T, tau,
-              delante del nombre indicaba que era un superviviente; una Θ,
-              zeta [theta], en cambio, era lo que se colocaba junto al nombre del caído. De ahí que
-              esta letra presente en su mitad una cuchillada, es decir, una señal de muerte. De ella
-              dice Persio (4, 13): “Y puedes una negra zeta anteponerle al vicio”» (Isidoro 2004:
-              271).</note>. De donde se ocasionó el temerse tanto la marca letal de ese carácter. Y
-            así cantó Persio:</p>
+              delante del nombre indicaba que era un superviviente; una Θ, zeta [theta], en cambio,
+              era lo que se colocaba junto al nombre del caído. De ahí que esta letra presente en su
+              mitad una cuchillada, es decir, una señal de muerte. De ella dice Persio (4, 13): “Y
+              puedes una negra zeta anteponerle al vicio”» (Isidoro 2004: 271).</note>. De donde se
+            ocasionó el temerse tanto la marca letal de ese carácter. Y así cantó Persio:</p>
           <quote xml:lang="la" rend="i"><l>Et potis est nigrum vitio praefigere theta.<note
                 place="margin" resp="author"> Persius<note type="app" rend="I">Persius <hi rend="i"
                     >A</hi> : Persiu† <hi rend="i">B</hi></note> saty. 4</note></l><note
@@ -14784,30 +14788,31 @@
             comparación de <persName type="polemist" key="Góngora, Luis de">Góngora</persName> con
               <persName type="authority" key="Camões">Luis de Camões</persName>, porque los estilos
             y asuntos a que cada uno se dio no lo sufren. Y es la razón por que yerran <persName
-              type="polemist" key="Vicuña">los que le llaman</persName> <persName type="authority" key="Homero"
-                >Homero</persName> a Góngora, y por que no errarán en llamar <persName
-              type="authority" key="Homero">Homero</persName> y <persName type="authority"
-              key="Virgilio">Virgilio</persName> a <persName type="authority" key="Camões"
-              >Camões</persName>, y <persName type="authority" key="Marcial">Marcial</persName> a
-              <persName type="polemist" key="Góngora, Luis de">Góngora</persName> en las burlas. Y
-            si sus <title>Silvas</title> y <title>Polifemo</title> y <title>Panegírico</title>
-            agradan, llámenle <persName type="authority" key="Estacio">Estacio</persName>, con que
-            también agrada a muchos, ni yo pretendo que desagraden. Pretendo sólo reírme de todos
-            aquellos que pretendieren medir con una misma vara a los dos en esto que se llama
-            espíritu poético científico, ejecutado en obras artificiosas y profundas, con principio,
-            medio y fin. Porque comparar a <persName type="polemist" key="Góngora, Luis de"
-              >Góngora</persName> con <persName type="authority" key="Camões">Camões</persName> en
-            esto es como contender Aracne con Palas, Marsias con Apolo y la mosca con el águila.
-            Esto digo yo de los que acertaron a leer enteramente estos dos autores, que de los que
-            dicen que <persName type="polemist" key="Góngora, Luis de">Góngora</persName> es mejor
-            que el <persName type="authority" key="Camões">Camões</persName>, no solo sin haber
-            entendido al <persName type="authority" key="Camões">Camões</persName>, sino ni leídole
-            (de que hay muchos), aun después de muerto espero reírme.»<note place="bottom"> Manuel
-              de Faría, <hi rend="i">Lusiadas</hi>, I, Tomo II, Canto III, estancia 94, col. 135 D –
-              136 A, [1639_lusiadas] (Faría 1639a: II, col. 135-136). En tres puntos se aleja
-              Espinosa Medrano levemente del original, que reza: «errarán <hi rend="i">llamando</hi>
-              Homero y Virgilio a Camões», «llámenle Estacio, <hi rend="i">que escribió Silvas y
-                Lucos</hi>» y «la Mosca con <hi rend="i">la</hi> Águila».</note></quote>
+              type="polemist" key="Vicuña">los que le llaman</persName>
+            <persName type="authority" key="Homero">Homero</persName> a Góngora, y por que no
+            errarán en llamar <persName type="authority" key="Homero">Homero</persName> y <persName
+              type="authority" key="Virgilio">Virgilio</persName> a <persName type="authority"
+              key="Camões">Camões</persName>, y <persName type="authority" key="Marcial"
+              >Marcial</persName> a <persName type="polemist" key="Góngora, Luis de"
+              >Góngora</persName> en las burlas. Y si sus <title>Silvas</title> y
+              <title>Polifemo</title> y <title>Panegírico</title> agradan, llámenle <persName
+              type="authority" key="Estacio">Estacio</persName>, con que también agrada a muchos, ni
+            yo pretendo que desagraden. Pretendo sólo reírme de todos aquellos que pretendieren
+            medir con una misma vara a los dos en esto que se llama espíritu poético científico,
+            ejecutado en obras artificiosas y profundas, con principio, medio y fin. Porque comparar
+            a <persName type="polemist" key="Góngora, Luis de">Góngora</persName> con <persName
+              type="authority" key="Camões">Camões</persName> en esto es como contender Aracne con
+            Palas, Marsias con Apolo y la mosca con el águila. Esto digo yo de los que acertaron a
+            leer enteramente estos dos autores, que de los que dicen que <persName type="polemist"
+              key="Góngora, Luis de">Góngora</persName> es mejor que el <persName type="authority"
+              key="Camões">Camões</persName>, no solo sin haber entendido al <persName
+              type="authority" key="Camões">Camões</persName>, sino ni leídole (de que hay muchos),
+            aun después de muerto espero reírme.»<note place="bottom"> Manuel de Faría, <hi rend="i"
+                >Lusiadas</hi>, I, Tomo II, Canto III, estancia 94, col. 135 D – 136 A,
+              [1639_lusiadas] (Faría 1639a: II, col. 135-136). En tres puntos se aleja Espinosa
+              Medrano levemente del original, que reza: «errarán <hi rend="i">llamando</hi> Homero y
+              Virgilio a Camões», «llámenle Estacio, <hi rend="i">que escribió Silvas y Lucos</hi>»
+              y «la Mosca con <hi rend="i">la</hi> Águila».</note></quote>
         </div>
         <div type="chapter" xml:id="seccion11">
           <head>Apologético. Sección XI</head>
@@ -15414,9 +15419,9 @@
             Villalpando en su <title>Magia</title>. Débensele estos honores por los que con su
             ingenio logró el idioma español, venerándole por su primera y más ínclita gloria el
             Betis:</p>
-          <quote xml:lang="la"><l>Boetis oliuiferi Gongora primus honor.<note
-                place="margin" resp="author"> Nicol. Albiz elog. ad com. Christophori
-                Salaçarii</note><note place="bottom">
+          <quote xml:lang="la"><l>Boetis oliuiferi Gongora primus honor.<note place="margin"
+                resp="author"> Nicol. Albiz elog. ad com. Christophori Salaçarii</note><note
+                place="bottom">
                 <persName type="polemist" key="Albiz, Nicolás de">Nicolás de Albiz</persName>, en
                   <persName type="polemist" key="Salazar Mardones, Cristóbal de">Cristóbal de
                   Salazar Mardones</persName>, <title>Ilustración y defensa de la Fábula de Píramo y

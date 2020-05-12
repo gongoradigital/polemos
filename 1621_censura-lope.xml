@@ -40,16 +40,13 @@
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <hi rend="i">La Filomena con otras diversas rimas, prosas y versos</hi>, Madrid, En casa
-          de la viuda de Alonso Martín, a costa de Alonso Pérez, 1621, f. 189v-201v (con varios
-          errores de paginación)</bibl>
+          <title><hi rend="i">La Filomena con otras diversas rimas, prosas y versos</hi></title>, <pubPlace>Madrid</pubPlace>, En casa de la <publisher>viuda de Alonso Martín</publisher>, a costa de Alonso Pérez, <date>1621</date>, f. 189v-201v (con varios errores de paginación)</bibl>
         <bibl>
-          <hi rend="i">La Filomena con otras diversas rimas, prosas y versos</hi>, Barcelona, Por
-          Sebastián de Cormellas, 1621, f. 204r-218v </bibl>
+          <title><hi rend="i">La Filomena con otras diversas rimas, prosas y versos</hi></title>, <pubPlace>Barcelona</pubPlace>, Por
+          <publisher>Sebastián de Cormellas</publisher>, <date>1621</date>, f. 204r-218v </bibl>
         <bibl>
-          <hi rend="i">Colección de las obras sueltas, assi en prosa, como en verso, de D. Frey Lope
-            Felix de Vega Carpio, del habito de san Juan</hi>, tomo IV, Madrid, En la Imprenta de
-          don Antonio de Sancha, 1776, p. 459-482 </bibl>
+          <title><hi rend="i">Colección de las obras sueltas, assi en prosa, como en verso, de D. Frey Lope Felix de Vega Carpio, del habito de san Juan</hi></title>, tomo IV, <pubPlace>Madrid</pubPlace>, En la Imprenta de
+          don <publisher>Antonio de Sancha</publisher>, <date>1776</date>, p. 459-482 </bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>

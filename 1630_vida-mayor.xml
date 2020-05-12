@@ -42,7 +42,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>BNE, ms. 3918 (vol. 7), ff. 1r-11v.</bibl>
+        <bibl>BNE, ms. 3918 (vol. 7): 1r-11v.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -52,7 +52,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date when="1630"/>
+        <date notAfter="1629"/>
       </creation>
       <langUsage>
         <language ident="es"/>

@@ -61,7 +61,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>BHMV, FLL Res. 1046(3); BNE, ms. 3980</bibl>
+        <bibl>BHMV, FLL Res. 1046(3)</bibl><bibl>BNE, ms. 3980</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -71,7 +71,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date when="1624"/>
+        <date notBefore="1622" notAfter="1624"/>
       </creation>
       <langUsage>
         <language ident="es"/>

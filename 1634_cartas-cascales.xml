@@ -35,8 +35,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Cartas Philológicas (Madrid: imprenta de Luis Verós, 1634) Cartas Philologicas
-          (Madrid: Antonio Sancha, 1779)</bibl>
+        <bibl><title>Cartas Philológicas</title>, <pubPlace>Madrid</pubPlace>: imprenta de <publisher>Luis Verós</publisher>, <date>1634</date>.</bibl>
+        <bibl><title>Cartas Philologicas</title>, <pubPlace>Madrid</pubPlace>: <publisher>Antonio Sancha</publisher>, <date>1779</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>

@@ -43,7 +43,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>FBM, ms. B106-V 1-36, f. 147r-158v.</bibl>
+        <bibl>FBM, ms. B106-V 1-36: 147r-158v.</bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -53,7 +53,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date when="1614"/>
+        <date notBefore="1613" notAfter="1614"/>
       </creation>
       <langUsage>
         <language ident="spa"/>
