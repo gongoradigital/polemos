@@ -2363,6 +2363,7 @@
         <head>Texto de la edición</head>
         <div xml:id="Respuestaalacensuraantecedente">
           <index indexName="resp" n="Colmenares, Diego"/>
+          <index indexName="adressee" n="Vega Carpio, Lope de"/>
           <index indexName="date" n="1624"/>
           <head>I <lb/>Respuesta a la censura antecedente</head>
           <p><pb n="f. 8v"/> Los antiguos, como dice <persName type="authority" key="Heródoto"
@@ -3220,6 +3221,7 @@
         </div>
         <div xml:id="Aunseñordeestosreinos">
           <index indexName="resp" n="Vega Carpio, Lope Félix de"/>
+          <index indexName="adressee" n="Colmenares, Diego"/>
           <index indexName="date" n="1624"/>
           <head>II <lb/>A un señor de estos reinos <lb/>Epístola séptima<note place="bottom"
               type="app" rend="I"> Título en volumen común con los textos de Colmenares (<hi
@@ -3994,6 +3996,7 @@
         </div>
         <div xml:id="Respuestaalacartaantecedenteporsusmismospuntos">
           <index indexName="resp" n="Colmenares, Diego"/>
+          <index indexName="adressee" n="Vega Carpio, Lope Félix de"/>
           <index indexName="date" n="1624"/>
           <head>III <lb/>Respuesta a la carta antecedente, por sus mismos puntos</head>
           <p><pb n="f. 17v"/> Enojado, Trasímaco dijo a Sócrates: <quote>Facilius est interrogare

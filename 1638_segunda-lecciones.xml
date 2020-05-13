@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Segundas Lecciones solemnes</title>
-        <author key="Pellicer, José de">José de Pellicer</author>
+        <author key="Pellicer y Tovar, José">José de Pellicer</author>
         <editor>Valentín Núñez Rivera</editor>
       </titleStmt>
       <editionStmt>
@@ -2727,6 +2727,8 @@
         </div>
       </div>
       <div>
+        <index indexName="resp" n="Pellicer y Tovar, José"/>
+        <index indexName="date" n="1638"/>
         <head>Texto de la edición</head>
         <p rend="center sc">José de Pellicer</p>
         <p rend="center i sc">Segundas Lecciones solemnes</p>
