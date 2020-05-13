@@ -7,7 +7,7 @@
       <titleStmt>
         <title>Parecer de don Francisco de Córdoba acerca de las <hi rend="i">Soledades</hi>, a
           instancia de su autor</title>
-        <author key="Fernández de Córdoba, Francisco">Francisco Fernández de Córdoba</author>
+        <author key="Fernández de Córdoba, Francisco (abad de Rute)">Francisco Fernández de Córdoba</author>
         <editor>Muriel Elvira</editor>
       </titleStmt>
       <editionStmt>
@@ -2166,6 +2166,7 @@
       </div>
       <div>
         <index indexName="resp" n="Francisco Fernández de Córdoba"/>
+        <index indexName="resp" n="Góngora, Luis de"/>
         <index indexName="date" n="1614"/>
         <pb
           facs="http://gongoradigital.github.io/img/1614_parecer/1614_parecer_f131r.png"

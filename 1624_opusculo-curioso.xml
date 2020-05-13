@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="apologetico.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1624_opusculo-curioso">
   <teiHeader>
@@ -1830,6 +1829,7 @@
       </div>
       <div>
         <index indexName="resp" n="un curioso"/>
+        <index indexName="adresse" n="Jáuregui, Juan de"/>
         <index indexName="date" n="1624"/>
         <head>Texto de la edición</head>
         <p>
