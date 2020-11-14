@@ -24,7 +24,7 @@
           <resp>relecture</resp>
         </respStmt>
         <respStmt>
-          <name>Felipe Joanon</name>
+          <name>Felipe Joannon</name>
           <resp>stylage et édition TEI</resp>
         </respStmt>
         <respStmt>
@@ -517,7 +517,7 @@
             esta junta, ver Martínez de Bujanda (2016: 79-86).</note>. Durante la séptima sesión,
           celebrada el 4 de enero de 1630, la junta trató brevemente de la edición de López de
           Vicuña. Todos los miembros de la junta, en la cual participó el propio Pineda,
-          coincidieron en que las obras en verso podían permitirse con la expurgación de los
+          coincidieron en que las <hi rend="i">Obras en verso</hi> podían permitirse con la expurgación de los
           fragmentos censurados por Pineda: «Propusose que, sin embargo que está prohibido el <hi
             rend="i">Homero español</hi>, hay noticia que corre entre personas poco temerosas de las
           censuras, y habiendo muchas cosas en el que pueden pasar sin escándalo, pareció en
@@ -539,7 +539,7 @@
           censurados por Pineda: «En Madrid, 18 de enero 1633, el ilustrísimo señor arzobispo
           inquisidor general estando en el Consejo y los señores Ortiz, obispo de Oviedo, obispo de
           Calahorra, Pacheco, arzobispo de las Charcas, Salazar Frías, mandaron que este libro se
-          pueda imprimir con nombre verdadero de autor y conforme a la censura del Padre Juan de
+          pueda imprimir con nombre del verdadero autor y conforme a la censura del Padre Juan de
             Pineda»<note place="bottom">AHN, Inquisición, leg. 4467, expediente 23.</note>. Aunque
           el motivo oficial de prohibición había sido la autoría y la dedicatoria, exigían también
           que se expurgasen los fragmentos censurados por Pineda<note place="bottom">Sobre las
@@ -1129,7 +1129,7 @@
               >Polifemo</hi>, el obispo Cristóbal de la Cámara y Murga, el presidente de Castilla,
             Pedro Bravo de Sotomayor, etc.). En muchas ocasiones, las burlas no solo resultan más
             bien inofensivas sino que no presentan ninguna contradicción con la moral ni la
-            ortodoxia, como en la letrilla «Si a gastar y pretender» o el soneto «Salí, señor don
+            ortodoxia, como en el soneto «Salí, señor don
             Pedro, esta mañana». Se puede conjeturar que la sensibilidad del censor jesuita hacia
             tales versos estuviera agudizada por haber sido él mismo objeto de las burlas del poeta
             cordobés.</p>
@@ -1515,7 +1515,7 @@
             <cell rend="center top"/>
           </row>
           <row>
-            <cell rend="left top">«¿Qué lleva el señor Esgueva?»,</cell>
+            <cell rend="left top">«¿Qué lleva el señor Esgueva?»</cell>
             <cell rend="center top">
               <ref
                 target="https://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica#poem149"
@@ -1690,7 +1690,7 @@
           sacerdote el dictamen del calificador hubiera sido más lene.</p>
         <p>En resumidas cuentas, las calificaciones de Horio y Pineda no son censuras doctrinales
           propiamente dichas pues muchas de las acusaciones formuladas por los dos censores y sobre
-          todo por el jesuita pertenecen al ámbito <hi rend="i">extra fide</hi>. Ninguno de los dos
+          todo por el jesuita pertenecen al ámbito <hi rend="i">extra fidem</hi>. Ninguno de los dos
           vio en las <hi rend="i">Obras en verso</hi> un peligro directo para la fe sino para la
           moral sexual y la fama (entendida como reputación). Ahora bien, por los años 1620 las
           proposiciones injuriosas o contra las buenas costumbres no solían ser objeto de censura
@@ -2021,7 +2021,7 @@
           <bibl>—, <hi rend="i">La Corte como agudeza compuesta: análisis del concepto en las
               décimas poliestróficas de Luis de Góngora (1600-1611)</hi>, tesis doctoral, El Colegio
             de México, 2018.</bibl>
-          <p rend="noindent"><hi rend="sc">Conde Parado</hi>, Pedro:</p>
+          <p rend="noindent"><hi rend="sc">Conde Parrado</hi>, Pedro:</p>
           <bibl>—, <hi rend="sc">García Rodríguez</hi>, Javier, «Aprovechando que el Esgueva…:
             Góngora (y Quevedo) en la corte vallisoletana (1603)», <hi rend="i">La Perinola</hi>,
             núm. 15, 2011, p. 57-94. Disponible en: &lt;<ref
@@ -2037,8 +2037,8 @@
           <bibl>—, <hi rend="i">Ofensiva a los oídos piadosos: poéticas y políticas de la obscenidad
               y la censura en la España trasatlántica</hi>, tesis doctoral, Vanderbilt University
             (Nashville, Tennessee), 2010.</bibl>
-          <p rend="noindent">—, <hi xml:lang="it">Dizionario di eretici, dissidenti e inquisitori
-              nel mondo mediterraneo</hi>, Florencia, Edizioni CLORI, 2013,</p>
+          <bibl><hi xml:lang="it">Dizionario di eretici, dissidenti e inquisitori
+            nel mondo mediterraneo</hi>, Florencia, Edizioni CLORI, 2013. [En línea]. Última consulta: 10-10-2019. Disponible en: <ref target="http://www.ereticopedia.org/abiura">http://www.ereticopedia.org/abiura</ref></bibl>
           <p rend="noindent"><hi rend="sc">Dolfi</hi>, Laura:</p>
           <bibl>—, «Luis de Góngora: de la realidad a la ficción dramática», en Christophe Couderc y
             Benoît Pellistrandi (eds.), «Por discreto y por amigo<hi rend="i">»: mélanges offerts à
@@ -2103,7 +2103,7 @@
           <bibl>—, <hi xml:lang="fr">Études sur l’œuvre poétique de don Luis de Góngora y
               Argote</hi>, tesis doctoral, Toulouse, impr. M. Espic, 1967.</bibl>
           <bibl>—, «Refranes y frases malsonantes que coligió el maestro Gonzalo Correas (Primera
-            parte)», en Odette Gorsse y Frédéric Serralta, <hi rend="i">El Siglo de Oro en escena:
+            parte)», en Odette Gorsse y Frédéric Serralta (coords.), <hi rend="i">El Siglo de Oro en escena:
               homenaje a Marc Vitse</hi>, Toulouse, Presses Universitaires du Mirail, 2006, p.
             507-528.</bibl>
           <bibl>—, <hi xml:lang="fr">Comprendre Góngora: anthologie bilingue</hi>, Toulouse, Presses
@@ -2133,11 +2133,11 @@
             Góngora», <hi rend="i">Góngora Hoy VIII: Actas del Foro de Debate Góngora Hoy celebrado
               en la Diputación de Córdoba</hi>, Córdoba, Diputación de Córdoba, 2002, p.
             39-58.</bibl>
-          <p rend="noindent">—, «Chapuzones e inmundicias en la fuente Castalia. Metáforas de la
+          <bibl>—, «Chapuzones e inmundicias en la fuente Castalia. Metáforas de la
             creación en la poesía burlesca del siglo XVII», <hi rend="i">Criticón</hi>, núm. 100,
             2007, p. 59-70. Disponible en: &lt;<ref
               target="https://cvc.cervantes.es/literatura/criticon/PDF/100/100_059.pdf"
-              >https://cvc.cervantes.es/literatura/criticon/PDF/100/100_059.pdf</ref>&gt;.</p>
+              >https://cvc.cervantes.es/literatura/criticon/PDF/100/100_059.pdf</ref>&gt;.</bibl>
           <p rend="noindent"><hi rend="sc">Marcos</hi>, Mar:</p>
           <bibl>—, «Introducción. Qué es un hereje. herejes en la historia», en Mar Marcos (ed.),
               <hi rend="i">Herejes en la historia</hi>, Madrid, Trotta, 2009, p. 9-24.</bibl>
@@ -2267,13 +2267,13 @@
           <bibl>—, <hi rend="i">La Inquisición y el diablo: supersticiones en el siglo XVIII</hi>,
             Sevilla, Universidad de Sevilla, 2000.</bibl>
           <p rend="noindent"><hi rend="sc">Torres</hi>, Milagros:</p>
-          <p rend="noindent">—, «Jugar en la calle del poema», <hi rend="i">Travaux et Documents
+          <bibl>—, «Jugar en la calle del poema», <hi rend="i">Travaux et Documents
               Hispaniques</hi> [En línea], núm. 2, 2011. Última consulta: 11-10-2019. Disponible en:
               &lt;<ref target="http://eriac.univ-rouen.fr/jugar-en-la-calle-del-poema/"
-              >http://eriac.univ-rouen.fr/jugar-en-la-calle-del-poema/</ref>&gt;.</p>
+              >http://eriac.univ-rouen.fr/jugar-en-la-calle-del-poema/</ref>&gt;.</bibl>
           <p rend="noindent"><hi rend="sc">Turner</hi>, John H.:</p>
           <bibl>—, «Góngora y un mito clásico», <hi rend="i">Nueva Revista de Filología
-              Hispánica</hi>, vol. XXIII, núm. 1, 1974. Disponible en: &lt;<ref
+              Hispánica</hi>, vol. XXIII, núm. 1, 1974, p. 88-100. Disponible en: &lt;<ref
               target="https://doi.org/10.24201/nrfh.v23i1.2798"
               >https://doi.org/10.24201/nrfh.v23i1.2798</ref>&gt;.</bibl>
           <p rend="noindent"><hi rend="sc">Vega Ramos</hi>, María José:</p>
@@ -2376,7 +2376,7 @@
             «Annunciata», es decir la Anunciación) y el sentido profano que tienen en el poema: el
             nuncio es el que avisa y Annunciata remite a la Academia, de manera que «convertir en
             nuncio la Anunciada» significa que la Academia es la que convierte las noticias en
-            maledicencia (Matas Caballero 2019: 1280). </note>.</p>
+            maledicencia (Góngora 2019: 1280). </note>.</p>
         <p>2. A folio 23, hay un soneto sátiro, el cual fue hecho al sepulcro de una mujer que
           estuvo amancebada veintidós años con un caballero<note place="bottom">«Yace debajo de esta
             piedra fría» [OC433]. En la edición de López de Vicuña, se recoge en la sección de los
@@ -2408,7 +2408,7 @@
             abjuración a las que se podían constreñir al reo: «levemente sospechoso» (<hi rend="i"
               >de levi suspicione</hi>), «vehementemente sospechoso» (<hi rend="i">vehementi
               suspicione</hi>), según la presunción de herejía fuera leve o grave, y <hi rend="i"
-              >formali</hi>, en el caso en que la herejía quedara totalmente probada (<hi rend="i"
+              >formali</hi>, en el caso en que la herejía quedara totalmente probada ("Abiura", <hi rend="i"
               >Dizionario di eretici, dissidenti e inquisitori nel mondo mediterraneo</hi>, s.
             v.).</note>, cuyos errores comenzaron a dilatarse haciendo mofa y escarnio de las
           personas religiosas; y aquí moteja de amancebados a todos los religiosos<note
@@ -2447,7 +2447,7 @@
               >[OC166.91-100]</ref>. La décima trata de un conde que después de tener relaciones con
             una joven se las arregla para casarla con un individuo; para disimular la pérdida de la
             virginidad de la muchacha, le manda coser el himen. Para una interpretación más detenida
-            de este poema, ver Pezzini (2018: 74-81).</note>.</p>
+            de este poema, ver Góngora (2018: 74-81).</note>.</p>
         <pb n="2"/>
         <p>4. A folio 61, se dice que los amantes que tienen el amor repartido en muchas partes
           tienen mucho de Dios; que comienza la décima «En trecientas santas Claras»<note
@@ -2465,7 +2465,7 @@
             contarse o circunscribirse. Atributo de solo Dios, infinito e inmensurable» (<hi
               rend="i">Aut</hi>. s. v.). Horio desaprueba la aplicación del atributo de la ubicuidad
             divina a seres humanos, especialmente en un contexto lascivo. Sobre la interpretación de
-            este poema, ver también Pezzini (2018: 95-96).</note>.</p>
+            este poema, ver también Góngora (2018: 95-96).</note>.</p>
         <p>5. A folio 62, hay una décima que comienza «Marco de plata excelente»<note place="bottom"
             >«Marco de plata excelente» [OC190]. Se recoge en la sección de las décimas burlescas de la edición de
             López de Vicuña.</note> allí se dice así:</p>
@@ -2482,7 +2482,7 @@
               aurium offensiva</hi>», ver la Introducción §5.</note>; y no carece de sospecha en la
           fe el que para entretenimientos mundanos hace semejante invocación; y es irrisión del
           mismo Espíritu Santo que vaya en el alma a ilustrarla para acciones de virtud y
-            santidad<note place="bottom">Según Pezzini (2018: 105), la décima enfatiza la afición
+            santidad<note place="bottom">Según Góngora (2018: 105), la décima enfatiza la afición
             del poeta por el juego y cuenta la llegada de un tal señor de Peralta a Córdoba en época
             de Pentecostés. El censor reprueba la invocación del Espírito santo transferida al
             terreno profano del juego.</note>.</p>
@@ -2501,7 +2501,7 @@
             tienen un trato deshonesto con el religioso que obsequió la fruta. La ciruela y el
             laurel tienen ambos una connotación sexual bastante clara. Carreira (2011: 49) subraya
             también el carácter escatológico de la décima (polisemia del término «cuesco», efecto
-            laxante atribuido a la ciruela verde). Ver también Pezzini (2018: 119-120).</note>.</p>
+            laxante atribuido a la ciruela verde). Ver también Góngora (2018: 119-120).</note>.</p>
         <p>7. A folio 70<note place="bottom">Horio se equivoca de folio debido a un error en la
             foliación: se trata en realidad de los folios 68v y 71r, el cual hubiera debido ser en
             realidad 69r.</note>, hay una letrilla que comienza así: «Que pida a un galán
@@ -2667,7 +2667,7 @@
               aparece en la aprobación. Las razones por las que se añadió son las mismas que para el
               fragmento anterior.</note> no solo licencia sino gracias por haberle
             trabajado</quote>»<note place="bottom"><hi rend="i">Obras en verso del Homero
-              español</hi>…, 1627, sin p., signatura ¶3v.</note>. Y en la aprobación de maestro
+              español</hi>…, 1627, sin p., signatura ¶3v.</note>. Y en la aprobación del maestro
           Vicente Espinel<note place="bottom"><hi rend="i">Obras en verso del Homero español</hi>…,
             1627, sin p., signatura ¶3r.</note> dice así: «<quote>que fuera de no tener cosa contra
             la religión y buenas costumbres…</quote>».</p>
@@ -3064,8 +3064,7 @@
             <l>Concepción limpia<note place="bottom"><ref
               target="https://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica/poem265#l265.1"
                   >[OC265.1-3]</ref>. La edición de López de Vicuña no pone una coma entre «no» y
-                «asistió», lo cual cambia significativamente el sentido de la estrofa (cf. Alonso
-                1983: XXXVII).</note>, etc.</l>
+                «asistió», lo cual cambia significativamente el sentido de la estrofa.</note>, etc.</l>
           </lg></quote>
         <p>No habla bien, porque la naturaleza criada<note place="bottom"><hi rend="i">Naturaleza
               criada</hi>: naturaleza creada.</note> no es incapaz de los dones y bienes
@@ -3088,7 +3087,7 @@
             tiene un sentido escatológico (<hi rend="i">Cámara</hi>: «Se llama también el excremento
             del hombre, cuyo nombre se le debió de dar porque siempre se exonera el vientre en lugar
             retirado, y secreto», <hi rend="i">Aut.</hi>, s. v.). Sobre la interpretación de esta
-            décima, ver Pezzini (2018: 234-235).</note>.</p>
+            décima, ver Góngora (2018: 234-235).</note>.</p>
         <p>
           <hi rend="i">Entre las letrillas burlescas</hi>
         </p>
@@ -3437,7 +3436,7 @@
           <head>1. Suma del privilegio</head>
           <p>[Sin foliar, signatura ¶3v]</p>
           <p>Tiene licencia y privilegio de Su Majestad por diez años Juan López de Vicuña para
-            imprimir estas obras en verso. Su data en Madrid a veinte y nuevo de febrero de mil y
+            imprimir estas obras en verso. Su data en Madrid a veinte y nueve de febrero de mil y
             seiscientos y veinte años, firmado del Rey nuestro señor y refrendado de Pedro
             Contreras, su secretario, y despachado en el oficio del secretario Lázaro de Ríos.</p>
         </div>
