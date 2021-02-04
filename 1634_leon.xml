@@ -65,7 +65,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date when="1624"/>
+        <date when="1634"/>
       </creation>
       <langUsage>
         <language ident="es"/>
@@ -842,8 +842,7 @@
                 <l>«gira en corales ya, vibra en <hi rend="i">fulgores</hi>»</l>
                 <p>(Papagayo, v. 8)</p>
                 <l>«no empero su tridente, <hi rend="i">jovenetos</hi>»</l>
-                <p>(Búho, v. 2)<note place="bottom">Como se indica en la nota <hi
-                      rend="color_FF0000">123456</hi>, Gómez de Tejada trae aquí a capítulo el
+                <p>(Búho, v. 2)<note place="bottom">Como se indica en la nota <ref xml:id="ref2" target="ref1">179</ref>, Gómez de Tejada trae aquí a capítulo el
                     soneto de Góngora «Tonante monseñor, ¿de cuándo acá / fulminas jovenetos? […]»
                     (1619).</note></p>
               </cell>
@@ -2592,8 +2591,7 @@
               Quevedo (1993: 190): «Use mucho de <hi rend="i">líquido</hi> y de <hi rend="i">errante</hi>, /
               su poco de <hi rend="i">noturno</hi> y de <hi rend="i">caverna</hi>, / anden listos <hi rend="i">livor,
                 adunco</hi> y <hi rend="i">poro</hi>; / que ya toda Castilla, / con sola esta cartilla,
-              / se abrasa de poetas <hi rend="i">babilones</hi> / escribiendo sonetos confusiones». <hi
-                rend="color_FF0000">–111253–</hi></note>, que es lo mismo que cultas) un suspiro de
+              / se abrasa de poetas <hi rend="i">babilones</hi> / escribiendo sonetos confusiones». Volver a las notas <ref xml:id="ref3" target="ref4">185</ref> y <ref xml:id="ref5" target="ref6">329</ref>.</note>, que es lo mismo que cultas) un suspiro de
             Crisaura, dudoso, confuso y lacón<note place="bottom">lacón: sinónimo de «lacónico»,
               esto es, «proveniente de Laconia» (<hi rend="i">Aut</hi>.). También «breve, conciso y
               compendioso. Dícese siempre del estilo, aludiendo al modo que tenían de hablar los
@@ -2687,8 +2685,7 @@
                 <hi rend="i">La Filomena</hi>, Torres Rámila era un tordo; los plagiarios, cornejas; él
               mismo, un ruiseñor; y los jóvenes dramaturgos al estilo de Calderón, «pájaros
               nuevos».</note> de términos que oyó a otros poetas:</p>
-          <quote>
-            <l>Soneto culto del poeta papagayo al suspiro de Crisaura<note place="bottom">Se trata
+            <p>Soneto culto del poeta papagayo al suspiro de Crisaura<note place="bottom">Se trata
                 de la primera composición culta de las evocadas por la raposa. Gómez de Tejada, con
                 no poca sorna, reprueba aquí los vicios de dicha escuela. Si bien oscuro, este
                 soneto no se define por un hermetismo tan extremo como los siguientes (el del tordo
@@ -2708,7 +2705,8 @@
                 no se hallan en nuestros tratadistas áureos. Tampoco […] pensaban igual los poetas:
                 Góngora, Lope, Cervantes, Barahona de Soto o Juan de Arguijo, entre otros muchos, no
                 desdeñaron, en un momento u otro, las posibilidades que ofrecía [su] rara
-                musicalidad».</note></l>
+                musicalidad».</note></p>
+          <quote>
             <l>Bélica honestidad, entre candores<note place="bottom">candor: «blancura, no entendida
                 simplemente como color, sino la que está unida y tiene en sí resplandor, y arroja de
                 sí una como luz»; por metáfora, «sinceridad, pureza y candidez del ánimo»
@@ -2717,7 +2715,7 @@
                 fuente» (<hi rend="i">Convoca los poetas de Andalucía a que celebren al marqués de
                   Ayamonte</hi> «Cisnes de Guadïana, a sus riberas», 1607, vv. 12-14
                 [OC170.12-14]), «Venza no solo en su candor la nieve» (<hi rend="i">Soledad primera</hi>,
-                «Era del año la estación florida», 1613, v. 97 [OC264B.97]). </note>,</l>
+              «Era del año la estación florida», 1613, v. 97 [OC264B.97]). Vover a la nota <ref xml:id="ref17" target="ref18">182</ref>.</note>,</l>
             <l>crepúsculos<note place="bottom">crepúsculo: sustantivo muy habitual en Góngora,
                 reprobado con no menos asiduidad por sus zoilos. Juan de Jáuregui (2002: 45-46) se
                 cebó con él en su <hi rend="i">Antídoto contra la pestilente poesía de las Soledades</hi>
@@ -2768,8 +2766,7 @@
                 que esto llamó Séneca, lib. 2 de Tra., cap. 9, necesidad y amor de errar:
                   <hi rend="i">Inter caetera mortalitatis incommoda et hoc est caligo mentium, nec tantum
                   necessitas errandi sed errorum amor</hi>» (transcripción en curso de Martínez
-                Varela, 5-6). Véase por último Sandoval (2019: 41-80). <hi
-                  rend="color_FF0000">–230994–</hi></note></l>
+                  Varela, 5-6). Véase por último Sandoval (2019: 41-80). Volver a la nota <ref xml:id="ref8" target="ref7">68</ref></note></l>
             <l>cometas<note place="bottom">cometa: aquí con doble sentido: 1) «cierto globo luminoso
                 que aparece en el cielo en algunas ocasiones, y siempre, como se ha observado
                 modernamente, superior a la luna» (<hi rend="i">Aut</hi>.); y 2) «una figura que imita la
@@ -2852,7 +2849,7 @@
                 temor de la Noruega ardiente, o incluso el hielo etíope (nótese la hipálage), y
                 disuelva la vida en el fuego de la pasión y la esperanza en el viento (el «aura» de
                 Crisaura).</note>.</l>
-          </quote>
+          
           <p>– No le entiendo –dijo el lebrel.</p>
           <p><hi rend="color_FF0000 note">– <note>valentía: «singular habilidad, propiedad y acierto
                 en la semejanza de las cosas que se pintan» (<hi rend="i">Aut</hi>.); y también «fantasía
@@ -2894,11 +2891,11 @@
               buen sabor». Nótese la antítesis entre esta ave, pequeña y oscura, dechado aquí de los
               cultos, y los cisnes que asomarán después.</note> culto:</p>
           <quote>
-            <l>Del tordo culto al suspiro de Crisaura<note place="bottom">Vuelve a destacar el abuso
+            <p>Del tordo culto al suspiro de Crisaura<note place="bottom">Vuelve a destacar el abuso
                 del hipérbaton, que deviene en una sintaxis desconcertante. Gómez de Tejada también
                 recurre a personajes mitológicos («Dafne», «Venus», «el planeta quinto», o sea,
                 Marte) y presenta el suspiro de la amada como un mal que enamora (vv.
-              12-14).</note></l>
+              12-14).</note></p>
             <l>Volcán, si de corales en su cinto<note place="bottom">corales en su cinto: Gómez de
                 Tejada se refiere aquí a la lava, de color coral, que rodea a la superficie externa
                 del volcán (que cabría identificar con la propia Crisaura y, en buena lógica, con
@@ -3000,15 +2997,14 @@
               consonantes geminadas, o bien el concurso de una serie vocálica de notable amplitud,
               le venía como anillo a [las obras épicas], dejando para la expresión de la
               sentimentalidad las notas más placenteras (<hi rend="i">tenerezza</hi>)» (Vega Ramos 1992:
-              248). <hi rend="color_FF0000">–161188–</hi></note></p>
+                  248). Volver a la nota <ref xml:id="ref9" target="ref10">106</ref>.</note></p>
           <quote>
             <l>Tiemble la tierra y, con furor horrendo,</l>
             <l>Euro<note place="bottom">Euro: «viento del Sudoeste. Es hijo de Eos (la Aurora) y de
                 Astreo, o acaso de Tifón» (Grimal 1989: 188). Véase Ovidio
                   (<hi rend="i">Metamorfosis</hi>, VI, 675-721). Bóreas tenía serpientes en lugar de
                 pies, aunque en el arte se le atribuyen pies humanos calzados con coturnos. Como los
-                otros dioses-viento (Céfiro, Euro y Noto), era hijo de Astreo y de Eos. <hi
-                  rend="color_FF0000">–210485–</hi></note> los montes de su gruta rompa<note
+                otros dioses-viento (Céfiro, Euro y Noto), era hijo de Astreo y de Eos. Volver a la nota <ref xml:id="ref12" target="ref11">315</ref>.</note> los montes de su gruta rompa<note
                 place="bottom">Nótese la <hi rend="i">asprezza</hi> del endecasílabo, deudora de la
                 octava XII de la <hi rend="i">Fábula de Polifemo y Galatea</hi>: «rompe Tritón su caracol
                 torcido, / sordo huye el bajel a vela y remo: / tal la música es, de Polifemo»
@@ -3093,7 +3089,7 @@
             y ruido? –dijo el lebrel–. Un suspiro blando, suave y tierno no es capaz de pensamientos
             y términos horrísonos y rimbombantes<note place="bottom">Gómez de Tejada abunda en la
               antítesis entre <hi rend="i">asprezza</hi> y <hi rend="i">tenerezza</hi>, ya glosada en la nota
-               <hi rend="color_FF0000">–161188–</hi>. Aquí entendemos por qué
+              <ref xml:id="ref10" target="ref9">95</ref>. Aquí entendemos por qué
               eligió un suspiro de la dama como tema del soneto, pues nada hay más leve, discreto,
               íntimo y contrario a la artillería pesada de la retórica “culta”.</note>. ¿Qué guarda
             ese hinchadísimo poeta para una deshecha borrasca, en que todos los vientos, rompiendo
@@ -3263,7 +3259,7 @@
                 ardientes, tras saber que su marido había muerto en la batalla de Filipos (s. I. a.
                 C.). Véase también el divertido soneto culto de Antonio Enríquez Gómez (1991:
                 243-245) en la academia del capítulo X de sus <hi rend="i">Transmigraciones</hi> (1644):
-                «Calzábase Amariles los coturnos». <hi rend="color_FF0000">–290979–</hi></note>
+              «Calzábase Amariles los coturnos». Volver a la nota <ref xml:id="ref13" target="ref14">190</ref>.</note>
               abrasa el pecho,</l>
             <l>un áspid<note place="bottom">De nuevo el áspid, esta vez en referencia al suicidio de
                 Cleopatra. Aunque los datos no resultan concluyentes, se dice que se quitó la vida
@@ -3419,13 +3415,13 @@
               agradar a los ignorantes esta andanada contra la rima, algo que gusta a los individuos
               más obtusos y toscos, como ya observara Boscán.</note>:</p>
           <quote>
-            <l><space> </space>El que atiende a la parte más perfecta,</l>
+            <l>    El que atiende a la parte más perfecta,</l>
             <l>ponderando y midiendo consonantes,</l>
             <l>a ridículo estorbo se sujeta.</l>
-            <l><space> </space>El ser forzoso que apercibas antes</l>
+            <l>    El ser forzoso que apercibas antes</l>
             <l>lo menos sustancial, verbos y nombres</l>
             <l>que suenen con acentos semejantes:</l>
-            <l><space> </space>y que si ha de acabar la estancia en <hi rend="i">hombres</hi>,</l>
+            <l>    y que si ha de acabar la estancia en <hi rend="i">hombres</hi>,</l>
             <l>como si te mostrase alguna fiera,</l>
             <l>diga el verso anterior: «que no te asombres».</l>
           </quote>
@@ -3596,7 +3592,7 @@
                 de Figueroa en el texto citado, o bien el que tuvo lugar, con el Atlántico de por
                 medio, entre José Pérez de Montoro y sor Juan Inés de la Cruz. El primero sostuvo en
                 un romance que podía haber amor sin celos y la Fénix de México le repuso lo
-                contrario (véase Tenorio, 2004). <hi rend="color_FF0000">–041086–</hi></note>,</l>
+                contrario (véase Tenorio, 2004). Volver a la nota <ref xml:id="ref15" target="ref16">168</ref>.</note>,</l>
             <l>pues al amor sujetan inhumano.</l>
             <l>Contra un desdén no hay poderosa mano:</l>
             <l>volcanes un desprecio vuelve hielos,</l>
@@ -3706,11 +3702,11 @@
             nombre:</p>
           <p>Soneto satírico al suspiro de Crisaura</p>
           <quote>
-            <l><space> </space>Suspira el avariento por dinero,</l>
+            <l>    Suspira el avariento por dinero,</l>
             <l>por venganza el cobarde y desalmado,</l>
             <l>el lascivo en sus vicios obstinado,</l>
             <l>de ambición combatido el caballero.</l>
-            <l><space> </space>Suspira por comer el escudero,</l>
+            <l>    Suspira por comer el escudero,</l>
             <l>por pleitos y discordias el letrado,</l>
             <l>por enfermos el médico olvidado,</l>
             <l>por un príncipe necio el lisonjero<note place="bottom">Esta pulla contra los
@@ -3760,7 +3756,7 @@
             <l>¡Ay de celos, si un rico en dar porfía!</l>
             <l>¡Ay de amor, con respeto y cobardía!</l>
             <l>¡Ay de celos, que no reparan daños!<note place="bottom">A propósito del motivo de los
-                celos, remito a la nota <hi rend="color_FF0000">–041086–</hi>. </note></l>
+              celos, remito a la nota <ref xml:id="ref16" target="ref15">154</ref>. </note></l>
             <l>¡Ay de amor, que marchita verdes años!</l>
             <l>¡Ay de celos, en llamas nieve fría!</l>
             <l>¡Ay de amor, en un necio confiado!</l>
@@ -3826,8 +3822,7 @@
                 entendido / que guarda más bien Cupido / al que guarda su secreto») [OC36.41-42] y
                 en la <hi rend="i">Fábula de Píramo y Tisbe</hi> («La ciudad de Babilonia», 1618, vv.
                 101-104: «¡Oh Píramo lo que hace, / <hi rend="i">joveneto</hi> ya robusto / que sin alas
-                podía ser / hijo de Venus segundo!») [OC317.101-104]. <hi rend="color_FF0000"
-                  >–123456–</hi></note>,</l>
+              podía ser / hijo de Venus segundo!») [OC317.101-104]. Volver a la nota <ref xml:id="ref1" target="ref2">26</ref></note>,</l>
             <l>acrocerauna prole de esqueletos<note place="bottom">acrocerauna: adjetivo relativo a
                 los montes Acroceraunios, localizados en la región griega de Molosia. Reciben su
                 nombre de la unión de las voces <hi rend="i">ακρóς</hi> (‘agudo’, ‘puntiagudo’,
@@ -3860,8 +3855,7 @@
                 131-132): «[…] Tenent media omnia siluae / Cocytusque sinu labens circumuenit atro»
                 («[…] Todo el centro bosques lo ocupan / y el Cocito lo envuelve fluyendo con negra
                 curvatura» (Virgilio 2011: 132).</note>.</l>
-            <l>Candor<note place="bottom">Sobre la voz «candor», remito a la nota <hi
-                  rend="color_FF0000">–130957–</hi>.</note>, si no pirausta<note place="bottom"
+            <l>Candor<note place="bottom">Sobre la voz «candor», remito a la nota <ref xml:id="ref18" target="ref17">65</ref>.</note>, si no pirausta<note place="bottom"
                 >pirausta: «animalillo o insecto algo mayor que una mosca, con alas y cuatro pies,
                 que nace y vive en el fuego y si se aparta de él, muere luego» (<hi rend="i">DRAE</hi>,
                 1780). Late bajo este sustantivo el rastro del motivo poético-emblemático de la
@@ -3873,8 +3867,7 @@
                 Anfitrita<note place="bottom">Anfitrita o Anfítrite era la diosa griega del mar
                 tranquilo, esposa de Poseidón.</note></l>
             <l>poco cede, si mucho adunca<note place="bottom">adunca: en latín, <hi rend="i">aduncus, a,
-                  um</hi> es un adjetivo que quiere decir ‘corvo’, ‘ganchudo’. Véase la nota <hi
-                  rend="color_FF0000">–111253–</hi> de esta edición. En el corpus gongorino aparece
+              um</hi> es un adjetivo que quiere decir ‘corvo’, ‘ganchudo’. Véase la nota <ref xml:id="ref4" target="ref3">49</ref> de esta edición. En el corpus gongorino aparece
                 en la <hi rend="i">Soledad segunda</hi> («Éntrase el mar por un arroyo breve», 1614, vv.
                 783-785): «De un mancebo serrano / el duro brazo débil hace junco, / examinando con
                 el pico adunco / sus pardas plumas, el azor britano» [OC264C.783-785]. </note>,
@@ -3894,7 +3887,7 @@
             <l>Marte al amor construya parapetos,</l>
             <l>crepúsculos vibrando<note place="bottom">Guiño al endecasílabo gongorino «entre
                 espinas crepúsculos pisando» (<hi rend="i">Soledad primera</hi>, 1613, v. 48)
-                [OC264B.48]. Véase la nota <hi rend="color_FF0000">–230994–</hi>.</note>, impulso
+              [OC264B.48]. Véase la nota <ref xml:id="ref7" target="ref8">187</ref>.</note>, impulso
               excita.</l>
             <l>Sus que penetra piro, diente eburno<note place="bottom">eburno: forma latina de
                   <hi rend="i">ebúrneo</hi>, «cosa perteneciente o hecha de marfil» (<hi rend="i">Aut</hi>.).
@@ -3920,8 +3913,7 @@
                   <hi rend="i">púrpura</hi>, siendo magnífica, y no <hi rend="i">múrice de Tiro</hi>? Nótese
                 con cuidado que todo lo que escribe o es humilde o enigma o barbarismo».</note>
               diseña, y colorido,</l>
-            <l>brasas de Porcia<note place="bottom">Véase la nota <hi rend="color_FF0000"
-                  >–290979–.</hi></note>, de Lucrecia copos<note place="bottom">Alude a la blancura
+            <l>brasas de Porcia<note place="bottom">Véase la nota <ref xml:id="ref14" target="ref13">122</ref>.</note>, de Lucrecia copos<note place="bottom">Alude a la blancura
                 de la piel de Lucrecia, doblemente blanca: por lo bella y pura, y por lo muerta y
                 desangrada. Se trata de un detalle en el que también reparó Francisco Rojas Zorrilla
                 en el monólogo final de su tragedia de <hi rend="i">Lucrecia y Tarquino</hi>: «<hi
@@ -4333,14 +4325,13 @@
               planeta, región de tierra y agua e inferior. La segunda, la del aire, era helada, y en
               ella nacían el granizo y las nieves. La superior o tórrida, la más vecina al Sol, era
               la del fuego, y de ahí se originaban los rayos, truenos y relámpagos». Considero, tal
-              como repetiré en la nota <hi rend="color_FF0000">–240660–</hi>, que Gómez de Tejada se
+              como repetiré en la nota <ref xml:id="ref20" target="ref19">238</ref>, que Gómez de Tejada se
               refiere aquí a Etiopía. </note>, se ha de dar razón de su engaño y por qué en tanto
             fuego soplan vientos frescos y en algunas partes es intolerable el frío. Y por lo que
             toca a las celestiales influencias y por la plaga<note place="bottom">plaga: «en la
               geografía significa lo mismo que clima o zona» (<hi rend="i">Aut</hi>.). El talaverano
               piensa en un tipo de cielo concreto para los trogloditas, que, por el color de su
-              piel, ha de corresponderse con el Sol, cuarto cielo en la concepción tolemaica. <hi
-                rend="color_FF0000">–240660–</hi></note> del Cielo a que corresponden los
+              piel, ha de corresponderse con el Sol, cuarto cielo en la concepción tolemaica. Volver a la nota <ref xml:id="ref19" target="ref20">237</ref>.</note> del Cielo a que corresponden los
             trogloditas, no se ha de olvidar una línea ni un punto de toda la cosmografía hasta
             tocar el Cielo impíreo<note place="bottom">cielo impíreo: «lo mismo que Empíreo»
                 (<hi rend="i">Aut</hi>.). El Empíreo es el Cielo (<hi rend="i">Aut</hi>.); en concreto el más
@@ -4950,7 +4941,7 @@
             rayos caso mentían novísimo del brillante globo, confuso el orden de sus acordes
               ruedas<note place="bottom">ruedas: las órbitas del cosmos en la cosmografía
               tolemaica.</note>, a quien sordos respondían euros y áfricos<note place="bottom"
-              >Remito a la nota <hi rend="color_FF0000">–210485–</hi>; áfrico: «viento que corre
+                >Remito a la nota <ref xml:id="ref11" target="ref12">95</ref>; áfrico: «viento que corre
               entre el austro y el céfiro; y por venir de la parte de África, con poca corrupción se
               llamó así» (<hi rend="i">Aut</hi>.).</note> que, ciegos a obediencias, bien que
             involuntarias, de superiores no señas, leyes sí, rotas las prisiones y levantando el
@@ -5024,7 +5015,7 @@
               retirarse» (<hi rend="i">Aut</hi>.).</note>; entonces, vengativas aguas, Nembrodes
               agraviados<note place="bottom">Nembrodes: más conocido como Nembrot, se trata del
               tirano de Mesopotamia que mandó construir la torre de Babel. Véase al respecto la nota
-                <hi rend="color_FF0000">–111253–.</hi></note>, disculpando babeles más altos si
+                <ref xml:id="ref6" target="ref5">49</ref></note>, disculpando babeles más altos si
             menos firmes, más firmes si menos altos, por escalas de influjos<note place="bottom"
               >influjo: «la acción de influir o causar los efectos cualquier causa sublunar,
               celeste, o moral» (<hi rend="i">Aut</hi>.)</note> borrar estrellas, de cuya hermosura,
