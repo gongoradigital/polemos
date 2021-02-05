@@ -126,7 +126,8 @@
           </row>
         </table>
         -->
-    <front><div>
+    <body>
+      <div type="introduction">
         <head>Introducción<note place="bottom">Agradezco a los profesores Mercedes Blanco (Sorbonne
             Université), Juan Montero (Universidad de Sevilla), Aude Plagnard (Université Paul
             Valéry-Montpellier) y Paolo Tanganelli (Università di Ferrara) su ayuda y consejos
@@ -2519,8 +2520,6 @@
            </div>
           </div>
         </div></div>
-    </front>
-    <body>
       <div>
         <index indexName="resp" n="Gómez de Tejada y de los Reyes, Cosme"/>
         <index indexName="date" n="1634"/>
@@ -2534,7 +2533,7 @@
             una de las valencias con las que se usaba entonces la voz <hi rend="i">policía</hi>:
             «cortesía, buena crianza y urbanidad en el trato y costumbres»
             (<hi rend="i">Aut</hi>.).</note> de Cosme Gómez de Tejada y de los Reyes</head>
-        <div subtype="level2">
+        <div>
           <head>Apólogo XLII. De varios espíritus<note place="bottom">espíritu: ‘ingenio’. Así, «del
               que es ingenioso y descubre viveza en sus actos y acciones se dice que tiene o
               descubre espíritu» (<hi rend="i">Aut</hi>.). Con tal sentido lo empleó Rufo en uno de sus
@@ -2999,7 +2998,7 @@
               sentimentalidad las notas más placenteras (<hi rend="i">tenerezza</hi>)» (Vega Ramos 1992:
                   248). Volver a la nota <ref xml:id="ref9" target="ref10">106</ref>.</note></p>
           <quote>
-            <l>Tiemble la tierra y, con furor horrendo,</l>
+            <lg><l>Tiemble la tierra y, con furor horrendo,</l>
             <l>Euro<note place="bottom">Euro: «viento del Sudoeste. Es hijo de Eos (la Aurora) y de
                 Astreo, o acaso de Tifón» (Grimal 1989: 188). Véase Ovidio
                   (<hi rend="i">Metamorfosis</hi>, VI, 675-721). Bóreas tenía serpientes en lugar de
@@ -3019,7 +3018,7 @@
                 español, con dos lanzas, / y, con el alma y la vida, / a una gallarda africana, /
                 tan noble como hermosa, / tan amante como amada, / con quien estaba una noche, /
                 cuando tocaron al arma» [OC64.1-8].</note> y de su vana trompa</l>
-            <l>huyan las nubes el horrible estruendo.</l>
+              <l>huyan las nubes el horrible estruendo.</l></lg><lg>
             <l>Tema volver el mundo al caos tremendo</l>
             <l>y el móvil<note place="bottom">móvil: «se llama primer <hi rend="i">móvil</hi> a aquella
                 esfera superior que se considera estar más alta que el firmamento: la cual,
@@ -3029,7 +3028,7 @@
                 viento, movido por el suspiro, incluso podría causar que los días dejen de ser días
                 y las noches dejen de ser noches.</note>, que sus cursos interrumpa,</l>
             <l>victoria clame y, con gloriosa pompa,</l>
-            <l>celebre el triunfo bravo y estupendo;</l>
+                <l>celebre el triunfo bravo y estupendo;</l></lg><lg>
             <l>que si a toda la tierra es formidable<note place="bottom">formidable: «horroroso,
                 pavoroso y que infunde asombro y miedo» (<hi rend="i">Aut</hi>.).</note></l>
             <l>el viento bravo, vano y furibundo,</l>
@@ -3061,7 +3060,7 @@
                 299r) en otro pasaje del <hi rend="i">León prodigioso</hi>: «Despeñose luego la más alta
                 cumbre de un monte de aguas y, acometiendo furiosamente a la popa de la Almiranta,
                 haciéndola dar tres vueltas alrededor, un rápido remolino la sepultó en el
-                  <hi rend="i">profundo</hi>».</note>,</l>
+                <hi rend="i">profundo</hi>».</note>,</l></lg><lg>
             <l>sujeta al bruto más inexpugnable,</l>
             <l>y con él la razón, que es más que el mundo<note place="bottom">El soneto del pavón
                 solicita: 1) que la tierra tiemble y que Euro rompa los montes de su gruta con su
@@ -3074,7 +3073,7 @@
                 suspender las esferas y las profundidades abisales, y también de sujetar la fiera
                 más rebelde y hasta la misma razón del hombre, la cual –como microcosmos dentro de
                 ese microcosmos que ya es el propio hombre– representa más que el mundo
-                material.</note>.</l>
+                material.</note>.</l></lg>
           </quote>
           <p>– Bien, <quote><hi rend="i">sed nunc non erat his locus</hi></quote><note place="bottom">‘No
               es su momento’. Locución tomada de <title>Quinto Horacio Flaco</title>, <hi rend="i">Epístola
@@ -3768,7 +3767,7 @@
                 «entre los galanes, la dama a quien uno sirve y galantea» (<hi rend="i">Aut</hi>.). Cabe
                 pensar que también podría usarse a la inversa, en referencia al hombre al que la
                 dama otorga sus favores, como en este caso.</note>!</l>
-            <l>¡Dichoso el pardal solo que la goza!</l></lg>
+            <l>¡Dichoso el pardal solo que la goza!</l></lg> 
           </quote>
           <p>– ¡Cierra esa vil boca –dijo el africano colérico<note place="bottom">africano
               colérico: es decir, Auricrino.</note>–, que por ella te sacaré el alma con la
@@ -3786,7 +3785,7 @@
           <p>Puso los ojos Auricrino en la ciudad, y olvidado de la presente ocasión de sentimiento
             contra la raposa, apresuró el paso, y lo mismo hicieron sus compañeros.</p>
         </div>
-        <div subtype="level2">
+        <div>
           <head>Apólogo XLIII. Del soneto culto</head>
           <p>– El búho, poeta infausto, aunque príncipe de los épicos, escénicos y líricos, que
             tales principados<note place="bottom">principado: «primacía, ventaja o superioridad con
