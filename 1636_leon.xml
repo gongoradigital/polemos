@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>León prodigioso. Apología moral entretenida y provechosa a las buenas costumbres,
-          trato virtuoso y político</title>
+          trato virtuoso y político. Apólogos XLII y XLIII</title>
         <author key="Gómez de Tejada y de los Reyes, Cosme">Cosme Gómez de Tejada y de los
           Reyes</author>
         <editor>Victoria Aranda Arribas</editor>
@@ -32,7 +32,7 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/1624_nochesclaras</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/gongora/16376_leon</idno>
         <date when="2020"/>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
@@ -65,7 +65,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date when="1634"/>
+        <date when="1636"/>
       </creation>
       <langUsage>
         <language ident="es"/>
@@ -211,17 +211,16 @@
               culteranismo. […] Se muestran discordancias, se censuran giros y frases, se alegan
               autoridades, se subrayan extravagancias y los bien pertrechados censores acaban
               incurriendo en las faltas que critican». Estas palabras se les ajustan como un guante
-              a los dos apólogos de Gómez de Tejada.</note>.</p>
-          <p>King (1963: 193) subrayó que las «novelas de aventuras» del siglo XVII fueron las menos
+              a los dos apólogos de Gómez de Tejada.</note>. Sobre este particular, King (1963: 193) subrayó que las «novelas de aventuras» del siglo XVII fueron las menos
             propicias a interpolaciones académicas:</p>
-          <p>el novelista tenía un modelo clásico […] que seguir [el de Heliodoro y Aquiles Tacio],
+          <quote><p>el novelista tenía un modelo clásico […] que seguir [el de Heliodoro y Aquiles Tacio],
             y esto le impedía interrumpir el hilo del relato con las numerosas digresiones poéticas
             o eruditas tan frecuentes en otros géneros novelísticos. Solo tres novelas de aventuras
             escritas en este siglo se desviaron del patrón general; dos de ellas son alegorías
             vaciadas en el molde de la novela bizantina [el <hi rend="i">León prodigioso</hi> y el
               <hi rend="i">Criticón</hi> de Gracián], y la otra […] una obra muy tardía, no publicada
             hasta 1701, en la que la imitación de Heliodoro es muy vaga: la <hi rend="i">Historia de Liseno
-              y Fenisa</hi> (Madrid, 1701) de Párraga Martel de la Fuente.</p>
+              y Fenisa</hi> (Madrid, 1701) de Párraga Martel de la Fuente.</p></quote>
           <div>
             <head>1.1. La apología y el apólogo</head>
             <p>Sin duda, lo más interesante del título del <hi rend="i">León prodigioso</hi> es la
@@ -330,12 +329,12 @@
               aportación de Collenuccio y aproximándose, por ello, al diálogo renacentista<note
                 place="bottom">Ambos moldes confluirían en más de una oportunidad: «[las] fábulas
                 antiguas típicamente agonales derivan ya en puro debate o diálogo y el fenómeno se
-                acentúa en época helenística». Esto daría pie a la inserción de animales en otros
+                acentúa en época helenística» (Vian Guerrero 1987: 470). Esto daría pie a la inserción de animales en otros
                 famosos diálogos, como el <hi rend="i">Diálogo de la Mosca y la Hormiga</hi> de Juan de
                 Jarava –«más influenciado por Fedro que por Luciano» (Vian Guerrero 1988: 479 y
                 460)– o el mismísimo <hi rend="i">Coloquio de los perros</hi> de Cervantes (aunque este
                 último, claro está, excede cualquier límite genérico).</note>.</p>
-            <p>Ya en España, Juan Luis Vives(<hi rend="i">De ratione
+            <p>Ya en España, Juan Luis Vives (<hi rend="i">De ratione
                 dicendi</hi>, 1533) estableció una antinomia entre la «fábula apólogo» (al estilo
               de Esopo, que conlleva una enseñanza) y la «milesia», que solo persigue el
               entretenimiento y resulta tan abominable como los libros de caballerías. Tal
@@ -374,7 +373,7 @@
                 próxima a la del <hi rend="i">León</hi>. El protagonismo recae aquí sobre un viejo zorro
                 y su hijo. Como el volumen que nos ocupa, el del madrileño tiene como objetivo una
                 serie de lecciones morales, aunque teñidas de sátira y de picaresca. No obstante,
-                según Bonilla Cerezo (2020, en prensa), en más de una ocasión este último texto se
+                según Bonilla Cerezo (Bonilla 2020: 269-270), en más de una ocasión este último texto se
                 ha etiquetado como «apólogo» o «fábula», idea con la que se muestra en desacuerdo:
                   «<hi rend="i">La peregrinación sabia</hi> es muchísimo más que un cuento de zorritos.
                 […] Para Salas […] una ‘fábula’ es también una ‘novelita’; lo que no obsta para que
@@ -385,8 +384,7 @@
                 «los integrantes zoomorfos de esta academia representan otros tantos géneros
                 literarios y hasta se han identificado con autores concretos, contemporáneos [todos
                 ellos] de Salas Barbadillo, a través de los cuales la postura del mismo autor en la
-                controversia anticulterana cobra un relieve plástico e individual» (Albert, 2020, en
-                prensa). Véase asimismo King (1963: 170).</note>.</p>
+                controversia anticulterana cobra un relieve plástico e individual» (Albert 2020: 234-235). Véase asimismo King (1963: 170).</note>.</p>
             <p>En suma, gracias a los humanistas italianos, el apólogo salió enriquecido de su paso
               por el Renacimiento:</p>
             <quote>
@@ -415,7 +413,7 @@
               funciona como un cuerpo en el que, a lo largo de cincuenta y cuatro apólogos, se
               imbrica un puñado de digresiones. Por ello se ha relacionado el relato con la novela
               griega, mal llamada «novela bizantina», como lo hace el autor del estudio más amplio
-              que poseemos sobre este género, González Rovira (1992: 95; 1996: 343). Asistimos, de
+              que poseemos sobre este modelo, González Rovira (1992: 95; 1996: 343). Asistimos, de
               acuerdo con los usos de este género, la separación y el reencuentro final de los
               amantes, cosidos por una <hi rend="i">peregrinatio amoris</hi> que conduce a Auricrino
               hasta Crisaura<note place="bottom">Vilanova (1952: 434) definió al peregrino de amor
@@ -428,7 +426,7 @@
                 Crisaura.</note>.</p>
             <p>La etiqueta «bizantina», sancionada por Menéndez Pelayo para la novela griega, peca
               de arbitraria, puesto que los principales modelos del género son anteriores a Bizancio
-              y al cristianismo, y ha sido rebatida en los últimos años:</p>
+              y al cristianismo, y ha sido rebatida en los últimos años:</p><quote>
             <p>No son pocos los estudiosos que han protestado contra esta denominación, ya
               impugnándola como Alban Forcione y Jean-Marc Pelorson, ya ignorándola, ya
               sustituyéndola por otra u otras: así, ‘novelas de amor y de aventura’ (Christine
@@ -437,8 +435,8 @@
               la sección del congreso de hispanistas alemanes de 2015 dirigida por Hanno Ehrlicher y
               Jörg Dünne, ‘novelas de aventuras áureas’. Michael Armstrong-Roche, por su parte, lo
               presenta como exponente –tal vez único, y en todo caso aislado– de un género <hi rend="i">sui
-                generis</hi> que denomina ‘<hi rend="i">epic novel</hi>’, novela épica» (Blanco 2016:
-              108).</p>
+                generis</hi> que denomina ‘<hi rend="i">epic novel</hi>’, novela épica (Blanco 2016:
+              108).</p></quote>
             <p>A todas ellas habría que añadir la de «libros de aventuras peregrinas» (López Estrada
               1980: 276), que es la que mejor describe el material que nos traemos entre manos. Sin
               embargo, el <hi rend="i">León prodigioso</hi> no sigue todas las claves del género que
@@ -518,7 +516,7 @@
               origen y características de las fiestas» (Arizpe y Madroñal 2018: 11).</p>
             <p>En su libro dejó constancia de su espíritu crítico. Demostró un notable conocimiento
               de los asuntos de política europea, deseando que «España y Francia sean dos balanças y
-              Inglaterra el fiel» (Gómez de Tejada y de los Reyes, 1650: f. 103v). Censuró con
+              Inglaterra el fiel» (Gómez de Tejada y de los Reyes 1650: f. 103v). Censuró con
               notable valentía la fiebre nacional de la pureza de sangre, como se desprende de la
               siguiente cita del <hi rend="i">León prodigioso… Segunda parte</hi>, que a Madroñal (1991:
               290-291) le ha sugerido un posible origen converso:</p>
@@ -541,7 +539,7 @@
                   amantes filosóficos</hi>, asunto nuevo, estilo uniforme. Y así, de la fortuna
                 del primer libro, colegiré la del segundo, si edad y ejercicio no le mejoran.
                 Escribiré también un poema contrapuesto al que te ofrezco de la <hi rend="i">Nada</hi>,
-                que será el <hi rend="i">Todo</hi>» (1636: 7v).</note>. El <hi rend="i">León prodigioso.
+                que será el <hi rend="i">Todo</hi>» (1636: f. 7v).</note>. El <hi rend="i">León prodigioso.
                 Entendimiento y Verdad, amantes philosóphicos para exemplo de lo que se debe amar, y
                 de lo que se debe aborrecer, así en la vida privada como en la pública. Segunda
                 parte</hi> bien podría haber recibido otro título, ya que poco tiene que ver con
@@ -612,7 +610,7 @@
             <p>Nótese que <hi rend="i">La Nada</hi>, bautizada «poema tropológico», había aparecido en el
                 <hi rend="i">León prodigioso</hi> (1636: 409r-440r). En los dos apólogos que edito se
               registra otra alusión al clérigo: la raposa celebra un tratado escrito por «un poeta
-              elborense de la Carpetania» (1636: 292r), perífrasis que se refiere a la ciudad de
+              elborense de la Carpetania» (1636: f. 292r), perífrasis que se refiere a la ciudad de
               Talavera y, por ende, al escritor. Y el susodicho Constancio hará nuevo acto de
               presencia en la <hi rend="i">Nochebuena</hi> (1661: 15):</p>
             <quote>
@@ -625,10 +623,10 @@
                 a la música de tales días.</p>
             </quote>
             <p>Además de estos versos con pseudónimo, Madroñal halló otros compuestos para el
-              Certamen poético de Minerva al Santísimo Sacramento en la fiesta que celebra la
+              <hi rend="i">Certamen poético de Minerva al Santísimo Sacramento en la fiesta que celebra la
               Cofradía de la Minerva, en la perrocchial del señor San Pedro, en la noble villa de
-              Talavera (1631). Y participaría también en una justa toledana de 1616, publicada en la
-              Descripción de la capilla de Nuestra Señora del Sagrario (1617) de Pedro de
+              Talavera</hi> (1631). Y participaría también en una justa toledana de 1616, publicada en la
+              <hi rend="i">Descripción de la capilla de Nuestra Señora del Sagrario</hi> (1617) de Pedro de
               Herrera.</p>
             <p>Tradujo con finura a Ausonio (<hi rend="i">Quod vitae sectabor iter</hi>) y a Horacio
                 (<hi rend="i">Beatus ille</hi>), paráfrasis que recogería el tomo IV del <hi rend="i">Parnaso
@@ -668,7 +666,7 @@
                 Poesía’, <hi rend="i">idem</hi>, apólogo XLI; y los sonetos que empiezan: ‘Belisa
                 honestidad entre candores’, f. 491, ‘Tiemble la tierra y con furor horrendo’,
                   <hi rend="i">idem</hi>, también recogido en el tomo XLII de la BAE, ‘Un fuego y otro a
-                Parcia abrasa el pecho’, f. 492, ‘Amor contra valientes corazones’, f. 493, ‘Fiero
+                Porcia abrasa el pecho’, f. 492, ‘Amor contra valientes corazones’, f. 493, ‘Fiero
                 es amor que con poder tirano’, <hi rend="i">idem</hi>, ‘Sale esparciendo abriles el
                 Aurora’, f. 494, ‘Suspira el avariento por dinero’, <hi rend="i">idem</hi>, también
                 recogido en el tomo XLII de la <hi rend="i">BAE</hi>, y ‘Ay amor, que su imperio es
@@ -685,8 +683,7 @@
               (1976) publicó una edición diplomática precedida de un estudio. Recientemente, el
                 <hi rend="i">León prodigioso</hi> ha sido rescatado, también sin glosas, por Arizpe y
               Madroñal (2018).</p>
-            <p>Nuestro autor tuvo en su tiempo y más tarde cierta honorable notoriedad, en su tiempo
-              y más tarde. Barrera y Leirado emitió un juicio favorable en su<hi rend="i"> Catálogo
+            <p>Nuestro autor tuvo en su tiempo y más tarde cierta honorable notoriedad. Barrera y Leirado emitió un juicio favorable en su<hi rend="i"> Catálogo
                 Biográfico y Bibliográfico del Teatro Antiguo Español</hi> (1860), aportando datos
               sobre su vida y una relación de su obra dramática y en prosa (1968: 173-174). Defiende
               que la novela del <hi rend="i">León prodigioso</hi> «va interpolada de excelentes versos» y
@@ -702,7 +699,7 @@
               autor del XVII, poeta y filósofo moral de muy buen gusto literario y de mucha
               ciencia»; y Milego (1909: 153), en cambio, tropezó al llamarlo Cosme Gutiérrez y
               confundir el <hi rend="i">León prodigioso</hi> con un auto.</p>
-            <p>Como ya se indicó,, Menéndez Pelayo (1974: 831) le dedica una nota de su
+            <p>Como ya se indicó, Menéndez Pelayo (1974: 831) le dedica una nota de su
                 <hi rend="i">Historia de las ideas estéticas en España</hi> (1903), situándolo entre los
               impugnadores del culteranismo, como alumno de Baltasar de Céspedes y miembro de la
               Escuela de Salamanca<note place="bottom">Comellas (2018: 34) apunta que Gómez de
@@ -727,9 +724,9 @@
               la narración de peregrinaciones, haciendo una relectura alegórica de las mismas.</p>
             <p>Gómez de Tejada tenía ideas firmes sobre el oficio de poeta, como evidencia en el
               apólogo XLI (<hi rend="i">De la poesía, su origen, pobreza y peregrinación</hi>, f. 275r),
-              donde resume en breves palabras la principal tesis de la Poética de Aristóteles (la
+              donde resume en breves palabras la principal tesis de la <hi rend="i">Poética</hi> de Aristóteles (la
               poesía es imitación y no verso) y una de las declaraciones más famosas de Horacio en
-              el Arte poética, 372 (no se permite a los poetas ser mediocres (<hi rend="i">mediocribus esse
+              el <hi rend="i">Arte poética</hi>, 372 (no se permite a los poetas ser mediocres (<hi rend="i">mediocribus esse
                 poetis non dii, non homines, non concessere columnae</hi>) :</p>
             <quote>
               <p>A cuantos escriben versos llama poetas y a no pocos porque los desearon escribir
@@ -740,7 +737,7 @@
                 y artes.</p>
             </quote>
             <p>Lejos de reducirse a la carrera eclesiástica, se sintió atraído por el estudio y se
-              entretenía «en las letras humanas, a las cuales siempre [fue] aficionado» (1636: 7v).
+              entretenía «en las letras humanas, a las cuales siempre [fue] aficionado» (1636: f. 7v).
               Parece haber practicado una suerte de humanismo ecléctico con aspiraciones
               enciclopédicas, alcanzando saberes tan dispares como los que luce en <hi rend="i">El
                 filósofo</hi>. Defensor a ultranza de la claridad y «amante de [los] motivos
@@ -774,7 +771,7 @@
                 acto de virtud y objeto de su veneno; si te llamo pío, benigno, cándido, benévolo,
                 amigo, de ninguna cosa tienes menos y ninguna conoces más. Piérdense mis lisonjas y
                 páganse con risa. Si te llamo curioso, es desaliñado epíteto, si cristiano, bien
-                puede leer un infiel; si docto, pensarás que solamente hablo contigo (1636: 7r).</p>
+                puede leer un infiel; si docto, pensarás que solamente hablo contigo (1636: f. 7r).</p>
             </quote>
             <p>Según veremos, el licenciado demostraría su agudeza en la composición de versos, lo
               cual se aprecia en los sonetos de estos apólogos, en los que imita, a la vez que
@@ -796,7 +793,7 @@
               Dejé la universidad y, pasados muchos años en otros estudios y ocupaciones, acaso
               revolviendo papeles, encontré los apólogos casi olvidados que antiguamente escribí.
               Acordeme de la censura de mi maestro, leilos; el amor de padre me obligó a mirarlos
-              como hijos (Gómez de Tejada y de los Reyes 1636: 7v).</p>
+              como hijos (Gómez de Tejada y de los Reyes 1636: f. 7v).</p>
           </quote>
           <p>Se colige sin dificultad que después los corrigió, doctrinó y vistió «al uso, pero
             honestamente», para darlos a las prensas. Considerando que el licenciado se hallaba en
@@ -805,14 +802,14 @@
             retomarlo, lo cual no impide que, a través de las referencias de los apólogos XLII y
             XLIII, podamos hacernos una idea del momento en que se compusieron.</p>
           <p>Por ejemplo, el que uno de los participantes en la justa del Pardal sea un papagayo
-            acaso evoque la Relación de las fiestas que la insigne villa de Madrid hizo en la
+            acaso evoque la <hi rend="i">Relación de las fiestas que la insigne villa de Madrid hizo en la
             canonización de su bienaventurado hijo y patrón San Isidro, con … los versos que en la
-            justa poética se escribieron (Madrid, 1622) de Lope de Vega, para quien «hablar
+            justa poética se escribieron</hi> (Madrid, 1622) de Lope de Vega, para quien «hablar
             puramente castellano es usar aquellas locuciones y términos que sufre su dialecto y no
             con cuatro frasis andar toda su poesía al torno, diciendo siempre una misma cosa, con
             que parecen papagayos de su inventor, o que se prestan unos a otros las mismas palabras»
             (85). No extrañaría, entonces, que los dos apólogos de Gómez de Tejada fueran algo
-            posteriores a la Relación.</p>
+            posteriores a la <hi rend="i">Relación</hi>.</p>
           <p>Al final del XLIII, Pardalín pone sobre el tapete que «la dignidad culta» se alcanza
             «con pocas frases y palabras de memoria (a diez o veinte las reduce un ingenioso
             anticulto)» (1636: f. 295v). Lo más probable es que el escudero aluda con estas palabras
@@ -822,8 +819,8 @@
             célebre obrilla:</p>
           <table>
             <row>
-              <cell><p>Aguja para navegar cultos con la receta para hacer «Soledades» en un día (1631)</p></cell>
-              <cell><p>León prodigioso (1636)</p></cell>
+              <cell><p><hi rend="i">Aguja para navegar cultos con la receta para hacer «Soledades» en un día</hi> (1631)</p></cell>
+              <cell><p><hi rend="i">León prodigioso</hi> (1636)</p></cell>
             </row>
             <row>
               <cell>
@@ -977,12 +974,12 @@
             la epístola que nos interesa se escribió en Nápoles, antes, por lo tanto de 1615, fecha
             en la que Bartolomé ya era canónigo del Salvador de Zaragoza. No es posible fijar el
             momento en que la conoció Gómez de Tejada, entre 1615 y 1634, fecha de las aprobaciones
-            de <hi rend="i">El León prodigioso</hi>. Parece probable que fuera a través de uno de los
+            del <hi rend="i">León prodigioso</hi>. Parece probable que fuera a través de uno de los
             numerosos manuscritos que acabamos de referir.</p>
           <p>Por otro lado, el autor del <hi rend="i">León prodigioso</hi> se haría eco de los
             escoliastas de las <hi rend="i">Soledades</hi> de Góngora, a los que no les faltaron
             detractores. El apólogo XLIII parodia tanto el estilo culto como las glosas altisonantes
-            y divagatorias de los eruditos de altos vuelos que comentan a los poetas latinos, de lo
+            y divagatorias de los eruditos de altos vuelos que comentan a los poetas latinos, de los
             cuales Góngora sería una suerte de epítome. Según la raposa,</p>
           <quote>
             <p>se quiebran y nos quiebran las cabezas en contar historias y fábulas de que están
@@ -1111,9 +1108,9 @@
             troglodita», «acrocerauna prole de esqueletos»). Estos endecasílabos coronan la retórica
             que desaprueba el autor del <hi rend="i">León prodigioso</hi> y reúne todo lo malo de los
             vistos en el apólogo anterior: latinismos y neologismos («múrice», «jovenetos»),
-            sintaxis enrevesada («<hi rend="i">Sus</hi> que penetra <hi rend="i">piro</hi>, diente eburno» /
+            sintaxis enrevesada («<hi rend="i">Sus</hi> que penetra <hi rend="i">piro</hi>, diente eburno /
             al múrice diseña, y colorido»), mitología («Marte al amor construya parapetos», «Candor,
-            si no pirausta, que Anfitrita / […]»), estilo solemne y rimas forzadas.</p>
+            si no pirausta, que Anfitrita»), estilo solemne y rimas forzadas.</p>
           <p>Como se ha dicho, Gómez de Tejada compone a propósito del soneto del búho una larga y
             mordaz censura de los escoliastas, que interpretan los textos sin penetrar su sentido.
             Ofrecerá luego un ejemplo de estas glosas a propósito del primer verso: «Clarín que
@@ -1222,12 +1219,12 @@
               obstinación (1636: f. 291v.).</p>
           </quote>
           <p>Cabe subrayar que Gómez de Tejada debió de consultar la Epístola a los Pisones a través
-            de la edición de Josse Bade (Omnia poemata: cum ratione carminum, &amp; Argumentis
+            de la edición de Josse Bade (<hi rend="i">Omnia poemata: cum ratione carminum, &amp; Argumentis
             ubique insertis, Interpretibus Acrone, Porphyrione, Iano Parrhasio, Antonio Mancinello,
-            necnon Iodoco Badio Ascensio, viris eruditissimis, Venecia, apud haeredes Petri Ravani
+            necnon Iodoco Badio Ascensio, viris eruditissimis</hi>, Venecia, apud haeredes Petri Ravani
             et Socios, 1549), ya que trae a colación una apostilla del comentarista belga (1549:
-            290): «Non [ergo] omnia quae auctoritatem habent nisi et consuetudinem habent imitari
-            liceat» (en la traducción de Gómez de Tejada: «no es buena excusa la autoridad si no se
+            290): «<hi rend="i">Non [ergo] omnia quae auctoritatem habent nisi et consuetudinem habent imitari
+            liceat</hi>» (en la traducción de Gómez de Tejada: «no es buena excusa la autoridad si no se
             acompaña de la costumbre», 1636: f. 294r).</p>
           <p>Por lo demás, el agudo talaverano acude a otros latinos para defender el estilo claro.
             Solo cuatro referencias hay en el apólogo XLII, dedicado a la exposición y comento de
@@ -1235,17 +1232,17 @@
             el lebrel arguya que la raposa arremete contra los cultos sin motivo: «Menos palabras
             quisiera y más razones» (1636: f. 292r).</p>
           <p>La raposa tiene preferencia por Quintiliano, a quien recuerda en siete ocasiones. A su
-            vez, recala (¿?) con frecuencia en la <hi rend="i">Epístola a los Pisones</hi> de Horacio y
+            vez, recala con frecuencia en la <hi rend="i">Epístola a los Pisones</hi> de Horacio y
             en la <hi rend="i">Poética</hi> de Aristóteles. Se declara en contra del uso de palabras
             extranjeras, antiguas o inusuales, para lo que se apoya en Quintiliano, Aristóteles,
             Aulio Gelio (<hi rend="i">Noches áticas</hi>, lib. I, cap. X) y la <hi rend="i">Retórica a
-              Herenio</hi>, que, como era costumbre, atribuye a Cicerón. Como es costumbre para
+              Herenio</hi>, que, como otros ingenios de la época, atribuye a Cicerón. Como es costumbre para
             tales menesteres, denuncia la afectación y la oscuridad. Menciona a Séneca
               (<hi rend="i">Epístolas morales a Lucilio</hi>, lib. IV, ep. XXXIII y lib. XV, ep. C) y al
             epigrama X, 21 de Marcial, uno de los más repetidos dentro de la polémica gongorina,
             pues consta en Faria y Sousa (<hi rend="i">Noches claras</hi>, 1624), Jáuregui
-              (<hi rend="i">Discurso poético</hi> de Jáuregui, 1624), Quevedo (Prólogo a las obras de
-            Fray Luis de León, 1631), Cascales (<hi rend="i">Cartas sobre la poesía nueva de don Luis de
+              (<hi rend="i">Discurso poético</hi> de Jáuregui, 1624), Quevedo (<hi rend="i">Prólogo a las obras de
+                Fray Luis de León</hi>, 1631), Cascales (<hi rend="i">Cartas sobre la poesía nueva de don Luis de
               Góngora</hi>, 1634) y Angulo y Pulgar (<hi rend="i">Epístolas satisfactorias</hi>, 1635).
             De acuerdo con Quintiliano (<hi rend="i">La formación del orador</hi>, lib. XVII, cap. VI),
             la zorra también fustiga el abuso metafórico.</p>
@@ -1257,7 +1254,7 @@
           <p>En cuanto a los ingenios españoles, destaca la epístola de Bartolomé de Argensola («Yo
             quiero, mi Fernando, obedecerte») al pasar revista a las rimas forzadas: «El que atiende
             a la parte más perfecta, / ponderando y midiendo consonantes, / a ridículo estorbo se
-            sujeta» (1636: 286v). Se refiere a un sujeto que reducía las frases y palabras de los
+            sujeta» (1636: f. 286v). Se refiere a un autor que reducía las frases y palabras de los
             cultos a «diez o veinte» y que he identificado como un eco de la <hi rend="i">Aguja de navegar
               cultos</hi> (1631) de Quevedo. Periñán (1976: 169) dudó de que Gómez de Tejada
             aludiera a nadie en particular, concluyendo que se trataba de «la consabida manera de
@@ -1460,7 +1457,7 @@
             <item>Madrid, Bernardo de Villadiego, 1670 = M<hi rend="sub">2</hi><note place="bottom"
                 >Aparecen tres entradas para esta edición en el Catálogo Colectivo del Patrimonio
                 Bibliográfico Español, de las cuales una es copia de la de 1636. Las otras dos son
-                idé entre sí</note>.</item>
+                idénticas entre sí.</note>.</item>
             <item>Sevilla, Joseph de Hermosilla, 1732 = S. Es copia de M<hi rend="sub"
               >2</hi>.</item>
             <item>Manuscrito 11841 de la Österreichische Nationalbibliothek (Austria).</item>
@@ -1490,7 +1487,7 @@
           <table>
             <row>
               <cell>Texto crítico</cell>
-              <cell>ff. princeps</cell>
+              <cell>ff. <hi rend="i">princeps</hi></cell>
               <cell>M</cell>
               <cell>V</cell>
               <cell>M<hi rend="sub">2</hi></cell>
@@ -1604,16 +1601,16 @@
             </row>
             <row>
               <cell>lenguaje para culto</cell>
-              <cell/>
-              <cell>lenguaje para culto</cell>
-              <cell>lenguaje para cultos</cell>
-              <cell>lenguaje para culto</cell>
-              <cell>lenguaje para culto</cell>
-              <cell>lenguaje para culto</cell>
+              <cell>295v</cell>
+              <cell>lenguaje, para culto</cell>
+              <cell>lenguaje, para cultos</cell>
+              <cell>lenguaje, para culto</cell>
+              <cell>lenguaje, para culto</cell>
+              <cell>lenguaje, para culto</cell>
             </row>
             <row>
               <cell>vicios entiendo</cell>
-              <cell/>
+              <cell>295v</cell>
               <cell>vicios entiendo</cell>
               <cell>vicios teniendo</cell>
               <cell>vicios entiendo</cell>
@@ -1625,7 +1622,7 @@
           <table>
             <row>
               <cell>Texto crítico</cell>
-              <cell>ff. princeps</cell>
+              <cell>ff. <hi rend="i">princeps</hi></cell>
               <cell>M</cell>
               <cell>V</cell>
               <cell>M<hi rend="sub">2</hi></cell>
@@ -1672,7 +1669,7 @@
           <table>
             <row>
               <cell>Texto crítico</cell>
-              <cell>ff. princeps</cell>
+              <cell>ff. <hi rend="i">princeps</hi></cell>
               <cell>M</cell>
               <cell>V</cell>
               <cell>M<hi rend="sub">2</hi></cell>
@@ -1898,6 +1895,7 @@
                   [Manuscrito] / Póstuma escribióla en borrador el licenciado...; sacóla en limpio
                   Fray Alonso de Ajofrín, profeso del Monasterio de Santa Catalina, orden de San
                   Jerónimo</title>.</bibl>
+              <bibl>Österreichische Nationalbibliothek, 11841 HAN MAG: <title>León prodigioso, apología moral</title></bibl>
             </div>
             <div>
               <head>8.2.2 Impresos anteriores a 1800</head>
@@ -1922,7 +1920,7 @@
                 de Hermosilla, 1732.</bibl>
               <bibl>—, <title>León prodigioso. Entendimiento y Verdad, amantes philosóphicos para exemplo
                 de lo que se debe amar, y de lo que se debe aborrecer, así en la vida privada como
-                en la pública</title>. Segunda parte, Sevilla, por Joseph Antonio de Hermosilla,
+                en la pública. Segunda parte</title>, Sevilla, por Joseph Antonio de Hermosilla,
                 1732.</bibl>
               <p rend="noindent"><hi rend="sc">Ortúnñez de Calahorra</hi>, Diego:</p>
               <bibl>—, <title>Espeio de príncipes y cavalleros en el qual se cuentan los inmortales
@@ -1946,7 +1944,7 @@
                 Leyden, Ex officina Plantiniana, apud Christophorum Raphelengium, 1600.</bibl>
               <p rend="noindent"><hi rend="sc">Suárez de Figueroa</hi>, Ignacio:</p>
               <bibl>—, <title>Commento de P. Ovidio Nasón a los libros de Tristes, Ponto y Carta a
-                  Livia, Madrid, Francisco de Hiepio</title>, 1733.</bibl>
+                  Livia</title>, Madrid, Francisco de Hiepio, 1733.</bibl>
               <p rend="noindent"><hi rend="sc">Valdivieso</hi>, José de:</p>
               <bibl> —, <title>Vida, excelencias y muerte del glorioso patriarca, esposo de Nuestra
                   Señora, San José</title>, Toledo, Diego Rodríguez, 1604.</bibl>
@@ -1976,7 +1974,7 @@
               <bibl>—, «De pícaros a peregrinos. El paradigma del viaje y sus variaciones en
                   <title>La peregrinación sabia</title>», en Mechtild Albert, Victoria Aranda y
                 Leonardo Coppola (eds.), <title>La narrativa de Alonso Jerónimo de Salas
-                  Barbadillo</title>, Berna, Peter Lang, 2020 [en prensa].</bibl>
+                  Barbadillo</title>, Berna, Peter Lang, 2020, p. 225-240.</bibl>
               <p rend="noindent"><hi rend="sc">Alonso</hi>, Dámaso:</p>
               <bibl>—, <title>Vida y obra de Medrano</title>, t. II, Madrid, CSIC, 1948.</bibl>
               <bibl>—, <title>La lengua poética de Góngora</title>, Madrid, Andrés Mellado,
@@ -2044,7 +2042,7 @@
               <bibl>—, «¿Más poemas de Bartolomé Leonardo de Argensola?», <title>Nueva Revista de
                   Filología Hispánica</title>, vol. 29, núm. 2, 1980, p. 293-311.</bibl>
               <p rend="noindent"><hi rend="sc">Bocca</hi>, Claudia:</p>
-              <bibl>—, y CENTINI, Massimo, <title>Breve storia del Piamonte. Dalle origini ai giorni
+              <bibl>—, y <hi rend="sc">Centini</hi>, Massimo, <title>Breve storia del Piamonte. Dalle origini ai giorni
                   nostri</title>, Roma, Newton Compton Editori, 1995.</bibl>
               <p rend="noindent"><hi rend="sc">Bonilla Cerezo</hi>, Rafael:</p>
               <bibl>—, <title>Lacayo de risa ajena</title>, Córdoba, Diputación de Córdoba,
@@ -2064,7 +2062,7 @@
               <bibl>—, «<title>La peregrinación sabia</title> en las <title>Coronas del Parnaso y
                   platos de las musas</title> de Alonso Jerónimo de Salas Barbadillo», en Mechtild
                 Albert, Victoria Aranda y Leonardo Coppola (eds.), <title>La narrativa de Alonso
-                  Jerónimo de Salas Barbadillo</title>, Berna, Peter Lang, 2020 [en prensa].</bibl>
+                  Jerónimo de Salas Barbadillo</title>, Berna, Peter Lang, 2020, p. 241-318.</bibl>
               <p rend="noindent"><hi rend="sc">Boscán</hi>, Juan:</p>
               <bibl>—, <title>Obra completa</title>, Carlos Clavería (ed.), Madrid, Cátedra,
                 1999.</bibl>
@@ -2103,8 +2101,8 @@
                 ><title>El culto graduado</title></ref>, Rafael Bonilla Cerezo (ed.), edición digital en OBVIL,
                 2015.</bibl>
               <p rend="noindent"><hi rend="sc">Castro</hi>, Adolfo de:</p>
-              <p>—, <hi rend="i">Poetas líricos de los siglos XVI y XVII</hi>, t. I, Madrid, M.
-                Rivadeneyra, 1857.</p>
+              <bibl>—, <title>Poetas líricos de los siglos XVI y XVII</title>, t. I, Madrid, M.
+                Rivadeneyra, 1857.</bibl>
               <p rend="noindent"><hi rend="sc">Catulo</hi>, Cayo Valerio:</p>
               <bibl>—, <title>Catulli Carmina</title>, Rosa González Galicia (ed.), Madrid, Babab,
                 2001.</bibl>
@@ -2159,7 +2157,7 @@
                 tradición y su legado</title>, Madrid / Frankfurt, Iberoamericana / Vervuert, 2019.</bibl>
               <p rend="noindent"><hi rend="sc">Fernández Vallina</hi>, Emiliano:</p>
               <bibl>—, «Introducción al Tostado. De su vida y de su obra», <title>Cuadernos
-                  salmantinos de filosofía</title>, núm. 15, 1988, 153-177.</bibl>
+                  salmantinos de filosofía</title>, núm. 15, 1988, p. 153-177.</bibl>
               <p rend="noindent"><hi rend="sc">Figueras Martí</hi>, Miguel Alberto:</p>
               <bibl>—, «Monzón en la vida y la obra de Ignacio de Luzán. Notas autobiográficas en
                   <title>La Gatomiomaquia</title> y otros poemas», <title>Cuadernos del Centro de
@@ -2220,7 +2218,7 @@
               <bibl>—, <title>Cartas de San Jerónimo</title>, Daniel Ruiz Bueno (ed.), t. I, Madrid,
                 La editorial Católica, 1962.</bibl>
               <p rend="noindent"><hi rend="sc">Juvenal</hi>, Decio Junio:</p>
-              <bibl>—, <title>Sátiras</title>, Segura Ramos (ed.), Madrid, CSIC, 1996.</bibl>
+              <bibl>—, <title>Sátiras</title>, Bartolomé Segura Ramos (ed.), Madrid, CSIC, 1996.</bibl>
               <p rend="noindent"><hi rend="sc">King</hi>, Willard F.:</p>
               <bibl>—, <title>Prosa novelística y academias literarias en el siglo XVII</title>,
                 Madrid, Anejos del Boletín de la Real Academia Española, 1963.</bibl>
@@ -2246,7 +2244,7 @@
                 sabido”», en Juan Matas Caballero, José María Micó y Jesús Ponce Cárdenas (coords.),
                   <title>Góngora y el epigrama. Estudios sobre las décimas</title>,
                 Madrid/Frankfurt, Iberoamericana/Vervuert, 2013, p. 123-142.</bibl>
-              <p rend="noindent">López Poza, Sagrario:</p>
+              <p rend="noindent"><hi rend="sc">López Poza</hi>, Sagrario:</p>
               <bibl>—, «Emblemática aplicada y artificios de la cultura visual en los juegos
                 caballerescos del Siglo de Oro», en José María Díez Borque (coord.), <title>Cultura
                   oral, visual y escrita en la España de los Siglos de Oro</title>, 2010, p.
@@ -2354,8 +2352,8 @@
                 2005.</bibl>
               <p rend="noindent"><hi rend="sc">Poggi</hi>, Giulia:</p>
               <bibl>—, <title>Gli occhi del pavone. Quindici studi su Góngora</title>, Alinea, Firenze 2009.</bibl>
-              <p rend="noindent"><hi rend="sc">POLO DE MEDINA</hi>, Salvador Jacinto:</p>
-              <bibl>—, <title>Obras completas</title>, Valbuena Prat (ed.), Murcia, Academia Alfonso
+              <p rend="noindent"><hi rend="sc">Polo de Medina</hi>, Salvador Jacinto:</p>
+              <bibl>—, <title>Obras completas</title>, Ángel Valbuena Prat (ed.), Murcia, Academia Alfonso
                 X el Sabio, 1948.</bibl>
                 <p rend="noindent"><hi rend="sc">Ponce Cárdenas</hi>, Jesús:</p>
               <bibl>—, «Céfalo y Procris: siete variaciones para un relato mítico», en Calderón en
@@ -2389,15 +2387,15 @@
                   del español.</title> &lt;http://www.rae.es&gt; [último acceso: 06/06/2017] </bibl>
               <p rend="noindent" xml:lang="fr"><hi rend="sc">Reyes</hi>, Alfonso:</p>
               <bibl>—, «Cuestiones gongorinas: necesidad de volver a los
-                comentaristas», Revue hispanique: recueil consacré à l’étude des langues, des
-                littératures et de l’histoire des pays castillans, catalans et portugais, t. 65,
+                comentaristas», <title>Revue hispanique: recueil consacré à l’étude des langues, des
+                  littératures et de l’histoire des pays castillans, catalans et portugais</title>, t. 65,
                 núm. 147, 1925, p. 134-139.</bibl>
               <p rend="noindent"><hi rend="sc">Robles</hi>, Juan de:</p>
               <bibl>—, <title>El culto sevillano</title>, Alejandro Gómez Camacho (ed.), Sevilla,
                 Universidad de Sevilla, 1992.</bibl>
-              <p rend="noindent"><hi rend="sc">Rodríguez-Moñino</hi>, Antonio y BREY MARIÑO, María:</p>
+              <p rend="noindent"><hi rend="sc">Rodríguez-Moñino, Antonio y Brey Mariño, María</hi>:</p>
               <bibl>—, <title>Catálogo de los manuscritos poéticos castellanos existentes en la Biblioteca
-                de The Hispanic Society of America (Siglos XV, XVI y XVII)</title>, Nueva York: The Hispanic
+                de The Hispanic Society of America (Siglos XV, XVI y XVII)</title>, Nueva York, The Hispanic
                 Society of America, 1965.</bibl>
               <p rend="noindent"><hi rend="sc">Romanos</hi>, Melchora:</p>
               <bibl>—, «Grandeza y miseria de los comentaristas de Góngora en el siglo XVII», en
@@ -2455,11 +2453,11 @@
               <p rend="noindent"><hi rend="sc">Séneca</hi>, Lucio Anneo:</p>
               <bibl>—, <title>Epístolas morales a Lucilio</title>, Roca Meliá (ed.), tt. I y II,
                 Madrid, Gredos, 1986.</bibl>
-              <bibl>SERÉS, Guillermo:</bibl>
+              <p rend="noindent"><hi rend="sc">Serés, Guillermo:</hi></p>
               <bibl>—, <title>La transformación de los amantes</title>, Barcelona, Crítica, 1996.</bibl>
               <p rend="noindent"><hi rend="sc">Servio</hi>, Mauro Honorato:</p>
-              <bibl>—, Servii Grammatici qui feruntur in Vergilii Carmina Commentarii, I, Aeneidos
-                librorum I-V commentari, Georgius Thilo y Hermannus Hagen (eds.), Leipzig, Teubner,
+              <bibl>—, <title>Servii Grammatici qui feruntur in Vergilii Carmina Commentarii, I, Aeneidos
+                librorum I-V commentari</title>, Georgius Thilo y Hermannus Hagen (eds.), Leipzig, Teubner,
                 1986. </bibl>
               <p rend="noindent"><hi rend="sc">Simón Díaz</hi>, José:</p>
               <bibl>—, <title>Bibliografía de la Literatura Hispánica</title>, t. X, Madrid, CSIC, 1972.</bibl>
@@ -2507,18 +2505,18 @@
               <p rend="noindent"><hi rend="sc">Virgilio Marón</hi>, Publio:</p>
               <bibl>—, <title>Geórgicas</title>, Jaime Velázquez (ed.), Madrid, Cátedra,
                 1994.</bibl>
-              <bibl>—, <title>Bucólicas. Geórgicas</title>, Segura Ramos (ed.), Madrid, Alianza,
+              <bibl>—, <title>Bucólicas. Geórgicas</title>, Bartolomé Segura Ramos (ed.), Madrid, Alianza,
                 2003.</bibl>
               <bibl>—, <title>Eneida</title>, Luis Rivero García, Juan A. Estévez Sola, Miryam
-                Librán Moreno y Antonio Ramírez de Verger, t. II, Madrid, CSIC, 2011.</bibl>
+                Librán Moreno y Antonio Ramírez de Verger (eds.), t. II, Madrid, CSIC, 2011.</bibl>
               <p rend="noindent"><hi rend="sc">Vives</hi>, Juan Luis:</p>
               <bibl>—, <title>Del arte de hablar</title>, José Manuel Rodríguez Peregrina (ed.),
-                Granada: Universidad de Granada, 2000.</bibl>
+                Granada, Universidad de Granada, 2000.</bibl>
               <p rend="noindent"><hi rend="sc">Yoshida</hi>, Saiko:</p>
               <bibl>—, «Martín Vázquez Siruela. <title>Discurso sobre el estilo de don Luis de
                   Góngora</title>», en Francis Cerdán y Marc Vitse (eds.), <title>Autour les
                   «Solitudes» de Luis de Góngora</title> (anejos de <title>Criticón</title>, 4),
-                Toulouse, Presses Universitaires du Mirail, 1995, pp. 89-106.</bibl>
+                Toulouse, Presses Universitaires du Mirail, 1995, p. 89-106.</bibl>
            </div>
           </div>
         </div></div>
@@ -2550,9 +2548,9 @@
               poeta, como se ve en los siguientes ejemplos: «Pareciole a Faría se descubría mucho la
               venenosa y profundísima llaga de su envidioso corazón en haber prorrumpido tan
               pestíferos hálitos, y por no hacer patente su dolencia, moderó la <hi rend="i">censura</hi>
-              y templó artificiosamente el juicio» (1660_apologetico); «Esto he dicho por parecerme
+                y templó artificiosamente el juicio» (<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1662_apologetico">1662_apologetico</ref>); «Esto he dicho por parecerme
               que ninguno de los lugares de la <hi rend="i">censura</hi> hablaba formalmente de la
-              poesía» (1621_respuesta-colmenares); «Luego que vi rotulada con nombre de botica su
+                poesía» (<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_colmenares-contra-lope#Respuestaalacensuraantecedente">1621_respuesta-colmenares</ref>); «Luego que vi rotulada con nombre de botica su
                 <hi rend="i">censura</hi> de vuestra merced, me di por condenado a algún mal olor»
               (Fernández de Córdoba, <hi rend="i">Examen</hi>, 2019: 115).</note>; porque si todos se
             hubieran de referir, con los poemas de tantos versistas –o poetas<note place="bottom">En
@@ -2588,13 +2586,13 @@
               que ha presentado, hallando en él la bastante suficiencia y méritos que se requieren,
               según la constitución griega y la observada desde la edificación de la torre de
               Babilonia, nos lo tuvimos por bien, y así constituimos en el pretendido honor, con las
-              exenciones y prerrogativas siguientes» (1625_el-culto-graduado). Nótese que el mismo
+              exenciones y prerrogativas siguientes» (<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1625_el-culto-graduado">1625_el-culto-graduado</ref>). Nótese que el mismo
               término, si bien adjetivado («babilones»), figuraba también en la <hi rend="i">Aguja de
                 navegar cultos con la receta para hacer «Soledades» en un día</hi> (1631) de
               Quevedo (1993: 190): «Use mucho de <hi rend="i">líquido</hi> y de <hi rend="i">errante</hi>, /
               su poco de <hi rend="i">noturno</hi> y de <hi rend="i">caverna</hi>, / anden listos <hi rend="i">livor,
                 adunco</hi> y <hi rend="i">poro</hi>; / que ya toda Castilla, / con sola esta cartilla,
-              / se abrasa de poetas <hi rend="i">babilones</hi> / escribiendo sonetos confusiones». Volver a las notas <ref xml:id="ref3" target="ref4">185</ref> y <ref xml:id="ref5" target="ref6">329</ref>.</note>, que es lo mismo que cultas) un suspiro de
+              / se abrasa de poetas <hi rend="i">babilones</hi> / escribiendo sonetos confusiones».</note>, que es lo mismo que cultas) un suspiro de
             Crisaura, dudoso, confuso y lacón<note place="bottom">lacón: sinónimo de «lacónico»,
               esto es, «proveniente de Laconia» (<hi rend="i">Aut</hi>.). También «breve, conciso y
               compendioso. Dícese siempre del estilo, aludiendo al modo que tenían de hablar los
@@ -2613,7 +2611,7 @@
               cercanía fónica de los nombres de «Crisaura» y «Auricrino». Gómez de Tejada evoca aquí
               el tópico de <hi rend="i">Apolo auricrinitus</hi>, según el cual los cabellos del dios del
               sol y de la poesía resplandecen tanto como el propio astro, evocando la melena del
-              León. Véase Bonilla Cerezo (2009: 62). Auricrino es un león; de ahí lo oportuno del
+              león. Véase Bonilla Cerezo (2009: 62). Auricrino es un león; de ahí lo oportuno del
               nombre parlante, que alude a su dorada melena.</note>: o temido muerto, o esperado
             perdido. Era punto patético<note place="bottom">punto: «se toma también por parte o
               cuestión de alguna ciencia, como punto filosófico, punto teológico, etc.»
@@ -2631,7 +2629,7 @@
             poéticos se retiraron; y no hicieron mal, por no exponer su justicia en tribunal de
             jueces que no lo entendían<note place="bottom">El talaverano se refiere a un tribunal
               incapaz de juzgar los versos cultos. Remito, en clave burlesca, al del <hi rend="i">Culto
-                graduado</hi> de Castillo Solórzano (1625_el-culto-graduado), constituido por los
+                graduado</hi> de Castillo Solórzano (<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1625_el-culto-graduado">1625_el-culto-graduado</ref>), constituido por los
               maestros Latino, Griego y Garamanta: «–Estos señores regentes no se dejan ver fuera de
               su tribunal porque no hay orden para que por favor nadie negocie, y así el que recibe
               el grado lo ha de merecer su ciencia y habilidad. Con el portero de su académico
@@ -2651,7 +2649,7 @@
               ostentaban dicho puesto y de sus mujeres, llamadas <hi rend="i">flaminicas</hi>: «En los
               banquetes nadie ocupa nunca un lugar superior al del <hi rend="i">flamen</hi> de Júpiter,
               excepción hecha del rey de los sacrificios. […] Estas son las palabras de Marco
-              Varrón, tomadas de su libro II <hi rend="i">Sobre cuestiones divinas</hi> acerca del flamen
+              Varrón, tomadas de su libro II <hi rend="i">Sobre cuestiones divinas</hi> acerca del <hi rend="i">flamen</hi>
               de Júpiter: “Es el único que lleva gorro blanco, y conviene que así sea, ya como señal
               de su superioridad, ya porque a Júpiter se le sacrifican víctimas blancas”» (2009:
               410).</note>.</p>
@@ -2665,7 +2663,7 @@
           <p>– Como lo fueron del gobierno y fuero civil, criminal y paterno<note place="bottom"
               >fuero civil, criminal y paterno: aquí con el sentido de sus respectivas
               «jurisdicciones» (<hi rend="i">Aut</hi>.). La raposa señala que los jueces del certamen
-              carecen de criterio para valorar a los participantes; de igual manera que no lo tienen
+              carecen de criterio para valorar a los participantes; de igual manera que no lo tienen     
               –aunque deberían– para gobernar el gobernador en el ámbito urbano, el regidor en el
               civil, el caballero en el criminal (pues atiende a los desamparados y ajusticia a los
               pérfidos) y el sacerdote en el paterno, pues representa a Júpiter, rey de dioses.
@@ -2687,7 +2685,7 @@
               literaria se antoja muy del gusto de Lope, para quien, según dejó constancia en
                 <hi rend="i">La Filomena</hi>, Torres Rámila era un tordo; los plagiarios, cornejas; él
               mismo, un ruiseñor; y los jóvenes dramaturgos al estilo de Calderón, «pájaros
-              nuevos».</note> de términos que oyó a otros poetas:</p>
+              nuevos».</note> de términos que oyó a otros poetas:</p><p></p>
             <p>Soneto culto del poeta papagayo al suspiro de Crisaura<note place="bottom">Se trata
                 de la primera composición culta de las evocadas por la raposa. Gómez de Tejada, con
                 no poca sorna, reprueba aquí los vicios de dicha escuela. Si bien oscuro, este
@@ -2709,6 +2707,7 @@
                 Góngora, Lope, Cervantes, Barahona de Soto o Juan de Arguijo, entre otros muchos, no
                 desdeñaron, en un momento u otro, las posibilidades que ofrecía [su] rara
                 musicalidad».</note></p>
+          
           <quote>
             <lg><l>Bélica honestidad, entre candores<note place="bottom">candor: «blancura, no entendida
                 simplemente como color, sino la que está unida y tiene en sí resplandor, y arroja de
@@ -2716,9 +2715,9 @@
                   (<hi rend="i">Aut</hi>.). Es voz típicamente gongorina: «flores a vuestro estilo dará
                 el monte, / candor a vuestros versos las espumas / de Helicona darán, y de su
                 fuente» (<hi rend="i">Convoca los poetas de Andalucía a que celebren al marqués de
-                  Ayamonte</hi> «Cisnes de Guadïana, a sus riberas», 1607, vv. 12-14
-                [OC170.12-14]), «Venza no solo en su candor la nieve» (<hi rend="i">Soledad primera</hi>,
-              «Era del año la estación florida», 1613, v. 97 [OC264B.97]). Vover a la nota <ref xml:id="ref17" target="ref18">182</ref>.</note>,</l>
+                  Ayamonte</hi>, «Cisnes de Guadïana, a sus riberas», 1607, vv. 12-14
+              [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem170#l170.12">OC170.12-14</ref>]), «Venza no solo en su candor la nieve» (<hi rend="i">Soledad primera</hi>,
+              «Era del año la estación florida», 1613, v. 97 [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.97">OC264B.97</ref>]).</note>,</l>
             <l>crepúsculos<note place="bottom">crepúsculo: sustantivo muy habitual en Góngora,
                 reprobado con no menos asiduidad por sus zoilos. Juan de Jáuregui (2002: 45-46) se
                 cebó con él en su <hi rend="i">Antídoto contra la pestilente poesía de las Soledades</hi>
@@ -2762,14 +2761,14 @@
                   definimus, qui non quidem fugit, sed frequenter sine causa vagatur et temporibus
                   in res nugatorias consumplis, serius domum redit</hi>. Esto es ser
                   <hi rend="i">errante</hi>, y porque así camina este Peregrino, por eso le da este
-                epíteto, imitando en los versos y sentencia a Homero. […] Así también Apolonio llama
+                  epíteto, imitando en los versos y sentencia [<hi rend="i">sic</hi>] a Homero. […] Así también Apolonio llama
                   <hi rend="i">errantes</hi> a los Argonautas, lib. 1. […] Pero más alta pusieron su
                 imaginación estos Poetas, que no sólo entienden por errante al que vaga, sino al que
                 vaga cubierto el entendimiento de nubes, esto es, anublado con las pasiones propias,
                 que esto llamó Séneca, lib. 2 de Tra., cap. 9, necesidad y amor de errar:
                   <hi rend="i">Inter caetera mortalitatis incommoda et hoc est caligo mentium, nec tantum
                   necessitas errandi sed errorum amor</hi>» (transcripción en curso de Martínez
-                  Varela, 5-6). Véase por último Sandoval (2019: 41-80). Volver a la nota <ref xml:id="ref8" target="ref7">187</ref></note></l>
+                  Varela, 5-6). Véase por último Sandoval (2019: 41-80).</note></l>
             <l>cometas<note place="bottom">cometa: aquí con doble sentido: 1) «cierto globo luminoso
                 que aparece en el cielo en algunas ocasiones, y siempre, como se ha observado
                 modernamente, superior a la luna» (<hi rend="i">Aut</hi>.); y 2) «una figura que imita la
@@ -2783,18 +2782,18 @@
                 Derivado de <hi rend="i">concento</hi>: «canto acordado, armonioso y dulce que resulta de
                 varias voces concertadas» (<hi rend="i">Aut</hi>.). Aunque Góngora no usó nunca
                 concentuoso, sí muchas veces «concento», a veces en un contexto de quejas amorosas,
-                sensuales o sentimentales como en el <hi rend="i">Polifemo</hi> [OC255. 324], </note>
+                sensuales o sentimentales como en el <hi rend="i">Polifemo</hi> [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.324">OC255.324</ref>].</note>
               centro a ruiseñores</l>
             <l>que fue de quejas émulo<note place="bottom">émulo: «enemigo y contrario de otro, y su
                 competidor» (<hi rend="i">Aut</hi>.). Adjetivo típico de Góngora: <hi rend="i">Al marqués de
                   Ayamonte</hi> («Alta esperanza, gloria de estado»): «De vuestra fama oirá el
                 clarín dorado, / émulo ya del sol, cuanto el mar baña» (1607, vv. 5 y 6)
-                [OC169.5-6]; <hi rend="i">Fábula de Polifemo y Galatea</hi> («Estas que me dictó rimas
+                [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem169#l169.5">OC169.5-6</ref>]; <hi rend="i">Fábula de Polifemo y Galatea</hi> («Estas que me dictó rimas
                 sonoras»): «de un ojo ilustra el orbe de su frente, / émulo casi del mayor lucero»
-                (1612, vv. 51 y 52) [OC255.51-52]; y <hi rend="i">Soneto de don Francisco de Padilla,
+                (1612, vv. 51 y 52) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.51">OC255.51-52</ref>]; y <hi rend="i">Soneto de don Francisco de Padilla,
                   castellano de Milán</hi> («A este que admiramos en luciente»): «a este que
                 admiramos en luciente, / émulo del diamante, limpio acero» (1620, vv. 1 y 2)
-                [OC332.1-2]. Quevedo se había reído ya de la frecuencia de este cultismo en su
+                [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem332#l332.1">OC332.1-2</ref>]. Quevedo se había reído ya de la frecuencia de este cultismo en su
                   <hi rend="i">Aguja de navegar cultos</hi> (1993: 190): «cede, impide, cisuras,
                 petulante, / palestra, libra, meta, argento, alterna, / si bien disuelve
                   <hi rend="i">émulo</hi> canoro» (vv. 1-11).</note>, sonantes</l>
@@ -2827,7 +2826,7 @@
             <l>frío temor de la Noruega ardiente<note place="bottom">Gómez de Tejada se inspiró en
                 un par de versos de la <hi rend="i">Soledad primera</hi>: «tórrida la Noruega con dos
                 soles, / y blanca la Etïopia con dos manos» (1613, vv. 784-785)
-                [OC264B.784-785].</note></l>
+                [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.784">OC264B.784-785</ref>].</note></l>
             <l>si hielo etíope no, toque, y resuelva<note place="bottom">resolver: «disolver o
                 dividir un todo en sus partes, desatando o deshaciendo la unión»
                 (<hi rend="i">Aut</hi>.).</note></l>
@@ -2847,17 +2846,17 @@
                 el tigre pardal, que persevera en su conquista (aquí reificado como «viviente
                 diamante» –teniendo en cuenta que el diamante simboliza la paciencia inexpugnable en
                 la tradición emblemática («Inexpugnabilis», cap. XXXVI, en Pierio Valeriano
-                [Giovanni Pietro Dalle Fosse], 685, lib. XLI, p. 519); 2) a que el Auricrino (el
+                [Giovanni Pietro Dalle Fosse], 685, lib. XLI, p. 519); 2) a que Auricrino (el
                 león) le perdone la vida al condenado tigre; y 3) a que el suspiro toque el frío
                 temor de la Noruega ardiente, o incluso el hielo etíope (nótese la hipálage), y
                 disuelva la vida en el fuego de la pasión y la esperanza en el viento (el «aura» de
                 Crisaura).</note>.</l></lg></quote>
           <p>– No le entiendo –dijo el lebrel.</p>
-          <p>– <note>valentía: «singular habilidad, propiedad y acierto
-                en la semejanza de las cosas que se pintan» (<hi rend="i">Aut</hi>.); y también «fantasía
-                o viveza de la imaginación, con que se discurre gallardamente y con novedad en
-                alguna materia» (<hi rend="i">Aut</hi>.).</note>Si se dejara entender tan fácil y
-            brevemente –respondió la raposa–, no fuera culto. Esa es la valentía de la cultura: que
+          <p>– Si se dejara entender tan fácil y
+            brevemente –respondió la raposa–, no fuera culto. Esa es la valentía<note>valentía: «singular habilidad, propiedad y acierto
+              en la semejanza de las cosas que se pintan» (<hi rend="i">Aut</hi>.); y también «fantasía
+              o viveza de la imaginación, con que se discurre gallardamente y con novedad en
+              alguna materia» (<hi rend="i">Aut</hi>.).</note> de la cultura: que
             el poema se componga de sentencias escondidas, metáforas sin orden ni número, términos
             extraordinarios, opuestos y contrapuestos<note place="bottom">Según el abad de Rute,
               «sin duda, las palabras peregrinas, las metáforas y los perífrasis son ajenos del
@@ -2891,7 +2890,7 @@
               nos equivocamos, porque el <hi rend="i">turdus</hi> latino significa <hi rend="i">zorzal</hi>
               […]. El tordo común tiene alguna semejanza al zorzal, pero menor de cuerpo y no de tan
               buen sabor». Nótese la antítesis entre esta ave, pequeña y oscura, dechado aquí de los
-              cultos, y los cisnes que asomarán después.</note> culto:</p>
+              cultos, y los cisnes que asomarán después.</note> culto:</p><p></p>
             <p>Del tordo culto al suspiro de Crisaura<note place="bottom">Vuelve a destacar el abuso
                 del hipérbaton, que deviene en una sintaxis desconcertante. Gómez de Tejada también
                 recurre a personajes mitológicos («Dafne», «Venus», «el planeta quinto», o sea,
@@ -2913,7 +2912,7 @@
                 referencia al frío que reina en dichos lugares, del cual el suspiro es
                   <hi rend="i">parto</hi>, dada su gélida naturaleza. También Góngora había aludido a
                 esta región en el romance «Hanme dicho, hermanas» (1587, vv. 77-80): «De las demás
-                lenguas / es gran humanista, / señor de la griega / como de la escita» [OC65.77-80].
+                lenguas / es gran humanista, / señor de la griega / como de la escita» [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem65#l65.77">OC65.77-80</ref>].
                 Se recurría entonces a la voz <hi rend="i">escita</hi> bien para exagerar la dureza,
                 barbarie y fiereza, bien para hablar de arcos y arqueros, puesto que los griegos
                 consideraban propio de los bárbaros, y en concreto de los escitas, el disparar
@@ -2924,8 +2923,8 @@
               emulación de Cinto<note place="bottom">emulación de Cinto: con el <hi rend="i">parto</hi>
                 del primer miembro de este verso, el tordo alude al monte Cinto, donde Latona dio
                 luz a Apolo (Conti 2006: 261). El suspiro, aquí una ráfaga de viento helado, emula
-                por su elocuencia a Cinto, lugar de nacimiento de Apolo. </note>;</l></lg><lg>
-            <l>lustrado<note place="bottom">lustrar: «dar lustre, esplendor y brillantez a alguna
+                por su elocuencia a Cinto, lugar de nacimiento de Apolo. </note>;</l></lg>
+            <lg><l>lustrado<note place="bottom">lustrar: «dar lustre, esplendor y brillantez a alguna
               cosa» (<hi rend="i">Aut</hi>.).</note> su confuso laberinto,</l>
             <l>viento expira, parando esferas, leve,</l>
             <l>de fácil Dafne al cuarto el son que mueve<note place="bottom">Según la concepción
@@ -2935,16 +2934,16 @@
                 teoría musical en el que explicaba cómo una serie de leyes matemáticas subyacen en
                 los sistemas de notación y en los cuerpos celestes.</note>,</l>
             <l>de dura Venus al planeta quinto<note place="bottom">Según la concepción tolemaica,
-              Marte es el «planeta quinto». </note>:</l></lg><lg>
-                <l>objeto bate de contraria herida</l>
+              Marte es el «planeta quinto». </note>:</l></lg>
+            <lg><l>objeto bate de contraria herida</l>
             <l>sus alas, por templar el frío veneno</l>
-                <l>del activo, ligeras, elemento;</l></lg><lg>
-            <l>flechas de plomo<note place="bottom">Alusión a Cupido y, por metonimia, al carcaj en
+                <l>del activo, ligeras, elemento;</l></lg>
+            <lg><l>flechas de plomo<note place="bottom">Alusión a Cupido y, por metonimia, al carcaj en
                 el que portaba sus saetas: «Cupido tenía dos tipos de flechas, una con la punta de
                 oro que hacía amar, otra con la de plomo para aborrecer» (Juan de Piña 1635: fol.
                 18v). Dicha imagen –de origen clásico– llegó a las letras españolas a través de la
                 lírica trovadoresca y petrarquista. Véase Manero Sorolla (1990: 112-116). </note>,
-              rayo de la vida,</l></lg><lg>
+              rayo de la vida,</l>
             <l>si dorada penetra ausente seno,</l>
             <l>que Amor es fuego y simboliza viento<note place="bottom">“Si el volcán Etna (la boca
                 de Crisaura), aquí helado, si bien ceñido de labios de coral, bebe céfiros dulces)
@@ -2959,7 +2958,7 @@
                 salió de los labios de la propia Crisaura (el suspiro), metaforizada aquí como un
                 Etna glacial. Por ello, los espíritus de amor de la dama son ahora flechas de plomo,
                 ya que desdeñaba al galán, pero, paradójicamente, también le infundían calor, vida,
-                al penetrar en el ausente seno (cuando no la tiene delante, esos rayos, “grabados”
+                al penetrar en el ausente seno (cuando no la tiene delante, esos rayos, ‘grabados’
                 en su alma, le permiten evocarla), pues amor es fuego y simboliza
               viento”.</note>.</l></lg></quote>          
           <p>– Deja esos disparates, hermana raposa –dijo el lebrel–, y refiérenos algún soneto
@@ -2977,8 +2976,8 @@
               asimismo que en la <hi rend="i">Soledad primera</hi> de Góngora la Lisonja doraba sus
               plantas a la Soberbia para que, igualadas con las del pavón, abriera sus hermosas
               plumas en abanico: «No a la Soberbia está aquí la Mentira / dorándole los pies en
-              cuanto gira / la esfera de sus plumas» (vv. 129-131) [OC264B.129-131].</note>,
-            escribió así:</p>
+              cuanto gira / la esfera de sus plumas» (vv. 129-131) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.129">OC264B.129-131</ref>].</note>,
+            escribió así:</p><p></p>
           <p>Soneto del soberbio pavón<note place="bottom">pavón: «pavo real» (<hi rend="i">Aut</hi>.).
               Poggi (2009: 127-150) estudió el motivo en Góngora. Reproduzco a continuación un texto
               sacado de una versión griega del <hi rend="i">Physiologus</hi>, atribuida a San Epifanio
@@ -2998,20 +2997,20 @@
               consonantes geminadas, o bien el concurso de una serie vocálica de notable amplitud,
               le venía como anillo a [las obras épicas], dejando para la expresión de la
               sentimentalidad las notas más placenteras (<hi rend="i">tenerezza</hi>)» (Vega Ramos 1992:
-                  248). Volver a la nota <ref xml:id="ref9" target="ref10">106</ref>.</note></p>
+                  248).</note></p>
           <quote>
             <lg><l>Tiemble la tierra y, con furor horrendo,</l>
             <l>Euro<note place="bottom">Euro: «viento del Sudoeste. Es hijo de Eos (la Aurora) y de
                 Astreo, o acaso de Tifón» (Grimal 1989: 188). Véase Ovidio
                   (<hi rend="i">Metamorfosis</hi>, VI, 675-721). Bóreas tenía serpientes en lugar de
                 pies, aunque en el arte se le atribuyen pies humanos calzados con coturnos. Como los
-                otros dioses-viento (Céfiro, Euro y Noto), era hijo de Astreo y de Eos. Volver a la nota <ref xml:id="ref12" target="ref11">316</ref>.</note> los montes de su gruta rompa<note
+                otros dioses-viento (Céfiro, Euro y Noto), era hijo de Astreo y de Eos.</note> los montes de su gruta rompa<note
                 place="bottom">Nótese la <hi rend="i">asprezza</hi> del endecasílabo, deudora de la
                 octava XII de la <hi rend="i">Fábula de Polifemo y Galatea</hi>: «rompe Tritón su caracol
                 torcido, / sordo huye el bajel a vela y remo: / tal la música es, de Polifemo»
-                (1612, vv. 94-96) [OC255.94-96]; y acaso también de la LXI: «celoso trueno antiguas
+                (1612, vv. 94-96) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.94">OC255.94-96</ref>]; y acaso también de la LXI: «celoso trueno antiguas
                 hayas mueve: / tal, antes que la opaca nube rompa, / previene, rayo, fulminante
-                trompa», (vv. 486-488) [OC255.486-488]. En ambos pasajes el rumor de los versos se
+                trompa», (vv. 486-488) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.486">OC255.486-488</ref>]. En ambos pasajes el rumor de los versos se
                 asocia con la representación de un cataclismo inducido por el cíclope, ora con su
                 música, ora con su celosa violencia.</note>,</l>
             <l>al arma toque<note place="bottom">tocar el arma: «tocar a prevenirse los soldados y
@@ -3019,7 +3018,7 @@
                 el romance «Servía en Orán al rey» (1587, v. 8): «Servía en Orán al rey / un
                 español, con dos lanzas, / y, con el alma y la vida, / a una gallarda africana, /
                 tan noble como hermosa, / tan amante como amada, / con quien estaba una noche, /
-                cuando tocaron al arma» [OC64.1-8].</note> y de su vana trompa</l>
+                cuando tocaron al arma» [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem64#l64.1">OC64.1-8</ref>].</note> y de su vana trompa</l>
               <l>huyan las nubes el horrible estruendo.</l></lg><lg>
             <l>Tema volver el mundo al caos tremendo</l>
             <l>y el móvil<note place="bottom">móvil: «se llama primer <hi rend="i">móvil</hi> a aquella
@@ -3036,8 +3035,8 @@
             <l>el viento bravo, vano y furibundo,</l>
             <l>un suspiro de amor con aura<note place="bottom">aura: «aire leve, suave, lo más
                 blando y sutil del viento, que sin ímpetu se deja sentir»
-                (<hi rend="i">Aut</hi>.).</note> afable</l>
-            <l>suspende las esferas<note place="bottom">esferas: ‘esferas celestes’. Se decía que
+                (<hi rend="i">Aut</hi>.).</note> afable</l></lg>
+            <lg><l>suspende las esferas<note place="bottom">esferas: ‘esferas celestes’. Se decía que
                 Orfeo era capaz de suspender (o sea, de mantener atentos a su música) a animales y
                 plantas. Por desaforada hipérbole, el suspiro suspende aquí a las esferas celestes.
                 Lo mismo sugirió Góngora sobre el canto alterno de Lícidas y Micón (el «piscatorio
@@ -3049,7 +3048,7 @@
                 tiro / del carro, perezoso honor del cielo; / mas ¡ay!, que del rüido / de la
                 sonante esfera / a la una luciente y otra fiera / el piscatorio cántico impedido, /
                 con las prendas bajaran de Cefeo / a las vedadas ondas, / si Tetis no (desde sus
-                grutas hondas) / enfrenara el deseo» (1614, vv. 612-625). [OC264c. 612-625]</note> y
+                grutas hondas) / enfrenara el deseo» (1614, vv. 612-625) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.612">OC264C.612-625</ref>].</note> y
               el profundo<note place="bottom">profundo: como sustantivo, acostumbra a usarse en
                 referencia al infierno y también al mar. Transcribo algunos ejemplos espigados del
                   <hi rend="i">CORDE</hi>: «Antes que Eva soy criada, / y antes que el hombre en el mundo
@@ -3062,7 +3061,7 @@
                 299r) en otro pasaje del <hi rend="i">León prodigioso</hi>: «Despeñose luego la más alta
                 cumbre de un monte de aguas y, acometiendo furiosamente a la popa de la Almiranta,
                 haciéndola dar tres vueltas alrededor, un rápido remolino la sepultó en el
-                <hi rend="i">profundo</hi>».</note>,</l></lg><lg>
+                <hi rend="i">profundo</hi>».</note>,</l>
             <l>sujeta al bruto más inexpugnable,</l>
             <l>y con él la razón, que es más que el mundo<note place="bottom">El soneto del pavón
                 solicita: 1) que la tierra tiemble y que Euro rompa los montes de su gruta con su
@@ -3120,19 +3119,19 @@
               príncipes y reyes; mas, en efecto, es sólo un entretenimiento y gusto, no acción
               heroica en lo militar ni en lo civil».</note>?</p>
           <quote>
-            <l>Pictoribus atque Poetis</l>
-            <l>quidliber audendi semper fuit aequa potestas,</l>
-            <l>scimus, et hanc veniam petimusque damusque vicissim</l>
-            <l>sed non ut placidis coeant immitia: non ut</l>
-            <l>serpentes avibus geminentur, tigribus agni<note place="bottom"><title>Quinto Horacio
+            <lg><l><hi rend="i">Pictoribus atque Poetis</hi></l>
+              <l><hi rend="i">quidliber audendi semper fuit aequa potestas,</hi></l>
+              <l><hi rend="i">scimus, et hanc veniam petimusque damusque vicissim</hi></l>
+              <l><hi rend="i">sed non ut placidis coeant immitia: non ut</hi></l>
+              <l><hi rend="i">serpentes avibus geminentur, tigribus agni</hi><note place="bottom"><title>Quinto Horacio
                   Flaco</title>, <hi rend="i">Epístola a los Pisones</hi> (<hi rend="i">Arte poética</hi>)
                   (<hi rend="i">Epistula ad Pisones</hi> [<hi rend="i">Ars poetica</hi>]), vv. 9-13: «‘Los
                 pintores y los poetas siempre han tenido el mismo derecho de atreverse a cuanto les
                 plazca’. Lo sabemos, y esa licencia pedimos y por nuestra parte la damos; pero no
                 para que se junten con los animales mansos las bestias feroces, no para que se
                 emparejen con las aves las sierpes o con los corderos los tigres» (2008:
-                384).</note>.</l>
-            <l>Igual poder pintores y poetas</l>
+                384).</note>.</l></lg>
+            <lg><l>Igual poder pintores y poetas</l>
             <l>tienen para fingir, yo lo confieso,</l>
             <l>y esta licencia damos y admitimos;</l>
             <l>mas no para juntar cosas crüeles</l>
@@ -3151,7 +3150,7 @@
                   Castellana</hi> y de [los] <hi rend="i">Emblemas morales</hi>) un ‘Horacio traducido
                 en español’, manuscrito en 4º, pero solo hay referencias posteriores a la de las
                 sátiras en verso suelto. Hay otra alusión a una traducción completa en verso suelto
-                de un jesuita» (Marías 2016: 7). </note>.</l>
+                de un jesuita» (Marías 2016: 7). </note>.</l></lg>
           </quote>
           <p>– El poema que pide verso humilde y abatido, como la serpiente, ¿por qué ha de usurpar
             plumas de águilas y neblíes<note place="bottom">neblí: «especie de halcón, que se cría
@@ -3162,7 +3161,7 @@
               amarillos» (<hi rend="i">Aut.</hi>). Esta ave cetrera también aparece en la <hi rend="i">Soledad
                 segunda</hi>: «el neblí que, relámpago su pluma, / rayo su
                 garra, su ignorado nido / o lo esconde el Olimpo, o densa es nube» (vv. 745-747)
-                [OC264C.745-747]. Ly (1995) distinguió tres jerarquías dentro de la “república
+                [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.745">OC264C.745-747</ref>]. Ly (1995) distinguió tres jerarquías dentro de la “república
                 alada” de las <hi rend="i">Soledades</hi>, precisando que los neblíes se
                 sitúan en el escalón más alto, el de las rapaces: «Au plus bas de l’échelle, poules,
                 dindons et perdrix sont destinés à la table du banquet de noces paysannes» (148);
@@ -3197,7 +3196,7 @@
               citar a Góngora y a los gongorinos, […] los sustituye por Salustio y sus secuaces, con
               sus llamativas particularidades estilísticas. Sin embargo, la operación es algo
               incómoda, puesto que Jáuregui admira a Salustio y no desea equiparar a Góngora con un
-              clásico tan respetable» (1624_discurso-poético).</note>, ni <name type="authority"
+              clásico tan respetable» (<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_discurso-poetico">1624_discurso-poético</ref>).</note>, ni <name type="authority"
               >Tácito</name>, ni <name type="authority">Tito Livio</name>, ni <name type="authority"
               >Curcio</name>, ni otros famosos lo fueran. Pero una noticia memorativa un rocín la
             puede tener. Y coacervar<note place="bottom">coacervar: «amontonar o juntar unas cosas
@@ -3239,13 +3238,13 @@
               un puerto, un refugio, una protección; es, en fin, un ejemplo para todos, y, por
               último, un reformador y restaurador de las letras mismas, ahora en decadencia» (VIII,
               12; 2005: 400).</note>, que le aconsejaba la escribiese, diciendo: <quote>yo lo
-              hiciera <hi rend="i">non quia commode facturum <pb n="1"/>on confido; id enim temere credas,
+              hiciera <hi rend="i">non quia commode facturum esse confido; id enim temere credas,
                 nisi expertus</hi></quote><note place="bottom"><title>Plinio el Joven</title>,
                 <hi rend="i">Cartas</hi> (<hi rend="i">Epistulae</hi>), lib. V, carta VIII: «No porque piense
               que lo haría de un modo adecuado (pues sería presuntuoso creerlo sin haberlo probado)»
               (2005: 264-265).</note>; y, a la verdad, pocos <name type="authority">Salustios</name>
             y <name type="authority">Quintos Curcios</name> vemos hoy.</p>
-          <p>– Si es digno de tan rígida censura este soneto, él mismo sea juez y lo diga:</p>
+          <p>– Si es digno de tan rígida censura este soneto, él mismo sea juez y lo diga:</p><p></p>
           <p>Soneto del rocín histórico al suspiro<note place="bottom">El rocín presenta una serie
               de muertes trágicas de la mitología, causadas de forma directa o indirecta por el
               amor. En este soneto se censura la alusión a tantos personajes paganos, algunos poco
@@ -3260,7 +3259,7 @@
                 ardientes, tras saber que su marido había muerto en la batalla de Filipos (s. I. a.
                 C.). Véase también el divertido soneto culto de Antonio Enríquez Gómez (1991:
                 243-245) en la academia del capítulo X de sus <hi rend="i">Transmigraciones</hi> (1644):
-              «Calzábase Amariles los coturnos». Volver a la nota <ref xml:id="ref13" target="ref14">190</ref>.</note>
+              «Calzábase Amariles los coturnos».</note>
               abrasa el pecho,</l>
             <l>un áspid<note place="bottom">De nuevo el áspid, esta vez en referencia al suicidio de
                 Cleopatra. Aunque los datos no resultan concluyentes, se dice que se quitó la vida
@@ -3270,7 +3269,7 @@
                   fortunas</hi>, 1627), se lee: «[el jeroglífico] era la bellísima Cleopatra
                 triunfante de Marco Antonio, injuria del senado, invencible por el mayor Imperio. El
                 reverso, con los áspides al pecho, a no despojos [<hi rend="i">sic</hi>] en el carro del
-                triunfo del heroico César» (Piña, 1627: 61r.).</note> a Cleopatra el noble
+                triunfo del heroico César» (Piña, 1627: f. 61r.).</note> a Cleopatra el noble
               brazo,</l>
             <l>halla consuelo Ifis en un lazo<note place="bottom">Cuenta Ovidio en sus
                   <hi rend="i">Metamorfosis</hi> (1990: 593-598) que Ifis se ahorcó en la puerta de su
@@ -3314,7 +3313,7 @@
                 su «madre/padre» (Grimal 1989: 16-17). Ponce Cárdenas supone que este mito subyace a
                 los vv. 201-202 de la <hi rend="i">Fábula de Polifemo y Galatea</hi> («Estas que me dictó
                 rimas sonoras», 1612): «El celestial humor recién cuajado / que la almendra guardó
-                entre verde y seca / en blanca mimbre se lo puso al lado» [OC255.201-202]. A su
+                entre verde y seca / en blanca mimbre se lo puso al lado» [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.201">OC255.201-202</ref>]. A su
                 juicio, el poeta alude al origen mítico del almendro: «el celestial humor designa el
                 semen vertido por Júpiter, dios soberano del Olimpo y los cielos; la almendra es el
                 fruto prodigioso que nació de ese <hi rend="i">connubio</hi> fortuito entre lo terrestre
@@ -3410,7 +3409,7 @@
             lo que se deja entender. Bien reconoció este inexcusable defecto uno de los <name
               type="authority">hermanos Lupercios</name><note place="bottom">La cita que viene a
               continuación evoca los tercetos «Yo quiero, mi Fernando, obedecerte», dedicados a
-              Fernando Soria Galvarro por <title>Lupercio Leonardo de Argensola</title>, <hi rend="i">Rimas
+              Fernando Soria Galvarro por Lupercio Leonardo de Argensola, <hi rend="i">Rimas
                 de Lupercio y del doctor Bartolomé Leonardo de Argensola</hi> (1634: 339-340, vv.
               76-78). Es típico del “clasicismo” de los Argensola y de su rechazo de cuanto puede
               agradar a los ignorantes esta andanada contra la rima, algo que gusta a los individuos
@@ -3500,7 +3499,7 @@
               “empresa”. Era fácil, pues, a los caballeros (y el tema asoma con frecuencia en la
               ficción) disimular su identidad con divisas falsas o desconocidas. Véase López Poza
               (2010).</note>, disfrazando –quiero decir– el nombre, cantaron tres. El primero de
-            esta manera:</p>
+            esta manera:</p><p></p>
           <p>Soneto del poeta cisne al suspiro<note place="bottom">Los poemas de los cisnes se
               presentan como claros, en contraste con los de los cultos. Con todo, en realidad son
               algo enrevesados y no exentos de oscuridad. Todos tienen en común, además, su
@@ -3536,7 +3535,7 @@
                 Crisaura: nótese el paralelo con la octava XXXI del <hi rend="i">Polifemo</hi> («Entre
                 las ramas del que más se lava / en el arroyo, mirto levantado, / carcaj de cristal
                 hizo, si no aljaba, / blanco pecho, de un arpón dorado», vv. 241-244)
-                [OC255.241-244]. Cancelliere (2006: 129-130) la glosó del siguiente modo: «el blanco
+                [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.241">OC255.241-244</ref>]. Cancelliere (2006: 129-130) la glosó del siguiente modo: «el blanco
                 seno de Galatea se convierte en ‘carcaj de cristal’ al recibir la flecha dorada de
                 Cupido que, siempre según la iconografía, la ha arrojado escondiéndose entre las
                 altas ramas de un mirto». Llama la atención que, pese a sus obvios ataques
@@ -3575,25 +3574,25 @@
             precedente, en el cual da a entender el cisne el mortal sentimiento y dolor que el
             suspiro de Crisaura difundía por los sentidos y corazón del pardal, cuyos crueles
             efectos le parece que exceden la actividad del amor; y así, habiéndolos referido, se los
-            atribuye a Fortuna:</p>
+            atribuye a Fortuna:</p><p></p>
           <p>Soneto del cisne al suspiro</p>
           <quote>
             <lg><l>Fiero es Amor, que, con poder tirano,</l>
             <l>su imperio ocupa tierra, mar y cielos.</l>
             <l>Más fieros y crüeles son los celos<note place="bottom">Acerca de los celos en el
                 Siglo de Oro remito al capítulo II de la tesis doctoral de Fernández Melgarejo
-                (2016: 23: «¿Qué se entendía en el Siglo de Oro por ‘tener celos’ o ‘dar celos’?
+                (2016: 23): «¿Qué se entendía en el Siglo de Oro por ‘tener celos’ o ‘dar celos’?
                 Pérez de Saavedra escribió al respecto que ‘los celos son una sospecha temerosa del
                 ánimo del enamorado de que la persona amada (que él no quiere que sea común a otro)
-                le asiste con su amor y voluntad’.. Los celos no eran, pues, en el Siglo de Oro,
+                le asiste con su amor y voluntad’. Los celos no eran, pues, en el Siglo de Oro,
                 cosa muy distinta a lo que son hoy: eso sí, interesaban mucho más como tema
                 literario y especulativo. Resultan capitales en la comedia y en la novela, como tema
                 de un linaje de sonetos que arranca de Sannazaro (véase Alatorre, 1988) y objeto de
                 disquisiciones y debates más o menos lúdicos, como aquel de que se hace eco Suárez
                 de Figueroa en el texto citado, o bien el que tuvo lugar, con el Atlántico de por
-                medio, entre José Pérez de Montoro y sor Juan Inés de la Cruz. El primero sostuvo en
+                medio, entre José Pérez de Montoro y sor Juana Inés de la Cruz. El primero sostuvo en
                 un romance que podía haber amor sin celos y la Fénix de México le repuso lo
-                contrario (véase Tenorio, 2004). Volver a la nota <ref xml:id="ref15" target="ref16">168</ref>.</note>,</l>
+                contrario (véase Tenorio, 2004).</note>,</l>
               <l>pues al amor sujetan inhumano.</l></lg><lg>
             <l>Contra un desdén no hay poderosa mano:</l>
             <l>volcanes un desprecio vuelve hielos,</l>
@@ -3603,8 +3602,8 @@
             <l>¿Qué causa universal ha producido</l>
             <l>con eminencia tantos disfavores?<note place="bottom">disfavor: «desaire, repulsa,
                 acción o dicho de poca estimación y aprecio respecto de alguno. Es de ordinario del
-                superior al inferior, o de la dama al galán» (<hi rend="i">Aut</hi>.).</note></l>
-                  <l>Fortuna, que no Amor, ha reducido</l></lg><lg>
+                superior al inferior, o de la dama al galán» (<hi rend="i">Aut</hi>.).</note></l></lg>
+            <lg><l>Fortuna, que no Amor, ha reducido</l>
             <l>en un suspiro todos los rigores</l>
             <l>de amor, celos, desdén, desprecio, olvido<note place="bottom">Este soneto caracteriza
                 al suspiro como contenedor de todas las cuitas que genera el Amor, pero de cuya
@@ -3623,7 +3622,7 @@
             de un caminante a quien la mudanza del tiempo salteó, para declarar que del mismo modo
             se halló el pardal enamorado oyendo el suspiro y participando sus calidades<note
               place="bottom">participando de sus calidades: ‘dando noticia de sus
-            atributos’.</note>:</p>
+            atributos’.</note>:</p><p></p>
           <p>Del cisne al suspiro<note place="bottom">Según explica la raposa, el poema identifica
               un rayo de sol que ilumina y desconcierta al caminante con el suspiro de Crisaura
               –que, igual que el propio rayo, puede interpretarse de distintas formas–. El símil,
@@ -3646,11 +3645,11 @@
               <l>fruto agradece, su hermosura adora.</l></lg><lg>
             <l>Perlas esparce cuando montes dora<note place="bottom">Endecasílabo inspirado en otros
                 de Góngora: «el mar argenta, las campañas dora» («Raya, dorado Sol, orna y colora»,
-                1582, v. 8) [OC17.8], «que privilegia el cielo y dora el día» (<hi rend="i">A
-                  Córdoba</hi>, «¡Oh excelso muro, oh torres coronadas», 1585, v. 6) [OC50.6],
+                1582, v. 8) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem17#l17.8">OC17.8</ref>], «que privilegia el cielo y dora el día» (<hi rend="i">A
+                  Córdoba</hi>, «¡Oh excelso muro, oh torres coronadas», 1585, v. 6) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem50#l50.6">OC50.6</ref>],
                 «del día, cuya luz tu manto dora» (<hi rend="i">A la purísima concepción de Nuestra
                   Señora</hi>, «Si ociosa no, asistió naturaleza», 1614, v. 6)
-              [OC265.6].</note>,</l>
+              [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem265#l265.6">OC265.6</ref>].</note>,</l>
             <l>Febo la sigue ardiendo en sus amores,</l>
             <l>mas una nube cubre resplandores,</l>
                 <l>ni ríe el prado ya, ni el alba llora.</l></lg><lg>
@@ -3700,7 +3699,7 @@
               suerte que no tengan que perder, o tan extraños o antiguos que ninguno se ofenda, no
               te negaré que estos discursos tengan algo de satírico, motivo de alabanza, no de
               reprensión».</note>. Las dos que se siguen tienen de todo y, por eso, callaron el
-            nombre:</p>
+            nombre:</p><p></p>
           <p>Soneto satírico al suspiro de Crisaura</p>
           <quote>
             <lg><l>Suspira el avariento por dinero,</l>
@@ -3729,7 +3728,7 @@
             <l>Suspiran todos o su mal presente</l>
             <l>o el bien que falta siempre perezoso,</l>
             <l>Crisaura por la noche de la boda<note place="bottom">Gómez de Tejada no juzga el par
-                de sonetos satíricos con tanto severidad como los cultos, siempre, eso sí, que no
+                de sonetos satíricos con tanta severidad como los cultos, siempre, eso sí, que no
                 sean <hi rend="i">ad hominem</hi>. Además, estos resultan algo más naturales. La primera
                 sátira enuncia una serie de deseos propios de distintos tipos sociales, lo que
                 culmina en el motivo del suspiro de Crisaura, expresado mediante una elipsis en el
@@ -3744,7 +3743,7 @@
                 siempre falta; y Crisaura, en concreto, por ansias de verse por fin en su noche de
                 bodas (con alusión misógina, propia del ethos satírico, a la avidez del deseo
                 femenino).</note>.</l></lg>
-          </quote>
+          </quote><p></p>
           <p>Soneto satírico al suspiro<note place="bottom">Este soneto presenta una estructura
               basada en anáforas en las que se alternan los atributos del amor y de los celos. A lo
               largo del terceto de decantación se concretan en los protagonistas del triángulo del
@@ -3795,7 +3794,7 @@
               (<hi rend="i">Aut</hi>.).</note> hoy se dan de balde, escribió un célebre soneto, que he
             remitido al último examen porque merece más memoria<note place="bottom">memoria: «fama,
               gloria o aplauso» (<hi rend="i">Aut.</hi>).</note>, como mereció más aplauso y
-            atención.</p>
+            atención.</p><p></p>
           <p>Soneto culto al suspiro de Crisaura del cultísimo poeta búho<note place="bottom">El
               búho logra ver a través de las tinieblas en que habitan los cultos. Con el mismo
               sentido, Góngora habló de «palabras murciélagos» o «razonamientos lechuza» (Periñán
@@ -3805,11 +3804,11 @@
                 «rosicleres», la cita remite a la obertura del <hi rend="i">Polifemo</hi> (octavas I-II):
                 «Estas que me dictó rimas sonoras, / culta sí, aunque bucólica, Talía / –¡oh excelso
                 conde!–, en las purpúreas horas / que es rosas la alba y rosicler el día» (1612, vv.
-                1-4) [OC255.1-4]; «Treguas al ejercicio sean robusto, / ocio atento, silencio dulce,
+                1-4) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.1">OC255.1-4</ref>]; «Treguas al ejercicio sean robusto, / ocio atento, silencio dulce,
                 en cuanto / debajo escuchas de dosel augusto, / del músico jayán el fiero canto. /
                 Alterna con las Musas hoy el gusto; / que si la mía puede ofrecer tanto / clarín (y
                 de la Fama no segundo), / tu nombre oirán los términos del mundo» (1612, vv. 9-16)
-                [OC255.9-16]. <hi rend="i">Rosicler</hi> se refiere al «esmalte rojo […]; esto se
+                [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.9">OC255.9-16</ref>]. <hi rend="i">Rosicler</hi> se refiere al «esmalte rojo […]; esto se
                 entiende cuando nace [el día], que se ven aquellos celajes rojos, causados de la luz
                 en las heridas nubes» (Salcedo Coronel 1629: 2v).</note>, troglodita<note
                 place="bottom">troglodita: «hombre bárbaro y cruel» (<hi rend="i">Aut.</hi>).</note>,</l>
@@ -3818,19 +3817,19 @@
                   Autoridades</hi>, «equivale a joven». Sin embargo, al tratarse de un diminutivo
                 italianizante, es posible que el término posea aquí ciertas notas homosexuales. Así,
                 dentro del corpus gongorino aflora en el soneto «Tonante monseñor, ¿de cuándo acá /
-                fulminas <hi rend="i">jovenetos</hi>?» (1619) [OC322.1-2], en la letrilla «Manda amor en
+                fulminas <hi rend="i">jovenetos</hi>?» (1619) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem322#l322.1">OC322.1-2</ref>], en la letrilla «Manda amor en
                 su fatiga» (1583, vv. 41-44: «Yo sé de algún <hi rend="i">joveneto</hi> / que tiene muy
-                entendido / que guarda más bien Cupido / al que guarda su secreto») [OC36.41-42] y
+              entendido / que guarda más bien Cupido / al que guarda su secreto») [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem36#l36.41">OC36.41-42</ref>] y
                 en la <hi rend="i">Fábula de Píramo y Tisbe</hi> («La ciudad de Babilonia», 1618, vv.
                 101-104: «¡Oh Píramo lo que hace, / <hi rend="i">joveneto</hi> ya robusto / que sin alas
-              podía ser / hijo de Venus segundo!») [OC317.101-104]. Volver a la nota <ref xml:id="ref1" target="ref2">26</ref>.</note>,</l>
+              podía ser / hijo de Venus segundo!») [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem317#l317.101">OC317.101-104</ref>].</note>,</l>
             <l>acrocerauna prole de esqueletos<note place="bottom">acrocerauna: adjetivo relativo a
                 los montes Acroceraunios, localizados en la región griega de Molosia. Reciben su
                 nombre de la unión de las voces <hi rend="i">ακρóς</hi> (‘agudo’, ‘puntiagudo’,
                 ‘extremo’) y <hi rend="i">κεραυνóς</hi> (‘rayo’), que es el sentido con el que lo emplea
                 el búho. Así, el propio Góngora lo incluyó en su soneto «Tonante monseñor, de cuándo
                 acá» (1619): «las hojas infamó de un alhelí, / y los Acroceraunios montes no. / ¡Oh
-                Júpiter, oh tú, mil veces tú!» (vv, 12-14) [OC322.12-14]. Matas Caballero (2019:
+                Júpiter, oh tú, mil veces tú!» (vv, 12-14) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem322#l322.12">OC322.12-14</ref>]. Matas Caballero (2019:
                 1358) anota que en esta cadena montañosa, «al norte de Epiro, […] las tormentas son
                 muy frecuentes. […] Méndez Plancarte señaló la alusión que en la tradición latina
                 había hecho Horacio (Carmina, I, III, 19-20) […]: “qui vidit mare turgidum et /
@@ -3841,7 +3840,7 @@
                 distingue además una agudeza semejante a la acuñada por don Luis en la octava VIII
                 del <hi rend="i">Polifemo</hi>: «un torrente es su barba impetüoso, / que, adusto hijo de
                 este Pirineo, / su pecho inunda, o tarde, o mal, o en vano / surcada aun de los
-                dedos de su mano» (1612, vv. 61-64) [OC255.61-64]. En este caso, Ponce Cárdenas
+                dedos de su mano» (1612, vv. 61-64) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.61">OC255.61-64</ref>]. En este caso, Ponce Cárdenas
                 (2010: 209) recordó que «el topónimo encierra en su núcleo semántico la voz griega
                   <hi rend="i">πῦρ</hi> (‘fuego’), de ahí que se reconozcan en el fragmento ‘dos caras,
                 como una malicia […]: la palabra, de un lado se muestra en acepción normal; de otro
@@ -3871,15 +3870,15 @@
               um</hi> es un adjetivo que quiere decir ‘corvo’, ‘ganchudo’. Véase la nota <ref xml:id="ref4" target="ref3">49</ref> de esta edición. En el corpus gongorino aparece
                 en la <hi rend="i">Soledad segunda</hi> («Éntrase el mar por un arroyo breve», 1614, vv.
                 783-785): «De un mancebo serrano / el duro brazo débil hace junco, / examinando con
-                el pico adunco / sus pardas plumas, el azor britano» [OC264C.783-785]. </note>,
+                el pico adunco / sus pardas plumas, el azor britano» [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.783">OC264C.783-785</ref>]. </note>,
                 abetos<note place="bottom">abetos: esta voz es usada con frecuencia como metonimia
                 de ‘barcos’ en las <hi rend="i">Soledades</hi> y en otros textos de Góngora: «Abetos
                 suyos tres aquel tridente / violaron a Neptuno» (<hi rend="i">Soledad primera</hi>, 1613,
-                vv. 413-414) [OC264b.413-414], «cuanto en vasos de abeto Nuevo Mundo» (<hi rend="i">Soledad
-                  segunda</hi>, 1614v. 404) [OC264c.404]; «¡Oh del mar reina tú, que eres esposa,
+                  vv. 413-414) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.413">OC264B.413-414</ref>], «cuanto en vasos de abeto Nuevo Mundo» (<hi rend="i">Soledad
+                    segunda</hi>, 1614v. 404) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.404">OC264C.404</ref>]; «¡Oh del mar reina tú, que eres esposa,
                 / cuyos abetos el león, seguros, / conduce, sacro, que te hace undosa / Cibeles,
                 coronada de altos muros» (<hi rend="i">Panegírico al duque de Lerma</hi>, 1617, vv.
-                553-556) [OC313.553-556]. Como explica Blanco (1995: 54), «cette identification
+                  553-556) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem313#l313.553">OC313.553-556</ref>]. Como explica Blanco (1995: 54), «cette identification
                 établie entre le bateau et l’arbre peut passer pour le produit d’une chaîne de
                 synecdoques, mais aussi pour une métaphore, puisque la silhouette d’un bateau à
                 voiles n’est pas sans analogie avec celle d’un arbre et qu’une métaphore assez
@@ -3888,7 +3887,7 @@
             <l>Marte al amor construya parapetos,</l>
             <l>crepúsculos vibrando<note place="bottom">Guiño al endecasílabo gongorino «entre
                 espinas crepúsculos pisando» (<hi rend="i">Soledad primera</hi>, 1613, v. 48)
-              [OC264B.48]. Véase la nota <ref xml:id="ref7" target="ref8">68</ref>.</note>, impulso
+              [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l2634B.48">OC264B.48</ref>]. Véase la nota <ref xml:id="ref7" target="ref8">68</ref>.</note>, impulso
               excita.</l></lg><lg>
             <l>Sus que penetra piro, diente eburno<note place="bottom">eburno: forma latina de
                   <hi rend="i">ebúrneo</hi>, «cosa perteneciente o hecha de marfil» (<hi rend="i">Aut</hi>.).
@@ -3896,9 +3895,9 @@
                 los cultos. Así, Juan de Robles, (1992: 64) señalaba en <hi rend="i">El culto
                   sevillano</hi> que «los han dividido a estos tales las personas de buen gusto
                 que han notado los modos de su afectación, en ‘nítidos’, ‘cándidos’ y
-                ‘ebúrneos’»..También Góngora se burlaba de este adjetivo en la <hi rend="i">Fábula de
+                ‘ebúrneos’». También Góngora se burlaba de este adjetivo en la <hi rend="i">Fábula de
                   Píramo y Tisbe</hi>: «(¿ebúrneos diré, o divinos? / divinos digo y ebúrneos) /
-                los bellos miembros de Tisbe)». [OC317.407-409].</note>,</l>
+              los bellos miembros de Tisbe)». [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem317#l317.407">OC317.407-409</ref>].</note>,</l>
             <l>al múrice<note place="bottom">múrice: «cierta especie de marisco, cuya concha es
                 pesada, densa y sólida, desigual por fuera, y a veces armada de puntas, y por de
                 dentro de color blanco y que tira a purpúreo. Con este marisco hacían los antiguos
@@ -3909,7 +3908,7 @@
                 5 («el múrice y el tirio y el colora» [2004: 325]), y en el <hi rend="i">Comento</hi> a
                 la estancia XXI de Juan Ruiz de Alarcón, v. 5 («Metal de Ofir en múrice de Tiro»).
                 Añado, por fin, otro azote de Quevedo en su <hi rend="i">Comento contra setenta y tres
-                  estancias que don Juan Ruiz de Alarcón</hi> (1986: 400), «Estos son versos
+                  estancias que don Juan Ruiz de Alarcón</hi> (1986: 400): «Estos son versos
                 retahíla, y quien los hizo con voces tan comunes, ¿por qué no dijo
                   <hi rend="i">púrpura</hi>, siendo magnífica, y no <hi rend="i">múrice de Tiro</hi>? Nótese
                 con cuidado que todo lo que escribe o es humilde o enigma o barbarismo».</note>
@@ -3949,12 +3948,12 @@
                 gongorismo: la búsqueda de un tipo de composición en la que los tropos pasan a
                 primer plano y la sintaxis se fractura hasta dificultar en extremo el sentido.
                 Resucitan aquí los recursos ya utilizados en los anteriores (perífrasis mitológicas,
-                encabalgamientos) y el abuso de latinismos (<hi rend="i">adunca, múrice, eburno</hi>,
-                etc.) y neologismos (<hi rend="i">acrocerauna, cocita</hi>). La cima del retorcimiento se
+                encabalgamientos) y el abuso de latinismos (<hi rend="i">adunca</hi>, <hi rend="i">múrice</hi>, <hi rend="i">eburno</hi>,
+                  etc.) y neologismos (<hi rend="i">acrocerauna</hi>, <hi rend="i">cocita</hi>). La cima del retorcimiento se
                 cifra en el primer terceto, donde el búho quiebra la palabra <hi rend="i">suspiro</hi>,
                 dando lugar a una tmesis y, con ella, a un hipérbaton que altera el orden de apenas
-                un término, cuyo segundo miembro (implícito) continúa en el v. 14 (<hi rend="i">piras,
-                  piropos</hi>: o sea, ‘sus piras’, ‘suspiras’ y ‘sus piropos’) para acentuar la
+                un término, cuyo segundo miembro (implícito) continúa en el v. 14 (<hi rend="i">piras</hi>,
+                  <hi rend="i">piropos</hi>: o sea, ‘sus piras’, ‘suspiras’ y ‘sus piropos’) para acentuar la
                 bisemia. Esta es mi prosificación de los versos recitados por el estrígido: “El
                 clarín troglodita [del poeta] no anhela el tridente de Neptuno (‘el mar’) sino el
                 cristal de esplendor cocita (‘un río de lamentos’), toda vez que en él flota una
@@ -4048,7 +4047,7 @@
               versos. Además, recordemos que la <hi rend="i">Soledad segunda</hi> («Éntrase el mar por un
               arroyo breve», 1614, vv. 887-890) se despide con una imagen de esta rapaz abriendo sus
               alas: «alas desplegó Ascálafo prolijas, / verde poso ocupando, / que de césped ya
-              blando / jaspe lo han hecho duro blancas guijas» [OC264C.887-890]. Ly (1995: 170)
+              blando / jaspe lo han hecho duro blancas guijas» [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264C#l264C.887">OC264C.887-890</ref>]. Ly (1995: 170)
               defiende que don Luis quizá evitó emplear el término castellano para referirse al
                 <hi rend="i">búho</hi>, porque la mención de Ascálafo permite «condenser en
               ce seul nom toute la légende: l’etymologisme, sans doute l’une des figures plus
@@ -4106,10 +4105,10 @@
               s. p.), «los juegos nemeos festejaron la victoria de Hércules contra el león: fueron
               los primeros juegos olímpicos y permitieron la cuenta del tiempo».</note>; si en los
             apolinares, circenses y otros<note place="bottom">El primer día del mes de julio «era el
-              señalado el Roma para pagar los alquileres de las casas. En el mismo se celebraban los
+              señalado en Roma para pagar los alquileres de las casas. En el mismo se celebraban los
               juegos circenses, los apolinares y los minervales. […] Una lira con una rama de laurel
               y un cuchillo en las medallas indica los juegos apolinares» (Bastús y Carrera 1830:
-              280 y 378). […] Los otros juegos a los que se refiere aquí Gómez de Tejada son los
+              280 y 378). Los otros juegos a los que se refiere aquí Gómez de Tejada son los
               megalenses (en honor a Cibeles, 4-10 de abril) y los fúnebres (véase Suárez de
               Figueroa 1733: 454). </note>.</p>
           <p>»Si convenientes en la república<note place="bottom">Entiéndase ‘Si los clarines son
@@ -4134,7 +4133,7 @@
               carecen los seres inanimados» (Calvo Martínez 1994: 5).</note>, y declarando qué sea
             potencia auditiva y sus actos<note place="bottom"><title>Aristóteles</title>,
                 <hi rend="i">Acerca del alma</hi> (<hi rend="i">De ánima</hi>), lib. II, cap. VIII (1994:
-              88-89): «El acto de lo que puede sonar es, por tanto, sonido o «soñación» y el de lo
+              88-89): «El acto de lo que puede sonar es, por tanto, sonido o "soñación" y el de lo
               que puede oír es oído o audición. Doble es, pues, el significado de oído y doble el de
               sonido. La misma explicación es válida también para el resto de los sentidos y
               sensibles».</note>, qué sea son recto y reflejo<note place="bottom">son recto y
@@ -4177,7 +4176,7 @@
               Jornada II, X), y también el propio Góngora en su romance «Contando estaban sus rayos»
               (1614): «¡Ay, cómo gime, mas ay, cómo suena! / Gime y suena / el remo a que nos
               condena / el niño Amor: / clarín que rompe el albor / no suena mejor» (vv. 9-14)
-              [OC280.9-14]. No sería nada raro que, en su afán de burlarse del proceder de los
+              [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem280#l280.9">OC280.9-14</ref>]. No sería nada raro que, en su afán de burlarse del proceder de los
               exégetas de don Luis, Gómez de Tejada se burlara aquí –sustituyéndola por los versos
               del villancico– de la glosa que Salcedo Coronel (1629: 8-9) le dedicó al «clarín» en
               su <hi rend="i">Polifemo comentado</hi>, toda vez que aquella terminaba con la cita de un
@@ -4234,19 +4233,19 @@
               Véase García Valdés (1998).</note>. Y si a la rosa, antes blanca, purpureó<note
               place="bottom">purpurear: «tomar o mostrar el color de púrpura» (<hi rend="i">Aut</hi>.).
               Góngora usó este verbo en cinco lugares de su corpus: «y, viendo purpurear / las rojas
-              prendas del ángel» («En el baile del Egido», 1608, vv. 49 y 50) [OC216.49-50]; «arrima
+              prendas del ángel» («En el baile del Egido», 1608, vv. 49 y 50) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem216#l216.49">OC216.49-50</ref>]; «arrima
               a un fresno el fresno, cuyo acero, / sangre sudando, en tiempo hará breve / purpurear
               la nieve» (<hi rend="i">Dedicatoria al duque de Béjar</hi> de las <hi rend="i">Soledades</hi>,
-              «Pasos de un peregrino son errante», 1613, vv. 13-15)» [OC264A.13-15]; «Extrañando la
+                «Pasos de un peregrino son errante», 1613, vv. 13-15)» [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264A#l264A.13">OC264A.13-15</ref>]; «Extrañando la
               dotrina / del joven que hermano cree, / la vergüenza a Celidaja / le purpureó la tez»
-              («En la fuerza de Almería», 1620, vv. 81-84) [OC351.81-84]; «Ya, mal distinto
+              («En la fuerza de Almería», 1620, vv. 81-84) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem351#l351.81">OC351.81-84</ref>]; «Ya, mal distinto
               entonces, el rosado / propicio albor del Héspero luciente, / que ilustra dos
               eclípticas ahora, / purpureaba al Sandoval que hoy dora» (<hi rend="i">Panegírico al duque de
-                Lerma</hi>, «Si arrebatado merecí algún día», 1617, vv. 141-144) [OC313.141-144];
+                Lerma</hi>, «Si arrebatado merecí algún día», 1617, vv. 141-144) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem313#l313.141">OC313.141-144</ref>];
               «Asiste al que dos mundos, garzón bello, / veneran rey, y yo deidad adoro; /
               purpureará tus aras blanco toro / que ignore el yugo su lozano cuello» (<hi rend="i">Estando
                 enfermo su Majestad Filipo cuarto</hi>, «Los rayos que a tu padre son cabello»,
-              1621, vv. 5-8) [OC356.5-8].</note> sangre de Venus, obligación tienen todas las
+                1621, vv. 5-8) [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem356#l356.5">OC356.5-8</ref>].</note> sangre de Venus, obligación tienen todas las
             antiguas fábulas y transformaciones de Ovidio de venir a dar la obediencia y razón de
               sí<note place="bottom">Gómez de Tejada se burla de los alardes de erudición,
               convocados con el mínimo pretexto, para que desfilen ante el comentarista y el sufrido
@@ -4363,7 +4362,7 @@
               vive esta raza de hombres indómitos situada en el Septentrión Hiperbóreo
                 (<hi rend="i">Hyperborio Septemtrioni</hi>)» (1994: 209). Nótese que Virgilio dividió la
               palabra <hi rend="i">Septemtrioni</hi> en dos, igual que hiciera el búho en su soneto: «el
-                <hi rend="i">sus</hi> que parece<hi rend="i"> piro</hi>». Como explica Pozuelo Calero (2019),
+                <hi rend="i">sus</hi> que penetra<hi rend="i"> piro</hi>». Como explica Pozuelo Calero (2019),
               «por lo que toca a Góngora, su peculiar orden de palabras, caracterizado igualmente
               por el hipérbaton, puede explicarse <hi rend="i">a priori</hi> de dos formas contrapuestas:
               o bien como una imitación de este orden latino, es decir, como un cultismo más, en la
@@ -4437,12 +4436,12 @@
               como intérprete de los oráculos y la última frase manifiesta el deseo de sus poemas
               gusten a todos sin necesidad de explicación de los gramáticos. Este poema de Marcial
               se cita con frecuencia dentro de la polémica gongorina. Tan solo entre los publicados
-              por OBVIL, lo traen a colación Faria y Sousa (Noches claras, 1624
-              [1624_nochesclaras]), Jáuregui (Discurso poético de don Juan de Jáuregui, 1624
-              [1624_discurso-poetico]), Quevedo (Prólogo a las obras de Fray Luis de León, 1631
-              [1631_obras-quevedo]), Cascales (Cartas sobre la poesía nueva de don Luis de Góngora,
-              1634 [1634_carta-cascales-triblado]) y Angulo y Pulgar (Epístolas satisfactorias, 1635
-              [1635_epistolas]).</note>.</p>
+              por OBVIL, lo traen a colación Faria y Sousa (<hi rend="i">Noches claras</hi>, 1624
+                  [<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_nochesclaras">1624_nochesclaras</ref>]), Jáuregui (<hi rend="i">Discurso poético de don Juan de Jáuregui</hi>, 1624
+                  [<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_discurso-poetico">1624_discurso-poetico</ref>]), Quevedo (<hi rend="i">Prólogo a las obras de Fray Luis de León</hi>, 1631
+                  [<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1631_obras-quevedo">1631_obras-quevedo</ref>]), Cascales (Cartas sobre la poesía nueva de don Luis de Góngora,
+                  1634 [<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1634_cartas-cascales">1634_carta-cascales-triblado</ref>]) y Angulo y Pulgar (<hi rend="i">Epístolas satisfactorias</hi>, 1635
+                  [<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1635_epistolas">1635_epistolas</ref>]).</note>.</p>
           <p><hi rend="i">–</hi> Mucho contradices –dijo el lebrel–, hermana raposa, la secta de los
               cultos<note place="bottom">secta: «la doctrina, máxima u opinión particular enseñada
               por algún maestro célebre, que la halló o explicó y otros la siguen y defienden»
@@ -4467,7 +4466,7 @@
               a esta ciudad, de la que se sentía oriundo (Madroñal 1991: 293), escribiría una
                 <hi rend="i">Historia de Talavera</hi>, de la que se conserva un manuscrito de 1651
               copiado por fray Alfonso de Ajofrín. Este misterioso poeta del que habla la raposa no
-              es sino el propio autor, como apuntara Madroñal (1991: 307). Lo cierto es que esta
+              es sino el propio autor, como apuntara Madroñal (1991: 307). Lo cierto es que la
               obra del licenciado evidencia cierto gusto por incluirse dentro de la diégesis, a
               menudo asociado a Talavera y al mundo de las letras. Así, en el <hi rend="i">León prodigioso…
                 Segunda parte</hi> (1673: 188-189) se camufló bajo el personaje del cura
@@ -4479,7 +4478,7 @@
               en Élbora […] había compuesto un poema que inscribía, <hi rend="i">El Todo</hi>,
               correlativo al que otro tiempo escribió, <hi rend="i">La Nada</hi>». Pues bien, <hi rend="i">La
                 Nada</hi>, bautizada como «poema tropológico» por el autor, había aparecido en la
-              primera parte del <hi rend="i">León prodigioso</hi> (1636: 409r-440r). El citado Constancio
+              primera parte del <hi rend="i">León prodigioso</hi> (1636: f. 409r-440r). El citado Constancio
               hará de nuevo acto de presencia en la <hi rend="i">Nochebuena</hi> (Gómez de Tejada 1661:
               15): «En la antigua y gran ciudad de Élbora, hoy Talavera, adonde con alegres
               demostraciones, como en toda la cristiandad, se celebra la festividad del nacimiento
@@ -4501,8 +4500,8 @@
               ironia, ut ‘bellum’, ‘lucus’ et ‘Parcae’: ‘bellum’, hoc est minime bellum, et ‘lucus’
               eo quod non luceat, et ‘Parcae’ eo quod nulli parcant»; lo que en español quiere
               decir: ‘la antífrasis es una de las ironías de las palabras, por ejemplo con guerra,
-              bosque y Parcas: la guerra (bellum) es muy poco agradable (bellum), el bosque (lucus),
-              porque no brilla (luceat) y las parcas porque a ninguno perdonan (parcant)’.</note>,
+              bosque y Parcas: la guerra (<hi rend="i">bellum</hi>) es muy poco agradable (<hi rend="i">bellum</hi>), el bosque (<hi rend="i">lucus</hi>),
+                  porque no brilla (<hi rend="i">luceat</hi>) y las parcas porque a ninguno perdonan (<hi rend="i">parcant</hi>)’.</note>,
             según <name type="authority">Servio</name><note place="bottom"><title>Servio</title>:
               Mauro Servio Honorato, gramático latino, famoso por su comentario a las obras de
               Virgilio: <hi rend="i">Servii Grammatici qui feruntur in Vergilii Carmina Commentarii</hi>
@@ -4533,7 +4532,7 @@
             defienden. Los testigos y jueces son: <name type="authority">Aristóteles</name>, <name
               type="authority">Marco Tulio</name><note place="bottom"><title>Marco Tulio
                 Cicerón</title>.</note>, <name type="authority">Quintiliano</name> y <name
-              type="authority">Horacio</name>. Quisiera pasar en silencio un testimonio del<name type="authority">Estagirita</name><note place="bottom"
+              type="authority">Horacio</name>. Quisiera pasar en silencio un testimonio del <name type="authority">Estagirita</name><note place="bottom"
               >estagirita: «natural de Estagira, […] antigua ciudad de Macedona, patria de
               Aristóteles» (<hi rend="i">DRAE</hi> 1884). Gómez de Tejada hace referencia al autor de
                 la<hi rend="i"> Poética</hi>.</note> por ser tan común, pero es tan <hi rend="i">ex
@@ -4543,19 +4542,19 @@
             inexcusable su autoridad. Dice, pues, en su <title>Arte Poética</title>:
                 <quote><hi rend="i">Dictionis autem virtus ut perspicua sit, non tamen
               humilis</hi></quote><note place="bottom"><title>Aristóteles</title>,
-                <hi rend="i">Poética</hi> (Περὶ Ποιητικῆς), lib. XXII: «la excelencia de la elocución
+                <hi rend="i">Poética</hi> (<hi rend="i">Περὶ Ποιητικῆς</hi>), lib. XXII: «la excelencia de la elocución
               consiste en que sea clara sin ser baja» (1974: 208).</note>. Y poco más adelante:
                 <quote><hi rend="i">Peregrinum voco varietatem linguarum translationem, extensionem, tum
                 quodcunque a proprio alienum est. Verum si quis haec omnia simul congerat vel
                 aenigma efficiet vel barbarismum</hi></quote><note place="bottom"
-                ><title>Aristóteles</title>, <hi rend="i">Poética</hi> (Περὶ Ποιητικῆς), lib. XXII:
+                  ><title>Aristóteles</title>, <hi rend="i">Poética</hi> (<hi rend="i">Περὶ Ποιητικῆς</hi>), lib. XXII:
               «entiendo por voz peregrina la palabra extraña, la metáfora, el alargamiento y todo lo
               que se aparta de lo usual. Pero, si uno lo compone todo de este modo, habrá enigma o
               barbarismo» (1974: 209). Cabe señalar que este mismo libro es el punto de partida para
               toda la disquisición contra la oscuridad que redactó Quevedo en el
-                <hi rend="i">Prólogo</hi> a las obras de fray Luis de León (véase <ref
+                  <hi rend="i">Prólogo a las obras de Fray Luis de León</hi> (véase <ref
                 target="https://obvil.sorbonne-universite.fr/corpus/gongora/1631_obras-quevedo"
-                >https://obvil.sorbonne-universite.fr/corpus/gongora/1631_obras-quevedo</ref>).</note>.</p>
+                >1631_obras-quevedo</ref>).</note>.</p>
           <p>»Si los cultos agregan esto y mucho más, ellos mismos sean jueces; en especial
               translaciones<note place="bottom">translación: «figura retórica, que se usa cuando una
               voz, o palabra se aplica con semejanza y propiedad para la explicación de otra cosa
@@ -4565,7 +4564,7 @@
             remotísimos términos, siendo acción muy dificultosa usarlas como conviene. Así lo dice
             poco más abajo: <quote><hi rend="i">cum primis vero decenter uti translationibus maxime est
                 arduum</hi></quote><note place="bottom"><title>Aristóteles</title>,
-                <hi rend="i">Poética</hi> (Περὶ Ποιητικῆς), lib. XXII: «Pero lo más importante con mucho
+                  <hi rend="i">Poética</hi> (<hi rend="i">Περὶ Ποιητικῆς</hi>), lib. XXII: «Pero lo más importante con mucho
               es dominar la metáfora» (1974: 214).</note>. Y <name type="authority"
               >Quintiliano</name> enseña también la moderación con que se ha de usar este tropo:
                 <quote><hi rend="i">Ut modicus autem, atque opportunus eius usus illustrat orationem, ita
@@ -4619,14 +4618,14 @@
               pero en el frecuentarlas y repetirlas muy a menudo, pues, como a forasteras, se ha de
               ir poco a poco y con recato, dándoles entrada y lugar señalado si queremos que sean
               bien recibidas y estimadas en algo, […] pues, de otra suerte, viene a ser lenguaje
-              pedantesco fidentiano» (1615_examen). Transcribo a continuación la postura del
+              pedantesco fidentiano» (<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1617_examen">1615_examen</ref>). Transcribo a continuación la postura del
               humanista murciano: «Si ya no es que ha de dañar a este caballero lo que le hace digno
               de premio, que es haber usado de frases nuevas en nuestra lengua, imitadas de la
               latina, y haberlas amplificado con notable gala y agudeza; pues mirando la mejor
               retórica que hasta hoy tenemos, y lo mejor de sus obras, que es el <hi rend="i">Arte
                 poética</hi> de Horacio, veremos que esto no tiene inconveniente; pues, como en
               todas las cosas, también se extiende a las palabras la jurisdicción del uso»
-              (1634_carta-villar-ortiz).</note>. Y no solamente las frases, pero aun algunas
+              (<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1634_cartas-cascales#body-2-2">1634_carta-villar-ortiz</ref>).</note>. Y no solamente las frases, pero aun algunas
             palabras, tropos y figuras traducidos a otra lengua pierden fuerza, gracia y
             significación. Y así admiro qué satisfechos y contentos quedan algunos cultos cuando
             autorizan sus modos con un lugarcito de poeta latino. Son innumerables los ejemplos con
@@ -4691,7 +4690,7 @@
               por ‘árbitro’ o ‘juez’ como por ‘señor’ o ‘soberano’; y también por ‘testigo’ y
               ‘espectador’. Góngora utiliza este sustantivo en su <hi rend="i">Soledad primera</hi> (v.
               55): «Vencida al fin la cumbre / del mar siempre sonante, / de la muda campaña, /
-              árbitro igual e inexpugnable muro» [OC264B.55]. Y Espinosa Medrano (1662_apologetico)
+              árbitro igual e inexpugnable muro» [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264B#l264B.55">OC264B.55</ref>]. Y Espinosa Medrano (1662_apologetico)
               acudiría a él un par de veces, con la misma acepción: «Apolo, árbitro de las artes,
               padre de las musas», «Apolo, oráculo de las Musas, árbitro del Parnaso».</note>,
             pierde en castellano casi toda la gracia y significación. Y así, puedes discurrir por
@@ -4770,10 +4769,10 @@
             título es <title>De perspicuitate</title><note place="bottom">Tanto este capítulo de
               Quintiliano como la posterior cita de Livio forman parte del arsenal de los críticos
               de Góngora. Entre los textos del OBVIL, lo citan Jáuregui (<hi rend="i">Discurso poético de
-                don Juan de Jáuregui</hi>, 1624 [1624_discurso-poetico]), Cascales (<hi rend="i">Cartas
+                don Juan de Jáuregui</hi>, 1624 [<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_discurso-poetico">1624_discurso-poetico</ref>]), Cascales (<hi rend="i">Cartas
                 sobre la poesía nueva de don Luis de Góngora</hi>, 1634
-              [1634_carta-cascales-triblado]) y Angulo y Pulgar (<hi rend="i">Epístolas
-                satisfactorias</hi>, 1635 [1635_epistolas]).</note>, adonde se enoja muy de veras
+              [<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1634_cartas-cascales#body-2-3">1634_carta-cascales-triblado</ref>]) y Angulo y Pulgar (<hi rend="i">Epístolas
+                satisfactorias</hi>, 1635 [<ref target="https://obvil.sorbonne-universite.fr/corpus/gongora/1635_epistolas">1635_epistolas</ref>]).</note>, adonde se enoja muy de veras
             contra tales escritores y dice que no es vicio nuevo –aunque el nombre de ‘cultos’ lo
             sea en este tiempo–, citando a <name type="authority">Tito Livio</name><note
               place="bottom"><title>Quintiliano</title>, <hi rend="i">La formación del orador</hi>
@@ -4784,7 +4783,7 @@
               nueva, puesto que ya en Tito Livio encuentro que hubo cierto maestro que mandaba a sus
               discípulos formular oscuramente lo que iban a decir» [1999: 173]). </note>, el cual
             hace mención de un preceptor que enseñaba a sus discípulos cómo habían de hablar
-            obscuramente: <quote><hi rend="i">At ego</hi></quote>–prosigue–
+            obscuramente: <quote><hi rend="i">At ego</hi></quote> –prosigue–
                 <quote><hi rend="i">otiosum sermonem dixerim, quem auditor suo ingenio non
                 intelligit</hi></quote><note place="bottom"><title>Quintiliano</title>, <hi rend="i">La
                 formación del orador</hi> (<hi rend="i">De institutione oratoria</hi>), lib. VIII, cap.
@@ -4916,7 +4915,7 @@
               cultos, susceptibles de imitación para cualquiera. Este es uno de los reproches de los
               contrarios al gongorismo, cuya dificultad radica en los saberes del lector, mucho más
               en su sintaxis o estilemas. Sin embargo la tormenta del principio resulta casi tan
-              culta que su parodia.</note>. Su facilidad conozco imposible a mis fuerzas, y en
+              culta como su parodia.</note>. Su facilidad conozco imposible a mis fuerzas, y en
             estilo culto no solo posible, sino lejos de dificultad. Esta es una de las razones por
             que nuestros tiempos padecen tanto flujo de poetas. Oíd y juzgad si merezco lugar entre
             cultos: «Rompían la no diáfana entonces región letales silbos y exánimes rugidos,
@@ -4924,7 +4923,7 @@
               place="bottom">Las Euménides fueron hijas de Aqueronte y Nix (Noche). Es probable que
               aquí aparezcan como herederas de Estigia porque esta es la laguna por la que su padre
               transitaba y en cuyas riberas habitaron. Así lo refiere Gómez de Tejada en otro lugar
-              del <hi rend="i">León prodigioso</hi> (1636: 244r): «Luego vinieron tres monstruos: las
+              del <hi rend="i">León prodigioso</hi> (1636: f. 244r): «Luego vinieron tres monstruos: las
               tres Euménides o furias infernales […]. Tales padres las engendraron: Aqueronte, en
               cuyas riberas ejecutan su rigor, y la Noche, que por eso siempre se acompañan con
               tinieblas de ignorancia».</note>, cuyas sombras –imagen ya clara de tenebroso caos–
@@ -4934,9 +4933,7 @@
               (véanse estos casos recuperados del <hi rend="i">CORDE</hi>: «será dar velas al inmudable
               viento», Bernardo de Balbuena, <hi rend="i">El Bernardo</hi>, 1624; «con leño débil y
               mudable viento», José Cadalso, <hi rend="i">Solaya o los circasianos</hi>, 1770;
-              «»hoy—«»—ste contexto el adjetivossismo: «»itud de ocasiones, por lo que no es
-              arriesgado pensar que en este contexto el adjetiv«hoy marca el mudable viento», Duque
-              de Rivas, <hi rend="i">Romances históricos</hi>, 1841), pero aquí creo que se refiere al
+              «hoy marca el mudable viento», Duque de Rivas, <hi rend="i">Romances históricos</hi>, 1841), pero aquí creo que se refiere al
               cielo.</note>, aplaudían descréditos, emulaban tiranías al luminar hermoso. Truenos y
             rayos caso mentían novísimo del brillante globo, confuso el orden de sus acordes
               ruedas<note place="bottom">ruedas: las órbitas del cosmos en la cosmografía
@@ -4948,7 +4945,7 @@
             monte, poco sello de mucha gruta<note place="bottom">Esta frase recuerda a la octava VI
               del <hi rend="i">Polifemo</hi> («Estas, que me dictó, rimas sonoras», 1612, vv. 47-48): «de
               los montes, esconde: copia bella / que un silbo junta y un peñasco sella»
-              [OC255.47-48].</note>, en su libertad hórridas maturaban disoluciones los que, en su
+              [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem255#l255.47">OC255.47-48</ref>].</note>, en su libertad hórridas maturaban disoluciones los que, en su
             esclavitud, lánguidos gimieron ahogos, anhelaron sufocantes parasismos<note
               place="bottom">parasismo: «accidente peligroso o cuasimortal en el que el paciente
               pierde el sentido y la acción por largo tiempo» (<hi rend="i">DRAE</hi> 1780). El pasaje se
@@ -4996,19 +4993,19 @@
                 <hi rend="i">Dedicatoria</hi> de las <hi rend="i">Soledades</hi>: «fieras te expone que, al
               teñido suelo, / muertas, pidiendo términos disformes, / espumoso coral le dan al
               Tormes!» (v. 12) («Pasos de un peregrino son errante», 1613, vv. 10-12)
-              [OC264A.10-12]. El término «coral» es recurrente en el corpus gongorino: «Regale sus
+              [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem264A#l264A.10">OC264A.10-12</ref>]. El término «coral» es recurrente en el corpus gongorino: «Regale sus
               orejas / en dulce sí, mas bárbaro instrumento, / de corales y almejas» (<hi rend="i">De los
                 marqueses de Ayamonte cuando se entendió pasaran a Nueva España</hi>,)
-              [OC165.37-39]; «perdió sus corales Menga / […] / quien busca corales? / […] / en sus
-              labios, sus corales» [OC216.3] [OC216.9] [OC216.16] [OC216.44]; «Marino joven, las
-              cerúleas sienes / del más tierno coral ciñe Palemo» [OC255.121-122].</note>; y
+                [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem165#l165.37">OC165.37-39</ref>]; «perdió sus corales Menga / […] / quien busca corales? / […] / en sus
+                labios, sus corales» [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem216#l216.3">OC216.3</ref>] [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem216#l216.9">OC216.9</ref>] [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem216#l216.16">OC216.16</ref>] [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem216#l216.44">OC216.44</ref>]; «Marino joven, las
+                cerúleas sienes / del más tierno coral ciñe Palemo» [<ref target="http://obvil.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem265#l255.121">OC255.121-122</ref>].</note>; y
             fulminando contra los vulcanos<note place="bottom">vulcanos: los pertrechos que Vulcano
               forjó para Júpiter, en particular su fulgente rayo, con el que avanza como báculo de
               poder o arma arrojadiza. El contexto tormentoso favorece esta imagen.</note> del
             hermano –guerra la llorarás civil– su tridente<note place="bottom">El tridente es el
               arma de Neptuno.</note>, en horrísonos combates, si sacrílegos Eolios<note
               place="bottom">Eolios: «perteneciente a Eolia o a sus naturales […]. Pueblos griegos,
-              de la raza helénica, que descendientes de Eolo» (Domínguez 1853). Es probable que
+              de la raza helénica, descendientes de Eolo» (Domínguez 1853). Es probable que
               Gómez de Tejada no se refiera tanto a los habitantes de esta región como a los ‘hijos
               de Eolo’, dios del viento.</note>, presumían violar cristalinos retretes<note
               place="bottom">retrete: «cuarto pequeño en la casa o habitación, destinado para
@@ -5049,7 +5046,7 @@
               notas.</note>) y en ellas cifran toda su doctrina: <quote><hi rend="i">Viro captare flosculos
                 turpe est et fulcire se notissimis, et paucissimis vocibus</hi></quote><note
               place="bottom"><title>Séneca</title>, <hi rend="i">Epístolas morales a Lucilio</hi>
-                (<hi rend="i">Epistulae morales ad Lucilium</hi>),, lib. IV, cap. XXXIII: «[<hi rend="i"> viro
+                (<hi rend="i">Epistulae morales ad Lucilium</hi>), lib. IV, cap. XXXIII: «[<hi rend="i">viro
                 captare flosculos turpe est et fulcire se notissimis ac paucissimis vocibus</hi>
                 [<hi rend="i">et memoria stare: sibi iam innitatur</hi>]» («Al hombre adulto le resulta
               vergonzoso ir a recoger florecillas, apoyarse en máximas muy conocidas y
