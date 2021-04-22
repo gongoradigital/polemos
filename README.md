@@ -2,6 +2,7 @@
 [http://gongoradigital.github.io/polemos/](http://gongoradigital.github.io/polemos/)
 
 * [1613_carta-amigo](1613_carta-amigo.xml)
+* [1613_carta-espinosa](1613_carta-espinosa.xml)
 * [1614_parecer](1614_parecer.xml)
 * [1614_advertencias](1614_advertencias.xml)
 * [1616,soledad-segunda-diaz](1616,soledad-segunda-diaz.xml)
