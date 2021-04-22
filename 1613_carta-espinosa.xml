@@ -1,0 +1,2204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2021-04-21T19:45:31+02:00-->
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1613_carta-espinosa">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Carta de Juan de Espinosa a Juan de Arguijo sobre la poesía oscura, con otras sales
+          contra Góngora</title>
+        <author>Juan de Espinosa</author>
+        <editor>Héctor Ruiz Soto</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Mercedes Blanco</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Muriel Elvira</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Aude Plagnard</name>
+          <resp>relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Héctor Ruiz Soto</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2021"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
+            >http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title><hi rend="i">Libro de varios tratados de graciosidad y erudición, de diferentes
+              autores</hi></title>, H Ra/0158, Universidad de Sevilla, f. 267r-268v (<ref
+            target="https://archive.org/details/HRa0158/page/n298/mode/1up"
+            >https://archive.org/details/HRa0158/page/n298/mode/1up</ref>). </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>L’édition comporte trois niveaux de notes. note[@place="bottom"] : notes d’éditeur (décimal
+        par défaut) note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain) </p>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1613" notAfter="1614"/>
+      </creation>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <!--
+      <div>
+        <head>Datos bibliográficos</head>
+        <table>
+          <row>
+            <cell>Editor científico</cell>
+            <cell>Héctor Ruiz Soto</cell>
+          </row>
+          <row>
+            <cell>Autor</cell>
+            <cell><p>Juan de Espinosa</p>
+            </cell>
+          </row>
+          <row>
+            <cell>Destinatario</cell>
+            <cell><p>Juan de Arguijo</p></cell>
+          </row>
+          <row>
+            <cell>Título</cell>
+            <cell><p>De don Juan de Espinosa cerca de la Poesía oscura a don Juan de Arguijo</p>
+          </cell>
+          </row>
+          <row>
+            <cell>Fecha</cell>
+            <cell><p>ca. 1613-1614</p>
+          </cell>
+          </row>
+          <row>
+            <cell>Fuentes</cell>
+            <cell><title><hi rend="i">Libro de varios tratados de graciosidad y erudición, de diferentes autores</hi></title>, H Ra/0158, Universidad de Sevilla, f. 267r-268v.</cell>
+          </row>
+          <row>
+            <cell>Ediciones modernas</cell>
+            <cell>
+              <p>Cobos Rincón (1986: 47-50)</p>
+          </cell>
+          </row>
+          <row>
+            <cell>Responde a otro texto</cell>
+            <cell>No</cell>
+          </row>
+          <row>
+            <cell>Referencias a la polémica</cell>
+            <cell>No</cell>
+          </row>
+        </table>
+      </div>
+      -->
+    <front>
+      <head>Introducción</head>
+      <div>
+        <head>0. La polémica gongorina, «graciosidad y erudición» para Francisco Pacheco</head>
+        <p>La presente edición es un estudio y anotación de una carta del poeta sevillano Juan de
+          Espinosa, perteneciente al círculo de Juan de Arguijo, dirigida a este poeta-mecenas como
+          un parecer sobre la «poesía oscura» de Góngora y sus imitadores<note place="bottom">
+            Agradezco a Mercedes Blanco, Muriel Elvira y Aude Plagnard su generosa relectura de esta
+            edición, a Begoña López Bueno y Maite Chicote Pompanin su ayuda para la obtención de
+            bibliografía e iconografía, cuando la «constitución maligna» de la Covid-19 cerró por
+            vez primera bibliotecas e impidió viajes, y a Roland Béhar su disponibilidad para
+            compartir hallazgos sobre Pacheco y Fernando de Herrera.</note>. Este breve escrito de
+          Juan de Espinosa pertenece a una colección manuscrita titulada: <hi rend="i">Libro de
+            varios tratados de graciosidad y erudición, de diferentes autores</hi><note
+            place="bottom"> BUS, H Ra/0158, <hi rend="i">Libro de varios tratados de graciosidad y
+              erudición, de diferentes autores</hi>.</note>. A esta colección pertenecen un buen
+          número de cartas y escritos satíricos (vejámenes, disparates, cuentos, diálogos, escolios
+          y relaciones), entre los que se encuentran varios escritos que comentan el estado de la
+          cultura y la sociabilidad letrada. El compilador del códice fue Francisco Pacheco, el
+          pintor y tratadista sevillano, suegro de Velázquez, que también dibujó la portadilla del
+            manuscrito<note place="bottom"> Bassegoda i Hugas (2009: 17).</note>.</p>
+        <figure>
+          <graphic
+            url="http://gongoradigital.github.io/img/1613_carta-espinosa/1613_carta-espinosa_fig1.jpg"/>
+          <head>Fig. 1: Portadilla de Francisco Pacheco para su <hi rend="i">Libro de varios
+              tratados…</hi>, BUS, H Ra/0158, f. 1r.</head>
+        </figure>
+        <p>En este compendio, mutilo de los folios 1r a 96v, Pacheco se muestra especialmente
+          interesado en las controversias o polémicas literarias<note place="bottom"> Del mismo
+            tenor, pero centrados en Fernando de Herrera, son los escritos compilados en otro
+            manuscrito de Pacheco, BNE MSS/17553, «Observaciones del Licenciado Prete Jacopín sobre
+            las anotaciones de Fernando de Herrera a las obras de Garcilaso de la Vega (h. 1-86v).
+            Respuesta de Fernando de Herrera a las Observaciones del Condestable de Castilla, Juan
+            Fernández de Velasco (h. 87-215v)». El manuscrito contiene al final la siguiente
+            información: «Fueron sacadas de los propios originales de letra del mismo Fernando de
+            Herrera en 11 de agosto de 1605», con la firma y rúbrica de Francisco Pacheco.</note>.
+          Tanto es así que el primer escrito conservado en esta miscelánea es la <hi rend="i">Carta
+            del bachiller de Arcadia al capitán Salazar</hi> (ca. 1550), que, según Fernando de
+          Herrera, introdujo en España este género de escritos: «Mas perdone Dios a don Diego
+          [Hurtado] de Mendoza haber traído de Italia este género de escribir»<note place="bottom">
+            <hi rend="i">Apud</hi> Béhar (2015: 55-57).</note>. Se trata de una misiva satírica de
+          este aristocrático escritor contra una crónica de la batalla de Mühlberg (1547) que
+          circuló por la corte en forma de epístola, seguida en el cartapacio de Pacheco por la
+          respuesta del capitán Salazar<note place="bottom"> BUS, H Ra/0158, <hi rend="i">Libro de
+              varios tratados…</hi>, f. 97r-117r, «Carta que escribió don Diego de Mendoza, con
+            nombre del bachiller de Arcadia, al capitán Salazar motejándole de mal coronista del
+            libro que escribió de la victoria habida contra los sajones, y respuesta del capitán
+            Salazar».</note>. Otros vejámenes y traslados de cartas alternan con «escolios» como los
+          «de Juan Sáez Zumeta contra Juan Bautista Pérez»<note place="bottom"> BUS, H Ra/0158, <hi
+              rend="i">Libro de varios tratados…</hi>, f. 138r-152v.</note>, y varias obras de
+          Francisco de Quevedo o Antonio Ortiz Melgarejo<note place="bottom"> La <hi rend="i">Casa
+              de los locos de amor</hi>, con carta a don Juan de Arguijo en BUS, H Ra/0158, <hi
+              rend="i">Libro de varios tratados…</hi>, f. 205r.</note>.</p>
+        <p>En lo que a controversias poéticas se refiere, el cartapacio contiene la «Carta escrita a
+            d<hi rend="i">on</hi> L<hi rend="i">uis</hi> de Góngora en razón de sus <hi rend="i"
+            >Soledades</hi>, y respuesta de don Luis de Góngora»<note place="bottom"> BUS, H
+            Ra/0158, <hi rend="i">Libro de varios tratados…</hi>, f. 257r-260v.</note>. Tras estas
+          cartas, viene otra sobre las <hi rend="i">Rimas</hi> de Juan de Jáuregui<note
+            place="bottom">Libro impreso en Sevilla, por Francisco de Lyra Varreto, en 1618.</note>,
+          y una relación de las fiestas madrileñas a san Isidro, en 1620, ambos escritos firmados
+          por Antonio Hurtado de Mendoza, que hace gala en ellos de un malintencionado buen
+            humor<note place="bottom"> BUS, H Ra/0158, <hi rend="i">Libro de varios tratados…</hi>,
+            f. 261r-261v, «Capítulo de una carta de Madrid escrita postrero día de julio de este año
+            de 1618, enviada a don Fran<hi rend="i">cis</hi>co de Calatayud por don Antonio Hurtado
+            de Mendoza cerca de las rimas de don Juan de Jáuregui»; f. 262r-266v, «Relación de las
+            fiestas de Madrid por el mes de junio de 1620 a s<hi rend="i">an</hi> Isidro labrador,
+            por don Antonio Hurtado de Mendoza».</note>. La epístola sobre las <hi rend="i"
+            >Rimas</hi> interesó a Pacheco por tratar de la obra de un amigo suyo, en cuyos
+          preliminares él mismo había participado con el soneto «La muda poesía y la
+            elocuente…»<note place="bottom"> Jáuregui, <hi rend="i">Rimas</hi>, 1618, f. ¶3r.
+            Francisco de Calatayud, a quien va dirigida la carta de Antonio Hurtado de Mendoza, es
+            el autor del primero de los poemas preliminares a las <hi rend="i">Rimas</hi> (f. ¶1r).
+            Sobre la crítica de Hurtado de Mendoza, véase Rico García (2012: 335).</note>. El
+          segundo escrito es una verdadera sátira de las fiestas madrileñas: «Ahora se duda si
+          Madrid celebró la beatificación o el martirio del santo…»; «dícese que su Majestad se ha
+          cansado de lo mal que han lucido los agradecimientos de su salud, que no parece que nos
+          importaba tanto, según las inútiles demostraciones que se han hecho, y de nada está
+          gustosa y contenta la gente sino de ver que está ya bueno (Dios le guarde) y que se espera
+          que mandará sacrificar un par de regidores en desagravio del santo»<note place="bottom">
+            BUS, H Ra/0158, <hi rend="i">Libro de varios tratados…</hi>, f. 263v y 266v.</note>. Al
+          comentar los premios de la justa poética, Antonio Hurtado de Mendoza apunta:</p>
+        <quote>[el primer premio] en las octavas a don Francisco de Tapia, hijo del marqués de
+          Belmonte, seguidor de la secta gongórica, brillante y rico<note place="bottom"> Por error,
+            la copia apunta «riso».</note> cuanto dice, aunque en don Luis no hay más que dos cosas
+          fáciles: podelle alabar muy bien, y saber imitalle mal<note place="bottom"> BUS, H
+            Ra/0158, <hi rend="i">Libro de varios tratados…</hi>, f. 265r.</note>.</quote>
+        <p>Después de esta relación, llega la carta que editamos, seguida de otra de Quevedo a una
+          abadesa, que corresponde al texto burlesco generalmente titulado <hi rend="i">Carta a la
+            rectora del Colegio de las Vírgenes</hi><note place="bottom"> Azaustre Galiana (2017: §
+            20).</note>, y de un intercambio epistolar de Juan de Espinosa con el conde de Bailén
+          sobre la Inmaculada Concepción<note place="bottom"> Este último transcrito y comentado por
+            Cobos Rincón (1987).</note>.</p>
+        <p>A cuenta de la graciosa erudición desplegada en todos estos escritos, y especialmente en
+          las disputas literarias, este <hi rend="i">Libro de varios tratados</hi> de Francisco
+          Pacheco reúne documentos de distinto cariz sobre la república de las letras, especialmente
+          entre 1610 y 1620, en eso comparables a los <hi rend="i">Ragguagli di Parnaso</hi>de
+            Boccalini<note place="bottom"> Sobre la influencia temprana de estos avisos del parnaso,
+            especialmente en Quevedo, adversario ideológico de Boccalini, véase Blanco
+            (1998).</note>. Como un archivo atento a la memoria satírica de las letras áureas,
+          objeto de curiosidad y diversión, este volumen recoge el texto que se consideraba en la
+          Sevilla de Fernando de Herrera como el primer ejemplo español de panfleto de tema
+          literario, y varios escritos pertenecientes a la polémica gongorina, como otra muestra más
+          del interés de Francisco Pacheco por el autor de las <hi rend="i">Soledades</hi>. En 1619,
+          este se encargó de la reedición de los <hi rend="i">Versos de Fernando de
+            Herrera</hi><note place="bottom"> Herrera, <hi rend="i">Versos</hi>, Sevilla, por
+            Gabriel Ramos Vejarano, 1619.</note> que se afanaban en «elevarlo a los altares del
+          cultismo convertido en una alternativa a Góngora»<note place="bottom"> López Bueno (2012:
+            318). Véase también Núñez Rivera (2010: 198-199), Micó (2015: 29-46), Ruiz Pérez (2012:
+            106) o García Aguilar (2012: 188-192).</note>. Según escribe el propio Pacheco en el <hi
+            rend="i">Arte de la pintura</hi>, Velázquez hizo en 1622 un retrato de Luis de Góngora
+          (Boston, Museum of Fine Arts) «a instancia mía»<note place="bottom">Pacheco, <hi rend="i"
+              >Arte de pintura</hi>, 2009, p. 203. Sobre los retratos de Góngora, véase Marías
+            (2012).</note>. Pacheco, como <hi rend="i">doctus pictor</hi>, conocía bien la obra del
+          poeta y la polémica que esta suscitó.</p>
+        <p>En el cuaderno compilado por Pacheco, se conservan dos testimonios de la polémica
+          gongorina. Por una parte, la pareja de denuestos epistolares conocidos con los títulos de
+            <hi rend="i">Carta que escribieron a don Luis de Góngora en razón de sus
+            “Soledades”</hi> y <hi rend="i">Carta de Góngora en respuesta de la que le
+            escribieron</hi> del propio Góngora. Por otra parte, esta misiva de Juan de Espinosa a
+          Juan de Arguijo, descubierta en 1986 por Mercedes Cobos Rincón<note place="bottom"> Cobos
+            Rincón (1986).</note>, ausente del repertorio de la polémica de Robert Jammes<note
+            place="bottom"> Jammes (1994). Joaquín Roses cita el artículo de Cobos Rincón, sin
+            comentar la carta en su <hi rend="i">Poética de la oscuridad</hi> (Roses 1994:
+            195).</note> y ahora editada en el marco del proyecto Góngora del labex Obvil<note
+            place="bottom"> Véase ahora el catálogo de la polémica gongorina a cargo de Muriel
+            Elvira y Aude Plagnard (2021).</note>.</p>
+      </div>
+      <div>
+        <head>1. Título: Una carta familiar sobre la «poesía oscura»</head>
+        <p>El texto editado a continuación no tiene más título que «D<hi rend="i">e</hi> don Ju<hi
+            rend="i">an</hi> de Espinosa cerca de la Poesía oscura a d<hi rend="i">on</hi> Ju<hi
+            rend="i">an</hi> de Arguijo», sobreentendiéndose que se trata de una carta más en un
+          volumen en que estas abundan. En el índice del mismo, añadido autógrafo de Francisco
+            Pacheco<note place="bottom"> Bassegoda i Hugas (2009: 17).</note>, aparece sin embargo
+          como «Discurso de don Ju<hi rend="i">an</hi> de Espinosa a don Ju<hi rend="i">an</hi>de
+          Arguijo cerca de la poesía oscura»<note place="bottom">BUS, H Ra/0158, <hi rend="i">Libro
+              de varios tratados…</hi>, f. [2v].</note>. El pintor y tratadista añadió así la
+          palabra ‘discurso’ por encima del renglón, evitando la elisión del título del documento
+          («[carta] De don Juan de Espinosa…») porque este texto está precedido por una relación y
+          no por otra carta.</p>
+        <p>Este añadido que redefine la misiva puede entenderse, en el marco de un libro <hi
+            rend="i">de graciosidad</hi>, como un donaire. En efecto, Espinosa se queja de que
+          Arguijo le haya pedido su parecer en una carta, cuando sería necesario contestar con un
+          largo discurso:</p>
+        <quote>Bien veo que V<hi rend="i">uestra</hi> M<hi rend="i">erce</hi>d quiere oírme, pero no
+          es materia para billete, y hablando de veras es menester larga distinción<note
+            place="bottom"> BUS, H Ra/0158, <hi rend="i">Libro de varios tratados…</hi>, f.
+            267r.</note>.</quote>
+        <p>El escrito concluye no obstante dando por acabado el alegato, o la ‘excepción de
+          justicia’, un término jurídico con el que el poeta da a entender que ha dado su última
+          palabra sobre el tema de la nueva poesía:</p>
+        <quote>Hago excepción de los amigos, que de justicia se está hecha, y para el que quisiere
+          saber con quién hablo me remito al examen de la conciencia<note place="bottom"> BUS, H
+            Ra/0158, <hi rend="i">Libro de varios tratados…</hi>, f. 268v.</note>.</quote>
+        <p>Este fragmento juega con el doble sentido de ‘excepción’ para salvar a los amigos de la
+          crítica y cerrar el texto: el alegato, o excepción “de justicia se está hecha”. Si «de
+          veras» no se trata de un discurso, sí se trata de una ‘excepción’. Independientemente de
+          esta variante entre burlas y veras, este texto se presenta como un breve discurso con
+          envoltorio o pretexto epistolar. Fuera del índice, el título del escrito acredita que
+          pertenece a una relación epistolar y aclara el tema de forma evidente para cualquier
+          lector familiarizado con el estado de las letras en la primera mitad del siglo XVII. La
+          poesía culta aparece descrita inequívocamente con una de sus tachas más habituales según
+          sus detractores: como «poesía oscura».</p>
+        <p>En definitiva, esta carta emana de una situación similar a la de la célebre «carta a un
+          señor de estos reinos» que Lope de Vega incluyó en la <hi rend="i">Filomena</hi>. Pedro
+          Conde Parrado, editor de las misivas incluidas en este libro de 1621, apunta «que Lope era
+          perfectamente capaz de inventarse que un personaje de alta alcurnia le había solicitado su
+          opinión sobre la llamada “nueva poesía”»<note place="bottom"> Conde Parrado
+          (2015).</note>. En este caso, Espinosa nos descubre, en el discreto cauce del manuscrito,
+          que Arguijo, veinticuatro (regidor) de la ciudad y potentado venido a menos, solicita su
+          parecer sobre la poesía culta. Aunque su poder no es comparable al de Sessa<note
+            place="bottom"> Como señala Pedro Conde Parrado (2015) a propósito del destinatario de
+            la carta lopesca: «El candidato hacia el que se inclina la crítica es, como era de
+            esperar, el duque de Sessa».</note>, ni era grande ni título, el mecenas sevillano
+          recibe una suerte de «carta a un señor de estos reinos» con un parecer sobre la nueva moda
+          poética. Una carta familiar en prosa, en parte sátira de los cultos, en parte muestra de
+          una relación personal entre dos poetas interesados en la moda literaria más importante de
+          su tiempo<note place="bottom"> Sobre la dualidad entre generalización del discurso y
+            circunstancias biográficas en el género de la epístola, véase Ruiz Pérez
+          (2000).</note>.</p>
+      </div>
+      <div>
+        <head>2. Autor: Juan de Espinosa, poeta y sevillano del círculo de Arguijo</head>
+        <div>
+          <head>2. 1. De don Juan de Espinosa…</head>
+          <p>El que escribe esta carta es un poeta sevillano poco conocido, miembro del círculo de
+            Juan de Arguijo<note place="bottom"> Sobre Arguijo y el contexto literario en la Sevilla
+              de su tiempo, véase Garrote Bernal (2006 y 2018) y Escobar Borrego, Montero, Rico
+              García y Solís de los Santos (2017), así como Rico García (2012: 342-348).</note>. Fue
+            sobrino de fray Juan de Espinosa (†1598), dominico sevillano y renombrado predicador,
+            incluido por Francisco Pacheco en su <hi rend="i">Libro de retratos</hi><note
+              place="bottom"> Pacheco, <hi rend="i">Libro de retratos</hi>, s.a., f.
+              54r-55v).</note>, aunque no tuvo la fama de su tío. Son pocas las referencias a
+            nuestro personaje en los textos que nos han llegado, si bien Juan Antonio de Ibarra lo
+            menciona junto a Arguijo en su <hi rend="i">Encomio de los ingenios sevillanos</hi>
+            (Impreso en Sevilla, por Francisco de Lira, 1623):</p>
+          <quote>Viose Sevilla en sus alumnos, conociolos por el idioma, miró en ellos ilustrado el
+            resplandor de la elegancia del Marqués de Tarifa, la divinidad de Herrera, la erudición
+            de Pachecos y Medinas, la agudeza y sal de Alcázares y Salinas, la copia y propiedad de
+            Jáureguis y Guzmanes, el caudal profundo y alteza de espíritu de Francisco de Rioja y
+            Antonio Ortiz Melgarejo, la grandeza de heroicos pensamientos de don Juan de Arguijo y
+            don Juan de Espinosa, la comprensión y viveza de don Alonso de la Serna, que si bien es
+            menos bien admitida la alabanza de los vivos, con todo eso ellos se dejan amar, y el
+            vulgo y los buenos permitir que los alaben<note place="bottom"> Juan Antonio de Ibarra,
+                <hi rend="i">Encomio de los ingenios seuillanos en la fiesta de los Santos Inacio de
+                Loyola i Francisco Xauier</hi>, impreso en Sevilla: por Francisco de Lira, año 1623,
+              f. 23v.</note>.</quote>
+          <p>A todas luces ausente de otros parnasos, su obra conocida es bastante reducida<note
+              place="bottom"> Sobre los parnasos, véase Ruiz Pérez 2010.</note>. En 1976, Stanko B.
+            Vranich repertorió una silva citada por Pacheco al retrato de su tío y tocayo (a. 1599),
+            un soneto a las ruinas de Itálica proveniente del manuscrito 20355 de la BNE<note
+              place="bottom"> «Itálica infelice que del hado…», BNE, MSS/20355, <hi rend="i">Sonetos
+                varios recogidos aquí de diferentes autores, así de manuscritos como de algunos
+                impresos por Don Joseph Maldonado Dávila y Saavedra, vecino de Sevilla año de
+                1646</hi>, f. <ref target="http://bdh-rd.bne.es/viewer.vm?id=0000178726&amp;page=62"
+                >56r</ref>. Es reseñable la ausencia de Espinosa del «índice de autores españoles
+              que han escrito poesía de mucho nombre», f. 293v-294r.</note>, otro soneto preliminar
+            en el manuscrito de las <hi rend="i">Soliadas</hi> de Diego Félix de Quijada y
+              Riquelme<note place="bottom"> «Corona de laurel la noble frente…» (Quijada y Riquelme,
+              1887: <ref target="http://bdh-rd.bne.es/viewer.vm%3fid=0000202249&amp;page=41"
+                >XXXIII</ref>).</note> (1619), así como una canción a los santos mártires Honorio,
+            Eutiquio y Esteban conservada en la Hispanic Society<note place="bottom"> Vranich 1976.
+              A estos tres santos el propio Arguijo les dedicó una canción en el mismo certamen por
+              las fiestas de Jeréz a sus santos patronos (Garrote Bernal y Cristóbal 2004:
+              XXXIII).</note>. Mercedes Cobos Rincón añadió a esta lista la carta a Juan de Arguijo
+            sobre la poesía oscura y otra más, conservada en el mismo manuscrito de la Universidad
+            de Sevilla, sobre temas concepcionistas<note place="bottom"> Cobos Rincón (1986 y
+              1987).</note>. Otra composición suya se conoce gracias al <hi rend="i">Arte de
+              pintura</hi> de Francisco Pacheco, como señaló en su edición Bonaventura Bassegoda: se
+            trata de una silva a un dibujo de san Juan Bautista de mano de Felipe IV, «que envió a
+            Sevilla su gran valido el Conde-Duque el año de 1619»<note place="bottom"> Pacheco, <hi
+                rend="i">Arte de pintura</hi>, p. 217-219.</note>. Conviene ahora añadir una obra
+            más a su corta bibliografía, un soneto traído por Ibarra en su <hi rend="i"
+              >Encomio…</hi><note place="bottom"> De él daba noticia Inmaculada Osuna (2012:
+              273-275) en su estudio de la relación de Ibarra.</note>, tras una breve presentación
+            elogiosa:</p>
+          <quote>
+            <p>Don Juan de Espinosa, caballero de insignes prendas, que sobre las de su nobleza y
+              calidad asientan muy bien las de su ingenio:</p>
+            <lg>
+              <lg>
+                <l> Sacras plantas de Alcides, que el dichoso</l>
+                <l>silencio y soledad de nuestro prado</l>
+                <l>gozáis, y en verdes ramos enlazado,</l>
+                <l>un nudo estrecho, dulce y amoroso;</l>
+              </lg>
+              <lg>
+                <l> su furia humille y soplo riguroso</l>
+                <l>a vuestra verde frente el viento helado,</l>
+                <l>y en primavera eterna os tenga el hado,</l>
+                <l>vestidas siempre de color hermoso.</l>
+              </lg>
+              <lg>
+                <l> Mas si del tiempo el conocido efeto</l>
+                <l>no consiente mudanza, vuestra gloria</l>
+                <l>os volverá su efeto conocido:</l>
+              </lg>
+              <lg>
+                <l> mas, ¡ay de mí!, que al mal vivo sujeto,</l>
+                <l>sin esperar del bien, que aun mi memoria</l>
+                <l>pueda alcanzar las aguas del olvido<note place="bottom"> Juan Antonio de Ibarra,
+                      <hi rend="i">Encomio de los ingenios seuillanos en la fiesta de los Santos
+                      Inacio de Loyola i Francisco Xauier</hi>, impreso en Sevilla: por Francisco de
+                    Lira, año 1623, f. 4r-v)</note>.</l>
+              </lg>
+            </lg>
+          </quote>
+          <p>Junto a Alonso de la Serna, Francisco de Rioja y Antonio Ortiz Melgarejo, Ibarra
+            presenta a Espinosa como uno de los «cuatro excelsos y valientes espíritus, de los
+            últimos que compusieron, como flores a la primavera de esta patria común», y que
+            acompañan al «genio» Juan de Arguijo<note place="bottom"><hi rend="i">Ibid</hi>., f.
+              3v-4r.</note>. Espinosa es por tanto una figura menor del círculo de Juan de Arguijo y
+            su obra conocida, entre 1599 y 1620, se resume en poemas de ocasión e intercambios de
+            pareceres polémicos.</p>
+        </div>
+        <div>
+          <head>2. 2. … A don Juan de Arguijo</head>
+          <p>El destinatario de la carta de Espinosa era un célebre poeta y mecenas en la Sevilla de
+            inicios del siglo XVII<note place="bottom"> Garrote Bernal (2018). Véase también Arguijo
+              1985 y 2004.</note>. En sus <hi rend="i">Varones ilustres en letras naturales de la
+              ilustrísima ciudad de Sevilla</hi>, Rodrigo Caro lo describe de la siguiente
+            manera:</p>
+          <quote>Don Juan de Arguijo, veinticuatro de Sevilla, no solo elegantísimo poeta, sino el
+            Apolo de todos los poetas de España, a los cuales honraba mucho y jamás censuró a
+            ninguno, antes, siendo muy rico de renta, que heredó de su padre en contía de 18.000
+            ducados de renta cada año, los favorecía a todos con excesivos dones y donativos; tanto
+            que, en la entrada en Sevilla de una señora, gastó 40.000 ducados por ser mujer de un
+            privado [la marquesa de Denia]. Y este gasto atrasó tanto su hacienda, de modo que sin
+            ser jugador ni gastador de mujeres, vino a estar tan pobre que solo se sustentaba, hasta
+            que murió, de la dote de su mujer, que eran 4.000 ducados de renta: para su gran
+            magnificencia, corto caudal. Tocaba muchos instrumentos y en un discante era el primer
+            hombre de toda España<note place="bottom"> Rodrigo Caro (2018: 97).</note>.</quote>
+          <p>El poeta y generoso mecenas escribió una obra abundante y muy reconocida, dedicándose
+            también a la música según Caro, y hasta a la pintura según Lleó Cañal<note
+              place="bottom"> Lleó Cañal (2012: 88-89).</note>. Si aquí aparece bajo los rasgos de
+            Apolo, lo hace más bien en calidad de patrón de las artes que en calidad de rey de
+            poetas, aunque fuera uno de los más destacados y alabados de su tiempo. Sus obras
+            poéticas, coleccionadas en cartapacios manuscritos por otros sevillanos de su círculo
+            como Francisco de Medina o Francisco de Rioja, y su participación en fiestas religiosas
+            afianzaron su fama de buen poeta. De ahí su posición destacada en las <hi rend="i"
+              >Flores de poetas ilustres</hi> de Pedro de Espinosa (1605) —las cuales se abrían con
+            uno de sus sonetos<note place="bottom"> «La tirana codicia del hermano…»: Pedro de
+              Espinosa, <hi rend="i">Flores de poetas ilustres</hi>, 2006, p. 175-177.</note>
+            seguido de otro de Góngora<note place="bottom"> «Varia imaginación, que en mil
+              intentos»: Pedro de Espinosa, <hi rend="i">Flores</hi>, p. 178-180, Luis de Góngora
+                (<ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica#poem43"
+                >OC43</ref>; 2019: 420-424).</note>—. Recibió elogios de Cervantes en el <hi
+              rend="i">Viaje del Parnaso</hi><note place="bottom"> Miguel de Cervantes, <hi rend="i"
+                >Viaje del Parnaso</hi>, III, vv. 352-357.</note>, y muy especialmente de Lope de
+              Vega<note place="bottom"> Por ejemplo en el <hi rend="i">Laurel de Apolo</hi>, II, vv.
+              416-424. Lope apunta que su sucesor es Juan de Jáuregui, vv. 425-447 (Vega Carpio
+              2007).</note>, quien también gozó del mecenazgo del rico burgués sevillano.
+            Veinticuatro de la ciudad desde 1590, heredero de una sustanciosa fortuna familiar,
+            Arguijo animó hasta 1606 una suerte de academia literaria que se reunía probablemente en
+            su palacio<note place="bottom">Véase al respecto Garrote Bernal y Cristóbal (2004:
+              XXXII).</note>. Ocupaba pues una posición eminente y central en la república
+            hispalense de las letras:</p>
+          <quote>La cronología de su vida brindó a Juan de Arguijo la oportunidad de conocer a tres
+            generaciones de humanistas y creadores con los que compartió amistad, ideas y
+            experiencias. La primera de ellas fue la formada en torno al magisterio de Juan de Mal
+            Lara y Fernando de Herrera, que reunió a Baltasar del Alcázar (1530-1606), al canónigo
+            Pacheco (1535-1599), al humanista Diego Girón, al maestro Francisco de Medina o al
+            pintor Pablo de Céspedes (1548-1608), al jesuita Gaspar de Zamora (1543-1621). La
+            segunda fue su generación, Rodrigo Caro (1573-1647), los jesuitas Luis del Alcázar
+            (1554-1613) y Juan de Pineda (1558-1637), Pedro de Venegas Saavedra (1576). La tercera,
+            la de los jóvenes que habían nacido en la década de 1580, Antonio Ortiz de Melgarejo,
+            Francisco de Rioja, Francisco de Calatayud, Juan de Jáuregui, Hernando de Soria
+            Galvarro, Juan Antonio de Vera y Zúñiga, Juan de Espinosa, o Diego Félix de Quijada y
+              Riquelme<note place="bottom"> Escobar Borrego, Montero, Rico García y Solís de los
+              Santos (2017: 67).</note>.</quote>
+          <p>Seriamente endeudado a partir de 1605, tuvo que subastar su palacio en 1606 y acogerse
+            a la Casa Profesa de la Compañía de Jesús, hasta que ganó un pleito contra el heredero
+            del Almirante de Castilla en 1613 y pudo abandonar su retiro forzoso en 1616<note
+              place="bottom">Sobre el pleito y la influencia de su retiro forzoso en sus relaciones
+              amistosas y literarias, véase Vranich (1985: 25-27) y Garrote Bernal y Cristóbal
+              (2004: XXXV-XXXVII)</note>, volviendo a su faceta de poeta público en fiestas,
+            preliminares de obras amigas, y en la colección de cuentecillos o chistes que coleccionó
+            a partir de 1619, sobre la que volveremos en el último apartado de esta introducción.
+            Murió el 7 de agosto de 1622.</p>
+        </div>
+      </div>
+      <div>
+        <head>3. Cronología: una gota del temprano «torrente de los doctos, agudos, y
+          curiosos»</head>
+        <p>Volviendo al discurso o carta de Juan de Espinosa, su datación solo puede ser hipotética.
+          Necesariamente anterior a la muerte de Juan de Arguijo, en 1622, solo podemos avanzar
+          hipótesis en base al conocimiento parcial de las primeras fases de la polémica gongorina y
+          a algunos indicios presentes en la propia misiva, o en lo que calla. El hecho de que no
+          ataque los poemas mayores de Góngora sino unos anónimos poetas, sugiriendo que son
+          bisoños, no permite deducir nada con certeza, aunque ofrece algún indicio. El ataque
+          contra los imitadores de Góngora y la responsabilidad que les achaca en el fenómeno de la
+          oscuridad podría significar que la carta es posterior a la difusión de las <hi rend="i"
+            >Soledades</hi> (1613-1614<note place="bottom"> Sobre la difusión temprana de las
+            mismas, véase López Bueno (2018: 3.<ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1614_advertencias#body-1-4"
+              >Cronología</ref>) y Daria Castaldo (2016: 3.<ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1613_carta-amigo#body-1-3"
+              >Cronología</ref>).</note>), aunque en la alusión a unos anónimos «gigantones» bien
+          pudiera ocultarse el <hi rend="i">Polifemo</hi> gongorino. En la <hi rend="i">Plaza
+            universal</hi> de Suárez de Figueroa (1615, con censuras de 1612), ya se atribuía a unos
+          indeterminados ingenios el prosperar del estilo culto, con alusiones a las silvas de
+          Estacio que sin duda aluden a las <hi rend="i">Soledades</hi>, siendo este fragmento
+          fechable entre 1612 y finales de 1614:</p>
+        <quote>Algunos siguen de poco a esta parte un nuevo género de composición (al modo de
+          Estacio en las silvas) fundado en oscurecer los conceptos con interposiciones de palabras
+          y ablativos absolutos, sin artículos, aunque cuidadoso en la elegancia de frases y
+          elocuciones. Grandes son las contiendas que causó esta novedad entre los poetas de España,
+          contradiciéndola por una parte muchos, como contraria a la claridad elegante, y por otra
+          siguiéndola algunos, como exquisita y adornada de poéticos resplandores<note
+            place="bottom"> Suárez de Figueroa, <hi rend="i">Plaza universal de todas las ciencias y
+              artes</hi>, en Madrid, por Luis Sánchez, 1615, f. 358r-v. Sobre la cronología de las
+            primeras fases de la polémica gongorina, véase Rico García (2016: 3.<ref
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1624_opusculo-curioso#body-1-3"
+              >Cronología</ref>).</note>.</quote>
+        <p>Tras la difusión de la <hi rend="i">Fábula de Polifemo y Galatea</hi> en 1612, y
+          probablemente también de versiones tempranas de las <hi rend="i">Soledades</hi>, no habría
+          que esperar mucho para ver prosperar a los poetas cultos, que ya afilaban la pluma en el
+          nuevo estilo en fechas tan tempranas como 1605. Así lo lamentó Lope de Vega en la epístola
+          «Al contador Gaspar de Barrionuevo» de 1604, y en otra «al doctor Gregorio de Angulo», de
+          1608, con las miras puestas en las <hi rend="i">Flores de poetas ilustres</hi> de Pedro de
+          Espinosa: «Presumid por momentos de latino…»<note place="bottom"> En la primera epístola,
+            escrita en Sevilla, «Otros, que por lo hinchado se desvelan / tundiendo el paño al mar,
+            frisando el polo, / y con decir que es tropos se arrodelan»; en la segunda: «Y advertid
+            que el vocablo se entremeta: / ‘verbigracia, boato, asumpto, activo, / recalcitrar,
+            morigerar, seleta, / terso, culto, embrión, correlativo, / recíproco, concreto,
+            abstracto, diablo, / épico, garipundio y positivo’». Las citas y su interpretación
+            proceden de Antonio Sánchez Jiménez (2019: 167-171).</note>. Siendo así las cosas, y tan
+          genérico y mal definido el blanco al que Juan de Espinosa dirige sus dardos, ni la
+          datación de los poemas mayores de Góngora ni la historia de su influencia en las letras
+          andaluzas y españolas ayudan a fechar esta carta con gran precisión<note place="bottom"
+            >Garrote Bernal y Cristóbal (2004: XLI) escriben de hecho: «Nos parece evidente que la
+            censura de los gongorinos que hay en esta carta sin fecha, sólo pudo ser posterior a la
+            imitación de los poemas mayores de Góngora, dados a conocer en 1613».</note>.</p>
+        <p>El dato más sólido con el que contamos es la comparación llevada a cabo por Espinosa
+          entre la nueva poesía y la boga del neoestoicismo español. La influencia estoica era
+          manifiesta en Sevilla, donde la generación de los poetas de entre-siglos, contemporánea de
+          Arguijo, se caracterizaba por el horacianismo y la moral inspirada en Séneca y demás
+            estoicos<note place="bottom"> Véase Begoña López Bueno (2000), así como Gómez Canseco
+            (2012: 60) y Núñez Rivera (2012: 214-215), que añade a esas dos características la
+            graciosidad sevillana <hi rend="i">de la sal</hi>. Por último, sobre la influencia del
+            neoestoicismo en el propio Arguijo: Escobar Borrego, Montero, Rico García y Solís de los
+            Santos (2017: 72): «el cariz moral de la poesía de Arguijo llevará a nuestro autor a
+            presentar a sus personajes como estandartes de valores estoico-cristianos, en diálogo,
+            con frecuencia, con las odas de Horacio».</note>. Sin embargo, Espinosa parece aludir
+          más bien al éxito de la preceptiva neoestoica, lamentando que sea más fácil reunir un
+          banquete intelectual en torno a la poesía oscura que en torno a un tema serio y de interés
+          universal como los preceptos estoicos:</p>
+        <quote>Yo prometo a V<hi rend="i">uestra</hi> M<hi rend="i">erce</hi>d que se pudiera
+          celebrar un simposio solemnísimo para tratar de estas cosas mejor que de los preceptos
+          estoicos, y aunque esos versos rompen los dientes, a fe que habían de hacer ventaja al
+          plato más regalado<note place="bottom">BUS, H Ra/0158, <hi rend="i">Libro de varios
+              tratados…</hi>, f. 268r.</note>.</quote>
+        <p>Aunque en el erudito banquete o «solemnísimo simposio» los preceptos estoicos sean plato
+          de mejor gusto que la poesía culta, esta se impone como una nueva moda. Ante esta
+          descripción del triunfo avasallador de la novedad culta, parece probable que estas líneas
+          de Espinosa pertenezcan a un periodo temprano de la polémica gongorina, entre 1612 y 1616,
+          habida cuenta de que en esos años se difunden en toda España y en la misma Sevilla obras
+          fundamentales del neoestoicismo, en traducciones de Epicteto, Séneca y Justo Lipsio<note
+            place="bottom"> Blüher (1983: 368-447).</note>. Tres reimpresiones de la traducción del
+            <hi rend="i">Enchiridion</hi> de Epicteto por el Brocense (Salamanca, Pedro Lasso, 1600)
+          se publican en 1612 en Pamplona, en Madrid y en Barcelona<note place="bottom"> Véase
+            Sánchez de las Brozas <hi rend="i">Doctrina del estoico filósofo Epicteto, que se llama
+              comúnmente Enchiridion</hi>, En Salamanca: en casa de Pedro Lasso, 1600. Las
+            reimpresiones son: en Pamplona, por Carlos de Labayen, 1612; en Madrid, por Juan de la
+            Cuesta, 1612; en Barcelona, por los herederos de Onofre Anglada, 1612. Sobre el
+            estoicismo del Brocense, véase Singlard (2015).</note>. En 1611 y 1613 se imprime en
+          Madrid la traducción de Luis Carrillo y Sotomayor del <hi rend="i">De brevitate vitae</hi>
+          de Séneca<note place="bottom"> Blüher (1983: 420).</note> (en las <hi rend="i">Obras</hi>
+          del traductor, impresas por Juan de la Cuesta primero y por Luis Sánchez después). En
+          1612, la <hi rend="i">Doctrina moral de las epístolas que Lucio Anneo Séneca escribió a
+            Lucilio</hi>, supuestamente traducida por Juan Melio de Sande, sale de las prensas
+          madrileñas de Alonso Martin<note place="bottom"> Blüher (1983: 421).</note>, y también de
+          1612 es el manuscrito de la <hi rend="i">Doctrina moral del conocimiento propio y
+            desengaño de las cosas ajenas</hi>, de Quevedo<note place="bottom"> Blüher (1983:
+            428).</note> (publicado en 1630, pero difundido en círculos eruditos en fechas más
+          tempranas). En Sevilla, en 1616, se publica asimismo el <hi rend="i">Libro de la
+            constancia de Justo Lipsio</hi> traducido por Juan Bautista de Mesa, con aprobación real
+          de 1614<note place="bottom"> Justo Lipsio, <hi rend="i">Libro de la constancia de Justo
+              Lipsio traducido de latín en castellano por Juan Baptista de Mesa</hi>, impreso en
+            Sevilla: por Matías Clavijo, 1616, f. ¶3v.</note>.</p>
+        <p>Por otra parte, la vida y las conexiones de Juan de Arguijo arrojan otros indicios que
+          coinciden con ese arco cronológico temprano. A falta de más datos, el hecho de que el
+          también sevillano Juan de Espinosa le haga llegar su opinión en un billete parece sugerir
+          que el veinticuatro no había recuperado del todo esa sociabilidad letrada «tanto en su
+          vida real como en su vida literaria, tanto dentro como fuera del texto y de la página
+          impresa o manuscrita»<note place="bottom">Lazure (2012: 31).</note>, de la que gozó en los
+          primeros años del siglo. Máxime si consideramos que Espinosa estaba mejor relacionado con
+          los dominicos, como su tío, que con los jesuitas, en unos años de violentas polémicas
+          concepcionistas que pudieron influir en que los dos amigos cambiaran impresiones en este
+          tipo de billetes, y no en verdaderos «simposios» o tertulias<note place="bottom">Cobos
+            Rincón, 1987. Sobre la virulencia del enfrentamiento entre dominicos y jesuitas
+            sevillanos a partir de 1615 sobre la Inmaculada Concepción, véase Osuna (2012:
+            277-283).</note>. Con todo, Ibarra no encuentra inconveniente alguno en 1623 para citar
+          a Espinosa en su <hi rend="i">Encomio…</hi> ocasionado en la fiesta de los fundadores
+          jesuitas San Ignacio y San Francisco Javier. Además, la carta familiar, en prosa y
+          afectuosamente descuidada, era comúnmente «cauce de las ideas literarias»<note
+            place="bottom">Rico García (2000: 400-401).</note>, y lo que sorprende no es tanto el
+          medio empleado como el interlocutor al que recurre Arguijo.</p>
+        <p>Conociendo las conexiones del veinticuatro con los letrados sevillanos de su tiempo, dos
+          datos llaman la atención en este intercambio epistolar y literario. El primero es que un
+          hombre tan bien informado como Arguijo, de acreditado juicio en temas poéticos, acuda a la
+          opinión de un poeta de segunda fila, menor que él en letras y en años. El segundo, el
+          silencio de esta carta sobre el <hi rend="i">Antídoto contra la pestilente poesía de las
+            Soledades</hi> que Juan de Jáuregui empezó en 1614 y concluyó al año siguiente. Entre
+          1610 y 1619, el pintor y poeta vivía en Sevilla, viajando ocasionalmente a Madrid<note
+            place="bottom"> Bassegoda i Hugas (2009: 27).</note>. No cabe duda de que tanto Espinosa
+          como Arguijo lo conocieron y trataron, cuando menos gracias al propio Arguijo. Este
+          mantuvo con Jáuregui una amistad duradera, e incluso participó con dos décimas en los
+          elogios preliminares de sus <hi rend="i">Rimas</hi>, en 1618. Que Arguijo acuda a
+          Espinosa, y que este ofrezca un parecer tan alusivo y precipitado, indica con toda
+          probabilidad que este billete es anterior a la difusión en 1615 de la opinión de Jáuregui.
+          Tanto más cuanto que varios defensores de Góngora opuestos al <hi rend="i">Antídoto</hi>
+          enrolaron rápidamente en su bando a Juan de Arguijo, como Francisco Fernández de Córdoba,
+          abad de Rute, en su <hi rend="i">Examen del Antídoto</hi> de 1617, y Angulo y Pulgar en
+          sus <hi rend="i">Epístolas satisfactorias</hi> (1635). Para estos autores, Arguijo es uno
+          de los dos «hombres graves» que admiraron a Góngora en la ciudad hispalense, junto a Juan
+          Antonio de Vera y Zúñiga<note place="bottom"> Francisco Fernández de Córdoba, <hi rend="i"
+              >Examen del antídoto o apología por las Soledades de don Luis de Góngora contra el
+              autor del antídoto</hi> (2019) y Martín de Angulo y Pulgar, <hi rend="i">Epístolas
+              satisfactorias</hi> (2018: f. 54v).</note>. Aunque ambos escribieron para los
+          preliminares de las <hi rend="i">Rimas</hi> del mismo Jáuregui (1618), que aprobó también
+          el muy íntimo amigo de Góngora, Hortensio Félix Paravicino, las dos décimas de elogio que
+          Arguijo tributó a este volumen resultaron quizá algo tibias<note place="bottom"> Jáuregui,
+              <hi rend="i">Rimas</hi>, f. ¶¶2r.</note>. Eso consideró al menos Antonio Hurtado de
+          Mendoza, en el parecer sobre este libro que Pacheco compiló en el <hi rend="i">Libro de
+            varios tratados de graciosidad y erudición</hi>:</p>
+        <quote>Las décimas de don Juan de Arguijo no han perdido nada, que en ellas se ha conocido
+          nuevamente su severo y atinado entendimiento, pues no sabe alabar bien las cosas
+            malas<note place="bottom"> BUS, H Ra/0158, <hi rend="i">Libro de varios tratados…</hi>,
+            f. 261r.</note>.</quote>
+        <p>Así las cosas, este billete de Juan de Espinosa podría ser una prueba de la curiosidad
+          que despertó el nuevo estilo gongorino en Juan de Arguijo. La descuidada alegría con la
+          que Espinosa se opone a la moda culta podría indicar que el veinticuatro todavía no tenía
+          una opinión formada, o públicamente expresada, sobre el tema de moda en la república de
+          las letras. Por tanto, ya sea una carta realmente enviada o un artificio literario, la
+          misiva de Espinosa sería anterior a 1617, cuando Arguijo parece haber elegido bando a
+          favor de Góngora. Pertenecería por tanto a un periodo inmediatamente anterior, en el que
+          el poeta y mecenas todavía podría encontrarse recluido, pidiendo opiniones por carta
+          incluso a poetas menores como Espinosa, y en definitiva interrogándose sobre la nueva
+          poesía del mismo modo y en los mismos meses y años en que lo hacían otros futuros
+          partidarios de Góngora, como el abad de Rute<note place="bottom"> Muriel Elvira (2015:
+              3.<ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer#body-1-3"
+              >Cronología</ref>).</note>. Por último, el silencio sobre Jáuregui permite deducir la
+          anterioridad de esta carta con respecto a las primeras noticias del <hi rend="i"
+            >Antídoto</hi> entre los amigos del pintor-poeta en su ciudad natal.</p>
+        <p>Con estos indicios la carta de Juan de Espinosa a Juan de Arguijo puede ser fechada entre
+          1612 y 1617, o con mayor probabilidad entre 1613 y 1614, inscribiéndose en los primeros
+          tiempos de la difusión de los poemas mayores de Luis de Góngora. Pertenecería así al
+          «torrente de los doctos, agudos y curiosos» detractores de la nueva poesía, que según
+          Manuel Ponce prosperaron ya desde 1612<note place="bottom"> Citado en Rico García (2016:
+              3.<ref
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1624_opusculo-curioso#body-1-3"
+              >Cronología</ref>).</note>.</p>
+      </div>
+      <div>
+        <head>4. Estructura: tres críticas a los cultos en forma de epístola</head>
+        <p>La breve carta de Juan de Espinosa recorre en una argumentación ágil los siguientes
+          puntos:</p>
+        <p>Los poetas cultos no son poetas de luz – Espinosa no quiere ser su intérprete –
+          [Premisas:] El estilo culto ha de ser condenado, pero sin condenar lo figurado en poesía
+          ni a Góngora – [Argumento primero:] Los poetas cultos son malos imitadores de este –
+          También es condenable la mala imitación en pintura – [Argumento segundo:] El estilo
+          figurado es lícito si los poemas tienen sustancia, no así en las poesías cultas –
+          [Argumento tercero:] Sus autores rechazan los preceptos del arte poética – [Conclusión:]
+          Esta moda está tan difundida como el neoestoicismo – Espinosa renuncia al enfrentamiento
+          con estos poetas.</p>
+        <p>Tras la primera afirmación, tajante y breve, que resume la opinión desfavorable de Juan
+          de Espinosa sobre los cultos, su escrito se desarrolla como una verdadera carta familiar,
+          en tono de sátira. Si la <hi rend="i">captatio benevolentiae</hi> debe subrayar la <hi
+            rend="i">infirmitas</hi> del autor y la modestia de su ingenio, aquí Espinosa invierte
+          el tópico reprochándole a Arguijo que solicite su opinión, suponiendo que él tiene que
+          entender el estilo culto, cosa que de ser cierta le avergonzaría: «pudiera yo correrme de
+          que no entendiéndolos V<hi rend="i">uestra</hi> M<hi rend="i">erce</hi>d me tenga por buen
+          intérprete». El exordio sí avisa con humildad, y como curándose en salud por lo
+          superficial de los argumentos que van a seguir, de que sería necesario un discurso y no un
+          billete para desarrollar convenientemente la argumentación, que pasa a resumir a
+          continuación. Tras exponer dos premisas iniciales («Lo primero [no hay que condenar lo
+          figurado] porque no es impropio», «Lo segundo», condenar a los cultos no es condenar a
+          Góngora), la primera y principal crítica de Espinosa contra los cultos es que son malos
+          imitadores, que hurtan a Góngora sus versos. Una digresión extrapola la crítica a la mala
+          imitación en pintura, en un ataque contra la decoración pictórica del Salón principal del
+          palacio arzobispal de Sevilla: una pulla que ha de entenderse como un guiño de Espinosa a
+          Arguijo, por varios motivos que desarrollo más adelante (véase 6. 2). Viene a continuación
+          el segundo argumento. La «poesía oscura» es insustancial y vacía, y el ornato oculta poca
+          o ninguna idea digna de ese nombre: los cultos «encubren boberías con jerigonza». Espinosa
+          concede que este defecto es tolerable en poetas jóvenes «porque después, al madurar, se
+          despojan de lo vicioso». Pero los cultos son soberbios e indóciles a las enseñanzas de sus
+          maestros así como a las lecciones del arte poética: tal es la tercera crítica de
+          Espinosa.</p>
+        <p>Acabada la argumentación, en tono más humorístico, la epístola pasa de la dialéctica a la
+          retórica, completando el arsenal de ocurrencias injuriosas contra los cultos mediante una
+          comparación con el estoicismo y con el «perro callejero». De hecho la carta es insultante
+          del principio al fin: los cultos son poetas «del Anticristo», «bestias» cuyo idioma no se
+          entiende, rufianes que hablan en «jerigonza», monas que no saben imitar e ingenios
+          inspirados por harpías más que por musas. Además, la moda culta es comparada al
+          estoicismo, del que sin embargo desmerece, como un alimento infame: «aunque esos versos
+          rompen los dientes, a fe que habían de hacer ventaja al plato más regalado». Estas
+          palabras y el exordio en que el autor renuncia a ser intérprete sugieren que Arguijo pudo
+          reclamar un parecer o un comentario sobre unos versos concretos. Sin embargo, Espinosa
+          concluye renunciando a la ‘corrección fraterna’ de estos poetas<note place="bottom">Sobre
+            la ironía de esta corrección y de la fingida amistad que la acompaña en el género
+            literario de las controversias poéticas, véase el excelente artículo de Béhar
+            (2015).</note>, escudándose en su susceptibilidad («no quiero ruido con necios, que
+          desconfían y se enojan») y completando el bestiario que los califica: «tienen condición de
+          perro callejero». Rizado el rizo de la sátira, Espinosa exime, con mayor o menor
+          franqueza, a «los amigos» de su crítica, y encierra en el secreto de la confesión el
+          blanco al que dirige sus tiros («y para el que quisiere saber con quién hablo me remito al
+          examen de la conciencia»). Cierran la misiva la fórmula de despedida y la firma.</p>
+      </div>
+      <div>
+        <head>5. Fuentes: una reescritura de Horacio</head>
+        <p>Esta carta familiar es reflejo de tertulias («Bien veo que V<hi rend="i">uestra</hi> M<hi
+            rend="i">erce</hi>d quiere oírme») y muestrario de los motivos más comunes de la
+          sociabilidad letrada desde el Renacimiento: cuentos, alusiones y expresiones coloquiales
+          alternan con un horacianismo poético explícitamente asumido («y así a cada paso los
+          comprende Horacio»). Por ello, el <hi rend="i">Arte poética</hi> es la fuente principal a
+          la que recurre Juan de Espinosa y casi la única de un texto que, en su faceta más seria,
+          no acude más que a argumentos comunes de la reflexión poética del periodo. Aunque Espinosa
+          también cita a Góngora, del que se declara «muy aficionado», o a Marcial, alude a ambas
+          autoridades como modelos de los poetas criticados, y no sigue en nada sus escritos. La
+          carta entera es una reescritura del inicio del <hi rend="i">Arte poética</hi> de Horacio,
+          como explicamos en la anotación y en el apartado relativo a los conceptos debatidos.</p>
+        <p>En alusiones indirectas, otras fuentes podrían ser una fábula de Esopo o una anécdota de
+          Vasari («la mona en casa del estatuario»), la expresión de germanía ‘que se vaya al rollo
+          de Écija’ («Vuélvolos a V<hi rend="i">uestra</hi> M<hi rend="i">erce</hi>d para que los
+          envíe a Écija»), y por supuesto fuentes iconográficas: «la galería del cardenal de
+          Guevara», y «alguna herrería de Vulcano, o la lucha de Hércules con Anteo» (ya sean estas
+          fuentes iconográficas o simplemente mitográficas), cuya función en la argumentación de
+          Espinosa detallamos a continuación.</p>
+      </div>
+      <div>
+        <head>6. Conceptos debatidos</head>
+        <p>La mala imitación que se confunde con el plagio (imitación hurtada), el equilibro que
+          debe guardarse entre estilo y sustancia, y el necesario aprendizaje que requiere el buen
+          ejercicio de la poesía son los tres principales conceptos en los que se basa la
+          argumentación de Juan de Espinosa, junto con la comparación entre poesía y pintura
+          desarrollada en una digresión sobre la imitación.</p>
+        <p>Estos cuatro conceptos son relativamente habituales en la polémica gongorina y en otras
+          controversias literarias anteriores. A continuación comento el tratamiento de cada uno de
+          ellos en la carta de Juan de Espinosa siguiendo el orden de su argumentación.</p>
+        <div>
+          <head>6. 1. La mala imitación: el hurto y la mona</head>
+          <p>Para Espinosa, una vez Góngora ha quedado a salvo o exceptuado de su crítica, los
+            poetas cultos «pecan con su ejemplo», imitándolo erróneamente. El error consiste en un
+            hurto, «reverso negativo»<note place="bottom">Ponce Cárdenas (2016: 107).</note> de la
+            imitación, metáfora polémica de la <hi rend="i">imitatio</hi> cuando esta es excesiva e
+            indiscreta. Aquí, es ante todo una imitación inadecuada: a los cultos les ocurre «lo que
+            a la mona en casa del estatuario, y así a cada paso los comprende Horacio juntando
+            cabezas humanas a cuellos de caballos».</p>
+          <p>Estas dos comparaciones, la mona y la grotesca comparación horaciana apuntan ya al <hi
+              rend="i">ut pictura poesis</hi>. La alusión a «la mona en casa del estatuario», aunque
+            es un tanto oscura y podría derivar de una de esas «novelitas» que se contaban «en las
+            tertulias del Siglo de Oro»<note place="bottom">Chenot y Chevalier (1979: 11). El
+              término «mona» podía servir también de insulto (véase Bouza, 1991: 134-135). En tal
+              caso, podría aludir a alguna persona conocida por el destinatario y el
+              remitente.</note>, apunta a una anécdota de Vasari o a una fábula de Esopo, en todo
+            caso a un cuento sobre el tópico del simio como mal imitador<note place="bottom">Cohen
+              (2017).</note>. En la versión de 1568 de la vida del pintor florentino Buonamico
+            Buffalmacco, Vasari cuenta que un mono «<hi rend="i">bertuccione</hi>»<note
+              place="bottom"><hi rend="i">Vocabolario degli accademici della Crusca</hi>, in
+              Venezia, appresso Giovanni Alberti, 1612, p. 765: «<hi rend="i">Scimmione: scimia
+                grande, bertuccione</hi>».</note>, perteneciente al obispo de Arezzo, pintó por
+            encima de la decoración en la que el pintor estaba trabajando para la capilla del
+            Bautismo del obispado.</p>
+          <quote><hi rend="i">Buonamico messo mano al lavoro: n’aveva già fatto buona parte, quando
+              gl’avvenne un caso il più strano del mondo, e fu, secondo che racconta Franco
+              Sacchetti nelle sue trecento Novelle, questo. Aveva il vescovo un bertuccione il più
+              sollazzevole ed il più cattivo che altro che fusse mai. Questo animale, stando alcuna
+              volta sul palco a vedere lavorare Buonamico aveva posto mente a ogni cosa, nè
+              levatogli mai gl’occhi da dosso quando mescolava i colori, trassinava gli alberelli,
+              stiacciava l’uova per fare le tempere, ed insomma quando faceva qualsivoglia altra
+              cosa. Ora, avendo Buonamico un sabato sera lasciato l’opera, la domenica mattina
+              questo bertuccione, non ostante che avesse apiccato a’ piedi un gran rullo di legno
+              […] egli salì, non ostante il peso che pure era grave, in sul palco dove soleva stare
+              Buonamico a lavorare: e quivi recatosi fra mano gli alberelli, rovesciato che ebbe
+              l’uno nell’altro, e fatto sei mescugli e stiacciato quante uova v’erano, cominciò a
+              imbrattare con i pennelli quante figure vi erano, e seguitando di così fare, non
+              restò, se non quando ebbe ogni cosa ridipinto di sua mano. […] Venuto il lunedì
+              mattina, tornò Buonamico al suo lavoro, dove vedute le figure guaste, gli alberelli
+              rovesciati, et ogni cosa sotto sopra, restò tutto maravigliato e confuso. Poi […]
+              pensò finalmente che qualche aretino per invidia o per altro avesse ciò fatto; onde
+              andatosene al vescovo, gli disse come la cosa passava e quello di che dubitava, di che
+              il vescovo rimase forte turbato; pure fatto animo a Buonamico, volle che rimettesse
+              mano al lavoro […], gli diede sei de’ suoi fanti armati che stessono co’ falcioni,
+              quando egli non lavorava […]. Rifatte dunque la seconda volta le figure, un giorno che
+              i fanti erano in aguato, ecco che sentono non so che rotolare per la chiesa, e poco
+              appresso il bertuccione salire sopra l’assito, e in un baleno fatte le mestiche,
+              veggiono il nuovo maestro mettersi a lavorare sopra i Santi di Buonamico</hi><note
+              place="bottom"> Vasari, <hi rend="i">Le vite de’ piu eccellenti pittori, scultori e
+                architettori</hi>, in Fiorenza, appresso i Giunti, 1568, vol. I, p.<ref
+                target="http://bdh-rd.bne.es/viewer.vm?id=0000186192&amp;page=111">158-159</ref>.
+              Propongo la traducción siguiente: ‘Buonamico puso manos a la obra: ya había hecho
+              buena parte de ella, cuando le ocurrió el caso más extraño del mundo, que fue, según
+              cuenta Franco Saccheti en sus trescientas <hi rend="i">Novelle</hi>, el siguiente. El
+              obispo tenía un mono <hi rend="i">bertuccione</hi>, el más divertido y malo que hubo
+              jamás. Este animal, que alguna vez se paraba en su palco a ver trabajar a Buonamico,
+              había atentido a todo, sin quitar nunca la vista de él cuando mezclaba los colores,
+              preparaba los recipientes, rompía los huevos para hacer la témpera, y en resumen
+              cuando hacía cualquier cosa. Entonces, habiendo Buonamico dejado la obra un sábado por
+              la noche, el domingo por la mañana el <hi rend="i">bertuccione</hi>, a pesar de tener
+              atado a los pies un gran rodillo de madera, subió, sin importarle lo mucho que pesaba,
+              al palco en el que solía estar Buonamico trabajando Y entonces acercó los recipientes,
+              los vacío unos dentro de los otros, y tras hacer sus mezclas y romper todos los huevos
+              que había empezó a emborronar con los pinceles todas las figuras que allí había, y
+              siguió así sin desccanso hasta que lo repintó todo de su mano. Cuando llegó el lunes
+              por la mañana, Buonamico volvió a su obra, donde, vistas las figuras deshechas, los
+              vasos rotos y todo manga por hombro, se quedó admirado y confiuso. Pensó al final que
+              algún aretino, por envidia o por otra razón, había hecho aquello, por lo que se fue
+              con ello al obispo y le dijo lo que pasaba y lo que él suponía, de lo que el religioso
+              se quedó muy preocupado. Animó a Buonamico, queriendo que volviese a trabajar en su
+              obra, y le dio seis de sus guardas, para que permaneciesen allí armados cuando él no
+              trabajaba. Volvió a hacer una segunda vez las figuras, y un día que los guardias
+              estaban en emboscada, he aquí que oyeron no sé qué rodar por la iglesia, y poco
+              después vieron al <hi rend="i">bertuccione</hi> subirse al andamio, hacer las mezclas
+              a la velocidad del rayo y, como nuevo maestro, ponerse a trabajar sobre los santos de
+              Buonamico’.</note>.</quote>
+          <p>La historia acaba entre risas y burlas, con Buonamico repitiendo su obra por tercera
+            vez, esta vez con el mono atado de pies y manos a una tabla de madera. Si esta anécdota
+            no alude a ningún «estatuario», otra fuente pudo ser la fábula esópica del <hi rend="i"
+              >simius et fabri</hi><note place="bottom"> Véase por ejemplo Esopo, <hi rend="i"
+                >Fabulae Aesopi… authore Ioachimo Camerario</hi>, Noribergae: apud Alexandrum
+              Philippum Theodoricum, 1597, n. 377.</note>, si acaso Espinosa entendía que ese <hi
+              rend="i">faber</hi> era escultor. En ella se cuenta la aventura de un mono con un
+            artesano, que con más tino puede traducirse como carpintero<note place="bottom"> Así lo
+              entendió por ejemplo Vicente Bratuti, <hi rend="i">Espejo político y moral para
+                príncipes, ministros y todo género de personas traducido de la lengua turca en la
+                castellana… Parte primera</hi>, en Madrid: por Domingo García y Morrás, 1654, p.
+              91.</note>: el mono lo ve cortar madera abriendo en ella una brecha que luego ampliaba
+            con clavos o cuñas. En un momento de descuido del carpintero, el macho se sube al madero
+            e, imitando el gesto que había visto, quita la cuña y cierra la brecha, con tan mala
+            suerte que atrapa sus genitales. Sobre esta base, aunque algo censurada en sus <hi
+              rend="i">Emblemas moralizadas</hi>, forja Hernando de Soto uno de los emblemas de su
+            obra (1599), cuyo <hi rend="i">motto</hi> se presta perfectamente al ataque de Espinosa
+            contra los cultos: «ninguno sabe en ministerio ajeno»<note place="bottom"> Hernando de
+              Soto, <hi rend="i">Emblemas moralizadas</hi>, Madrid, por los herederos de I. Iñiguez
+              de Lequerica, 1599, f. 53v-55v.</note>.</p>
+          <figure>
+            <graphic
+              url="http://gongoradigital.github.io/img/1613_carta-espinosa/1613_carta-espinosa_fig2.jpeg"/>
+            <head>Fig. 2: «Ninguno sabe en ministerio ajeno», Hernando de Soto, <hi rend="i"
+                >Emblemas moralizadas</hi>, f. 53v, Paris, BNF, NUMM-316210.</head>
+          </figure>
+          <quote>
+            <lg>
+              <lg>
+                <l> Hurtar quiso el ejercicio</l>
+                <l>de cierto trabajador</l>
+                <l>un simio, cuyo primor</l>
+                <l>le dio con muerte el oficio.</l>
+              </lg>
+              <lg>
+                <l> y el rústico de ira lleno</l>
+                <l>al tiempo que le mataba</l>
+                <l>le dijo: “¿quién te mandaba</l>
+                <l>meterte en oficio ajeno?”</l>
+              </lg>
+            </lg>
+          </quote>
+          <p>Ni en el poema ni en la glosa encontramos el término ‘estatuario’, pero sí hay una
+            alusión malévola a los «profesores de letras humanas» a los que «se les puede llamar
+            Virgilios y Homeros hechos a remiendos»<note place="bottom"><hi rend="i">Ibid</hi>.,f.
+              54v-55r.</note>: lo mismo se aplicaría a los cultos, ‘Góngoras a remiendos’, hechos de
+            aquellos «fragmentos usurpados» de los que hablaba Espinosa. El tema del hurto también
+            se observa en las redondillas, que describen cómo el mono destruye el trabajo ajeno,
+            mereciendo así la muerte a manos del «trabajador […] rústico». A pesar de estas
+            semejanzas con la argumentación de Espinosa, no podemos tener la certeza de que tuviera
+            este emblema en mente.</p>
+          <p>Una última fábula, que se suma al corpus esópico en fechas más tardías, cuenta la
+            historia del <hi rend="i">simius et hominis imago</hi>, en el que el mono cree
+            reconocerse en un retrato humano, y al verse luego en un espejo se descubre más feo de
+            lo que pensaba<note place="bottom">Desbillons, <hi rend="i">Fabulae Aesopiae curis
+                posterioribus omnes fere emendatae, accesserunt plus quam CLXX novae</hi>,
+              Mannhemii: typis academicis, 1768, p. 377.</note>. Es esta una reinterpretación del
+            emblema de Covarrubias y Orozco, en el que la mona al contrario alaba su propia imagen:
+            «La mona es animal feo, y si topa con un espejo se entretiene mirando en él su
+            abominable rostro»<note place="bottom">Covarrubias Orozco, <hi rend="i">Emblemas
+                morales</hi>, en Madrid, por Luis Sánchez, 1610: I, 96 (<ref
+                target="http://bdh-rd.bne.es/viewer.vm%3fid=0000108144&amp;page=199">f. 96r</ref>
+              [por errata, aparece como 98 en la edición consultada]).</note>. En la <hi rend="i"
+              >Filosofía secreta de la gentilidad</hi> de Juan Pérez de Moya, sí se alude a un mono
+            y un estatuario, que quizá hayan podido mezclarse con estos dos cuentos en la memoria o
+            las tertulias de Juan de Espinosa. Epimeteo fue el primer escultor en hacer una réplica
+            de barro de su hermano Prometeo, por lo que Júpiter lo convirtió en mona. Según explica
+            Pérez de Moya, siguiendo a Boccaccio, «el entendimiento de esta ficción es que porque la
+            mona es animal que por naturaleza tiene que lo que ve hacer al hombre lo desea hacer y
+            pone por obra, y porque este Epimeteo (que era estatuario) quiso por arte hacer
+            semejanza de lo que naturaleza, dice la fábula que Júpiter lo convirtió en mona, porque
+            tomó condición de mona en querer remedar a la naturaleza»<note place="bottom">Pérez de
+              Moya, <hi rend="i">Philosophia secreta, donde debajo de historias fabulosas se
+                contiene mucha doctrina provechosa a todos estudios</hi>, en Zaragoza: en casa de
+              Miguel Fortuño Sánchez, 1599, f. 395r).</note>. Monos o monas son, en todos los casos,
+            figuras de la soberbia y la mala imitación, según el tópico del <hi rend="i">ars simia
+              naturae</hi>: el dechado, ya sea un pintor, un carpintero o trabajador rústico, el
+            rostro humano o la propia naturaleza, es siempre superior a la copia, como Góngora a los
+            poetas que lo imitan.</p>
+          <p>La alegoría de la imitación en figura de mono favorece la moda de las <hi rend="i"
+              >singeries</hi>, especialmente en Flandes<note place="bottom"> Cesare Ripa, <hi
+                rend="i">Iconologia</hi>, In Roma: appresso Lepido Facii, 1603, p.<ref
+                target="http://bdh-rd.bne.es/viewer.vm%3fid=0000229610&amp;page=126"
+              >223</ref>.</note>. El Prado conserva los cuadros de David Teniers del <hi rend="i"
+              >Mono escultor</hi> y el <hi rend="i">Mono pintor</hi> (ca. 1660, Madrid, Museo del
+            Prado): el primero tan pagado de sí mismo que entre bustos de Venus y Séneca tiene un
+            sepulcro simiesco y trabaja en el busto de un sátiro, que se consideraba como una
+            especie de los primates<note place="bottom"> Conrad Gesner, <hi rend="i">Icones
+                animalium quadrupedum</hi>, Heidelbergae: e typographeio Iohannis Lancelloti,
+              impensis Andreae Cambiere, 1606, p. 91.</note>. La temática de estos cuadros deriva de
+            una tradición iconográfica iniciada por la serie de monos de Pieter van der Brocht<note
+              place="bottom"> McPhee y Orenstein (2011: 61).</note>. En esta serie de grabados, que
+            Espinosa acaso pudo conocer, los animales realizan actividades humanas de lo más
+            variopinto, sin que la escultura se cuente entre ellas. Una xilografíade Niccolò
+            Boldrini de hacia 1540 podría resumir en una imagen la idea de Espinosa sobre los
+            cultos: se trata del <hi rend="i">Laocoonte</hi> simiesco supuestamente inspirado de
+            Tiziano, que reproducimos a continuación. La crítica lo interpreta bien como una imagen
+            peculiar de la tradición del <hi rend="i">ars simia naturae</hi><note place="bottom">
+              Con un probable componente de crítica hacia las restauraciones romanas del <hi
+                rend="i">Laocoonte</hi> helenístico del Belvedere: Chatzidakis y Trinks
+              (2019).</note>, bien como una pieza de la polémica desatada por la afirmación de que
+            Galeno utilizó simios en sus disecciones anatómicas, según Andrea Vesalio<note
+              place="bottom"> McPhee y Orenstein (2011: 62).</note>.</p>
+          <figure>
+            <graphic
+              url="http://gongoradigital.github.io/img/1613_carta-espinosa/1613_carta-espinosa_fig3.jpg"/>
+            <head>Fig. 3: Nicolò Boldrini, caricatura del <hi rend="i">Laocoonte</hi>, ca.
+              1540-1545, Nueva York, The Metropolitan Museum, 22.73.3-125.</head>
+          </figure>
+          <p>Si bien ignoramos qué hizo exactamente «la mona en casa del estatuario», aparte de una
+            imitación viciosa del arte del escultor con el que Espinosa compara a Góngora, esta
+            caricatura del <hi rend="i">Laocoonte</hi> es una figura cabal de esta mala imitación
+            del estilo culto, inspirado por la poesía de la antigua Hesperia Magna en la pluma del
+            poeta cordobés, y por el grupo escultórico antiguo en el grabado de Boldrini. La
+            bestialidad del mono y su monstruosidad (debida a su inexacta semejanza con el hombre)
+            subrayan la atrocidad de la imitación de Góngora por los poetas oscuros. Los propios
+            «fragmentos usurpados» se lamentan de haber sido traídos «arrastrando a lugares
+            inmundos».</p>
+          <p>Según Juan de Espinosa, la crítica inicial del <hi rend="i">Arte poética</hi> de
+            Horacio contra los excesos de la imaginación se adapta exactamente a esta mala imitación
+            culta: «y así a cada paso los comprende Horacio juntando cabezas humanas a cuellos de
+            caballos». Esta cita, que sirvió tanto para la crítica de los grotescos<note
+              place="bottom">Morel (2011: 300-303).</note> y el gongorismo<note place="bottom">Cosme
+              Gómez Tejada la llama, en su <hi rend="i">León prodigioso</hi>, f. 137r, «la quimera
+              culta que Horacio puso en el principio de su <hi rend="i">Arte poética</hi>».</note>
+            como para la defensa de la propiedad y el decoro de las representaciones pictóricas,
+            abre la puerta a una digresión sobre la pintura: «A los pintores, que son poetas mudos,
+            los podemos comparar cuando adulteran las acciones de sus figuras por introducir la
+            imitación».</p>
+        </div>
+        <div>
+          <head>6. 2. <hi rend="i">Ut pictura poesis</hi></head>
+          <p>Espinosa ofrece un ejemplo concreto de mala imitación en pintura, criticando las
+            pinturas del palacio arzobispal de Sevilla. En 1604, el cardenal Fernando Niño de
+            Guevara hizo decorar los techos del salón principal y de la galería, conocida como del
+            prelado, con un conjunto pictórico solo comparable con dos precedentes sevillanos: la
+            Casa de Pilatos decorada por Francisco Pacheco en 1603 y 1604, y la propia casa palacio
+            de Juan de Arguijo, que ostentaba desde 1601 un programa decorativo mitológico en su
+            salón principal<note place="bottom">Sobre estos ciclos Lazure (2020), Méndez Rodríguez
+              (2017) y Garrote Bernal y Cristóbal (2004: LIV-LVII).</note>. Habiendo perdido su
+            palacio en 1606, la pulla contra unas pinturas que competían en prestigio y
+            magnificencia con las suyas propias pudo contentar a Arguijo, sin ofender al prelado,
+            fallecido en 1609. En la escena comentada, un ángel lleva en vuelo al profeta Habacuc a
+            Babilonia. Esta sería por tanto otra de esas «figuras de vuelo» como Ícaro o Faetón que,
+            según ha demostrado Guy Lazure<note place="bottom">Lazure (2020).</note>, ostentaban el
+            palacio de Arguijo y la Casa de Pilatos. Denigrando la decoración bíblica del salón
+            arzobispal, Espinosa podría aludir a la rivalidad relativa a la pintura de este tipo de
+            decoración a la italiana, escasa entonces en España, en la Sevilla de Juan de Arguijo, y
+            su observación podría interpretarse como discreta demostración de aprecio por el ciclo
+            mitológico del palacio del veinticuatro. Sabiendo que las pinturas de la casa-palacio de
+            Arguijo mostraban los brazos desnudos y musculosos de Ícaro, Faetón, Ganímedes o Astrea,
+            así como a Vulcano con su martillo, las críticas de Espinosa ocultan a todas luces una
+            comparación implícita favorable a los frescos de Arguijo, y como veremos también a los
+            de Pacheco para el tercer Duque de Alcalá en la Casa de Pilatos.</p>
+          <p>La alusión muestra el interés del autor de esta carta por la pintura, confirmado por
+            los dos poemas citados por Pacheco (en el <hi rend="i">Libro de retratos</hi> y en el
+              <hi rend="i">Arte de pintura</hi>) en un ambiente sevillano especialmente propicio al
+            contacto entre pintores y hombres de letras<note place="bottom"> Al propio tío de Juan
+              de Espinosa acudió Pacheco en busca de consejo para la iconografía de «un dibujo de
+              invención para pintar en cierta competencia la degollación del apóstol san Pablo». El
+              fraile dominico del convento de San Pablo no se molestó en ayudarle, y Pacheco acudió
+              entonces al jesuita Juan de Soria (Pacheco, <hi rend="i">Arte de pintura</hi>, 2009,
+              p. 286-287).</note>. La crítica a las pinturas del palacio arzobispal es la
+            siguiente:</p>
+          <quote>El que pintó la galería del cardenal de Guevara debía de tener bien asidas las
+            especies de alguna herrería de Vulcano, o la lucha de Hércules con Anteo, y dionos el
+            ángel de Habacú saltándole los ojos del rostro y el brazo que le pudieran sangrar con
+            ballestilla.</quote>
+          <p>Como se aclara en la anotación del fragmento, el lienzo atacado es el de <hi rend="i"
+              >Daniel en el foso de los leones</hi>, del salón principal del palacio, y no de la
+            galería del prelado<note place="bottom">Sobre el lienzo de <hi rend="i">Daniel en el
+                foso de los leones</hi> del Salón Principal del palacio arzobispal de Sevilla, véase
+              Fernández López (2002: 144) y también Valdivieso González y Serrera Contreras (1979)
+              con reproducción de la escena en la lámina XIX. Se ha atribuido recientemente la
+              decoración mayoritaria del conjunto al pintor italiano Girolamo Lucenti: véase Enrique
+              Valdivieso González (2018) y en última instancia Valdivieso y Martínez del Valle
+              (2020).</note>. El anónimo pintor es acusado de haber querido imitar el amaneramiento
+            anatómico de escenas como la fragua de Vulcano o el patetismo del combate de Hércules y
+            Anteo, representando al ángel que transporta a Habacuc con un lenguaje gestual
+            indecoroso y enfático: ojos exorbitados y brazos venosos en exceso.</p>
+          <p>El primer tema se inspira en la <hi rend="i">Eneida</hi> de Virgilio, cuando se
+            describe en el libro octavo la fábrica del escudo de Eneas por los cíclopes y el dios
+            Vulcano (lib. VIII, v. 415-454), y a menudo servía como una simple imagen magnificada
+            del trabajo fabril, como en la <hi rend="i">Canción de la toma de Larache</hi> del
+            propio Góngora (v. 40-51). La iconografía de este tema es abundantísima, en pintura y
+            grabado, prestándose a menudo una atención especial a la musculatura y las poses
+            manieristas de los artesanos mitológicos<note place="bottom"> Una muestra de entre la
+              multitud de imágenes posibles se encuentra en la base de datos iconográfica del
+              Warburg Institute, s.v. «The forge of Vulcan» (The Warbug Institute Iconographic
+              Database).</note>. En cuanto a Hércules y Anteo, la representación de la derrota del
+            gigante, levantado del suelo y estrangulado por el héroe, también ofrece en la tradición
+            artística poses enfáticas y gestos afectados, que se prestan a la crítica de Espinosa
+            sobre el sangrado de los brazos con instrumentos veterinarios, como la «ballestilla».
+            Aparte de ejemplos célebres como el de Mantegna (del que conocemos multitud de copias
+            grabadas a partir de 1475), o el bronce y la tempera de Antonio Pollaiolo (1475,
+            respectivamente Bargello y Uffizi), varios grabados de finales del siglo XVI o inicios
+            del XVII ponen énfasis en el rostro y la mirada de Anteo, como una fiera gesticulación
+            sin énfasis heroico, sino con la deformación propia de la lucha a muerte: por ejemplo el
+            grabado de Cornelis Cort inspirado por Frans Floris, impreso en 1563<note place="bottom"
+              > Londres, British Museum, <ref
+                target="https://www.britishmuseum.org/collection/object/P_F-1-285"
+              >F,1.285</ref>.</note>, o el de Lucas Killian de 1610<note place="bottom"> Nueva York,
+              Metropolitan Museum, <ref
+                target="https://www.metmuseum.org/art/collection/search/654601"
+              >49.95.1873</ref>.</note>.</p>
+          <p>El lugar horaciano sobre los excesos de la imaginación, sacado del inicio del <hi
+              rend="i">Arte poética</hi> y originalmente relativo a la pintura de grotescos<note
+              place="bottom">Zamperini (2007: 15).</note>, se emplea por tanto aquí para condenar
+            una falta de decoro en la <hi rend="i">mimesis</hi>, ya que introduce la pulla contra el
+            pintor del arzobispo («a cada paso los comprende Horacio juntando cabezas humanas a
+            cuellos de caballos […] A los pintores, que son poetas mudos, los podemos comparar
+            cuando adulteran las acciones de sus figuras por introducir la imitación»). Lo que se
+            critica es el recurso a un lenguaje pictórico propio de escenas mitológicas en una
+            representación veterotestamentaria, y especialmente en el cuerpo de un ángel. Espinosa
+            entiende por tanto los versos horacianos del mismo modo que Francisco Pacheco, como una
+            señal de «desconvenencia»<note place="bottom">Francisco Pacheco, <hi rend="i">Arte de
+                pintura</hi>, 2009, p. 286: «¡Cuán bien Horacio, en el principio de su Poética,
+              queriendo hablar de la invención y tomando la semejanza del pintor, por ser la poesía
+              y la pintura hermanas, representa la desconveniencia […]!».</note>, a la que podría
+            sumarse una crítica implícita de la emulación entre el arzobispo y la burguesía y la
+            aristocracia sevillanas. De hecho, ambos temas mitológicos, empleados para atacar la
+            decoración del palacio arzobispal, se hacen eco de figuras presentes en la decoración de
+            la casa de Arguijo y en la de Pilatos, donde Vulcano forma parte de sendas asambleas de
+            los dioses olímpicos, nada menos que en una apoteosis de Hércules en la Casa de
+              Pilatos<note place="bottom">Cuyo esquema compositivo deriva precisamente del techo de
+              la Casa de Arguijo (Méndez Rodríguez, 2017: 123).</note>. Pero más allá de las
+            eventuales alusiones sevillanas, Juan de Espinosa parece glosar a lo divino y mitológico
+            otro fragmento del inicio del texto horaciano: «“Los pintores y los poetas siempre han
+            tenido el mismo derecho a atreverse a cuanto les plazca”. Lo sabemos y esa licencia
+            pedimos y por nuestra parte damos, pero no para que se junten con los animales mansos
+            las bestias feroces»<note place="bottom">Horacio, <hi rend="i">Arte poética</hi>, v.
+              9-12.</note>: el ángel debe ser ángel y no parecerse al demonio, al dios pagano o al
+            gigante mitológico. La dulzura no debe mezclarse con la terribilità.</p>
+          <p>El lienzo en cuestión del palacio sevillano no presenta especialmente ninguno de los
+            rasgos que critica Espinosa, si no son los ojos elevados al cielo de Daniel o los de los
+            leones.</p>
+          <figure>
+            <graphic
+              url="http://gongoradigital.github.io/img/1613_carta-espinosa/1613_carta-espinosa_fig4.jpg"/>
+            <head>Fig. 4: <hi rend="i">Daniel en el foso de los leones</hi>, 1604, óleo sobre
+              lienzo, salón principal del palacio arzobispal de Sevilla (fotografía de Antonio
+              Gamero Osuna).</head>
+          </figure>
+          <p>Del mismo modo que el poeta se equivoca al situar la escena con Habacuc en la galería
+            del prelado y no en el salón principal, podría haberse confundido también en el lienzo
+            que pretendía atacar. A efectos de su argumentación, el resultado es el mismo. El ataque
+            de Espinosa recuerda la hinchazón, la fuerza postiza e inauténtica que sus adversarios
+            atribuyen al estilo culto. También responde a un tópico de la incipiente historia del
+            arte, por lo que hace valer su criterio no solo en asuntos poéticos sino también
+            pictóricos: por ejemplo, es famosa la repetición de la figura del poseído, de ojos
+            exorbitados y gestos contrahechos, que Rubens copia en su <hi rend="i"
+              >Transfiguración</hi> (1605, Nancy, musée des Beaux-Arts) de la <hi rend="i"
+              >Transfiguración</hi> de Rafael (ca. 1517, Vaticano, Pinacoteca Vaticana)<note
+              place="bottom"> Arasse (2003).</note>. Por otra parte, la crítica contra un conjunto
+            pictórico que rivalizó con el del palacio de Arguijo también es una muestra de un juicio
+            libre y dispuesto a polemizar. Es probable que Espinosa conociera el soneto encomiástico
+            «De las pinturas y relicarios de una galería del cardenal don Fernando Niño de Guevara»
+            escrito por Luis de Góngora<note place="bottom"> Luis de Góngora, <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/gongora_obra-poetica#poem168"
+                >OC168</ref>. Véase también la edición de sus sonetos por Juan Matas Caballero
+              (Góngora 2019: 809-815) y, sobre Góngora y la pintura, con especial atención a este
+              soneto, el artículo de Mercedes Blanco (2004: 200-201).</note>. Por último, decir que
+            el ángel podría ser sangrado con una «balestilla», como un animal, es un donaire
+            burlesco probablemente muy del gusto de Arguijo y de su círculo. En los <hi rend="i"
+              >Cuentos muy mal escritos que notó Juan de Arguijo</hi> aparece de hecho un chiste
+            parecido:</p>
+          <quote>
+            <p>Es en Sevilla el doctor Saavedra amicísimo de sangrías, y en prueba de esto, cuentan
+              que Juan Martínez Montañés (es famoso escultor y su vecino de casa) díjole un día que
+              estaba haciendo un Niño Jesús, el más airoso que le había salido de las manos, y que
+              en teniéndole acabado, se le quería mostrar. Pasaron algunos días y encontrándole
+              acaso en una calle, díjole:</p>
+            <p>– Señor doctor, ya está aquel Niño en estado que vuestra merced pueda verle. – Y
+              respondió:</p>
+            <p>– Sea muy enhorabuena. Llévese vuestra merced al barbero de camino, que yo voy allá
+              en haciendo solo una visita<note place="bottom"> Chenot y Chevalier, 1979 (n.
+                277).</note>.</p>
+          </quote>
+          <p>A ese ángel supuestamente hercúleo y que un doctor Saavedra hubiera podido sangrar,
+            Espinosa opone a los demonios: «Sea monstruoso el estilo con los diablos». Y en efecto,
+            en el lienzo que representa <hi rend="i">El arcángel san Miguel luchando contra los
+              demonios</hi>, del mismo techo del salón principal, se aprecian precisamente los
+            rasgos descritos por Juan de Espinosa: marcadas musculaturas en brazos y torsos
+            desnudos, y ojos exorbitados de los diablos vencidos por el arcángel.</p>
+          <figure>
+            <graphic
+              url="http://gongoradigital.github.io/img/1613_carta-espinosa/1613_carta-espinosa_fig5.jpg"/>
+            <head>Fig. 5: <hi rend="i">El arcángel san Miguel luchando contra los demonios</hi>,
+              1604, óleo sobre lienzo, salón principal del palacio arzobispal de Sevilla (fotografía
+              de Daniel Salvador Almeida).</head>
+          </figure>
+          <p>Quizá le fallara la memoria a Espinosa, y la mala imitación de los cultos, esos poetas
+            «del Anticristo», fuera comparable a estos demonios mal imitados del acervo manierista,
+            como el que señala un pliegue de la falda del arcángel, detrás de él, que parece copiado
+            de la <hi rend="i">Expulsión del Paraíso</hi> de Miguel Ángel (Capilla Sixtina). El
+            arcángel a su vez calca el <hi rend="i">San Miguel</hi> de Rafael, que por otra parte no
+            es menos membrudo (París, Musée du Louvre). En cualquier caso, la reflexión sobre la
+            imitación deriva en una conclusión sobre el decoro, como articulación entre el estilo y
+            la sustancia: el siguiente tema sobre el que versa la carta de Espinosa.</p>
+        </div>
+        <div>
+          <head>6. 3. Decoro, estilo y sustancia</head>
+          <p>Con la digresión sobre la pintura queda claro por qué la imitación de Góngora en los
+            poetas oscuros es inadecuada: los cultos copian el estilo de Góngora independientemente
+            del poema que escriban, atendiendo más a su autoridad que al decoro. Para Espinosa, «lo
+            que no se puede sufrir es que en tan grandes torrentes de palabras no haya una gota de
+            sustancia». Se superponen aquí dos críticas contra la poesía culta: la inadecuación del
+            estilo a la materia (ya presente en la pulla anterior) y la intranscendencia del estilo
+            mismo. La misma idea se encuentra en otros detractores del estilo culto, como Jáuregui,
+            Quevedo o Faria e Sousa<note place="bottom">Por ejemplo, de este último, véase Faria e
+              Sousa, <hi rend="i">Lusiadas de Luis de Camões, Príncipe de los poetas de España.
+                Comentadas por Manuel de Faria i Sousa</hi>, Madrid: Juan Sánchez, 1639, t. I,col.
+              48: «Que si bien [Góngora] descubre ingenio (que yo no se lo niego) y pretenden
+              imitarle muchos, no produce sustancia, con que todos se parecen a costales de nueces:
+              mucho ruido y poco fruto y ese de ningún provecho» (<ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1639_lusiadas/"
+                >1639_lusiadas</ref>).</note>. Cultismos léxicos y perífrasis resumen «el aparato
+            del arte de bien hablar», que aunque «es propio, como dije, de la poesía», también
+            describe en este caso los defectos de la poesía oscura: extravagancia léxica («términos
+            extravagantes») y falta de claridad («circunlocuciones»<note place="bottom"
+              >‘Circunloquio’ es «rodeo de palabras, de que se suele usar para decir alguna cosa que
+              se rehúsa explicar claramente» (<hi rend="i">Aut.</hi>).</note>). Tales defectos son
+            aceptables «pero a fin de poner velos a la hermosura de la sentencia, porque cueste
+            trabajo desarrebozalla, y para ganar atención». Para Espinosa, el ornato culto no tiene
+            «hermosura», ya que esta pertenece a la «sentencia». La idea o el pensamiento del poema
+            puede encubrirse para aumentar su atractivo con la dificultad de su expresión, pero es
+            imprescindible que la sentencia o concepto prime sobre el ornato estilístico. El defecto
+            de los cultos es que el concepto se reduce a poco menos que nada («boberías»), y es esta
+            nada o nadería lo que el poeta disimula tras la «jerigonza» culta.</p>
+          <p>Espinosa describe el poema culto como un cuerpo monstruoso, sin unidad orgánica (solo
+            estilo sin sustancia), y con fragmentos hurtados. Eso dice una afirmación especialmente
+            rica en sobreentendidos, en parte inspirada por los v. 32-37 del <hi rend="i">Arte
+              poética</hi> de Horacio, como se aclara en la edición: «todo su negocio es que su musa
+            tenga uñas como una harpía». Falsas apariencias de «gigantones» (quizá como el <hi
+              rend="i">Polifemo</hi>) y «rabos de cometas» que esperan una interpretación esotérica
+            innecesaria; aliteraciones ridículas que buscan la <hi rend="i">qualitas
+              sonorum</hi><note place="bottom"> En su introducción a las <hi rend="i">Rimas</hi>,
+              Jáuregui asocia la harmonía imitativa a los cultos: «la armonía suave y pompa
+              resonante de los versos, parte eficacísima al oído, cuyo regalo tanto procuran los más
+              cultos». Véase Jáuregui, <hi rend="i">Rimas</hi>, f. []4r-v. Sobre la <hi rend="i"
+                >qualitas sonorum</hi> véase María José Vega Ramos (1992).</note>; «términos
+            extravagantes» y «circunlocuciones» oscuras sin «una gota de sustancia», tal es la
+            definición de la «poesía oscura» por el autor de esta carta. Nótese el parecido del
+            ataque contra los «gigantones» cultos con el soneto de Quevedo titulado «Desengaño de la
+            exterior apariencia con el examen interior y verdadero». En él, un estoico Quevedo
+            advierte al lector sobre la soberbia de «este gigante corpulento» y de las «grandezas
+            aparentes»: «asco dentro son, tierra y gusanos»<note place="bottom"> Francisco de
+              Quevedo, «Desengaño de la exterior apariencia con el examen interior y verdadero»
+              (1992: n. 96): «¿Miras este gigante corpulento / que con soberbia y gravedad camina? /
+              Pues por de dentro es trapos y fajina, / y un ganapán le sirve de cimiento. // Con su
+              alma vive y tiene movimiento, / y adonde quiere su grandeza inclina. / Mas quien su
+              aspecto rígido examina, / desprecia su figura y ornamento. // Tales son las grandezas
+              aparentes / de la vana ilusión de los tiranos, / fantásticas escorias eminentes. //
+              ¿Veslos arder en púrpura, y sus manos / en diamantes y piedras diferentes? / Pues asco
+              dentro son, tierra y gusanos».</note>. Con similar intención y mejor humor, Espinosa
+            propone por tanto en su definición del estilo oscuro una crítica neoestoica de la
+            hinchazón del estilo. Pero la expresión relativa a la áspera sonoridad de los poemas
+            cultos es quizá lo más peculiar de su argumentación: los «troposílabos llenos de
+              ‘rrr’»<note place="bottom"> Sobre la sonoridad gongorina y su crítica en la polémica,
+              véase Blanco (2020), así como Ponce Cárdenas (2020) sobre la aspereza asociada a la
+              erre.</note>. El neologismo funde el ‘tropo’ retórico, o bien el más popular ‘tropel’
+            (como en el moderno ‘tropecientas’), con la desinencia –sílabo, para caracterizar un
+            metro identificado al estilo culto, no ya por el número de sílabas, sino por la
+            abundancia de sus figuras o su hinchazón. La alusión a la sonoridad de la erre puede a
+            su vez ser un recuerdo malintencionado del <hi rend="i">Ejemplar poético</hi> de Juan de
+            la Cueva (v. 208: «De la R usarás…»), con quien Arguijo no tuvo siempre buenas
+              relaciones<note place="bottom"> Rico García (2012: 344-346) y Garrote Bernal y
+              Cristóbal (2004: XVIII-XXI).</note>.</p>
+        </div>
+        <div>
+          <head>6. 4. Bisoñería y arte: el aprendizaje del poeta</head>
+          <p>Ante tal definición de la poesía culta, Espinosa concede que pueda ser un estilo
+            transitorio en poetas «bisoños», «porque después, al madurar, se despojan de lo
+            vicioso». Acepta el «atrevimiento» estilístico y la ‘redundancia’ o amplificación
+              excesiva<note place="bottom"> «En la retórica es vicio del discurso, que nace de la
+              superfluidad de las palabras. Latín: <hi rend="i">Redundantia</hi>. Lope, <hi rend="i"
+                >Dorotea</hi>, f. 143: Dirás que es redundancia o amplificación, como figura
+              retórica». (<hi rend="i">Aut</hi>).</note> como ejercicios de estilo en poetas
+            jóvenes. Esta idea excluye efectivamente a Góngora de la crítica, pues sus obras mayores
+            y más polémicas son poemas de madurez; pero su modelo estilístico se sitúa de este modo
+            en competencia con los referentes de Virgilio por una parte y Herrera por otra, en lo
+            que a formación de jóvenes poetas se refiere<note place="bottom"> Sobre el valor
+              ejemplar de estos tipos autoriales en la construcción de las carreras de los poetas
+              sevillanos del Siglo de Oro, véase Ruiz Pérez (2012: 124-125, 131-140) y García
+              Aguilar (2012: 172-173).</note>. La propuesta de Espinosa consistente en aceptar el
+            estilo culto como una etapa formativa del poeta es quizá la aportación más original de
+            esta carta al estudio de la polémica gongorina. La idea recuerda la introducción a las
+              <hi rend="i">Rimas</hi> de Jáuregui, que denuncia a esos «ingenios poco enseñados» y
+            «escritores mal instruidos» cuyas obras «solo contienen un adorno o vestidura de
+            palabras, un paramento o fantasma sin alma ni cuerpo»<note place="bottom"> Jáuregui, <hi
+                rend="i">Rimas</hi>, f. []1v-2r.</note>. En 1639, Faria e Sousa también aceptaba el
+            exceso de hipérbatos en jóvenes poetas: «Y con frecuencia no lo usan ingenios hombres,
+            sino pueriles»<note place="bottom"> Faria e Sousa, <hi rend="i">Lusiadas
+              comentadas</hi>, col. 131 (<ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1639_lusiadas/"
+                >1639_lusiadas</ref>).</note>.</p>
+          <p>Sin embargo, esta concesión solo sirve para poner de manifiesto la soberbia de estos
+            poetas: «en faltándoles modestia para conocerse bisoños, va todo perdido». No solo son
+            bisoños, no solo son cultos, sino que además muestran una suficiencia que será
+            ampliamente criticada en su tiempo, como en este fragmento de <hi rend="i">La
+              Filomena</hi> de Lope:</p>
+          <quote>Pero volviendo al propósito, a muchos ha llevado la novedad a este género de
+            poesía, y no se han engañado, pues en el estilo antiguo [de Garcilaso] en su vida
+            llegaron a ser poetas, y en el moderno lo son el mismo día: porque con aquellas
+            trasposiciones, cuatro preceptos y seis voces latinas o frasis enfáticas se hallan
+            levantados adonde ellos mismos no se conocen, ni aun sé si se entienden<note
+              place="bottom"> Lope de Vega, <hi rend="i">Epístolas de La Filomena</hi>, f.
+              194r.</note>.</quote>
+          <p>Presentándose como un poeta ya maduro y experimentado, Espinosa defiende el arte
+            poética como «el agua de la doctrina» capaz de corregir a estos cultos, si la aceptaran.
+            Así remacha la idea principal del inicio del <hi rend="i">Arte poética</hi> de Horacio,
+            después de citar sus versos iniciales: la imaginación excesiva y los juegos estilísticos
+            consistentes en unir «cabezas humanas a cuellos de caballos» deben ser controlados por
+            el arte. Como escribe el poeta latino:</p>
+          <quote>La mayor parte de los poetas, padre y jóvenes dignos del padre, nos engañamos con
+            la apariencia de lo que es correcto: me esfuerzo en ser conciso y oscuro me vuelvo;
+            cuando busco hacer una cosa ligera me faltan nervio y aliento; el que aspira a lo grande
+            se hincha; por tierra se arrastra el que es precavido en exceso y teme a las
+            tempestades; el que ansía dar a una obra una variedad prodigiosa, pinta un delfín en los
+            bosques y un jabalí en las olas. El escapar del defecto al vicio conduce, si se carece
+            de arte<note place="bottom"> Horacio, <hi rend="i">Arte poética</hi>, v.
+            24-31.</note>.</quote>
+          <p>En definitiva, la carta de Espinosa consiste en una reescritura del inicio del <hi
+              rend="i">Arte poética</hi> de Horacio, adaptada al tema de la «poesía oscura» y
+            enriquecida con una breve definición del estilo culto, y sales y guiños sobre hurtos en
+            la imitación y pintura en la Sevilla de Juan de Arguijo.</p>
+        </div>
+      </div>
+      <div>
+        <head>7. Sales cultas que no apuntó Juan de Arguijo: más sobre la “graciosidad” de la
+          polémica gongorina en el entorno de Espinosa y Pacheco</head>
+        <p>Gracias a Francisco Pacheco conocemos este único testimonio de la carta de Juan de
+          Espinosa a Juan de Arguijo. Su presencia en un <hi rend="i">Libro de varios tratados de
+            graciosidad y erudición</hi> es una prueba más de la amplitud del debate suscitado por
+          el estilo de los poemas mayores de Luis de Góngora: objeto de curiosidad, de recolección
+          erudita y también de sorna y diversión. La afición a Góngora tuvo mucho que ver con esa
+          afición al humor y la sátira, que llevó a sus aficionados a conservar y difundir su obra.
+          También gran parte de la polémica que esta suscitó se conserva en verdaderos archivos
+          gongorinos, compuestos por multitud de ingenios, ya fueran estos curiosos trabajando en
+          defenderle, eruditos bibliófilos o poetas siguiendo su estela<note place="bottom"> Sobre
+            estos archivos gongorinos, véase Blanco (2021).</note>. Este cartapacio de Francisco
+          Pacheco demuestra que también la «graciosidad» de la polémica fue un poderoso motivo para
+          su difusión y conservación. No andaba desencaminado Salinas cuando en 1937 afirmaba sobre
+          la difusión de las <hi rend="i">Soledades</hi> y el <hi rend="i">Polifemo</hi>: «No pueden
+          ustedes imaginar nada más divertido que la guerra despertada en el mundo literario por
+          esos dos poemas»<note place="bottom"> Salinas (2007: 479).</note>.</p>
+        <p>En el entorno de Pacheco y de Juan de Espinosa, y bajo el patrocinio de Juan de Arguijo,
+          varios ingenios constituyeron otro archivo: un compendio de cuentos y chistes conservado
+          en el manuscrito MSS/19380 de la Biblioteca Nacional de Madrid, en el que se refleja la
+            <hi rend="i">vis comica</hi> de varios de sus contemporáneos<note place="bottom"> BNE,
+            MSS/19380, <hi rend="i">Cuentos muy mal escritos que notó Juan de Arguijo</hi>. Véase
+            Garrote Bernal y Cristóbal (2004: XLI).</note>. Con el título <hi rend="i">Cuentos muy
+            mal escritos que notó Juan de Arguijo</hi>, esta colección reúne cerca de setecientos
+          cuentecillos en los que, a menudo, se menciona a fray Juan Farfán, a Quevedo o a Góngora
+          por su particular ingenio y agudeza<note place="bottom"> Las menciones a Góngora se
+            encuentran, en la edición de Chenot y Chevalier, en los cuentos n. 55, 60, 129, 312, 322
+            [sobre la polémica], 360 [que repite el 55], 361, 364, y 552.</note>. También aparece
+          alguna anécdota relativa a Pacheco, como por ejemplo en el cuento 347:</p>
+        <quote>
+          <p>Ha sido en Sevilla pendencia muy reñida entre los cultos sobre si a las palabras del
+            título de la Cruz, que de ordinario se ponen, se ha de añadir <hi rend="i">Hic est</hi>.
+            Pacheco, pintor, donado o muñidor de los cultos, fue al padre Diego Granada, de la
+            Compañía, y propúsole esta cuestión preguntándole su parecer, y el padre, que es un
+            santísimo y doctísimo varón, respondió muy mesurado:</p>
+          <p>- En verdad, señor, que siempre me ha contentado el INRI sin andarle a buscar otras
+            añadiduras.</p>
+          <p>El Pacheco, en lugar de gustar de la respuesta, sencilla y agraciada, fuese mohíno, y a
+            cuantos lo refería decía luego:</p>
+          <p>- Es un buen hombre el Granada. —notándole de poco erudito<note place="bottom"> Chenot
+              y Chevalier (1979: n. 347).</note>.</p>
+        </quote>
+        <p>Esta anécdota se toma a broma la polémica del título de la cruz, que se desarrolló en
+          Sevilla entre el III duque de Alcalá y Francisco de Rioja, a cuenta de una pintura de
+          Pacheco de 1614<note place="bottom">Bassegoda i Hugas (2009: 18-20).</note>, sobre si
+          antes del título habitual <hi rend="i">Iesus Nazarenus Rex Iudaeroum</hi>, había que
+          añadir el deíctico <hi rend="i">Hic est</hi><note place="bottom">Pereda (2017:
+            57-138).</note>. La importancia del pintor entre los «cultos» sevillanos, de los que es
+          «donado o muñidor», queda patente en esta anécdota, y en la polémica que duró al menos
+          hasta 1622 y de la que se conserva memoria, indirectamente, en el <hi rend="i">Arte de la
+            pintura</hi> y en la cartela del <hi rend="i">Cristo en la cruz</hi> del Panteón del
+          monasterio del Escorial. El cuento muestra que Pacheco mismo fue quien difundió la
+          respuesta del jesuita, convirtiéndose él mismo en materia de chiste y haciendo del
+          cartapacio de los <hi rend="i">Cuentos</hi> una obra colectiva, reflejo de tertulias y de
+          una sociabilidad sevillana atenta a las últimas modas de la república de las letras. La
+          participación de Arguijo en el conjunto no va más allá del f. 23r<note place="bottom">BNE,
+            MSS/19380, <hi rend="i">Cuentos muy mal escritos que notó Juan de Arguijo</hi>, f. 23r:
+            «Hasta aquí llegan los cuentos q<hi rend="i">ue</hi> notó don Ju<hi rend="i">an</hi> de
+            Arguijo».</note>, y por tanto hasta el cuento 107: en ese primer conjunto, solo dos
+          cuentos aluden a Góngora como autor de donaires, y no como objeto de burla<note
+            place="bottom">Se trata, como ya se ha dicho, de los cuentos 55 y 60.</note>. En vida
+          del veinticuatro, todavía estamos lejos de la malintencionada salida de Cosme Gómez Tejada
+          en su <hi rend="i">León prodigioso</hi>, cuando apunta: «finalmente hay risas cultas, que
+          nadie las entiende»<note place="bottom"> Cosme Gómez Tejada de los Reyes, <hi rend="i"
+              >León prodigioso</hi>, f. <ref
+              target="http://bdh-rd.bne.es/viewer.vm?id=0000095399&amp;page=665">324r</ref>.</note>.
+          Más adelante, sin embargo, algunas de las sales que acompañaron la controversia sobre el
+          estilo de los poemas mayores de Góngora sí quedan apuntadas en tres de los <hi rend="i"
+            >Cuentos muy mal escritos</hi>. Son los cuentos 322, 323 y 364, que reproducimos a
+          continuación.</p>
+        <p>Los dos primeros son donaires de un actor, «el representante Osorio», probablemente
+          Baltasar de Osorio, autor y actor del que constan escrituras notariales de sus papeles en
+          Madrid, Sevilla y Lerma<note place="bottom"> Baltasar de Osorio actuó tanto en Sevilla
+            como en la Corte, teniendo más oportunidad que sus homónimos de tratar a Góngora, y su
+            fama de gracioso le convierte en una autoridad en el tipo de sales que recoge el
+            manuscrito de los <hi rend="i">Cuentos muy mal escritos</hi>. Véase Ferrer Valls <hi
+              rend="i">et alii</hi> (2008: s.v. Osorio). Otros candidatos podrían ser Juan de
+            Osorio, que estuvo en Sevilla entre 1605 y 1608, pero no consta ningún documento
+            posterior ; o bien Pedro de Osorio, que actuó en Sevilla en 1613, antes de irse a
+            Nápoles en 1620. Vicente Osorio, contemporáneo de los anteriores, actuó en la mitad
+            norte de España (Viana, Zaragoza, Valencia, Barcelona, Lugo), por lo que seguramente
+            quedaría descartado, lo mismo que Francisco y Rodrigo Osorio, representantes más
+            antiguos, de finales del siglo XVI.</note>. </p>
+        <quote>
+          <p>322. Osorio el representante preguntó un día a don Luis de Góngora cómo se entendían no
+            sé qué versos suyos algo oscuros. Declaróselos don Luis, y dijo Osorio:</p>
+          <p>- Pues, ¿por qué v<hi rend="i">uestra</hi> m<hi rend="i">erced</hi> no me dijo en los
+            versos eso que me dijo agora, y no me cansara en preguntárselo ni v<hi rend="i"
+              >uestra</hi> m<hi rend="i">erced</hi> en declarármelo?<note place="bottom"> Chenot y
+              Chevalier (1979: n. 322).</note></p>
+        </quote>
+        <p>Haciendo gala de una simpleza digna de un gracioso de comedia, Osorio subraya la
+          distancia existente entre el estilo de Góngora y el lenguaje común. El mismo patrón de
+          historieta se repite en una anécdota traída en 1639 por Manuel de Faria e Sousa:</p>
+        <quote>Acuérdome que llegándome un día a mi amigo Lope de Vega, le pregunté (como me lo
+          preguntaron a mí algunos) qué quería decir en aquella gran canción de su <hi rend="i"
+            >Arcadia</hi> […] y luego dijo: “Bueno sería que escribiese yo cosas que fuese necesario
+          andar colgado de ellas para darlas a entender”. Tras eso me contó con buena gracia el
+          suceso de Luís de Camões (que yo no sabía) con uno que le mostró ciertas coplas que había
+          hecho, y diciéndole el gran Camões que no las entendía (¿qué tales serían ellas?) él se
+          puso a explicárselas; y él oyendo la explicación de cada una, decía: “Eso que vos me decís
+          de palabra, quisiera yo que dijera la copla”<note place="bottom"> Faria e Sousa, <hi
+              rend="i">Lusiadas comentadas</hi>, t. I, col. 65 (<ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1639_lusiadas/"
+              >1639_lusiadas</ref>).</note>.</quote>
+        <p>La doble autoridad de los poetas transforma el donaire de Osorio en un verdadero
+          posicionamiento poético, defendido airadamente por Lope. Así se describe el recorrido de
+          un chiste desde las sales de una tertulia sevillana al serio «Juicio del poema» de la obra
+          magna de Camões en las <hi rend="i">Lusiadas comentadas</hi> por Faria: la maledicencia
+          literaria da paso a la sesuda polémica<note place="bottom"> Sobre el papel del humor en
+            este proceso de la controversia a la polémica, véase Béhar (2015).</note>.</p>
+        <p>El cuento siguiente del manuscrito sevillano pasa de la crítica a Góngora al ataque
+          contra los cultos.</p>
+        <quote>
+          <p>323. El mismo Osorio oyendo a un negro del obispo de Bona, ladino, pero que cuanto
+            hablaba no ataba ni desataba, sino que ni él se entendía, ni los que hablaban con él,
+            dijo asombrado:</p>
+          <p>- ¡Válgame el diablo, negro! ¿Eres tú culto, que no sabes lo que dices?</p>
+          <p>¡Gentil definición de los cultos para lo que ellos presumen!<note place="bottom">
+              Chenot y Chevalier (1979: n. 323).</note></p>
+        </quote>
+        <p>Esta anécdota refiere la comparación entre los cultos y un esclavo de Juan de la Sal y
+          Aguilar, obispo auxiliar de Sevilla e <hi rend="i">in partibus infidelium</hi> de Bona (la
+          actual Annaba), que era tío de Juan de Jáuregui<note place="bottom">Lazure (2012:
+            38-39)</note>. Aunque este esclavo es considerado «ladino» y por tanto capaz de hablar
+          castellano «con viveza y propiedad»<note place="bottom">‘Ladino’ es «el que con viveza o
+            propiedad se explica en alguna lengua o idioma» (<hi rend="i">Aut</hi>).</note>, se
+          expresa tan mal en una tertulia, argumentando de forma deshilvanada<note place="bottom">En
+            sentido figurado, ‘atar’ significa «enlazar con [el discurso de] otro», o seguir el hilo
+            que uno mismo llevaba (<hi rend="i">Aut</hi>), y «desatar la duda, o el argumento,
+            responder adecuadamente a la dificultad, dándola solución verdadera y clara» (<hi
+              rend="i">Aut</hi>).</note>, que Osorio se burla de él. El actor apela al diablo, por
+          ser el tema tan tenebroso como el estilo oscuro y el interlocutor un esclavo, y le llama
+          «culto». El anónimo compilador le da una vuelta más al chiste, alabando esta agudeza como
+          «definición de los cultos», contra la soberbia que los caracteriza.</p>
+        <p>Estos dos cuentos seguidos sobre Góngora y los cultos con el mismo protagonista, el
+          representante Osorio, reflejan la procedencia oral de esta compilación, en la que se
+          repiten varios chistes, seguramente al hilo de la memoria de quien los anota. El último
+          cuento sobre la polémica gongorina pertenece a otra unidad temática del mismo tipo.
+          Después de los cuentos 360 y 361 que apuntan donaires de Luis de Góngora, el cuento 364
+          recoge una burla contra la obra del poeta.</p>
+        <quote>364. El <hi rend="i">Polifemo</hi> de don Luis de Góngora es oscuro. Fuéronlo más las
+            <hi rend="i">Soledades</hi> que publicó después. Dijo el Conde de Salinas a este
+          propósito que el <hi rend="i">Polifemo</hi> tenía solo un ojo, y las <hi rend="i"
+            >Soledades</hi> eran ciegas de entrambos<note place="bottom"> Chenot y Chevalier (1979:
+            n. 364).</note>.</quote>
+        <p>Atribuido a Diego de Silva y Mendoza, conde de Salinas, el chiste se burla de la
+          oscuridad de los poemas de Góngora, describiendo al <hi rend="i">Polifemo</hi> como su
+          personaje cíclope, y a las <hi rend="i">Soledades</hi> como poema ciego. Preparando el
+          chiste, el anónimo compilador afirma la oscuridad de ambos poemas, mayor en las <hi
+            rend="i">Soledades</hi> que en la <hi rend="i">Fábula de Polifemo y Galatea</hi>. La
+          progresión estilística de Góngora queda así parodiada como una extinción de la
+          claridad.</p>
+        <p>Sin que sepamos ni la fecha en que se dijeron estos chistes, ni la fecha en la que se
+          apuntaron, no cabe duda de que en el entorno de Juan de Arguijo, de Juan de Espinosa y de
+          Francisco Pachecho las sales sobre la polémica gongorina eran apreciadas y comentadas. La
+          oscuridad en poesía y el estilo culto fueron sin duda un tema de erudición, pero también,
+          en la Sevilla del primer tercio del siglo XVII, un tema de «graciosidad» y animadas
+          tertulias entre pintores y poetas.</p>
+      </div>
+      <div>
+        <head>8. Conclusión</head>
+        <p>Del mismo modo, y quizá al mismo tiempo que Luis de Góngora recibía la opinión de Pedro
+          de Valencia y esperaba el <hi rend="i">Parecer</hi> del abad de Rute sobre las <hi
+            rend="i">Soledades</hi>, los ingenios debatían sobre la nueva poesía. En la Sevilla de
+          Fernando de Herrera, el poeta Juan de Espinosa le envía su parecer «cerca de la poesía
+          oscura» al reconocido poeta Juan de Arguijo, que le reclamaba una opinión al respecto. En
+          una argumentación breve, teñida de horacianismo, Espinosa define a los cultos como malos
+          imitadores de Góngora y poetas sin sustancia, repartiendo a lo largo de su misiva multitud
+          de metáforas insultantes en un verdadero bestiario de la poesía culta, obra de monas,
+          perros callejeros y harpías. Al mismo tiempo, en un escrito de sevillano a sevillano,
+          zahiere al pintor de la galería del cardenal Guevara en el arzobispado de la ciudad, y
+          pone en escena su amistad con Arguijo, entre otros poetas del momento, a los que alude
+          como «amigos» sin nombrarlos. El texto es testimonio de una sociabilidad letrada en la que
+          se habla de pintura y poesía, en la que los escritos de los poetas como Espinosa y Arguijo
+          acaban en manos de pintores como Pacheco, en base a la difusión y el archivo de obras
+          manuscritas. La historia de este documento y de su conservación ponen por tanto de relieve
+          la cercanía, o la solidaridad generacional en la élite letrada de Sevilla entre los siglos
+          XVI y XVII<note place="bottom">Véase al respecto, aunque con más calas en el desarrollo de
+            la poesía impresa que en el mundo del manuscrito, el libro coordinado por Begoña López
+            Bueno en 2012, <hi rend="i">La “idea” de la Poesía Sevillana en el Siglo de Oro</hi>,
+            del que hemos citado varios capítulos.</note>. Escrito por Espinosa, pero a petición de
+          Arguijo, y archivado por Pacheco, este es un texto hasta cierto punto colectivo, como
+          probablemente también lo sean esas «cartas de don Juan de Arguijo»<note place="bottom"
+            >Lope de Vega, <hi rend="i">La dama boba</hi>, v. 2128.</note> que Lope de Vega menciona
+          en su escena de escrutinio de la biblioteca de <hi rend="i">La dama boba</hi> (1613), en
+          las que Garrote Bernal reconoce <hi rend="i">chartas</hi> o <hi rend="i"
+            >cartapacios</hi><note place="bottom">Garrote Bernal (2006: 55-56). En lo que a
+            correspondencia se refiere, únicamente conservamos dos cartas de Arguijo, una del 30 de
+            agosto de 1616 al padre Diego Meléndez y la otra, sin fecha, a Diego Félix Quijada
+            Riquelme sobre sus <hi rend="i">Solíadas</hi> (1985: 418-421), además de un billete para
+            pedir un libro y la carta colectiva escrita en mayo de 1619 en apoyo de Lope de Vega
+            (Garrote Bernal y Cristóbal 2004: XXX y XL).</note>, como los que le corregían Francisco
+          de Medina<note place="bottom">Se conoce un manuscrito titulado «Sesenta sonetos de don
+            Juan de Arguijo veintiquatro de Sevilla» con un apunte en el margen superior: «Estan
+            estos sonetos corregidos conforme a las notas del maestro Medina que van al fin de
+            ellos». Véase una impresión en Arguijo, 1841 y una descripción del manuscrito en Arguijo
+            1971 (27) y 1985 (41-45), con transcripción y comentario en 2004 (227-248).</note> o los
+          que apuntaban los chistes de moda<note place="bottom"><hi rend="i">Cuentos muy mal
+              escritos</hi>. Sobre la importancia de esos papeles en la cultura escrita del Siglo de
+            oro, véase Bouza (2001: 27-83).</note>. En particular, la carta de Espinosa habla del
+          interés que despertó Góngora en la metrópoli andaluza, y permite subrayar la atención que
+          el suegro de Velázquez dedicó a la polémica sobre la nueva poesía, probablemente durante
+          los años en los que preparaba su edición, no menos colectiva en su despliegue paratextual,
+          del <hi rend="i">nuevo</hi> Herrera<note place="bottom">García Aguilar (2012:
+            188-195).</note> (1619).</p>
+        <p>Por todo ello, esta carta refleja en el posicionamiento estético de Espinosa algunas de
+          las principales tendencias entre los poetas sevillanos de su tiempo. El horacianismo y el
+          estoicismo, tan en boga al inicio del siglo XVII en la ciudad del Betis, son patentes en
+          esta carta, refundición de algunos lugares del <hi rend="i">Arte poética</hi> de Horacio.
+          La oposición, en tono humorístico y hasta en jerga de germanía, con respecto a los
+          estilemas cultos de Góngora y sus imitadores, reconduce al terreno de la epístola en prosa
+          y a los años 1612-1617 un paradigma poético llano, moderno y gracioso, que se había
+          desarrollado ya en el último cuarto del siglo XVI en el cauce de la epístola familiar en
+          tercetos. Como escribe Valentín Núñez Rivera, se enfrentaban en Sevilla «dos paradigmas
+          poéticos alternativos, representados por la poesía del ornato cultista y la familiaridad
+          de la carta humilde»<note place="bottom">Núñez Rivera (2012: 252).</note>. En este
+          sentido, por su gracia y su pertenencia a un archivo misceláneo típicamente sevillano,
+          esta carta se asemeja a los <hi rend="i">Cuentos muy mal escritos…</hi> compilados en el
+          entorno de Juan de Arguijo, entre los que he seleccionado y comentado los que se refieren
+          a la polémica gongorina.</p>
+        <p>Los cuentos o chistes que critican a Góngora en la tradición <hi rend="i">de la sal</hi>,
+          así como la carta de Juan de Espinosa, documentan por tanto el impacto de la polémica en
+          torno a la nueva poesía en el círculo de Juan de Arguijo, poco después de la difusión del
+            <hi rend="i">Polifemo</hi> y probablemente también de las <hi rend="i">Soledades</hi>.
+          Un momento en el que la seria polémica literaria y su amplia difusión impresa todavía
+          quedan lejos: en el que estos documentos merecen sobre todo ser atesorados en misceláneas
+          de tanta «graciosidad» como «erudición»<note place="bottom"> Sobre las fronteras entre la
+            controversia y este tipo de misceláneas, véase Béhar (2015: 68-70).</note>.</p>
+      </div>
+      <div>
+        <head>9. Establecimiento del texto</head>
+        <p>Al tratarse de un testimonio único, la edición se basa en una transcripción y
+          modernización del mismo. Las abreviaturas están desarrolladas en cursiva.</p>
+      </div>
+      <div>
+        <head>10. Bibliografía</head>
+        <div>
+          <head>10.1 Obras hipotéticamente citadas o consultadas por el polemista</head>
+          <p rend="noindent"><hi rend="sc">Cueva</hi>, Juan de:</p>
+          <bibl>—, <hi rend="i">Ejemplar poético</hi>, ca. 1606.</bibl>
+          <p rend="noindent"><hi rend="sc">Horacio</hi>:</p>
+          <bibl>—, <hi rend="i">Arte poética</hi>.</bibl>
+        </div>
+        <div>
+          <head>10.2 Obras citadas por el editor</head>
+          <div>
+            <head>10.2.1 Manuscritos</head>
+            <bibl>BUS (Biblioteca de la Universidad de Sevilla), H Ra/0158, <hi rend="i"><ref
+                  target="https://archive.org/details/HRa0158">Libro de varios tratados de
+                  graciosidad y erudición, de diferentes autores</ref></hi>.</bibl>
+            <bibl>BNE (Biblioteca Nacional de Madrid), MSS/19380, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000174577&amp;page=1">Cuentos muy mal
+                  escritos que notó Juan de Arguijo</ref></hi>.</bibl>
+            <bibl>BNE, MSS/20355, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000178726&amp;page=1">Sonetos varios
+                  recogidos aquí de diferentes autores, así de manuscritos como de algunos impresos
+                  por Don Joseph Maldonado Dávila y Saavedra, vecino de Sevilla, año de
+                1646</ref></hi>.</bibl>
+          </div>
+          <div>
+            <head>10.2.2 Impresos anteriores a 1800</head>
+            <p rend="noindent"><hi rend="sc">Ánonimo</hi>:</p>
+            <bibl>—, <hi rend="i">Vocabolario degli Accademici della Crusca…</hi>, In Venezia,
+              appresso Giovanni Alberti, 1612.</bibl>
+            <p rend="noindent"><hi rend="sc">Bratuti</hi>, Vicente:</p>
+            <bibl>—, <hi rend="i">Espejo político y moral para príncipes, ministros y todo género de
+                personas traducido de la lengua turca en la castellana… Parte primera</hi>, En
+              Madrid: por Domingo García y Morrás, 1654.</bibl>
+            <p rend="noindent"><hi rend="sc">Covarrubias Orozco</hi>, Sebastián de:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000108144&amp;page=1">Emblemas
+                  morales</ref></hi>, En Madrid: por Luis Sánchez, 1610.</bibl>
+            <p rend="noindent"><hi rend="sc">Desbillons</hi>, François-Joseph Terrasse:</p>
+            <bibl>—, <hi rend="i">Fabulae Aesopiae curis posterioribus omnes fere emendatae,
+                accesserunt plus quam CLXX novae</hi>, Mannhemii: typis academicis, 1768.</bibl>
+            <p rend="noindent"><hi rend="sc">Esopo</hi>:</p>
+            <bibl>—, <hi rend="i">Fabulae Aesopi, iam denuo multo emendatius qua mantea aeditae,
+                authore Ioachimo Cameriario</hi>, Noribergae: apud Alexandrum Philippum Theodoricum,
+              1597.</bibl>
+            <p rend="noindent"><hi rend="sc">Faria e Sousa</hi>, Manuel de:</p>
+            <bibl>—, Lusiadas <hi rend="i">de Luis de Camões, Príncipe de los poetas de España. Al
+                Rey N. Señor Felipe Quarto el Grande. Comentadas por Manuel de Faria i Sousa,
+                Cavallero de la Orden de Christo, i de la Casa Real</hi>, 2 vol, en Madrid: por Juan
+              Sánchez, a costa de Pedro Coello, mercader de libros, 1639. Vol. 1: <hi rend="i"
+                >Primero y segundo tomo</hi>.</bibl>
+            <p rend="noindent"><hi rend="sc">Gesner</hi>, Conrad:</p>
+            <bibl>—, <hi rend="i">Icones animalium quadrupedum uiuiparorum et ouiparorum quae
+                Historia Animalium Conradi Gesneri describuntur</hi>, editio tertia, Heidelbergae: e
+              typographeio Iohannis Lancelloti, impensis Andreae Cambiere, 1606,</bibl>
+            <p rend="noindent"><hi rend="sc">Gómez Tejada de los Reyes</hi>, Cosme:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000095399&amp;page=1">León prodigioso,
+                  apología moral entretenida y provechosa a las buenas costumbres, trato virtuoso y
+                  político</ref></hi>, en Madrid, por Francisco Martínez, 1636.</bibl>
+            <p rend="noindent"><hi rend="sc">Herrera</hi>, Fernando de:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000083538&amp;page=1">Versos de
+                  Fernando de Herrera</ref></hi>, impreso en Sevilla: por Gabriel Ramos Vejarano,
+              1619.</bibl>
+            <p rend="noindent"><hi rend="sc">Ibarra</hi>, Juan Antonio de:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000250927&amp;page=1">Encomio de los
+                  ingenios seuillanos en la fiesta de los Santos Inacio de Loyola i Francisco
+                  Xauier</ref></hi>, impreso en Sevilla: por Francisco de Lira, año 1623.</bibl>
+            <p rend="noindent"><hi rend="sc">Jáuregui</hi>, Juan de:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000188890&amp;page=1">Rimas</ref></hi>,
+              en Sevilla: por Francisco de Lyra Varreto, año 1618.</bibl>
+            <p rend="noindent"><hi rend="sc">Lipsio</hi>, Justo:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://www.bibliotecavirtualdeandalucia.es/catalogo/es/consulta/registro.cmd?id=9001"
+                  >Libro de la constancia de Justo Lipsio traducido de latín en castellano por Juan
+                  Baptista de Mesa</ref></hi>, Impreso en Sevilla: por Matías Clavijo, 1616.</bibl>
+            <p rend="noindent"><hi rend="sc">Mexía</hi>, Pedro:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000005021&amp;page=1">Silua de varia
+                  lection compuesta por el Magnifico cauallero Pero Mexia</ref></hi>, Sevilla: en
+              casa de Hernando Diaz, 1570.</bibl>
+            <p rend="noindent"><hi rend="sc">Pérez de Moya</hi>, Juan:</p>
+            <bibl>—, <hi rend="i">Philosophia secreta, donde debajo de historias fabulosas se
+                contiene mucha doctrina provechosa a todos estudios</hi>, En Zaragoza: en casa de
+              Miguel Fortuño Sánchez, a costa de Pedro Ybarra mercader de libros, 1599.</bibl>
+            <p rend="noindent"><hi rend="sc">Ripa</hi>, Cesare:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000229610&amp;page=1"
+                >Iconologia</ref></hi>, In Roma: appresso Lepido Facii, 1603.</bibl>
+            <p rend="noindent"><hi rend="sc">Roa</hi>, Martín de:</p>
+            <bibl>—, <hi rend="i">Écija, sus santos, su antigüedad eclesiástica y seglar, por el
+                padre Martín de Roa de la Compañía de Jesús</hi>, En Sevilla: por Manuel de Sande,
+              1629.</bibl>
+            <p rend="noindent"><hi rend="sc">Sánchez de las Brozas</hi>, Francisco:</p>
+            <bibl>—, <hi nd="i">Doctrina del estoico filósofo Epicteto, que se llama comúnmente
+                Enchiridion</hi>, En Salamanca: en casa de Pedro Lasso, 1600.</bibl>
+            <bibl>—, <hi rend="i">Doctrina del estoico filósofo Epicteto, que se llama comúnmente
+                Enchiridion</hi>, impreso en Pamplona: por Carlos de Labayen, 1612a.</bibl>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000112571&amp;page=1">Doctrina del
+                  estoico filósofo Epicteto, que se llama comúnmente Enchiridion</ref></hi>, En
+              Madrid: por Juan de la Cuesta, 1612b.</bibl>
+            <bibl>—, <hi rend="i">Doctrina del estoico filósofo Epicteto, que se llama comúnmente
+                Enchiridion</hi>, En Barcelona: por los herederos de Onofre Anglada, 1612c.</bibl>
+            <p rend="noindent"><hi rend="sc">Salazar Mardones</hi>, Cristóbal:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000086543&amp;page=1">Ilustracion y
+                  defensa de la Fabula de Piramo y Tisbe, compuesta por D. Luis de Gongora y
+                  Argote…</ref></hi>, Madrid: Imprenta Real, a costa de Domingo González, mercader
+              de libros, 1636.</bibl>
+            <p rend="noindent"><hi rend="sc">Soto</hi>, Hernando de:</p>
+            <bibl>—, <hi rend="i"><ref target="https://gallica.bnf.fr/ark:/12148/bpt6k316210f"
+                  >Emblemas moralizadas</ref></hi>, Madrid, por los herederos de I. Iñiguez de
+              Lequerica, 1599.</bibl>
+            <p rend="noindent"><hi rend="sc">Suárez de Figueroa</hi>, Cristóbal:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000013028&amp;page=1">Plaza universal
+                  de todas ciencias y artes, parte traducida de toscano y parte compuesta por el
+                  doctor Christoval Suarez de Figueroa</ref></hi>, En Madrid, por Luis Sánchez,
+              1615.</bibl>
+            <p rend="noindent"><hi rend="sc">Vasari</hi>, Giorgio:</p>
+            <bibl>—, <hi rend="i">Le vite de’ piu eccellenti pittori, scultori, e architettori</hi>,
+              In Fiorenza, appresso i Giunti, 1568.</bibl>
+          </div>
+          <div>
+            <head>10.2.3 Impresos posteriores a 1800</head>
+            <p rend="noindent"><hi rend="sc">Albert-Llorca</hi>, Marlène:</p>
+            <bibl>—, <hi rend="i">Les vierges miraculeuses: légendes et rituels</hi>, Paris,
+              Gallimard, 2002.</bibl>
+            <p rend="noindent"><hi rend="sc">Angulo y Pulgar</hi>, Martín de:</p>
+            <bibl>—, <hi rend="i">Epístolas satisfactorias</hi>, ed. Juan Manuel Daza, Paris, Obvil,
+              2018 [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1635_epistolas"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1635_epistolas</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Ánonimo</hi> (un Curioso):</p>
+            <bibl>—, <hi rend="i">Contra el Antídoto de Jáuregui y en favor de don Luis de Góngora,
+                por un curioso</hi>, ed. José Manuel Rico García, Paris, Obvil, 2016 [en línea] <ref
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1624_opusculo-curioso"
+                >http://obvil.sorbonne-universite.fr/corpus/gongora/1624_opusculo-curioso</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Arasse</hi>, Daniel:</p>
+            <bibl>—, «Extases et vision béatifiques à l’apogée de la Renaissance: quatre images de
+              Raphaël», en <hi rend="i">Les visions de Raphaël</hi>, Paris, Liana Levi, 2003, p.
+              9-112.</bibl>
+            <p rend="noindent"><hi rend="sc">Arguijo</hi>, Juan de:</p>
+            <bibl>—, <hi rend="i">Sonetos</hi>, [Sevilla], [En casa de Francisco Álvarez y Cía.],
+              1841.</bibl>
+            <bibl>—, <hi rend="i">Obra poética</hi>, ed. Stanko B. Vranich, Madrid, Castalia,
+              1971.</bibl>
+            <bibl>—, <hi rend="i">Obra completa</hi>, ed. Stanko B. Vranich, Valencia, Albatros,
+              1985.</bibl>
+            <bibl>—, <hi rend="i">Poesía</hi>, ed. Gaspar Garrote Bernal y Vicente Cristóbal,
+              Sevilla, Fundación José Manuel Lara, 2004.</bibl>
+            <p rend="noindent"><hi rend="sc">Azaustre Galiana</hi>, Antonio:</p>
+            <bibl>—, «<ref target="https://doi.org/10.4000/criticon.3533">Los textos de la risa. Un
+                nuevo testimonio de las Premáticas y aranceles generales</ref>», <hi rend="i"
+                >Criticón</hi>, 131, 2017, pp. 29-58.</bibl>
+            <bibl>—, «La Silva de Manuel Ponce, un temprano comentario de la Soledad primera», en
+              Mercedes Blanco y Juan Montero (coords.), <hi rend="i">Controversias y poesía (de
+                Garcilaso a Góngora)</hi>, Sevilla, Universidad de Sevilla, 2019, p. 173-213.</bibl>
+            <p rend="noindent"><hi rend="sc">Bassegoda i Hugas</hi>, Bonaventura:</p>
+            <bibl>—, «Introducción» en Francisco Pacheco, <hi rend="i">Arte de la pintura</hi>, ed.
+              Bonaventura Bassegoda i Hugas, Madrid, Cátedra, [1991], reed. 2009, p. 11-60.</bibl>
+            <p rend="noindent"><hi rend="sc">Béhar</hi>, Roland:</p>
+            <bibl>—, «La “correction amiable”. Formes de la controverse poétique dans les débuts de
+              la théorie poétique vernaculaire au XVI<hi rend="sup">e</hi> siècle», <hi rend="i"
+                >Atlante. Revue d’études romanes</hi>, 2, 2015, p. 37-70.</bibl>
+            <p rend="noindent"><hi rend="sc">Blanco</hi>, Mercedes:</p>
+            <bibl>—, «Del Infierno al Parnaso: escepticismo y sátira política en Quevedo y Trajano
+              Boccalini», <hi rend="i">La Perinola</hi>, 2, 1998, p. 155-193.</bibl>
+            <bibl>—, «<ref target="https://doi.org/10.5565/rev/locus.146">Góngora et la
+                peinture</ref>», <hi rend="i">Locus amoenus</hi>, 7, 2004, p. 197-208.</bibl>
+            <bibl>—, «Percepción y crítica de las estructuras sonoras en la polémica gongorina», en
+              Simon Kroll (coord.), <hi rend="i">Sonido y sentido en la literatura del Siglo de
+                Oro</hi>, <hi rend="i">Artenuevo. Revista de Estudios Áureos</hi>, 7, 2020, p.
+              159-192.</bibl>
+            <bibl>—, «Archivos gongorinos del siglo XVII. Papeles que vuelan y códices que duermen»,
+              en Mercedes Blanco y Aude Plagnard (coords.), <hi rend="i">El Universo de una
+                polémica</hi>, Madrid/Francfort, Iberoamericana/Vervuert, en prensas [2021].</bibl>
+            <p rend="noindent"><hi rend="sc">Blüher</hi>, Karl Alfred:</p>
+            <bibl>—, <hi rend="i">Séneca en España. Investigaciones sobre la recepción de Séneca en
+                España desde el siglo XIII hasta el siglo XVII</hi>, trad. Juan Conde, Madrid,
+              Grecos, 1983.</bibl>
+            <p rend="noindent"><hi rend="sc">Bouza</hi>, Fernando:</p>
+            <bibl>—, <hi rend="i">Locos, enanos y hombres de placer en la corte de los
+              Austrias</hi>, Madrid, Temas de Hoy, 1991.</bibl>
+            <bibl>—, <hi rend="i">Corre manuscrito. Una historia cultural del Siglo de Oro</hi>,
+              Madrid, Marcial Pons, 2011.</bibl>
+            <p rend="noindent"><hi rend="sc">Caro</hi>, Rodrigo:</p>
+            <bibl>—, <hi rend="i">Varones ilustres en letras naturales de la ilustrísima ciudad de
+                Sevilla</hi>, ed. Luis Gómez Canseco, Huelva, Universidad de Huelva, 2018.</bibl>
+            <p rend="noindent"><hi rend="sc">Cascales</hi>, Francisco de:</p>
+            <bibl>—, <hi rend="i">Cartas sobre la poesía nueva de don Luis de Góngora</hi>, ed.
+              Mercedes Blanco y Margherita Mulas, Paris, Obvil, 2018 [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1634_cartas-cascales"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1634_cartas-cascales</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Castaldo</hi>, Daria:</p>
+            <bibl>—, «Introducción» en <hi rend="i">Carta de un amigo de don Luis de Góngora en que
+                da su parecer acerca de las Soledades que le había remitido para que las viese</hi>,
+              ed. Daria Castaldo y estudio paleográfico de Raquel Rodríguez Conde, Paris, Obvil,
+              2016 [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1613_carta-amigo"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1613_carta-amigo</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Cervantes Saavedra</hi>, Miguel de:</p>
+            <bibl>—, <hi rend="i">Viaje del Parnaso</hi>, en Miguel de Cervantes, Poesías completas,
+              ed. Vicente Gaos, vol. 1, Madrid, Castalia, 1974.</bibl>
+            <p rend="noindent"><hi rend="sc">Chatzidakis</hi>, Michail y <hi rend="sc">Trinks</hi>,
+              Stefan:</p>
+            <bibl>—, «El Greco, Michelangelo and the Laocoön», en Nicos Hadjinicolaou, Panayotis K.
+              Ioannou (coords.), <hi rend="i">Perceptions of El Greco in 2014</hi>, Benaki Museum /
+              Society of Cretan Historical Studies / Institute for Mediterranean Studies, 2019, p.
+              505-527.</bibl>
+            <p rend="noindent"><hi rend="sc">Chenot</hi>, Béatrice y <hi rend="sc">Chevalier</hi>,
+              Maxime:</p>
+            <bibl>—, <hi rend="i">Cuentos recogidos por Juan de Arguijo y otros</hi>, Sevilla,
+              Diputación Provincial de Sevilla, 1979.</bibl>
+            <p rend="noindent"><hi rend="sc">Cobos Rincón</hi>, Mercedes:</p>
+            <bibl>—, «Carta inédita “de don Juan de Espinosa cerca de la poesía oscura a don Juan de
+              Arguijo”», <hi rend="i">Condados de niebla</hi>, 4, 1986, p. 47-50.</bibl>
+            <bibl>—, «Dos cartas en torno a la polémica concepcionista. Algunos nuevos datos sobre
+              Francisco de Rioja y Juan de Espinosa», <hi rend="i">Archivo hispalense</hi>, 70, 214,
+              1987, p. 115-122.</bibl>
+            <p rend="noindent"><hi rend="sc">Cohen</hi>, Simona:</p>
+            <bibl>—, «<hi rend="i">Ars simia naturae</hi>: The Animal as Mediator and Alter Ego of
+              the Artist in the Renaissance», <hi rend="i">Explorations in Renaissance Culture</hi>,
+              43, 2017, p. 202-231.</bibl>
+            <p rend="noindent"><hi rend="sc">Conde Parrado</hi>, Pedro:</p>
+            <bibl>—, «Introducción» en <hi rend="i">Epístolas de</hi> La Filomena <hi rend="i">de
+                Lope de Vega</hi>, ed. Pedro Conde Parrado, Paris, Obvil, 2015 [en línea] <ref
+                target="http://obvil.sorbonne-universite.site/corpus/gongora/1621_censura-lope"
+                >http://obvil.sorbonne-universite.site/corpus/gongora/1621_censura-lope</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Escobar Borrego</hi>, Francisco Javier:</p>
+            <bibl>—, «Mitología y antigüedad clásica en los círculos artísticos y eruditos. Las
+              fuentes», en E. Peñalver Gómez y M. L. Loza Azuaga (coords.), <hi rend="i">Juan de
+                Arguijo y la Sevilla del Siglo de Oro</hi>, Sevilla, Universidad de Sevilla, 2017,
+              p. 79-101.</bibl>
+            <p rend="noindent"><hi rend="sc">Escobar Borrego</hi>, Francisco Javier; <hi rend="sc"
+                >Montero</hi>, Juan; <hi rend="sc">Rico García</hi>, José Manuel; <hi rend="sc"
+                >Solís de los Santos</hi>, José:</p>
+            <bibl>—, «<ref
+                target="https://idus.us.es/bitstream/handle/11441/31972/juan_de_arguijo.pdf?sequence=1&amp;isAllowed=y"
+                >El contexto literario</ref>», en E. Peñalver Gómez y M. L. Loza Azuaga (coords.),
+                <hi rend="i">Juan de Arguijo y la Sevilla del Siglo de Oro</hi>, Sevilla,
+              Universidad de Sevilla, 2017, p. 63-78.</bibl>
+            <p rend="noindent"><hi rend="sc">Elvira</hi>, Muriel:</p>
+            <bibl>—, «Introducción» en Francisco Fernández de Córdoba, <hi rend="i">Parecer de don
+                Francisco de Córdoba acerca de las</hi> Soledades<hi rend="i">, a instancia de su
+                autor</hi>, ed. Muriel Elvira, Paris, Obvil, 2015 [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Elvira</hi>, Muriel y <hi rend="sc">Plagnard</hi>,
+              Aude:</p>
+            <bibl>—, «La recepción polémica de la poesía gongorina: catálogo (1612-1692)», en
+              Mercedes Blanco y Aude Plagnard (coords.), <hi rend="i">El Universo de una
+                polémica</hi>, Madrid/Francfort, Iberoamericana/Vervuert, en prensas [2021].</bibl>
+            <p rend="noindent"><hi rend="sc">Espinosa</hi>, Pedro de:</p>
+            <bibl>—, <hi rend="i">Primera parte de flores de poetas ilustres de España (Valladolid,
+                1605)</hi>, ed. Inoria Pepe Sarno y José-María Reyes Cano, Madrid, Cátedra,
+              2006.</bibl>
+            <p rend="noindent"><hi rend="sc">Espinosa Medrano</hi>, Juan de:</p>
+            <bibl>—, <hi rend="i">Apologético en favor de don Luis de Góngora, príncipe de los
+                poetas líricos de España, contra Manuel de Faría y Sousa, caballero portugués</hi>,
+              ed. Héctor Ruiz Soto, Paris, Obvil, 2017 [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1662_apologetico"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1662_apologetico</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Faria e Sousa</hi>, Manuel de:</p>
+            <bibl>—, <hi rend="i">Noches claras [fragmento]</hi>, ed. Aude Plagnard, Paris, Obvil,
+              2019 [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_nochesclaras"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1624_nochesclaras</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Fernández de Córdoba</hi>, Francisco, Abad de Rute:</p>
+            <bibl>—, <hi rend="i">Parecer de don Francisco de Córdoba acerca de las</hi>
+                Soledades<hi rend="i">, a instancia de su autor</hi>, ed. Muriel Elvira, Paris,
+              Obvil, 2015 [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer</ref>.</bibl>
+            <bibl>—, <hi rend="i">Examen del Antídoto o Apología por las Soledades de don Luis de
+                Góngora contra el autor del Antídoto</hi>, ed. Matteo Mancinelli, Paris, Obvil, 2019
+              [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1617_examen"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1617_examen</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Fernández López</hi>, José:</p>
+            <bibl>—, <hi rend="i">Programas iconográficos de la pintura barroca sevillana del siglo
+                XVII</hi>, Sevilla Universidad de Sevilla, 2002.</bibl>
+            <p rend="noindent"><hi rend="sc">Ferrer Valls</hi>, Teresa <hi rend="i">et
+              alii</hi>:</p>
+            <bibl>—, <hi rend="i">Diccionario biográfico de actores del teatro clásico español
+                (DICAT): edición digital</hi>, Kassel, Reichenberger, 2008.</bibl>
+            <p rend="noindent"><hi rend="sc">García Aguilar</hi>, Ignacio:</p>
+            <bibl>—, «Poesía impresa y redes literarias» en Begoña López Bueno (coord.), <hi
+                rend="i">La “idea” de la poesía sevillana en el Siglo de Oro</hi>, Sevilla,
+              Universidad de Sevilla, 2012, p. 141-195.</bibl>
+            <p rend="noindent"><hi rend="sc">Garrote Bernal</hi>, Gaspar:</p>
+            <bibl>—, «Estampas sobre Juan de Arguijo y sus contemporáneos», <hi rend="i">Lectura y
+                signo</hi>, 1, 2006, p. 41-60.</bibl>
+            <bibl>—, «Arguijo, Juan de», en <hi rend="i">Diccionario Biográfico Español</hi>,
+              Madrid, Real Academia de Historia, 2018, [recurso electrónico], <ref
+                target="http://dbe.rah.es/biografias/7885/juan-de-arguijo"
+                >http://dbe.rah.es/biografias/7885/juan-de-arguijo</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Garrote Bernal</hi>, Gaspar, y <hi rend="sc"
+                >Cristóbal</hi>, Vicente:</p>
+            <bibl>—, «Introducción» en Juan de Arguijo, <hi rend="i">Poesía</hi>, ed. Gaspar Garrote
+              Bernal y Vicente Cristóbal, Sevilla, Fundación José Manuel Lara, 2004, p.
+              VII-CL.</bibl>
+            <p rend="noindent"><hi rend="sc">Genovese</hi>, Valeria Emanuela:</p>
+            <bibl>—, <hi rend="i">Statue vestite e snodate: un percorso</hi>, Pisa, Ed. della
+              Normale, 2011.</bibl>
+            <p rend="noindent"><hi rend="sc">Gómez Canseco</hi>, Luis:</p>
+            <bibl>—, «El rostro en las letras. Retrato individual e identidad colectiva en la
+              Sevilla del siglo XVI», en Begoña López Bueno (coord.), <hi rend="i">La “idea” de la
+                poesía sevillana en el Siglo de Oro</hi>, Sevilla, Universidad de Sevilla, 2012, p.
+              45-72</bibl>
+            <p rend="noindent"><hi rend="sc">Góngora</hi>, Luis de:</p>
+            <bibl>—, <hi rend="i">Sonetos</hi>, ed. Juan Matas Caballero, Madrid, Cátedra,
+              2019.</bibl>
+            <bibl>—, <hi rend="i">Obras completas</hi>, ed. Antonio Carreira, Madrid, Biblioteca
+              Castro, 2000, 2 vols.</bibl>
+            <p rend="noindent"><hi rend="sc">Horacio</hi>:</p>
+            <bibl>—, <hi rend="i">Sátiras, Epístolas, Arte poética</hi>, trad. José Luis Moralejo,
+              Madrid, Gredos, 2008.</bibl>
+            <p rend="noindent"><hi rend="sc">Horio</hi>, Hernando y <hi rend="sc">Pineda</hi>, Juan
+              de:</p>
+            <bibl>—, <hi rend="i">Dos censuras inquisitoriales de las</hi> Obras en verso del Homero
+              español <hi rend="i">(1628)</hi>, ed. Mathilde Albisson, Paris, Obvil, 2020 [en línea]
+                <ref target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_censuras"
+                >http://obvil.sorbonne-universite.site/corpus/gongora/1628_censuras</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Jammes</hi>, Robert:</p>
+            <bibl>—, «La polémica de las Soledades (1613-1666)», en L. de Góngora, <hi rend="i"
+                >Soledades</hi>, Madrid, Castalia, 1994. Constituye el apéndice II, p.
+              607-719.</bibl>
+            <p rend="noindent"><hi rend="sc">Jáuregui</hi>, Juan de:</p>
+            <bibl>—, <hi rend="i">Discurso poético de don Juan de Jáuregui</hi>, ed. Mercedes
+              Blanco, Paris, Obvil, 2016 [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_discurso-poetico"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1624_discurso-poetico</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Lazure</hi>, Guy:</p>
+            <bibl>—, «Carrera profesional y orígenes socio-económicos de la élite cultural sevillana
+              (siglos XVI y XVII)», en Begoña López Bueno (coord.), <hi rend="i">La “idea” de la
+                poesía sevillana en el Siglo de Oro</hi>, Sevilla, Universidad de Sevilla, 2012, p.
+              19-44.</bibl>
+            <bibl>—, «<ref target="https://doi.org/10.4000/e-spania.33455">“Hermanos del cielo”.
+                Figuras de vuelo en la poesía y la pintura sevillana de Fernando de Herrera a Juan
+                de Arguijo (con Francisco Pacheco de por medio)</ref>», <hi rend="i">e-Spania</hi>,
+              35, 2020 [en línea].</bibl>
+            <p rend="noindent"><hi rend="sc">Lleó Cañal</hi>, Vicente:</p>
+            <bibl>—, «Minerva bética. Sobre literatura y pintura», en Begoña López Bueno (coord.),
+                <hi rend="i">La “idea” de la poesía sevillana en el Siglo de Oro</hi>, Sevilla,
+              Universidad de Sevilla, 2012, p. 73-91.</bibl>
+            <p rend="noindent"><hi rend="sc">López Bueno</hi>, Begoña:</p>
+            <bibl>—, <hi rend="i">La poética cultista de Herrera a Góngora</hi>, Sevilla, Alfar,
+              2000.</bibl>
+            <bibl>—, «Fernando de Herrera “gongoriza”: más sobre las estrategias del grupo sevillano
+              (con Espinosa y Lope al fondo» en Begoña López Bueno (coord.), <hi rend="i">La “idea”
+                de la poesía sevillana en el Siglo de Oro</hi>, Sevilla, Universidad de Sevilla,
+              2012, p. 287-318.</bibl>
+            <bibl>—, «Introducción» en <hi rend="i">Advertencias [...] para inteligencia de las
+                «Soledades» de don Luis de Góngora</hi>, ed. Begoña López Bueno, Paris, Obvil, 2018
+              [en línea] <ref
+                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1614_advertencias"
+                >https://obvil.sorbonne-universite.fr/corpus/gongora/1614_advertencias</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Marías</hi>, Fernando:</p>
+            <bibl>—, «<ref
+                target="http://www.bne.es/es/Micrositios/Exposiciones/Gongora/resources/img/gongora_estudios_03.pdf"
+                >El retrato de Don Luis de Góngora y Argote</ref>», en Joaquín Roses Lozano
+              (coord.), <hi rend="i">Góngora: la estrella inextinguible. Magnitud estética y
+                universo contemporáneo</hi>, Madrid, Sociedad Estatal de Acción Cultural, 2012, p.
+              47-59.</bibl>
+            <p rend="noindent"><hi rend="sc">McPhee</hi>, Constance C. y <hi rend="sc"
+                >Orenstein</hi>, Nadine M.:</p>
+            <bibl>—, <hi rend="i">Infinite jest. Caricature and satire from Leonardo to Levine</hi>,
+              New York, Metropolitan Museum of Art, 2011.</bibl>
+            <p rend="noindent"><hi rend="sc">Méndez Rodríguez</hi>, Luis Rafael:</p>
+            <bibl>—, «“Ut pictura poesis”: pintores y poetas en la Sevilla del Siglo de Oro», en E.
+              Peñalver Gómez y M. L. Loza Azuaga (coords.), <hi rend="i">Juan de Arguijo y la
+                Sevilla del Siglo de Oro</hi>, Sevilla, Universidad de Sevilla, 2017, p.
+              103-124.</bibl>
+            <p rend="noindent"><hi rend="sc">Micó</hi>, José María:</p>
+            <bibl>—, <hi rend="i">Para entender a Góngora</hi>, Barcelona, Acantilado, 2015.</bibl>
+            <p rend="noindent"><hi rend="sc">Morel</hi>, Philippe:</p>
+            <bibl>—, <hi rend="i">Les grotesques</hi>, Paris, Flammarion, [1997], reed. 2011.</bibl>
+            <p rend="noindent"><hi rend="sc">Núñez Rivera</hi>, Valentín:</p>
+            <bibl>—, «Una polémica encubierta. Poetas renacentistas en ediciones programáticas
+              (1600-1650)», en Begoña López Bueno (coord.), <hi rend="i">El canon poético en el
+                siglo XVII</hi>, Sevilla, Universidad de Sevilla, 2010, p. 193-213. </bibl>
+            <bibl>—, «Hacia un doble paradigma. Lírica ornada y poética familiar», en Begoña López
+              Bueno (coord.), <hi rend="i">La “idea” de la poesía sevillana en el Siglo de Oro</hi>,
+              Sevilla, Universidad de Sevilla, 2012, p. 197-254.</bibl>
+            <p rend="noindent"><hi rend="sc">Osuna</hi>, Inmaculada:</p>
+            <bibl>—, «Poesía y devoción pública en Sevilla en los inicios del siglo XVII», en Begoña
+              López Bueno (coord.), <hi rend="i">La “idea” de la poesía sevillana en el Siglo de
+                Oro</hi>, Sevilla, Universidad de Sevilla, 2012, p. 255-285.</bibl>
+            <p rend="noindent"><hi rend="sc">Pantin</hi>, Isabelle:</p>
+            <bibl>—, «<ref target="http://enquete.revues.org/1093">La querelle savante dans l’Europe
+                de la Renaissance, éthique et étiquette</ref>», <hi rend="i">Enquête</hi>, 5,
+              1997.</bibl>
+            <p rend="noindent"><hi rend="sc">Pellizer</hi>, Ezio:</p>
+            <bibl>—, «<ref target="https://books.openedition.org/pupo/1823">La parole aux
+                animaux</ref>», en Danièle Auger y Charles Delattre (coords.), <hi rend="i">Mythe et
+                fiction</hi>, Nanterre: Presses universitaires de Paris Nanterre, 2010 [en
+              línea].</bibl>
+            <p rend="noindent"><hi rend="sc">Pacheco</hi>, Francisco:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000215821&amp;page=1">Libro de
+                  descripción de verdaderos retratos de illustres y memorables varones</ref></hi>,
+              reprod. fotolitográfica del manuscrito original, Sevilla, s.n., s. a.</bibl>
+            <bibl>—, <hi rend="i">Arte de la pintura</hi>, ed. Bonaventura Bassegoda i Hugas,
+              Madrid, Cátedra, [1991], reed. 2009.</bibl>
+            <p rend="noindent"><hi rend="sc">Pereda</hi>, Felipe:</p>
+            <bibl>—, <hi rend="i">Crimen e ilusión. El arte de la verdad en el Siglo de Oro</hi>,
+              Madrid, Marcial Pons, 2017.</bibl>
+            <p rend="noindent"><hi rend="sc">Ponce Cárdenas</hi>, Jesús:</p>
+            <bibl>—, <hi rend="i">La imitación áurea (Cervantes, Quevedo, Góngora)</hi>, Paris,
+              Éditions hispaniques, 2016.</bibl>
+            <bibl>—, «Configuraciones de la asprezza en el panegírico: estructuras sonoras de la
+              guerra y la tempestad marina», en Simon Kroll (coord.), <hi rend="i">Sonido y sentido
+                en la literatura del Siglo de Oro</hi>, <hi rend="i">Artenuevo. Revista de Estudios
+                Áureos</hi>, 7, 2020, p. 193-222.</bibl>
+            <p rend="noindent"><hi rend="sc">Quevedo</hi>, Francisco de:</p>
+            <bibl>—, <hi rend="i">Libro de todas las cosas y otras muchas más</hi>, ed. Antonio
+              Azaustre Galiana, en <hi rend="i">Obras completas en prosa</hi>, vol. II, t. 1,
+              Madrid, Castalia, 2007, p. 429-477.</bibl>
+            <bibl>—, <hi rend="i">Poesía moral (Polimnia)</hi>, ed. Alfonso Rey, Madrid/Londres,
+              Tamesis, 1992.</bibl>
+            <p rend="noindent"><hi rend="sc">Quijada y Riquelme</hi>, Diego Félix de:</p>
+            <bibl>—, <hi rend="i"><ref
+                  target="http://bdh-rd.bne.es/viewer.vm?id=0000202249&amp;page=1"
+                >Soliadas</ref></hi>, [Sevilla], [en la oficina de E. Rasco], 1887.</bibl>
+            <p rend="noindent"><hi rend="sc">Rico García</hi>, José Manuel:</p>
+            <bibl>—, «La epístola poética como cauce de las ideas literarias», en Begoña López Bueno
+              (coord.), <hi rend="i">La epístola</hi>, Sevilla, Universidad de Sevilla, 2000, p.
+              395-423.</bibl>
+            <bibl>—, «Agrias querellas en la Nueva Roma: de Pacheco a Pacheco», en Begoña López
+              Bueno (coord.), <hi rend="i">La “idea” de la poesía sevillana en el Siglo de Oro</hi>,
+              Sevilla, Universidad de Sevilla, 2012, p. 319-352.</bibl>
+            <bibl>—, «Introducción» en <hi rend="i">Contra el Antídoto de Jáuregui y en favor de don
+                Luis de Góngora, por un curioso</hi>, ed. José Manuel Rico García, Paris, Obvil,
+              2016 [en línea] <ref
+                target="http://obvil.sorbonne-universite.fr/corpus/gongora/1624_opusculo-curioso"
+                >http://obvil.sorbonne-universite.fr/corpus/gongora/1624_opusculo-curioso</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Roses</hi>, Joaquín:</p>
+            <bibl>—, <hi rend="i">Una poética de la oscuridad: la recepción crítica de</hi> Las
+              Soledades <hi rend="i">en el siglo XVII</hi>, Madrid / Londres, Tamesis, 1994.</bibl>
+            <p rend="noindent"><hi rend="sc">Ruiz Pérez</hi>, Pedro:</p>
+            <bibl>—, «La epístola entre dos modelos poéticos», en Begoña López Bueno (coord.), <hi
+                rend="i">La epístola</hi>, Sevilla, Universidad de Sevilla, 2000, p. 311-372.</bibl>
+            <bibl>—, <hi rend="i">El Parnaso versificado: La construcción de la república de los
+                poetas en los siglos de oro</hi>, Madrid, Abada editores, 2010.</bibl>
+            <bibl>—, «Carreras literarias, posiciones de campo y reconocimiento» en Begoña López
+              Bueno (coord.), <hi rend="i">La “idea” de la poesía sevillana en el Siglo de Oro</hi>,
+              Sevilla, Universidad de Sevilla, 2012, p. 93-140.</bibl>
+            <p rend="noindent"><hi rend="sc">Salinas</hi>, Pedro:</p>
+            <bibl>—, «La realidad y el poeta en la poesía española», en <hi rend="i">Obras completas
+                de Pedro Salinas</hi>, vol. II (Ensayos completos), Madrid: Cátedra, 2007, p.
+              405-497.</bibl>
+            <p rend="noindent"><hi rend="sc">Sánchez Jiménez</hi>, Antonio:</p>
+            <bibl>—, «Lope en 1605: fuentes y ríos de la polémica gongorina», en Mercedes Blanco y
+              Juan Montero (coords.), <hi rend="i">Controversias y poesía (de Garcilaso a
+                Góngora)</hi>, Sevilla, Universidad de Sevilla, 2019, p. 147-171.</bibl>
+            <p rend="noindent"><hi rend="sc">Singlard</hi>, Sophie:</p>
+            <bibl>—, «<ref target="https://doi.org/10.4000/e-spania.24672">Francisco Sánchez de las
+                Brozas lecteur d’Épictète</ref>», <hi rend="i">e-Spania</hi>, 21, 2015 [en
+              línea].</bibl>
+            <p rend="noindent"><hi rend="sc">Valdivieso González</hi>, Enrique:</p>
+            <bibl>—, «Girolamo Lucenti y las pinturas para el Palacio Arzobispal de Sevilla», <hi
+                rend="i">Ars magazine</hi>, 38, 2018, p. 108-116.</bibl>
+            <p rend="noindent"><hi rend="sc">Valdivieso González</hi>, Enrique y <hi rend="sc"
+                >Serrera Contreras</hi>, Juan Miguel:</p>
+            <bibl>—, <hi rend="i">Catálogo de las pinturas del Palacio Arzobispal de Sevilla</hi>,
+              Sevilla, s.n., 1979.</bibl>
+            <p rend="noindent"><hi rend="sc">Valdivieso</hi>, Enrique y <hi rend="sc">Martínez del
+                Valle</hi>, Gonzalo:</p>
+            <bibl>—, <hi rend="i">Los techos pintados del Palacio Arzobispal de Sevilla</hi>,
+              Sevilla, Editorial Universidad de Sevilla, 2020. </bibl>
+            <p rend="noindent"><hi rend="sc">Vega Carpio</hi>, Lope de:</p>
+            <bibl>—, <hi rend="i">Laurel de Apolo</hi>, ed. Antonio Carreño, Madrid Cátedra,
+              2007.</bibl>
+            <bibl>—, <hi rend="i">Epístolas de</hi> La Filomena <hi rend="i">de Lope de Vega</hi>,
+              ed. Pedro Conde Parrado, Paris, Obvil, 2015 [en línea] <ref
+                target="http://obvil.sorbonne-universite.site/corpus/gongora/1621_censura-lope"
+                >http://obvil.sorbonne-universite.site/corpus/gongora/1621_censura-lope</ref>.</bibl>
+            <bibl>—, <hi rend="i">La dama boba: edición crítica y archivo digital</hi>, dir. Marco
+              Presotto, con la colaboración de Sònia Boadas, Eugenio Maggi y Aurèlia Pessarrodona,
+              Barcelona / Bolonia, Prolope/Università di Bologna, 2015: <ref
+                target="http://dx.doi.org/10.6092/UNIBO/LADAMABOBA"
+                >doi:10.6092/UNIBO/LADAMABOBA</ref>.</bibl>
+            <p rend="noindent"><hi rend="sc">Vega Ramos</hi>, María José:</p>
+            <bibl>—, <hi rend="i">El secreto artificio: “qualitas sonorum”: maronolatría y tradición
+                pontaniana en la poética del Renacimiento</hi>, Madrid, CSIC, 1992.</bibl>
+            <p rend="noindent"><hi rend="sc">Vranich</hi>, Stanko B.:</p>
+            <bibl>—, «Don Juan de Espinosa: poeta sevillano del siglo XVII», <hi rend="i">Archivo
+                hispalense</hi>, 59, 182, 1976, p. 69-79.</bibl>
+            <bibl>—, «Introducción biográfica» en Juan de Arguijo, <hi rend="i">Obra completa</hi>,
+              ed. Stanko B. Vranich, Valencia, Albatros, 1985, p. 13-28.</bibl>
+            <p rend="noindent"><hi rend="sc">Zamperini</hi>, Alessandra:</p>
+            <bibl>—, <hi rend="i">Les grotesques</hi>, trad. Odile Menegaux, Paris, Citadelles et
+              Mazenod, 2007.</bibl>
+          </div>
+        </div>
+      </div>
+    </front>
+    <body>
+      <head>Texto de la edición</head>
+      <div>
+        <pb
+          facs="http://gongoradigital.github.io/img/1613_carta-espinosa/1613_carta-espinosa_f267r.jpg"
+          n="f. 267r"/>
+        <head>D<hi rend="i">e</hi> don Ju<hi rend="i">an</hi> de Espinosa cerca de la Poesía oscura
+          a d<hi rend="i">on</hi> Ju<hi rend="i">an</hi> de Arguijo</head>
+        <p>S<hi rend="i">eñor</hi> don Ju<hi rend="i">an</hi>,</p>
+        <p>Estos poetas o profetas no son de luz, deben de ser del Antecristo, porque su misterio es
+            confusión<note place="bottom">La comparación del poeta y el profeta es lugar común, por
+            ejemplo en Francisco Fernández de Córdoba, abad de Rute, <hi rend="i">Parecer de don
+              Francisco de Córdoba acerca de las</hi> Soledades, f. 132r: «son casi convertibles
+            poeta y profeta» (<ref
+              target="http://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer/body-1#note186"
+              >1614_parecer</ref>). El propio Góngora acude al tópico en su «Carta en respuesta»:
+            «que vates se llama el poeta como el profeta» (Luis de Góngora, <hi rend="i">Obras
+              completas</hi>, II, p. 296). El Anticristo es maestro en confusión y engañador por
+            excelencia: 2 Jn 1, 7.</note>. Y pudiera yo correrme de que no entendiéndolos V<hi
+            rend="i">uestra</hi> M<hi rend="i">erce</hi>d me tenga por buen intérprete: solo de
+          Salomón se dice que entendía el idioma de las bestias sin serlo él<note place="bottom"
+            >Según la leyenda del anillo de Salomón, este rey y gran mago tenía la capacidad de
+            hablar con los animales (Pellizer, 2010). Espinosa finge ofenderse de que Arguijo le
+            tome como intérprete de cultos, equiparados con «bestias».</note>. Vuélvolos a V<hi
+            rend="i">uestra</hi> M<hi rend="i">erce</hi>d para que los envíe a Écija<note
+            place="bottom">Espinosa emplea la expresión ‘que los envíe a Écija’ aludiendo a una
+            frase proverbial de germanía: «entre gente pícara, que para despedir a uno con desgaire
+            y menosprecio, le dicen que se vaya al rollo de Écija» (Covarrubias), a pesar de ser
+            ciudad y provincia capaz de criar «buenos ingenios, de que dan calificadas muestras
+            cultivados en letras» (como escribe Roa, <hi rend="i">Écija, sus santos, su antigüedad
+              eclesiástica y seglar</hi>, Sevilla, 1629, f. 150r).</note> o a otra escuela de
+          ingenios tan robustos que allanen esta dificultad<note place="bottom">Espinosa parece
+            indicar que Arguijo le ha mandado unos versos oscuros, de los que no dice nada: podría
+            ser una ficción para introducir su discurso.</note>. Bien veo que V<hi rend="i"
+            >uestra</hi> M<hi rend="i">erce</hi>d quiere oírme, pero no es materia para billete, y
+          hablando de veras es menester larga distinción<note place="bottom">‘Distinción’: «en las
+            escuelas es la declaración o explicación que se hace de alguna proposición dudosa,
+            ambigua y equívoca, que puede ser verdadera en un sentido y no en otro» (<hi rend="i"
+              >Aut</hi>.).</note> para condenar este estilo que corre, que parece de alguna
+          constitución maligna y no de buenas observaciones<note place="bottom"> En esta frase,
+            Espinosa condena el cultismo como enfermedad («constitución maligna») tanto como
+            incumplimiento de los preceptos del arte poética («y no de buenas observaciones»). En el
+            término de ‘constitución’ se resume su idea, pues significa tanto «ordenanza […],
+            estatuto, reglas», como «situación, positura y asiento de las cosas, […] temples y
+            temperamentos» (<hi rend="i">Aut</hi>). Dicho de otro modo, en su temple y en sus reglas
+            los cultos son malignos. En cuanto a las «[malas] observaciones», podría aludirse al
+            incumplimiento de «de alguna orden, ley o precepto», especialmente religioso, quizá como
+            una discreta pulla a la irreverencia de Góngora en este particular (Hernando Horio y
+            Juan Pineda, <hi rend="i">Dos censuras inquisitoriales de las </hi>Obras en verso del
+            Homero español <hi rend="i">(1628)</hi>: 6. 4.<ref
+              target="http://obvil.sorbonne-universite.site/corpus/gongora/1628_censuras#front-6-4"
+              >Connotaciones eróticas</ref>).</note>. Lo primero porque no es impropio lo figurado,
+          antes esencial a la poesía<note place="bottom">Lugar común sobre la poesía, empleado en la
+            polémica tanto para defender a Góngora por su estilo sublime (<ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1614_parecer"
+              >1614_parecer</ref>, f. 138v) o su habilidad metafórica (<ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1662_apologetico"
+              >1662_apologetico</ref>, VI, 47), como para atacar a los poetas cultos porque «usan
+            tanto lo figurado, y abalánzanse con tal violencia que, en vez de mostrarse valientes,
+            proceden (como decíamos) hasta incurrir en temerarios» (<ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_discurso-poetico"
+              >1624_discurso-poetico</ref>, f. 8v).</note>. Lo segundo porque don Luis de Góngora (a
+          quien yo soy muy aficionado) y otros hombres de juicio gustan de afectarlo<note
+            place="bottom">‘Afectar lo figurado’ es practicarlo de forma ostentosa y exagerada
+            (siendo ‘afectar’ «poner especial cuidado y demasiado estudio y arte en la ejecución de
+            algún hecho o dicho», <hi rend="i">Aut</hi>.).</note>, y no es razón hablar de ellos sin
+          guardar el decoro<note place="bottom">El decoro, en este caso la actitud de respeto y
+            veneración que conviene hacia los grandes autores, remite a la ética de las polémicas
+            literarias (Pantin, 1997), y permite distinguir el ataque hacia los cultos del aprecio
+            que Espinosa siente por Luis de Góngora.</note>: no soy tan licencioso<note
+            place="bottom">‘Licencioso’: «que usa de demasiada licencia» (<hi rend="i"
+            >Aut</hi>.).</note> que los envuelva con ignorantes, aunque estos pecan con su ejemplo,
+          que entran por sus escritos a imitar, y sucédeles <pb
+            facs="http://gongoradigital.github.io/img/1613_carta-espinosa/1613_carta-espinosa_f267v.jpg"
+            n="f. 267v"/> lo que a la mona en casa del estatuario, y así a cada paso los comprende
+          Horacio juntando cabezas humanas a cuellos de caballos<note place="bottom">Los malos
+            imitadores de Góngora son como monas, animal dado a imitar, haciendo destrozos en el
+            taller del escultor con sus pésimas imitaciones del poeta. Además de aludir a una
+            anécdota o cuento sobre esta mona en casa del estatuario, Espinosa reescribe el inicio
+            de Horacio, <hi rend="i">Arte poética</hi>, v. 1-2: «Si un pintor quiere unirle a una
+            cabeza humana la cerviz de un caballo», donde los excesos de una poesía sin arte quedan
+            retratados como ridículos grotescos (trad. José Luis Moralejo, Horacio 2008: 383). Véase
+            la introducción para un comentario más extenso.</note>: bien se ve en los fragmentos
+          usurpados que hallamos, en muchas obras, quejándose que de su fábrica los trajeron
+          arrastrando a lugares inmundos. A los pintores, que son poetas mudos<note place="bottom">
+            Tópico traído de Simónides y extendidísimo en la época (por ejemplo en Pero Mejía, <hi
+              rend="i">Silva de varia lección</hi>, Sevilla, Hernando Díaz, 1570, <ref
+              target="http://bdh-rd.bne.es/viewer.vm%3fid=0000005021&amp;page=80">f. 67v</ref>).
+            Salazar Mardones lo comenta en su <hi rend="i">Ilustración y defensa de la fábula de
+              Píramo y Tisbe</hi>, Madrid, Imprenta real, 1636, f. 25r.</note>, los podemos comparar
+          cuando adulteran las acciones de sus figuras por introducir la imitación<note
+            place="bottom">Espinosa, prolongando el impulso Horaciano del <hi rend="i">ut pictura
+              poesis</hi> (v. 1-2, y v. 361), compara a los malos imitadores de Góngora con los
+            pintores que, en vez de imitar la naturaleza, copian la <hi rend="i">maniera</hi> de
+            otros pinceles.</note>. El que pintó la galería del cardenal de Guevara debía de tener
+          bien asidas las especies<note place="bottom">Las «especies» son «la imagen o
+            representación de sí que envía el objeto» (<hi rend="i">Aut</hi>.), y que el mal pintor
+            tiene «asidas», cogidas o hurtadas, de otra representación.</note> de alguna herrería de
+          Vulcano, o la lucha de Hércules con Anteo, y dionos el ángel de Habacú saltándole los ojos
+          del rostro y el brazo que le pudieran sangrar con ballestilla<note place="bottom">De
+            sevillano a sevillano, Espinosa critica al pintor de la «galería del cardenal de
+            Guevara», aludiendo a la decoración de la galería y el salón del palacio arzobispal de
+            Sevilla en tiempos de Fernando Niño de Guevara (†1609). Se burla en concreto de uno de
+            los lienzos del salón (y no de la galería), que representa a Hababuc transportado
+            milagrosamente por un ángel para llevar comida a Daniel en el foso de los leones (Daniel
+            14, 34-39). Espinosa critica dos rasgos de la pintura: los ojos exorbitados («saltándole
+            los ojos del rostro») y los brazos, excesivamente venosos o bien casi bestiales («y el
+            brazo que le pudieran sangran con ballestilla»; balestilla es «cierto instrumento de
+            hierro a modo de ballesta pequeña, de que suelen usar los albéitares para sangrar las
+            bestias caballares», <hi rend="i">Aut</hi>.). Espinosa atribuye estos defectos a la
+            imitación, no de la naturaleza, sino de otros temas pictóricos, en especial de escenas
+            que se prestan a un lenguaje gestual enfático, como la fragua de Vulcano y el combate de
+            Hércules y Anteo.</note>. Sea monstruoso el estilo con los diablos, mas lo que no se
+          puede sufrir es que en tan grandes torrentes de palabras no haya una gota de
+            sustancia<note place="bottom">En términos líquidos, Espinosa opone el «torrente» y la
+            «gota», contrastando la abundancia estilística y la poca eficacia nutritiva de los
+            poemas cultos.</note>. Los términos extravagantes, las circunlocuciones, y todo el
+          aparato del arte de bien hablar es proprio, como dije, de la poesía, pero a fin de poner
+          velos a la hermosura de la sentencia, porque cueste trabajo desarrebozarla<note
+            place="bottom">Quitarle el rebozo, descubrirla y por ende revelar su sustancia.</note>,
+          y para ganar atención<note place="bottom">Lo mismo defiende Manuel Ponce en su <hi
+              rend="i">Silva</hi>, «Y debe considerarse que el oficio del poeta no es descubrir las
+            cosas que por sí están cubiertas con algún velo; antes, si son claras y manifiestas,
+            cifrarlas con cuanta diligencia y estudio pudiere, y encubrirlas a los ojos de la
+            ignorancia porque la demasiada familiaridad no las deslustre, antes sean, por su
+            dificultad, más dignas de memoria y reverencia» (Azaustre Galiana 2019: 206). Y también
+            el propio Góngora en su «Carta en respuesta»: «hase de confesar que tiene utilidad
+            avivar el ingenio, y eso nació de la obscuridad del poeta. Eso mismo hallará vuestra
+            merced en mis <hi rend="i">Soledades</hi>, si tiene capacidad para quitar la corteza y
+            descubrir lo misterioso que encubren» (Góngora, <hi rend="i">Obras completas</hi>, II,
+            p. 296). Es lugar común, aducido también por Lope de Vega en defensa de su soneto «La
+            calidad elementar resiste», por ejemplo en <hi rend="i">La dama boba</hi>, v. 579-581:
+            «Platón, / a lo que en cosas divinas / escribió, puso cortinas» (cf. López Bueno, 2012:
+            314-315).</note>. El intento de estos señores parece muy diferente: encubren boberías
+          con jerigonza<note place="bottom">Es lugar común remitir despectivamente el estilo culto
+            al «dialecto o modo de hablar que usan los gitanos, ladrones y rufianes para no ser
+            entendidos» (<hi rend="i">Aut</hi>.), como en la célebre tmesis de Quevedo «la jeri
+            (aprenderá) gonza» (Quevedo, <hi rend="i">Libro de todas las cosas</hi>, p. 465).
+            Espinosa Medrano en su <hi rend="i">Apologético</hi> emplea el argumento a favor de
+            Góngora (<ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1662_apologetico"
+              >1662_apologetico</ref>, VI, 48).</note> de tal <pb
+            facs="http://gongoradigital.github.io/img/1613_carta-espinosa/1613_carta-espinosa_f268r.jpg"
+            n="f. 268r"/> manera que o no se dejan penetrar, o en quitándoles los oropeles de estos
+          gigantones que sacan, no hay más de bálago mal trabado<note place="bottom">‘Bálago’ es «la
+            paja del heno o del centeno, que sirve para henchir y llenar las alabardas, jergones y
+            otras cosas» (<hi rend="i">Aut</hi>.). Los poemas cultos son «gigantones» por su tópica
+            hinchazón, y quizá en referencia a la <hi rend="i">Fábula de Polifemo</hi> de Góngora.
+            Sin los «oropeles» del estilo, se descubre un amasijo de paja, como en ciertas imágenes
+            de Vírgenes que solo se muestran vestidas, por ser su cuerpo una simple estructura de
+            madera y relleno (Albert-Llorca 2002, Genovese 2001). Varios detractores de Góngora
+            repetirán esta crítica en su contra, como Jáuregui («con vilísimos velos de locución, no
+            solo encubre defectos y culpas, sino da a creer al simple que son todas ingeniosidades,
+            a la manera que un manto rebozado suele prometer y mentir hermosura, celando fealdad»;
+              <ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_discurso-poetico"
+              >1624_discurso-poetico</ref>, f. 40r) o Cascales («Luego síguese que el velo que
+            entenebrece los conceptos de esta fábula es sola la frasis»; <ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1634_cartas-cascales"
+              >1634_cartas-cascales</ref>).</note>. Todo su negocio es que su musa tenga uñas como
+          una harpía<note place="bottom">La harpía es ser monstruoso o «ave de rapiña que fingieron
+            los poetas […] con uñas corvas y aparejadas para arrebatar y despedazar con ellas» (<hi
+              rend="i">Aut</hi>.). Espinosa concentra en esta imagen dos críticas a los cultos: la
+            primera es que crean poemas monstruosos, la segunda que sus poemas son fraudes, o como
+            mucho copias robadas, más que imitadas, de Góngora (así como la ‘harpía’ es «la persona
+            codiciosa», las ‘uñas’ significan «destreza o suma inclinación a defraudar o hurtar.
+            Usase comúnmente en plural», <hi rend="i">Aut</hi>.): las musas de los cultos son dadas
+            al hurto poético. Además de este doble ataque, hay aquí una reescritura del <hi rend="i"
+              >Arte poética</hi> de Horacio, en especial de los v. 32-37: Espinosa se vale de un
+            ejemplo horaciano para ponderar que los cultos no saben más que repetir tropos, haciendo
+            solo, de la figura entera, la uña («Un humilde artesano de junto a la palestra de Emilio
+            reproducirá en el bronce las uñas, e imitará los muelles cabellos; mas no acertará a
+            hacer la obra completa, porque no sabrá diseñar el conjunto. A mí, cuando de componer
+            alguna obra me ocupe, no me apetecería ser como ese más que vivir con la nariz torcida,
+            aunque mis negros ojos y mi negro cabello fueran dignos de verse», trad. José Luis
+            Moralejo, Horacio 2008: 385).</note>, y cargan de troposílabos<note place="bottom"
+            >Palabra compuesta de ‘tropos’ (figuras retóricas) o ‘tropel’ y ‘sílabos’: más que por
+            el número de sílabas de la métrica, los versos cultos se definen por el exceso de
+            figuras.</note> llenos de ‘rrr’<note place="bottom">La sonoridad vibrante es
+            característica de la aspereza y, ya en Sevilla, Juan de la Cueva la aconsejaba en su <hi
+              rend="i">Ejemplar poético</hi> (1606), ep. III, v. 208-210: «De la R usarás cuando el
+            violento / euro contrasta al boreas poderoso / con hórrido furor su movimiento». Véase
+            Ponce Cárdenas (2020: 197).</note> y rabos de cometas, fatigándonos el juicio con su
+            significación<note place="bottom">Es habitual el ataque contra la afectación sonora de
+            los versos cultos, aquí señalada en una aliteración en ‘r’. Espinosa critica su falta de
+            sentido comparando a los poetas con cometas que parecen reclamar una interpretación
+            esotérica innecesaria («fatigándonos el juicio con su significación»); también porque
+            son anuncio de desastres, y quizá porque lucen poco tiempo. La «cometa con cola» aparece
+            así en el burlesco «Tratado de la adivinación por quiromancia, fisonomía y astronomía»
+            del <hi rend="i">Libro de todas las cosas</hi> de Quevedo (2007: 445). La comparación de
+            los cultos con cometas aparece también en las <hi rend="i">Noches claras</hi> de Faria e
+            Sousa: «Y al fin, son los escritores de este tiempo esfinges en sus escritos,
+            manifestándose como cometas» (<ref
+              target="https://obvil.sorbonne-universite.fr/corpus/gongora/1624_nochesclaras"
+              >1624_nochesclaras</ref>, p. 54).</note>. Bueno es que los ingenios sean atrevidos y
+          los que se cultivan para este ejercicio redunden<note place="bottom">‘Redundar’ es
+            «rebosar, salirse alguna cosa de sus límites o bordes, por demasiadamente llenos y
+            abundantes» (<hi rend="i">Aut</hi>.): se trata por tanto de una nueva alusión a la
+            hinchazón de los cultos.</note> en sus principios, porque después, al madurar, se
+          despojan de lo vicioso, pero en faltándoles modestia para conocerse bisoños, va todo
+            perdido<note place="bottom">Espinosa acepta que los cultos incurran en excesos y
+            redundancias estilísticas de jóvenes, si reconocen que son «bisoñ[erías]» y se despojan
+            progresivamente de estos vicios: se trata de una posición muy horaciana, acorde con el
+              <hi rend="i">Arte poética</hi>, v. 1-41.</note>. Y es cosa graciosa lo que pasa, que
+          todos rehúsan el agua de la doctrina como con rabia<note place="bottom">Como los enfermos
+            de rabia rechazan el agua, así los poetas cultos rechazan la doctrina poética. La
+            formulación de una doctrina capaz de restringir los excesos de la inventiva poética es
+            precisamente la justificación del <hi rend="i">Arte poética</hi> de Horacio, en reacción
+            a los grotescos híbridos de caballo y humano con los que se inicia el tratado
+            latino.</note>: los muy legos piensan que los engañan, y de peor estado son los que
+          tienen en su aposento un Marcial y dos Legicones<note place="bottom">Las obras de Marcial
+            y los vocabularios o lexicones cifran toda la cultura de los cultos. Hay aquí una
+            probable referencia a la autoridad de Góngora como nuevo Marcial, y en todo caso un
+            reconocimiento de la facundia hispana como modelo de los cultos. Citar los «Legicones»,
+            como el de Calepino, es tópico en las diatribas contra la poesía culta, memorable en la
+            pluma de Quevedo: «Con esto y con gastar mucho Calepino sin qué ni para qué, serás
+            culto, y lo que escribieres oculto, y lo que hablares lo hablarás a bulto» (Quevedo, <hi
+              rend="i">Libro de todas las cosas</hi>, 2007: p. 476).</note>. Yo prometo a V<hi
+            rend="i">uestra</hi> M<hi rend="i">erce</hi>d que se pudiera celebrar un simposio
+          solemnísimo para tratar de estas cosas mejor que de los preceptos estoicos, y aunque esos
+          versos rompen los dientes, a fe que habían de hacer ventaja al plato más regalado<note
+            place="bottom">‘Simposios’ son «convites [en los que] antiguamente se trataba materia de
+            letras y de virtud, como lo muestra el diálogo de Platón, dicho <hi rend="i"
+              >Simposio</hi> [<hi rend="i">El Banquete</hi>], y muchos modernos han tomado este
+            argumento para tratar cosas muy altas, de do se infiere que estos no se emborrachaban ni
+            se juntaban para decir mal de nadie, ni para jugar sus haciendas» (Covarrubias).
+            Espinosa afirma que la moda culta superaría el éxito del estoicismo (el «plato más
+            regalado»), pese a ser incomestible en tal «simposio». Véase la introducción, 3.
+            Cronología, para más detalles.</note>. Pero no quiero ruido con necios, que desconfían y
+          se enojan aunque hombre les hable con ánimo de que no se rían de ellos: tienen condición
+          de perro callejero, llegáis a quitarle <pb
+            facs="http://gongoradigital.github.io/img/1613_carta-espinosa/1613_carta-espinosa_f268v.jpg"
+            n="f. 268v"/> la maza<note place="bottom">‘Maza’, «se llama también el palo, hueso u
+            otra cosa, que por entretenimiento se suele poner en las Carnestolendas atado a la cola
+            de los perros: y también se llama así el trapo sucio o otra cosa que se prende en un
+            alfiler en los vestidos de los hombres y mujeres, para burlarse de ellos» (<hi rend="i"
+              >Aut</hi>.).</note> porque no lo persigan muchachos, y tira dentellada que os lleva un
+          brazo. Hago excepción de los amigos, que de justicia se está hecha<note place="bottom"
+            >Equívoco o zeugma basado en la palabra ‘excepción’: Espinosa dice eximir a sus amigos
+            poetas de la critica que ha escrito («Hago excepción de los amigos»), dando por acabado
+            su ‘alegato’, pues tal es el sentido de ‘excepción’ «de justicia»: «en lo legal es la
+            razón o motivo que se alega en defensa del derecho que uno pretende tener, oponiéndose a
+            la pretensión y alegación contraria» (<hi rend="i">Aut</hi>.).</note>, y para el que
+          quisiere saber con quién hablo me remito al examen de la conciencia.</p>
+        <p>Dios guarde a V<hi rend="i">uestra</hi> M<hi rend="i">erce</hi>d.</p>
+        <p>D<hi rend="i">on</hi> Ju<hi rend="i">an</hi> de Espinosa.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
