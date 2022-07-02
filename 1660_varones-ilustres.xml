@@ -8,7 +8,7 @@
       <titleStmt>
         <title>«Don Ludovicus de Góngora y Argote» en <emph>Varones ilustres de
           Córdoba</emph>.</title>
-        <author key="Vaca de Alfaro, Enrique" >Enrique Vaca de Alfaro</author>
+        <author key="Vaca de Alfaro, Enrique">Enrique Vaca de Alfaro</author>
         <editor>María Ángeles Garrido Berlanga y Muriel Elvira</editor>
       </titleStmt>
     </fileDesc>
@@ -2756,45 +2756,44 @@
             <title>Obras</title>, escritas en prosa y verso a varios asuntos, impresas en Madrid,
           año de 1656, folio 96, capítulo 10, donde trata de cómo vino<quote> «el dios Apolo a la
             Academia, y se representó una comedia de disparates»</quote>, dice así:</p>
-        <p rend="lmarg2"><quote>Iba sobre un elefante la Fama tocando la trompeta, dilatando por el
-            mundo las alabanzas de Apolo y varones tan grandes como los que le acompañaban. Luego el
-            coche de los gentiles hombres de la Cámara y mayordomos, como </quote><seg
-            rend="entetecar">Garcilaso de la Vega</seg>, alcaide de los reales alcázares del Parnaso
-          y, como tal, levantó la fuente de Helicona que no se levantaba del suelo, poniendo su
-          docta pluma por caño, haciendo un pilar del oro de su ingenio. Iba con él el nunca
-          bastantemente alabado, nuestro <seg rend="entetecar">Terencio</seg> español<quote>, el
-            gran </quote><seg rend="entetecar">Lope Félix de Vega</seg>, vega tan fértil que su
-          fruto llenó al Parnaso y a España de sabiduría, de cuyas flores todos cogieron fruto, que
-          sus obras lo construyeron el Félix<quote> [<pb n="f. 199v"/>] en Fénix, pues fue él solo
-            príncipe soberano de la comedia y mayordomo mayor de Apolo. Con él </quote>iba <seg
-            rend="entetecar">Mira de Amescua</seg>, doctísimo, y gran sumiller de corps, por cuyos
-          conductos el cristal de Hipocrene y Helicona salieron más dulces. Luego el no imitado don
-            <seg rend="entetecar">Luis de Góngora</seg>, hijo de Córdoba, más gloriosa en ser su
-          madre que por serlo de <seg rend="entetecar">Séneca</seg> y<seg rend="entetecar">
-            Lucano</seg>. Diole Apolo título de conde de Altamira, pues la puso tan alta que las
-          águilas más remontadas le perdían de vista. Luego el doctísimo <seg rend="entetecar"
-            >Hortensio</seg>, <emph>hortus</emph> y pénsil de donde toman muchas divinas flores de
-          sus remontados conceptos, gran poeta y orador sagrado, a quien las plumas de los nombrados
-          y los que se dirán después, no bastaron a alabarle, que en decir <seg rend="entetecar"
-            >Hortensio Paravicino</seg> se<quote> dice lo más. [<pb n="f. 200r"/>] Con él iba el
-            gran cortesano y poeta </quote><seg rend="entetecar">Luis Vélez de Guevara</seg>, ara de
-          las oblaciones de las musas y su galán, lauro de Apolo y mar de la elocuencia gustosa.
-          Diole Su Majestad título de marqués de Salinas, pues no se conocen más salinas que las
-          suyas en el Parnaso, y el gran maestro <seg rend="entetecar">José de Valdivieso</seg>, tan
-          divino que todo lo que escribió lo fue. En otro coche iban: don <seg rend="entetecar"
-            >Guillén de Castro</seg>, honor de Castro y de su patria, Valencia; y don <seg
-            rend="entetecar">Diego Jiménez de Enciso</seg>, cisne Andaluz; don <seg rend="entetecar"
-            >Antonio Hurtado de Mendoza</seg>, docto palaciego y aliñado escritor cómico, cuyas
-          comedias fueron ramilletes fragantes y admiración; y el gran don <seg rend="entetecar"
-            >Francisco de Quevedo</seg>, que escribió solo durmiendo<quote> [[f.200v]] más que otros
-            velando; y el </quote>maestro <seg rend="entetecar">Tirso de Molina</seg>, que su pluma
-          sola pudiera alabarle; y <seg rend="entetecar">Luis de Benavente, Marcial</seg><quote>
-            castellano que escribió donaires y sainetes tantos años, sin rozarse <pb n="68"/> un
-            sainete con otro, con admiración y aplauso del teatro del orbe</quote><note
-            place="bottom" resp="editor">Blanco, Elvira, Plagnard 2021, 210. En el folio 196 ya se
-            citó este fragmento de forma más escueta. ¿Adición por otra mano que la de Vaca de
-            Alfaro? ¿Voluntad de ofrecer más detalles que permitan entender mejor en contexto las
-            frases ya citadas?</note>.</p>
+        <quote>Iba sobre un elefante la Fama tocando la trompeta, dilatando por el mundo las
+          alabanzas de Apolo y varones tan grandes como los que le acompañaban. Luego el coche de
+          los gentiles hombres de la Cámara y mayordomos, como<seg rend="entetecar">Garcilaso de la
+            Vega</seg>, alcaide de los reales alcázares del Parnaso y, como tal, levantó la fuente
+          de Helicona que no se levantaba del suelo, poniendo su docta pluma por caño, haciendo un
+          pilar del oro de su ingenio. Iba con él el nunca bastantemente alabado, nuestro <seg
+            rend="entetecar">Terencio</seg> español<quote>, el gran </quote><seg rend="entetecar"
+            >Lope Félix de Vega</seg>, vega tan fértil que su fruto llenó al Parnaso y a España de
+          sabiduría, de cuyas flores todos cogieron fruto, que sus obras lo construyeron el
+            Félix<quote> [<pb n="f. 199v"/>] en Fénix, pues fue él solo príncipe soberano de la
+            comedia y mayordomo mayor de Apolo. Con él </quote>iba <seg rend="entetecar">Mira de
+            Amescua</seg>, doctísimo, y gran sumiller de corps, por cuyos conductos el cristal de
+          Hipocrene y Helicona salieron más dulces. Luego el no imitado don <seg rend="entetecar"
+            >Luis de Góngora</seg>, hijo de Córdoba, más gloriosa en ser su madre que por serlo de
+            <seg rend="entetecar">Séneca</seg> y<seg rend="entetecar"> Lucano</seg>. Diole Apolo
+          título de conde de Altamira, pues la puso tan alta que las águilas más remontadas le
+          perdían de vista. Luego el doctísimo <seg rend="entetecar">Hortensio</seg>,
+            <emph>hortus</emph> y pénsil de donde toman muchas divinas flores de sus remontados
+          conceptos, gran poeta y orador sagrado, a quien las plumas de los nombrados y los que se
+          dirán después, no bastaron a alabarle, que en decir <seg rend="entetecar">Hortensio
+            Paravicino</seg> se<quote> dice lo más. [<pb n="f. 200r"/>] Con él iba el gran cortesano
+            y poeta </quote><seg rend="entetecar">Luis Vélez de Guevara</seg>, ara de las oblaciones
+          de las musas y su galán, lauro de Apolo y mar de la elocuencia gustosa. Diole Su Majestad
+          título de marqués de Salinas, pues no se conocen más salinas que las suyas en el Parnaso,
+          y el gran maestro <seg rend="entetecar">José de Valdivieso</seg>, tan divino que todo lo
+          que escribió lo fue. En otro coche iban: don <seg rend="entetecar">Guillén de
+          Castro</seg>, honor de Castro y de su patria, Valencia; y don <seg rend="entetecar">Diego
+            Jiménez de Enciso</seg>, cisne Andaluz; don <seg rend="entetecar">Antonio Hurtado de
+            Mendoza</seg>, docto palaciego y aliñado escritor cómico, cuyas comedias fueron
+          ramilletes fragantes y admiración; y el gran don <seg rend="entetecar">Francisco de
+            Quevedo</seg>, que escribió solo durmiendo<quote> [[f.200v]] más que otros velando; y el
+          </quote>maestro <seg rend="entetecar">Tirso de Molina</seg>, que su pluma sola pudiera
+          alabarle; y <seg rend="entetecar">Luis de Benavente, Marcial</seg><quote> castellano que
+            escribió donaires y sainetes tantos años, sin rozarse <pb n="68"/> un sainete con otro,
+            con admiración y aplauso del teatro del orbe</quote><note place="bottom" resp="editor"
+            >Blanco, Elvira, Plagnard 2021, 210. En el folio 196 ya se citó este fragmento de forma
+            más escueta. ¿Adición por otra mano que la de Vaca de Alfaro? ¿Voluntad de ofrecer más
+            detalles que permitan entender mejor en contexto las frases ya citadas?</note>.</quote>
         <p>[[f. 201]] <name type="polemista">Don Luis de Góngora</name>, pasando por una calle de
           Madrid, vio en un cuarto de casa cuatro damas y les dijo: «son vuestras mercedes damas de
           cuatro al cuarto»<note place="bottom" resp="editor">La frase juega con la locución «de
