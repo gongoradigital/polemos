@@ -2,14 +2,36 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2022-02-23T20:20:38+01:00-->
-<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1660_varones-ilustres">
+<TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1660_varones-ilustres"><note place="bottom">Góngora mantuvo amistad con el
+                obispo de Córdoba, Diego de Mardones, que accedió al cargo el 26 de marzo de 1607
+                (Artigas 1925: 97) y al que dedicó composiciones como el soneto que comienza «Un
+                culto risco en venas hoy suaves» [OC285] de 1615. Según Amelia de Paz (2012: 40)
+                Mardones fue «el prelado con quien más estrecha amistad sostuvo Góngora», así como
+                su mentor. También Ramírez de Arellano (1921: 236) y Artigas (1925: 199, nota 2)
+                glosan esta relación de amistad, apoyándose precisamente en este soneto. Los cuatro
+                versos (heptasílabos y pentasílabos), que forman una seguidilla, son presentados por
+                Vaca de Alfaro como resultado de una improvisación fulgurante («dijo de repente») y
+                constituyen una descripción pormenorizada del escudo de fray Diego de Mardones: en
+                un campo cuartelado se ven «1. Cinco haces en sotuer [las flechas]. 2. Un león
+                rampante con una flor de lis. 3. Trece estrellas ordenadas en filas de cuatro, más
+                una. 4. Una rueda». (Jordano Barbudo 2010). La misma estudiosa explica que Diego de
+                Mardones hizo gala de su blasón, «como ningún otro representante de la jerarquía
+                cordobesa. […] Su espléndida contribución económica a las obras y ornamentos de la
+                capilla mayor de la catedral y sus continuas y abultadas dádivas debieron granjearle
+                el favor del cabildo que permitió a Mardones, como única y exclusiva potestad, el
+                construir su sepultura en el altar mayor». Ahí está el mar de dones aludido en la
+                seguidilla. El mismo retruécano entre «Mardones» y «dones» sería desarrollado
+                posteriormente en el terceto final de un soneto de 1615: «Si armonïoso leño silva
+                mucha / atraer pudo, vocal Risco atraya / <emph>un Mar, dones</emph> hoy todo a sus
+                arenas».</note>
+        <head>Introducción</head>
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>«Don Ludovicus de Góngora y Argote» en <emph>Varones ilustres de
           Córdoba</emph>.</title>
         <author key="Vaca de Alfaro, Enrique">Enrique Vaca de Alfaro</author>
-        <editor>María Ángeles Garrido Berlanga y Muriel Elvira</editor>
+        <editor>María Ángela Garrido Berlanga y Muriel Elvira</editor>
       </titleStmt>
     </fileDesc>
     <editionStmt>
@@ -140,7 +162,6 @@
             -->
     <body>
       <div subtype="level1">
-        <head>Introducción</head>
         <div subtype="level2">
           <head>1. [Título] «Don Ludovicus de Córdoba»: apuntes para una inacabada «Vida de
             Góngora».</head>
@@ -223,7 +244,7 @@
           <p>Entre los retratados destacan muchos médicos, y señaladamente médicos que se dedicaron
             a la poesía, porque estas fueron las dos aficiones de predilección del autor del
             catálogo. Encontramos, por ejemplo, al primer óptico español, Benito Daza de Valdés; al
-            cirujano Enrique Vaca de Alfaro, abuelo del autor, quien participó en las justas y
+            cirujano Enrique Vaca de Alfaro, abuelo del autor, quien participó en una justa poética a la pureza de la virgen, convocada en Córdoba en 1617 y
             compuso un tratado de cirugía<note place="bottom">Enrique Vaca de Alfaro,
                 <emph>Proposición chirúrgica i censura iudiciosa entre las dos vias curativas de
                 heridas de cabeça</emph>, Sevilla: Gabriel Ramos Bejarano, 1618.</note>; a Fernando
@@ -277,7 +298,7 @@
             manuscrito original hoy desaparecido<note place="bottom">Véase más abajo el apartado
               «Establecimiento del texto».</note>, mientras que para Luis de la Vega solo uno; de
             igual manera, Juan de Mena ocupa veinticuatro folios, mientras que Fernán Pérez de
-            Oliva, solo tres. Esta desigualdad obedece a diferentes criterios: primero, el desigual
+            Oliva, solo tres. Esta diferencia obedece a diferentes criterios: primero, el desigual
             interés que ofrece cada escritor para Vaca del Alfaro, si bien este interés es difícil
             de apreciar con certeza porque estamos ante un borrador y, por lo tanto, algunas de las
             semblanzas apenas esbozadas quizás estuvieran destinadas a desarrollarse más; otro
@@ -985,7 +1006,7 @@
             malhablado, aunque extremadamente ingenioso.</p>
         </div>
         <div subtype="level2">
-          <head>9.Establecimiento del texto</head>
+          <head>9. Establecimiento del texto</head>
           <p>De la «Vida de Góngora» contenida en los <emph>Varones ilustres de Córdoba</emph>
             contamos actualmente con dos manuscritos, ambos situados en la Biblioteca Capitular y
             Colombina de Sevilla, uno de los cuales es copia del otro.</p>
@@ -1049,18 +1070,19 @@
               Libreros, 1635.</bibl>
             <bibl>—, <ref
                 target="http://bdh.bne.es/bnesearch/biblioteca/Egloga%20funebre%20a%20Don%20Luys%20de%20Gongora%20de%20versos%20entresacados%20de%20sus%20obras%20%20%20/qls/Angulo%20y%20Pulgar,%20Mart%C3%ADn%20de%20(1594%20)/qls/bdh0000012189;jsessionid=4BE1B381AD57398FD9508B8DDA96B1B3"
-                rend="i">Égloga fúnebre a don Luis de Góngora de versos entresacados de sus obras</ref>,
-              Sevilla: Simón Fajardo, 1638.</bibl>
+                rend="i">Égloga fúnebre a don Luis de Góngora de versos entresacados de sus
+                obras</ref>, Sevilla: Simón Fajardo, 1638.</bibl>
             <p rend="noindent"><hi rend="sc">Carducho</hi>, Vicente:</p>
-            <bibl>—, <ref target="https://archive.org/details/bub_gb_8RNuctXwSl8C/page/n7" rend="i">Diálogos
-                de la pintura: su defensa, origen, esencia, definición, modos y diferencias</ref>,
-              Madrid: Francisco Martínez, 1633.</bibl>
+            <bibl>—, <ref target="https://archive.org/details/bub_gb_8RNuctXwSl8C/page/n7" rend="i"
+                >Diálogos de la pintura: su defensa, origen, esencia, definición, modos y
+                diferencias</ref>, Madrid: Francisco Martínez, 1633.</bibl>
             <p rend="noindent"><hi rend="sc">Cascales</hi>, Francisco:</p>
             <bibl>—, <ref
                 target="http://bdh.bne.es/bnesearch/biblioteca/Cartas%20philologicas%20:%20es%20a%20saber%20de%20letras%20humanas,%20varia%20erudicion,%20explicaciones%20de%20lugares,%20lecciones%20curiosas...%20i%20muchas%20sentencias%20exquisitas%20%20%20/qls/Cascales,%20Francisco/qls/bdh0000079396;jsessionid=1F54B10549E60AA185D1EA0654DD0536"
-                rend="i">Cartas philológicas</ref><title>, es a saber de letras humanas, varia erudición,
-                explicaciones de lugares, lecciones curiosas... i muchas sentencias exquisitas,
-                auctor Francisco Cascales</title>, en Murcia: por Luis Verós, 1634.</bibl>
+                rend="i">Cartas philológicas</ref><title>, es a saber de letras humanas, varia
+                erudición, explicaciones de lugares, lecciones curiosas... i muchas sentencias
+                exquisitas, auctor Francisco Cascales</title>, en Murcia: por Luis Verós,
+              1634.</bibl>
             <p rend="noindent"><hi rend="sc">Castro</hi>, Francisco de:</p>
             <bibl>—, <title>De Arte Rhetorica. Dialogi quatuor</title>.</bibl>
             <p rend="noindent">Es imposible saber cuál de las dos ediciones de 1601 (Córdoba:
@@ -1069,18 +1091,19 @@
             <bibl>—, <title>Rimas</title>, Madrid: Juan Delgado, 1627.</bibl>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=fbddAAAAcAAJ&amp;pg=PP13&amp;dq=Soledades+comentadas+por+don+Garc%C3%ADa+de+Salcedo+Coronel&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwiZnNm9hYrjAhUJ1xoKHfQZB3UQ6wEIOTAB#v=onepage&amp;q=Soledades%20comentadas%20por%20don%20Garc%C3%ADa%20de%20Salcedo%20Coronel&amp;f=false"
-                rend="i">Soledades comentadas por don García de Salcedo Coronel</ref> […]<title> dedicadas
-                al ilustrísimo y nobilísimo señor don Juan de Chaves y Mendoza</title>, Madrid: en
-              la Imprenta Real, a costa de Domingo González, 1636. </bibl>
+                rend="i">Soledades comentadas por don García de Salcedo Coronel</ref> […]<title>
+                dedicadas al ilustrísimo y nobilísimo señor don Juan de Chaves y Mendoza</title>,
+              Madrid: en la Imprenta Real, a costa de Domingo González, 1636. </bibl>
             <p rend="noindent">[El ejemplar que maneja Vaca de Alfaro contiene también una reedición
               del <emph>Polifemo comentado</emph> de 1629].</p>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=Z9dT1s0AHScC&amp;pg=PA137&amp;dq=Obras+de+don+Luis+de+G%C3%B3ngora+comentadas.+salcedo+coronel&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwi9roeduYnjAhXv2eAKHaaBDfMQ6AEIMTAB#v=onepage&amp;q=Obras%20de%20don%20Luis%20de%20G%C3%B3ngora%20comentadas.%20salcedo%20coronel&amp;f=false"
-                rend="i">Obras de don Luis de Góngora comentadas.</ref><title> Dedicadas al excelentísimo
-                señor don Luis Méndez de Haro, conde de Morente, caballero de la orden de Santiago,
-                gentilhombre de la cámara de Su Majestad y caballerizo mayor del serenísimo príncipe
-                de España, nuestro señor</title>. Tomo segundo. A costa de Pedro Laso, mercader de
-              libros. Con privilegio. Madrid: Diego Díaz de la Carrera, 1644.</bibl>
+                rend="i">Obras de don Luis de Góngora comentadas.</ref><title> Dedicadas al
+                excelentísimo señor don Luis Méndez de Haro, conde de Morente, caballero de la orden
+                de Santiago, gentilhombre de la cámara de Su Majestad y caballerizo mayor del
+                serenísimo príncipe de España, nuestro señor</title>. Tomo segundo. A costa de Pedro
+              Laso, mercader de libros. Con privilegio. Madrid: Diego Díaz de la Carrera,
+              1644.</bibl>
             <bibl>—, <ref
                 target="http://www.bibliotecavirtualdeandalucia.es/catalogo/es/consulta/registro.cmd?id=8479"
                 rend="i">Segunda parte del tomo segundo de las obras de don Luis de Góngora</ref>.
@@ -1099,19 +1122,19 @@
                 Vicuña</title>, Madrid: viuda de Luis Sánchez, 1627.</bibl>
             <bibl>—, <anchor xml:id="_Hlk12533224"/><ref
                 target="https://books.google.fr/books?id=XADpEB59H9QC&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"
-                rend="i">Todas las obras de don Luis de Góngora en varios poemas</ref>. <title>Recogidos por
-                don Gonzalo de Hoces y Córdoba, natural de la ciudad de Córdoba. Dirigidas a don
-                Francisco Antonio Fernández de Córdoba, marqués de Guadalcázar, etc . Corregido y
-                enmendado en esta última impresión, con privilegio</title>. Madrid: Imprenta del
-              Reino, 1634.</bibl>
+                rend="i">Todas las obras de don Luis de Góngora en varios poemas</ref>.
+                <title>Recogidos por don Gonzalo de Hoces y Córdoba, natural de la ciudad de
+                Córdoba. Dirigidas a don Francisco Antonio Fernández de Córdoba, marqués de
+                Guadalcázar, etc . Corregido y enmendado en esta última impresión, con
+                privilegio</title>. Madrid: Imprenta del Reino, 1634.</bibl>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=s0AVGBWMQYMC&amp;pg=PA20-IA1&amp;dq=Todas+las+obras+de+don+Luis+de+G%C3%B3ngora+en+varios+poemas+Zaragoza&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwickeWW3PXiAhXR1eAKHZmWAvUQ6wEILDAA#v=onepage&amp;q=Todas%20las%20obras%20de%20don%20Luis%20de%20G%C3%B3ngora%20en%20varios%20poemas%20Zaragoza&amp;f=false"
                 rend="i">Todas las obras de don Luis de Góngora en varios poemas</ref><title>. Al
                 excelentísimo señor don Enrique Felípez de Guzmán, marqués de Mairena, gentilhombre
                 de la cámara de Su Majestad</title>, etc., Zaragoza: Pedro Vergés, 1643. A costa de
               Pedro Esquer, mercader de libros.</bibl>
-            <bibl>—, <ref target="https://bvpb.mcu.es/es/consulta/registro.cmd?id=438121" rend="i">Delicias
-                del Parnaso</ref>
+            <bibl>—, <ref target="https://bvpb.mcu.es/es/consulta/registro.cmd?id=438121" rend="i"
+                >Delicias del Parnaso</ref>
               <title>en que se cifran todos los romances líricos, amorosos, burlescos, glosas, y
                 décimas satíricas del regocijo de las musas del prodigioso don Luis de Góngora.
                 Recogido todo de sus originales y corregido de los errores con que estaban
@@ -1119,21 +1142,22 @@
               Esquer, mercader de libros.</bibl>
             <bibl>—, <ref
                 target="http://bdh.bne.es/bnesearch/biblioteca/Todas%20las%20obras%20de%20Don%20Luis%20de%20Gongora%20en%20varios%20poemas%20%20%20/qls/G%C3%B3ngora%20y%20Argote,%20Luis%20de%20(1561%201627)/qls/bdh0000121862;jsessionid=081F45F63A4C18205835EDC9811C3D09"
-                rend="i">Todas las obras de don Luis de Góngora en varios poemas</ref><title>. Recogidos por
-                don Gonzalo de Hoces y Córdoba, natural de la ciudad de Córdoba. Dirigidas a don
-                Francisco Antonio Fernández de Córdoba, marqués de Guadalcázar</title>, etc., con
-              licencia, Sevilla: Nicolás Rodríguez, en la calle de Génova, 1648.</bibl>
+                rend="i">Todas las obras de don Luis de Góngora en varios poemas</ref><title>.
+                Recogidos por don Gonzalo de Hoces y Córdoba, natural de la ciudad de Córdoba.
+                Dirigidas a don Francisco Antonio Fernández de Córdoba, marqués de
+                Guadalcázar</title>, etc., con licencia, Sevilla: Nicolás Rodríguez, en la calle de
+              Génova, 1648.</bibl>
             <bibl>—, <ref
                 target="http://www.cervantesvirtual.com/obra-visor/todas-las-obras-de-don-luis-de-gongora-en-varios-poemas--4/html/ffaf8f60-82b1-11df-acc7-002185ce6064_2.html"
-                rend="i">Todas las obras de don Luis de Góngora en varios poemas</ref><title>. Recogidos por
-                don Gonzalo de Hoces y Córdoba natural de la ciudad de Córdoba</title>. Dedicadas a
-              don Luis Muriel Salcedo y Valdivieso, caballero de la orden de Alcántara, etcétera,
-              Madrid: Imprenta Real, 1654.</bibl>
+                rend="i">Todas las obras de don Luis de Góngora en varios poemas</ref><title>.
+                Recogidos por don Gonzalo de Hoces y Córdoba natural de la ciudad de
+              Córdoba</title>. Dedicadas a don Luis Muriel Salcedo y Valdivieso, caballero de la
+              orden de Alcántara, etcétera, Madrid: Imprenta Real, 1654.</bibl>
             <p rend="noindent"><hi rend="sc">Gonzalo de Mendoza</hi>, Pedro:</p>
             <bibl>—, <ref
                 target="http://www.bibliotecavirtualdeandalucia.es/catalogo/es/consulta/registro.cmd?id=6629"
-                rend="i">Historia del Monte Celia de Nuestra Señora de la Salceda</ref>, Granada: Juan
-              Muñoz, 1616.</bibl>
+                rend="i">Historia del Monte Celia de Nuestra Señora de la Salceda</ref>, Granada:
+              Juan Muñoz, 1616.</bibl>
             <p rend="noindent"><hi rend="sc">Lope de Vega</hi>:</p>
             <bibl>—, <title>Arcadia: prosas y versos de Lope de Vega</title>. </bibl>
             <p rend="noindent">[Es imposible saber cuál de las múltiples ediciones que circularon
@@ -1144,8 +1168,8 @@
               de Alfaro].</p>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=AaRbAAAAcAAJ&amp;printsec=frontcover&amp;hl=es&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"
-                rend="i">Triunfos divinos con otras rimas sacras</ref>, Madrid: viuda de Alonso Martin,
-              1625.</bibl>
+                rend="i">Triunfos divinos con otras rimas sacras</ref>, Madrid: viuda de Alonso
+              Martin, 1625.</bibl>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=F1LK0aLfigAC&amp;printsec=frontcover&amp;dq=Corona+tr%C3%A1gica.+Vida+y+muerte+de+la+seren%C3%ADsima+reina&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwiM3YqFhorjAhUEKBoKHZ3ADeMQ6wEILzAA#v=onepage&amp;q=Corona%20tr%C3%A1gica.%20Vida%20y%20muerte%20de%20la%20seren%C3%ADsima%20reina&amp;f=false"
                 rend="i">Corona trágica. Vida y muerte de la sereníssima reina de Escocia, María de
@@ -1153,9 +1177,9 @@
                 Vega Carpio</title>, Madrid: viuda de Luis Sánchez, 1627.</bibl>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=DzKCro81xNQC&amp;pg=PA40&amp;lpg=PA40&amp;dq=Laurel+de+Apolo+con+otras+rimas,+al+excelent%C3%ADsimo+se%C3%B1or&amp;source=bl&amp;ots=Z0-f_tp9n5&amp;sig=ACfU3U3bzwhncKvhxkRuaNWib4O85UCaWA&amp;hl=fr&amp;sa=X&amp;ved=2ahUKEwiivsaZhorjAhUBixoKHSoEDxEQ6AEwC3oECAgQAQ#v=onepage&amp;q=Laurel%20de%20Apolo%20con%20otras%20rimas%2C%20al%20excelent%C3%ADsimo%20se%C3%B1or&amp;f=false"
-                rend="i">Laurel de Apolo con otras rimas, al excelentísimo señor</ref><title> don Juan
-                Alfonso Enríquez de Cabrera, Almirante de Castilla, por Lope Félix de Vega Carpio,
-                del hábito de san Juan</title>, Madrid: Juan González, 1630.</bibl>
+                rend="i">Laurel de Apolo con otras rimas, al excelentísimo señor</ref><title> don
+                Juan Alfonso Enríquez de Cabrera, Almirante de Castilla, por Lope Félix de Vega
+                Carpio, del hábito de san Juan</title>, Madrid: Juan González, 1630.</bibl>
             <p rend="noindent"><hi rend="sc">López</hi>, Juan:</p>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=NGpPAAAAcAAJ&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"
@@ -1166,29 +1190,29 @@
             <p rend="noindent"><hi rend="sc">Pérez de Montalbán</hi>, Juan:</p>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=qbqKgeCrCy4C&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"
-                rend="i">Orfeo en lengua castellana y la décima
-                musa,</ref> Madrid: viuda de Alonso Martín, 1624.</bibl>
+                rend="i">Orfeo en lengua castellana y la décima musa,</ref> Madrid: viuda de Alonso
+              Martín, 1624.</bibl>
             <p rend="noindent"><hi rend="sc">Paravicino</hi>, Hortensio Félix:</p>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=t2GgwRZwET0C&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"
-                rend="i">Obras póstumas divinas y humanas de don Félix de Arteaga</ref>, Alcalá de Henares:
-              María Fernández, 1650.</bibl>
+                rend="i">Obras póstumas divinas y humanas de don Félix de Arteaga</ref>, Alcalá de
+              Henares: María Fernández, 1650.</bibl>
             <p rend="noindent"><hi rend="sc">Patón</hi>, Bartolomé Jiménez:</p>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=hEyWH0qO4v8C&amp;pg=RA1-PA54-IA1&amp;dq=Elocuencia+espa%C3%B1ola+en+arte,&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwivx-Sl9YnjAhUL7eAKHcKUDQ4Q6wEIXTAH#v=onepage&amp;q=Elocuencia%20espa%C3%B1ola%20en%20arte%2C&amp;f=false"
-                rend="i">Elocuencia española en arte,</ref> Toledo:
-              Thomás de Guzmán, 1604.</bibl>
+                rend="i">Elocuencia española en arte,</ref> Toledo: Thomás de Guzmán, 1604.</bibl>
             <p rend="noindent"><hi rend="sc">Pellicer y Tovar</hi>, José:</p>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=sWLlG_p4YNsC&amp;printsec=frontcover&amp;dq=Lecciones+solemnes+a+las+obras++1630&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwjT_aPst4njAhVk8eAKHTSGBdMQ6wEILzAA#v=onepage&amp;q=Lecciones%20solemnes%20a%20las%20obras%20%201630&amp;f=false"
-                rend="i">Lecciones solemnes a las obras de don Luis de Góngora y Argote</ref><title>,
-                Píndaro andaluz, príncipe de los poetas líricos de España</title>, Madrid: Imprenta
-              del Reino, a costa de Pedro Coello, mercader de libros, 1630.</bibl>
+                rend="i">Lecciones solemnes a las obras de don Luis de Góngora y
+                Argote</ref><title>, Píndaro andaluz, príncipe de los poetas líricos de
+                España</title>, Madrid: Imprenta del Reino, a costa de Pedro Coello, mercader de
+              libros, 1630.</bibl>
             <p rend="noindent"><hi rend="sc">Quirós</hi>, Francisco de:</p>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=XbxdAAAAcAAJ&amp;printsec=frontcover&amp;dq=Obras+de+don+Francisco+de+Quir%C3%B3s+y+aventuras+de+don+Fruela&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwi4yoaq5YnjAhUPlxQKHZzwA74Q6AEILDAA#v=onepage&amp;q=Obras%20de%20don%20Francisco%20de%20Quir%C3%B3s%20y%20aventuras%20de%20don%20Fruela&amp;f=false"
-                rend="i">Obras de don Francisco de Quirós</ref><title>, alguacil propietario de la Casa y
-                Corte de su majestad, y aventuras de don Fruela, debajo de la protección del
+                rend="i">Obras de don Francisco de Quirós</ref><title>, alguacil propietario de la
+                Casa y Corte de su majestad, y aventuras de don Fruela, debajo de la protección del
                 excelentísimo señor don Nicolás María de Guzmán y Garrafa, príncipe de
                 Stillano</title>, Madrid: Melchor Sánchez, 1656.</bibl>
             <p rend="noindent"><hi rend="sc">Roa</hi>, Martín de:</p>
@@ -1203,15 +1227,15 @@
             <p rend="noindent"><hi rend="sc">Salazar Mardones</hi>, Cristóbal de:</p>
             <bibl>—, <ref
                 target="http://bdh.bne.es/bnesearch/biblioteca/Ilustracion%20y%20defensa%20de%20la%20Fabula%20de%20Piramo%20y%20Tisbe%20compuesta%20por%20D.%20Luis%20de%20Gongora%20y%20Argote%20...%20%20%20/qls/Salazar%20Mardones,%20Crist%C3%B3bal/qls/bdh0000086543;jsessionid=01D3252EE60314A8E8056D012D3D6D76"
-                rend="i">Ilustración y defensa de la Fábula de Píramo y Tisbe</ref><title> compuesta por don
-                Luis de Góngora y Argote</title>, Madrid: Imprenta Real, 1636, a costa de Domingo
-              González, mercader de libros.</bibl>
+                rend="i">Ilustración y defensa de la Fábula de Píramo y Tisbe</ref><title> compuesta
+                por don Luis de Góngora y Argote</title>, Madrid: Imprenta Real, 1636, a costa de
+              Domingo González, mercader de libros.</bibl>
             <p rend="noindent"><hi rend="sc">Sotillo de Mesa</hi>, Luis:</p>
             <bibl>—, <ref
                 target="http://www.bibliotecavirtualdeandalucia.es/catalogo/consulta/registro.cmd?id=7805"
-                rend="i">Breve compendio de la vida y milagros del gran siervo de Dios</ref>, <title>el
-                maestro fray Álvaro de Córdoba, de la Orden de Predicadores</title>, Sevilla:
-              Francisco de Lyra, 1628.</bibl>
+                rend="i">Breve compendio de la vida y milagros del gran siervo de Dios</ref>,
+                <title>el maestro fray Álvaro de Córdoba, de la Orden de Predicadores</title>,
+              Sevilla: Francisco de Lyra, 1628.</bibl>
             <p rend="noindent"><hi rend="sc">Venero</hi>, Alonso:</p>
             <bibl>—, <ref
                 target="file:///C:/Users/User/AppData/Local/Temp/Enchiridión%20o%20Manual%20de%20los%20tiempos%20del%20R.%20P.%20Fr.%20Alonso%20Venero%20de%20la%20Orden%20de%20Santo%20Domingo,%20natural%20de%20Burgos.%20Continuando%20las%20cosas"
@@ -1222,8 +1246,7 @@
             <p rend="noindent"><hi rend="sc">Vera y Mendoza</hi>, Fernando de:</p>
             <bibl>—, <ref
                 target="https://books.google.fr/books?id=KOpoAAAAcAAJ&amp;pg=PA11&amp;dq=Panegyrico+por+la+poes%C3%ADa+vera+y+mendoza&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwj2m4if9onjAhUHmRQKHRzoDJAQ6wEILDAA#v=onepage&amp;q=Panegyrico%20por%20la%20poes%C3%ADa%20vera%20y%20mendoza&amp;f=false"
-                rend="i">Panegyrico por la poesía,</ref> Montilla: Manuel
-              de Payva, 1627.</bibl>
+                rend="i">Panegyrico por la poesía,</ref> Montilla: Manuel de Payva, 1627.</bibl>
           </div>
           <div subtype="level3">
             <head>10.2 Obras citadas por el editor</head>
@@ -1269,21 +1292,23 @@
                 Hospital real y general de Nuestra Señora, 1638.</bibl>
               <bibl>—, <ref
                   target="https://books.google.es/books?id=WQgZAAAAYAAJ&amp;printsec=titlepage&amp;client=firefox-a&amp;hl=fr#v=onepage&amp;q&amp;f=false"
-                  rend="i">Aganipe de los cisnes Aragoneses celebrados en el clarín de la fama por el doctor
-                  Juan Francisco Andrés</ref>, ed. Jordán de Asso, Ámsterdam, 1781.</bibl>
+                  rend="i">Aganipe de los cisnes Aragoneses celebrados en el clarín de la fama por
+                  el doctor Juan Francisco Andrés</ref>, ed. Jordán de Asso, Ámsterdam, 1781.</bibl>
               <p rend="noindent"><hi rend="sc">Antonio;</hi> Nicolás:</p>
-              <bibl>—, <ref target="https://archive.org/details/bub_gb_M7w0ZXAUj7cC/page/n8" rend="i">Bibliotheca Hispana Nova, sive hispanorum scriptorum qui
-                    ab anno MD ad MDCLXXXIV floruere notitia,</ref> Matriti [Madrid]: apud
-                Joachimum de Ibarra, 1783-1788.</bibl>
+              <bibl>—, <ref target="https://archive.org/details/bub_gb_M7w0ZXAUj7cC/page/n8"
+                  rend="i">Bibliotheca Hispana Nova, sive hispanorum scriptorum qui ab anno MD ad
+                  MDCLXXXIV floruere notitia,</ref> Matriti [Madrid]: apud Joachimum de Ibarra,
+                1783-1788.</bibl>
               <p rend="noindent"><hi rend="sc">Bermúdez de Pedraza</hi>, Francisco:</p>
               <bibl>—, <ref
                   target="https://books.google.fr/books?id=uQ9UAAAAcAAJ&amp;newbks=1&amp;newbks_redir=0&amp;printsec=frontcover&amp;hl=fr&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"
-                  rend="i">Antigüedad y excelencias de Granada</ref>, Madrid: Luis Sánchez, 1608.</bibl>
+                  rend="i">Antigüedad y excelencias de Granada</ref>, Madrid: Luis Sánchez,
+                1608.</bibl>
               <p rend="noindent"><hi rend="sc">Caro</hi>, Rodrigo:</p>
               <bibl>—, <ref
                   target="https://books.google.fr/books?id=37bJ0yQKgZ4C&amp;printsec=frontcover&amp;dq=Antigüedades+y+principado+de+la+ilustr%C3%ADsima+ciudad+de+Sevilla&amp;hl=fr&amp;newbks=1&amp;newbks_redir=0&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=Antigüedades%20y%20principado%20de%20la%20ilustr%C3%ADsima%20ciudad%20de%20Sevilla&amp;f=false"
-                  rend="i">Antigüedades y principado de la ilustrísima ciudad de Sevilla</ref>, Sevilla:
-                Andrés Grande, 1634.</bibl>
+                  rend="i">Antigüedades y principado de la ilustrísima ciudad de Sevilla</ref>,
+                Sevilla: Andrés Grande, 1634.</bibl>
               <p rend="noindent"><hi rend="sc">García de Salcedo Coronel</hi>, José:</p>
               <bibl>—, <ref
                   target="http://www.cervantesvirtual.com/obra-visor/el-polifemo-de-don-luis-de-gongora--0/html/"
@@ -1292,17 +1317,16 @@
               <p rend="noindent"><hi rend="sc">Góngora</hi>, Luis de:</p>
               <bibl>—, <ref
                   target="https://books.google.fr/books?id=nLccuLPlC08C&amp;printsec=frontcover&amp;dq=todas+las+obras+de+gongora+hoces+1633&amp;hl=fr&amp;sa=X&amp;ved=0ahUKEwim0PaewonjAhVF1hoKHbCJCEIQ6wEILzAA#v=onepage&amp;q=todas%20las%20obras%20de%20gongora%20hoces%201633&amp;f=false"
-                  rend="i">Todas las obras de don Luis de Góngora en varios poemas</ref><title>. Recogidos
-                  por don Gonzalo de Hoces y Córdoba, natural de la ciudad de Córdoba. Dirigidas a
-                  don Francisco Antonio Fernández de Córdoba, marqués de Guadalcázar</title>, etc .
-                Corregido y enmendado en esta última impresión, con privilegio, Madrid: Imprenta del
-                Reino, 1633.</bibl>
+                  rend="i">Todas las obras de don Luis de Góngora en varios poemas</ref><title>.
+                  Recogidos por don Gonzalo de Hoces y Córdoba, natural de la ciudad de Córdoba.
+                  Dirigidas a don Francisco Antonio Fernández de Córdoba, marqués de
+                  Guadalcázar</title>, etc . Corregido y enmendado en esta última impresión, con
+                privilegio, Madrid: Imprenta del Reino, 1633.</bibl>
               <p rend="noindent"><hi rend="sc">González de Resende</hi>, Antonio:</p>
               <bibl>—, <ref
                   target="https://books.google.fr/books?id=zXJJAAAAcAAJ&amp;pg=PA271&amp;dq=Vida+de++don+Juan+de+Palafox+y+Mendoza&amp;hl=fr&amp;newbks=1&amp;newbks_redir=0&amp;sa=X&amp;ved=2ahUKEwjy97al263yAhVDxYUKHYqvACoQ6wEwAnoECAUQAQ#v=onepage&amp;q&amp;f=false"
-                  rend="i">Vida y virtudes del ilustrísimo y excelentísimo
-                    señor don Juan de Palafox y Mendoza</ref>, Madrid: Julián de Paredes,
-                1666.</bibl>
+                  rend="i">Vida y virtudes del ilustrísimo y excelentísimo señor don Juan de Palafox
+                  y Mendoza</ref>, Madrid: Julián de Paredes, 1666.</bibl>
               <p rend="noindent">Lope de Vega:</p>
               <bibl>—, <title>Arcadia: prosas y versos de Lope de Vega</title>, Lérida: Geronymo
                 Margarit y Luys Menescal, 1612.</bibl>
@@ -1314,9 +1338,9 @@
               <p rend="noindent"><hi rend="sc">Morales</hi>, Ambrosio de:</p>
               <bibl>—, <ref
                   target="http://www.bibliotecavirtualdeandalucia.es/catalogo/es/consulta/registro.cmd?id=8644"
-                  rend="i">Corónica general de España que continuaba Ambrosio de Morales, coronista del rey
-                  nuestro señor, don Felipe II</ref>, Madrid, oficina de don Benito Cano, 1791, tomo
-                8.</bibl>
+                  rend="i">Corónica general de España que continuaba Ambrosio de Morales, coronista
+                  del rey nuestro señor, don Felipe II</ref>, Madrid, oficina de don Benito Cano,
+                1791, tomo 8.</bibl>
               <p rend="noindent"><hi rend="sc">Palomino</hi>, Antonio:</p>
               <bibl>—, <title>El Parnaso español pintoresco laureado. Tomo tercero. Con las vidas de
                   los pintores y estatuarios eminentes españoles que con sus heroycas obras han
@@ -1363,8 +1387,8 @@
               <p rend="noindent"><hi rend="sc">Alonso</hi>, Dámaso:</p>
               <bibl>—, «<ref
                   target="http://revistadefilologiaespañola.revistas.csic.es/index.php/rfe/article/view/1105/1394"
-                  rend="i">Lope, don Pedro de Cárdenas y los Cardenios</ref>», <title>Revista de Filología
-                  Española</title>, 40, 1/4, 1956, p. 67-90.</bibl>
+                  rend="i">Lope, don Pedro de Cárdenas y los Cardenios</ref>», <title>Revista de
+                  Filología Española</title>, 40, 1/4, 1956, p. 67-90.</bibl>
               <p rend="noindent"><hi rend="sc">Artigas Ferrando</hi>, Miguel:</p>
               <bibl>—, <title>Don Luis de Góngora y Argote, biografía y estudio crítico</title>,
                 Madrid, Tipografía de la revista de archivos, 1925.</bibl>
@@ -1383,8 +1407,8 @@
               <p rend="noindent"><hi rend="sc">Blanco</hi>, Mercedes y <hi rend="sc">Mulas</hi>,
                 Margherita:</p>
               <bibl>—, ed., Francisco Cascales, <ref
-                target="http://obvil.sorbonne-universite.site/corpus/gongora/1634_cartas-cascales" rend="i"
-                  >Cartas sobre la poesía nueva de don Luis de Góngora</ref> [1634], París,
+                  target="http://obvil.sorbonne-universite.site/corpus/gongora/1634_cartas-cascales"
+                  rend="i">Cartas sobre la poesía nueva de don Luis de Góngora</ref> [1634], París,
                 OBVIL-Sorbonne Université, 2018.</bibl>
               <p rend="noindent"><hi rend="sc">Boillet</hi>, Danielle, <hi rend="sc"
                 >Fragornard</hi>, Marie-Madeleine et <hi rend="sc">Tropé</hi>, Hélène :</p>
@@ -1468,28 +1492,30 @@
                   Góngora</title>, R. Foulché-Delbosc (ed.), New York, Hispanic Society,
                 1921.</bibl>
               <bibl>—, <title>Soledades</title>, Robert Jammes (ed.), Madrid, Castalia, 1994.</bibl>
-              <bibl>—<title>Obras completas</title>, Antonio Carreira (ed.),
-                Madrid, Fundación José Antonio de Castro, 2 vol., 2000.</bibl>
-              <bibl>—, <title xml:lang="en">Sonetos</title>, Biruté Ciplijauskaité (ed.), Madison, University of Wisconsin Press, 1981.</bibl>
-              <bibl>—, <title>Epistolario completo</title>, ed. Antonio Carreira.
-                Concordancias de Antonio Lara Pozuelo, Lausanne-Zaragoza, Hispánica Helvetica-Libros
-                Pórtico, 1999.</bibl>
+              <bibl>—<title>Obras completas</title>, Antonio Carreira (ed.), Madrid, Fundación José
+                Antonio de Castro, 2 vol., 2000.</bibl>
+              <bibl>—, <title xml:lang="en">Sonetos</title>, Biruté Ciplijauskaité (ed.), Madison,
+                University of Wisconsin Press, 1981.</bibl>
+              <bibl>—, <title>Epistolario completo</title>, ed. Antonio Carreira. Concordancias de
+                Antonio Lara Pozuelo, Lausanne-Zaragoza, Hispánica Helvetica-Libros Pórtico,
+                1999.</bibl>
               <p rend="noindent"><hi rend="sc">González y Francés</hi>, Manuel:</p>
               <bibl>—, <title>Góngora, racionero: noticias auténticas de hechos eclesiásticos del
                   gran poeta sacadas de libros y expedientes capitulares</title>, Córdoba, Imprenta
                 y Librería del Diario, 1896. </bibl>
               <p rend="noindent"><hi rend="sc">Izquierdo</hi>, Adrián:</p>
               <bibl>—, ed., fray Hortensio Félix Paravicino, <ref
-                  target="https://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon" rend="i">Vida
-                  y escritos de don Luis de Góngora</ref> [1628], París, OBVIL-Sorbona,
-                2018a.</bibl>
+                  target="https://obvil.sorbonne-universite.fr/corpus/gongora/1628_vida-chacon"
+                  rend="i">Vida y escritos de don Luis de Góngora</ref> [1628], París,
+                OBVIL-Sorbona, 2018a.</bibl>
               <bibl>—, ed., José Pellicer y Tovar, <ref
-                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1630_vida-mayor" rend="i">Vida
-                  de don Luis de Góngora</ref> [1630], París, OBVIL-Sorbona, 2018b.</bibl>
+                  target="https://obvil.sorbonne-universite.fr/corpus/gongora/1630_vida-mayor"
+                  rend="i">Vida de don Luis de Góngora</ref> [1630], París, OBVIL-Sorbona,
+                2018b.</bibl>
               <bibl>—, ed., Anónimo, <ref
-                target="https://obvil.sorbonne-universite.fr/corpus/gongora/1633_vida-hoces" rend="i">Vida
-                  y escritos de don Luis de Góngora</ref> [1633], París, OBVIL-Sorbona,
-                2018c.</bibl>
+                  target="https://obvil.sorbonne-universite.fr/corpus/gongora/1633_vida-hoces"
+                  rend="i">Vida y escritos de don Luis de Góngora</ref> [1633], París,
+                OBVIL-Sorbona, 2018c.</bibl>
               <p rend="noindent"><hi rend="sc">Jammes</hi>, Robert:</p>
               <bibl>—, <title>La obra poética de don Luis de Góngora y Argote</title>, Madrid,
                 Castalia, 1987.</bibl>
@@ -1528,9 +1554,9 @@
               <bibl>—, «Las ediciones de Góngora en el siglo XVII», <title>El Crotalón. Anuario de
                   Filología</title> Española, 1, 1984, p. 921-963.</bibl>
               <p rend="noindent"><hi rend="sc">Navarro Bonilla</hi>, Diego:</p>
-              <bibl>—, <title>Cartas entre espías e inteligencia secreta en el siglo de los
-                validos (Juan de Torres-Gaspar Bonifaz, 1632-1638)</title>, Madrid, Ministerio de
-                Defensa, 2007.</bibl>
+              <bibl>—, <title>Cartas entre espías e inteligencia secreta en el siglo de los validos
+                  (Juan de Torres-Gaspar Bonifaz, 1632-1638)</title>, Madrid, Ministerio de Defensa,
+                2007.</bibl>
               <p rend="noindent"><hi rend="sc">Orozco Díaz</hi>, Emilio: </p>
               <bibl>—, <title>Lope y Góngora frente a frente</title>, Madrid, Gredos, 1973.</bibl>
               <p rend="noindent"><hi rend="sc">Osuna</hi>, Inmaculada:</p>
@@ -1596,8 +1622,8 @@
               <bibl>—, <title>La imprenta en Córdoba</title>, Madrid, Establecimiento tipográfico,
                 Sucesores de Rivadeneyra, 1900.</bibl>
               <p rend="noindent"><hi rend="sc">Valverde Madrid</hi>, José:</p>
-              <bibl>—, «Un retrato de Vaca de Alfaro por Valdés Leal, <title>Separata de la revista Espiel</title>,
-                s. n., 1963, sin paginar.</bibl>
+              <bibl>—, «Un retrato de Vaca de Alfaro por Valdés Leal, <title>Separata de la revista
+                  Espiel</title>, s. n., 1963, sin paginar.</bibl>
               <bibl>—, «El pintor Juan de Alfaro», <title>Estudios de Arte Español</title>, Sevilla,
                 Real Academia de Bellas Artes de Santa Isabel de Hungría, 1974, p.183-204.</bibl>
               <p rend="noindent"><hi rend="sc">Vélez-Sainz</hi>, Julio:</p>
@@ -1616,7 +1642,7 @@
         <p>El señor <name type="polemista">don Luis de Góngora</name> está bautizado en la catedral
           de Córdoba en 12 de julio del año 1561. Consta de la partida de dicho bautismo que se
           hallará en los <title>Libros del Sagrario</title> de ella, folio 22<note place="bottom"
-            resp="editor">La partida de bautismo de Góngora fue publicada por primera vez por
+           >La partida de bautismo de Góngora fue publicada por primera vez por
             Francisco Rodríguez Marín (1907: 162) y dice así: «En 12 de julio de 1561 baptizó
             Bartolomé Pérez a Luis, hijo de don Francisco de Argote y doña Leonor Góngora su muger.
             Fueron compadres don Diego de Sosa y Luis de Angulo, comadres doña Beatriz de Góngora y
@@ -1624,12 +1650,12 @@
             suele situar el 11 de julio de 1561, sin embargo, como afirma Amelia de Paz (2012, 32),
             lo único que podemos aseverar es que fue bautizado el 12 de julio de 1561 en la
             parroquia del Sagrario de Córdoba.</note>.</p>
-        <p><pb n="41"/> [<pb n="f. 149r"/>] <anchor xml:id="_Hlk12530197"/><title>Todas las obras de
+        <p><pb n="41"/> [[f. 149r]] <anchor xml:id="_Hlk12530197"/><title>Todas las obras de
             don</title>
           <seg rend="entetecar">Luis de Góngora</seg><title> en varios poemas. Recogidos por don
             Gonzalo de Hoces y Córdoba, natural de la ciudad de Córdoba. Dirigidas a don Francisco
             Antonio Fernández de Córdoba, marqués de Guadalcázar</title>, etc<note place="bottom"
-            resp="editor">Vaca de Alfaro copia escrupulosamente, sin omitir ni añadir ningún
+           >Vaca de Alfaro copia escrupulosamente, sin omitir ni añadir ningún
             detalle, todos los elementos que figuran en la portada de la edición de las obras de
             Góngora que maneja. Se trata de una reedición de la prínceps de 1633 (Blanco, Elvira,
             Plagnard 2021, 137) expurgada de 36 poemas, según observó Moll (1982: 762). La reedición
@@ -1639,7 +1665,7 @@
             Vaca de Alfaro va a reunir, sin orden aparente y seguramente al hilo de sus lecturas,
             cualquier referencia a un libro impreso que hable de Góngora, diferentes ediciones de
             sus obras, comentadas o no, y una serie de anécdotas sobre la vida del poeta. </note>.
-          Corregido y enmendado en esta última impresión<note place="bottom" resp="editor">Esta es
+          Corregido y enmendado en esta última impresión<note place="bottom">Esta es
             la única frase del párrafo que no aparece literalmente en la portada. Es importante que
             Vaca de Alfaro destaque esta información, porque muestra que tiene conciencia de no
             disponer de toda la producción poética de don Luis –recordemos que 36 poemas fueron
@@ -1652,10 +1678,10 @@
           <seg rend="entetecar">Luis de Góngora y Argote</seg><title>, Píndaro andaluz, príncipe de
             los poetas líricos de España</title>.<title> Escribíalas don</title>
           <seg rend="entetecar">José Pellicer de Salas y Tovar</seg><title>, señor de la casa de
-            Pellicer y cronista de los reinos de Castilla</title>. [<pb n="f. 149v"/>]
+            Pellicer y cronista de los reinos de Castilla</title>. [[f. 149v]]
             <title>Dedicadas al serenísimo señor cardenal infante don Fernando de Austria</title>,
           1630. Con privilegio. <anchor xml:id="_Hlk12530500"/>En Madrid, en la Imprenta del Reino.
-          A costa de Pedro Coello, mercader de libros<note place="bottom" resp="editor">Blanco,
+          A costa de Pedro Coello, mercader de libros<note place="bottom">Blanco,
             Elvira, Plagnard 2021, 123. Aquí también Vaca de Alfaro copia escrupulosamente la
             portada.</note>.</p>
         <p>Después salió comento de ellas por otro autor: <anchor xml:id="_Hlk12530604"
@@ -1667,11 +1693,11 @@
           <seg rend="entetecar">García de Salcedo Coronel</seg>, <title>caballero de la orden de
             Santiago. Tomo segundo. A costa de Pedro Laso, mercader de libros. Con
             privilegio.</title> En Madrid. Por Diego Díaz de la Carrera. Francisco Navarro
-            <emph>fecit</emph><note place="bottom" resp="editor">Esta referencia alude a que
+            <emph>fecit</emph><note place="bottom">Esta referencia alude a que
             Francisco Navarro fue el responsable del grabado calcográfico, fechado en 1644, de la
             portada de la obra, que realmente se acabó de imprimir en 1645 como consta en la fecha
             de la tasa. Véase Ana Gisbert Terol y María Lutgarda Ortells Pérez 2005: 661. </note>
-          año 1644<note place="bottom" resp="editor">Blanco, Elvira, Plagnard 2021,183. Este volumen
+          año 1644<note place="bottom">Blanco, Elvira, Plagnard 2021,183. Este volumen
             contiene el comentario de los sonetos. Cuando empieza a redactar estos apuntes, Vaca de
             Alfaro desconoce los primeros comentarios de Salcedo Coronel al <emph>Polifemo</emph>
             (Blanco, Elvira, Plagnard 2021, 114) y a las <emph>Soledades</emph> (Blanco, Elvira,
@@ -1689,9 +1715,9 @@
           silvas, églogas, octavas, tercetos y el <title>Panegírico al duque de Lerma</title> con
           dos índices: uno de las obras de todo el tomo segundo, con sus argumentos; y otro de las
           materias más notables de esta segunda parte. Con privilegio. En Madrid. Por Diego Díaz de
-          la Carrera. Año 1648<note place="bottom" resp="editor">Blanco, Elvira, Plagnard 2021,
+          la Carrera. Año 1648<note place="bottom">Blanco, Elvira, Plagnard 2021,
             202.</note>.</p>
-        <p>Parecieron [¿entonces?]<note place="bottom" resp="editor">El manuscrito es difícil de
+        <p>Parecieron [¿entonces?]<note place="bottom">El manuscrito es difícil de
             leer.</note> las obras de don Luis el <title>Polifemo</title> y las
             <title>Soledades</title>, y escribieron algunos contra ellas y salió impreso este libro:
             <anchor xml:id="_Hlk12531163"/><title>Epístolas satisfactorias. Una a las objeciones que
@@ -1705,24 +1731,23 @@
           <pb n="43"/>
           <title>Loja. A don Fernando Alonso Pérez del Pulgar, señor de la villa de Salar</title>.
           Con licencia. En Granada, en casa de Blas Martínez, mercader e impresor de libros en la
-          calle de los Libreros. Año de 1635<note place="bottom" resp="editor">Blanco, Elvira,
+          calle de los Libreros. Año de 1635<note place="bottom">Blanco, Elvira,
             Plagnard 2021, 152.</note>. También escribió una <anchor xml:id="_Hlk12531353"
             /><title>Égloga fúnebre a don Luis de Góngora [[f. 151]] de versos entresacados de sus
-            obras</title><note place="bottom" resp="editor">Martín de Ángulo y Pulgar, <emph>Égloga
+            obras</title><note place="bottom">Martín de Ángulo y Pulgar, <emph>Égloga
               fúnebre a don Luis de Góngora de versos entresacados de sus obras</emph>, <anchor
               xml:id="_Hlk12531377"/>Sevilla: Simón Fajardo, 1638. Blanco, Elvira, Plagnard 2021,
             171.</note>.</p>
         <p><pb n="44"/> [[f. 152]] <anchor xml:id="_Hlk12531440"/><title>Ilustración y defensa de la
-            Fábula de Píramo y Tisbe compuesta por don</title>
-          <seg rend="entetecar">Luis de Góngora y Argote</seg><title>, capellán de Su Majestad y
-            racionero de la Santa Iglesia de Córdoba. Escribíalas</title>
-          <seg rend="entetecar">Cristóbal de Salazar Mardones</seg>, <title>criado de Su Majestad y
+            Fábula de Píramo y Tisbe compuesta por don Luis de Góngora y Argote, capellán de Su Majestad y
+            racionero de la Santa Iglesia de Córdoba. Escribíalas
+          Cristóbal de Salazar Mardones, criado de Su Majestad y
             oficial más antiguo de la secretaría del reino de Sicilia. Dedicadas a don Francisco de
             los Cobos y Luna, conde de Ricla, gentilhombre de la cámara de Su Majestad y primogénito
-            del marqués de Camarasa. Con</title><note place="bottom" resp="editor">C] <emph>Em.:
-              cum</emph></note><title> privilegio.</title> En Madrid, en la Imprenta Real. Año de
+            del marqués de Camarasa. Con<note type="app" rend="I"><emph>Em.:
+              cum</emph></note> privilegio.</title> En Madrid, en la Imprenta Real. Año de
           1636. A costa de Domingo González, mercader de libros. En cuarto<note place="bottom"
-            resp="editor">Blanco, Elvira, Plagnard 2021, 158.</note>.</p>
+           >Blanco, Elvira, Plagnard 2021, 158.</note>.</p>
         <p>Don fray <seg rend="entetecar">Juan López</seg>, obispo de Monopoli, en la tercera parte
           de la [[fol.153]] <anchor xml:id="_Hlk12531585"/><title>Historia de santo Domingo y de su
             orden</title>, en el libro segundo, capítulo 24, folio 80, columna segunda, escribiendo
@@ -1733,7 +1758,7 @@
             se abrió la cabeza. Ya desahuciado de los médicos, buscaron el remedio en las oraciones
             del santo. Llevaron su santa reliquia y se la pusieron en la herida y luego comenzó a
             mejorar y sanó enteramente, quedando él y toda su casa devotísimos del santo<note
-              place="bottom" resp="editor">Juan López, <emph>Tercera parte de la Historia General de
+              place="bottom">Juan López, <emph>Tercera parte de la Historia General de
                 Sancto Domingo y de su orden</emph>
               <anchor xml:id="_Hlk12531622"/><emph>de predicadores</emph>, Valladolid: Francisco
               Fernández de Córdoba, 1613, libro segundo, capítulo 24, p. 80. Esta es la primera de
@@ -1753,12 +1778,12 @@
         <p>[[f. 154]] <seg rend="entetecar">Vincentius Carducho</seg>, <emph>academicus florentinus
             et pictor regius in curia Philippi IV Hispaniarum</emph>
           <pb n="45"/>
-          <emph>regis</emph><note place="bottom" resp="editor">Con estas palabras Vaca de Alfaro
+          <emph>regis</emph><note place="bottom">Con estas palabras Vaca de Alfaro
             traduce al latín las informaciones de la portada: «Por Vincencio Carducho, de la ilustra
             Academia de la nobilísima ciudad de Florencia y pintor de su majestad católica».</note>,
           en el <title>Diálogo cuarto de la pintura</title> dice, folio 61, que lo imprimió año de
           1633 en Madrid: «<quote>bien se conoce, pues aquí me ha ofrecido<note place="bottom"
-              resp="editor">El sujeto de este verbo es «la memoria». El personaje que habla en este
+             >El sujeto de este verbo es «la memoria». El personaje que habla en este
               diálogo anuncia que va a enumerar una serie de poetas que «pintan» maravillosos
               cuadros en sus versos, y que los irá enumerando según la memoria le ofrezca nombres.
               El primero en ser nombrado es Góngora, seguramente en razón de las cualidades visuales
@@ -1770,13 +1795,13 @@
             pluma. Todo es gloria de la ciudad de Córdoba, que no solo tuvo a </quote><seg
             rend="entetecar">Séneca</seg>
           <quote>por único filósofo, sino a don Luis de Góngora por insigne poeta<note
-              place="bottom" resp="editor">Vicente Carducho, <anchor xml:id="_Hlk12531718"
+              place="bottom">Vicente Carducho, <anchor xml:id="_Hlk12531718"
                 /><emph>Diálogos de la pintura: su defensa, origen, esencia, definición, modos y
                 diferencias</emph>, Madrid: Francisco Martínez, 1633, f. 61r. Blanco, Elvira,
               Plagnard 2021, 142.</note>».</quote></p>
         <p>[[f. 155]] Preguntándole a don <name type="polemista">Luis de Góngora,</name> estando
           muriéndose, cómo se hallaba dijo: «mis esperanzas en un hilo, mis manos en una
-            maroma»<note place="bottom" resp="editor">El apotegma que recoge aquí Vaca parece ser
+            maroma»<note place="bottom">El apotegma que recoge aquí Vaca parece ser
             una deturpación de otro, de mayor eficacia retórica y mayor gracia, recogido en una
             lista de «Dichos celebres y agudos de don Luis de Góngora» conservados en el ms. 549 de
             la biblioteca Menéndez y Pelayo de Santander. Véase en la introducción, el apartado
@@ -1797,12 +1822,12 @@
             <l> A quien el jayán de Ulises</l>
             <l>cuanta de trinacria punta,</l>
             <l>debe más luz, que a su frente</l>
-            <l>apagó lagriega astucia.</l>
+            <pb n="46"/><l>apagó lagriega astucia.</l>
           </lg>
           <lg>
             <l> Cuyas sacras <title>Soledades</title></l>
             <l>misteriosas, si no mudas,</l>
-            <l>cuanto respecto laspuebla<note place="bottom" resp="editor">C]<emph> Em.</emph>:
+            <l>cuanto respecto las puebla<note type="app" rend="I"><emph> Em.</emph>:
                 pueblas. Corregimos a partir de Paravicino 2002.</note></l>
             <l>tanta deidad las oculta.</l>
           </lg>
@@ -1810,7 +1835,7 @@
             <l> Hijo de Córdoba grande </l>
             <l>padre mayor de las musas</l>
             <l>por quien las voces de España</l>
-            <l>se ven, de bárbaras, cultas<note place="bottom" resp="editor">Blanco, Elvira,
+            <l>se ven, de bárbaras, cultas<note place="bottom">Blanco, Elvira,
                 Plagnard 2021, 75. Hortensio Félix Paravicino y Arteaga (O.S.T.), «Romance
                 describiendo la noche y el día dirigido a D. Luis de Góngora», en <anchor
                   xml:id="_Hlk12532487"/><emph>Obras póstumas divinas y humanas de don Félix de
@@ -1826,7 +1851,7 @@
           en el <title>Panegírico por la poesía</title>, periodo 13, impreso en octavo, año de 1625:
             «<quote>don Luis de Góngora nació en la calle de </quote><seg rend="entetecar"
             >Marcial</seg><quote> y, sin ninguna duda, con mayor sal y no menores nervios en las
-            veras que agudeza en las burlas<note place="bottom" resp="editor"><anchor
+            veras que agudeza en las burlas<note place="bottom"><anchor
                 xml:id="_Hlk12532682"/>Fernando de Vera y Mendoza, <emph>Panegírico por la
                 poesía</emph>, Montilla: Manuel de Payua, 1627, f. 53v.<quote>Véase Delgado Moral
                 (2013, 285, n. 15). </quote></note>»</quote>.</p>
@@ -1837,34 +1862,18 @@
             <l>En el mar de dones</l>
             <l>nacen estrellas</l>
             <l>flor de lises, leones,</l>
-            <l>flechas y ruedas<note place="bottom" resp="editor">Góngora mantuvo amistad con el
-                obispo de Córdoba, Diego de Mardones, que accedió al cargo el 26 de marzo de 1607
-                (Artigas 1925: 97) y al que dedicó composiciones como el soneto que comienza «Un
-                culto risco en venas hoy suaves» [OC285] de 1615. Según Amelia de Paz (2012: 40)
-                Mardones fue «el prelado con quien más estrecha amistad sostuvo Góngora», así como
-                su mentor. También Ramírez de Arellano (1921: 236) y Artigas (1925: 199, nota 2)
-                glosan esta relación de amistad, apoyándose precisamente en este soneto. Los cuatro
-                versos (heptasílabos y pentasílabos), que forman una seguidilla, son presentados por
-                Vaca de Alfaro como resultado de una improvisación fulgurante («dijo de repente») y
-                constituyen una descripción pormenorizada del escudo de fray Diego de Mardones: en
-                un campo cuartelado se ven «1. Cinco haces en sotuer [las flechas]. 2. Un león
-                rampante con una flor de lis. 3. Trece estrellas ordenadas en filas de cuatro, más
-                una. 4. Una rueda». (Jordano Barbudo 2010). La misma estudiosa explica que Diego de
-                Mardones hizo gala de su blasón, «como ningún otro representante de la jerarquía
-                cordobesa. […] Su espléndida contribución económica a las obras y ornamentos de la
-                capilla mayor de la catedral y sus continuas y abultadas dádivas debieron granjearle
-                el favor del cabildo que permitió a Mardones, como única y exclusiva potestad, el
-                construir su sepultura en el altar mayor». Ahí está el mar de dones aludido en la
-                seguidilla. El mismo retruécano entre «Mardones» y «dones» sería desarrollado
-                posteriormente en el terceto final de un soneto de 1615: «Si armonïoso leño silva
-                mucha / atraer pudo, vocal Risco atraya / <emph>un Mar, dones</emph> hoy todo a sus
-                arenas».</note>.</l>
+            <l>flechas y ruedas.</l>
           </lg>
         </quote>
         <p>[[f. 158]]</p>
-        <p rend="center noindent b">Escudo del obispo fray Diego de Mardones en la catedral de
-          Córdoba. Foto sacada por María Ángeles jordano Barbudo y publicada con autorización
-          suya.</p>
+
+        <figure>
+          <graphic
+            url="https://github.com/gongoradigital/img/blob/gh-pages/1660_varones-ilustres/1660_varones-ilustres_fig1.jpeg"/>
+          <head>Fig. 1: Escudo del obispo fray Diego de Mardones en la catedral de
+            Córdoba. Foto sacada por María Ángeles Jordano Barbudo y publicada con autorización
+            suya.</head>
+        </figure>        <p rend="center noindent b"></p>
         <p>Don<name type="polemista"> </name><seg rend="entetecar">Tomás Tamayo de Vargas</seg><name
             type="polemista"> </name>en las notas y adiciones al <title>Enchiridión de los tiempos
             de fray Alonso Venero</title>, folio 309, dice: «<quote>Año 1627 en 22 de mayo, en
@@ -1873,7 +1882,7 @@
           <quote>segundo de <pb n="47"/> España, en nada inferior al primero en la suavidad de los
             números, agudeza de conceptos, festividad de los donaires, picante de las burlas y en
             las ingeniosas e inimitables travesuras con que ilustró la lengua castellana en los
-            versos que fueron propiamente de ellos<note place="bottom" resp="editor"><anchor
+            versos que fueron propiamente de ellos<note place="bottom"><anchor
                 xml:id="_Hlk12533083"/><emph>Enchiridion o Manual de los tiempos del R. P. Fr.
                 Alonso Venero de la Orden de Santo Domingo, natural de Burgos. Continuando las cosas
                 más dignas de memoria, que han sucedido desde el año de 1582 hasta el de
@@ -1891,7 +1900,7 @@
               aunque principalmente en Europa y en España, entre 1582 y 1640, y son organizados de
               forma cronológica. Es muy significativo que la muerte de Góngora sea considerada como
               un acontecimiento digno de ser mencionado entre los hitos más importantes de la
-              historia del período. </note> [sic]»<note place="bottom" resp="editor">No queda muy
+              historia del período. </note> [sic]»<note place="bottom">No queda muy
               claro en esta cita a qué se refiere el pronombre «ellos»: ¿errata por él?</note>.
           </quote></p>
         <p>[[f. 159]] <name type="polemista">Fray </name><seg rend="entetecar">Ludovicus Sotillo de
@@ -1905,7 +1914,7 @@
             y, llegando a estar desahuciado de los médicos, lo encomendaron al glorioso santo fray
             Álvaro y, en tocándole una reliquia suya, se halló sano milagrosamente con admiración de
             la gente que lo había visto y de los médicos y cirujanos que le habían
-            curado»</title><note place="bottom" resp="editor">Luis Sotillo de Mesa (O.P.) [prior del
+            curado»</title><note place="bottom">Luis Sotillo de Mesa (O.P.) [prior del
             convento de Scala Coeli de Córdoba], <emph>Breve compendio de la vida y milagros del
               gran siervo de Dios, el maestro fray Álvaro de Córdoba, de la Orden de
               Predicadores</emph>, Sevilla: por Francisco de Lyra, 1628, f. 38v. Hay un ejemplar en
@@ -1928,7 +1937,7 @@
         <quote>
           <lg>
             <l>Muerto me lloró el Tormes en su orilla,</l>
-            <l>en un parasismal sueño profundo <note place="bottom" resp="editor">[OC101.1-2] Vaca,
+            <l>en un parasismal sueño profundo <note place="bottom">[OC101.1-2] Vaca,
                 como Pellicer en su <emph>Vida</emph> [1630_vida_mayor], yerra al situar la
                 composición del soneto durante el tiempo en que Góngora estuvo estudiando en
                 Salamanca. En realidad, fue escrito en 1593, con ocasión de su visita a Salamanca
@@ -1942,8 +1951,7 @@
         <p>[[f. 161]] Imprimiéronse también las obras de don<name type="polemista"> Luis de
             Góngora</name> algunos años antes del de 1634, <anchor xml:id="_Hlk11858651"/><anchor
             xml:id="_Hlk11859644"/>como consta en la <title>Vida</title> de don <seg
-            rend="entetecar">Pedro de Cárdenas y Angulo</seg><note place="bottom" resp="editor"
-            >Consideramos que la «vida de don Pedro de Cárdenas y Angulo» a la que remite Vaca de
+            rend="entetecar">Pedro de Cárdenas y Angulo</seg><note place="bottom">Consideramos que la «vida de don Pedro de Cárdenas y Angulo» a la que remite Vaca de
             Alfaro designa los apuntes biográficos <anchor xml:id="_Hlk12534521"/>que este dedicó a
             Pedro de Cárdenas y Angulo en los <emph>Varones ilustres de Córdoba</emph> (BCS,
             ms. 59-2-45, f. 78-79), es decir, otro fragmento del manuscrito que estamos editando. El
@@ -1967,12 +1975,12 @@
             sobre su existencia y/o conservación. Sobre la figura de Cárdenas y Angulo, véanse los
             estudios de Homero Serís (1955 y 1960), Dámaso Alonso (1956) y sobre todo de la Torre
             (2001).</note>.</p>
-        <p><pb n="48"/> [<pb n="f. 162r"/>] <quote rend="i">Don <name type="polemista">Ludovicus de
+        <p><pb n="48"/> [[f. 162r]] <quote rend="i">Don <name type="polemista">Ludovicus de
               Gongora et Argote</name> sepultus iacet Cordubae in templo maximo in capella sancti
             Bartholomei, nullum epitaphium fuit inscriptum inibi, nullum enim sufficiens, cui elogia
             plurima non sufficiunt, ob ignaviam ingeniorum corduvensium qui, licet ingeniosi, ignavi
             satis sunt, poteram enim encomiasticon apponere honorarium</quote><note place="bottom"
-            resp="editor">‘Don Luis de Góngora y Argote yace sepultado en la Iglesia Mayor de
+           >‘Don Luis de Góngora y Argote yace sepultado en la Iglesia Mayor de
             Córdoba, en la capilla de san Bartolomé. Ningún epitafio fue inscrito allí, pues ninguno
             es suficiente, para aquel a quien no bastan los máximos elogios, [también] por la pereza
             de los ingenios cordobeses, que, aunque ingeniosos, son bastante perezosos, porque yo
@@ -1985,7 +1993,7 @@
             composiciones.</note>.</p>
         <p>Murió don <name type="polemista">Luis de Góngora </name>falto de memoria, pero no de
           juicio. Contome, en 16 de agosto de 1660, don Juan de Godoy, sobrino del ilustrísimo
-          arzobispo de Santiago don Juan de San Clemente<note place="bottom" resp="editor">El tío
+          arzobispo de Santiago don Juan de San Clemente<note place="bottom">El tío
             del testigo que transmitió la anécdota fue Juan de San Clemente y Godoy y fue «hijo de
             Rodrigo Páez de Castillejo y Godoy, caballero de Córdoba, y de su mujer doña Leonor
             Fernández de Torquemada, hermana del arzobispo [Juan de Torquemada San Clemente
@@ -2005,7 +2013,7 @@
           decir misa?». «Sí, señor». Y que prosiguieron [[162 v]] hablando de otras cosas y de allí
           a un rato volvió a preguntar: «¿hay quién salga a decir misa?». Y esto olvidándose que lo
           había preguntado antes. Y que, después, preguntó a don Juan: «¿quién es el corregidor de
-          Córdoba?» y se le respondió: «don Gaspar Bonifaz<note place="bottom" resp="editor">Juan de
+          Córdoba?» y se le respondió: «don Gaspar Bonifaz<note place="bottom">Juan de
             Torres-Gaspar Bonifaz fue celebrado por Lope de Vega como poeta en la «Silva octava» de
             su <emph>Laurel de Apolo</emph> (1630) y fue gobernador de Aranjuez y corregidor de
             Córdoba desde el 2 de marzo de 1626. Se le recuerda sobre todo como espía mayor del
@@ -2017,7 +2025,7 @@
             (Góngora 1999: 208). </note>» y que dijo: «¡ay, que es mi amigo!». Y que, después, lo
           volvió a preguntar de allí a un rato. No murió falto de juicio porque en cualquier materia
           discurría muy bien y principalmente de lo sucedido en sus mocedades<note place="bottom"
-            resp="editor">El testimonio oral que reproduce Vaca de Alfaro es único y ha sido tomado
+           >El testimonio oral que reproduce Vaca de Alfaro es único y ha sido tomado
             en consideración por Artigas (1925: 195) como prueba de la falta de memoria que le quedó
             a Góngora tras la apoplejía que padeció en Madrid entre finales de febrero y principios
             de marzo de 1626.</note>.</p>
@@ -2025,7 +2033,7 @@
           <title>Solitudinibus</title>
           <seg rend="entetecar">don Ludovici de Góngora</seg><emph>, vel quia difficile intellectu
             opus, vel quia obscurum ideoque ipse respondens et satisfaciens, sic scribit</emph><note
-            place="bottom" resp="editor">‘Muchos tuvieron mala opinión de <emph>Las Soledades</emph>
+            place="bottom">‘Muchos tuvieron mala opinión de <emph>Las Soledades</emph>
             de don Luis de Góngora, bien por el difícil sentido, bien por la oscuridad de la obra, y
             por ello él mismo respondiendo y explicando escribe así’. Otro fragmento en latín sin
             mención explícita de fuente que, creemos, fue redactado por el propio Vaca de Alfaro.
@@ -2039,15 +2047,17 @@
             Sobre la compleja historia editorial de las obras impresas de Góngora, véase Moll
             1984.</note> folio 16: «<quote>Soneto primerocontra los que dijeron mal de las
             </quote><title>Soledades</title><quote> de don</quote><seg rend="entetecar">
-            Luis</seg><quote>, “Con poca luz, y menos disciplina<note place="bottom" resp="editor"
+            Luis</seg><quote>, “Con poca luz, y menos disciplina<note place="bottom"
               >[OC449.1] Blanco, Elvira, Plagnard 2021, 23.</note>”»</quote>. <emph>Et folio</emph>
-          20 <emph>sic scribit</emph><note place="bottom" resp="editor">‘Y en el folio 20 escribe
+          20 <emph>sic scribit</emph><note place="bottom">‘Y en el folio 20 escribe
             así’.</note>: «<quote>Soneto vigesimoctavocontra los que dijeron mal del
             </quote><title>Polifemo</title><quote> de don Luis»:</quote></p>
         <quote>
-          <lg><l>Pisó las calles de Madrid el fiero</l>
-            <l><pb n="49"/> monóculo galán de Galatea<note place="bottom" resp="editor">[OC288.1-2]
-                Blanco, Elvira, Plagnard 2021, 21.</note>.</l></lg>
+          <lg>
+            <l>Pisó las calles de Madrid el fiero</l>
+            <l><pb n="49"/> monóculo galán de Galatea<note place="bottom">[OC288.1-2]
+                Blanco, Elvira, Plagnard 2021, 21.</note>.</l>
+          </lg>
         </quote>
         <p rend="noindent"><emph>Et folio</emph> 27: «<quote>Soneto cuartocontra los que dijeron mal
             de las </quote><title>Soledades</title>
@@ -2055,17 +2065,17 @@
         <quote>
           <lg>
             <l>Restituye a tu mudo horror divino</l>
-            <l>amiga soledad […]<note place="bottom" resp="editor">[OC290.1-2] Blanco, Elvira,
+            <l>amiga soledad […]<note place="bottom">[OC290.1-2] Blanco, Elvira,
                 Plagnard 2021, 24.</note>.</l>
           </lg>
         </quote>
         <p><emph>Et folio</emph> 60: «<quote>Décima contra los que dijeron mal de las
             </quote><title>Soledades</title><quote>: “Por la estafeta he sabido”»<note
-              place="bottom" resp="editor">[OC453.1] Blanco, Elvira, Plagnard 2021, 22.</note>.
+              place="bottom">[OC453.1] Blanco, Elvira, Plagnard 2021, 22.</note>.
           </quote></p>
         <p><emph>Et folio</emph> 62: otra «<quote>Décima a una décima [<emph>sic</emph>] que el
             </quote><seg rend="entetecar">conde de Villamediana</seg><quote> [<emph>sic</emph>] no
-              [<emph>sic</emph>]<note place="bottom" resp="editor">Los editores modernos del poema
+              [<emph>sic</emph>]<note place="bottom">Los editores modernos del poema
               (Carreira 2008: 431) consideran que Góngora escribió esté décima «En agradecimiento de
               una décima que el conde de Saldaña hizo en defensa del <emph>Polifemo</emph> y
                 <emph>Soledades</emph>». Más allá de la aclaración de la identidad del destinatario,
@@ -2073,13 +2083,13 @@
               errata de la edición Hoces, que Vaca de Alfaro copia literalmente. </note> hizo en
             favor del </quote><title>Polifemo</title><quote> y
             </quote><title>Soledades</title><quote>: “Royendo sí, mas no tanto”»</quote><note
-            place="bottom" resp="editor">[OC275.1] Blanco, Elvira, Plagnard 2021, 19.</note>.</p>
+            place="bottom">[OC275.1] Blanco, Elvira, Plagnard 2021, 19.</note>.</p>
         <p>[[f. 164]] <seg rend="entetecar">Lope de Vega Carpio</seg> en su <title>Arcadia</title>,
           folio 254, introduce a Frondoso «<quote>descubriendo una cortina que una dorada puerta
             cubría»</quote> y, dentro, «<quote>algunos retratos que para tiempos futuros estaban
             puestos. […] Levantada la cortina, por otra parte miraba a los dos hermanos Lupercios,
             gloria de Aragón, a don </quote><name type="polemista">Luis de Góngora
-            </name><quote>[…]»</quote><note place="bottom" resp="editor">La foliación que indica
+            </name><quote>[…]»</quote><note place="bottom">La foliación que indica
             Vaca de Alfaro permite deducir que no está citando la prínceps de 1602, sino alguna de
             las múltiples reediciones. Consultamos: <anchor xml:id="_Hlk12536096"/><emph>Arcadia:
               prosas y versos de Lope de Vega</emph>, Lérida: por Geronymo Margarit i Luys Menescal,
@@ -2097,19 +2107,21 @@
           en la <title>Primera parte del segundo tomo</title>, folio 697, está un soneto de don Luis
           de Góngora que empieza:</p>
         <quote>
-          <lg><l>No más moralidades de corrientes,</l>
-            <l>bien seande arroyuelos, bien de ríos<note place="bottom" resp="editor"
-                >[OC448.1-2]</note>.</l></lg>
+          <lg>
+            <l>No más moralidades de corrientes,</l>
+            <l>bien seande arroyuelos, bien de ríos<note place="bottom"
+                >[OC448.1-2]</note>.</l>
+          </lg>
         </quote>
         <p rend="noindent">Y en el comento dice don <seg rend="entetecar">García de Salcedo
             Coronel</seg>: «<quote>Estuvo preso don Luis</quote><name type="polemista"
             > </name><quote>por haber compuesto una letra que comienza: “Arroyo, ¿en qué ha de
-              parar…?”<note place="bottom" resp="editor">[OC447.1]</note>.Y habiendo salido de la
+              parar…?”<note place="bottom">[OC447.1]</note>.Y habiendo salido de la
             prisión, escribió este soneto en que propone, escarmentado, retirarse de todos
-              [sic]<note place="bottom" resp="editor">La posible errata (¿«todos» por «todo»?) está
+              [sic]<note place="bottom">La posible errata (¿«todos» por «todo»?) está
               en Salcedo Coronel.</note>, sin tratar de escribir nada de que le pudiese resultar
             daño, <pb n="50"/> juzgando a locura hacer otra cosa»</quote><note place="bottom"
-            resp="editor">Blanco, Elvira, Plagnard 2021, 183. <emph>Segundo tomo de las obras de don
+           >Blanco, Elvira, Plagnard 2021, 183. <emph>Segundo tomo de las obras de don
               Luis de Góngora comentadas por don García de Salcedo Coronel, caballero de la orden de
               Santiago. Primera parte</emph>, Madrid: Diego Díaz de la Carrera, 1644, p. 697. A Vaca
             de Alfaro le interesa particularmente este fragmento del comentario, porque en él
@@ -2117,13 +2129,13 @@
             realidad, ningún biógrafo moderno de Góngora (Artigas 1925, Jammes 1987 o Paz 2012)
             confirma que Góngora haya sido encarcelado por alguna de sus poesías, ni por otro
             motivo.</note>.</p>
-        <p>[[f. 166]] <emph>Magister</emph><note place="bottom" resp="editor">‘Maestro’.</note>
+        <p>[[f. 166]] <emph>Magister</emph><note place="bottom">‘Maestro’.</note>
           <seg rend="entetecar">Bartolomé Jiménez Patón</seg>, en su <title>Elocuencia española en
             arte</title>, capítulo 12 «De las figuras de dicción», folio 78, <emph>ait</emph>:
             «<quote>y también está lleno </quote><seg rend="entetecar">Marcial</seg>,<quote> aunque
             en verso castellano se han hecho cosas de mucho artificio en este modo, cual en el
             soneto que hizo don Luis de Góngora, nuevo Marcial castellano»<note place="bottom"
-              resp="editor"><anchor xml:id="_Hlk12536698"/>Bartolomé Jiménez Patón, <emph>Elocuencia
+             ><anchor xml:id="_Hlk12536698"/>Bartolomé Jiménez Patón, <emph>Elocuencia
                 española en arte</emph>, Toledo: Thomás de Guzmán, 1604, f. 78. Este fragmento es
               citado por otros defensores de Góngora, por ejemplo <anchor xml:id="_Hlk12523602"
               />Francisco Andrés de Uztarroz, <emph>Defensa de la patria de san Lorenzo</emph>,
@@ -2135,7 +2147,7 @@
             Salceda</title>, folio 540, capítulo 10, da noticia de don Luis: «<quote>Soneto de don
             Luis de Góngora»,</quote></p>
         <quote>
-          <l>Pender de un leño, traspasado el pecho<note place="bottom" resp="editor"
+          <l>Pender de un leño, traspasado el pecho<note place="bottom"
                 >[OC116.1]<anchor xml:id="_Hlk12536770"/> Pedro Gonzalo de Mendoza, <emph>Historia
                 del Monte Celia de Nuestra Señora de la Salceda</emph>, Granada: Juan Muñoz, 1616,
               p. 540, copia y comenta, desde el punto de vista religioso, el soneto que Góngora
@@ -2144,7 +2156,7 @@
         </quote>
         <p>[[f. 168]] <seg rend="entetecar">Lope de Vega</seg> en la <title>Filomena</title> trató
           muy a la larga de don Luis y, al fin, acaba con un soneto elegantísimo<note place="bottom"
-            resp="editor">Para rematar la «Respuesta de Lope de Vega» a un «Papel que le escribió un
+           >Para rematar la «Respuesta de Lope de Vega» a un «Papel que le escribió un
             señor de estos reinos a Lope de Vega Carpio en razón de la nueva poesía», dos epístolas
             publicadas en <emph>La Filomena</emph> (1621). Blanco, Elvira, Plagnard 2021, 62. Lope
             reedita un soneto que había compuesto en otras circunstancias para demostrar la estima
@@ -2164,7 +2176,7 @@
             <l>Ninguno a la difícil cumbre vino</l>
             <l>por donde doctamente peregrinas,</l>
             <l>pues tú para ser único has hallado</l>
-            <l>camino, ni sabido, ni imitado.<note place="bottom" resp="editor">Blanco, Elvira,
+            <l>camino, ni sabido, ni imitado.<note place="bottom">Blanco, Elvira,
                 Plagnard 2021, 83. Juan Pérez de Montalbán, <anchor xml:id="_Hlk12536996"
                   /><emph>Orfeo en lengua castellana y la décima musa</emph>, Madrid: Viuda de
                 Alonso Martín, 1624, f. 35. Aquí también Vaca de Alfaro selecciona el fragmento que
@@ -2178,7 +2190,7 @@
         </quote>
         <p>[[f. 169]] El padre <seg rend="entetecar">Francisco de Castro</seg> en su
             <title>Retórica</title>, en el título del epigrama de don Luis en loor de dicha
-            <title>Retórica</title>, le llama […]<note place="bottom" resp="editor">Vaca de Alfaro
+            <title>Retórica</title>, le llama […]<note place="bottom">Vaca de Alfaro
             (o el copista del manuscrito apócrifo que editamos) no concreta cómo llama Francisco de
             Castro en su <emph>Retórica</emph> a Luis de Góngora, pero podemos saberlo consultando
             su obra: <anchor xml:id="_Hlk12537051"/><emph>De Arte Rhetorica. Dialogi quatuor</emph>,
@@ -2195,7 +2207,7 @@
         <p>[[f. 170]] Don <seg rend="entetecar">Luis de la Carrera</seg> en el prólogo al libro de
           sus <title>Rimas</title> le llama: «<quote>el segundo </quote><seg rend="entetecar"
             >Séneca</seg>
-          <quote>castellano»</quote><note place="bottom" resp="editor">Blanco, Elvira, Plagnard
+          <quote>castellano»</quote><note place="bottom">Blanco, Elvira, Plagnard
             2021, 90. Lope de Vega se oculta bajo el seudónimo de Luis de la Carrera en el prólogo
             de los <anchor xml:id="_Hlk12537449"/><emph>Triunfos divinos con otras rimas
               sacras</emph>, Madrid: viuda de Alonso Martin, 1625, para celebrar su propia obra,
@@ -2214,7 +2226,7 @@
             ellos son bárbaros imitadores, ni otras personas doctas, que con algunas voces latinas
             autorizaron sus versos». Al no haber visto directamente este texto, Vaca de Alfaro no
             puede sospechar su carga polémica y lo presenta entonces como elogio sin segundas
-            intenciones de Góngora.</note>. No he visto este libro<note place="bottom" resp="editor"
+            intenciones de Góngora.</note>. No he visto este libro<note place="bottom"
             >Esta afirmación del autor del manuscrito indica su gusto por contrastar de primera mano
             la información que aporta.</note>.</p>
         <p><pb n="51"/> [[f. 171]] Don <seg rend="entetecar">García de Salcedo Coronel</seg> en sus
@@ -2224,7 +2236,7 @@
         <quote>
           <lg><l>¿Qué lamentable acento doloroso</l>
             <l>en los hesperios montes repetido</l>
-            <l>funestamente suena lastimoso?, etc<note place="bottom" resp="editor">Blanco, Elvira,
+            <l>funestamente suena lastimoso?, etc<note place="bottom">Blanco, Elvira,
                 Plagnard 2021, 101. José García de Salcedo Coronel, <anchor xml:id="_Hlk12537517"
                   /><emph>Rimas</emph>, Madrid: Juan Delgado, 1627, f. 98v-103r: «En la muerte del
                 famoso y singular poeta don Luis de Góngora. Elegía V». Los tres versos citados son
@@ -2239,7 +2251,7 @@
             García Solana, secretario de la Junta</title>. Impresa en cuarto en Antequera, año de
           1637. En la competencia tercera pidióse un romance, y dice: «<quote>el tercero premio
             serán las </quote><title>Obras de don Luis de Góngora</title><quote>, encuadernadas en
-            vitela»</quote><note place="bottom" resp="editor"><anchor xml:id="_Hlk12537612"
+            vitela»</quote><note place="bottom"><anchor xml:id="_Hlk12537612"
               /><emph>Flores poéticas y justa que la nobilísima ciudad de Antequera hizo a el
               triunfo de los desagravios de el Santísimo Sacramento. Recopiladas por el licenciado
               Martín García Solana, secretario de la justa. Y dirigidas a don Diego Luis de Castro y
@@ -2252,7 +2264,7 @@
           médico le curase con toda puntualidad, asistencia y vigilancia porque, en estando bueno,
           deseaba llevarlo a cazar liebres con podencos. No perdonaba a nadie falta alguna. Motejole
           de morisco, que dicen lo era de los de la expulsión, a los cuales llaman podencos o
-          perros. Se llamaba el doctor Mendoza<note place="bottom" resp="editor">Vuelve a aparecer
+          perros. Se llamaba el doctor Mendoza<note place="bottom">Vuelve a aparecer
             una serie de anécdotas, seguramente de transmisión oral, en las que se pueden reconocer
             ecos a determinadas piezas poéticas de Góngora. Aquí, al autorretrato burlesco del
             soneto «Ahora que estoy despacio», 1588, en el que Góngora evocaba su afición a la caza:
@@ -2285,16 +2297,16 @@
           pregunta: «¿y el señor licenciado estudia?». Dijo su padre: «sí, señor». Y prosiguió: «¿y
           en qué se ejercita?». Respondía su padre: «es poeta». Respondió don Luis: «más vale que
           sea poeta, que no aprenda a ser puto». Motejole con agudeza la falta que había en algunos
-          de los parientes del estudiante<note place="bottom" resp="editor">Otro dicho irreverente
+          de los parientes del estudiante<note place="bottom">Otro dicho irreverente
             atribuido a Góngora y de dudosa autenticidad. La vulgaridad no está ausente de los
             versos de Góngora, pero siempre se suele acompañar de ingenio, gracia y donaire,
             ausentes en este caso. Véase nuestro comentario a la siguiente anécdota.</note>.</p>
         <p>Pasaba don Luis a pie por una calle y se encontró con unas mujeres, y había mucho lodo;
           ellas dijeron: «pase vuestra merced, que no podemos pasar, que está atajada la calle».
-            Estorbaban<note place="bottom" resp="editor">C] <emph>Em</emph>.: estorban.</note> las
+          Estorbaban<note type="app" rend="I"><emph>Em</emph>.: estorban.</note> las
           narices de [[f. 174]] don Luis para pasar (que eran muy grandes). Como ellas lo sentían
           así y por eso se detenían, asió don Luis las narices, apartólas con la mano a un lado y
-          les dijo: «pasad putas»<note place="bottom" resp="editor">La anécdota construye la imagen
+          les dijo: «pasad putas»<note place="bottom">La anécdota construye la imagen
             de un Góngora capaz de reírse de sí mismo (algo compatible con el ethos de varios
             autorretratos burlescos), pero de una vulgaridad zafia y tosca, muy alejada del
             «donaire» que caracteriza la escritura de Góngora, definido por Mercedes Blanco de la
@@ -2310,7 +2322,7 @@
           envía a vuestra merced este regalo». Respondió don Luis: «diga que la fuente es para mí y
           la cebada para su amo», y quedose con la fuente de plata.</p>
         <p>Admirábase el doctor Ambrosio de Morales del ingenio de don Luis, siendo de poca edad y
-          le decía: «¡Oh qué gran ingenio tienes, muchacho!»<note place="bottom" resp="editor">Vaca
+          le decía: «¡Oh qué gran ingenio tienes, muchacho!»<note place="bottom">Vaca
             de Alfaro es la única fuente antigua que transmite esta anécdota, que aprovechó Artigas
             en su biografía de Góngora (1925: 26). A falta de poder verificarse, es verosímil, dada
             la relación de amistad que existía entre Ambrosio de Morales (1513-1591) y don Francisco
@@ -2322,7 +2334,7 @@
           Córdoba, dando a entender la natural inclinación a hacer mal de los muchachos de su
           patria.</p>
         <p>Estaba don Luis de Góngora en Madrid, en una conversación donde había diferentes señores
-          grandes y títulos, y habiendo [p. 53] dicho uno no sé qué de sutileza, comenzó a reír
+          grandes y títulos, y habiendo <pb n="53"/> dicho uno no sé qué de sutileza, comenzó a reír
           mucho don Luis, de tal forma que se le saltaron las lágrimas. Y habiendo reparado el
           marqués de Astorga, que fue un grandísimo necio, le envió a decir que se había maravillado
           mucho que en él hubiese causado aquel dicho dos efectos tan contrarios, y le respondió don
@@ -2358,12 +2370,12 @@
           etc. Con licencia. En Sevilla, por Nicolás Rodríguez, en calle de Génova, en este año de
           1648 y a su costa. En cuarto. Y en el folio 3 se lee la <title>Vida de don Luis de
             Góngora</title>, escrita por un amigo suyo, que trasladada <emph>ad litteram</emph> es
-          como sigue<note place="bottom" resp="editor">Es curioso que se mencione aquí la presencia
+          como sigue<note place="bottom">Es curioso que se mencione aquí la presencia
             de esta <emph>Vida de Góngora</emph> en los preliminares de la reedición de 1648, cuando
             no se señaló en las anteriores ediciones citadas, en cuyos preliminares también figura
             indefectiblemente desde la prínceps de 1633 [1633_hoces-vida].</note>:</p>
-        <p>[[ff. 176-184]] [p. 53-61] <quote>Vida y escritos de don Luis de Góngora</quote> […]<note
-            place="bottom" resp="editor">Aquí Vaca de Alfaro copia el texto titulado «Vida y
+        <pb n="53 [...] p. 61"/><p/><p>[[ff. 176-184]] <quote>Vida y escritos de don Luis de Góngora</quote> […]<note
+            place="bottom">Aquí Vaca de Alfaro copia el texto titulado «Vida y
             escritos de don Luis de Góngora» (Blanco, Elvira, Plagnard 2021, 137) que forma parte de
             los preliminares desde la prínceps de la edición Hoces, y que se ha vuelto a publicar en
             las sucesivas reediciones del libro (Moll 1984). Como el texto se edita en el marco del
@@ -2374,7 +2386,7 @@
             gentilhombre de la cámara de Su Majestad, etc. Con licencia. En Zaragoza, por Pedro
             Verges. Año 1643. A costa de Pedro Esquer, mercader de libros</title>. En octavo parvo.
             <emph>Ex bibliotheca licenciati Alphonsi de Armenta, chirurgi Cordubensis</emph><note
-            place="bottom" resp="editor">‘De la biblioteca del licenciado Alfonso de Armenta,
+            place="bottom">‘De la biblioteca del licenciado Alfonso de Armenta,
             cirujano cordobés’. Esta frase es un <emph>ex-libris</emph> quizás realmente escrito en
             el volumen que consulta Vaca de Alfaro, o que añade él como nota personal en sus
             apuntes. Armenta o Armentia es un apellido noble en Córdoba. Según consta, este linaje
@@ -2397,15 +2409,15 @@
             ponerlas en manos de Vuestra Excelencia y las [he] impreso en pequeño volumen, para que
             Vuestra Excelencia las pueda traer consigo en el camino y campaña, etc»</quote>.
             <emph>Et folio</emph> 5º<emph> legitur</emph>: «<quote>Vita Don Ludovici de
-            Gongora»</quote>, <emph>quae incipit sic</emph><note place="bottom" resp="editor">‘Que
+            Gongora»</quote>, <emph>quae incipit sic</emph><note place="bottom">‘Que
             comienza así’. La escrupulosidad desplegada aquí marca el interés de Vaca de Alfaro por
             este tipo de información biográfica. Al apuntar las frases iniciales y finales pudo
             comprobar que la <emph>Vida de Góngora</emph> contenida en esta reedición era
             rigurosamente la misma que la que había copiada más arriba procedente de la edición de
               <emph>Todas las obras</emph> de 1648.</note>: «<quote>Vida y escritos de don Luis de
             Góngora»</quote>. <emph xml:lang="fr">Et postea incipit</emph><note place="bottom"
-            resp="editor">‘Y luego comienza’.</note>: «<quote xml:lang="fr">Fue breve, etc»</quote>.
-            <emph xml:lang="fr">Et finis sic</emph><note place="bottom" resp="editor">‘Y termina
+           >‘Y luego comienza’.</note>: «<quote xml:lang="fr">Fue breve, etc»</quote>.
+            <emph xml:lang="fr">Et finis sic</emph><note place="bottom">‘Y termina
             así’.</note>: «<quote xml:lang="fr">[…] plumas que las de su fama. <emph xml:lang="fr"
               >Anonymus, Amicus, Lubens, Scripsit, Moerens, Posuit</emph>»</quote>.</p>
         <p>[[f. 185]] <emph>Pater</emph>
@@ -2414,7 +2426,7 @@
           <emph>lingua castellana conscripto</emph>, folio 26: «<quote>[…] el Plauto y Marcial de
             nuestra edad, don Luis de Góngora superior sin agravio de los mejores latinos y griegos
             en cultura, agudeza y mucho más en sal y donaire sin comparación»</quote><note
-            place="bottom" resp="editor">Blanco, Elvira, Plagnard 2021, 160. Martín de Roa, <anchor
+            place="bottom">Blanco, Elvira, Plagnard 2021, 160. Martín de Roa, <anchor
               xml:id="_Hlk12537859"/><emph>Antiguo Principado de Córdoba en la España ulterior o
               andaluz, traducido del latino y acrecentado por su autor el padre Martín de Roa de la
               Compañía de Jesús</emph>, Córdoba: Salvador de Cea Tesa, 1636, f. 26v. Vaca de Alfaro
@@ -2432,7 +2444,7 @@
           en aquellas tierras y lo tenía el rey moro en gran estimación. Pasó por Córdoba día de san
           Bartolomé del dicho año con 45 cristianos cautivos, que el dicho rey moro le enviaba a
           nuestro rey de regalo, con una cota de malla de gran precio y otras cosas<note
-            place="bottom" resp="editor">Ramírez de Arellano (1921: 237) toma de aquí esta anécdota
+            place="bottom">Ramírez de Arellano (1921: 237) toma de aquí esta anécdota
             y dice al respecto: «una noticia muy curiosa, aunque algo dura de tragar, trae Vaca de
             Alfaro, que nadie, hasta ahora, publicó, que sepamos, y que será bueno copiarla íntegra
             por si fuere cierta, pues aunque no dudamos de la buena fe de este escrito, no estamos
@@ -2473,8 +2485,8 @@
             principal en Córdoba, que con su ilustre linaje ha juntado el gran lustre de mucha
             doctrina, no en derecho solamente, sino en todas buenas letras, como podemos
             testificarlo los que lo conocemos, y dio también de ello gran testimonio el doctor
-            Sepúlveda en la epístola latina en que respondió a [p .63] otra suya, y ambas andan
-            impresas</quote><note place="bottom" resp="editor"><anchor xml:id="_Hlk12538218"
+            Sepúlveda en la epístola latina en que respondió a <pb n="63"/> otra suya, y ambas andan
+            impresas</quote><note place="bottom"><anchor xml:id="_Hlk12538218"
             />Ambrosio de Morales, <emph>Corónica general de España</emph>, libro XVI, capítulo 8,
             en nuestra edición moderna, Morales 1791, t. 8: 203.</note>.</p>
         <p>[[f. 187]] <anchor xml:id="_Hlk12538305"/><title>Todas las obras de don</title>
@@ -2486,7 +2498,7 @@
         <p>[[f. 188]] <anchor xml:id="_Hlk12538443"/><title>El Polifemo de don</title>
           <seg rend="entetecar">Luis de Góngora</seg><title> comentado por don</title>
           <seg rend="entetecar">García de Salcedo Coronel</seg>, etc. En Madrid, en la Imprenta
-          Real. A costa de Domingo González. Año 1636<note place="bottom" resp="editor">Vaca de
+          Real. A costa de Domingo González. Año 1636<note place="bottom">Vaca de
             Alfaro no cita la prínceps del <emph>Polifemo comentado por don García de Salcedo
               Coronel</emph>, <anchor xml:id="_Hlk12538473"/>Madrid, por Juan González, a costa de
             su autor, 1629 [1629_polifemo-salcedo], sino su reedición <anchor xml:id="_Hlk12538577"
@@ -2499,13 +2511,13 @@
           En cuarto. <emph>Ex bibliotheca</emph> don Tomé de los Ríos.</p>
         <p>[[f. 189]] <seg rend="entetecar">Sebastián de Alvarado y Alvear</seg>, profesor de
           Retórica y Letras humanas, natural de Burgos, en su <title>Heroida ovidiana</title>,
-          impresa en Burdeos, año 1628<note place="bottom" resp="editor"><anchor
+          impresa en Burdeos, año 1628<note place="bottom"><anchor
               xml:id="_Hlk12541069"/>Blanco, Elvira, Plagnard 2021, 108. <emph>Heroyda ovidiana.
               Dido a Eneas, con paráfrasis española y morales reparos ilustrada por Sebastián de
               Alvarado y Alvear</emph>, en Bourdeos [sic], en casa de Guillermo Millanges,
             1628.</note>, en varias partes de la obra cita a don <name type="polemista">Luis de
             Góngora</name>.</p>
-        <p>En el reparo 5, folio 27<note place="bottom" resp="editor">Lo que Vaca de Alfaro llama
+        <p>En el reparo 5, folio 27<note place="bottom">Lo que Vaca de Alfaro llama
             folios son en realidad páginas. La misma imprecisión en las demás referencias.</note> le
             llama<name type="polemista"> «</name><quote>cisne andaluz»</quote>.</p>
         <p>En el reparo 12, folio 42:</p>
@@ -2513,26 +2525,26 @@
             gloria, éste ya sin envidia. [Don </quote><name type="polemista">Luis de Góngora
               </name><quote><emph>occultior aliquando, cuius oracula Tiresia interprete, cuius
               enigmata Oldipode extricatore solvi certe vix possunt</emph></quote>]<note
-            place="bottom" resp="editor">Lo que editamos entre corchetes corresponde con una nota
+            place="bottom">Lo que editamos entre corchetes corresponde con una nota
             marginal en el impreso. Vaca de Alfaro no la diferencia del cuerpo del texto. Lo mismo
             en las siguientes citas.</note>.</quote>
         <p>En el reparo 41, folio 100: «<quote>un español [don Luis de Góngora]»</quote>.</p>
         <p>En el reparo 44, folio 109: «<quote>rebién don Luis [de Góngora] […] qué bien en este
-            gran soneto»</quote> [sic]<note place="bottom" resp="editor">Este último sintagma se
+            gran soneto»</quote> [sic]<note place="bottom">Este último sintagma se
             sitúa en realidad en el reparo 51, p. 128. Sirve para introducir el soneto «Descaminado,
             enfermo y peregrino» [OC100].</note>.</p>
         <p>Y en el reparo 76, folio 173:</p>
-        <quote>Cuando esto<note place="bottom" resp="editor">Esto: referencia al soneto «No
+        <quote>Cuando esto<note place="bottom">Esto: referencia al soneto «No
             destrozada nave en roca dura» [OC42].</note> compuso el gran poeta de Córdoba, don <name
             type="polemista">Luis de Góngora</name><quote>, no hablaba oráculos ni sentía misterios.
             Unos y otros en él tal vez alabo, y tales no entiendo. Pero ni mi ignorancia ni de
             semejantes le menoscaba, ni mi alabanza le ilustra –y añado– ni vituperio alguno le
             disminuye, pues ha crecido su gloria de suerte, que <emph>nullius laudibus
               crescit</emph> (que dijo rebién </quote><seg rend="entetecar">Macrobio</seg><quote>
-            [libro 1 </quote><title>Saturnales</title>]<note place="bottom" resp="editor">Los
+            [libro 1 </quote><title>Saturnales</title>]<note place="bottom">Los
             elementos entre corchetes corresponden con <emph>marginalia</emph> en el impreso. Lo
             mismo más adelante.</note> de<seg rend="entetecar"> Marón</seg><quote>) <emph>nullius
-              vituperatio</emph>ne [p. 64] <emph>minuitur</emph>. Los que con menos caudal han
+              vituperatio</emph>ne <pb n="64"/> <emph>minuitur</emph>. Los que con menos caudal han
             querido imitarle o explicarle han hecho barbarismos, dicho solecismos. Alábete, o
             grande, quien lo es en todo, y entiéndate él mismo, porque sea alabanza de
             entendimiento. Tal para tal, que las demás no lo son. Estimo aquí mucho el juicio de
@@ -2553,14 +2565,14 @@
             <l>dando a tu inmenso mar, viles espumas.</l>
             <l> Los Ícaros defiendan que te imitan,</l>
             <l>que como acercan a tu luz las plumas,</l>
-            <l>de tu divina luz se precipitan<note place="bottom" resp="editor">Blanco, Elvira,
+            <l>de tu divina luz se precipitan<note place="bottom">Blanco, Elvira,
                 Plagnard 2021, 86.</note>.</l>
           </lg>
         </quote>
         <p>[[f. 190]] Y en el reparo 77, fol. 176: «<quote>Y </quote><seg rend="entetecar"
             >Góngora</seg><quote> en su poético </quote><title>Polifemo</title>
           <quote>con galantes palabras, desde aquella octava: “¡oh bella Galatea […]!”<note
-              place="bottom" resp="editor">[OC265.361]</note>. Búscale y entiéndele»</quote>.</p>
+              place="bottom">[OC265.361]</note>. Búscale y entiéndele»</quote>.</p>
         <p>Y en el folio 238, reparo 119: «<quote>el poeta de Córdoba [don </quote><seg
             rend="entetecar">Luis de Góngora</seg><quote>, </quote><title>Soledad I</title>]»</p>
         <p>Y en el reparo 152, folio 293: «<quote>oye al gran cisne bético [don </quote><seg
@@ -2568,14 +2580,14 @@
         <p>Y en el reparo 177: «<quote>que si el sujeto te ofrece lágrimas, suspenderalas tan
             ingeniosa musa, tan grave elocuencia, tan dulce consonancia [don </quote><seg
             rend="entetecar">Luis de Góngora</seg><quote>]: “Ser pudiera tu pira levantada<note
-              place="bottom" resp="editor">[OC359]</note>”, etc</quote>.»<note place="bottom"
-            resp="editor">Hay más referencias a Góngora en la <emph>Heroida ovidiana</emph>, por
+              place="bottom">[OC359]</note>”, etc</quote>.»<note place="bottom"
+           >Hay más referencias a Góngora en la <emph>Heroida ovidiana</emph>, por
             ejemplo, en el reparo 169, página 316.</note></p>
         <p>[[f. 191]] <seg rend="entetecar">Lope Félix de Vega Carpio</seg>, del hábito de san Juan,
           en su <title>Circe</title>, que imprimió, año 1624, con otras rimas y prosas, folio 204,
           escribe un soneto, que dice así: «<quote>A don </quote><name type="polemista">Luis de
             Góngora</name><quote>: <pb n="65"/> “Claro cisne del Betis, que sonoro<note
-              place="bottom" resp="editor">Blanco, Elvira, Plagnard 2021, 86. Al parecer, después de
+              place="bottom">Blanco, Elvira, Plagnard 2021, 86. Al parecer, después de
               haber leído en Sebastián de Alvarado y Alvear que Lope de Vega elogiaba a Góngora en
               la <emph>Circe</emph>, Vaca de Alfaro se puso a rastrear directamente en esta y en
               otras obras de Lope las menciones de Góngora.</note>, etc.”»</quote>.</p>
@@ -2586,7 +2598,7 @@
             <l>Despierta, o Betis, la dormida plata</l>
             <l>y, coronado de ciprés, inunda</l>
             <l>la docta patria, en <seg rend="entetecar">Sénecas</seg> fecunda,</l>
-            <l>todo el cristal en lágrimas desata<note place="bottom" resp="editor"><anchor
+            <l>todo el cristal en lágrimas desata<note place="bottom"><anchor
                   xml:id="_Hlk12542063"/>Blanco, Elvira, Plagnard 2021, 100. <emph>Corona trágica.
                   Vida y muerte de la serenísima reina de Escocia, María de Estuarda, a nuestro
                   Santísimo padre Urbano VIII, por Lope Félix de Vega Carpio</emph>, en Madrid, por
@@ -2595,7 +2607,7 @@
         </quote>
         <p>[[f. 192]] <seg rend="entetecar">Lope Félix de Vega Carpio</seg> en su <title>Laurel de
             Apolo</title>, silva primera, folio cuarto: «<quote>No responda, que </quote><name
-            type="polemista">Góngora</name><quote> lo dice<note place="bottom" resp="editor"><anchor
+            type="polemista">Góngora</name><quote> lo dice<note place="bottom"><anchor
                 xml:id="_Hlk12542267"/>Blanco, Elvira, Plagnard 2021, 120. <emph>Laurel de Apolo con
                 otras rimas, al excelentísimo señor don Juan Alfonso Enríquez de Cabrera, Almirante
                 de Castilla, por Lope Félix de Vega Carpio, del hábito de san Juan</emph>, en
@@ -2608,7 +2620,7 @@
             <l>Pero dejando el contrapuesto polo,</l>
             <l>la clara Fama con el mismo Apolo,</l>
             <l>amaneció en España y el fecundo</l>
-            <l>[Betis dulce miró, Tibre segundo,]<note place="bottom">[NEDC] Este verso no está en
+            <l>[Betis dulce miró, Tibre segundo,]<note type="app" rend="I">Este verso no está en
                 el manuscrito, sea un olvido del copista o del proprio Vaca de Alfaro.</note></l>
             <l>en la patria de <seg rend="entetecar">Séneca</seg> famosa,</l>
             <l>por tantas excelencias gloriosa.</l>
@@ -2617,7 +2629,7 @@
             <l>a <name type="polemista"> Góngora</name> previene,</l>
             <l>que estaba en los cristales de Hipocrene</l>
             <l>escribiendo a las cándidas auroras</l>
-            <l>«Estas, que me dictó, rimas sonoras»<note place="bottom" resp="editor"
+            <l>«Estas, que me dictó, rimas sonoras»<note place="bottom"
                 >[OC255.1]</note>.</l>
             <l>Y corriendo, de juncos guarnecido,</l>
             <l>como él dijo, dormido,</l>
@@ -2640,7 +2652,7 @@
               2021, 149. </note></hi>.</p>
         <p>[[f. 195]] Don fray <seg rend="entetecar">Lope Félix de Vega Carpio</seg> en su
             <title>Filomena</title>, en la epístola octava que intituló «<quote>Jardín de Lope de
-            Vega»</quote>, folio 177<note place="bottom" resp="editor">C] <emph>Em</emph>. folio
+              Vega»</quote>, folio 177<note type="app" rend="I"><emph>Em</emph>. folio
             154.</note>:</p>
         <quote>
           <lg>
@@ -2652,13 +2664,13 @@
         <p>[[f. 196]] Don <seg rend="entetecar">Francisco Bernardo de Quirós</seg> en
             <emph>sus</emph>
           <title>Obras y aventuras de don Fruela</title>, capítulo 10<note place="bottom"
-            resp="editor">C] <emph>Em</emph>. capítulo 9.</note>, folio 97: «<quote>[…] luego el no
+            type="app" rend="I"><emph>Em</emph>. capítulo 9.</note>, folio 97: «<quote>[…] luego el no
             imitado don </quote><name type="polemista">Luis de Góngora</name><quote>, hijo de
             Córdoba, más gloriosa en ser su madre que por serlo de </quote><seg rend="entetecar"
             >Séneca</seg>
           <quote>y </quote><seg rend="entetecar">Lucano</seg><quote>. Diole Apolo título de conde de
             Altamira, pues la puso tan alta que las águilas más remontadas le perdían de vista»<note
-              place="bottom" resp="editor"><anchor xml:id="_Hlk12542504"/>Blanco, Elvira, Plagnard
+              place="bottom"><anchor xml:id="_Hlk12542504"/>Blanco, Elvira, Plagnard
               2021, 210. <emph>Obras de don Francisco de Quirós, alguacil propietario de la Casa y
                 Corte de su majestad, y aventuras de don Fruela, debajo de la protección del
                 excelentísimo señor don Nicolás María de Guzmán y Garrafa, príncipe de
@@ -2681,7 +2693,7 @@
             <l>que hizo <name type="polemista">Góngora</name> inconstructo</l>
             <l>aplaudido muy de todos,</l>
             <l>y entendido muy de <emph> nullus</emph>
-              <note place="bottom" resp="editor">Los versos citados proceden de un romance burlesco
+              <note place="bottom">Los versos citados proceden de un romance burlesco
                 leído en una Academia imaginaria. El ejercicio propuesto a los concursantes
                 consistía en remedar la <emph>Fábula de Polifemo y Galatea</emph> en estilo
                 burlesco, parodiando a la de Luis de Góngora. Como observamos en la nota anterior,
@@ -2690,13 +2702,13 @@
           </lg>
         </quote>
         <p>[[f. 197]] El licenciado <seg rend="entetecar">Francisco Cáscales</seg> en el libro de
-          sus <title>Cartas filológicas</title><note place="bottom" resp="editor"><anchor
+          sus <title>Cartas filológicas</title><note place="bottom"><anchor
               xml:id="_Hlk12542913"/>Blanco, Elvira, Plagnard 2021, 148. <emph>Cartas philológicas,
               es a saber de letras humanas, varia erudición, explicaciones de lugares, lecciones
               curiosas... i muchas sentencias exquisitas, auctor Francisco Cascale</emph>s, en
             Murcia, por Luis Verós, 1634.</note> hay una carta, en el folio 29: «<quote>Carta al
             licenciado </quote><name type="polemista">Luis Tribaldo</name> [sic]<note place="bottom"
-            resp="editor">La errata –Tribaldo por Tribaldos– está en Cascales. </note>
+           >La errata –Tribaldo por Tribaldos– está en Cascales. </note>
           <name type="polemista">de Toledo</name>
           <quote>sobre la obscuridad del </quote><title>Polifemo</title><quote> y
             </quote><title>Soledades</title><quote> de don </quote><name type="polemista">Luis de
@@ -2711,7 +2723,7 @@
             con general aplauso, ha escrito con elegancia y lisura, con artificio y gala, con
             novedad de pensamientos y con estudio sumo, lo que ni la lengua puede encarecer, ni el
             entendimiento acabar de admirar atónito y pasmado […]?»</quote><note place="bottom"
-            resp="editor">La cita selecciona, dentro de una carta extremadamente crítica contra
+           >La cita selecciona, dentro de una carta extremadamente crítica contra
             Góngora, la frase más favorable al poeta. Así descontextualizada, presenta a Cascales
             como un admirador más de don Luis.</note>.Y en el folio 34 don <seg rend="entetecar"
             >Francisco del Villar</seg> dice de don<name type="polemista"> Luis</name>: «<quote>Que
@@ -2723,7 +2735,7 @@
             lo son? Digo, pues, conformándome con vuestra merced, que a este caballero siempre lo he
             tenido y estimado por el primer hombre y más eminente de España en la poesía, sin
             excepción alguna, y que es el cisne que más bien ha cantado en nuestras
-            riberas»</quote><note place="bottom" resp="editor">Adoptamos la puntuación de la edición
+            riberas»</quote><note place="bottom">Adoptamos la puntuación de la edición
             Blanco y Mulas 2018. Se observa aquí la misma maniobra de Vaca, que ya observamos
             anteriormente, de transformar a Cascales en admirador incondicional de Góngora, gracias
             a una selección interesada de fragmentos. </note>.</p>
@@ -2736,7 +2748,7 @@
             de Chaves y Mendoza, caballero del hábito de Santiago, marqués de Santa Cruz de la
             Sierra, conde de la Calzada, de los consejos reales y de la Cámara y presidente del de
             órdenes</title>. En Madrid, en la Imprenta Real. Con Privilegio. En cuarto<note
-            place="bottom" resp="editor">Esta es toda la información de la portada, donde no aparece
+            place="bottom">Esta es toda la información de la portada, donde no aparece
             ninguna fecha.</note>. Este es el tomo primero. Y en el folio 5 el maestro <seg
             rend="entetecar">José de Valdivieso</seg> dice al comento por don <name type="polemista"
             >García</name>:</p>
@@ -2744,13 +2756,13 @@
           <lg>
             <l>Dichoso en la dulzura postrimera</l>
             <l>el cisne cordobés, pues pluma tanta</l>
-            <l>que docta escribe lo que dulce canta<note place="bottom" resp="editor">Estos versos
+            <l>que docta escribe lo que dulce canta<note place="bottom">Estos versos
                 son más una alabanza de Salcedo Coronel que de Góngora (la «pluma» celebrada es la
                 del comentarista) pero probablemente le interesaron a Vaca de Alfaro por el
                 calificativo de «cisne del Betis» que contenían.</note>.</l>
           </lg>
         </quote>
-        <p>[<pb n="f. 199r"/>] Don <seg rend="entetecar">Francisco Bernardo de Quirós</seg> en sus
+        <p>[[f. 199r]] Don <seg rend="entetecar">Francisco Bernardo de Quirós</seg> en sus
             <title>Obras</title>, escritas en prosa y verso a varios asuntos, impresas en Madrid,
           año de 1656, folio 96, capítulo 10, donde trata de cómo vino<quote> «el dios Apolo a la
             Academia, y se representó una comedia de disparates»</quote>, dice así:</p>
@@ -2763,7 +2775,7 @@
             rend="entetecar">Terencio</seg> español<quote>, el gran </quote><seg rend="entetecar"
             >Lope Félix de Vega</seg>, vega tan fértil que su fruto llenó al Parnaso y a España de
           sabiduría, de cuyas flores todos cogieron fruto, que sus obras lo construyeron el
-            Félix<quote> [<pb n="f. 199v"/>] en Fénix, pues fue él solo príncipe soberano de la
+            Félix<quote> [[f. 199v]] en Fénix, pues fue él solo príncipe soberano de la
             comedia y mayordomo mayor de Apolo. Con él </quote>iba <seg rend="entetecar">Mira de
             Amescua</seg>, doctísimo, y gran sumiller de corps, por cuyos conductos el cristal de
           Hipocrene y Helicona salieron más dulces. Luego el no imitado don <seg rend="entetecar"
@@ -2774,7 +2786,7 @@
             <emph>hortus</emph> y pénsil de donde toman muchas divinas flores de sus remontados
           conceptos, gran poeta y orador sagrado, a quien las plumas de los nombrados y los que se
           dirán después, no bastaron a alabarle, que en decir <seg rend="entetecar">Hortensio
-            Paravicino</seg> se<quote> dice lo más. [<pb n="f. 200r"/>] Con él iba el gran cortesano
+            Paravicino</seg> se<quote> dice lo más. [[f. 200r]] Con él iba el gran cortesano
             y poeta </quote><seg rend="entetecar">Luis Vélez de Guevara</seg>, ara de las oblaciones
           de las musas y su galán, lauro de Apolo y mar de la elocuencia gustosa. Diole Su Majestad
           título de marqués de Salinas, pues no se conocen más salinas que las suyas en el Parnaso,
@@ -2788,23 +2800,23 @@
           </quote>maestro <seg rend="entetecar">Tirso de Molina</seg>, que su pluma sola pudiera
           alabarle; y <seg rend="entetecar">Luis de Benavente, Marcial</seg><quote> castellano que
             escribió donaires y sainetes tantos años, sin rozarse <pb n="68"/> un sainete con otro,
-            con admiración y aplauso del teatro del orbe</quote><note place="bottom" resp="editor"
+            con admiración y aplauso del teatro del orbe</quote><note place="bottom"
             >Blanco, Elvira, Plagnard 2021, 210. En el folio 196 ya se citó este fragmento de forma
             más escueta. ¿Adición por otra mano que la de Vaca de Alfaro? ¿Voluntad de ofrecer más
             detalles que permitan entender mejor en contexto las frases ya citadas?</note>.</quote>
         <p>[[f. 201]] <name type="polemista">Don Luis de Góngora</name>, pasando por una calle de
           Madrid, vio en un cuarto de casa cuatro damas y les dijo: «son vuestras mercedes damas de
-          cuatro al cuarto»<note place="bottom" resp="editor">La frase juega con la locución «de
+          cuatro al cuarto»<note place="bottom">La frase juega con la locución «de
             tres al cuarto» que designa cualquier cosa u objeto de poco valor: comprar tres cosas,
             con más razón cuatro, por una moneda de cuarto implica que estas cosas sean de baja
             calidad. Sin embargo, en esta frase la palabra «cuarto» se emplea con el doble sentido
             de «sala» donde están reunidas las cuatro damas y de «moneda»: cuatro mujeres por el
             módico precio de un cuarto, dejando entender que las damas en cuestión serían más bien
-            prostitutas.</note>. Había con ellas un fraile, y dijo<note place="bottom" resp="editor"
+            prostitutas.</note>. Había con ellas un fraile, y dijo<note place="bottom"
             >Entendemos que el sujeto de «dijo» es don Luis, quien hace la pregunta retórica y
             ofrece inmediatamente la respuesta.</note>: «mas, ¿qué género de fruta serán vuestras
           mercedes? A mí me parece que serán vuestras mercedes harto bellacas o cirolicas de
-            fraile»<note place="bottom" resp="editor">Según explica Antonio Carreira, las «ciruelas
+            fraile»<note place="bottom">Según explica Antonio Carreira, las «ciruelas
             de fraile», también llamadas «monjís», son «delgadas de entrambas partes y gordas en
             medio» (Carreira 2011: 46). Se designan también con otro nombre, más pícaro y más
             explícito, el de «ciruelas de cojón de fraile», por su forma y su color morado,
@@ -2820,7 +2832,7 @@
             frutas). En la anécdota que comentamos en cambio adquieren connotaciones
             sexuales.</note>.</p>
         <p>Don Salvador [sic] de Herrera, Sebastián, maestro mayor de las obras reales de Su
-          Majestad don Felipe IV<note place="bottom" resp="editor">Se trata de Sebastián de Herrera
+          Majestad don Felipe IV<note place="bottom">Se trata de Sebastián de Herrera
             Barnuevo (1619-1671), nombrado maestro mayor de las obras reales en 1662, fecha que
             ofrece un término <emph>ab quo</emph> para la redacción de este apunte particular. En
             cambio, no se menciona su cargo de pintor de Cámara, obtenido en 1663, sea porque Vaca
@@ -2837,7 +2849,7 @@
           hizo de barro el retrato de don Luis de Góngora, que se colocó en el Parnaso que se hizo
           en el Prado de san Jerónimo de Madrid a la entrada de doña Mariana de Austria.</p>
         <p>[[f. 202]] <seg rend="entetecar">Alonso Jerónimo de Salas Barbadillo</seg>, en el libro
-          que intituló <title>Casa de placer</title><note place="bottom" resp="editor"><anchor
+          que intituló <title>Casa de placer</title><note place="bottom"><anchor
               xml:id="_Hlk12543336"/>Blanco, Elvira, Plagnard 2021, 56. Alonso Jerónimo de Salas
             Barbadillo, <emph>La casa del placer honesto</emph>, Madrid, viuda de Cosme Delgado,
             1620.</note>, novela segunda, llama a don Luis de Góngora: «<quote>moderno </quote><seg
