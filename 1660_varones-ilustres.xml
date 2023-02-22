@@ -161,7 +161,7 @@
       </div>
             -->
     <body>
-      <div subtype="level1">
+      <div subtype="level1"><head>Introducción</head>
         <div subtype="level2">
           <head>1. [Título] «Don Ludovicus de Córdoba»: apuntes para una inacabada «Vida de
             Góngora».</head>
@@ -1637,7 +1637,7 @@
           </div>
         </div>
       </div>
-      <div subtype="level1">
+<div subtype="level1"><head>Texto de la edición</head>        
         <head><pb n="40"/> [[f. 148]] Don Ludovicus de Góngora y Argote</head>
         <p>El señor <name type="polemista">don Luis de Góngora</name> está bautizado en la catedral
           de Córdoba en 12 de julio del año 1561. Consta de la partida de dicho bautismo que se
