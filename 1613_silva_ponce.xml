@@ -8,30 +8,30 @@
       <titleStmt>
         <title>Silva a las Soledades de don Luis de Góngora, con anotaciones y declaración, y un
           discurso en defensa de la novedad y términos de su estilo</title>
-        <name key="[Ponce, Manuel]" type="author">Manuel Ponce</name>
         <author key="Ponce, Manuel">Manuel Ponce</author>
         <editor>Antonio Azaustre Galiana</editor>
       </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Aude Plagnard</name>
+          <resp>stylage et édition TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2023"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
+            >http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc>
+        <bibl>Biblioteca de don Francisco Fernández de Navarrete, marqués de Legarda, Ávalos
+          (Logroño).</bibl>
+      </sourceDesc>
     </fileDesc>
-    <editionStmt>
-      <edition>OBVIL</edition>
-      <respStmt>
-        <name>Aude Plagnard</name>
-        <resp>stylage et édition TEI</resp>
-      </respStmt>
-    </editionStmt>
-    <publicationStmt>
-      <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-      <date when="2023"/>
-      <availability status="restricted">
-        <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
-          >http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
-      </availability>
-    </publicationStmt>
-    <sourceDesc>
-      <bibl>Biblioteca de don Francisco Fernández de Navarrete, marqués de Legarda, Ávalos
-        (Logroño).</bibl>
-    </sourceDesc>
     <encodingDesc>
       <p>L’édition comporte trois niveaux de notes. note[@place="bottom"] : notes d’éditeur (décimal
         par défaut) note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
@@ -156,15 +156,15 @@
           </list>
           <p>A estas obras cabe añadir los otros títulos que Quevedo atribuye a Ponce en su
               <emph>Perinola</emph>, además del mencionado libro de comentarios a Virgilio:</p>
-            <quote>A Manuel Ponce le quita un discurso que intituló <emph>Crisol de la lengua
-                castellana</emph>, un libro del genio y otro comentando algunos lugares de Virgilio
-                (<emph>La Perinola</emph>, p. 378)<note place="bottom">Álvarez y Baena, 1791, IV, p.
-                2, señala como obras de Ponce el <emph>Cristal de la lengua castellana</emph>
-                (seguramente la misma que en el <emph xml:lang="es">Comento</emph> aparece como
-                  <emph>Crisol</emph>) y los <emph>Comentos a algunos lugares de Virgilio</emph>.
-                Ver también Férnández-Guerra, 1951, p. 478, en nota, y las precisas informaciones de
-                Plata, 2020, pp. 371, n. 354, 374, n. 370 y 378, n. 377.</note>.</quote>
-          
+          <quote>A Manuel Ponce le quita un discurso que intituló <emph>Crisol de la lengua
+              castellana</emph>, un libro del genio y otro comentando algunos lugares de Virgilio
+              (<emph>La Perinola</emph>, p. 378)<note place="bottom">Álvarez y Baena, 1791, IV, p.
+              2, señala como obras de Ponce el <emph>Cristal de la lengua castellana</emph>
+              (seguramente la misma que en el <emph xml:lang="es">Comento</emph> aparece como
+                <emph>Crisol</emph>) y los <emph>Comentos a algunos lugares de Virgilio</emph>. Ver
+              también Férnández-Guerra, 1951, p. 478, en nota, y las precisas informaciones de
+              Plata, 2020, pp. 371, n. 354, 374, n. 370 y 378, n. 377.</note>.</quote>
+
           <p>Manuel Ponce fue un estudioso muy activo en las diversas polémicas literarias que
             conocieron las letras españolas del siglo XVII. Así, la <emph>Apología en defensa de
               Virgilio</emph> se encuadra en la rica tradición de comentarios al poeta mantuano que
@@ -416,37 +416,39 @@
             Manuel Ponce. <emph>Silva a las Soledades</emph> es, en efecto, la expresión que
             encabeza la portada del manuscrito, cuya transcripción es la siguiente (ver la imagen
             1):</p>
-          <quote>[f. 1r Portada] SYLVA / a las SOLEDADES / de Don Luis de Góngora / Con
-              anotaciones y declaracion / POR / Manuel Ponce / y un discurso en defensa de la
-              Novedad / y terminos de su estilo. / NOVIEMBRE / de 1613.
-          </quote>
+          <quote>[f. 1r Portada] SYLVA / a las SOLEDADES / de Don Luis de Góngora / Con anotaciones
+            y declaracion / POR / Manuel Ponce / y un discurso en defensa de la Novedad / y terminos
+            de su estilo. / NOVIEMBRE / de 1613. </quote>
           <p>El sentido de la expresión «Sylva a las Soledades de Don Luis de Góngora» puede
             entenderse de dos formas:</p>
-          <list><item rend="justify">- interpretando <emph>silva</emph> como 'escrito que reúne varios
-            materiales concernientes a las <emph>Soledades</emph>'; la frase haría referencia
-            entonces al conjunto del trabajo de Ponce.</item>
-            <item rend="justify">- interpretando que <emph>Silva a las Soledades</emph> es la manera con
-            la que Ponce se refiere al poema de Góngora. Esta lectura encuentra apoyo en el conjunto
-            de la portada, donde se reflejan perfectamente y por su orden las secciones principales
-            del manuscrito, que se inicia con el texto de la <emph>Soledad primera</emph>, al que
-            siguen la anotación y explicación de sus versos, y un discurso en defensa de la
-            oscuridad en el estilo de los poetas. Esta práctica de los títulos detallados es
-            habitual en Ponce, como muestra también su <emph>Apología en defensa de
-              Virgilio</emph><note place="bottom"><emph>Apología en defensa de Virgilio sobre un
-                lugar de la quarta Geórgica</emph>, por Manuel Ponze, dirigida al Maestro Pedro de
-              Torres Rámilla, collegial en el insigne theólogo de Alcalá, MDCXXII.</note>. Además,
-            en varias ocasiones a lo largo de su comentario (fols. 2r, 2v, 39v, 64r, 81v, 86r,
-            109r), Ponce se refiere al poema de Góngora como <emph>silva</emph><note place="bottom"
-              >En alguna ocasión (fols. 45r, 46v, 71r) lo divide en estancias. Para la relación
-              entre canción y silva, ver A. Egido, 1989, p. 37, donde menciona este lugar de Ponce.
-              Con carácter general, ver el volumen dirigido por López Bueno, 1991.</note>. Ya Dámaso
-            Alonso pareció haber entendido de esta forma la expresión, pues uno de los epígrafes del
-            artículo donde daba noticia del escrito se titula «La "Silva a las Soledades" anotada y
-            comentada» y, poco después, señala explícitamente que la expresión <emph>silva</emph>
-            hace referencia a la <emph>Soledad primera</emph><note place="bottom">Dámaso Alonso,
-              1982, pp. 506- 507. Ver las precisas observaciones de López Bueno, 2018, pp. 71-74,
-              sobre el término <emph>silva</emph> en el contexto de la polémica. En la actualidad,
-              José Manuel Rico García estudia diversas vertientes de esta cuestión.</note>.</item></list>
+          <list>
+            <item rend="justify">- interpretando <emph>silva</emph> como 'escrito que reúne varios
+              materiales concernientes a las <emph>Soledades</emph>'; la frase haría referencia
+              entonces al conjunto del trabajo de Ponce.</item>
+            <item rend="justify">- interpretando que <emph>Silva a las Soledades</emph> es la manera
+              con la que Ponce se refiere al poema de Góngora. Esta lectura encuentra apoyo en el
+              conjunto de la portada, donde se reflejan perfectamente y por su orden las secciones
+              principales del manuscrito, que se inicia con el texto de la <emph>Soledad
+                primera</emph>, al que siguen la anotación y explicación de sus versos, y un
+              discurso en defensa de la oscuridad en el estilo de los poetas. Esta práctica de los
+              títulos detallados es habitual en Ponce, como muestra también su <emph>Apología en
+                defensa de Virgilio</emph><note place="bottom"><emph>Apología en defensa de Virgilio
+                  sobre un lugar de la quarta Geórgica</emph>, por Manuel Ponze, dirigida al Maestro
+                Pedro de Torres Rámilla, collegial en el insigne theólogo de Alcalá,
+              MDCXXII.</note>. Además, en varias ocasiones a lo largo de su comentario (fols. 2r,
+              2v, 39v, 64r, 81v, 86r, 109r), Ponce se refiere al poema de Góngora como
+                <emph>silva</emph><note place="bottom">En alguna ocasión (fols. 45r, 46v, 71r) lo
+                divide en estancias. Para la relación entre canción y silva, ver A. Egido, 1989, p.
+                37, donde menciona este lugar de Ponce. Con carácter general, ver el volumen
+                dirigido por López Bueno, 1991.</note>. Ya Dámaso Alonso pareció haber entendido de
+              esta forma la expresión, pues uno de los epígrafes del artículo donde daba noticia del
+              escrito se titula «La "Silva a las Soledades" anotada y comentada» y, poco después,
+              señala explícitamente que la expresión <emph>silva</emph> hace referencia a la
+                <emph>Soledad primera</emph><note place="bottom">Dámaso Alonso, 1982, pp. 506- 507.
+                Ver las precisas observaciones de López Bueno, 2018, pp. 71-74, sobre el término
+                  <emph>silva</emph> en el contexto de la polémica. En la actualidad, José Manuel
+                Rico García estudia diversas vertientes de esta cuestión.</note>.</item>
+          </list>
           <p>En consecuencia, aunque creo que resulta apropiado seguir nombrando el conjunto del
             comentario según la tradición de estudios previos, pienso también que debe subrayarse
             que esta lectura alude al título del poema de Góngora, pues a él se refiere Ponce con el
@@ -658,9 +660,8 @@
             no las conocía o no las había manejado en el momento de redactarla. De hecho, el folio
             no lleva resto de la numeración antigua que sí aparece en los de la anotación. Una de
             esas autoridades allí incluidas arroja un dato cronológico interesante:</p>
-          <quote>Michael maiero, en su Arcana Arcanissima. hoc est. Hieroglyphica <hi
-                rend="u">Aegiptio-graeca</hi>. Al principio del L. 1.
-          </quote>
+          <quote>Michael maiero, en su Arcana Arcanissima. hoc est. Hieroglyphica <hi rend="u"
+              >Aegiptio-graeca</hi>. Al principio del L. 1. </quote>
           <p>El autor de la obra es el médico y alquimista Michael Maier (1568-1622). Ponce se
             refiere a una de sus primeras obras destacadas: <emph>Arcana arcanissima, hoc est,
               Hieroglyphica AEgyptio-Graeca...</emph><note place="bottom">Su título completo se
@@ -704,12 +705,12 @@
             afinarse más o menos el periodo de redacción de algunas secciones del comentario. Señalo
             tres posibles interpretaciones:</p>
           <list type="ol" rend="1">
-            <item rend="justify">La portada fue escrita al haber terminado todo el trabajo que se copia en el
-              códice, pero con la fecha de su inicio.</item>
-            <item rend="justify">La portada fue escrita al comienzo del trabajo, que se prolongó durante meses o
-              incluso años.</item>
-            <item rend="justify">La portada fue escrita al haber finalizado al menos alguna de sus secciones
-              (anotación y <emph>Discurso</emph>) o ambas.</item>
+            <item rend="justify">La portada fue escrita al haber terminado todo el trabajo que se
+              copia en el códice, pero con la fecha de su inicio.</item>
+            <item rend="justify">La portada fue escrita al comienzo del trabajo, que se prolongó
+              durante meses o incluso años.</item>
+            <item rend="justify">La portada fue escrita al haber finalizado al menos alguna de sus
+              secciones (anotación y <emph>Discurso</emph>) o ambas.</item>
           </list>
           <p>En este sentido, ya se ha indicado que el hecho de que la dedicatoria «A los que no
             entienden esta silva» se haya escrito después de las anotaciones –que se dan en ella por
@@ -743,13 +744,13 @@
             estudio y edición, así como la difusión de las imágenes que se reproducen:</p>
           <list rend="justify">
             <item>fol. 1r: Portada</item>
-            <item>fol. 1v: Breve semblanza de la vida y obras de Ponce, probablemente
-              escrita por Dámaso Alonso.</item>
+            <item>fol. 1v: Breve semblanza de la vida y obras de Ponce, probablemente escrita por
+              Dámaso Alonso.</item>
             <item>fols. 2r-3r: Dedicatoria «A los que no entienden esta silva».</item>
             <item>fols. 4r-33v: Texto de la <emph>Soledad primera</emph>, bajo el epígrafe
               «Soledades» (fol. 5r).</item>
-            <item>fols. 34r-40r: Dedicatoria «Al conde de Salinas, presidente del Consejo Supremo
-              de Portugal».</item>
+            <item>fols. 34r-40r: Dedicatoria «Al conde de Salinas, presidente del Consejo Supremo de
+              Portugal».</item>
             <item>fols. 40v-83r: Anotación al poema.</item>
             <item>fol. 83v: nota de Ponce: «Intelligisti cogitationes meas de longe. Ps.
               138».</item>
@@ -762,15 +763,15 @@
               facultades que se cifran en los versos. Y si el que a todos es difícil se haya de
               reprobar y no estudiarle. (fol. 85r: portada del Discurso, fol. 85v: en blanco, fols.
               86r-86v: Dedicatoria al conde de Salinas, fols. 87r-108v: texto del Discurso).</item>
-            <item>fols. 109r-109v: Apéndice donde remite al prólogo de la <emph>Coronación</emph>
-              de Juan de Mena, y recoge algunos de sus pasajes para autorizar los usos
+            <item>fols. 109r-109v: Apéndice donde remite al prólogo de la <emph>Coronación</emph> de
+              Juan de Mena, y recoge algunos de sus pasajes para autorizar los usos
               gongorinos.</item>
-            <item>fols. 110r-112r. <emph>La Rosa.</emph> Od. 53 de Anacreón traducida del griego
-              por don Francisco de Quevedo.</item>
+            <item>fols. 110r-112r. <emph>La Rosa.</emph> Od. 53 de Anacreón traducida del griego por
+              don Francisco de Quevedo.</item>
             <item>fol. 112v: en blanco.</item>
-            <item>fols. 113r-120v: Texto de la <emph>Segunda Soledad, El periodo de la
-              caza</emph>, desde el verso 677 («Las Horas ya, de números vestidas») hasta el verso
-              936 («heredado en el último graznido»).</item>
+            <item>fols. 113r-120v: Texto de la <emph>Segunda Soledad, El periodo de la caza</emph>,
+              desde el verso 677 («Las Horas ya, de números vestidas») hasta el verso 936 («heredado
+              en el último graznido»).</item>
             <item>fol. 121: en blanco.</item>
           </list>
           <p>La descripción del códice permite diferenciar las siguientes secciones
@@ -813,23 +814,24 @@
               poema, tan alta que a menudo hizo a Ponce desistir de su intento de comentarlo. Esta
               habitual estrategia de los exordios es muy del gusto de Ponce, quien también la empleó
               en el comentario de Virgilio que dirigió a Pedro de Torres Rámila:</p>
-            <quote>Mil veces he resistido el animoso intento de investigar la
-                inteligencia desta silva, viendo que tantos sujetos ingeniosos la deponen y se
-                privan de entenderla. Y otras tantas me ha vencido la porfía de un secreto impulso,
-                quizá movido (con arduas esperanzas) de la misma dificultad desta impresa, cuyo
-                honor –si bien desconfío merecerle– debía ser igual al riesgo que tiene el hecho.
-                Mas ya que prometí su cumplimiento, al deseo forzoso ha de ser que le tenga,
-                quedando en obligación no pequeña a mi ingenio, con quien he querido adeudarme. Reconociendo el crédito, granjeo en intentar lo que tantos han temido (<emph>Silva a
-                  las Soledades</emph>, fols. 34r-34v)</quote>
-            <quote>Y mándame decir mi sentimiento, juzgando que la sufiçiencia que me atribuie su favor
-              podrá haçer el efecto q<emph>ue</emph> si fueran iguales sus quilates en mi talento a
-              los que me concede su confiança. Pueda en mí su preçepto lo que no consiguiera mi
-              cuidado, aun persuadido de tener algún premio en la inteligençia de lugar tan difícil.
-              Y pues lo sagrado de sus atençiones no debe inclinar los ojos a las humanas tinieblas,
-              permítase a los desbelos humanistas, si no a la diciplina de la crítica enseñança, la
-              exposiçión de lugar q<emph>ue</emph> tantos an juzgado inaccesible, atribuyendo la
-              culpa de corta diligencia al superior ingenio de el autor (<emph>Apología en defensa
-                de Virgilio</emph>, fol. 132r).</quote>
+            <quote>Mil veces he resistido el animoso intento de investigar la inteligencia desta
+              silva, viendo que tantos sujetos ingeniosos la deponen y se privan de entenderla. Y
+              otras tantas me ha vencido la porfía de un secreto impulso, quizá movido (con arduas
+              esperanzas) de la misma dificultad desta impresa, cuyo honor –si bien desconfío
+              merecerle– debía ser igual al riesgo que tiene el hecho. Mas ya que prometí su
+              cumplimiento, al deseo forzoso ha de ser que le tenga, quedando en obligación no
+              pequeña a mi ingenio, con quien he querido adeudarme. Reconociendo el crédito, granjeo
+              en intentar lo que tantos han temido (<emph>Silva a las Soledades</emph>, fols.
+              34r-34v)</quote>
+            <quote>Y mándame decir mi sentimiento, juzgando que la sufiçiencia que me atribuie su
+              favor podrá haçer el efecto q<emph>ue</emph> si fueran iguales sus quilates en mi
+              talento a los que me concede su confiança. Pueda en mí su preçepto lo que no
+              consiguiera mi cuidado, aun persuadido de tener algún premio en la inteligençia de
+              lugar tan difícil. Y pues lo sagrado de sus atençiones no debe inclinar los ojos a las
+              humanas tinieblas, permítase a los desbelos humanistas, si no a la diciplina de la
+              crítica enseñança, la exposiçión de lugar q<emph>ue</emph> tantos an juzgado
+              inaccesible, atribuyendo la culpa de corta diligencia al superior ingenio de el autor
+                (<emph>Apología en defensa de Virgilio</emph>, fol. 132r).</quote>
             <p>Tras la preceptiva <emph>captatio benevolentiae</emph>, el texto se dirige a «el
               torrente de los doctos, agudos y curiosos<note place="bottom">El anónimo opúsculo
                   <emph>Contra el Antídoto de Jáuregui y en favor de don Luis de Góngora, por un
@@ -922,7 +924,9 @@
                 intenciones de Manuel Ponce. Sobre la necesidad de mayor documentación y las escasas
                 certezas en este tipo de informaciones habla Rico García, 2017, pp. 195-196, a
                 propósito de la biografía de Antonio Ortiz de Melgarejo.</note>.</p>
-            </div><div subtype="level3"><head>Notas a la Soledad Primera</head>
+          </div>
+          <div subtype="level3">
+            <head>Notas a la Soledad Primera</head>
             <p>Las 104 notas que Ponce añade al texto de la <emph>Soledad Primera</emph> suelen
               dedicarse a explicar las alusiones mitológicas y las fuentes literarias, y a ofrecer
               diversas informaciones (<emph>realia</emph>) referentes a animales, historia o
@@ -999,11 +1003,11 @@
             <p>Al final del manuscrito se copian los siguientes materiales que complementan la
               anotación:</p>
             <list type="ol" rend="a">
-              <item rend="justify">Informaciones sobre el Nilo en el fol. 84 r., ya comentado: allí Ponce recoge
-                una lista de autores que ofrecían noticias sobre el Nilo diferentes de los que él
-                señalaba en la extensa nota 101 al poema de Góngora. Dámaso Alonso (1982, p. 515) ya
-                había señalado que Ponce «era un especialista en noticias sobre el Nilo», pues la
-                extensión de su nota 101, referida a ese río, era mucho mayor que la de las
+              <item rend="justify">Informaciones sobre el Nilo en el fol. 84 r., ya comentado: allí
+                Ponce recoge una lista de autores que ofrecían noticias sobre el Nilo diferentes de
+                los que él señalaba en la extensa nota 101 al poema de Góngora. Dámaso Alonso (1982,
+                p. 515) ya había señalado que Ponce «era un especialista en noticias sobre el Nilo»,
+                pues la extensión de su nota 101, referida a ese río, era mucho mayor que la de las
                 restantes (fols. 77r-82r). Una vez conocido el texto de la <emph>Apología en defensa
                   de Virgilio</emph> no extraña ese rasgo, pues en los versos de la cuarta
                   <emph>Geórgica</emph> objeto de discusión (vv. 287-294), Virgilio hablaba de las
@@ -1011,8 +1015,8 @@
                 materiales que estaba consultando para la elaboración de ese comentario a Virgilio
                 (fechado en 1622) y los aplicó para enriquecer en erudición esta nota al verso de
                 Góngora.</item>
-              <item rend="justify">Apéndice sobre Juan de Mena (fols. 109r-109v): remite al prólogo de la
-                  <emph>Coronación</emph> y cita algunos de sus pasajes para autorizar los usos
+              <item rend="justify">Apéndice sobre Juan de Mena (fols. 109r-109v): remite al prólogo
+                de la <emph>Coronación</emph> y cita algunos de sus pasajes para autorizar los usos
                 gongorinos. Se explica este apéndice porque, en varias ocasiones (fols. 100r, 105v)
                 a lo largo de su <emph>Discurso</emph> en defensa de la oscuridad, Ponce se ha
                 referido a Juan de Mena como uno de los poetas hispanos necesitados de comentario, y
@@ -1024,35 +1028,35 @@
                   gongorina, ver, entre otros, Matas Caballero, 1992; Álvarez Amo, 2016; Osuna
                   Cabezas, 2016, Daza, 2021.</note>. Los lugares que señala Ponce legitiman diversos
                 usos de anástrofe e hipérbaton. Se comentan en las notas al texto.</item>
-              <item rend="justify">Copia de la oda 53 de Anacreonte (<emph>La rosa</emph>) en traducción de
-                  Quevedo<note place="bottom">En 1609 Quevedo dedicó al duque de Osuna la primera
-                  traducción castellana de la obra atribuida al poeta griego Anacreonte, el
-                    <emph>Anacreón castellano, con paráfrasi y comentarios</emph>, que circuló
+              <item rend="justify">Copia de la oda 53 de Anacreonte (<emph>La rosa</emph>) en
+                traducción de Quevedo<note place="bottom">En 1609 Quevedo dedicó al duque de Osuna
+                  la primera traducción castellana de la obra atribuida al poeta griego Anacreonte,
+                  el <emph>Anacreón castellano, con paráfrasi y comentarios</emph>, que circuló
                   manuscrita hasta su primera edición en 1794. Más detalles en mis notas a esos
                   folios.</note>: es uno de los poemas con que se ilustra el símil de la rosa que
                 Góngora usó en los vv. 727 y ss. de la <emph>Soledad primera</emph>, y que Ponce
                 comenta en la nota 81 señalando diversos poetas que recrearon dicho motivo:</item>
-                <quote>En estos 5 versos describe, comparándola a la boca de la novia, la rosa con
-                  maravilloso ornam<emph>en</emph>to y gala; de suerte que, por diversas palabras, he
-                  hallado que dice en ellos lo más excelente de lo que han <pb n="fol. 70r"/> escrito
-                  todos cuantos autores he visto sobre este asunto exquisito, cuyas autoridades dejo de
-                  poner aquí, escusando la dilación; mas citados son estos, para que el estudioso los
-                  vea y corrija:
-                <p>Virgil<emph>io</emph>: todo un epigrama de los suyos.</p>
+              <quote>En estos 5 versos describe, comparándola a la boca de la novia, la rosa con
+                maravilloso ornam<emph>en</emph>to y gala; de suerte que, por diversas palabras, he
+                hallado que dice en ellos lo más excelente de lo que han <pb n="fol. 70r"/> escrito
+                todos cuantos autores he visto sobre este asunto exquisito, cuyas autoridades dejo
+                de poner aquí, escusando la dilación; mas citados son estos, para que el estudioso
+                los vea y corrija: <p>Virgil<emph>io</emph>: todo un epigrama de los suyos.</p>
                 <p>Catul<emph>o</emph>: seis versos en el carmen nupcial 63.</p>
                 <p>Anacreonte: la mayor parte del Ode 5 y todo el 53.</p>
                 <p>El Guarino en el <emph>Fido</emph>, act<emph>o</emph> 1.</p>
-                <p>Aquiles Tacio: un trozo largo al principio del 2<emph>º</emph> l<emph>ibro</emph> de
-                  <emph>Los amores de Leucipe y Clitofonte</emph>, donde introduce que cantaba.</p>
+                <p>Aquiles Tacio: un trozo largo al principio del 2<emph>º</emph> l<emph>ibro</emph>
+                  de <emph>Los amores de Leucipe y Clitofonte</emph>, donde introduce que
+                  cantaba.</p>
                 <p>Ariosto: la <emph>e</emph>st<emph>ancia</emph> 42 del cant<emph>o</emph> 1 del
-                  <emph>Furioso</emph>.</p>
+                    <emph>Furioso</emph>.</p>
                 <p>Tasso: la <emph>e</emph>st<emph>ancia</emph> 14, cant<emph>o</emph> 16 de la
-                  <emph>Hier</emph>usal<emph>em</emph>me <emph>Liber</emph>a<emph>ta</emph>.</p>
+                    <emph>Hier</emph>usal<emph>em</emph>me <emph>Liber</emph>a<emph>ta</emph>.</p>
                 <p>Y con ventaja a todos, el Marino en la 2<emph>ª</emph> p<emph>ar</emph>te de sus
-                  <emph>Rimas</emph>.</p>
-                  <p>(Ponce, <emph>Silva</emph>, fols. 69v-70r)</p></quote>
+                    <emph>Rimas</emph>.</p>
+                <p>(Ponce, <emph>Silva</emph>, fols. 69v-70r)</p></quote>
             </list>
-                        <p>A las dedicatorias, anotación y materiales complementarios debe añadirse el<emph>
+            <p>A las dedicatorias, anotación y materiales complementarios debe añadirse el<emph>
                 Discurso</emph> en defensa de la oscuridad en el estilo del poeta: es la sección del
               comentario donde Manuel Ponce desarrolla de forma más teórica y organizada su defensa
               del estilo de Góngora. Se sitúa después de la anotación de la <emph>Soledad
@@ -1113,10 +1117,10 @@
               Ludguni, apud Antonium Griphium, 1560, donde se recoge literalmente el pasaje que cita
               Ponce.</note>:</p>
           <quote>minabatur se extirpaturum lampsacenos pini in morem <lb/>(Ponce,
-                <emph>Silva</emph>, fol. 53v) <note place="bottom">Ponce se refiere al libro sexto
-                (Erato, «Herat.» en el texto de Ponce) de <emph>Los nueve libros de la
-                  historia</emph>, del historiador griego Heródoto. Más detalles en la nota
-                correspondiente a este pasaje de Ponce.</note>
+            <emph>Silva</emph>, fol. 53v) <note place="bottom">Ponce se refiere al libro sexto
+              (Erato, «Herat.» en el texto de Ponce) de <emph>Los nueve libros de la
+              historia</emph>, del historiador griego Heródoto. Más detalles en la nota
+              correspondiente a este pasaje de Ponce.</note>
           </quote>
           <p>Lo mismo sucede con la cita de un verso del poeta ferrarense Tito Vespasiano Strozzi
             (1424-c. 1505)<note place="bottom">Variantes de su nombre son Titus Vespasianus Stroza y
@@ -1129,11 +1133,10 @@
               gozar deja de su frente».</note>; el pasaje de Strozzi se recoge en el repertorio de
             Ravisio Textor, dentro de su apartado dedicado a la «<emph>descriptio
             noctis</emph>»:</p>
-          <quote>Stroza pater <lb/>quum sol Antípodum populos illata luce reuisit
-              <lb/>(Ponce, <emph>Silva</emph>, fol. 66v) <note place="bottom">Ver la p. 462 del
-                compendio de Ravisio Textor en la edición de Lyon, 1560, recogida en la
-                bibliografía; allí aparece literalmente este pasaje de Stroza que cita
-              Ponce.</note></quote>
+          <quote>Stroza pater <lb/>quum sol Antípodum populos illata luce reuisit <lb/>(Ponce,
+              <emph>Silva</emph>, fol. 66v) <note place="bottom">Ver la p. 462 del compendio de
+              Ravisio Textor en la edición de Lyon, 1560, recogida en la bibliografía; allí aparece
+              literalmente este pasaje de Stroza que cita Ponce.</note></quote>
           <p>También es la <emph>Officina</emph> de Ravisio Textor (apartado «Deorum victimae») la
             fuente de donde Ponce tomó su referencia a Marcial que iba a ilustrar los vv. 154-157 de
             la <emph>Soledad primera</emph><note place="bottom">«esposo casi un lustro (cuyo diente
@@ -1141,8 +1144,9 @@
               triunfador siempre de celosas lides».</note>. La ubicación en el libro 5 y, sobre
             todo, la variante <emph>roseas</emph> del texto de Marcial, subrayan la literalidad de
             la cita:</p>
-          <quote><p>«Cuyo diente no perdonó racimo»<note place="bottom">Como he señalado en
-                la nota correspondiente, esta es la redacción original del verso en la copia de la
+          <quote>
+            <p>«Cuyo diente no perdonó racimo»<note place="bottom">Como he señalado en la nota
+                correspondiente, esta es la redacción original del verso en la copia de la
                   <emph>Soledad primera</emph> que manejó Ponce. A esa lectura, una mano distinta le
                 añadió la preposición <emph>a</emph> («no perdonó a racimo»).</note>: porque este
               animal es amicísimo de uvas, y por esto consagrado a Baco; Martial l<emph>ibro</emph>
@@ -1153,30 +1157,29 @@
                 y A. Ramírez de Verger, 1997). La ubicación en el libro 5 (5, 71) que recoge Ravisio
                 Textor es frecuente en las ediciones del XVI y XVII; ver la nota correspondiente en
                 la edición.</note>: Vite nocens roseas stabat moriturus ad aras / hircus, Bacche
-            tuis victima grata focis<space/>(Ponce, <emph>Silva</emph>, fol. 47r).</p>
-            <p>Martialis libro quinto. Vite nocens roseas stábat moriturus ad aras
-              Hircus, Bacche tuis victima grata focis (Ravisio Textor,<emph> Officina</emph>, ed
-              Paris, 1532, fol. CCXXVIIIr).</p>
+              tuis victima grata focis<space/>(Ponce, <emph>Silva</emph>, fol. 47r).</p>
+            <p>Martialis libro quinto. Vite nocens roseas stábat moriturus ad aras Hircus, Bacche
+              tuis victima grata focis (Ravisio Textor,<emph> Officina</emph>, ed Paris, 1532, fol.
+              CCXXVIIIr).</p>
           </quote>
           <p>A una consulta similar pudiera responder también la nota 67, dedicada a explicar la voz
               <emph>meta</emph> (<emph>Soledad primera</emph>, v. 581: «meta umbrosa al vaquero
             convecino»). Ponce ilustra su uso y significado con unos versos de Virgilio
               (<emph>Eneida</emph> 5, vv. 129-130) y un pasaje de <emph>La Arcadia</emph> de
             Sannazaro (prosa 5):</p>
-          <quote><emph>Meta</emph> es voz latina y toscana, que sinifica, en ambas
-              lenguas, el término del camino, como he dicho: <lb/>Virg<emph>ilio</emph>,
-                l<emph>ibro</emph> 5: <lb/>Hic viridem Aeneas frondenti ex ilice metam,
-              <lb/>constituit. <lb/>Sannazaro: <lb/>Oue qualunque che per velocità primo la
-              destinata meta toccaua. <lb/>(Ponce, <emph>Silva</emph>, fols. 64v-65r)
-          </quote>
+          <quote><emph>Meta</emph> es voz latina y toscana, que sinifica, en ambas lenguas, el
+            término del camino, como he dicho: <lb/>Virg<emph>ilio</emph>, l<emph>ibro</emph> 5:
+            <lb/>Hic viridem Aeneas frondenti ex ilice metam, <lb/>constituit. <lb/>Sannazaro:
+            <lb/>Oue qualunque che per velocità primo la destinata meta toccaua. <lb/>(Ponce,
+              <emph>Silva</emph>, fols. 64v-65r) </quote>
           <p>El pasaje de <emph>La Arcadia</emph> que cita Ponce coincide literalmente con el que se
             recoge en un repertorio de Lodovico Dolce, precisamente cuando ilustra la voz
               <emph>meta</emph>:</p>
-          <quote>Meta è il termino, o segno, che si pone a corritori. Vsò questa voce il
-              Sannazaro. Que qualunque per uelocità primo la destinata meta toccaua<note
-                place="bottom">Lodovico Dolce, <emph>Nvove osservationi della lingva volgare co i
-                  modi, et ornamenti del dire parole piv scelte, et eleganti</emph>, In Venetia, M.
-                D. XCVII. Apreso gli Heredi di Marchiò Sessa, fol. 151r.</note>
+          <quote>Meta è il termino, o segno, che si pone a corritori. Vsò questa voce il Sannazaro.
+            Que qualunque per uelocità primo la destinata meta toccaua<note place="bottom">Lodovico
+              Dolce, <emph>Nvove osservationi della lingva volgare co i modi, et ornamenti del dire
+                parole piv scelte, et eleganti</emph>, In Venetia, M. D. XCVII. Apreso gli Heredi di
+              Marchiò Sessa, fol. 151r.</note>
           </quote>
           <p>El lugar de Sannazaro aparece también como ilustración de la voz <emph>meta</emph> en
             otro vocabulario italiano –<emph>La fabrica del mondo</emph>, de Francesco Alunno–,
@@ -1260,21 +1263,20 @@
             1458b1-4). Es una muestra más del uso argumentativo de las autoridades, que se
             prolongará a lo largo de toda la polémica:</p>
           <quote>
-            <p>Verum si quis simul omnia huiuscemodi fecerit, vel aenigma erit, vel
-              barbarismus, si quidem igitur e translationibus, aenigma, si autem e linguis, et
-              barbarismus (Ponce, <emph>Silva</emph>, fols. 35r-35v) <lb/>(«porque si uno lo compone
-              todo de este modo, habrá enigma o barbarismo; si a base de metáforas, enigma; si de
-              palabras extrañas, barbarismo», Aristóteles, <emph>Poética</emph>, 1458a23-25)<note
+            <p>Verum si quis simul omnia huiuscemodi fecerit, vel aenigma erit, vel barbarismus, si
+              quidem igitur e translationibus, aenigma, si autem e linguis, et barbarismus (Ponce,
+                <emph>Silva</emph>, fols. 35r-35v) <lb/>(«porque si uno lo compone todo de este
+              modo, habrá enigma o barbarismo; si a base de metáforas, enigma; si de palabras
+              extrañas, barbarismo», Aristóteles, <emph>Poética</emph>, 1458a23-25)<note
                 place="bottom">Traducción de V. García Yebra, 1974.</note></p>
-            <p>Non populare quidem igitur faciet, et alia dicte formae: propium autem
-              claritudinem. Non minimam autem partem conferunt, ut locutio aperta sit, et non
-              popularis, productiones et ablationes et immutationes nominum. Quia enim hoc aliter se
-              habet quam propium, cum factam sit contra id quod consuetum, reddet in oratione non
-              bulgare genus (Ponce, <emph xml:lang="en">Discurso</emph>, fol. 93v) <lb/>(«También
-              contribuyen mucho a la claridad de la elocución y a evitar su vulgaridad los
-              alargamientos, apócopes y alteraciones de vocablos; pues por no ser como el usual,
-              apartándose de lo corriente, evitará la vulgaridad», Aristóteles,<emph> Poética</emph>
-              1458b1-4)</p>
+            <p>Non populare quidem igitur faciet, et alia dicte formae: propium autem claritudinem.
+              Non minimam autem partem conferunt, ut locutio aperta sit, et non popularis,
+              productiones et ablationes et immutationes nominum. Quia enim hoc aliter se habet quam
+              propium, cum factam sit contra id quod consuetum, reddet in oratione non bulgare genus
+              (Ponce, <emph xml:lang="en">Discurso</emph>, fol. 93v) <lb/>(«También contribuyen
+              mucho a la claridad de la elocución y a evitar su vulgaridad los alargamientos,
+              apócopes y alteraciones de vocablos; pues por no ser como el usual, apartándose de lo
+              corriente, evitará la vulgaridad», Aristóteles,<emph> Poética</emph> 1458b1-4)</p>
           </quote>
           <p>En esta misma línea, también los autores citados o mencionados en el
               <emph>Discurso</emph> en defensa de la oscuridad del poeta guardan una notable
@@ -1312,19 +1314,18 @@
             creación de voces, aunque aquí Ponce adapta parte del comentario a la lectura de los
             versos de Góngora:</p>
           <quote>
-            <p>Ello se puede entender en vna de dos maneras, o que de dos palabras se
-              haga vna: como si pongamos exemplo, {leuisonus, herbi pote<emph>ns</emph>,
-              legislator.} y en nuestro Castellano, primauera, agricultura, y odorifero, que son
-              vocablos compuestos de dos palabras, y dizen vna significacion; o que de junta de
-              muchas palabras, resulte vn solo sentido, como para significar la primauera, dize
-              Horacio en sus Odas libro 4. Oda 7. [Diffugere niues; reddeunt iam gramina campis;
-                arboribusq<emph>ue</emph> comae] de las quales vsa Horacio metaforicamente para
-              significar el Verano (<emph>Q. Horacio Flacco poeta lyrico latino. Sus obras con la
-                declaracion Magistral en lengua Castellana. Por el Doctor Villen de
-              Biedma...</emph>, Granada. Por Sebastian de Mena. Año 1599. A costa de Iuan Diez
-              mercader de libros, fol. 311r).</p>
-            <p>Así que, si uno cría una voz nueva que sea compuesta de otras comunes
-              en modo conviniente, le será lícito; como, por ejemplo, entre los latinos esta voz
+            <p>Ello se puede entender en vna de dos maneras, o que de dos palabras se haga vna: como
+              si pongamos exemplo, {leuisonus, herbi pote<emph>ns</emph>, legislator.} y en nuestro
+              Castellano, primauera, agricultura, y odorifero, que son vocablos compuestos de dos
+              palabras, y dizen vna significacion; o que de junta de muchas palabras, resulte vn
+              solo sentido, como para significar la primauera, dize Horacio en sus Odas libro 4. Oda
+              7. [Diffugere niues; reddeunt iam gramina campis; arboribusq<emph>ue</emph> comae] de
+              las quales vsa Horacio metaforicamente para significar el Verano (<emph>Q. Horacio
+                Flacco poeta lyrico latino. Sus obras con la declaracion Magistral en lengua
+                Castellana. Por el Doctor Villen de Biedma...</emph>, Granada. Por Sebastian de
+              Mena. Año 1599. A costa de Iuan Diez mercader de libros, fol. 311r).</p>
+            <p>Así que, si uno cría una voz nueva que sea compuesta de otras comunes en modo
+              conviniente, le será lícito; como, por ejemplo, entre los latinos esta voz
                 <emph>capra</emph>, y esta, <emph>genus</emph>, son notorias, y juntando ambas en
               una se hace esta palabra nueva <emph>c</emph><hi rend="u"><emph>aprigenum</emph></hi>
               o la voz <emph>semicapro</emph>, que está en esta silva, núm<emph>ero</emph> 28,
@@ -1344,34 +1345,34 @@
             un <emph>locus a comparatione</emph> mediante el que se justifican usos lingüísticos
             nuevos en autores más recientes, cuando ya han sido sancionados en otros anteriores:</p>
           <quote>
-            <p>Es argumento de mayor a menor, y quiso dezir, que si los Romanos dieron
-              licencia a Cecilio y a Plauto, no siendo los mejores Poetas del mundo, menos la
+            <p>Es argumento de mayor a menor, y quiso dezir, que si los Romanos dieron licencia a
+              Cecilio y a Plauto, no siendo los mejores Poetas del mundo, menos la
                 podia<emph>n</emph> negar a Virgilio, y a Vario, que fueron la prima de los Latinos:
               para q<emph>ue</emph> pudiessen inuentar nueuas palabras, y de otras lenguas
               introduzirlas (<emph>Q. Horacio Flacco poeta lyrico latino. Sus obras con la
                 declaracion Magistral en lengua Castellana. Por el Doctor Villen de
               Biedma...</emph>, fol. 311v).</p>
-            <p>Hace aquí un argumento de la mayor, y dice: si el pueblo romano ha
-              concedido a Cecilio y a Plauto fingir palabras nuevas, mucho más debe concederlo a
+            <p>Hace aquí un argumento de la mayor, y dice: si el pueblo romano ha concedido a
+              Cecilio y a Plauto fingir palabras nuevas, mucho más debe concederlo a
                 Virg<emph>ili</emph>o y Varo, que los imitan (Ponce, <emph>Discurso</emph>, fols.
               103v-104r).</p>
           </quote>
           <p>El siguiente pasaje muestra una coincidencia casi literal que refuerza las anteriores
             semejanzas:</p>
           <quote>
-            <p>Y por esto Horacio en persona de todos se quexa diciendo, {ego, cur
-              inuideor} por que soy odioso y murmurado {si possum acquirere pauca?} si puedo
-              adquirir algunas pocas palabras a mi propia lengua? Y vsa de la palabra, inuideo, como
-              de cosa nueua, porque no se dize inuideo te, sino tibi, y por consiguiente no auia de
-              dezir, non inuideor, sino mihi inuidetur" (<emph>Q. Horacio Flacco poeta lyrico
-                latino. Sus obras con la declaracion Magistral en lengua Castellana. Por el Doctor
-                Villen de Biedma...</emph>, Granada. Por Sebastian de Mena. Año 1599, fol. 311v)</p>
-            <p>Y volviendo a Horacio, prosigue: <emph>Ego cur inuideor</emph>: ¿por
-              qué debo ser invidiado o aborrecido si puedo adquirir algunas pocas palabras a mi
-              lengua? Y así, pone <hi rend="u"><emph>inuideor</emph></hi>, voz nueva; porque no se
-              dice <hi rend="u"><emph>inuideo te</emph></hi>, sino <emph>inuidio tibi</emph>; y por
-              el consiguiente, no decimos <hi rend="u"><emph>non inuideor</emph></hi>, sino
-                <emph>mihi inuidetur</emph> (Ponce,<emph> Discurso</emph>, fol. 107r)</p>
+            <p>Y por esto Horacio en persona de todos se quexa diciendo, {ego, cur inuideor} por que
+              soy odioso y murmurado {si possum acquirere pauca?} si puedo adquirir algunas pocas
+              palabras a mi propia lengua? Y vsa de la palabra, inuideo, como de cosa nueua, porque
+              no se dize inuideo te, sino tibi, y por consiguiente no auia de dezir, non inuideor,
+              sino mihi inuidetur" (<emph>Q. Horacio Flacco poeta lyrico latino. Sus obras con la
+                declaracion Magistral en lengua Castellana. Por el Doctor Villen de
+              Biedma...</emph>, Granada. Por Sebastian de Mena. Año 1599, fol. 311v)</p>
+            <p>Y volviendo a Horacio, prosigue: <emph>Ego cur inuideor</emph>: ¿por qué debo ser
+              invidiado o aborrecido si puedo adquirir algunas pocas palabras a mi lengua? Y así,
+              pone <hi rend="u"><emph>inuideor</emph></hi>, voz nueva; porque no se dice <hi
+                rend="u"><emph>inuideo te</emph></hi>, sino <emph>inuidio tibi</emph>; y por el
+              consiguiente, no decimos <hi rend="u"><emph>non inuideor</emph></hi>, sino <emph>mihi
+                inuidetur</emph> (Ponce,<emph> Discurso</emph>, fol. 107r)</p>
           </quote>
           <p>Una fuente cuya importancia merece ser destacada dentro de este <emph>Discurso</emph>
             es Giovanni Boccaccio y su <emph>Genealogia deorum gentilium</emph>. Como se verá
@@ -1382,27 +1383,24 @@
           <p>La deuda más evidente de Manuel Ponce con este escrito es la cita explícita de un
             pasaje que pertenece al comienzo del capítulo 7 («Quid sit poesis, &amp; unde dicta, et
             quod officium est eius») de ese libro 14 de la <emph>Genealogia</emph>:</p>
-          <quote>>Huius enim feruoris sunt sublimes effectus, utputa mentem in desiderium
-              dicendi compellere peregrinas et inauditas inuentiones excogitare, meditatas ordine
-              certo componere, ornare compositum inusitato quodam uerborum atque sententiarum
-              contextu, uelamento fabuloso atque decenti ueritatem contegere (Boccaccio,
-                <emph>Genealogia deorum gentilium</emph>, 14, 7, ed. Basilea, 1532, pp. 360-361).
-          </quote>
+          <quote>>Huius enim feruoris sunt sublimes effectus, utputa mentem in desiderium dicendi
+            compellere peregrinas et inauditas inuentiones excogitare, meditatas ordine certo
+            componere, ornare compositum inusitato quodam uerborum atque sententiarum contextu,
+            uelamento fabuloso atque decenti ueritatem contegere (Boccaccio, <emph>Genealogia deorum
+              gentilium</emph>, 14, 7, ed. Basilea, 1532, pp. 360-361). </quote>
           <p>Y volviendo a lo que toca a la dificultad que resulta en la poesía, de ser escrita en
             los términos y con los preceptos convinientes, el Boccaccio, en el 14 de la
               <emph>Genealogía de los dioses</emph>, dice:</p>
-          <quote>«Los efectos de poético furor son conducir la mente en el ánimo de
-              decir bien, imaginar raras y jamás oídas invenciones, ampliarlas y ornarlas,
-              compuestas con un cierto raro y no común estilo de palabras supremas y sentencias
-              divinas; y, debajo del velo de la fábula apropiada, esconder la conocida verdad»
-              (Ponce, <emph>Discurso</emph>, fols. 94v-95r)<note place="bottom">Los pasajes no se
-                encuentran en la traducción castellana de Martín de Ávila, del círculo del marqués
-                de Santillana, que solo recoge los trece primeros libros. Esos trece primeros
-                libros, de materia mitológica, constituyen la primera versión de la
-                  <emph>Genealogia</emph>, que parece se redactó en torno a 1360. Boccaccio
-                reelaboró el texto hasta casi su muerte en 1375, y añadió los libros 14 y 15. Más
-                detalles en Gómez Sánchez, 2002, pp. VII, XXI, LXXXIX-C.</note>.
-          </quote>
+          <quote>«Los efectos de poético furor son conducir la mente en el ánimo de decir bien,
+            imaginar raras y jamás oídas invenciones, ampliarlas y ornarlas, compuestas con un
+            cierto raro y no común estilo de palabras supremas y sentencias divinas; y, debajo del
+            velo de la fábula apropiada, esconder la conocida verdad» (Ponce, <emph>Discurso</emph>,
+            fols. 94v-95r)<note place="bottom">Los pasajes no se encuentran en la traducción
+              castellana de Martín de Ávila, del círculo del marqués de Santillana, que solo recoge
+              los trece primeros libros. Esos trece primeros libros, de materia mitológica,
+              constituyen la primera versión de la <emph>Genealogia</emph>, que parece se redactó en
+              torno a 1360. Boccaccio reelaboró el texto hasta casi su muerte en 1375, y añadió los
+              libros 14 y 15. Más detalles en Gómez Sánchez, 2002, pp. VII, XXI, LXXXIX-C.</note>. </quote>
           <p>A este pasaje pueden unirse otros del mismo libro 14 de la <emph>Genealogia</emph>; en
             este caso de su capítulo 12. Allí Boccaccio defiende la oscuridad como rasgo del estilo
             de los poetas; su epígrafe revela una opinión similar a la que defenderá Ponce
@@ -1412,88 +1410,86 @@
             textos se asemejan, aunque en este caso Ponce ofrece una recreación abreviada, cuya
             procedencia no declara:</p>
           <quote>
-            <p>Testes sunt plurimi, quos inter si libet interrogent Augustinum,
-              sanctissimum atque eruditissimum hominem, et cuius ingenii tam grandes fuere uires, ut
-              artes multas, et quicquid de decem cathegoriis tradidere philosophi absque, ut ipse
-              fatetur, praeceptore perceperit. Nec tamen erubuit confiteri se Isaiae principium
-              intelligere nequiuisse. Non ergo obscuritates solis poematibus insunt. Quid ergo non
-              incusant philosophos ut poetas? Quid non dicunt Spiritum Sanctum suis operibus ut
+            <p>Testes sunt plurimi, quos inter si libet interrogent Augustinum, sanctissimum atque
+              eruditissimum hominem, et cuius ingenii tam grandes fuere uires, ut artes multas, et
+              quicquid de decem cathegoriis tradidere philosophi absque, ut ipse fatetur,
+              praeceptore perceperit. Nec tamen erubuit confiteri se Isaiae principium intelligere
+              nequiuisse. Non ergo obscuritates solis poematibus insunt. Quid ergo non incusant
+              philosophos ut poetas? Quid non dicunt Spiritum Sanctum suis operibus ut
               artificiosiores apparerent, obscuras implicuisse sententias? (Boccaccio,
                 <emph>Genealogia deorum gentilium</emph>, 14, 12, ed. Basilea, 1532, p. 368).</p>
-            <p>Y hay muchos testigos. Entre los cuales, si les apetece, que pregunten
-              a Agustín, santísimo y eruditísimo hombre y del que fueron tan grandes las fuerzas del
-              ingenio que sin preceptor, como él mismo confiesa, aprendió muchas artes y lo que
-              sobre las diez categorías dijeron los filósofos, y sin embargo no se ruborizó al
-              confesar que él no había podido comprender el principio de Isaías. Por tanto las
-              oscuridades no están tan sólo en los poemas. Así pues, ¿por qué no acusan a los
-              filósofos como a los poetas? ¿Por qué no dicen que el Espíritu Santo en sus obras
-              introdujo pensamientos oscuros para que parecieran más artísticas? (Boccaccio,
-                <emph>Genealogía de los dioses paganos</emph>, 14, 12, p. 831).</p>
-            <p>y particular testimonio el Aurelio Agustino, cuyo espíritu angélico
-              excedió la naturaleza humana en el caudal supremo de su ingenio divino, el cual
-              confiesa no haber podido entender el principio de Esaías–, no, pues, será la oscuridad
-              culpable en los poetas, imitadores en ella de la escritura divina y de los filósofos
-              graves (Ponce, <emph>Discurso</emph>, fols. 89r-89v)</p>
+            <p>Y hay muchos testigos. Entre los cuales, si les apetece, que pregunten a Agustín,
+              santísimo y eruditísimo hombre y del que fueron tan grandes las fuerzas del ingenio
+              que sin preceptor, como él mismo confiesa, aprendió muchas artes y lo que sobre las
+              diez categorías dijeron los filósofos, y sin embargo no se ruborizó al confesar que él
+              no había podido comprender el principio de Isaías. Por tanto las oscuridades no están
+              tan sólo en los poemas. Así pues, ¿por qué no acusan a los filósofos como a los
+              poetas? ¿Por qué no dicen que el Espíritu Santo en sus obras introdujo pensamientos
+              oscuros para que parecieran más artísticas? (Boccaccio, <emph>Genealogía de los dioses
+                paganos</emph>, 14, 12, p. 831).</p>
+            <p>y particular testimonio el Aurelio Agustino, cuyo espíritu angélico excedió la
+              naturaleza humana en el caudal supremo de su ingenio divino, el cual confiesa no haber
+              podido entender el principio de Esaías–, no, pues, será la oscuridad culpable en los
+              poetas, imitadores en ella de la escritura divina y de los filósofos graves (Ponce,
+                <emph>Discurso</emph>, fols. 89r-89v)</p>
           </quote>
           <p>Poco más adelante, en ese mismo capítulo 12, encontramos otros dos pasajes de Boccaccio
             recreados de cerca por Ponce, justo a continuación del anterior texto de su
               <emph>Discurso</emph> donde se refería a san Agustín y la dificultad de los textos de
             Isaías:</p>
           <quote>
-            <p>Verum non ob id, ut isti uolunt, iure damnanda, cum inter alia poetae
-              officia sit non cuiscerate fictionibus palliata, quinimmo si in propatulo posita sint
-              memoratu et ueneratione digna, ne uilescant familiaritate nimia, quanta possunt
-              industria tegere, et ab oculis torpentium auferre (Boccaccio, <emph>Genealogia deorum
-                gentilium</emph>, 14, 12, ed. Basilea, 1532, p. 368)</p>
-            <p>Pero no por esto deben ser condenados con razón, como quieren éstos,
-              puesto que entre los oficios del poeta está el no desentrañar lo cubierto con
-              ficciones sino que, si se colocan a la vista de todos las cosas dignas de recuerdo y
-              veneración, para que no pierdan su valor por una excesiva familiaridad, ocultarlas con
-              cuanto artificio puedan y alejarlas de los ojos de los torpes (Boccaccio,
-                <emph>Genealogía de los dioses paganos</emph>, 14, 12, p. 832)</p>
-            <p>Y debe considerarse que el oficio del poeta no es descubrir las cosas
-              que por sí están cubiertas con algún velo; antes, si son claras y manifiestas,
-              cifrarlas con cuanta diligencia y estudio pudiere, y encubrirlas a los ojos de la
-              ignorancia porque la demasiada familiaridad no las deslustre; antes sean, por su
-              dificultad, más dignas de memoria y reverencia (Ponce, <emph>Discurso</emph>, fols.
-              89r-89v)</p>
-            <p>Nec sit qui existimet a poetis ueritates fictionibus inuidia conditas,
-              aut ut uelint omnino absconditorum sensum negare lectoribus, aut ut artificiosiores
-              appareant, sed ut, quae apposita uoluissent labore ingeniorum quaesita, et diuersimode
-              intellecta, comporta tandem facient chariora (Boccaccio, <emph>Genealogia deorum
-                gentilium</emph>, 14, 12, ed. Basilea, 1532, p. 368)</p>
-            <p>Y no puede haber quien piense que las verdades son escondidas por los
-              poetas en las ficciones por envidia o porque quieren negar a los lectores
-              absolutamente el significado de lo escondido o para aparecer más artistas, sino porque
-              a las cosas que puestas a la luz habrían perdido valor, buscadas con el esfuerzo de
-              los ingenios, y comprendidas de modo distinas al ser finalmente descubiertas, las
-              hacen más caras (Boccaccio, <emph>Genealogía de los dioses paganos</emph>, 14, 12, p.
-              832)</p>
-            <p>Y ninguno presuma que el autor desta silva por presunción oscureció
-              estos conceptos, o porque quiso negar de todo punto a los ingeniosos el sentimiento de
-              las cosas cifradas, o por mostrarse más singular y artificioso. Porque su intento fue
-              que las sentencias que procurasen entender en ellos o su sentido –solicitado con
-              fatiga y trabajo del entendimiento y diversamente interpretado– fuese, después de
-              entendido, tenido en más veneración y estima; y ejercitados en esto, los valientes
-              ingenios se descubriesen y se acrisolasen los inferiores (Ponce,
-              <emph>Discurso</emph>, fol. 89v).</p>
+            <p>Verum non ob id, ut isti uolunt, iure damnanda, cum inter alia poetae officia sit non
+              cuiscerate fictionibus palliata, quinimmo si in propatulo posita sint memoratu et
+              ueneratione digna, ne uilescant familiaritate nimia, quanta possunt industria tegere,
+              et ab oculis torpentium auferre (Boccaccio, <emph>Genealogia deorum gentilium</emph>,
+              14, 12, ed. Basilea, 1532, p. 368)</p>
+            <p>Pero no por esto deben ser condenados con razón, como quieren éstos, puesto que entre
+              los oficios del poeta está el no desentrañar lo cubierto con ficciones sino que, si se
+              colocan a la vista de todos las cosas dignas de recuerdo y veneración, para que no
+              pierdan su valor por una excesiva familiaridad, ocultarlas con cuanto artificio puedan
+              y alejarlas de los ojos de los torpes (Boccaccio, <emph>Genealogía de los dioses
+                paganos</emph>, 14, 12, p. 832)</p>
+            <p>Y debe considerarse que el oficio del poeta no es descubrir las cosas que por sí
+              están cubiertas con algún velo; antes, si son claras y manifiestas, cifrarlas con
+              cuanta diligencia y estudio pudiere, y encubrirlas a los ojos de la ignorancia porque
+              la demasiada familiaridad no las deslustre; antes sean, por su dificultad, más dignas
+              de memoria y reverencia (Ponce, <emph>Discurso</emph>, fols. 89r-89v)</p>
+            <p>Nec sit qui existimet a poetis ueritates fictionibus inuidia conditas, aut ut uelint
+              omnino absconditorum sensum negare lectoribus, aut ut artificiosiores appareant, sed
+              ut, quae apposita uoluissent labore ingeniorum quaesita, et diuersimode intellecta,
+              comporta tandem facient chariora (Boccaccio, <emph>Genealogia deorum gentilium</emph>,
+              14, 12, ed. Basilea, 1532, p. 368)</p>
+            <p>Y no puede haber quien piense que las verdades son escondidas por los poetas en las
+              ficciones por envidia o porque quieren negar a los lectores absolutamente el
+              significado de lo escondido o para aparecer más artistas, sino porque a las cosas que
+              puestas a la luz habrían perdido valor, buscadas con el esfuerzo de los ingenios, y
+              comprendidas de modo distinas al ser finalmente descubiertas, las hacen más caras
+              (Boccaccio, <emph>Genealogía de los dioses paganos</emph>, 14, 12, p. 832)</p>
+            <p>Y ninguno presuma que el autor desta silva por presunción oscureció estos conceptos,
+              o porque quiso negar de todo punto a los ingeniosos el sentimiento de las cosas
+              cifradas, o por mostrarse más singular y artificioso. Porque su intento fue que las
+              sentencias que procurasen entender en ellos o su sentido –solicitado con fatiga y
+              trabajo del entendimiento y diversamente interpretado– fuese, después de entendido,
+              tenido en más veneración y estima; y ejercitados en esto, los valientes ingenios se
+              descubriesen y se acrisolasen los inferiores (Ponce, <emph>Discurso</emph>, fol.
+              89v).</p>
           </quote>
           <p>En el capítulo 7 de ese mismo libro 14, Boccaccio se ocupa del origen y definición de
             los términos <emph>poesía</emph> y <emph>poeta</emph>, un asunto de larga tradición del
             que me ocuparé más adelante. Aquí basta señalar que la formulación de Ponce resulta de
             nuevo muy cercana a la de Boccaccio:</p>
           <quote>
-            <p>Cuius quidem poesis nomen non inde exortum est, unde plurimi minus
-              aduertenter existimant, scilicet à <emph>poio, pois</emph>, quod idem sonat quod
-                <emph>fingo fingis</emph>, quinimo à poetes uetustissimo Graecorum uocabulo latine
-              sonante exquisita locutio. Nam primi, qui inflati spiritu exquisite rudi adhuc saeculo
-              coepere loqui, utputa carmine, tunc omnino loquendi genus incognitum, ut sonorum
-              auribus audientium etiam uideretur (Boccaccio, <emph>Genealogia deorum
-                gentilium</emph>, 14, 7, ed. Basilea, 1532, p. 361)</p>
-            <p>El nombre de esta poesía no ha derivado de donde la mayoría piensan sin
-              darse cuenta, a saber, de <emph>poio poiesis</emph>, que significa lo mismo que
-                <emph>fingo, fingis</emph>, sino de <emph>poietes</emph>, antiquísima palabra griega
-              que significa exquisita locución. Pues los primeros que, animados con este espíritu,
+            <p>Cuius quidem poesis nomen non inde exortum est, unde plurimi minus aduertenter
+              existimant, scilicet à <emph>poio, pois</emph>, quod idem sonat quod <emph>fingo
+                fingis</emph>, quinimo à poetes uetustissimo Graecorum uocabulo latine sonante
+              exquisita locutio. Nam primi, qui inflati spiritu exquisite rudi adhuc saeculo coepere
+              loqui, utputa carmine, tunc omnino loquendi genus incognitum, ut sonorum auribus
+              audientium etiam uideretur (Boccaccio, <emph>Genealogia deorum gentilium</emph>, 14,
+              7, ed. Basilea, 1532, p. 361)</p>
+            <p>El nombre de esta poesía no ha derivado de donde la mayoría piensan sin darse cuenta,
+              a saber, de <emph>poio poiesis</emph>, que significa lo mismo que <emph>fingo,
+                fingis</emph>, sino de <emph>poietes</emph>, antiquísima palabra griega que
+              significa exquisita locución. Pues los primeros que, animados con este espíritu,
               comenzaron a hablar exquisitamente en un siglo todavía rudo, como por ejemplo en
               verso, manera de hablar entonces totalmente desconocida, para que pareciera también
               sonoro a los oídos de los oyentes (Boccaccio, <emph>Genealogía de los dioses
@@ -1507,10 +1503,10 @@
                 exquisita locución, y quienes la habían compuesto fueron llamados poetas»
                 (Boccaccio, <emph>Genealogía de los dioses paganos</emph>, 14, 8, p. 820).
               </note>.</p>
-            <p>Y supuesto que este nombre de la poesía no nació ni es denominado –como
-              algunos abiertamente dicen– de <emph>poio, pois</emph>, que traducido dice lo mismo
-              que <emph>fingo fingis</emph>; antes se deriva de <emph>poaetes</emph>, antiquísima
-              voz griega que se lee <hi rend="u">esquisita locució</hi>’, porque los primeros de
+            <p>Y supuesto que este nombre de la poesía no nació ni es denominado –como algunos
+              abiertamente dicen– de <emph>poio, pois</emph>, que traducido dice lo mismo que
+                <emph>fingo fingis</emph>; antes se deriva de <emph>poaetes</emph>, antiquísima voz
+              griega que se lee <hi rend="u">esquisita locució</hi>’, porque los primeros de
               inflamado espíritu comenzaron a hablar diversamente del común en aquel siglo bárbaro,
               como ahora en el verso –que al fin era una suerte de locución rara y no conocida–, se
               sigue que aquel cumplirá mejor con los preceptos y nombre de la poesía, que en la suya
@@ -1651,15 +1647,15 @@
               <p>Ammianus Marcellinus (c. 335-d. 378), historiador romano conocido por sus <emph>Res
                   Gestae.</emph></p>
               <p>Anacreonte (c. 574-c. 485 a. C.), <emph>Odas</emph>.</p>
-              <p>Annio de Viterbo (pseudo Beroso) (1432-1502), <emph>Commentaria super opera diversorum
-                auctorum de antiquitatibus, también conocida como Berosi sacerdotis chaldaici
-                antiquitatum Italiae ac totius orbis libri quinque, commentariis Ioannis Annii
-                Viterbensis</emph>.</p>
+              <p>Annio de Viterbo (pseudo Beroso) (1432-1502), <emph>Commentaria super opera
+                  diversorum auctorum de antiquitatibus, también conocida como Berosi sacerdotis
+                  chaldaici antiquitatum Italiae ac totius orbis libri quinque, commentariis Ioannis
+                  Annii Viterbensis</emph>.</p>
               <p>Apuleyo (c. 125-c. 180), <emph>El asno de oro.</emph></p>
               <p>Aquiles Tacio (s. II),<emph> Leucipa y Clitofonte.</emph></p>
               <p>Ariosto (1474-1533), <emph>Orlando furioso.</emph></p>
-              <p>Aristóteles (384-322 a. C.), <emph>De natura animalium, Historia animalium, Liber de
-                inundatione Nili (De nilo)</emph> [atribuida].</p>
+              <p>Aristóteles (384-322 a. C.), <emph>De natura animalium, Historia animalium, Liber
+                  de inundatione Nili (De nilo)</emph> [atribuida].</p>
               <p>Aulo Gelio (c. 129-c. 180), <emph>Noctes Atticae.</emph></p>
               <p>Ausonio (310-395), <emph>De rosis nascentibus</emph> (atribuido a Virgilio).</p>
               <p>Biblia (Génesis 2, 13; Salmo vg. 138; Tobías 12, 15).</p>
@@ -1669,9 +1665,11 @@
                 Ilustra la idea de que los ríos tienen ángeles custodios que guían sus aguas.</p>
               <p>Catulo (87 a. C.-c. 54 a. C.), <emph>Carmina.</emph></p>
               <p>Cicerón (106 a. C.-43 a. C.), <emph>De natura deorum.</emph></p>
-              <p>Claudiano, <emph>In Rufinum</emph>, <emph>De raptu Proserpinae</emph>, <emph>Phoenix</emph>, <emph>Ephitalamium dictum Palladio
-                et Celerinae</emph>, <emph>Nilus</emph>.</p>
-              <p>Claudio Eliano (c. 175-c. 235), <emph>De natura animalium</emph>, <emph>Varia Historia</emph>.</p>
+              <p>Claudiano, <emph>In Rufinum</emph>, <emph>De raptu Proserpinae</emph>,
+                  <emph>Phoenix</emph>, <emph>Ephitalamium dictum Palladio et Celerinae</emph>,
+                  <emph>Nilus</emph>.</p>
+              <p>Claudio Eliano (c. 175-c. 235), <emph>De natura animalium</emph>, <emph>Varia
+                  Historia</emph>.</p>
               <p>Coccio, Marco Antonio (c. 1436-1506), llamado Sabellico por su lugar de nacimiento
                 (Vicovaro), en el territorio de los antiguos sabinos. La obra mencionada es su
                   <emph>Enneades sive Rhapsodia historiarum ab orbe condito</emph>. Se incluye como
@@ -1692,13 +1690,15 @@
                 La primera edición de la primera parte se publicó en Dueñas en 1565, y la primera
                 edición de la segunda parte en Salamanca en 1573.</p>
               <p>Guarini, Giovanni Battista (1538-1612), <emph>Il pastor Fido.</emph></p>
-              <p>Heródoto de Halicarnaso (484 a. C.-435 a. C.), <emph>Los nueve libros de la Historia</emph>.</p>
+              <p>Heródoto de Halicarnaso (484 a. C.-435 a. C.), <emph>Los nueve libros de la
+                  Historia</emph>.</p>
               <p>Hesíodo (segunda mitad del s. VII a. C.), <emph>Catálogo de mujeres</emph>
                 (atribuida) [fuente tomada de Claudio Eliano,<emph> Varia Historia</emph>].</p>
               <p>Homero (c. s. VIII a. C.), <emph>Odisea, Iliada</emph>.</p>
               <p>Horacio, Odas, Épodos, Ars Poetica.</p>
-              <p><emph>Ivlii Caesaris Scaligeri exotericarum exercitationvm liber qvintus decimvs, de
-                svbtilitate, ad Hieronymvm Cardanvm</emph>. Fuente de noticias sobre el Nilo.</p>
+              <p><emph>Ivlii Caesaris Scaligeri exotericarum exercitationvm liber qvintus decimvs,
+                  de svbtilitate, ad Hieronymvm Cardanvm</emph>. Fuente de noticias sobre el
+                Nilo.</p>
               <p>Johannes Trithemius (1462-1516), erudito y abad benedictino alemán, que fundó una
                 sociedad (Sodalitas Celtica) dedicada al estudio de las lenguas, la astrología y el
                 significado de los números. Ponce se refiere a <emph>De Septem Secundeis</emph>,
@@ -1726,16 +1726,19 @@
               <p>Marino, Giambattista (1569-1625), <emph>Rime</emph>.</p>
               <p>Michael Maier (1568-1622), médico y alquimista alemán. Ponce se refiere a una de
                 sus primeras obras destacadas: <emph>Arcana arcanissima, hoc est, Hieroglyphica
-                AEgyptio-Graeca: vulgo necdum cognita, ad demonstrandam falsorum apud antiquos
-                deorum, dearum, heroum, animantium, et institutorum pro sacris receptorum, originem,
-                ex uno AEgyptiorum artificio, quad aureum animi et Corporis medicamentum peregit,
-                deductam: unde tot poetarum allegoriae, scriptorum narrationes fabulosae et per
-                totam encyclopaediam errores sparsi clarissima veritatis luce manifestantur, suaque
-                tribui singula restituuntur, sex libris exposita</emph>. London, Creede, 1614.</p>
-              <p>Natale Conti (1520-1582), <emph>Mythologiae sive explicationis fabularum
-                libri decem (1567)</emph>.</p>
-              <p>Ovidio, <emph>Metamorfosis</emph>, <emph>Fastos</emph>, <emph>Ex Ponto</emph>, <emph>Heroidas</emph>.</p>
-              <p>Pausanias (c. 110-c. 180), <emph>Hellados Periegesis</emph> (Descripción de Grecia).</p>
+                  AEgyptio-Graeca: vulgo necdum cognita, ad demonstrandam falsorum apud antiquos
+                  deorum, dearum, heroum, animantium, et institutorum pro sacris receptorum,
+                  originem, ex uno AEgyptiorum artificio, quad aureum animi et Corporis medicamentum
+                  peregit, deductam: unde tot poetarum allegoriae, scriptorum narrationes fabulosae
+                  et per totam encyclopaediam errores sparsi clarissima veritatis luce
+                  manifestantur, suaque tribui singula restituuntur, sex libris exposita</emph>.
+                London, Creede, 1614.</p>
+              <p>Natale Conti (1520-1582), <emph>Mythologiae sive explicationis fabularum libri
+                  decem (1567)</emph>.</p>
+              <p>Ovidio, <emph>Metamorfosis</emph>, <emph>Fastos</emph>, <emph>Ex Ponto</emph>,
+                  <emph>Heroidas</emph>.</p>
+              <p>Pausanias (c. 110-c. 180), <emph>Hellados Periegesis</emph> (Descripción de
+                Grecia).</p>
               <p>Petrarca (1304-1374), <emph>Trionfo d’Amore</emph>, <emph>Canzoniere</emph>.</p>
               <p>Plinio el Viejo, <emph>Naturalis Historia</emph>.</p>
               <p>Plutarco (c. 50-c. 120), <emph>Cuestiones conviviales.</emph></p>
@@ -1748,7 +1751,8 @@
                 en Volterra. Se cita la traducción latina de un epigrama griego sobre Arión y el
                 delfín.</p>
               <p>Remigio de Auxerre (c. 850-908), <emph>Comentum in Martianum Capellam.</emph></p>
-              <p>Salustio (86 a. C.-34 a. C.), <emph>Bellum Catilinae (De coniuratione Catilinae)</emph>.</p>
+              <p>Salustio (86 a. C.-34 a. C.), <emph>Bellum Catilinae (De coniuratione
+                  Catilinae)</emph>.</p>
               <p>Sannazaro,<emph> Arcadia.</emph></p>
               <p>Séneca (4 a. C.-65 d. C.), <emph>Edipo, Fedra.</emph></p>
               <p>Silio Itálico (c. 25-101),<emph> Punica.</emph></p>
@@ -1852,9 +1856,10 @@
               <head>Folio que contiene pasajes de Juan de Mena, prólogo de la Coronación</head>
               <p>Lugares del prólogo de la <emph>Coronación</emph> de Juan de Mena que justifican el
                 estilo de Góngora.</p>
-              <p rend="dialog">- Copia de la <emph>Soledad segunda</emph> (el periodo de la caza)</p>
-              <p rend="dialog">- Natale Conti, <emph>Mythologiae sive explicationis fabularum libri decem</emph>
-                (1567).</p>
+              <p rend="dialog">- Copia de la <emph>Soledad segunda</emph> (el periodo de la
+                caza)</p>
+              <p rend="dialog">- Natale Conti, <emph>Mythologiae sive explicationis fabularum libri
+                  decem</emph> (1567).</p>
             </div>
           </div>
         </div>
@@ -1883,15 +1888,16 @@
             críticas a su oscuridad en tres razones que, al mismo tiempo, están apuntando a tres
             tipos de ingenios incapaces de comprender el texto:</p>
           <list type="ol" rend="1">
-            <item rend="justify">«por la continuación de metáforas, hipérboles, translaciones, metonimias,
-              repeticiones, exclamaciones, símiles, descripciones, transgresiones y locuciones [es
-              oscura] a los que carecen de los preceptos de la retórica y poética» (fol. 2r).</item>
-            <item rend="justify">«por la gramática, términos y frases nuevas [es oscura] a los que carecen de las
-              lenguas latina y toscana a quien imita su autor en el estilo, gravedad y heroicia»
-              (fols. 2r-2v).</item>
-            <item rend="justify">«por las imitaciones, historias y fábulas y antigüedades que tiene es dificultosa
-              a los que carecen de la lección de letras humanas y noticia de los poetas e
-              historiadores» (fol. 2v).</item>
+            <item rend="justify">«por la continuación de metáforas, hipérboles, translaciones,
+              metonimias, repeticiones, exclamaciones, símiles, descripciones, transgresiones y
+              locuciones [es oscura] a los que carecen de los preceptos de la retórica y poética»
+              (fol. 2r).</item>
+            <item rend="justify">«por la gramática, términos y frases nuevas [es oscura] a los que
+              carecen de las lenguas latina y toscana a quien imita su autor en el estilo, gravedad
+              y heroicia» (fols. 2r-2v).</item>
+            <item rend="justify">«por las imitaciones, historias y fábulas y antigüedades que tiene
+              es dificultosa a los que carecen de la lección de letras humanas y noticia de los
+              poetas e historiadores» (fol. 2v).</item>
           </list>
           <p>Estas razones reúnen las principales causas por las que se censuraban las
               <emph>Soledades</emph>: excesos en el <emph>ornatus</emph> y <emph>verba
@@ -1924,8 +1930,8 @@
               programática. Las semejanzas entre los textos de Almansa y Ponce también habían sido
               advertidas por Dámaso Alonso, 1982, p. 523; Carreira, 1998a, pp. 263-264; Osuna
               Cabezas, 2008, pp. 113-114, 117, 124; López Bueno, 2011, pp.<space/>244, 252; López
-              Bueno, 2012a, p.<space/>22; López Bueno, 2018, <emph>passim</emph>;
-              Daza, 2014b; Daza, 2015, pp. 38-40.</note>.</p>
+              Bueno, 2012a, p.<space/>22; López Bueno, 2018, <emph>passim</emph>; Daza, 2014b; Daza,
+              2015, pp. 38-40.</note>.</p>
           <p>La primera causa formulada por los doctos reúne dos aspectos que, según la preceptiva
             retórica, provocarían la excesiva oscuridad de la expresión: la frecuencia de voces
             nuevas y foráneas y de translaciones remotas, es decir, de tropos donde la analogía se
@@ -1933,13 +1939,12 @@
               <emph>Poética</emph> de Aristóteles, ya comentado al hablar de las fuentes manejadas
             por Manuel Ponce:</p>
           <quote>
-            <p>porque la oscuridad de la oración nace de valerse el poeta de voces
-              nuevas y no usadas, y continuada frecuencia de translaciones remotas, de cuya unión
-              resulta este incombiniente, según el precepto de Aristóteles, cuyas palabras son
-              estas:</p>
-            <p>Verum si quis simul omnia huiuscemodi fecerit, vel aenigma erit, vel
-              barbarismus, si quidem igitur e translationibus, aenigma, si autem e linguis, et
-              barbarismus (Ponce, <emph>Silva</emph> fols. 35r-35v).</p>
+            <p>porque la oscuridad de la oración nace de valerse el poeta de voces nuevas y no
+              usadas, y continuada frecuencia de translaciones remotas, de cuya unión resulta este
+              incombiniente, según el precepto de Aristóteles, cuyas palabras son estas:</p>
+            <p>Verum si quis simul omnia huiuscemodi fecerit, vel aenigma erit, vel barbarismus, si
+              quidem igitur e translationibus, aenigma, si autem e linguis, et barbarismus (Ponce,
+                <emph>Silva</emph> fols. 35r-35v).</p>
           </quote>
           <p>La segunda censura de los doctos (fol. 35v) afecta a otro de los pilares de la
             interpretación y juicio de las<emph> Soledades</emph>: el género del poema y la
@@ -2009,31 +2014,30 @@
             fundamentarán en calificar como error del poema lo que en realidad es falta de lecturas
             y conocimientos:</p>
           <quote>
-            <p>Y a esta causa, los que se solicitan opinión de ingeniosos, allándose
-              perdidos en esta nauegación, reprueban lo que no entienden, atribuyendo su defecto a
-              lo escrito y no a lo poco leído (Ponce, <emph>Silva</emph>, fol. 37r)</p>
-            <p>Y los curiosos –que exceden en número a los referidos [los agudos o
-              ingeniosos]–, desesperados de descubrir su curiosidad, tratando con la debida noticia
-              deste admirable papel, se disculpan del mismo modo diciendo que no es cosa digna de
-              que los hombres de buen juicio se ocupen en ella, no mirando que, por su misma
-              sentencia, quedan obligados a estudiarle (Ponce, <emph>Silva</emph>, fol. 37v)</p>
+            <p>Y a esta causa, los que se solicitan opinión de ingeniosos, allándose perdidos en
+              esta nauegación, reprueban lo que no entienden, atribuyendo su defecto a lo escrito y
+              no a lo poco leído (Ponce, <emph>Silva</emph>, fol. 37r)</p>
+            <p>Y los curiosos –que exceden en número a los referidos [los agudos o ingeniosos]–,
+              desesperados de descubrir su curiosidad, tratando con la debida noticia deste
+              admirable papel, se disculpan del mismo modo diciendo que no es cosa digna de que los
+              hombres de buen juicio se ocupen en ella, no mirando que, por su misma sentencia,
+              quedan obligados a estudiarle (Ponce, <emph>Silva</emph>, fol. 37v)</p>
           </quote>
           <p>Entre esos defectos que intentan encubrir su ignorancia, los agudos aducen la falta de
             adecuación entre género y estilo, aspecto que ya se mencionó al reproducir las críticas
             de los doctos. Para estos censores agudos, el estilo de las <emph>Soledades</emph>
             pretende una gravedad heroica que no se adecua a su carácter lírico:</p>
-          <quote>y dicen que carece del natural lenguaje y propiedad de los términos,
-              pues en los que está escrito no se halla igualdad heroica ni dulzura lírica<note
-                place="bottom">Se refiere a los sonidos blandos que requiere el verso lírico y a la
-                igualdad de la cadencia que exigía el heroico. Almansa afirma en sus <emph
-                  xml:lang="es">Advertencias</emph>: «si heroicos, llenar de voces graves el verso
-                en la igualdad de su cadencia, y si líricos, de voces blandas» (p. 124). Cito por la
-                edición de Begoña López Bueno, 2018.</note>, sino graves acometimientos y realces
-              violentados que desfallecen donde más debían sustentarse; y que en el
-                <emph>Polifemo</emph> y en esta silva ha errado los estilos, porque en aquel, que
-              contenía una acción lírica, no escribió lírico; y en esta, que también lo es, ha
-              escrito versos cuyo nervio es heroico (Ponce, <emph>Silva</emph>, fols. 37r-37v).
-          </quote>
+          <quote>y dicen que carece del natural lenguaje y propiedad de los términos, pues en los
+            que está escrito no se halla igualdad heroica ni dulzura lírica<note place="bottom">Se
+              refiere a los sonidos blandos que requiere el verso lírico y a la igualdad de la
+              cadencia que exigía el heroico. Almansa afirma en sus <emph xml:lang="es"
+                >Advertencias</emph>: «si heroicos, llenar de voces graves el verso en la igualdad
+              de su cadencia, y si líricos, de voces blandas» (p. 124). Cito por la edición de
+              Begoña López Bueno, 2018.</note>, sino graves acometimientos y realces violentados que
+            desfallecen donde más debían sustentarse; y que en el <emph>Polifemo</emph> y en esta
+            silva ha errado los estilos, porque en aquel, que contenía una acción lírica, no
+            escribió lírico; y en esta, que también lo es, ha escrito versos cuyo nervio es heroico
+            (Ponce, <emph>Silva</emph>, fols. 37r-37v). </quote>
           <p>Hasta aquí la parte central de la dedicatoria, donde Ponce se ha limitado a enumerar un
             torrente de censuras que acosaban al poema de Góngora, sin dedicarse a rebatirlas, algo
             que reservará para el <emph>Discurso</emph> en defensa de la oscuridad.</p>
@@ -2050,10 +2054,10 @@
               anteriores las aportaciones de la crítica sobre las semejanzas entre los textos de
               Almansa y Ponce.</note>:</p>
           <quote>
-            <p>Si lo entienden, no oscuros; si no lo entienden, no lo juzguen
-              (Almansa, <emph>Advertencias</emph>, p. 134).</p>
-            <p>Y querría preguntarlos, si no le entienden bien, ¿por qué le enmiendan?
-              si le entienden, ¿por qué le culpan de oscuro? (Ponce, <emph>Silva</emph>, fols.
+            <p>Si lo entienden, no oscuros; si no lo entienden, no lo juzguen (Almansa,
+                <emph>Advertencias</emph>, p. 134).</p>
+            <p>Y querría preguntarlos, si no le entienden bien, ¿por qué le enmiendan? si le
+              entienden, ¿por qué le culpan de oscuro? (Ponce, <emph>Silva</emph>, fols.
               38v-39r).</p>
           </quote>
           <p>En conclusión, las dos dedicatorias que preceden al texto y la anotación de la
@@ -2107,13 +2111,13 @@
               divino y las defensas del elitismo y el furor poético, va a ser la base que organice
               todo su discurso:</p>
             <quote>
-              <p>no, pues, será la oscuridad culpable en los poetas, imitadores en
-                ella de la escritura divina y de los filósofos graves.</p>
-              <p>Y debe considerarse que el oficio del poeta no es descubrir las cosas
-                que por sí están cubiertas con algún velo; antes, si son claras y manifiestas,
-                cifrarlas con cuanta diligencia y estudio pudiere, y encubrirlas a los ojos de la
-                ignorancia porque la demasiada familiaridad no las deslustre; antes sean, por su
-                dificultad, más dignas de memoria y reverencia (Ponce, <emph>Discurso</emph>, fols.
+              <p>no, pues, será la oscuridad culpable en los poetas, imitadores en ella de la
+                escritura divina y de los filósofos graves.</p>
+              <p>Y debe considerarse que el oficio del poeta no es descubrir las cosas que por sí
+                están cubiertas con algún velo; antes, si son claras y manifiestas, cifrarlas con
+                cuanta diligencia y estudio pudiere, y encubrirlas a los ojos de la ignorancia
+                porque la demasiada familiaridad no las deslustre; antes sean, por su dificultad,
+                más dignas de memoria y reverencia (Ponce, <emph>Discurso</emph>, fols.
                 89r-89v).</p>
             </quote>
             <p>Este punto de vista es el que se encuentra en tratados de la antigüedad como <emph>De
@@ -2164,21 +2168,21 @@
                 1998a, pp. 263-264; López Bueno, 2012a, pp. 22-23 y 2018, p. 128, n.
               249.</note>:</p>
             <quote>
-              <p>Y san Jerónimo en el prólogo de Job, dando la definición de poesía,
-                dijo que venía de poetes, nombre griego que quiere decir locuciones exquisitas. Y si
-                alguna persona con justa causa puede ampliar la lengua es el Sr. Don Luis, que es el
-                dueño de ella, porque los valientes atrevimientos se conceden a los valientes
-                ingenios (Almansa, <emph>Advertencias</emph>, pp. 126-129)</p>
-              <p>Demás, que honrra me ha causado hazerme obscuro a los ignorantes, que
-                essa es la distinción de los hombres doctos, hablar de manera que a ellos les
-                parezca griego; pues no se han de dar las perlas preciosas a animales de cerda. Y
-                bien dize griego, locución exquisita que viene de <emph>poeses</emph>, verbo de
-                aquella lengua madre de las ciencias, como Andrés de Mendoça trata tan corta como
-                agudamente en el segundo punto de sus corolarios, que así los llama
-                  v<emph>uesa</emph> m<emph>erced</emph> (<emph>Respuesta de Don Luis de
-                  Góngora</emph>, pp. 257-258) <note place="bottom">Cito por la edición de A.
-                  Carreira, 1998a, pp. 239-280. Ver también el texto y sus variantes en la edición
-                  de J. M. Daza, 2011, pp. 271-288.</note></p>
+              <p>Y san Jerónimo en el prólogo de Job, dando la definición de poesía, dijo que venía
+                de poetes, nombre griego que quiere decir locuciones exquisitas. Y si alguna persona
+                con justa causa puede ampliar la lengua es el Sr. Don Luis, que es el dueño de ella,
+                porque los valientes atrevimientos se conceden a los valientes ingenios (Almansa,
+                  <emph>Advertencias</emph>, pp. 126-129)</p>
+              <p>Demás, que honrra me ha causado hazerme obscuro a los ignorantes, que essa es la
+                distinción de los hombres doctos, hablar de manera que a ellos les parezca griego;
+                pues no se han de dar las perlas preciosas a animales de cerda. Y bien dize griego,
+                locución exquisita que viene de <emph>poeses</emph>, verbo de aquella lengua madre
+                de las ciencias, como Andrés de Mendoça trata tan corta como agudamente en el
+                segundo punto de sus corolarios, que así los llama v<emph>uesa</emph>
+                  m<emph>erced</emph> (<emph>Respuesta de Don Luis de Góngora</emph>, pp. 257-258)
+                  <note place="bottom">Cito por la edición de A. Carreira, 1998a, pp. 239-280. Ver
+                  también el texto y sus variantes en la edición de J. M. Daza, 2011, pp.
+                  271-288.</note></p>
             </quote>
             <p>A este asunto se refiere también la <emph>Plaza universal de todas las
                 ciencias</emph> de Cristóbal Suárez de Figueroa<note place="bottom">Así lo indicó
@@ -2190,19 +2194,19 @@
               Suárez de Figueroa sigue de cerca su fuente italiana, la <emph>Piazza
                 universale</emph> de Tomaso Garzoni (1549-1589):</p>
             <quote>
-              <p>El Poeta se deriva no de <emph>Pico</emph>, como dice el Bocacio que
-                significa <emph>Formo</emph> o <emph>Fingo</emph>, sino de <emph>Poetes</emph>
-                antiquísimo vocablo griego, que suena en latín <emph>Exquisita locutio</emph>,
-                porque es propio del poeta hablar exquisita y raramente (Cristóbal Suárez de
-                Figueroa, <emph>Plaza universal de todas las ciencias</emph>, Madrid, Luis Sánchez,
-                1615, discurso CV: «De los Poetas y Humanistas», fols. 353v-354r)</p>
-              <p>Hora il Poeta nostro per dar principio alle sue lodi, ha il nome
-                derivante, non da Pico (como dice il Boccacio nella Genealogia de' Dei) che
-                significa, Formo, vel Fingo; ma de Poetes antichissimo vocabolo Greco, il qual sona
-                latinamente esquisita locutione, perche é proprio del Poeta parlar isquisitamente, e
-                raramente (Tomaso Garzoni, <emph>La piazza universale di tutte le profesioni del
-                  mondo</emph>, Venecia, 1585; Discorso 154, "De' Poeti in generali"; cito por la
-                edición de Venecia, 1605, p. 920)</p>
+              <p>El Poeta se deriva no de <emph>Pico</emph>, como dice el Bocacio que significa
+                  <emph>Formo</emph> o <emph>Fingo</emph>, sino de <emph>Poetes</emph> antiquísimo
+                vocablo griego, que suena en latín <emph>Exquisita locutio</emph>, porque es propio
+                del poeta hablar exquisita y raramente (Cristóbal Suárez de Figueroa, <emph>Plaza
+                  universal de todas las ciencias</emph>, Madrid, Luis Sánchez, 1615, discurso CV:
+                «De los Poetas y Humanistas», fols. 353v-354r)</p>
+              <p>Hora il Poeta nostro per dar principio alle sue lodi, ha il nome derivante, non da
+                Pico (como dice il Boccacio nella Genealogia de' Dei) che significa, Formo, vel
+                Fingo; ma de Poetes antichissimo vocabolo Greco, il qual sona latinamente esquisita
+                locutione, perche é proprio del Poeta parlar isquisitamente, e raramente (Tomaso
+                Garzoni, <emph>La piazza universale di tutte le profesioni del mondo</emph>,
+                Venecia, 1585; Discorso 154, "De' Poeti in generali"; cito por la edición de
+                Venecia, 1605, p. 920)</p>
             </quote>
             <p>Al explicar el origen del término <emph>poesía</emph>, Boccaccio tuvo como fuente a
               Petrarca (<emph>Familiares</emph> 10, 4, 4), como ya señalaron, entre otros, Giuseppe
@@ -2250,13 +2254,13 @@
               incluida en el apartado de fuentes, y sobre la que ofrezco más detalles en las notas
               al texto:</p>
             <quote>
-              <p>(fols. 96v-98r) antiguos: Plauto, Petronio, Séneca, Estacio, Juvenal,
-                Persio, Marcial, Catulo, Tibulo, <emph>Geórgicas</emph> de Virgilio (que Ponce
-                conoce bien por su<emph> Apología</emph>), Ausonio Gallo.</p>
-            <p>(fols. 98r-100r) vulgares italianos: Dante, Petrarca, Girolamo Benivieni.</p>
-              <p>(fols. 100r-100v) vulgares españoles: Mena, Herrera y Diego de
-                Mendoza. Precisa aquí que los dos últimos no fueron tan oscuros como Góngora, que
-                superó de este modo a sus predecesores.</p>
+              <p>(fols. 96v-98r) antiguos: Plauto, Petronio, Séneca, Estacio, Juvenal, Persio,
+                Marcial, Catulo, Tibulo, <emph>Geórgicas</emph> de Virgilio (que Ponce conoce bien
+                por su<emph> Apología</emph>), Ausonio Gallo.</p>
+              <p>(fols. 98r-100r) vulgares italianos: Dante, Petrarca, Girolamo Benivieni.</p>
+              <p>(fols. 100r-100v) vulgares españoles: Mena, Herrera y Diego de Mendoza. Precisa
+                aquí que los dos últimos no fueron tan oscuros como Góngora, que superó de este modo
+                a sus predecesores.</p>
             </quote>
           </div>
           <div subtype="level3">
@@ -2301,11 +2305,10 @@
                 cambio del acento (1, 5, 28), o la concordancia entre partes de la oración (1, 5,
                 52). Ver también Lausberg, 1966, §§ 470-471.</note>:</p>
             <quote>
-              <p>Barbarismus est una pars orationis vitiosa in communi sermone. In
-                poemate metaplasmus <lb/>(Donatus, <emph>Ars Grammatica</emph> 3, 1,
-                1, p. 25)</p>
-              <p>Soloecismus in prosa oratione, in poemate schema nominator
-                <lb/>(Donatus, <emph>Ars Grammatica</emph> 3, 2, 3, p. 28)</p>
+              <p>Barbarismus est una pars orationis vitiosa in communi sermone. In poemate
+                metaplasmus <lb/>(Donatus, <emph>Ars Grammatica</emph> 3, 1, 1, p. 25)</p>
+              <p>Soloecismus in prosa oratione, in poemate schema nominator <lb/>(Donatus, <emph>Ars
+                  Grammatica</emph> 3, 2, 3, p. 28)</p>
             </quote>
             <p>La distinción entre vicio del lenguaje y licencia poética se sustenta así en la
               especial jerarquía del lenguaje de los poetas, que debe distinguirse del usado por
@@ -2347,20 +2350,19 @@
               de vocablos evitan la elocución vulgar y contribuyen a su excelencia
                 (<emph>Poética</emph> 1458b1-5):</p>
             <quote>
-              <p>Verum si quis simul omnia huiuscemodi fecerit, vel aenigma erit, vel
-                barbarismus, si quidem igitur e translationibus, aenigma, si autem e linguis, et
-                barbarismus (Ponce, <emph>Silva</emph> fol. 35r-35v) («porque si uno lo compone todo
-                de este modo, habrá enigma o barbarismo; si a base de metáforas, enigma; si de
-                palabras extrañas, barbarismo", Aristóteles, <emph>Poética</emph>, 1458a23-25)</p>
-              <p>Non populare quidem igitur faciet, et alia dicte formae: propium
-                autem claritudinem. Non minimam autem partem conferunt, ut locutio aperta sit, et
-                non popularis, productiones et ablationes et immutationes nominum. Quia enim hoc
-                aliter se habet quam propium, cum factam sit contra id quod consuetum, reddet in
-                oratione non bulgare genus (Ponce, <emph>Discurso</emph>, f. 93v) («También
-                contribuyen mucho a la claridad de la elocución y a evitar su vulgaridad los
-                alargamientos, apócopes y alteraciones de vocablos; pues por no ser como el usual,
-                apartándose de lo corriente, evitará la vulgaridad», Aristóteles,<emph>
-                  Poética</emph> 1458b1-4)</p>
+              <p>Verum si quis simul omnia huiuscemodi fecerit, vel aenigma erit, vel barbarismus,
+                si quidem igitur e translationibus, aenigma, si autem e linguis, et barbarismus
+                (Ponce, <emph>Silva</emph> fol. 35r-35v) («porque si uno lo compone todo de este
+                modo, habrá enigma o barbarismo; si a base de metáforas, enigma; si de palabras
+                extrañas, barbarismo", Aristóteles, <emph>Poética</emph>, 1458a23-25)</p>
+              <p>Non populare quidem igitur faciet, et alia dicte formae: propium autem
+                claritudinem. Non minimam autem partem conferunt, ut locutio aperta sit, et non
+                popularis, productiones et ablationes et immutationes nominum. Quia enim hoc aliter
+                se habet quam propium, cum factam sit contra id quod consuetum, reddet in oratione
+                non bulgare genus (Ponce, <emph>Discurso</emph>, f. 93v) («También contribuyen mucho
+                a la claridad de la elocución y a evitar su vulgaridad los alargamientos, apócopes y
+                alteraciones de vocablos; pues por no ser como el usual, apartándose de lo
+                corriente, evitará la vulgaridad», Aristóteles,<emph> Poética</emph> 1458b1-4)</p>
             </quote>
             <p>Más adelante, Ponce retoma la cuestión de la «licencia del poeta para inventar nuevas
               voces y frases ampliando su natural idioma» (fols. 101r-107v). Esta parte del
@@ -2390,13 +2392,13 @@
                 infinitas; y no solo las voces, sino los modos de decir; como vemos en los poetas
                 latinos, que, a cada paso, ponen los infinitivos por los gerundios como los griegos,
                 que carecen de ellos (Ponce, <emph>Discurso</emph> fol. 105r)</p>
-              <p>Cicerón nos muestra claro que las boçes se hacen nuebas en vna
-                epístola a Bruto: «Eum amorem et eum, ut hoc verbo vtar favorem inconsilium advoco»,
-                donde se be que en su tiempo <emph>fabor</emph> hera palabra nueba y las boçes
-                griegas que están yntroducidas en la latinidad son casi ynfinitas, y no solo las
-                boçes, sino los modos de decir, como bemos en los poetas latinos, que a cada paso
-                ponen los ymfinitibos por los xerundios, como los griegos, que carecen dellos
-                  (<emph>Epístola a Villamediana</emph>, p. 421)</p>
+              <p>Cicerón nos muestra claro que las boçes se hacen nuebas en vna epístola a Bruto:
+                «Eum amorem et eum, ut hoc verbo vtar favorem inconsilium advoco», donde se be que
+                en su tiempo <emph>fabor</emph> hera palabra nueba y las boçes griegas que están
+                yntroducidas en la latinidad son casi ynfinitas, y no solo las boçes, sino los modos
+                de decir, como bemos en los poetas latinos, que a cada paso ponen los ymfinitibos
+                por los xerundios, como los griegos, que carecen dellos (<emph>Epístola a
+                  Villamediana</emph>, p. 421)</p>
             </quote>
             <p>Esta sección del <emph>Discurso</emph> se organiza sobre la cita, traducción y glosa
               de los versos 46-59 del <emph>Ars Poetica</emph> de Horacio, donde se autoriza con
@@ -2490,9 +2492,9 @@
             creación poética, como muestra con claridad su <emph>Discurso</emph> en defensa de la
             oscuridad en el estilo del poeta, la segunda de las dos grandes secciones de su
             comentario. Además, en torno a 1617 volvería a defender a un autor de estirpe gongorina,
-            Villamediana, y centraría su epístola a él dirigida en la defensa del uso de voces nuevas
-            y extrañas por parte del poeta, cuestión que también destacó en su comentario de la
-              <emph>Soledad primera</emph>.</p>
+            Villamediana, y centraría su epístola a él dirigida en la defensa del uso de voces
+            nuevas y extrañas por parte del poeta, cuestión que también destacó en su comentario de
+            la <emph>Soledad primera</emph>.</p>
           <p>A esta comunidad de opiniones debe añadirse otra razón que pudo haber movido a Ponce:
             la importancia y notoriedad que le otorgaría comentar a un escritor de la fama de
             Góngora, cuya complejidad verbal y riqueza de contenidos permitían al comentarista
@@ -4940,10 +4942,9 @@
               joven mantenía</p>
             <p rend="lmarg2"><space rend="tab"> </space><space rend="tab"> </space>la vista de
               hermosura, y el oído</p>
-            <p><space rend="tab"> </space><space rend="tab"> </space>de
-                métrica,armonía.<space rend="tab"> </space><space rend="tab"> </space><space
+            <p><space rend="tab"> </space><space rend="tab"> </space>de métrica,armonía.<space
                 rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space><space
-                rend="tab"> </space>270</p>
+                rend="tab"> </space><space rend="tab"> </space><space rend="tab"> </space>270</p>
             <p rend="lmarg2">32. <space rend="tab"> </space><space rend="tab"> </space>El sileno
               buscaba</p>
             <p rend="lmarg2"><space rend="tab"> </space><space rend="tab"> </space>de aquellas que
