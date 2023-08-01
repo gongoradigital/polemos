@@ -340,7 +340,7 @@
               aparecido otro en la Biblioteca Provincial de Córdoba, signatura 8/127, reproducido en
               la Biblioteca Virtual de Andalucía: <ref
                 target="https://www.bibliotecavirtualdeandalucia.es/catalogo/es/consulta/registro.cmd?id=1000159"
-                >https://www.bibliotecavirtualdeandalucia.es/catalogo/es/consulta/registro.cmd?id=1000159</ref>.Además
+                >https://www.bibliotecavirtualdeandalucia.es/catalogo/es/consulta/registro.cmd?id=1000159</ref>. Además
               de carecer de nombre de impresor y año, el impreso tiene otras marcas de
               clandestinidad; no hay fecha alguna, ni aprobaciones, ni tasa, ni elogios liminares de
               nadie, salvo un epigrama latino de A.K. Olmetanus, o sea del mismo Andrés Cuesta.
@@ -2058,7 +2058,7 @@
                 Baptista Varesius, 1627.</bibl>
               <bibl xml:lang="it">—, <title>Ortografia kastellana</title>, Salamanca, Xazinto
                 Tabernier, 1630.</bibl>
-              <p rend="noindent" xml:lang="it">Díaz Rengifo, Juan:</p>
+              <p rend="noindent" xml:lang="it"><hi rend="sc">Díaz Rengifo, Juan:</p>
               <bibl xml:lang="it">—, <title>Arte poética española</title>, Madrid, Juan de la
                 Cuesta, 1606.</bibl>
               <p rend="noindent" xml:lang="it"><hi rend="sc">Erasmo</hi>, Desiderio:</p>
@@ -2339,10 +2339,10 @@
               <bibl xml:lang="it">—, <title>Historia pragmática e interna de la Universidad de
                   Salamanca, II: Maestros y alumnos más distinguidos</title>, Salamanca, Francisco
                 Núñez Izquierdo, 1917.</bibl>
-              <p rend="noindent" xml:lang="it"><hi rend="sc">Espinel</hi>, Vicente:</p>
+              <p rend="noindent"><hi rend="sc">Espinel</hi>, Vicente:</p>
               <p rend="hanging">—, <emph>Vida de Marcos de Obregón</emph>, ed. Samuel Gili Gaya,
                 Madrid, Espasa Calpe, 1969-1970, 2 vols.</p>
-              <bibl xml:lang="it">Fernández de Córdoba, Francisco:</bibl>
+              <p rend="noindent"><hi rend="sc">Fernández de Córdoba, Francisco:</p>
               <bibl xml:lang="it">—, <title>Examen del “Antídoto” o Apología por las “Soledades” de
                   don Luis de Góngora contra el autor del “Antídoto”</title>, ed. Matteo Mancinelli,
                 París, Sorbonne_Université LABEX OBVIL, 2019.</bibl>
@@ -2708,7 +2708,8 @@
       </div>
       <div subtype="level1">
         <head>Texto de la edición</head>
-        <p rend="center"><pb n="f. 409r"/> Censura a las <title>Lecciones solemnes</title> de
+        <div subtype="level2">
+        <head><pb n="f. 409r"/> Censura a las <title>Lecciones solemnes</title> de
           Pellicer</p>
         <p>Primero, cuánto se paga vuestra merced del ruido que en sus oídos hacen las palabras más
           que del sentido que en su juicio y mente deben hacer los conceptos, lo muestra
@@ -4859,6 +4860,7 @@
         <p>Columna 302<note place="bottom">En el comentario a <emph>Polifemo</emph>, OC255.385-386:
             «Pastor soy, mas tan rico de ganados, / que los valles impido más vacíos».</note>. Dice
           vuestra merced que don Luis imitó a <name type="authority">Eurí [pides]</name> ...</p>
+      </div>
       </div>
     </body>
   </text>
