@@ -3,28 +3,6 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2022-02-23T20:20:38+01:00-->
 <TEI xml:lang="es" xmlns="http://www.tei-c.org/ns/1.0" n="1660_varones-ilustres"><note place="bottom">Góngora mantuvo amistad con el
-                obispo de Córdoba, Diego de Mardones, que accedió al cargo el 26 de marzo de 1607
-                (Artigas 1925: 97) y al que dedicó composiciones como el soneto que comienza «Un
-                culto risco en venas hoy suaves» [OC285] de 1615. Según Amelia de Paz (2012: 40)
-                Mardones fue «el prelado con quien más estrecha amistad sostuvo Góngora», así como
-                su mentor. También Ramírez de Arellano (1921: 236) y Artigas (1925: 199, nota 2)
-                glosan esta relación de amistad, apoyándose precisamente en este soneto. Los cuatro
-                versos (heptasílabos y pentasílabos), que forman una seguidilla, son presentados por
-                Vaca de Alfaro como resultado de una improvisación fulgurante («dijo de repente») y
-                constituyen una descripción pormenorizada del escudo de fray Diego de Mardones: en
-                un campo cuartelado se ven «1. Cinco haces en sotuer [las flechas]. 2. Un león
-                rampante con una flor de lis. 3. Trece estrellas ordenadas en filas de cuatro, más
-                una. 4. Una rueda». (Jordano Barbudo 2010). La misma estudiosa explica que Diego de
-                Mardones hizo gala de su blasón, «como ningún otro representante de la jerarquía
-                cordobesa. […] Su espléndida contribución económica a las obras y ornamentos de la
-                capilla mayor de la catedral y sus continuas y abultadas dádivas debieron granjearle
-                el favor del cabildo que permitió a Mardones, como única y exclusiva potestad, el
-                construir su sepultura en el altar mayor». Ahí está el mar de dones aludido en la
-                seguidilla. El mismo retruécano entre «Mardones» y «dones» sería desarrollado
-                posteriormente en el terceto final de un soneto de 1615: «Si armonïoso leño silva
-                mucha / atraer pudo, vocal Risco atraya / <emph>un Mar, dones</emph> hoy todo a sus
-                arenas».</note>
-        <head>Introducción</head>
   <teiHeader>
     <fileDesc>
       <titleStmt>
