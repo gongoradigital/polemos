@@ -48,9 +48,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <p>L’édition comporte trois niveaux de notes. note[@place="bottom"] : notes d’éditeur (décimal
-        par défaut) note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
-        note[@type="app" rend="I"] : notes d’apparat (I = romain) </p>
+      <div subtype="level1">
     </encodingDesc>
     <profileDesc>
       <creation>
@@ -63,7 +61,6 @@
   </teiHeader>
   <text>
     <!--
-        <div subtype="level1">
         <head>Datos bibliográficos</head>
         <table rend="left">
           <spanGrp type="colgroup">
@@ -1559,7 +1556,7 @@
               don Josef Pellicer de Ossau y de Salas y Tovar.</p>
             <p>Veamos un segundo ejemplo, no menos interesante. Comenta Cuesta con sarcasmo la frase
               de Pellicer, «Véase el soldado veinticuatro de los cincuenta de don Lorenzo
-              Ramírez»<note place="bottom">Se refiere a la obra titulada <emph>Πεντηkóνταρχος sive
+              Ramírez»<note place="bottom">Se refiere a la obra titulada <emph>Πεντηκόνταρχος sive
                   quinquaginta militum ductor D. Laurentii Ramirez de Prado stipendiis
                   conductus</emph> (Amberes: Juan Keerberg, 1612), publicada fuera de España por las
                 razones tristes que comenta Gil (1981: 623-624). El propio título del libro nos deja
@@ -1576,13 +1573,13 @@
                 con diestra autoridad a través de una cincuentena de cuestiones peregrinas,
                 relacionadas en su mayoría con los textos griegos sagrados… (Mañas 2007; 382-383).
               </note>. El autor de las <emph>Lecciones solemnes</emph> llama soldado a un capítulo
-              de la obra de Ramírez de Prado porque esta se titula <emph>Πεντηkóνταρχος sive
+              de la obra de Ramírez de Prado porque esta se titula <emph>Πεντηκόνταρχος sive
                 quinquaginta militum ductor, ‘Pentecontarco o capitán de cincuenta</emph> soldados’
               y está dividida en cincuenta capítulos, metafóricamente soldados<note place="bottom">A
                 decir verdad, la pedantería que Cuesta achaca a Pellicer pudo reprocharse ya al
                 mismo Ramírez de Prado. Hay un pasaje del <emph>Fray Gerundio de Campazas</emph>,
                 que nos señala Pedro Conde, donde el padre Isla se burla del título
-                <emph>Πεντηkóνταρχος</emph> y del libro en estos términos: «Para él, no había cosa
+                <emph>Πεντηκόνταρχος</emph> y del libro en estos términos: «Para él, no había cosa
                 como un libro que tuviese título sonoro, pomposo y altisonante, y más si era
                 alegórico y estaba en él bien seguida la alegoría. Por eso hacía una suprema
                 estimación de aquella famosa obra intitulada <emph>Pentacortarchos, sive
@@ -2003,7 +2000,7 @@
             <p rend="noindent" xml:lang="it"><hi rend="sc">Rojas</hi>, Fernando de:</p>
             <bibl xml:lang="it">—, <title>La Celestina</title>.</bibl>
             <p rend="noindent" xml:lang="it"><hi rend="sc">Ramírez de Prado</hi>, Lorenzo:</p>
-            <bibl xml:lang="it">—, <title>Πεντηkóνταρχος sive quinquaginta militum ductor D.
+            <bibl xml:lang="it">—, <title>Πεντηκόνταρχος sive quinquaginta militum ductor D.
                 Laurentii Ramirez de Prado stipendiis conductus</title>, Amberes, Juan Keerberg,
               1612.</bibl>
             <p rend="noindent" xml:lang="it"><hi rend="sc">Teócrito</hi>:</p>
@@ -4153,7 +4150,7 @@
           soldado veinticuatro de los cincuenta de don Lorenzo Ramírez»<note place="bottom">Sobre el
             famoso erudito don Lorenzo Ramírez de Prado, de vasta biblioteca y variada actividad,
               <emph>vid</emph>. Entrambasaguas (1943b). Pellicer se refiere, efectivamente a la obra
-            titulada <emph>Πεντηkóνταρχος sive quinquaginta militum ductor D. Laurentii Ramirez de
+            titulada <emph>∏εντηκόνταρχος sive quinquaginta militum ductor D. Laurentii Ramirez de
               Prado stipendiis conductus</emph> (Amberes: Juan Keerberg, 1612), publicada fuera de
             España por las razones tristes que comenta Gil (1981: 623-624). El propio título del
             libro nos deja entrever lo que podemos encontrar en sus trescientas cincuenta y siete
