@@ -48,7 +48,9 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <div subtype="level1">
+      <p>L’édition comporte trois niveaux de notes. note[@place="bottom"] : notes d’éditeur (décima
+        par défaut) note[@place="margin"] : notes marginales de l’auteur (pas de numérotation)
+        note[@type="app" rend="I"] : notes d’apparat (I = romain) </p>
     </encodingDesc>
     <profileDesc>
       <creation>
@@ -2055,7 +2057,7 @@
                 Baptista Varesius, 1627.</bibl>
               <bibl xml:lang="it">—, <title>Ortografia kastellana</title>, Salamanca, Xazinto
                 Tabernier, 1630.</bibl>
-              <p rend="noindent" xml:lang="it"><hi rend="sc">Díaz Rengifo, Juan:</p>
+              <p rend="noindent" xml:lang="it"><hi rend="sc">Díaz Rengifo</hi>, Juan:</p>
               <bibl xml:lang="it">—, <title>Arte poética española</title>, Madrid, Juan de la
                 Cuesta, 1606.</bibl>
               <p rend="noindent" xml:lang="it"><hi rend="sc">Erasmo</hi>, Desiderio:</p>
@@ -2339,7 +2341,7 @@
               <p rend="noindent"><hi rend="sc">Espinel</hi>, Vicente:</p>
               <p rend="hanging">—, <emph>Vida de Marcos de Obregón</emph>, ed. Samuel Gili Gaya,
                 Madrid, Espasa Calpe, 1969-1970, 2 vols.</p>
-              <p rend="noindent"><hi rend="sc">Fernández de Córdoba, Francisco:</p>
+              <p rend="noindent"><hi rend="sc">Fernández de Córdoba</hi>, Francisco:</p>
               <bibl xml:lang="it">—, <title>Examen del “Antídoto” o Apología por las “Soledades” de
                   don Luis de Góngora contra el autor del “Antídoto”</title>, ed. Matteo Mancinelli,
                 París, Sorbonne_Université LABEX OBVIL, 2019.</bibl>
@@ -2706,8 +2708,8 @@
       <div subtype="level1">
         <head>Texto de la edición</head>
         <div subtype="level2">
-        <head><pb n="f. 409r"/> Censura a las <title>Lecciones solemnes</title> de
-          Pellicer</head>
+        <head>Censura a las <title>Lecciones solemnes</title> de
+          Pellicer<pb n="f. 409r"/></head>
         <p>Primero, cuánto se paga vuestra merced del ruido que en sus oídos hacen las palabras más
           que del sentido que en su juicio y mente deben hacer los conceptos, lo muestra
           bastantemente el título de la misma obra<note place="bottom">Comienza aquí la primera
